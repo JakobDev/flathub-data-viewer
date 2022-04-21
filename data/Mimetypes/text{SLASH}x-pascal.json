@@ -1,0 +1,7 @@
+[
+    "io.neovim.nvim",
+    "org.cubocore.CorePad",
+    "org.geany.Geany",
+    "org.gnu.emacs",
+    "org.vim.Vim"
+]

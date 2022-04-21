@@ -1,0 +1,8 @@
+[
+    "org.gimp.GIMP",
+    "org.glimpse_editor.Glimpse",
+    "org.kde.gwenview",
+    "org.kde.koko",
+    "org.kde.pix",
+    "org.libvips.vipsdisp"
+]

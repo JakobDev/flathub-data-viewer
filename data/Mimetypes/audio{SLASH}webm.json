@@ -1,0 +1,14 @@
+[
+    "com.github.rafostar.Clapper",
+    "io.github.celluloid_player.Celluloid",
+    "io.github.swanux.hbud",
+    "io.mpv.Mpv",
+    "net.baseart.Glide",
+    "net.mediaarea.MediaConch",
+    "net.mediaarea.MediaInfo",
+    "org.bunkus.mkvtoolnix-gui",
+    "org.cubocore.CoreInfo",
+    "org.kde.haruna",
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC"
+]

@@ -1,0 +1,22 @@
+[
+    "com.brave.Browser",
+    "com.github.Eloston.UngoogledChromium",
+    "com.github.maoschanz.DynamicWallpaperEditor",
+    "com.google.Chrome",
+    "com.google.ChromeDev",
+    "io.atom.Atom",
+    "io.github.martinrotter.textosaurus",
+    "io.gitlab.librewolf-community",
+    "io.wavebox.Wavebox",
+    "ml.prevete.Daty",
+    "nl.openoffice.bluefish",
+    "org.chromium.Chromium",
+    "org.gabmus.gfeeds",
+    "org.gabmus.whatip",
+    "org.gnome.Builder",
+    "org.gnome.Eolie",
+    "org.hydrogenmusic.Hydrogen",
+    "org.mozilla.firefox",
+    "org.netsurf_browser.NetSurf",
+    "org.qutebrowser.qutebrowser"
+]

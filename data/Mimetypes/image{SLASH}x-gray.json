@@ -1,0 +1,11 @@
+[
+    "com.endlessm.photos",
+    "com.github.PintaProject.Pinta",
+    "com.github.jeromerobert.pdfarranger",
+    "com.github.weclaw1.ImageRoll",
+    "io.photoflare.photoflare",
+    "org.cubocore.CoreImage",
+    "org.cubocore.CorePaint",
+    "org.gnome.eog",
+    "org.gnome.gitlab.YaLTeR.Identity"
+]

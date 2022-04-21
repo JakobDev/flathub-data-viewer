@@ -1,0 +1,20 @@
+[
+    "com.github.PintaProject.Pinta",
+    "com.github.libresprite.LibreSprite",
+    "com.interversehq.qView",
+    "com.xnview.XnConvert",
+    "com.xnview.XnRetro",
+    "com.xnview.XnSketch",
+    "com.xnview.XnViewMP",
+    "io.photoflare.photoflare",
+    "org.flozz.yoga-image-optimizer",
+    "org.geeqie.Geeqie",
+    "org.gimp.GIMP",
+    "org.glimpse_editor.Glimpse",
+    "org.gnome.gThumb",
+    "org.kde.gwenview",
+    "org.kde.kolourpaint",
+    "org.kde.okular",
+    "org.photoqt.PhotoQt",
+    "work.openpaper.Paperwork"
+]

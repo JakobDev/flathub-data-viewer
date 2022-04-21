@@ -1,0 +1,18 @@
+{
+    "42": [
+        "com.github.corna.Vivado",
+        "org.codeblocks.codeblocks",
+        "org.gnome.Builder",
+        "org.gnome.Devhelp"
+    ],
+    "40": [
+        "com.github.mikacousin.olc"
+    ],
+    "3.38": [
+        "com.github.themix_project.Oomox",
+        "org.scintilla.SciTE"
+    ],
+    "41": [
+        "org.libvips.vipsdisp"
+    ]
+}

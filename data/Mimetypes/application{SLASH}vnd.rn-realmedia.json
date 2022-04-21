@@ -1,0 +1,17 @@
+[
+    "com.github.artemanufrij.playmyvideos",
+    "com.github.rafostar.Clapper",
+    "io.github.celluloid_player.Celluloid",
+    "io.github.swanux.hbud",
+    "io.mpv.Mpv",
+    "net.baseart.Glide",
+    "net.mediaarea.MediaConch",
+    "net.mediaarea.MediaInfo",
+    "org.cubocore.CoreInfo",
+    "org.gnome.Totem",
+    "org.kde.haruna",
+    "org.kde.vvave",
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC",
+    "ru.sview.sView"
+]

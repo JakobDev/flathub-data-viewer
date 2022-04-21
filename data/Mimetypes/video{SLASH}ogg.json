@@ -1,0 +1,18 @@
+[
+    "com.github.rafostar.Clapper",
+    "fr.handbrake.ghb",
+    "io.github.celluloid_player.Celluloid",
+    "io.github.quodlibet.QuodLibet",
+    "io.github.swanux.hbud",
+    "io.mpv.Mpv",
+    "net.baseart.Glide",
+    "org.gnome.Totem",
+    "org.gnome.frogr",
+    "org.gnome.gitlab.YaLTeR.Identity",
+    "org.gnome.gitlab.YaLTeR.VideoTrimmer",
+    "org.kde.haruna",
+    "org.kde.koko",
+    "org.shotcut.Shotcut",
+    "org.sigxcpu.Livi",
+    "org.videolan.VLC"
+]

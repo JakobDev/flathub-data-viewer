@@ -1,0 +1,23 @@
+[
+    "com.github.PopoutApps.popout3d",
+    "com.github.jmlich.geotagging",
+    "com.github.robertsanseries.ciano",
+    "com.github.vikdevelop.photopea_app",
+    "com.interversehq.qView",
+    "com.rawtherapee.RawTherapee",
+    "com.xnview.XnConvert",
+    "com.xnview.XnRetro",
+    "com.xnview.XnSketch",
+    "com.xnview.XnViewMP",
+    "net.sourceforge.qtpfsgui.LuminanceHDR",
+    "org.darktable.Darktable",
+    "org.entangle_photo.Manager",
+    "org.filmulator.Filmulator",
+    "org.gnome.Photos",
+    "org.gnome.Shotwell",
+    "org.gnome.gThumb",
+    "org.kde.digikam",
+    "org.kde.gwenview",
+    "org.kde.kgeotag",
+    "org.kde.kphotoalbum"
+]

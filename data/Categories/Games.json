@@ -1,0 +1,12 @@
+[
+    "app.xemu.xemu",
+    "com.claudiocambra.brickbuster",
+    "io.sourceforge.clonekeenplus",
+    "org.citra_emu.citra",
+    "org.duckstation.DuckStation",
+    "org.flycast.Flycast",
+    "org.love2d.love2d",
+    "org.pjbroad.EternallandsClient",
+    "org.tabos.twofun",
+    "org.yuzu_emu.yuzu"
+]

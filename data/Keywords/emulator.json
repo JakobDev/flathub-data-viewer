@@ -1,0 +1,14 @@
+[
+    "com.carpeludum.KegaFusion",
+    "com.github.shonumi.gbe-plus",
+    "com.retrodev.blastem",
+    "io.github.dosbox-staging",
+    "io.github.m64p.m64p",
+    "io.mgba.mGBA",
+    "net.kuribo64.melonDS",
+    "net.pcsx2.PCSX2",
+    "net.sf.VICE",
+    "org.libretro.RetroArch",
+    "org.openmsx.openMSX",
+    "org.pegasus_frontend.Pegasus"
+]

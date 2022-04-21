@@ -1,0 +1,11 @@
+[
+    "com.github.jmlich.geotagging",
+    "de.akaflieg_freiburg.enroute",
+    "io.github.rinigus.OSMScoutServer",
+    "io.github.rinigus.PureMaps",
+    "me.leucoso.Grock",
+    "nl.sarine.gpx-viewer",
+    "org.kde.marble",
+    "org.openstreetmap.josm",
+    "org.viking.Viking"
+]

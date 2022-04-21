@@ -1,0 +1,16 @@
+[
+    "com.biglybt.BiglyBT",
+    "com.github.gabutakut.gabutdm",
+    "com.pypyrev.linuxdcpp",
+    "com.stremio.Stremio",
+    "com.transmissionbt.Transmission",
+    "de.haeckerfelix.Fragments",
+    "io.github.TransmissionRemoteGtk",
+    "io.webtorrent.WebTorrent",
+    "net.agalwood.Motrix",
+    "org.deluge_torrent.deluge",
+    "org.equeim.Tremotesf",
+    "org.kde.ktorrent",
+    "org.qbittorrent.qBittorrent",
+    "org.tribler.Tribler"
+]

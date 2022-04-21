@@ -1,0 +1,20 @@
+[
+    "com.github.alainm23.byte",
+    "com.github.artemanufrij.playmymusic",
+    "com.github.artemanufrij.playmyvideos",
+    "com.github.rafostar.Clapper",
+    "fr.handbrake.ghb",
+    "io.bassi.Amberol",
+    "io.github.celluloid_player.Celluloid",
+    "io.github.quodlibet.QuodLibet",
+    "io.github.swanux.hbud",
+    "net.baseart.Glide",
+    "net.mediaarea.MediaConch",
+    "net.mediaarea.MediaInfo",
+    "org.cubocore.CoreInfo",
+    "org.musicbrainz.Picard",
+    "org.shotcut.Shotcut",
+    "org.soundconverter.SoundConverter",
+    "org.videolan.VLC",
+    "ru.sview.sView"
+]

@@ -1,0 +1,15 @@
+[
+    "org.cubocore.CoreAction",
+    "org.cubocore.CoreArchiver",
+    "org.cubocore.CoreFM",
+    "org.cubocore.CoreHunt",
+    "org.cubocore.CoreInfo",
+    "org.cubocore.CoreKeyboard",
+    "org.cubocore.CorePDF",
+    "org.cubocore.CorePad",
+    "org.cubocore.CorePaint",
+    "org.cubocore.CoreRenamer",
+    "org.cubocore.CoreShot",
+    "org.cubocore.CoreStats",
+    "org.cubocore.CoreTime"
+]

@@ -1,0 +1,19 @@
+[
+    "com.brave.Browser",
+    "com.github.Eloston.UngoogledChromium",
+    "com.github.alexr4535.siglo",
+    "com.github.cfcurtis.pdfstitcher",
+    "com.gitlab.kendellfab.restscope",
+    "de.uni_heidelberg.zah.GaiaSky",
+    "io.github.cudatext.CudaText-Qt5",
+    "io.github.openWMail.openWMail",
+    "io.github.yairm210.unciv",
+    "io.gitlab.librewolf-community",
+    "io.mgba.mGBA",
+    "org.genivi.DLTViewer",
+    "org.libreoffice.LibreOffice",
+    "org.mozilla.Thunderbird",
+    "org.mozilla.firefox",
+    "org.opentransactions.metier",
+    "se.manyver.Manyverse"
+]

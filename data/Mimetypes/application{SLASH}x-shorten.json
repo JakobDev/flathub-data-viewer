@@ -1,0 +1,9 @@
+[
+    "io.mpv.Mpv",
+    "net.baseart.Glide",
+    "net.mediaarea.MediaConch",
+    "net.mediaarea.MediaInfo",
+    "org.cubocore.CoreInfo",
+    "org.gnome.Totem",
+    "org.kde.haruna"
+]

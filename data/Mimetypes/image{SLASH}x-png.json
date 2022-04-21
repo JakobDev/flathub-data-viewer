@@ -1,0 +1,15 @@
+[
+    "com.endlessm.photos",
+    "com.github.PintaProject.Pinta",
+    "com.github.jeromerobert.pdfarranger",
+    "com.github.weclaw1.ImageRoll",
+    "io.photoflare.photoflare",
+    "org.cubocore.CoreImage",
+    "org.cubocore.CorePaint",
+    "org.geeqie.Geeqie",
+    "org.gnome.eog",
+    "org.gnome.gThumb",
+    "org.gnome.gitlab.YaLTeR.Identity",
+    "org.gottcode.Tetzle",
+    "work.openpaper.Paperwork"
+]

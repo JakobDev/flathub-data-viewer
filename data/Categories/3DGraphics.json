@@ -1,0 +1,18 @@
+[
+    "com.github.buddhi1980.mandelbulber2",
+    "com.github.makhber.Makhber",
+    "com.prusa3d.PrusaSlicer",
+    "com.sweethome3d.Sweethome3d",
+    "com.wings3d.WINGS",
+    "de.create3000.titania",
+    "io.github.RodZill4.Material-Maker",
+    "io.github.f3d_app.f3d",
+    "io.github.tcobbs.LDView",
+    "io.github.trevorsandy.LPub3D",
+    "net.blockbench.Blockbench",
+    "net.meshlab.MeshLab",
+    "org.blender.Blender",
+    "org.leocad.LeoCAD",
+    "org.openscad.OpenSCAD",
+    "org.telesculptor.TeleSculptor"
+]

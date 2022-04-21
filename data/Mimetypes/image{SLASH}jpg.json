@@ -1,0 +1,17 @@
+[
+    "com.endlessm.photos",
+    "com.github.PintaProject.Pinta",
+    "com.github.jeromerobert.pdfarranger",
+    "com.github.weclaw1.ImageRoll",
+    "com.interversehq.qView",
+    "io.photoflare.photoflare",
+    "org.cubocore.CoreImage",
+    "org.cubocore.CorePaint",
+    "org.darktable.Darktable",
+    "org.gnome.OCRFeeder",
+    "org.gnome.eog",
+    "org.gnome.frogr",
+    "org.gnome.gitlab.YaLTeR.Identity",
+    "org.gottcode.Tetzle",
+    "work.openpaper.Paperwork"
+]

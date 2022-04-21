@@ -1,0 +1,23 @@
+[
+    "com.bitwig.BitwigStudio",
+    "com.github.Bleuzen.FFaudioConverter",
+    "com.github.muriloventuroso.givemelyrics",
+    "com.github.robertsanseries.ciano",
+    "com.ozmartians.VidCutter",
+    "com.polyphone_soundfonts.polyphone",
+    "com.poweriso.PowerISO",
+    "com.sayonara_player.Sayonara",
+    "com.vicr123.thebeat",
+    "io.github.cmus.cmus",
+    "net.mediaarea.MediaInfo",
+    "net.mediaarea.QCTools",
+    "net.sourceforge.projectM",
+    "org.gnome.EasyTAG",
+    "org.hydrogenmusic.Hydrogen",
+    "org.kde.kdenlive",
+    "org.kde.kid3",
+    "org.nongnu.gsequencer.gsequencer",
+    "org.shotcut.Shotcut",
+    "org.zrythm.Zrythm",
+    "tv.kodi.Kodi"
+]

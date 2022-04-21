@@ -1,0 +1,9 @@
+[
+    "io.atom.Atom",
+    "nl.openoffice.bluefish",
+    "org.cubocore.CorePad",
+    "org.geany.Geany",
+    "org.gnome.Builder",
+    "org.pyzo.pyzo",
+    "org.thonny.Thonny"
+]

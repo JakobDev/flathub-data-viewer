@@ -1,0 +1,10 @@
+[
+    "io.atom.Atom",
+    "io.neovim.nvim",
+    "io.qt.QtCreator",
+    "org.cubocore.CorePad",
+    "org.geany.Geany",
+    "org.gnome.Builder",
+    "org.gnu.emacs",
+    "org.vim.Vim"
+]

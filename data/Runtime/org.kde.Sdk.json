@@ -1,0 +1,15 @@
+{
+    "5.15-21.08": [
+        "com.gitlab.cutecom.cutecom",
+        "org.kde.kdevelop",
+        "org.octave.Octave"
+    ],
+    "5.15": [
+        "io.github.dman95.SASM",
+        "io.qt.QtCreator"
+    ],
+    "6.2": [
+        "io.qt.Linguist",
+        "io.qt.qdbusviewer"
+    ]
+}

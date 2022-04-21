@@ -1,0 +1,12 @@
+{
+    "description": "Shows all Apps which has a URL with the given type",
+    "data": [
+        "bugtracker",
+        "contact",
+        "donation",
+        "faq",
+        "help",
+        "homepage",
+        "translate"
+    ]
+}

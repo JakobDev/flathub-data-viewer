@@ -1,0 +1,10 @@
+[
+    "com.github.muriloventuroso.easyssh",
+    "com.github.unrud.RemoteTouchpad",
+    "com.itopia.client",
+    "com.thincast.client",
+    "org.cockpit_project.CockpitClient",
+    "org.gnome.Connections",
+    "org.kde.krdc",
+    "se.cendio.tlclient"
+]

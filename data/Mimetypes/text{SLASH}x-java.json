@@ -1,0 +1,10 @@
+[
+    "io.atom.Atom",
+    "io.neovim.nvim",
+    "nl.openoffice.bluefish",
+    "org.cubocore.CorePad",
+    "org.eclipse.Java",
+    "org.geany.Geany",
+    "org.gnu.emacs",
+    "org.vim.Vim"
+]

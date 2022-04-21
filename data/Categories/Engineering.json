@@ -1,0 +1,19 @@
+[
+    "ch.openboard.OpenBoard",
+    "com.flashforge.FlashPrint",
+    "com.github.hopsan.Hopsan",
+    "com.prusa3d.PrusaSlicer",
+    "com.sweethome3d.Sweethome3d",
+    "de.klayout.KLayout",
+    "io.github.trevorsandy.LPub3D",
+    "net.gwyddion.Gwyddion",
+    "org.eclipse.sumo",
+    "org.freecadweb.FreeCAD",
+    "org.horizon_eda.HorizonEDA",
+    "org.kicad.KiCad",
+    "org.lamport.tla.toolbox",
+    "org.librepcb.LibrePCB",
+    "org.openhantek.OpenHantek6022",
+    "org.openscad.OpenSCAD",
+    "org.qelectrotech.QElectroTech"
+]

@@ -1,0 +1,12 @@
+[
+    "com.bitwig.BitwigStudio",
+    "com.github.reduz.ChibiTracker",
+    "com.rosegardenmusic.rosegarden",
+    "io.github.muse_sequencer.Muse",
+    "org.famistudio.FamiStudio",
+    "org.mixxx.Mixxx",
+    "org.musescore.MuseScore",
+    "org.nongnu.gsequencer.gsequencer",
+    "org.rncbc.qtractor",
+    "org.zrythm.Zrythm"
+]

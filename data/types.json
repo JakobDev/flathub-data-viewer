@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Runtime",
+        "value": "Runtime"
+    },
+    {
+        "name": "SDK",
+        "value": "SDK"
+    },
+    {
+        "name": "BaseApp",
+        "value": "BaseApp"
+    },
+    {
+        "name": "Extension",
+        "value": "Extensions"
+    },
+    {
+        "name": "URL",
+        "value": "Url"
+    },
+    {
+        "name": "Categorie",
+        "value": "Categories"
+    },
+    {
+        "name": "License",
+        "value": "License"
+    },
+    {
+        "name": "OARS",
+        "value": "OARS"
+    },
+    {
+        "name": "Keyword",
+        "value": "Keywords"
+    },
+    {
+        "name": "Mimetype",
+        "value": "Mimetypes"
+    },
+    {
+        "name": "Project Group",
+        "value": "ProjectGroup"
+    }
+]

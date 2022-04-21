@@ -1,0 +1,5 @@
+[
+    "ca.parallel_launcher.ParallelLauncher",
+    "org.ryujinx.Ryujinx",
+    "ua.org.brezblock.q4wine"
+]

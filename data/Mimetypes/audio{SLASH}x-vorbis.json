@@ -1,0 +1,21 @@
+[
+    "com.github.alainm23.byte",
+    "com.github.artemanufrij.playmymusic",
+    "com.github.rafostar.Clapper",
+    "com.netease.CloudMusic",
+    "fr.handbrake.ghb",
+    "info.smplayer.SMPlayer",
+    "io.github.celluloid_player.Celluloid",
+    "io.github.swanux.hbud",
+    "io.mpv.Mpv",
+    "net.baseart.Glide",
+    "org.clementine_player.Clementine",
+    "org.gnome.Lollypop",
+    "org.gnome.Rhythmbox3",
+    "org.kde.elisa",
+    "org.kde.haruna",
+    "org.musicbrainz.Picard",
+    "org.shotcut.Shotcut",
+    "org.strawberrymusicplayer.strawberry",
+    "org.videolan.VLC"
+]

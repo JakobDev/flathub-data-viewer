@@ -1,0 +1,7 @@
+[
+    "io.atom.Atom",
+    "io.neovim.nvim",
+    "org.gnome.Builder",
+    "org.gnu.emacs",
+    "org.vim.Vim"
+]

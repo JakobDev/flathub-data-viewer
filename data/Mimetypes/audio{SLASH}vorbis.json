@@ -1,0 +1,13 @@
+[
+    "info.smplayer.SMPlayer",
+    "io.github.quodlibet.QuodLibet",
+    "io.mpv.Mpv",
+    "org.clementine_player.Clementine",
+    "org.gnome.Lollypop",
+    "org.gnome.Rhythmbox3",
+    "org.kde.elisa",
+    "org.kde.haruna",
+    "org.musicbrainz.Picard",
+    "org.strawberrymusicplayer.strawberry",
+    "org.videolan.VLC"
+]

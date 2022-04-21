@@ -1,0 +1,19 @@
+[
+    "com.github.ryonakano.konbucase",
+    "com.github.tenderowl.frog",
+    "com.notepadqq.Notepadqq",
+    "cz.zeropage.Formiko",
+    "io.brackets.Brackets",
+    "io.github.lainsce.Quilter",
+    "io.howl.Editor",
+    "io.liri.Text",
+    "io.neovim.nvim",
+    "io.posidon.Paper",
+    "org.geany.Geany",
+    "org.gnome.Tau",
+    "org.gnome.gedit",
+    "org.onlyoffice.desktopeditors",
+    "org.vim.Vim",
+    "org.xiphos.Xiphos",
+    "org.zim_wiki.Zim"
+]

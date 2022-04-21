@@ -1,0 +1,10 @@
+[
+    "io.neovim.nvim",
+    "net.xm1math.Texmaker",
+    "org.cvfosammmm.Setzer",
+    "org.gnu.emacs",
+    "org.kde.kile",
+    "org.texstudio.TeXstudio",
+    "org.tug.texworks",
+    "org.vim.Vim"
+]

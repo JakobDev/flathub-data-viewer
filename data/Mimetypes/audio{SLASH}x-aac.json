@@ -1,0 +1,14 @@
+[
+    "com.github.rafostar.Clapper",
+    "io.github.celluloid_player.Celluloid",
+    "io.github.quodlibet.QuodLibet",
+    "io.github.swanux.hbud",
+    "io.mpv.Mpv",
+    "net.baseart.Glide",
+    "org.gnome.Lollypop",
+    "org.kde.haruna",
+    "org.kde.vvave",
+    "org.musicbrainz.Picard",
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC"
+]

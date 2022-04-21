@@ -1,0 +1,18 @@
+[
+    "com.github.alexkdeveloper.somafm",
+    "com.github.childishgiant.mixer",
+    "com.github.louis77.tuner",
+    "com.github.marinm.songrec",
+    "com.github.ryonakano.reco",
+    "com.lettier.movie-monad",
+    "io.gitlab.Goodvibes",
+    "net.baseart.Glide",
+    "org.gnome.Rhythmbox3",
+    "org.gnome.SoundRecorder",
+    "org.guitarix.Guitarix",
+    "org.pulseaudio.pavucontrol",
+    "org.rncbc.qpwgraph",
+    "org.rncbc.qsynth",
+    "org.rncbc.qtractor",
+    "org.videolan.VLC"
+]

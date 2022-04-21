@@ -1,0 +1,5 @@
+[
+    "io.neovim.nvim",
+    "org.gnu.emacs",
+    "org.vim.Vim"
+]

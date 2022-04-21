@@ -1,0 +1,14 @@
+{
+    "19.08": [
+        "com.airtame.Client",
+        "io.brackets.Brackets"
+    ],
+    "20.08": [
+        "com.viber.Viber",
+        "id.sideka.App"
+    ],
+    "18.08": [
+        "io.github.betaflight.BetaflightConfigurator",
+        "io.github.openWMail.openWMail"
+    ]
+}

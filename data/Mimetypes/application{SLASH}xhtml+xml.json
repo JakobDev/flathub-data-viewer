@@ -1,0 +1,21 @@
+[
+    "com.abisource.AbiWord",
+    "com.brave.Browser",
+    "com.calibre_ebook.calibre",
+    "com.github.Eloston.UngoogledChromium",
+    "com.google.Chrome",
+    "com.google.ChromeDev",
+    "io.atom.Atom",
+    "io.gitlab.librewolf-community",
+    "io.wavebox.Wavebox",
+    "nl.openoffice.bluefish",
+    "org.chromium.Chromium",
+    "org.eclipse.Javascript",
+    "org.gnome.Eolie",
+    "org.gnome.Epiphany",
+    "org.kde.falkon",
+    "org.midori_browser.Midori",
+    "org.mozilla.firefox",
+    "org.netsurf_browser.NetSurf",
+    "org.qutebrowser.qutebrowser"
+]

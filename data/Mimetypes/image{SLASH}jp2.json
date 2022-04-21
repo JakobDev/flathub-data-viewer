@@ -1,0 +1,11 @@
+[
+    "com.github.jeromerobert.pdfarranger",
+    "org.darktable.Darktable",
+    "org.gimp.GIMP",
+    "org.glimpse_editor.Glimpse",
+    "org.kde.okular",
+    "org.libvips.vipsdisp",
+    "org.photoqt.PhotoQt",
+    "org.qgis.qgis",
+    "work.openpaper.Paperwork"
+]

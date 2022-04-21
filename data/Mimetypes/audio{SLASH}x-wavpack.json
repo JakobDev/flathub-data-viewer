@@ -1,0 +1,23 @@
+[
+    "com.github.alainm23.byte",
+    "com.github.artemanufrij.playmymusic",
+    "com.github.kalibari.audok",
+    "com.github.rafostar.Clapper",
+    "io.github.celluloid_player.Celluloid",
+    "io.github.quodlibet.QuodLibet",
+    "io.github.swanux.hbud",
+    "io.mpv.Mpv",
+    "net.baseart.Glide",
+    "net.mediaarea.MediaConch",
+    "net.mediaarea.MediaInfo",
+    "org.atheme.audacious",
+    "org.cubocore.CoreInfo",
+    "org.freac.freac",
+    "org.kde.haruna",
+    "org.kde.kid3",
+    "org.kde.vvave",
+    "org.musicbrainz.Picard",
+    "org.shotcut.Shotcut",
+    "org.strawberrymusicplayer.strawberry",
+    "org.videolan.VLC"
+]

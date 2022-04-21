@@ -1,0 +1,18 @@
+{
+    "description": "Shows all Apps with the given BaseApp",
+    "data": [
+        "com.riverbankcomputing.PyQt.BaseApp",
+        "io.atom.electron.BaseApp",
+        "io.elementary.BaseApp",
+        "io.liri.BaseApp",
+        "io.qt.qtwebengine.BaseApp",
+        "io.qt.qtwebkit.BaseApp",
+        "org.chromium.Chromium.BaseApp",
+        "org.electronjs.Electron2.BaseApp",
+        "org.godotengine.godot.BaseApp",
+        "org.mozilla.firefox.BaseApp",
+        "org.sugarlabs.BaseApp",
+        "org.videolan.VLC",
+        "org.winehq.Wine"
+    ]
+}

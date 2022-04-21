@@ -1,0 +1,13 @@
+{
+    "6.2": [
+        "com.gitlab.JakobDev.jdAppdataEdit",
+        "com.gitlab.JakobDev.jdMinecraftLauncher",
+        "com.gitlab.JakobDev.jdTextEdit",
+        "com.gitlab.jakobdev.jdnbtexplorer"
+    ],
+    "5.15-21.08": [
+        "com.sigil_ebook.Sigil",
+        "io.github.ciromattia.kcc",
+        "org.qutebrowser.qutebrowser"
+    ]
+}

@@ -1,0 +1,21 @@
+[
+    "com.github.alainm23.byte",
+    "com.github.artemanufrij.playmymusic",
+    "com.github.rafostar.Clapper",
+    "com.github.taiko2k.tauonmb",
+    "io.github.celluloid_player.Celluloid",
+    "io.github.quodlibet.QuodLibet",
+    "io.github.swanux.hbud",
+    "io.mpv.Mpv",
+    "net.baseart.Glide",
+    "net.mediaarea.MediaConch",
+    "net.mediaarea.MediaInfo",
+    "org.cubocore.CoreInfo",
+    "org.gnome.Lollypop",
+    "org.kde.haruna",
+    "org.kde.vvave",
+    "org.musicbrainz.Picard",
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC",
+    "ru.sview.sView"
+]

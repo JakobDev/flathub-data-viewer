@@ -1,0 +1,23 @@
+[
+    "com.bitwig.BitwigStudio",
+    "com.giadamusic.Giada",
+    "com.polyphone_soundfonts.polyphone",
+    "com.rosegardenmusic.rosegarden",
+    "io.github.muse_sequencer.Muse",
+    "io.lmms.LMMS",
+    "net.purrdata.PurrData",
+    "net.sourceforge.VMPK",
+    "net.sourceforge.dmidiplayer",
+    "net.sourceforge.kmetronome",
+    "net.sourceforge.kmidimon",
+    "org.famistudio.FamiStudio",
+    "org.freedesktop.dabrain34.GstPipelineStudio",
+    "org.guitarix.Guitarix",
+    "org.mixxx.Mixxx",
+    "org.musescore.MuseScore",
+    "org.pipewire.Helvum",
+    "org.rncbc.qpwgraph",
+    "org.rncbc.qsynth",
+    "org.rncbc.qtractor",
+    "org.zrythm.Zrythm"
+]

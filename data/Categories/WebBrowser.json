@@ -1,0 +1,18 @@
+[
+    "com.brave.Browser",
+    "com.github.Eloston.UngoogledChromium",
+    "com.github.micahflee.torbrowser-launcher",
+    "com.google.Chrome",
+    "com.google.ChromeDev",
+    "io.gitlab.librewolf-community",
+    "io.wavebox.Wavebox",
+    "org.chromium.Chromium",
+    "org.gnome.Eolie",
+    "org.gnome.Epiphany",
+    "org.kde.angelfish",
+    "org.kde.falkon",
+    "org.midori_browser.Midori",
+    "org.mozilla.firefox",
+    "org.qutebrowser.qutebrowser",
+    "re.sonny.Tangram"
+]

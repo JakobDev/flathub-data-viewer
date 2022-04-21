@@ -1,0 +1,23 @@
+[
+    "com.etlegacy.ETLegacy",
+    "com.springrts.SpringLobby",
+    "com.teeworlds.Teeworlds",
+    "com.zandronum.Zandronum",
+    "in.p1x.TanksOfFreedom",
+    "io.github.ezQuake",
+    "me.njean.shootingpactris",
+    "net.minetest.Minetest",
+    "net.redeclipse.RedEclipse",
+    "net.sourceforge.mars-game",
+    "net.veloren.airshipper",
+    "net.veloren.veloren",
+    "org.armagetronad.ArmagetronAdvanced",
+    "org.bzflag.BZFlag",
+    "org.dhewm3.Dhewm3",
+    "org.freeciv.Freeciv",
+    "org.manaplus.ManaPlus",
+    "org.openttd.OpenTTD",
+    "org.wesnoth.Wesnoth",
+    "org.yamagi.YamagiQ2",
+    "tw.ddnet.ddnet"
+]

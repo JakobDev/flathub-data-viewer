@@ -1,0 +1,9 @@
+{
+    "description": "Shows all Apps with the given SDK",
+    "data": [
+        "org.freedesktop.Sdk",
+        "org.gnome.Platform",
+        "org.gnome.Sdk",
+        "org.kde.Sdk"
+    ]
+}

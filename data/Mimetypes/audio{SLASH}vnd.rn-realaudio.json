@@ -1,0 +1,23 @@
+[
+    "com.github.alainm23.byte",
+    "com.github.artemanufrij.playmymusic",
+    "com.github.coslyk.MoonPlayer",
+    "com.github.rafostar.Clapper",
+    "info.smplayer.SMPlayer",
+    "io.github.celluloid_player.Celluloid",
+    "io.github.swanux.hbud",
+    "io.mpv.Mpv",
+    "net.baseart.Glide",
+    "net.mediaarea.MediaConch",
+    "net.mediaarea.MediaInfo",
+    "org.clementine_player.Clementine",
+    "org.cubocore.CoreInfo",
+    "org.gnome.Lollypop",
+    "org.kde.elisa",
+    "org.kde.haruna",
+    "org.kde.vvave",
+    "org.shotcut.Shotcut",
+    "org.strawberrymusicplayer.strawberry",
+    "org.videolan.VLC",
+    "ru.sview.sView"
+]

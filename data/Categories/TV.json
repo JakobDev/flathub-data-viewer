@@ -1,0 +1,11 @@
+[
+    "com.github.artemanufrij.playmyvideos",
+    "com.github.iwalton3.jellyfin-media-player",
+    "com.github.iwalton3.jellyfin-mpv-shim",
+    "com.github.rafostar.Clapper",
+    "com.stremio.Stremio",
+    "io.github.celluloid_player.Celluloid",
+    "io.mpv.Mpv",
+    "org.kde.haruna",
+    "tv.kodi.Kodi"
+]

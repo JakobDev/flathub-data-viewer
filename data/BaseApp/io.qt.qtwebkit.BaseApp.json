@@ -1,0 +1,25 @@
+{
+    "5.15-21.08": [
+        "ch.openboard.OpenBoard",
+        "com.github.fontmatrix.Fontmatrix",
+        "com.icanblink.blink",
+        "com.notepadqq.Notepadqq",
+        "info.smplayer.SMPlayer",
+        "org.fcitx.Fcitx5",
+        "org.freecadweb.FreeCAD",
+        "org.goldendict.GoldenDict",
+        "org.openshot.OpenShot",
+        "org.qgis.qgis",
+        "org.zealdocs.Zeal"
+    ],
+    "5.15": [
+        "com.codemouse92.timecard",
+        "com.sourcepole.kadas",
+        "io.github.cloose.CuteMarkEd",
+        "org.kde.skrooge",
+        "org.subsurface_divelog.Subsurface"
+    ],
+    "5.14": [
+        "com.ktechpit.wonderwall"
+    ]
+}

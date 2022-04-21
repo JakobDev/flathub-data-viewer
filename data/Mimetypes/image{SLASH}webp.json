@@ -1,0 +1,23 @@
+[
+    "com.boxy_svg.BoxySVG",
+    "com.brave.Browser",
+    "com.github.Eloston.UngoogledChromium",
+    "com.github.libresprite.LibreSprite",
+    "com.google.Chrome",
+    "com.google.ChromeDev",
+    "com.interversehq.qView",
+    "io.github.ImEditor",
+    "io.wavebox.Wavebox",
+    "ml.prevete.Daty",
+    "org.chromium.Chromium",
+    "org.flozz.yoga-image-optimizer",
+    "org.gimp.GIMP",
+    "org.gnome.gThumb",
+    "org.kde.gwenview",
+    "org.kde.koko",
+    "org.kde.kolourpaint",
+    "org.kde.pix",
+    "org.libvips.vipsdisp",
+    "org.photoqt.PhotoQt",
+    "work.openpaper.Paperwork"
+]

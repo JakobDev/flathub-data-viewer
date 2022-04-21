@@ -1,0 +1,14 @@
+[
+    "com.github.ahrm.sioyek",
+    "com.github.arminstraub.krop",
+    "com.github.cfcurtis.pdfstitcher",
+    "com.github.itext.i7j_rups",
+    "com.github.mgropp.PdfJumbler",
+    "com.github.tenderowl.norka",
+    "com.itextpdf.RUPS",
+    "eu.scarpetta.PDFMixTool",
+    "net.sourceforge.Pdfedit",
+    "net.sourceforge.pdfchain",
+    "org.gnome.Evince",
+    "org.verapdf.veraPDF"
+]

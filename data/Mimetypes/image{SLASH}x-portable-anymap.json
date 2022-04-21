@@ -1,0 +1,19 @@
+[
+    "com.endlessm.photos",
+    "com.github.PintaProject.Pinta",
+    "com.github.weclaw1.ImageRoll",
+    "com.xnview.XnConvert",
+    "com.xnview.XnRetro",
+    "com.xnview.XnSketch",
+    "com.xnview.XnViewMP",
+    "io.photoflare.photoflare",
+    "org.cubocore.CoreImage",
+    "org.cubocore.CorePaint",
+    "org.geeqie.Geeqie",
+    "org.gimp.GIMP",
+    "org.glimpse_editor.Glimpse",
+    "org.gnome.eog",
+    "org.gnome.gitlab.YaLTeR.Identity",
+    "org.libvips.vipsdisp",
+    "org.photoqt.PhotoQt"
+]

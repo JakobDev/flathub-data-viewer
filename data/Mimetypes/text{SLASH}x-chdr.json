@@ -1,0 +1,11 @@
+[
+    "io.atom.Atom",
+    "io.github.mightycreak.Diffuse",
+    "io.neovim.nvim",
+    "nl.openoffice.bluefish",
+    "org.cubocore.CorePad",
+    "org.geany.Geany",
+    "org.gnome.Builder",
+    "org.gnu.emacs",
+    "org.vim.Vim"
+]

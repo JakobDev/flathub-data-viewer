@@ -1,0 +1,13 @@
+[
+    "ch.protonmail.protonmail-bridge",
+    "ch.protonmail.protonmail-import-export-app",
+    "com.getmailspring.Mailspring",
+    "com.tutanota.Tutanota",
+    "com.ulduzsoft.Birdtray",
+    "io.github.openWMail.openWMail",
+    "org.claws_mail.Claws-Mail",
+    "org.davmail.DavMail",
+    "org.gnome.Evolution",
+    "org.gnome.Geary",
+    "org.mozilla.Thunderbird"
+]

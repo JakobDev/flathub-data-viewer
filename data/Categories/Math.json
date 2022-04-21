@@ -1,0 +1,23 @@
+[
+    "com.github.alexhuntley.Plots",
+    "com.github.buddhi1980.mandelbulber2",
+    "com.github.carlos157oliveira.Calculus",
+    "com.tux4kids.tuxmath",
+    "de.unifreiburg.ellipticcurve",
+    "io.github.Qalculate",
+    "io.github.Qalculate.qalculate-qt",
+    "io.github.markummitchell.Engauge_Digitizer",
+    "io.gitlab.leesonwai.Sums",
+    "org.geogebra.GeoGebra",
+    "org.gnome.Genius",
+    "org.gnumeric.Gnumeric",
+    "org.jamovi.jamovi",
+    "org.kde.cantor",
+    "org.kde.kalgebra",
+    "org.kde.kbruch",
+    "org.kde.kig",
+    "org.kde.labplot2",
+    "org.mersenne.mprime",
+    "org.octave.Octave",
+    "org.scilab.Scilab"
+]

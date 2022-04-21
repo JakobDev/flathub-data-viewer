@@ -1,0 +1,46 @@
+{
+    "5.15-21.08": [
+        "ch.theologeek.Manuskript",
+        "com.github.iwalton3.jellyfin-media-player",
+        "com.github.jmlich.geotagging",
+        "com.gitlab.ColinDuquesnoy.MellowPlayer",
+        "com.nextcloud.desktopclient.nextcloud",
+        "com.stremio.Stremio",
+        "io.bit3.ThreemaQT",
+        "net.mediaarea.MediaConch",
+        "net.sonic_pi.SonicPi",
+        "net.sourceforge.qtpfsgui.LuminanceHDR",
+        "net.xm1math.Texmaker",
+        "org.kde.akregator",
+        "org.kde.angelfish",
+        "org.kde.cantor",
+        "org.kde.digikam",
+        "org.kde.falkon",
+        "org.kde.kalgebra",
+        "org.kde.kdevelop",
+        "org.kde.kgeotag",
+        "org.kde.kontact",
+        "org.kde.kphotoalbum",
+        "org.kde.labplot2",
+        "org.kde.marble",
+        "org.kde.tellico",
+        "org.musescore.MuseScore",
+        "org.paraview.ParaView",
+        "org.yuzu_emu.yuzu"
+    ],
+    "6.2": [
+        "com.rtosta.zapzap",
+        "dev.lukebriggs.pepys",
+        "net.jami.Jami"
+    ],
+    "5.15": [
+        "com.wiz.Note",
+        "io.bit3.WhatsAppQT",
+        "io.github.maurycyliebner.enve",
+        "io.github.wereturtle.ghostwriter",
+        "org.frescobaldi.Frescobaldi",
+        "org.jaspstats.JASP",
+        "org.kiwix.desktop",
+        "org.mobsya.ThymioSuite"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "moderate": [
+        "com.fightcade.Fightcade",
+        "nl.lostboys.rollemup"
+    ],
+    "mild": [
+        "com.github.HypatiaProject.hypatia",
+        "com.github.corna.Vivado",
+        "org.gnome.Lollypop"
+    ],
+    "intense": [
+        "io.github.fin_ger.OvGUCanteen"
+    ],
+    "none": [
+        "org.kde.digikam"
+    ]
+}

@@ -1,0 +1,19 @@
+[
+    "com.github.alainm23.byte",
+    "com.github.artemanufrij.playmymusic",
+    "com.github.coslyk.MoonPlayer",
+    "com.github.rafostar.Clapper",
+    "fr.handbrake.ghb",
+    "info.smplayer.SMPlayer",
+    "io.github.celluloid_player.Celluloid",
+    "io.github.swanux.hbud",
+    "io.mpv.Mpv",
+    "net.baseart.Glide",
+    "org.audacityteam.Audacity",
+    "org.gnome.Lollypop",
+    "org.kde.haruna",
+    "org.kde.vvave",
+    "org.musicbrainz.Picard",
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC"
+]

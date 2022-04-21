@@ -1,0 +1,18 @@
+[
+    "com.github.alainm23.byte",
+    "com.github.artemanufrij.playmymusic",
+    "com.github.rafostar.Clapper",
+    "fr.handbrake.ghb",
+    "io.github.celluloid_player.Celluloid",
+    "io.github.swanux.hbud",
+    "io.mpv.Mpv",
+    "net.baseart.Glide",
+    "net.mediaarea.MediaConch",
+    "net.mediaarea.MediaInfo",
+    "org.cubocore.CoreInfo",
+    "org.gnome.Totem",
+    "org.kde.haruna",
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC",
+    "ru.sview.sView"
+]

@@ -1,0 +1,18 @@
+[
+    "com.belmoussaoui.Authenticator",
+    "com.github.muriloventuroso.easyssh",
+    "com.github.paolostivanin.OTPClient",
+    "com.gitlab.guillermop.MasterKey",
+    "com.gitlab.j0chn.nextcloud_password_client",
+    "com.nitrokey.nitrokey-app",
+    "com.virustotal.VirusTotalUploader",
+    "de.bund.ausweisapp.ausweisapp2",
+    "info.olasagasti.revelation",
+    "io.github.jhaygood86.mauborgne",
+    "org.cryptomator.Cryptomator",
+    "org.gnome.seahorse.Application",
+    "org.gtkhash.gtkhash",
+    "org.keepassxc.KeePassXC",
+    "org.nmap.Zenmap",
+    "org.zaproxy.ZAP"
+]

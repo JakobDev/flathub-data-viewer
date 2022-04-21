@@ -1,0 +1,18 @@
+[
+    "com.github.rafostar.Clapper",
+    "fr.handbrake.ghb",
+    "io.github.celluloid_player.Celluloid",
+    "io.github.swanux.hbud",
+    "io.mpv.Mpv",
+    "net.baseart.Glide",
+    "net.mediaarea.MediaConch",
+    "net.mediaarea.MediaInfo",
+    "no.mifi.losslesscut",
+    "org.cubocore.CoreInfo",
+    "org.gnome.Totem",
+    "org.kde.haruna",
+    "org.kde.subtitlecomposer",
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC",
+    "ru.sview.sView"
+]

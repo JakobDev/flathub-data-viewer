@@ -1,0 +1,11 @@
+[
+    "cc.arduino.arduinoide",
+    "com.diy_fever.DIYLayoutCreator",
+    "com.github.reds.LogisimEvolution",
+    "de.klayout.KLayout",
+    "org.fritzing.Fritzing",
+    "org.horizon_eda.HorizonEDA",
+    "org.kicad.KiCad",
+    "org.librepcb.LibrePCB",
+    "org.openhantek.OpenHantek6022"
+]

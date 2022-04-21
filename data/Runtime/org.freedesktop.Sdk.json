@@ -1,0 +1,43 @@
+{
+    "20.08": [
+        "app.midterm.MidtermDesktop",
+        "com.sublimemerge.App",
+        "com.synology.SynologyDrive",
+        "com.unity.UnityHub",
+        "io.atom.Atom",
+        "org.scilab.Scilab"
+    ],
+    "21.08": [
+        "com.chez.GrafX2",
+        "com.google.AndroidStudio",
+        "com.jetbrains.CLion",
+        "com.jetbrains.GoLand",
+        "com.jetbrains.IntelliJ-IDEA-Community",
+        "com.jetbrains.IntelliJ-IDEA-Ultimate",
+        "com.jetbrains.PhpStorm",
+        "com.jetbrains.PyCharm-Community",
+        "com.jetbrains.PyCharm-Professional",
+        "com.jetbrains.Rider",
+        "com.jetbrains.RubyMine",
+        "com.jetbrains.WebStorm",
+        "com.sublimetext.three",
+        "com.synology.SynologyAssistant",
+        "com.visualstudio.code",
+        "com.visualstudio.code-oss",
+        "com.vscodium.codium",
+        "fr.natron.Natron",
+        "io.gdevs.GDLauncher",
+        "io.github.nroduit.Weasis",
+        "io.neovim.nvim",
+        "io.stoplight.studio",
+        "org.apache.netbeans",
+        "org.geany.Geany",
+        "org.gnu.emacs",
+        "org.thonny.Thonny"
+    ],
+    "19.08": [
+        "com.synology.CloudStationBackup",
+        "io.brackets.Brackets",
+        "org.aliflang.lang"
+    ]
+}
