@@ -1,0 +1,486 @@
+{
+    "org.kde.*": [
+        "app.lith.Lith",
+        "com.borgbase.Vorta",
+        "com.codemouse92.timecard",
+        "com.dropbox.Client",
+        "com.getferdi.Ferdi",
+        "com.github.debauchee.barrier",
+        "com.github.hluk.copyq",
+        "com.gitlab.ColinDuquesnoy.MellowPlayer",
+        "com.nextcloud.desktopclient.nextcloud",
+        "com.qq.QQmusic",
+        "com.sayonara_player.Sayonara",
+        "com.stremio.Stremio",
+        "de.bund.ausweisapp.ausweisapp2",
+        "io.bit3.ThreemaQT",
+        "io.bit3.WhatsAppQT",
+        "io.github.antimicrox.antimicrox",
+        "io.github.qnapi",
+        "network.loki.Session",
+        "org.cubocore.CoreAction",
+        "org.cubocore.CoreKeyboard",
+        "org.cubocore.CoreTime",
+        "org.flameshot.Flameshot",
+        "org.kde.neochat",
+        "org.ksnip.ksnip",
+        "org.qutebrowser.qutebrowser",
+        "org.signal.Signal",
+        "org.tribler.Tribler",
+        "re.chiaki.Chiaki",
+        "si.tano.Vremenar",
+        "us.zoom.Zoom"
+    ],
+    "org.mpris.mediaplayer2.youtubemusic": [
+        "app.ytmdesktop.ytmdesktop"
+    ],
+    "org.kde.statusnotifieritem-2-1": [
+        "chat.schildi.desktop",
+        "com.calibre_ebook.calibre",
+        "com.github.Qv2ray",
+        "com.github.vladimiry.ElectronMail",
+        "com.toggl.TogglDesktop",
+        "im.riot.Riot",
+        "io.kopia.KopiaUI",
+        "nz.mega.MEGAsync",
+        "org.easycoding.TunedSwitcher",
+        "org.keepassxc.KeePassXC",
+        "ru.proninyaroslav.libretrack"
+    ],
+    "org.mpris.mediaplayer2.headset": [
+        "co.headsetapp.headset"
+    ],
+    "com.belmoussaoui.authenticator.searchprovider": [
+        "com.belmoussaoui.Authenticator"
+    ],
+    "org.mpris.mediaplayer2.chromium.*": [
+        "com.brave.Browser",
+        "com.github.Eloston.UngoogledChromium",
+        "com.github.rhyme_player.rhyme",
+        "com.google.Chrome",
+        "com.google.ChromeDev",
+        "com.qq.QQmusic",
+        "io.wavebox.Wavebox",
+        "org.chromium.Chromium",
+        "tech.feliciano.pocket-casts"
+    ],
+    "org.mpris.mediaplayer2.euterpe-gtk": [
+        "com.doycho.euterpe.gtk"
+    ],
+    "org.mpris.mediaplayer2.com.github.artemanufrij.playmymusic": [
+        "com.github.artemanufrij.playmymusic"
+    ],
+    "com.github.bajoja.indicator-kdeconnect.settings": [
+        "com.github.bajoja.indicator-kdeconnect"
+    ],
+    "org.mpris.mediaplayer2.cozy": [
+        "com.github.geigi.cozy"
+    ],
+    "com.github.gi_lom.dialect.searchprovider": [
+        "com.github.gi_lom.dialect"
+    ],
+    "org.mpris.mediaplayer2.neteasecloudmusic": [
+        "com.github.gmg137.netease-cloud-music-gtk"
+    ],
+    "com.github.hugolabe.wike.searchprovider": [
+        "com.github.hugolabe.Wike"
+    ],
+    "org.mpris.mediaplayer2.tuner": [
+        "com.github.louis77.tuner"
+    ],
+    "com.github.philip-scott.notes-up": [
+        "com.github.philip_scott.notes-up"
+    ],
+    "org.kde.statusnotifieritem-13-1": [
+        "com.github.quaternion"
+    ],
+    "org.mpris.mediaplayer2.clapper": [
+        "com.github.rafostar.Clapper"
+    ],
+    "org.mpris.mediaplayer2.tauon": [
+        "com.github.taiko2k.tauonmb"
+    ],
+    "org.mpris.mediaplayer2.mellowplayer3.*": [
+        "com.gitlab.ColinDuquesnoy.MellowPlayer"
+    ],
+    "org.mpris.mediaplayer2.google_play_music_desktop_player": [
+        "com.googleplaymusicdesktopplayer.GPMDP"
+    ],
+    "com.endlessm.gamestateservice": [
+        "com.hack_computer.Clubhouse"
+    ],
+    "com.hack_computer.hacktoolbox": [
+        "com.hack_computer.Clubhouse"
+    ],
+    "com.hack_computer.hacksoundserver": [
+        "com.hack_computer.Clubhouse"
+    ],
+    "com.hack_computer.gamestateservice": [
+        "com.hack_computer.Clubhouse"
+    ],
+    "org.mpris.mediaplayer2.netease-cloud-music": [
+        "com.netease.CloudMusic"
+    ],
+    "org.kde.statusnotifieritem-2-2": [
+        "com.obsproject.Studio",
+        "com.ulduzsoft.Birdtray",
+        "info.mumble.Mumble",
+        "org.clementine_player.Clementine",
+        "org.keepassxc.KeePassXC",
+        "org.qbittorrent.qBittorrent",
+        "org.strawberrymusicplayer.strawberry"
+    ],
+    "org.mpris.mediaplayer2.plexamp": [
+        "com.plexamp.Plexamp"
+    ],
+    "com.prusa3d.prusaslicer.*": [
+        "com.prusa3d.PrusaSlicer"
+    ],
+    "org.mpris.mediaplayer2.blanket": [
+        "com.rafaelmardojai.Blanket"
+    ],
+    "org.mpris.mediaplayer2.sayonara": [
+        "com.sayonara_player.Sayonara"
+    ],
+    "org.mpris.mediaplayer2.spotify": [
+        "com.spotify.Client"
+    ],
+    "com.sublimemerge": [
+        "com.sublimemerge.App"
+    ],
+    "org.kde.statusnotifieritem-7-1": [
+        "com.synology.SynologyDrive",
+        "com.toggl.TogglDesktop"
+    ],
+    "org.kde.statusnotifieritem-3-1": [
+        "com.toggl.TogglDesktop",
+        "org.qownnotes.QOwnNotes"
+    ],
+    "org.kde.statusnotifieritem-8-1": [
+        "com.toggl.TogglDesktop"
+    ],
+    "org.kde.statusnotifieritem-1-1": [
+        "com.toggl.TogglDesktop"
+    ],
+    "org.kde.statusnotifieritem-6-1": [
+        "com.toggl.TogglDesktop"
+    ],
+    "org.kde.statusnotifieritem-4-1": [
+        "com.toggl.TogglDesktop"
+    ],
+    "org.kde.statusnotifieritem-9-1": [
+        "com.toggl.TogglDesktop"
+    ],
+    "org.kde.statusnotifieritem-5-1": [
+        "com.toggl.TogglDesktop"
+    ],
+    "org.mpris.mediaplayer2.thebeat": [
+        "com.vicr123.thebeat"
+    ],
+    "de.tumexam.cli": [
+        "de.tumexam.cli"
+    ],
+    "org.mpris.mediaplayer2.spot": [
+        "dev.alextren.Spot"
+    ],
+    "org.freedesktop.filemanager1": [
+        "dev.tchx84.Portfolio"
+    ],
+    "com.druide.antidote.*": [
+        "eu.skribisto.skribisto"
+    ],
+    "chat.fluffy.fluffychat": [
+        "im.fluffychat.Fluffychat"
+    ],
+    "net.sourceforge.mumble.mumble": [
+        "info.mumble.Mumble"
+    ],
+    "org.mpris.mediaplayer2.smplayer": [
+        "info.smplayer.SMPlayer"
+    ],
+    "org.mpris.mediaplayer2.freetube": [
+        "io.freetubeapp.FreeTube"
+    ],
+    "org.mpris.mediaplayer2.cmus": [
+        "io.github.cmus.cmus"
+    ],
+    "org.mpris.mediaplayer2.noson.*": [
+        "io.github.janbar.noson"
+    ],
+    "org.mpris.mediaplayer2.kotatogram": [
+        "io.github.kotatogram"
+    ],
+    "org.mpris.quodlibet": [
+        "io.github.quodlibet.QuodLibet"
+    ],
+    "org.mpris.mediaplayer2.quodlibet": [
+        "io.github.quodlibet.QuodLibet"
+    ],
+    "org.gnome.upnp.mediaserver2.quodlibet": [
+        "io.github.quodlibet.QuodLibet"
+    ],
+    "org.mpris.mediaplayer2.goodvibes": [
+        "io.gitlab.Goodvibes"
+    ],
+    "org.freedesktop.notifications": [
+        "io.gitlab.librewolf-community"
+    ],
+    "io.gitlab.librewolf.*": [
+        "io.gitlab.librewolf-community"
+    ],
+    "io.howl.*": [
+        "io.howl.Editor"
+    ],
+    "org.mpris.mediaplayer2.mpv.*": [
+        "io.mpv.Mpv"
+    ],
+    "cx.ring.ring": [
+        "net.jami.Jami"
+    ],
+    "org.mpris.mediaplayer2.chromium.instance2": [
+        "net.jami.Jami"
+    ],
+    "org.mpris.mediaplayer2.net.sonic_pi.sonicpi": [
+        "net.sonic_pi.SonicPi"
+    ],
+    "org.cgu.progs.efax_gtk": [
+        "net.sourceforge.efaxgtk"
+    ],
+    "org.mpris.mediaplayer2.girens": [
+        "nl.g4d.Girens"
+    ],
+    "org.freedesktop.reservedevice1.*": [
+        "org.ardour.Ardour"
+    ],
+    "org.mpris.mediaplayer2.audacious": [
+        "org.atheme.audacious"
+    ],
+    "org.mpris.mediaplayer2.clementine": [
+        "org.clementine_player.Clementine"
+    ],
+    "com.secondlife.viewerappapiservice": [
+        "org.firestormviewer.FirestormViewer"
+    ],
+    "org.freedesktop.tuhi1": [
+        "org.freedesktop.Tuhi"
+    ],
+    "org.gabmus.hydrapaper.daemon": [
+        "org.gabmus.hydrapaper"
+    ],
+    "org.gabmus.hydrapaper": [
+        "org.gabmus.hydrapaper"
+    ],
+    "org.mpris.mediaplayer2.gmusicbrowser": [
+        "org.gmusicbrowser.gmusicbrowser"
+    ],
+    "org.gmusicbrowser": [
+        "org.gmusicbrowser.gmusicbrowser"
+    ],
+    "org.gmusicbrowser.gmusicbrowser": [
+        "org.gmusicbrowser.gmusicbrowser"
+    ],
+    "org.gnome.eolie.proxy.*": [
+        "org.gnome.Eolie"
+    ],
+    "org.gnome.evince": [
+        "org.gnome.Evince"
+    ],
+    "org.gnome.evince.daemon": [
+        "org.gnome.Evince"
+    ],
+    "org.gnome.archivemanager1": [
+        "org.gnome.FileRoller"
+    ],
+    "org.gnome.genius": [
+        "org.gnome.Genius"
+    ],
+    "org.mpris.mediaplayer2.lollypop": [
+        "org.gnome.Lollypop"
+    ],
+    "org.freedesktop.telepathy.client.polari": [
+        "org.gnome.Polari"
+    ],
+    "org.freedesktop.telepathy.connectionmanager.idle": [
+        "org.gnome.Polari"
+    ],
+    "org.freedesktop.telepathy.client.tpglibrequestandhandle.*": [
+        "org.gnome.Polari"
+    ],
+    "org.freedesktop.telepathy.accountmanager": [
+        "org.gnome.Polari"
+    ],
+    "org.freedesktop.telepathy.connection.idle.irc.*": [
+        "org.gnome.Polari"
+    ],
+    "org.freedesktop.telepathy.client.logger": [
+        "org.gnome.Polari"
+    ],
+    "org.freedesktop.telepathy.channeldispatcher": [
+        "org.gnome.Polari"
+    ],
+    "org.freedesktop.telepathy.logger": [
+        "org.gnome.Polari"
+    ],
+    "org.freedesktop.telepathy.client.polari.*": [
+        "org.gnome.Polari"
+    ],
+    "org.freedesktop.telepathy.missioncontrol5": [
+        "org.gnome.Polari"
+    ],
+    "org.mpris.mediaplayer2.rhythmbox": [
+        "org.gnome.Rhythmbox3"
+    ],
+    "org.mpris.mediaplayer2.totem": [
+        "org.gnome.Totem"
+    ],
+    "org.gnome.design.iconlibrary.searchprovider": [
+        "org.gnome.design.IconLibrary"
+    ],
+    "org.gpodder": [
+        "org.gpodder.gpodder"
+    ],
+    "org.gramps-project.gramps": [
+        "org.gramps_project.Gramps"
+    ],
+    "org.freedesktop.akonadi.*": [
+        "org.kde.akregator",
+        "org.kde.kontact"
+    ],
+    "org.kde.akregator": [
+        "org.kde.akregator",
+        "org.kde.kontact"
+    ],
+    "org.kde.kaddressbook": [
+        "org.kde.akregator",
+        "org.kde.kontact"
+    ],
+    "org.kde.pim.*": [
+        "org.kde.akregator",
+        "org.kde.kontact"
+    ],
+    "org.freedesktop.akonadi": [
+        "org.kde.akregator",
+        "org.kde.kontact"
+    ],
+    "org.kde.pimsettingsexporter": [
+        "org.kde.akregator"
+    ],
+    "org.kde.accountwizard": [
+        "org.kde.akregator",
+        "org.kde.kontact"
+    ],
+    "org.mpris.mediaplayer2.elisa": [
+        "org.kde.elisa"
+    ],
+    "org.mpris.mediaplayer2.falkon.*": [
+        "org.kde.falkon"
+    ],
+    "org.mpris.mediaplayer2.haruna": [
+        "org.kde.haruna"
+    ],
+    "org.mpris.mediaplayer2.kasts": [
+        "org.kde.kasts"
+    ],
+    "org.kde.kclockd": [
+        "org.kde.kclock"
+    ],
+    "org.kdevelop.*": [
+        "org.kde.kdevelop"
+    ],
+    "org.mpris.mediaplayer2.kid3": [
+        "org.kde.kid3"
+    ],
+    "org.kde.kongressac": [
+        "org.kde.kongress"
+    ],
+    "org.kde.kontact": [
+        "org.kde.kontact"
+    ],
+    "org.kde.korgac": [
+        "org.kde.kontact"
+    ],
+    "org.kde.akonadiconsole.*": [
+        "org.kde.kontact"
+    ],
+    "org.kde.sieveeditor": [
+        "org.kde.kontact"
+    ],
+    "org.kde.korganizer": [
+        "org.kde.kontact"
+    ],
+    "org.kde.kmail": [
+        "org.kde.kontact"
+    ],
+    "org.freedesktop.akonadi.resource.*": [
+        "org.kde.kontact"
+    ],
+    "org.kde.pimsettingexporter": [
+        "org.kde.kontact"
+    ],
+    "org.kde.kalarm": [
+        "org.kde.kontact"
+    ],
+    "org.kde.kmail2": [
+        "org.kde.kontact"
+    ],
+    "org.kde.knotes": [
+        "org.kde.kontact"
+    ],
+    "org.freedesktop.akonadi.agent.*": [
+        "org.kde.kontact"
+    ],
+    "org.freedesktop.akonadi.control.*": [
+        "org.kde.kontact"
+    ],
+    "org.kde.kioexec.*": [
+        "org.kde.kontact"
+    ],
+    "org.mpris.mediaplayer2.vvave": [
+        "org.kde.vvave"
+    ],
+    "org.kde.statusnotifieritem-3-2": [
+        "org.keepassxc.KeePassXC"
+    ],
+    "org.libreoffice.libreofficeipc0": [
+        "org.libreoffice.LibreOffice"
+    ],
+    "org.mozilla.thunderbird.*": [
+        "org.mozilla.Thunderbird"
+    ],
+    "org.mozilla.firefox.*": [
+        "org.mozilla.firefox"
+    ],
+    "org.mpris.mediaplayer2.firefox.*": [
+        "org.mozilla.firefox"
+    ],
+    "org.mozilla.firefox_beta.*": [
+        "org.mozilla.firefox"
+    ],
+    "org.mpris.mediaplayer2.mpdevil": [
+        "org.mpdevil.mpdevil"
+    ],
+    "org.mpris.mediaplayer2.parlatype": [
+        "org.parlatype.Parlatype"
+    ],
+    "org.mpris.mediaplayer2.qutebrowser.*": [
+        "org.qutebrowser.qutebrowser"
+    ],
+    "org.mpris.mediaplayer2.strawberry": [
+        "org.strawberrymusicplayer.strawberry"
+    ],
+    "org.mpris.mediaplayer2.tdesktop": [
+        "org.telegram.desktop"
+    ],
+    "org.mpris.mediaplayer2.vlc": [
+        "org.videolan.VLC"
+    ],
+    "org.x.statusicon.warpinator": [
+        "org.x.Warpinator"
+    ],
+    "org.mpris.mediaplayer2.cider": [
+        "sh.cider.Cider"
+    ],
+    "work.openpaper.paperwork": [
+        "work.openpaper.Paperwork"
+    ]
+}

@@ -1,6 +1,7 @@
 [
     "com.interversehq.qView",
     "org.gnome.gThumb",
+    "org.kde.gwenview",
     "org.kde.kolourpaint",
     "org.libvips.vipsdisp",
     "org.photoqt.PhotoQt"

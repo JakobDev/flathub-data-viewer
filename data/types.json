@@ -16,6 +16,10 @@
         "value": "Extensions"
     },
     {
+        "name": "Permission",
+        "value": "Permissions"
+    },
+    {
         "name": "URL",
         "value": "Url"
     },

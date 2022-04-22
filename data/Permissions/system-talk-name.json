@@ -1,0 +1,227 @@
+{
+    "org.freedesktop.realtimekit1": [
+        "ar.com.tuxguitar.TuxGuitar",
+        "com.giadamusic.Giada",
+        "com.polyphone_soundfonts.polyphone",
+        "com.rosegardenmusic.rosegarden",
+        "io.github.gillesdegottex.FMIT",
+        "io.github.muse_sequencer.Muse",
+        "io.lmms.LMMS",
+        "net.purrdata.PurrData",
+        "net.sonic_pi.SonicPi",
+        "net.sonobus.SonoBus",
+        "net.sourceforge.GrandOrgue",
+        "org.ardour.Ardour",
+        "org.audacityteam.Audacity",
+        "org.guitarix.Guitarix",
+        "org.hydrogenmusic.Hydrogen",
+        "org.mixxx.Mixxx",
+        "org.musescore.MuseScore",
+        "org.nongnu.gsequencer.gsequencer",
+        "org.rncbc.qsynth",
+        "org.rncbc.qtractor",
+        "org.shotcut.Shotcut",
+        "org.zrythm.Zrythm"
+    ],
+    "org.bluez": [
+        "com.avocode.Avocode",
+        "com.github.alexr4535.siglo",
+        "com.skype.Client",
+        "edu.stanford.Almond",
+        "io.emeric.watchflower",
+        "io.github.betaflight.BetaflightConfigurator",
+        "nl.brixit.wiremapper",
+        "org.eyecreate.qiflora",
+        "org.freedesktop.Tuhi",
+        "org.gnome.Keysign",
+        "org.subsurface_divelog.Subsurface"
+    ],
+    "org.freedesktop.networkmanager": [
+        "com.borgbase.Vorta",
+        "com.github.Matoking.protontricks",
+        "com.github.gabutakut.gabutdm",
+        "com.skype.Client",
+        "com.valvesoftware.Steam",
+        "io.github.prateekmedia.pstube",
+        "io.gitlab.librewolf-community",
+        "org.claws_mail.Claws-Mail",
+        "org.gnome.NetworkDisplays",
+        "org.kde.akregator",
+        "org.kde.kontact",
+        "org.mozilla.firefox",
+        "org.syphon.Syphon",
+        "ru.proninyaroslav.libretrack",
+        "ua.org.brezblock.q4wine"
+    ],
+    "org.freedesktop.avahi": [
+        "com.brave.Browser",
+        "com.frac_tion.teleport",
+        "com.github.Eloston.UngoogledChromium",
+        "com.github.debauchee.barrier",
+        "com.github.vladimiry.ElectronMail",
+        "com.google.Chrome",
+        "com.google.ChromeDev",
+        "com.obsproject.Studio",
+        "im.pidgin.Pidgin",
+        "io.wavebox.Wavebox",
+        "net.cozic.joplin_desktop",
+        "net.drawpile.drawpile",
+        "org.chromium.Chromium",
+        "org.clementine_player.Clementine",
+        "org.gnome.Builder",
+        "org.gnome.Keysign",
+        "org.gnome.OCRFeeder",
+        "org.gnome.Rhythmbox3",
+        "org.gnome.Totem",
+        "org.kde.digikam",
+        "org.mobsya.ThymioSuite",
+        "org.remmina.Remmina",
+        "org.strawberrymusicplayer.strawberry",
+        "tv.kodi.Kodi"
+    ],
+    "org.freedesktop.upower": [
+        "com.brave.Browser",
+        "com.github.Eloston.UngoogledChromium",
+        "com.google.Chrome",
+        "com.google.ChromeDev",
+        "com.valvesoftware.Steam",
+        "io.mgba.mGBA",
+        "io.wavebox.Wavebox",
+        "org.chromium.Chromium",
+        "org.cubocore.CoreAction",
+        "org.cubocore.CoreStats",
+        "org.gnome.OfficeRunner",
+        "org.gnome.PowerStats",
+        "org.mixxx.Mixxx",
+        "org.musescore.MuseScore",
+        "org.quetoo.Quetoo",
+        "org.qutebrowser.qutebrowser",
+        "sh.cider.Cider",
+        "tv.kodi.Kodi"
+    ],
+    "org.freedesktop.udisks2": [
+        "com.calibre_ebook.calibre",
+        "com.github.Matoking.protontricks",
+        "com.gitlab.adnan338.Nixwriter",
+        "com.prusa3d.PrusaSlicer",
+        "com.system76.Popsicle",
+        "com.usebottles.bottles",
+        "com.valvesoftware.Steam",
+        "dev.tchx84.Portfolio",
+        "io.github.garglk.Gargoyle",
+        "org.clementine_player.Clementine",
+        "org.cubocore.CoreFM",
+        "org.cubocore.CoreStats",
+        "org.fedoraproject.MediaWriter",
+        "org.kde.digikam",
+        "org.kde.dolphin",
+        "org.kde.kdenlive",
+        "org.raspberrypi.rpi-imager",
+        "org.sil.FieldWorks",
+        "org.strawberrymusicplayer.strawberry",
+        "tv.kodi.Kodi",
+        "ua.org.brezblock.q4wine"
+    ],
+    "org.freedesktop.accounts": [
+        "com.cassidyjames.plausible",
+        "com.github.benpocalypse.Huely",
+        "com.github.childishgiant.mixer",
+        "com.github.matfantinel.reminduck",
+        "com.github.rajsolai.textsnatcher",
+        "com.github.subhadeepjasu.pebbles",
+        "com.github.suzie97.communique",
+        "com.hack_computer.Clubhouse",
+        "com.ktechpit.wonderwall",
+        "org.gnome.Boxes"
+    ],
+    "org.freedesktop.login1": [
+        "com.github.iwalton3.jellyfin-media-player",
+        "com.github.taiko2k.tauonmb",
+        "com.github.ztefn.haguichi",
+        "com.skype.Client",
+        "com.toggl.TogglDesktop",
+        "com.visualstudio.code",
+        "com.vscodium.codium",
+        "io.github.Fndroid.clash_for_windows",
+        "io.github.cges30901.hmtimer",
+        "org.gajim.Gajim",
+        "org.gnome.Calendar",
+        "org.gnome.GTG",
+        "org.gnome.Music",
+        "org.gnome.OfficeRunner",
+        "org.gnome.Todo",
+        "org.gnome.World.PikaBackup",
+        "tv.kodi.Kodi"
+    ],
+    "org.freedesktop.geoclue2": [
+        "com.gitlab.bitseater.meteo",
+        "de.akaflieg_freiburg.enroute",
+        "io.github.rinigus.PureMaps",
+        "me.leucoso.Grock",
+        "org.gajim.Gajim",
+        "org.gnome.Epiphany",
+        "org.kde.falkon",
+        "org.kde.kweather",
+        "org.midori_browser.Midori",
+        "org.viking.Viking",
+        "re.sonny.Tangram",
+        "si.tano.Vremenar"
+    ],
+    "org.freedesktop.hostname1": [
+        "com.hack_computer.Clubhouse"
+    ],
+    "org.fedoraproject.firewalld1": [
+        "com.sireliah.Dragit",
+        "org.gnome.NetworkDisplays"
+    ],
+    "org.freedesktop.colormanager": [
+        "org.darktable.Darktable",
+        "org.gnome.ColorViewer",
+        "org.kde.krita"
+    ],
+    "com.redhat.tuned": [
+        "org.easycoding.TunedSwitcher"
+    ],
+    "org.freedesktop.systemd1": [
+        "org.easycoding.TunedSwitcher"
+    ],
+    "org.freedesktop.ratbag1": [
+        "org.freedesktop.Piper"
+    ],
+    "org.freedesktop.timedate1": [
+        "org.gnome.Boxes",
+        "org.gnome.Calendar"
+    ],
+    "org.gnome.sysprof3": [
+        "org.gnome.Builder"
+    ],
+    "org.freedesktop.policykit1": [
+        "org.gnome.Builder"
+    ],
+    "org.freedesktop.modemmanager1": [
+        "org.gnome.Calls"
+    ],
+    "org.freedesktop.fwupd": [
+        "org.gnome.Firmware"
+    ],
+    "org.freedesktop.dbus.peer.ping": [
+        "org.gnome.OCRFeeder"
+    ],
+    "org.freedesktop.dbus": [
+        "org.gnome.OCRFeeder",
+        "org.gnome.Tomboy",
+        "org.openchemistry.Avogadro2"
+    ],
+    "org.freedesktop.upower.*": [
+        "org.kde.falkon"
+    ],
+    "org.learningequality.kolibri.daemon": [
+        "org.learningequality.Kolibri"
+    ],
+    "org.freedesktop.dbus.proprieties": [
+        "org.openchemistry.Avogadro2"
+    ],
+    "org.freedesktop.modemmanager1.*": [
+        "page.codeberg.tpikonen.satellite"
+    ]
+}

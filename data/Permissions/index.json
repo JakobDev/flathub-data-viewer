@@ -1,0 +1,15 @@
+{
+    "description": "Shows all Apps with the given Permission",
+    "data": [
+        "allow",
+        "device",
+        "filesystem",
+        "own-name",
+        "persistent",
+        "share",
+        "socket",
+        "system-talk-name",
+        "talk-name",
+        "unset-environment"
+    ]
+}

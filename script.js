@@ -14,6 +14,18 @@ function isArray(myArray) {
     return myArray.constructor === Array;
 }
 
+function removeDuplicates(arr) {
+    checkDict = {}
+    newArr = []
+    for (let i in arr) {
+        if (!checkDict[arr[i]]) {
+            checkDict[arr[i]] = true;
+            newArr.push(arr[i]);
+        }
+    }
+    return newArr;
+}
+
 function setOption(selectElement, value) {
     return [...selectElement.options].some((option, index) => {
         if (option.value == value) {
@@ -111,6 +123,8 @@ function fillTextArea() {
             }
         }
     }
+
+    lines = removeDuplicates(lines);
 
     lines.sort();
 

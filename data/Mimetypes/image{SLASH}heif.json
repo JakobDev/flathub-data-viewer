@@ -2,6 +2,7 @@
     "com.interversehq.qView",
     "org.gimp.GIMP",
     "org.glimpse_editor.Glimpse",
+    "org.kde.gwenview",
     "org.kde.kolourpaint",
     "org.libvips.vipsdisp",
     "org.photoqt.PhotoQt"

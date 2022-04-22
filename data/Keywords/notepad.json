@@ -1,4 +1,5 @@
 [
     "io.github.lainsce.Notejot",
-    "org.gnome.gedit"
+    "org.gnome.gedit",
+    "org.kde.kwrite"
 ]
