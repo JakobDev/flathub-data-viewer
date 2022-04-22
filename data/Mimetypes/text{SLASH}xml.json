@@ -1,6 +1,7 @@
 [
     "com.brave.Browser",
     "com.github.Eloston.UngoogledChromium",
+    "com.github.Murmele.scram",
     "com.github.maoschanz.DynamicWallpaperEditor",
     "com.google.Chrome",
     "com.google.ChromeDev",

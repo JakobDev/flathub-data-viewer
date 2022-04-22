@@ -1,4 +1,5 @@
 [
+    "com.github.Murmele.scram",
     "edu.berkeley.BOINC",
     "io.github.veusz.Veusz",
     "org.octave.Octave",

@@ -1,6 +1,7 @@
 [
     "ch.openboard.OpenBoard",
     "com.flashforge.FlashPrint",
+    "com.github.Murmele.scram",
     "com.github.hopsan.Hopsan",
     "com.prusa3d.PrusaSlicer",
     "com.sweethome3d.Sweethome3d",
