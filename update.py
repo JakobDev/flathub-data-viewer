@@ -1,6 +1,8 @@
+from typing import Any
 import requests
 import shutil
 import json
+import time
 import os
 
 
@@ -30,8 +32,31 @@ def clear_filename(name: str) -> str:
     return name
 
 
+def try_request(url: str) -> Any:
+    for i in range(10):
+        try:
+            return requests.get(url).json()
+        except:
+            time.sleep(1)
+    raise Exception()
+
+
+SKIP_PERMISSIONS = [
+    "unset-environment"
+]
+
+
+PERMISSON_NAMES = {
+    "shared": "share",
+    "sockets": "socket",
+    "devices": "device",
+    "features": "allow",
+    "filesystems": "filesystem"
+}
+
+
 def parse_summary_api(app_id: str, data: dict):
-    r = requests.get("https://flathub.org/api/v2/summary/" + app_id).json()
+    r = try_request("https://flathub.org/api/v2/summary/" + app_id)
 
     runtime_name, _, runtime_version = r["metadata"]["runtime"].split("/")
     add_to_data(data, "runtime", runtime_name, runtime_version, app_id)
@@ -49,9 +74,28 @@ def parse_summary_api(app_id: str, data: dict):
             if not i.startswith(app_id):
                 add_simple_to_data(data, "extensions", i, app_id)
 
+    if "permissions" in r["metadata"]:
+        for key in r["metadata"]["permissions"].keys():
+            if key == "session-bus":
+                for bus_type in r["metadata"]["permissions"][key].keys():
+                    for i in r["metadata"]["permissions"][key][bus_type]:
+                        add_to_data(data, "permissions", bus_type + "-name", i, app_id)
+            elif key == "system-bus":
+                for bus_type in r["metadata"]["permissions"][key].keys():
+                    for i in r["metadata"]["permissions"][key][bus_type]:
+                        add_to_data(data, "permissions", f"system-{bus_type}-name", i, app_id)
+            else:
+                for i in r["metadata"]["permissions"][key]:
+                    if i in SKIP_PERMISSIONS:
+                        continue
+                    elif key in PERMISSON_NAMES:
+                        add_to_data(data, "permissions", PERMISSON_NAMES[key], i, app_id)
+                    else:
+                        add_to_data(data, "permissions", key, i, app_id)
+
 
 def parse_appstream_api(app_id: str, data: dict):
-    r = requests.get("https://flathub.org/api/v2/appstream/" + app_id).json()
+    r = try_request("https://flathub.org/api/v2/appstream/" + app_id)
 
     for i in r["urls"].keys():
         add_simple_to_data(data, "url", i, app_id)
@@ -110,6 +154,7 @@ def main():
     data["sdk"] = {}
     data["base_app"] = {}
     data["extensions"] = {}
+    data["permissions"] = {}
     data["url"] = {}
     data["categories"] = {}
     data["license"] = {}
@@ -139,6 +184,7 @@ def main():
     write_data(os.path.join(data_path, "SDK"), data["sdk"], "Shows all Apps with the given SDK")
     write_data(os.path.join(data_path, "BaseApp"), data["base_app"], "Shows all Apps with the given BaseApp")
     write_data(os.path.join(data_path, "Extensions"), data["extensions"], "Shows all Apps with the given Extensions")
+    write_data(os.path.join(data_path, "Permissions"), data["permissions"], "Shows all Apps with the given Permission")
     write_data(os.path.join(data_path, "Url"), data["url"], "Shows all Apps which has a URL with the given type")
     write_data(os.path.join(data_path, "Categories"), data["categories"], "Shows all Apps with the given Categorie")
     write_data(os.path.join(data_path, "License"), data["license"], "Shows all Apps with the given License")
@@ -153,6 +199,7 @@ def main():
             {"name": "SDK", "value": "SDK"},
             {"name": "BaseApp", "value": "BaseApp"},
             {"name": "Extension", "value": "Extensions"},
+            {"name": "Permission", "value": "Permissions"},
             {"name": "URL", "value": "Url"},
             {"name": "Categorie", "value": "Categories"},
             {"name": "License", "value": "License"},
@@ -167,7 +214,4 @@ def main():
 
 
 if __name__ == "__main__":
-    import time
-    start_time = time.time()
     main()
-    print(time.time() - start_time)
