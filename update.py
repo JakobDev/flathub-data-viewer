@@ -76,7 +76,9 @@ def parse_summary_api(app_id: str, data: dict):
 
     if "permissions" in r["metadata"]:
         for key in r["metadata"]["permissions"].keys():
-            if key == "session-bus":
+            if key in SKIP_PERMISSIONS:
+                continue
+            elif key == "session-bus":
                 for bus_type in r["metadata"]["permissions"][key].keys():
                     for i in r["metadata"]["permissions"][key][bus_type]:
                         add_to_data(data, "permissions", bus_type + "-name", i, app_id)
@@ -86,12 +88,13 @@ def parse_summary_api(app_id: str, data: dict):
                         add_to_data(data, "permissions", f"system-{bus_type}-name", i, app_id)
             else:
                 for i in r["metadata"]["permissions"][key]:
-                    if i in SKIP_PERMISSIONS:
-                        continue
-                    elif key in PERMISSON_NAMES:
+                    if key in PERMISSON_NAMES:
                         add_to_data(data, "permissions", PERMISSON_NAMES[key], i, app_id)
                     else:
                         add_to_data(data, "permissions", key, i, app_id)
+
+    for i in r["arches"]:
+        add_simple_to_data(data, "arch", i, app_id)
 
 
 def parse_appstream_api(app_id: str, data: dict):
@@ -155,6 +158,7 @@ def main():
     data["base_app"] = {}
     data["extensions"] = {}
     data["permissions"] = {}
+    data["arch"] = {}
     data["url"] = {}
     data["categories"] = {}
     data["license"] = {}
@@ -185,6 +189,7 @@ def main():
     write_data(os.path.join(data_path, "BaseApp"), data["base_app"], "Shows all Apps with the given BaseApp")
     write_data(os.path.join(data_path, "Extensions"), data["extensions"], "Shows all Apps with the given Extensions")
     write_data(os.path.join(data_path, "Permissions"), data["permissions"], "Shows all Apps with the given Permission")
+    write_data(os.path.join(data_path, "Architecture"), data["arch"], "Shows all Apps which supports the given Architecture")
     write_data(os.path.join(data_path, "Url"), data["url"], "Shows all Apps which has a URL with the given type")
     write_data(os.path.join(data_path, "Categories"), data["categories"], "Shows all Apps with the given Categorie")
     write_data(os.path.join(data_path, "License"), data["license"], "Shows all Apps with the given License")
@@ -200,6 +205,7 @@ def main():
             {"name": "BaseApp", "value": "BaseApp"},
             {"name": "Extension", "value": "Extensions"},
             {"name": "Permission", "value": "Permissions"},
+            {"name": "Architecture", "value": "Architecture"},
             {"name": "URL", "value": "Url"},
             {"name": "Categorie", "value": "Categories"},
             {"name": "License", "value": "License"},

@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Pull stats
+      - name: Update data
         run: |
           python3 -m pip install requests
           python3 ./update.py
