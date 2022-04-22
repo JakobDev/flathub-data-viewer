@@ -15,8 +15,8 @@ function isArray(myArray) {
 }
 
 function removeDuplicates(arr) {
-    checkDict = {}
-    newArr = []
+    var checkDict = {}
+    var newArr = []
     for (let i in arr) {
         if (!checkDict[arr[i]]) {
             checkDict[arr[i]] = true;
@@ -45,9 +45,9 @@ function getSpecialChars(text) {
 }
 
 function updateUrlParameter() {
-    typesSelect = document.getElementById("types");
-    firstSelect = document.getElementById("first-select");
-    secondSelect = document.getElementById("second-select");
+    var typesSelect = document.getElementById("types");
+    var firstSelect = document.getElementById("first-select");
+    var secondSelect = document.getElementById("second-select");
 
     const url= new URL(window.location.href);
 
@@ -73,10 +73,10 @@ function updateUrlParameter() {
 }
 
 function updateVisibility() {
-    typesSelect = document.getElementById("types");
-    firstSelect = document.getElementById("first-select");
-    secondSelect = document.getElementById("second-select");
-    resultsArea = document.getElementById("resultsArea");
+    var typesSelect = document.getElementById("types");
+    var firstSelect = document.getElementById("first-select");
+    var secondSelect = document.getElementById("second-select");
+    var resultsArea = document.getElementById("resultsArea");
 
     if (typesSelect.value == "blank") {
         document.getElementById("description").style.setProperty("display", "none");
@@ -104,7 +104,7 @@ function updateVisibility() {
 }
 
 function fillTextArea() {
-    data = loadJSON("./data/" + document.getElementById("types").value + "/" + document.getElementById("first-select").value + ".json")
+    var data = loadJSON("./data/" + document.getElementById("types").value + "/" + document.getElementById("first-select").value + ".json")
 
     var val = document.getElementById("second-select").value;
 
@@ -134,7 +134,9 @@ function fillTextArea() {
         resultText += lines[i] + "\n";
     }
 
-    document.getElementById("resultsArea").value = resultText;
+    var resultsArea = document.getElementById("resultsArea");
+    resultsArea.value = resultText;
+    resultsArea.scrollTop = 0;
 
     that.updateUrlParameter();
     that.updateVisibility();
@@ -159,15 +161,18 @@ function firstBoxHandler() {
         return;
     }
 
+    var keys = Object.keys(secondData);
+    keys.sort();
+
     var allOption= document.createElement("option");
     allOption.text = "All";
     allOption.value = "all";
     secondSelect.add(allOption);
 
-    for (var key in secondData) {
+    for (var i in keys) {
         var dataOption= document.createElement("option");
-        dataOption.text = key;
-        dataOption.value = key;
+        dataOption.text = keys[i];
+        dataOption.value = keys[i];
         secondSelect.add(dataOption);
     }
 

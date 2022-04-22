@@ -9,7 +9,6 @@
         "share",
         "socket",
         "system-talk-name",
-        "talk-name",
-        "unset-environment"
+        "talk-name"
     ]
 }

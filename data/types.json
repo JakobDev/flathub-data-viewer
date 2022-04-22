@@ -20,6 +20,10 @@
         "value": "Permissions"
     },
     {
+        "name": "Architecture",
+        "value": "Architecture"
+    },
+    {
         "name": "URL",
         "value": "Url"
     },
