@@ -1,5 +1,6 @@
 [
     "com.github.bcedu.valasimplehttpserver",
     "com.github.bcedu.vgrive",
-    "io.github.cboxdoerfer.FSearch"
+    "io.github.cboxdoerfer.FSearch",
+    "org.kde.dolphin"
 ]

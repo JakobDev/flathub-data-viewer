@@ -1,5 +1,6 @@
 [
     "com.github.rafostar.Clapper",
+    "io.bassi.Amberol",
     "io.github.celluloid_player.Celluloid",
     "io.github.swanux.hbud",
     "io.mpv.Mpv",

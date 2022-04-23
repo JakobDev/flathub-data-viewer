@@ -146,6 +146,7 @@
         "io.github.cges30901.hmtimer",
         "org.gajim.Gajim",
         "org.gnome.Calendar",
+        "org.gnome.Firmware",
         "org.gnome.GTG",
         "org.gnome.Music",
         "org.gnome.OfficeRunner",

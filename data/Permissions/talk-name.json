@@ -1042,6 +1042,7 @@
         "org.kde.granatier",
         "org.kde.gwenview",
         "org.kde.haruna",
+        "org.kde.index",
         "org.kde.itinerary",
         "org.kde.kalgebra",
         "org.kde.kalk",
@@ -1290,6 +1291,7 @@
         "com.github.johnfactotum.Foliate",
         "com.github.liferooter.textpieces",
         "com.github.ztefn.haguichi",
+        "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.cunidev.Gestures",
         "com.gitlab.librebob.Athenaeum",
         "com.google.AndroidStudio",
@@ -1733,6 +1735,23 @@
         "org.parlatype.Parlatype",
         "org.strawberrymusicplayer.strawberry"
     ],
+    "org.gnome.evolution.dataserver.calendar8": [
+        "com.github.alainm23.planner",
+        "org.gnome.Calendar",
+        "org.gnome.Maps",
+        "org.gnome.Notes",
+        "org.gnome.Todo"
+    ],
+    "org.gnome.evolution.dataserver.sources5": [
+        "com.github.alainm23.planner",
+        "org.gnome.Calendar",
+        "org.gnome.Calls",
+        "org.gnome.Contacts",
+        "org.gnome.Maps",
+        "org.gnome.Notes",
+        "org.gnome.Todo",
+        "org.tabos.roger"
+    ],
     "org.gnome.shell.screencast": [
         "com.github.amikha1lov.RecApp",
         "com.uploadedlobster.peek",
@@ -1991,21 +2010,6 @@
     ],
     "org.freedesktop.packagekit": [
         "org.gnome.Builder"
-    ],
-    "org.gnome.evolution.dataserver.calendar8": [
-        "org.gnome.Calendar",
-        "org.gnome.Maps",
-        "org.gnome.Notes",
-        "org.gnome.Todo"
-    ],
-    "org.gnome.evolution.dataserver.sources5": [
-        "org.gnome.Calendar",
-        "org.gnome.Calls",
-        "org.gnome.Contacts",
-        "org.gnome.Maps",
-        "org.gnome.Notes",
-        "org.gnome.Todo",
-        "org.tabos.roger"
     ],
     "org.gnome.evolution.dataserver.addressbook9": [
         "org.gnome.Calendar",

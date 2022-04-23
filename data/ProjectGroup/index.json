@@ -92,7 +92,6 @@
         "application{SLASH}zip",
         "application{SLASH}zstd",
         "audio{SLASH}midi",
-        "audio{SLASH}x-vorbis+ogg",
         "audio{SLASH}x-wav",
         "audio{SLASH}x-wavpack",
         "audio{SLASH}x-xm",

@@ -348,7 +348,6 @@
     ],
     "moderate": [
         "com.dropbox.Client",
-        "com.github.alainm23.planner",
         "com.github.bleakgrey.tootle",
         "com.netease.CloudMusic",
         "com.wiz.Note",
