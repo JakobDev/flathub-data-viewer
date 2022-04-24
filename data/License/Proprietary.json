@@ -34,6 +34,7 @@
     "com.flashforge.FlashPrint",
     "com.getpostman.Postman",
     "com.github.corna.Vivado",
+    "com.github.fries1234.ncsa-mosaic",
     "com.google.AndroidStudio",
     "com.google.Chrome",
     "com.google.ChromeDev",

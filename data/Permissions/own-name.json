@@ -118,6 +118,9 @@
     "com.hack_computer.gamestateservice": [
         "com.hack_computer.Clubhouse"
     ],
+    "org.mpris.mediaplayer2.tidal-hifi": [
+        "com.mastermindzh.tidal-hifi"
+    ],
     "org.mpris.mediaplayer2.netease-cloud-music": [
         "com.netease.CloudMusic"
     ],
@@ -409,6 +412,9 @@
         "org.kde.kontact"
     ],
     "org.kde.kmail": [
+        "org.kde.kontact"
+    ],
+    "org.kde.kalendar": [
         "org.kde.kontact"
     ],
     "org.freedesktop.akonadi.resource.*": [

@@ -1,4 +1,5 @@
 [
+    "com.github.fries1234.ncsa-mosaic",
     "io.botfather.Botfather",
     "org.gnome.Epiphany",
     "org.mozilla.firefox"

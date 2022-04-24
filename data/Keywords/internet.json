@@ -1,6 +1,7 @@
 [
     "com.getmailspring.Mailspring",
     "com.github.Eloston.UngoogledChromium",
+    "com.github.fries1234.ncsa-mosaic",
     "es.estoes.wallpaperDownloader",
     "io.gitlab.librewolf-community",
     "org.chromium.Chromium",

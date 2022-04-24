@@ -414,6 +414,7 @@
     "org.yuzu_emu.yuzu",
     "org.zotero.Zotero",
     "org.zrythm.Zrythm",
+    "re.sonny.Commit",
     "re.sonny.Junction",
     "re.sonny.Tangram",
     "re.sonny.Workbench",

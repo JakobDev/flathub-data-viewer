@@ -1,6 +1,7 @@
 [
     "com.brave.Browser",
     "com.github.Eloston.UngoogledChromium",
+    "com.github.fries1234.ncsa-mosaic",
     "com.google.Chrome",
     "com.google.ChromeDev",
     "io.gitlab.librewolf-community",
