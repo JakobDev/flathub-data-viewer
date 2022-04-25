@@ -926,6 +926,7 @@
     "org.gnome.glabels-3",
     "org.gnome.meld",
     "org.gnome.moserial",
+    "org.gnome.seahorse.Application",
     "org.gnu.emacs",
     "org.gnucash.GnuCash",
     "org.gnumeric.Gnumeric",
