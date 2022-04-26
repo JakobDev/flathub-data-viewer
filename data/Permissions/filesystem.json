@@ -902,12 +902,14 @@
     "xdg-run/app/com.discordapp.Discord:create": [
         "app.ytmdesktop.ytmdesktop",
         "ca.parallel_launcher.ParallelLauncher",
+        "com.atlauncher.ATLauncher",
         "com.github.Anuken.Mindustry",
         "com.github.taiko2k.tauonmb",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.mastermindzh.tidal-hifi",
         "com.valvesoftware.Steam",
+        "io.github.hmlendea.geforcenow-electron",
         "io.github.shiiion.primehack",
         "net.runelite.RuneLite",
         "org.DolphinEmu.dolphin-emu",
@@ -1800,6 +1802,7 @@
     "xdg-run/gvfs": [
         "com.abisource.AbiWord",
         "com.axosoft.GitKraken",
+        "com.flashforge.FlashPrint",
         "com.github.Flacon",
         "com.github.PintaProject.Pinta",
         "com.github.flxzt.rnote",

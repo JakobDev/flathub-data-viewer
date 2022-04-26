@@ -416,6 +416,7 @@
     "org.zrythm.Zrythm",
     "re.sonny.Commit",
     "re.sonny.Junction",
+    "re.sonny.OhMySVG",
     "re.sonny.Tangram",
     "re.sonny.Workbench",
     "ru.proninyaroslav.libretrack",
