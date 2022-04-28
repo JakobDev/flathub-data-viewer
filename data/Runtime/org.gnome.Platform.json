@@ -520,13 +520,12 @@
     "3.26": [
         "com.lettier.movie-monad"
     ],
-    "3.34": [
-        "com.vinszent.GnomeTwitch",
-        "org.caione.GScope",
-        "org.laptop.TurtleArtActivity"
-    ],
     "3.32": [
         "de.create3000.titania"
+    ],
+    "3.34": [
+        "org.caione.GScope",
+        "org.laptop.TurtleArtActivity"
     ],
     "3.28": [
         "org.gnome.gbrainy",
