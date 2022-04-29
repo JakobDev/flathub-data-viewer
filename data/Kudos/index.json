@@ -1,0 +1,12 @@
+{
+    "description": "Shows all Apps with the given Kudo",
+    "data": [
+        "AppMenu",
+        "HiDpiIcon",
+        "HighContrast",
+        "ModernToolkit",
+        "Notifications",
+        "SearchProvider",
+        "UserDocs"
+    ]
+}

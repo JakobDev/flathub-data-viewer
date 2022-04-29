@@ -121,6 +121,9 @@
     "org.mpris.mediaplayer2.tidal-hifi": [
         "com.mastermindzh.tidal-hifi"
     ],
+    "org.mpris.mediaplayer2.edge.*": [
+        "com.microsoft.Edge"
+    ],
     "org.mpris.mediaplayer2.netease-cloud-music": [
         "com.netease.CloudMusic"
     ],

@@ -5,6 +5,7 @@
     "com.github.micahflee.torbrowser-launcher",
     "com.google.Chrome",
     "com.google.ChromeDev",
+    "com.microsoft.Edge",
     "io.gitlab.librewolf-community",
     "io.wavebox.Wavebox",
     "org.chromium.Chromium",

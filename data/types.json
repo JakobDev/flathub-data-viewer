@@ -50,5 +50,13 @@
     {
         "name": "Project Group",
         "value": "ProjectGroup"
+    },
+    {
+        "name": "Kudo",
+        "value": "Kudos"
+    },
+    {
+        "name": "TranslationType",
+        "value": "TranslationType"
     }
 ]

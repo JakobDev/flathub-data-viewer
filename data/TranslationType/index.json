@@ -1,0 +1,8 @@
+{
+    "description": "Shows all Apps with the given Translation Type",
+    "enableAll": true,
+    "data": [
+        "gettext",
+        "qt"
+    ]
+}

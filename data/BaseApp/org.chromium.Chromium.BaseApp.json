@@ -3,6 +3,7 @@
         "com.brave.Browser",
         "com.github.Eloston.UngoogledChromium",
         "com.google.Chrome",
-        "com.google.ChromeDev"
+        "com.google.ChromeDev",
+        "com.microsoft.Edge"
     ]
 }
