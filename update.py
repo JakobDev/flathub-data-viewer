@@ -135,7 +135,7 @@ def parse_appstream_api(app_id: str, data: dict):
             add_simple_to_data(data, "mimetypes", clear_filename(i), app_id)
 
     if "project_group" in r:
-        add_simple_to_data(data, "project_group", clear_filename(i), app_id)
+        add_simple_to_data(data, "project_group", clear_filename(r["project_group"]), app_id)
 
     if "kudos" in r:
         for i in r["kudos"]:
