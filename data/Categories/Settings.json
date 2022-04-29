@@ -1,6 +1,7 @@
 [
     "com.github.themix_project.Oomox",
     "com.ktechpit.wonderwall",
+    "io.github.realmazharhussain.GdmSettings",
     "org.bluesabre.MenuLibre",
     "org.freedesktop.adriconf",
     "org.freedesktop.dabrain34.GstPipelineStudio",

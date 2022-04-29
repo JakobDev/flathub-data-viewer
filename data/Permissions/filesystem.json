@@ -53,6 +53,7 @@
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.gitlab.JakobDev.jdAppdataEdit",
         "com.gitlab.JakobDev.jdMinecraftLauncher",
+        "com.gitlab.JakobDev.jdReplace",
         "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.cutecom.cutecom",
         "com.gitlab.jakobdev.jdnbtexplorer",
@@ -1708,6 +1709,7 @@
         "com.tracktion.Waveform",
         "com.viber.Viber",
         "com.wps.Office",
+        "eu.ngdevelopment.tsukitag",
         "in.bharatkalluri.splash",
         "info.febvre.Komikku",
         "io.github.Figma_Linux.figma_linux",
@@ -2278,6 +2280,15 @@
     "/var/log": [
         "io.github.rafaelfassi.QLogExplorer"
     ],
+    "/etc/dconf/profile/gdm": [
+        "io.github.realmazharhussain.GdmSettings"
+    ],
+    "host-os": [
+        "io.github.realmazharhussain.GdmSettings"
+    ],
+    "/etc/dconf/db/gdm.d": [
+        "io.github.realmazharhussain.GdmSettings"
+    ],
     "~/GOG Games:create": [
         "io.github.sharkwouter.Minigalaxy"
     ],
@@ -2329,6 +2340,12 @@
     ],
     "~/Projects": [
         "io.stoplight.studio"
+    ],
+    "xdg-data/backgrounds": [
+        "me.dusansimic.DynamicWallpaper"
+    ],
+    "xdg-data/gnome-background-properties": [
+        "me.dusansimic.DynamicWallpaper"
     ],
     "~/.local/share/Steam": [
         "net.davidotek.pupgui2"

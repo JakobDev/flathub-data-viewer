@@ -1,5 +1,6 @@
 [
     "com.github.themix_project.Oomox",
+    "io.github.realmazharhussain.GdmSettings",
     "org.bluesabre.MenuLibre",
     "org.gnome.seahorse.Application"
 ]
