@@ -111,6 +111,8 @@ function getResults(type, first, second) {
         loadJSON("./data/" + type + "/index.json")["data"].forEach(function(i) {
             results = results.concat(getResults(type, i, second));
         });
+        results = removeDuplicates(results);
+        results.sort();
         return results;
     }
 

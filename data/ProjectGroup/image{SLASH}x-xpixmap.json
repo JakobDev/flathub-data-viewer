@@ -1,9 +1,0 @@
-[
-    "io.photoflare.photoflare",
-    "org.cubocore.CoreImage",
-    "org.cubocore.CorePaint",
-    "org.gnome.eog",
-    "org.kde.kolourpaint",
-    "org.kde.pix",
-    "org.xfce.ristretto"
-]

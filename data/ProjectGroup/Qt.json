@@ -1,3 +1,4 @@
 [
-    "org.flatpak.qtdemo"
+    "io.qt.QtCreator",
+    "net.xm1math.Texmaker"
 ]
