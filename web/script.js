@@ -97,38 +97,52 @@ function updateVisibility() {
     }
 
     if (resultsArea.value.length == 0 || typesSelect.value == "blank" || firstSelect.value == "blank") {
+        document.getElementById("results-count").style.setProperty("display", "none");
         resultsArea.style.setProperty("display", "none");
     } else {
+        document.getElementById("results-count").style.removeProperty("display");
         resultsArea.style.removeProperty("display");
     }
 }
 
-function fillTextArea() {
-    var data = loadJSON("./data/" + document.getElementById("types").value + "/" + document.getElementById("first-select").value + ".json")
+function getResults(type, first, second) {
+    if (first == "all") {
+        let results = [];
+        loadJSON("./data/" + type + "/index.json")["data"].forEach(function(i) {
+            results = results.concat(getResults(type, i, second));
+        });
+        return results;
+    }
 
-    var val = document.getElementById("second-select").value;
+    var data = loadJSON("./data/" + type + "/" + first + ".json");
 
-    let lines = [];
+    let results = [];
 
     if (isArray(data)) {
         for (let i in data) {
-            lines.push(data[i]);
+            results.push(data[i]);
         }
     } else {
         for (const [key, value] of Object.entries(data)) {
-            if (key == val || val == "all") {
+            if (key == second || second == "all") {
                 for (let i in value) {
-                    lines.push(value[i]);
+                    results.push(value[i]);
                 }
             }
         }
     }
 
-    lines = removeDuplicates(lines);
+    results = removeDuplicates(results);
 
-    lines.sort();
+    results.sort();
 
-    resultText = "";
+    return results;
+}
+
+function fillTextArea() {
+    let lines = getResults(document.getElementById("types").value, document.getElementById("first-select").value, document.getElementById("second-select").value);
+
+    var resultText = "";
 
     for (let i in lines) {
         resultText += lines[i] + "\n";
@@ -138,8 +152,37 @@ function fillTextArea() {
     resultsArea.value = resultText;
     resultsArea.scrollTop = 0;
 
+    document.getElementById("results-count").innerText = lines.length + " results";
+
     that.updateUrlParameter();
     that.updateVisibility();
+}
+
+function getSecondSelectOptions(type, first) {
+    if (first == "blank") {
+        return [];
+    }
+
+    if (first == "all") {
+        let options = [];
+        loadJSON("./data/" + type + "/index.json")["data"].forEach(function(i) {
+            options = options.concat(getSecondSelectOptions(type, i));
+        });
+        options = removeDuplicates(options);
+        options.sort();
+        return options;
+    }
+
+    let secondData = loadJSON("./data/" + type + "/" + first+ ".json");
+
+    if (isArray(secondData)) {
+        return [];
+    }
+
+    var options = Object.keys(secondData);
+    options.sort();
+
+    return options;
 }
 
 function firstBoxHandler() {
@@ -150,29 +193,28 @@ function firstBoxHandler() {
         return;
     }
 
-    secondData = loadJSON("./data/" + document.getElementById("types").value + "/" + document.getElementById("first-select").value + ".json")
-
-    secondSelect = document.getElementById("second-select");
+    var secondSelect = document.getElementById("second-select");
 
     secondSelect.options.length = 0;
 
-    if (isArray(secondData)) {
+    var options = getSecondSelectOptions(document.getElementById("types").value, document.getElementById("first-select").value);
+
+    if (options.length == 0) {
         that.fillTextArea();
+        that.updateUrlParameter();
+        that.updateVisibility();
         return;
     }
-
-    var keys = Object.keys(secondData);
-    keys.sort();
 
     var allOption= document.createElement("option");
     allOption.text = "All";
     allOption.value = "all";
     secondSelect.add(allOption);
 
-    for (var i in keys) {
+    for (var i in options) {
         var dataOption= document.createElement("option");
-        dataOption.text = keys[i];
-        dataOption.value = keys[i];
+        dataOption.text = options[i];
+        dataOption.value = options[i];
         secondSelect.add(dataOption);
     }
 
@@ -190,11 +232,11 @@ function typesBoxHandler() {
         return;
     }
 
-    firstData = loadJSON("./data/" + document.getElementById("types").value + "/index.json")
+    var firstData = loadJSON("./data/" + document.getElementById("types").value + "/index.json")
 
     document.getElementById("description").innerText = firstData["description"];
 
-    firstSelect = document.getElementById("first-select");
+    var firstSelect = document.getElementById("first-select");
 
     firstSelect.options.length = 0;
 
@@ -202,6 +244,13 @@ function typesBoxHandler() {
     blankOption.text = "Select a Value";
     blankOption.value = "blank";
     firstSelect.add(blankOption);
+
+    if (firstData["enableAll"]) {
+        var allOption= document.createElement("option");
+        allOption.text = firstData.allText || "All";
+        allOption.value = "all";
+        firstSelect.add(allOption);
+    }
 
     for (let i = 0; i < firstData["data"].length; i++) {
         var dataOption= document.createElement('option');
@@ -215,9 +264,8 @@ function typesBoxHandler() {
 }
 
 window.onload = function() {
-    var types = document.getElementById("types")
+    var types = document.getElementById("types");
 
-    //let response = await fetch("./data/types.json");
 	let typeList = loadJSON("./data/types.json");
 
     var blankOption= document.createElement('option');
@@ -231,6 +279,8 @@ window.onload = function() {
         typeOption.value = typeList[i]["value"];
         types.add(typeOption);
     }
+
+    document.getElementById("app-count").innerText = "There are currently " + loadJSON("./data/appcount.json").toLocaleString() + " Apps on Flathub";
 
     let lastUpdated = new Date(loadJSON("./data/updated.json"));
     document.getElementById("last-updated").innerText = "Last updated at " + lastUpdated.toLocaleString();

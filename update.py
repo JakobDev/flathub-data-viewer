@@ -1,4 +1,4 @@
-from typing import Any
+from typing import Any, Optional
 import requests
 import shutil
 import json
@@ -20,7 +20,8 @@ def add_simple_to_data(data: dict, key: str, name: str, app_id: str):
     if name not in data[key]:
         data[key][name] = []
 
-    data[key][name].append(app_id)
+    if app_id not in data[key][name]:
+        data[key][name].append(app_id)
 
 
 def clear_filename(name: str) -> str:
@@ -36,7 +37,7 @@ def try_request(url: str) -> Any:
     for i in range(10):
         try:
             return requests.get(url).json()
-        except:
+        except Exception:
             time.sleep(1)
     raise Exception()
 
@@ -136,15 +137,37 @@ def parse_appstream_api(app_id: str, data: dict):
     if "project_group" in r:
         add_simple_to_data(data, "project_group", clear_filename(i), app_id)
 
+    if "kudos" in r:
+        for i in r["kudos"]:
+            add_simple_to_data(data, "kudos", i, app_id)
 
-def write_data(path: str, data: dict, description: str):
+    if "translation" in r:
+        if isinstance(r["translation"], list):
+            for i in r["translation"]:
+                add_simple_to_data(data, "translation_type", i["type"], app_id)
+        else:
+            add_simple_to_data(data, "translation_type", r["translation"]["type"], app_id)
+
+
+def write_data(path: str, data: dict, description: str, enable_all: bool = False, all_text: Optional[str] = None):
     try:
         os.makedirs(path)
-    except:
+    except Exception:
         pass
 
+    index = {}
+    index["description"] = description
+
+    if enable_all:
+        index["enableAll"] = True
+
+    if all_text:
+        index["allText"] = all_text
+
+    index["data"] = sorted(data)
+
     with open(os.path.join(path, "index.json"), "w", encoding="utf-8") as f:
-        json.dump({"description": description, "data": sorted(data)}, f, ensure_ascii=False, indent=4)
+        json.dump(index, f, ensure_ascii=False, indent=4)
 
     for i in sorted(data):
         with open(os.path.join(path, i + ".json"), "w", encoding="utf-8") as f:
@@ -166,8 +189,12 @@ def main():
     data["keywords"] = {}
     data["mimetypes"] = {}
     data["project_group"] = {}
+    data["kudos"] = {}
+    data["translation_type"] = {}
 
-    for i in requests.get("https://flathub.org/api/v2/appstream").json():
+    app_list = requests.get("https://flathub.org/api/v2/appstream").json()
+
+    for i in app_list:
         print(i)
         parse_summary_api(i, data)
         parse_appstream_api(i, data)
@@ -176,12 +203,12 @@ def main():
 
     try:
         shutil.rmtree(data_path)
-    except:
+    except Exception:
         pass
 
     try:
         os.makedirs(data_path)
-    except:
+    except Exception:
         pass
 
     write_data(os.path.join(data_path, "Runtime"), data["runtime"], "Shows all Apps with the given Runtime")
@@ -197,6 +224,8 @@ def main():
     write_data(os.path.join(data_path, "Keywords"), data["keywords"], "Shows all Apps with the given Keyword")
     write_data(os.path.join(data_path, "Mimetypes"), data["mimetypes"], "Shows all Apps with the given Mimetype")
     write_data(os.path.join(data_path, "ProjectGroup"), data["project_group"], "Shows all Apps with the given ProjectGroup")
+    write_data(os.path.join(data_path, "Kudos"), data["kudos"], "Shows all Apps with the given Kudo")
+    write_data(os.path.join(data_path, "TranslationType"), data["translation_type"], "Shows all Apps with the given Translation Type", enable_all=True)
 
     with open(os.path.join(data_path, "types.json"), "w", encoding="utf-8") as f:
         json.dump([
@@ -212,8 +241,13 @@ def main():
             {"name": "OARS", "value": "OARS"},
             {"name": "Keyword", "value": "Keywords"},
             {"name": "Mimetype", "value": "Mimetypes"},
-            {"name": "Project Group", "value": "ProjectGroup"}
+            {"name": "Project Group", "value": "ProjectGroup"},
+            {"name": "Kudo", "value": "Kudos"},
+            {"name": "TranslationType", "value": "TranslationType"}
         ], f, ensure_ascii=False, indent=4)
+
+    with open(os.path.join(data_path, "appcount.json"), "w", encoding="utf-8") as f:
+        json.dump(len(app_list), f, ensure_ascii=False, indent=4)
 
     with open(os.path.join(data_path, "updated.json"), "w", encoding="utf-8") as f:
         json.dump(int(time.time() * 1000), f, ensure_ascii=False, indent=4)
