@@ -1410,6 +1410,7 @@
         "com.github.cfcurtis.pdfstitcher",
         "com.github.corna.Vivado",
         "com.github.coslyk.MoonPlayer",
+        "com.github.dimkr.gplaces",
         "com.github.eneshecan.WhatsAppForLinux",
         "com.github.fries1234.ncsa-mosaic",
         "com.github.gabutakut.gabutdm",
@@ -2344,10 +2345,10 @@
     "~/Projects": [
         "io.stoplight.studio"
     ],
-    "xdg-data/backgrounds": [
+    "xdg-data/backgrounds:create": [
         "me.dusansimic.DynamicWallpaper"
     ],
-    "xdg-data/gnome-background-properties": [
+    "xdg-data/gnome-background-properties:create": [
         "me.dusansimic.DynamicWallpaper"
     ],
     "~/.local/share/Steam": [
