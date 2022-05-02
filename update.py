@@ -72,7 +72,7 @@ def parse_summary_api(app_id: str, data: dict):
 
     if "extensions" in r["metadata"]:
         for i in r["metadata"]["extensions"].keys():
-            if not i.startswith(app_id):
+            if not i.startswith(app_id.replace("-", "_")):
                 add_simple_to_data(data, "extensions", i, app_id)
 
     if "permissions" in r["metadata"]:
