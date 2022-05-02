@@ -1,7 +1,6 @@
 {
     "42": [
         "com.github.corna.Vivado",
-        "org.codeblocks.codeblocks",
         "org.gnome.Builder",
         "org.gnome.Devhelp"
     ],

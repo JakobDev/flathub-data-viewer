@@ -1,6 +1,7 @@
 [
     "app.organicmaps.desktop",
     "app.rednotebook.RedNotebook",
+    "app.riftshare.RiftShare",
     "app.xemu.xemu",
     "ar.com.pilas_engine.App",
     "ar.com.tuxguitar.TuxGuitar",
@@ -576,6 +577,7 @@
     "org.cloudcompare.CloudCompare",
     "org.cockpit_project.CockpitClient",
     "org.codeberg.dimkard.glossaico",
+    "org.codeblocks.codeblocks",
     "org.coolero.Coolero",
     "org.cryptomator.Cryptomator",
     "org.cubocore.CoreAction",

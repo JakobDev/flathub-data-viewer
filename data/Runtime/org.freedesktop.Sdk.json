@@ -31,6 +31,7 @@
         "io.neovim.nvim",
         "io.stoplight.studio",
         "org.apache.netbeans",
+        "org.codeblocks.codeblocks",
         "org.geany.Geany",
         "org.gnu.emacs",
         "org.thonny.Thonny"
