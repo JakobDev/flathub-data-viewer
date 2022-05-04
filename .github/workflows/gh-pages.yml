@@ -15,7 +15,7 @@ jobs:
 
       - name: Update data
         run: |
-          python3 -m pip install requests
+          python3 -m pip install -r requirements.txt
           python3 ./update.py
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

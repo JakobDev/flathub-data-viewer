@@ -150,11 +150,15 @@ function fillTextArea() {
         resultText += lines[i] + "\n";
     }
 
+    if (lines.length == 0) {
+        resultText = "No results found.";
+    }
+
     var resultsArea = document.getElementById("resultsArea");
     resultsArea.value = resultText;
     resultsArea.scrollTop = 0;
 
-    document.getElementById("results-count").innerText = lines.length + " results";
+    document.getElementById("results-count").innerText = lines.length.toLocaleString() + " results";
 
     that.updateUrlParameter();
     that.updateVisibility();
@@ -234,7 +238,7 @@ function typesBoxHandler() {
         return;
     }
 
-    var firstData = loadJSON("./data/" + document.getElementById("types").value + "/index.json")
+    var firstData = loadJSON("./data/" + document.getElementById("types").value + "/index.json");
 
     document.getElementById("description").innerText = firstData["description"];
 
@@ -256,7 +260,7 @@ function typesBoxHandler() {
 
     for (let i = 0; i < firstData["data"].length; i++) {
         var dataOption= document.createElement('option');
-        dataOption.text = getSpecialChars(firstData["data"][i]);
+        dataOption.text = firstData["dataNames"][firstData["data"][i]] || getSpecialChars(firstData["data"][i]);
         dataOption.value = firstData["data"][i];
         firstSelect.add(dataOption);
     }

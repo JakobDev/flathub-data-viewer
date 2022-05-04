@@ -1,9 +1,28 @@
 from typing import Any, Optional
+from datetime import datetime
+import appstream_python
 import requests
+import tempfile
+import random
 import shutil
 import json
 import time
 import os
+
+
+def download_file(url: str, path: str):
+    r = requests.get(url, stream=True)
+    with open(path, "wb") as f:
+        shutil.copyfileobj(r.raw, f)
+
+
+def get_appstream_data() -> appstream_python.AppstreamCollection:
+    temp_path = os.path.join(tempfile.gettempdir(), f"Flathub_Appstream_{random.randint(1, 1000000)}.tmp")
+    download_file("https://hub.flathub.org/repo/appstream/x86_64/appstream.xml.gz", temp_path)
+    appstream_collection = appstream_python.AppstreamCollection()
+    appstream_collection.load_compressed_appstream_collection(temp_path)
+    os.remove(temp_path)
+    return appstream_collection
 
 
 def add_to_data(data: dict, key: str, first: str, second: str, value: str):
@@ -98,58 +117,71 @@ def parse_summary_api(app_id: str, data: dict):
         add_simple_to_data(data, "arch", i, app_id)
 
 
-def parse_appstream_api(app_id: str, data: dict):
-    r = try_request("https://flathub.org/api/v2/appstream/" + app_id)
+def parse_appstream(app_id: str, data: dict, appstream_collection: appstream_python.AppstreamCollection):
+    component = appstream_collection.get_component(app_id)
 
-    for i in r["urls"].keys():
+    if component is None:
+        component = appstream_collection.get_component(app_id + ".desktop")
+        if component is None:
+            print("Error " + app_id)
+            return
+
+    for i in list(component.urls.keys()):
         add_simple_to_data(data, "url", i, app_id)
 
-    if "categories" in r:
-        for i in r["categories"]:
-            add_simple_to_data(data, "categories", i, app_id)
+    for i in component.categories:
+        add_simple_to_data(data, "categories", i, app_id)
 
-    if "project_license" in r:
-        if r["project_license"].startswith("LicenseRef"):
-            add_simple_to_data(data, "license", "Proprietary", app_id)
-        else:
-            add_simple_to_data(data, "license", r["project_license"], app_id)
-    else:
+    if component.project_license == "":
         add_simple_to_data(data, "license", "Unknown", app_id)
+    elif component.project_license.startswith("LicenseRef"):
+        add_simple_to_data(data, "license", "Proprietary", app_id)
+    else:
+        add_simple_to_data(data, "license", component.project_license, app_id)
 
-    if "content_rating" in r:
-        if not isinstance(r["content_rating"], list):
-            for key, value in r["content_rating"].items():
-                if key == "type":
-                    continue
+    for key, value in component.oars.items():
+        add_to_data(data, "oars", key, value, app_id)
 
-                add_to_data(data, "oars", key, value, app_id)
+    for i in component.keywords.get_default_list():
+        i = clear_filename(i)
+        if i != "":
+            add_simple_to_data(data, "keywords", i, app_id)
 
-    if "keywords" in r:
-        for i in r["keywords"]:
-            i = clear_filename(i)
-            if i != "":
-                add_simple_to_data(data, "keywords", i, app_id)
+    for i in component.provides["mediatype"]:
+        add_simple_to_data(data, "mimetypes", clear_filename(i), app_id)
 
-    if "mimetypes" in r:
-        for i in r["mimetypes"]:
-            add_simple_to_data(data, "mimetypes", clear_filename(i), app_id)
+    if component.project_group:
+        add_simple_to_data(data, "project_group", clear_filename(component.project_group), app_id)
 
-    if "project_group" in r:
-        add_simple_to_data(data, "project_group", clear_filename(r["project_group"]), app_id)
+    for i in component.kudos:
+        add_simple_to_data(data, "kudos", i, app_id)
 
-    if "kudos" in r:
-        for i in r["kudos"]:
-            add_simple_to_data(data, "kudos", i, app_id)
+    for i in component.translation:
+        add_simple_to_data(data, "translation_type", i["type"], app_id)
 
-    if "translation" in r:
-        if isinstance(r["translation"], list):
-            for i in r["translation"]:
-                add_simple_to_data(data, "translation_type", i["type"], app_id)
+    for i in list(component.languages.keys()):
+        add_simple_to_data(data, "app_language", i, app_id)
+
+    for i in component.get_aviable_languages():
+        add_simple_to_data(data, "appstream_language", i, app_id)
+
+    if len(component.releases) >= 1:
+        last_updated_days = (datetime.now().date() - component.releases[0].date).days
+        if last_updated_days <= 7:
+            add_simple_to_data(data, "last_updated", "Week", app_id)
+        elif last_updated_days <= 31:
+            add_simple_to_data(data, "last_updated", "Month", app_id)
+        elif last_updated_days <= 182:
+            add_simple_to_data(data, "last_updated", "HalfYear", app_id)
+        elif last_updated_days <= 365:
+            add_simple_to_data(data, "last_updated", "Year", app_id)
         else:
-            add_simple_to_data(data, "translation_type", r["translation"]["type"], app_id)
+            add_simple_to_data(data, "last_updated", "Older", app_id)
+    else:
+        add_simple_to_data(data, "last_updated", "Unknown", app_id)
 
 
-def write_data(path: str, data: dict, description: str, enable_all: bool = False, all_text: Optional[str] = None):
+def write_data(path: str, data: dict, description: str, enable_all: bool = False, all_text: Optional[str] = None, data_names: Optional[dict[str, str]] = None, sort_alphabetically: bool = True):
     try:
         os.makedirs(path)
     except Exception:
@@ -164,7 +196,12 @@ def write_data(path: str, data: dict, description: str, enable_all: bool = False
     if all_text:
         index["allText"] = all_text
 
-    index["data"] = sorted(data)
+    if sort_alphabetically:
+        index["data"] = sorted(data)
+    else:
+        index["data"] = list(data.keys())
+
+    index["dataNames"] = data_names or {}
 
     with open(os.path.join(path, "index.json"), "w", encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False, indent=4)
@@ -191,13 +228,18 @@ def main():
     data["project_group"] = {}
     data["kudos"] = {}
     data["translation_type"] = {}
+    data["app_language"] = {}
+    data["appstream_language"] = {}
+    data["last_updated"] = {"Week": [], "Month": [], "HalfYear": [], "Year": [], "Older": [], "Unknown": []}
 
     app_list = requests.get("https://flathub.org/api/v2/appstream").json()
+
+    appstream_collection = get_appstream_data()
 
     for i in app_list:
         print(i)
         parse_summary_api(i, data)
-        parse_appstream_api(i, data)
+        parse_appstream(i, data, appstream_collection)
 
     data_path = "web/data"
 
@@ -226,6 +268,9 @@ def main():
     write_data(os.path.join(data_path, "ProjectGroup"), data["project_group"], "Shows all Apps with the given ProjectGroup")
     write_data(os.path.join(data_path, "Kudos"), data["kudos"], "Shows all Apps with the given Kudo")
     write_data(os.path.join(data_path, "TranslationType"), data["translation_type"], "Shows all Apps with the given Translation Type", enable_all=True)
+    write_data(os.path.join(data_path, "AppLanguage"), data["app_language"], "Shows all Apps which are aviable in the given Language")
+    write_data(os.path.join(data_path, "AppstreamLanguage"), data["appstream_language"], "Shows all Apps with has a Appstream Translation in the given Language", enable_all=True, all_text="All Apps with at least one translation")
+    write_data(os.path.join(data_path, "LastUpdated"), data["last_updated"], "Shows all Apps that are last updated in the given range", data_names={"Week": "In the last Week", "Month": "In the last Month", "HalfYear": "In the last half Year", "Year": "In the last Year"}, sort_alphabetically=False)
 
     with open(os.path.join(data_path, "types.json"), "w", encoding="utf-8") as f:
         json.dump([
@@ -243,7 +288,10 @@ def main():
             {"name": "Mimetype", "value": "Mimetypes"},
             {"name": "Project Group", "value": "ProjectGroup"},
             {"name": "Kudo", "value": "Kudos"},
-            {"name": "TranslationType", "value": "TranslationType"}
+            {"name": "Translation Type", "value": "TranslationType"},
+            {"name": "App Language", "value": "AppLanguage"},
+            {"name": "Appstream Language", "value": "AppstreamLanguage"},
+            {"name": "Last Updated", "value": "LastUpdated"}
         ], f, ensure_ascii=False, indent=4)
 
     with open(os.path.join(data_path, "appcount.json"), "w", encoding="utf-8") as f:
