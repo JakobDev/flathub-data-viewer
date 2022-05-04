@@ -203,6 +203,7 @@
     "intense": [
         "at.vintagestory.VintageStory",
         "cc.retroshare.retroshare-gui",
+        "ch.threema.threema-web-desktop",
         "chat.delta.desktop",
         "chat.quadrix.Quadrix",
         "chat.revolt.RevoltDesktop",

@@ -1386,6 +1386,7 @@
     ],
     "xdg-download": [
         "ch.protonmail.protonmail-import-export-app",
+        "ch.threema.threema-web-desktop",
         "chat.delta.desktop",
         "chat.quadrix.Quadrix",
         "chat.rocket.RocketChat",
@@ -1725,6 +1726,7 @@
         "net.sourceforge.pdfchain",
         "net.xmind.XMind",
         "net.xmind.XMind8",
+        "org.cubocore.CoreShot",
         "org.entangle_photo.Manager",
         "org.firestormviewer.FirestormViewer",
         "org.gnome.Cheese",
@@ -2403,9 +2405,6 @@
     ],
     "xdg-run/org.keepassxc.KeePassXC.BrowserServer": [
         "org.cryptomator.Cryptomator"
-    ],
-    "xdg-pictures/Screen Shots": [
-        "org.cubocore.CoreShot"
     ],
     "~/.crawlrc:ro": [
         "org.develz.Crawl"

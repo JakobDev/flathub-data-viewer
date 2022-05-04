@@ -13,6 +13,7 @@
     "ch.openboard.OpenBoard",
     "ch.protonmail.protonmail-bridge",
     "ch.protonmail.protonmail-import-export-app",
+    "ch.threema.threema-web-desktop",
     "chat.revolt.RevoltDesktop",
     "chat.rocket.RocketChat",
     "chat.tandem.Client",
