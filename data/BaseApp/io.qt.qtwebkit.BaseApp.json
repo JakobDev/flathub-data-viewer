@@ -4,6 +4,7 @@
         "com.github.fontmatrix.Fontmatrix",
         "com.icanblink.blink",
         "com.notepadqq.Notepadqq",
+        "com.sourcepole.kadas",
         "info.smplayer.SMPlayer",
         "org.fcitx.Fcitx5",
         "org.freecadweb.FreeCAD",
@@ -15,7 +16,6 @@
     ],
     "5.15": [
         "com.codemouse92.timecard",
-        "com.sourcepole.kadas",
         "io.github.cloose.CuteMarkEd",
         "org.subsurface_divelog.Subsurface"
     ],

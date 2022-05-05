@@ -1,0 +1,23 @@
+[
+    "org.gnome.Aisleriot",
+    "org.gnome.Calculator",
+    "org.gnome.Dictionary",
+    "org.gnome.Evince",
+    "org.gnome.FileRoller",
+    "org.gnome.Four-in-a-row",
+    "org.gnome.Klotski",
+    "org.gnome.Mines",
+    "org.gnome.Nibbles",
+    "org.gnome.PowerStats",
+    "org.gnome.Quadrapassel",
+    "org.gnome.Robots",
+    "org.gnome.SoundJuicer",
+    "org.gnome.Sudoku",
+    "org.gnome.Tali",
+    "org.gnome.baobab",
+    "org.gnome.eog",
+    "org.gnome.five-or-more",
+    "org.gnome.gedit",
+    "org.gnucash.GnuCash",
+    "org.inkscape.Inkscape"
+]

@@ -11,7 +11,8 @@
         "nl.g4d.Girens",
         "org.rolisteam.rolisteam",
         "org.srb2.SRB2",
-        "org.srb2.SRB2Kart"
+        "org.srb2.SRB2Kart",
+        "org.turbowarp.TurboWarp"
     ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",

@@ -1,0 +1,23 @@
+[
+    "org.sugarlabs.AbacusActivity",
+    "org.sugarlabs.Chart",
+    "org.sugarlabs.Chess",
+    "org.sugarlabs.ColorDeducto",
+    "org.sugarlabs.Dimensions",
+    "org.sugarlabs.Finance",
+    "org.sugarlabs.FotoToon",
+    "org.sugarlabs.FractionBounce",
+    "org.sugarlabs.ImplodeActivity",
+    "org.sugarlabs.Maze",
+    "org.sugarlabs.Measure",
+    "org.sugarlabs.Memorize",
+    "org.sugarlabs.Paint",
+    "org.sugarlabs.Physics",
+    "org.sugarlabs.Pippy",
+    "org.sugarlabs.Pukllanapac",
+    "org.sugarlabs.Sliderule",
+    "org.sugarlabs.Speak",
+    "org.sugarlabs.StoryActivity",
+    "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint"
+]

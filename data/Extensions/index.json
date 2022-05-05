@@ -31,5 +31,6 @@
         "org.winehq.Wine.DLLs",
         "org.winehq.Wine.gecko",
         "org.winehq.Wine.mono"
-    ]
+    ],
+    "dataNames": {}
 }

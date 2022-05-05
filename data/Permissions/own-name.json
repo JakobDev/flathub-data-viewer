@@ -228,9 +228,6 @@
     "org.mpris.mediaplayer2.goodvibes": [
         "io.gitlab.Goodvibes"
     ],
-    "org.freedesktop.notifications": [
-        "io.gitlab.librewolf-community"
-    ],
     "io.gitlab.librewolf.*": [
         "io.gitlab.librewolf-community"
     ],

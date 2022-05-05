@@ -1,0 +1,17 @@
+[
+    "com.github.gi_lom.dialect",
+    "io.github.TransmissionRemoteGtk",
+    "net.sourceforge.Lifeograph",
+    "org.gnome.Calculator",
+    "org.gnome.Dictionary",
+    "org.gnome.Evince",
+    "org.gnome.Evolution",
+    "org.gnome.FileRoller",
+    "org.gnome.Mines",
+    "org.gnome.Rhythmbox3",
+    "org.gnome.Robots",
+    "org.gnome.Tali",
+    "org.gnome.baobab",
+    "org.gnome.eog",
+    "org.gnome.gedit"
+]

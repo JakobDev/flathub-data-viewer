@@ -3,10 +3,13 @@
     "data": [
         "bugtracker",
         "contact",
+        "contribute",
         "donation",
         "faq",
         "help",
         "homepage",
-        "translate"
-    ]
+        "translate",
+        "vcs-browser"
+    ],
+    "dataNames": {}
 }

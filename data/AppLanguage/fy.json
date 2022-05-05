@@ -1,0 +1,16 @@
+[
+    "com.github.gi_lom.dialect",
+    "org.gnome.Calendar",
+    "org.gnome.Characters",
+    "org.gnome.Epiphany",
+    "org.gnome.FileRoller",
+    "org.gnome.Music",
+    "org.gnome.Weather",
+    "org.gnome.baobab",
+    "org.gnome.clocks",
+    "org.gnome.eog",
+    "org.sugarlabs.AbacusActivity",
+    "org.sugarlabs.Paint",
+    "org.widelands.Widelands",
+    "org.x.Warpinator"
+]

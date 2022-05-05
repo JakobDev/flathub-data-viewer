@@ -1,0 +1,15 @@
+[
+    "com.github.gi_lom.dialect",
+    "com.github.treagod.spectator",
+    "org.gnome.Calendar",
+    "org.gnome.Characters",
+    "org.gnome.Epiphany",
+    "org.gnome.Extensions",
+    "org.gnome.Music",
+    "org.gnome.Weather",
+    "org.gnome.baobab",
+    "org.gnome.clocks",
+    "org.gnome.eog",
+    "org.widelands.Widelands",
+    "org.x.Warpinator"
+]

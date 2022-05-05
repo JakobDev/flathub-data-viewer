@@ -3,18 +3,12 @@
     "data": [
         "drugs-alcohol",
         "drugs-narcotics",
-        "drugs-tobacco",
         "language-discrimination",
         "language-humor",
         "language-profanity",
         "money-advertising",
         "money-gambling",
         "money-purchasing",
-        "sex-adultery",
-        "sex-appearance",
-        "sex-homosexuality",
-        "sex-nudity",
-        "sex-prostitution",
         "sex-themes",
         "social-audio",
         "social-chat",
@@ -27,7 +21,7 @@
         "violence-fantasy",
         "violence-realistic",
         "violence-sexual",
-        "violence-slavery",
-        "violence-worship"
-    ]
+        "violence-slavery"
+    ],
+    "dataNames": {}
 }

@@ -1,0 +1,18 @@
+[
+    "im.pidgin.Pidgin",
+    "io.otsaloma.nfoview",
+    "org.gimp.GIMP",
+    "org.glimpse_editor.Glimpse",
+    "org.gnome.Dictionary",
+    "org.gnome.Evince",
+    "org.gnome.Rhythmbox3",
+    "org.gnome.Sudoku",
+    "org.gnome.baobab",
+    "org.gnome.eog",
+    "org.gnome.font-viewer",
+    "org.gnome.gedit",
+    "org.gnome.seahorse.Application",
+    "org.inkscape.Inkscape",
+    "org.kde.gcompris",
+    "org.stellarium.Stellarium"
+]

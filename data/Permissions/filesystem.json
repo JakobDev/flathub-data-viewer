@@ -1197,6 +1197,7 @@
         "org.cloudcompare.CloudCompare",
         "org.codeblocks.codeblocks",
         "org.cubocore.CoreImage",
+        "org.cubocore.CoreShot",
         "org.cvfosammmm.Porto",
         "org.cvfosammmm.Setzer",
         "org.d3cod3.Mosaic",
@@ -1726,7 +1727,6 @@
         "net.sourceforge.pdfchain",
         "net.xmind.XMind",
         "net.xmind.XMind8",
-        "org.cubocore.CoreShot",
         "org.entangle_photo.Manager",
         "org.firestormviewer.FirestormViewer",
         "org.gnome.Cheese",
@@ -2428,7 +2428,8 @@
         "org.firestormviewer.FirestormViewer"
     ],
     "/run/spnav.sock:ro": [
-        "org.freecadweb.FreeCAD"
+        "org.freecadweb.FreeCAD",
+        "org.horizon_eda.HorizonEDA"
     ],
     "xdg-data/fonts": [
         "org.gabmus.gfeeds"

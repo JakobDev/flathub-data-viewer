@@ -1798,6 +1798,7 @@
         "swatch",
         "sweet",
         "swf",
+        "switch",
         "switches",
         "symbols",
         "sync",
@@ -1991,5 +1992,6 @@
         "{DOUBLEQUOTE}",
         "{DOUBLEQUOTE}USB",
         "{SPACE}airshipper"
-    ]
+    ],
+    "dataNames": {}
 }

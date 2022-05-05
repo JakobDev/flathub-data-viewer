@@ -1,0 +1,12 @@
+[
+    "com.tux4kids.tuxtype",
+    "net.minetest.Minetest",
+    "net.supertuxkart.SuperTuxKart",
+    "org.sugarlabs.AbacusActivity",
+    "org.sugarlabs.Finance",
+    "org.sugarlabs.Maze",
+    "org.sugarlabs.Memorize",
+    "org.sugarlabs.Paint",
+    "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint"
+]

@@ -1,0 +1,20 @@
+[
+    "com.github.artemanufrij.playmymusic",
+    "io.github.Hexchat",
+    "net.poedit.Poedit",
+    "org.gnome.Aisleriot",
+    "org.gnome.Calculator",
+    "org.gnome.Epiphany",
+    "org.gnome.Evolution",
+    "org.gnome.FileRoller",
+    "org.gnome.Gtranslator",
+    "org.gnome.Quadrapassel",
+    "org.gnome.Rhythmbox3",
+    "org.gnome.SoundJuicer",
+    "org.gnome.Tali",
+    "org.gnome.Totem",
+    "org.gnome.eog",
+    "org.gnome.gThumb",
+    "org.gnome.gedit",
+    "org.tuxpaint.Tuxpaint"
+]

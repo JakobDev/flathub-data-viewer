@@ -1,0 +1,14 @@
+[
+    "app.rednotebook.RedNotebook",
+    "com.belmoussaoui.Decoder",
+    "com.github.johnfactotum.Foliate",
+    "io.github.celluloid_player.Celluloid",
+    "io.otsaloma.gaupol",
+    "org.geany.Geany",
+    "org.gnome.Lollypop",
+    "org.gtkhash.gtkhash",
+    "org.remmina.Remmina",
+    "org.x.Warpinator",
+    "org.xfce.mousepad",
+    "org.xfce.ristretto"
+]

@@ -10,5 +10,6 @@
         "socket",
         "system-talk-name",
         "talk-name"
-    ]
+    ],
+    "dataNames": {}
 }

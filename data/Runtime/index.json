@@ -7,5 +7,6 @@
         "org.gnome.Sdk",
         "org.kde.Platform",
         "org.kde.Sdk"
-    ]
+    ],
+    "dataNames": {}
 }

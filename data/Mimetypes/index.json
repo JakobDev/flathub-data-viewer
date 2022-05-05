@@ -1579,5 +1579,6 @@
         "x-scheme-handler{SLASH}zotero",
         "x-scheme-handler{SLASH}zune",
         "x-world{SLASH}x-vrml"
-    ]
+    ],
+    "dataNames": {}
 }

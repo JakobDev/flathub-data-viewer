@@ -1,0 +1,17 @@
+{
+    "description": "Shows all Apps that are last updated in the given range",
+    "data": [
+        "Week",
+        "Month",
+        "HalfYear",
+        "Year",
+        "Older",
+        "Unknown"
+    ],
+    "dataNames": {
+        "Week": "In the last Week",
+        "Month": "In the last Month",
+        "HalfYear": "In the last half Year",
+        "Year": "In the last Year"
+    }
+}

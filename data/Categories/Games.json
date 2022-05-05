@@ -7,6 +7,5 @@
     "org.flycast.Flycast",
     "org.love2d.love2d",
     "org.pjbroad.EternallandsClient",
-    "org.tabos.twofun",
-    "org.yuzu_emu.yuzu"
+    "org.tabos.twofun"
 ]

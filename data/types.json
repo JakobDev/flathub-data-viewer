@@ -56,7 +56,19 @@
         "value": "Kudos"
     },
     {
-        "name": "TranslationType",
+        "name": "Translation Type",
         "value": "TranslationType"
+    },
+    {
+        "name": "App Language",
+        "value": "AppLanguage"
+    },
+    {
+        "name": "Appstream Language",
+        "value": "AppstreamLanguage"
+    },
+    {
+        "name": "Last Updated",
+        "value": "LastUpdated"
     }
 ]

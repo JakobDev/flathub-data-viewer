@@ -114,7 +114,8 @@
         "ro.go.hmlendea.DL-Desktop",
         "se.manyver.Manyverse",
         "sh.cider.Cider",
-        "social.whalebird.WhalebirdDesktop"
+        "social.whalebird.WhalebirdDesktop",
+        "us.zoom.Zoom"
     ],
     "19.08": [
         "com.avocode.Avocode",

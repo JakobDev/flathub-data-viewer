@@ -10,5 +10,6 @@
     "net.sf.VICE",
     "org.libretro.RetroArch",
     "org.openmsx.openMSX",
-    "org.pegasus_frontend.Pegasus"
+    "org.pegasus_frontend.Pegasus",
+    "org.yuzu_emu.yuzu"
 ]
