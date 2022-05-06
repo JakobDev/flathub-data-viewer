@@ -49,7 +49,7 @@ def clear_filename(name: str) -> str:
     name = name.replace("\"", "{DOUBLEQUOTE}")
     name = name.replace(" ", "{SPACE}")
     name = name.replace("*", "{ASTERISK}")
-    return name
+    return name[:50]
 
 
 def try_request(url: str) -> Any:
@@ -77,6 +77,9 @@ PERMISSON_NAMES = {
 
 def parse_summary_api(app_id: str, data: dict):
     r = try_request("https://flathub.org/api/v2/summary/" + app_id)
+
+    if r is None:
+        return
 
     runtime_name, _, runtime_version = r["metadata"]["runtime"].split("/")
     add_to_data(data, "runtime", runtime_name, runtime_version, app_id)
@@ -117,15 +120,7 @@ def parse_summary_api(app_id: str, data: dict):
         add_simple_to_data(data, "arch", i, app_id)
 
 
-def parse_appstream(app_id: str, data: dict, appstream_collection: appstream_python.AppstreamCollection):
-    component = appstream_collection.get_component(app_id)
-
-    if component is None:
-        component = appstream_collection.get_component(app_id + ".desktop")
-        if component is None:
-            print("Error " + app_id)
-            return
-
+def parse_appstream(app_id: str, data: dict, component: appstream_python.AppstreamComponent):
     for i in list(component.urls.keys()):
         add_simple_to_data(data, "url", i, app_id)
 
@@ -136,8 +131,10 @@ def parse_appstream(app_id: str, data: dict, appstream_collection: appstream_pyt
         add_simple_to_data(data, "license", "Unknown", app_id)
     elif component.project_license.startswith("LicenseRef"):
         add_simple_to_data(data, "license", "Proprietary", app_id)
+    elif component.project_license.upper().find(" AND ") != -1 or component.project_license.upper().find(" OR ") != -1:
+        add_simple_to_data(data, "license", "Multiple", app_id)
     else:
-        add_simple_to_data(data, "license", component.project_license, app_id)
+        add_simple_to_data(data, "license", clear_filename(component.project_license), app_id)
 
     for key, value in component.oars.items():
         add_to_data(data, "oars", key, value, app_id)
@@ -179,6 +176,11 @@ def parse_appstream(app_id: str, data: dict, appstream_collection: appstream_pyt
             add_simple_to_data(data, "last_updated", "Older", app_id)
     else:
         add_simple_to_data(data, "last_updated", "Unknown", app_id)
+
+    for i in component.extends:
+        add_simple_to_data(data, "addons", i.removesuffix(".desktop"), app_id)
+
+    add_simple_to_data(data, "type", component.type, app_id)
 
 
 def write_data(path: str, data: dict, description: str, enable_all: bool = False, all_text: Optional[str] = None, data_names: Optional[dict[str, str]] = None, sort_alphabetically: bool = True):
@@ -231,15 +233,16 @@ def main():
     data["app_language"] = {}
     data["appstream_language"] = {}
     data["last_updated"] = {"Week": [], "Month": [], "HalfYear": [], "Year": [], "Older": [], "Unknown": []}
-
-    app_list = requests.get("https://flathub.org/api/v2/appstream").json()
+    data["addons"] = {}
+    data["type"] = {}
 
     appstream_collection = get_appstream_data()
 
-    for i in app_list:
-        print(i)
-        parse_summary_api(i, data)
-        parse_appstream(i, data, appstream_collection)
+    for i in appstream_collection.get_component_list():
+        app_id = i.id.removesuffix(".desktop")
+        print(app_id)
+        parse_summary_api(app_id, data)
+        parse_appstream(app_id, data, i)
 
     data_path = "web/data"
 
@@ -271,6 +274,8 @@ def main():
     write_data(os.path.join(data_path, "AppLanguage"), data["app_language"], "Shows all Apps which are aviable in the given Language")
     write_data(os.path.join(data_path, "AppstreamLanguage"), data["appstream_language"], "Shows all Apps with has a Appstream Translation in the given Language", enable_all=True, all_text="All Apps with at least one translation")
     write_data(os.path.join(data_path, "LastUpdated"), data["last_updated"], "Shows all Apps that are last updated in the given range", data_names={"Week": "In the last Week", "Month": "In the last Month", "HalfYear": "In the last half Year", "Year": "In the last Year"}, sort_alphabetically=False)
+    write_data(os.path.join(data_path, "Addons"), data["addons"], "Shows all Aaddons of the given App")
+    write_data(os.path.join(data_path, "Type"), data["type"], "Shows all Apps with the given Type")
 
     with open(os.path.join(data_path, "types.json"), "w", encoding="utf-8") as f:
         json.dump([
@@ -291,11 +296,13 @@ def main():
             {"name": "Translation Type", "value": "TranslationType"},
             {"name": "App Language", "value": "AppLanguage"},
             {"name": "Appstream Language", "value": "AppstreamLanguage"},
-            {"name": "Last Updated", "value": "LastUpdated"}
+            {"name": "Last Updated", "value": "LastUpdated"},
+            {"name": "Addons", "value": "Addons"},
+            {"name": "Type", "value": "Type"}
         ], f, ensure_ascii=False, indent=4)
 
     with open(os.path.join(data_path, "appcount.json"), "w", encoding="utf-8") as f:
-        json.dump(len(app_list), f, ensure_ascii=False, indent=4)
+        json.dump(len(appstream_collection), f, ensure_ascii=False, indent=4)
 
     with open(os.path.join(data_path, "updated.json"), "w", encoding="utf-8") as f:
         json.dump(int(time.time() * 1000), f, ensure_ascii=False, indent=4)
