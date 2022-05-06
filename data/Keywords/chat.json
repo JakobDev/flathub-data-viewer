@@ -13,5 +13,6 @@
     "net.jami.Jami",
     "org.gajim.Gajim",
     "org.gnome.Fractal",
+    "org.gnunet.Messenger",
     "org.telegram.desktop"
 ]

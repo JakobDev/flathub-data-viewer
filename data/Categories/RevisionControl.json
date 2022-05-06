@@ -1,6 +1,7 @@
 [
     "com.axosoft.GitKraken",
     "com.github.Alcaro.Flips",
+    "com.github.git_cola.git-cola",
     "com.sublimemerge.App",
     "com.syntevo.SmartGit",
     "org.gnome.gitg",

@@ -19,6 +19,7 @@
     "net.jami.Jami",
     "org.briarproject.Briar",
     "org.gajim.Gajim",
+    "org.gnunet.Messenger",
     "org.mozilla.Thunderbird",
     "org.nanuc.Axolotl",
     "org.quassel_irc.QuasselClient",

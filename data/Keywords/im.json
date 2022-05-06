@@ -4,5 +4,6 @@
     "io.github.kotatogram",
     "net.jami.Jami",
     "org.gajim.Gajim",
+    "org.gnunet.Messenger",
     "org.telegram.desktop"
 ]

@@ -20,5 +20,6 @@
     "org.hydrogenmusic.Hydrogen",
     "org.mozilla.firefox",
     "org.netsurf_browser.NetSurf",
-    "org.qutebrowser.qutebrowser"
+    "org.qutebrowser.qutebrowser",
+    "org.qxmledit.QXmlEdit"
 ]

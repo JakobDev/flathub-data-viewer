@@ -1,5 +1,6 @@
 [
     "com.github.fries1234.ncsa-mosaic",
+    "com.ranfdev.Geopard",
     "io.botfather.Botfather",
     "org.gnome.Epiphany",
     "org.mozilla.firefox"

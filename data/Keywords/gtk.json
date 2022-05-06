@@ -1,4 +1,5 @@
 [
     "com.github.themix_project.Oomox",
-    "im.srain.Srain"
+    "im.srain.Srain",
+    "org.gnunet.Messenger"
 ]

@@ -4,5 +4,6 @@
     "im.kaidan.kaidan",
     "io.github.kotatogram",
     "org.gajim.Gajim",
+    "org.gnunet.Messenger",
     "org.telegram.desktop"
 ]

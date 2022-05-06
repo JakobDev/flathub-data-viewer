@@ -74,6 +74,7 @@
     "com.usebottles.bottles",
     "com.vicr123.thebeat",
     "com.zettlr.Zettlr",
+    "cz.cvut.edu.comparch.qtrvsim",
     "cz.pervoj.valdo-gtk",
     "de.haeckerfelix.AudioSharing",
     "de.haeckerfelix.Fragments",
@@ -92,6 +93,7 @@
     "io.bassi.Amberol",
     "io.github.ImEditor",
     "io.github.NhekoReborn.Nheko",
+    "io.github.diegoivan.GaticTacToe",
     "io.github.diegoivanme.flowtime",
     "io.github.dman95.SASM",
     "io.github.ferraridamiano.ConverterNOW",
@@ -146,6 +148,7 @@
     "org.gnome.Calendar",
     "org.gnome.Calls",
     "org.gnome.Connections",
+    "org.gnome.Crosswords",
     "org.gnome.DejaDup",
     "org.gnome.Devhelp",
     "org.gnome.NetworkDisplays",
@@ -202,5 +205,6 @@
     "uk.jnthn.backgammony",
     "uk.me.doof.Lander",
     "vn.hoabinh.quan.CoBang",
+    "xyz.stuerz.BilligSweeper",
     "xyz.z3ntu.razergenie"
 ]

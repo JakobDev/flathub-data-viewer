@@ -3,5 +3,6 @@
     "com.github.eneshecan.WhatsAppForLinux",
     "com.wire.WireDesktop",
     "io.github.kotatogram",
+    "org.gnunet.Messenger",
     "org.telegram.desktop"
 ]

@@ -317,6 +317,7 @@
         "de.uni_heidelberg.zah.GaiaSky",
         "dev.ares.ares",
         "dev.bsnes.bsnes",
+        "dev.goats.xivlauncher",
         "dk.tangramgames.mrrescue",
         "edu.mit.Scratch",
         "es.estoes.wallpaperDownloader",
@@ -333,6 +334,7 @@
         "io.designer.GravitDesigner",
         "io.exodus.Exodus",
         "io.freetubeapp.FreeTube",
+        "io.gdevelop.ide",
         "io.github.Fndroid.clash_for_windows",
         "io.github.Icalingua.Icalingua",
         "io.github.arunsivaramanneo.GPUViewer",
@@ -519,7 +521,8 @@
         "us.zoom.Zoom",
         "ws.openarena.OpenArena",
         "xyz.eclipium.TetraSwap",
-        "xyz.kusma.aurora"
+        "xyz.kusma.aurora",
+        "xyz.stuerz.BilligSweeper"
     ],
     "18.08": [
         "au.edu.uq.esys.escript",

@@ -1,4 +1,5 @@
 [
     "org.flatpak.qtdemo",
-    "org.pitivi.Pitivi"
+    "org.pitivi.Pitivi",
+    "org.qxmledit.QXmlEdit"
 ]
