@@ -1,0 +1,5 @@
+[
+    "io.qt.qtwebkit.BaseApp",
+    "org.freedesktop.Sdk.Extension.vala",
+    "org.gtk.Gtk3theme.Breeze"
+]

@@ -29,6 +29,7 @@
     "org.fcitx.Fcitx5",
     "org.fedoraproject.MediaWriter",
     "org.fontforge.FontForge",
+    "org.freedesktop.appstream.cli",
     "org.gabmus.gfeeds",
     "org.gimp.GIMP",
     "org.glimpse_editor.Glimpse",
@@ -66,6 +67,7 @@
     "org.gnome.Maps",
     "org.gnome.Mines",
     "org.gnome.Music",
+    "org.gnome.NautilusPreviewer",
     "org.gnome.Nibbles",
     "org.gnome.Notes",
     "org.gnome.Photos",
@@ -223,5 +225,8 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",
-    "uk.co.ibboard.cawbird"
+    "uk.co.ibboard.cawbird",
+    "org.fcitx.Fcitx5.Addon.ChineseAddons",
+    "org.fcitx.Fcitx5.Addon.Mozc",
+    "org.fcitx.Fcitx5.Addon.Rime"
 ]

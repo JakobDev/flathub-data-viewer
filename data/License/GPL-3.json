@@ -3,5 +3,6 @@
     "com.steamgriddb.steam-rom-manager",
     "com.tutanota.Tutanota",
     "io.github.hermitdemschoenenleben.linien",
-    "net.mediaarea.DVAnalyzer"
+    "net.mediaarea.DVAnalyzer",
+    "org.freedesktop.LinuxAudio.Plugins.WhiteElephantAudio"
 ]

@@ -1,3 +1,5 @@
 [
+    "dev.paullee.scraterpreter.Scrape",
+    "dev.paullee.scraterpreter.Scrapec",
     "org.eclipse.sumo"
 ]

@@ -1,0 +1,5 @@
+[
+    "com.riverbankcomputing.PyQt.BaseApp",
+    "io.qt.qtwebengine.BaseApp",
+    "io.qt.qtwebkit.BaseApp"
+]

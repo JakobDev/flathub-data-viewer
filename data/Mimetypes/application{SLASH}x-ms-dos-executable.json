@@ -4,5 +4,6 @@
     "org.gnome.FileRoller",
     "org.gnome.Games",
     "org.phoenicis.playonlinux",
+    "org.winehq.Wine",
     "ua.org.brezblock.q4wine"
 ]

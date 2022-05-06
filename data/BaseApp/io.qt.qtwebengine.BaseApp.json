@@ -41,7 +41,6 @@
         "io.github.wereturtle.ghostwriter",
         "org.frescobaldi.Frescobaldi",
         "org.jaspstats.JASP",
-        "org.kiwix.desktop",
         "org.mobsya.ThymioSuite"
     ]
 }

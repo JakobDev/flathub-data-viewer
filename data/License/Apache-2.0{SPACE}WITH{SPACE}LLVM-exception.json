@@ -1,0 +1,5 @@
+[
+    "org.freedesktop.Sdk.Extension.llvm11",
+    "org.freedesktop.Sdk.Extension.llvm12",
+    "org.freedesktop.Sdk.Extension.llvm13"
+]

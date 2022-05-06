@@ -9,6 +9,7 @@
     "io.liri.Text",
     "io.neovim.nvim",
     "io.posidon.Paper",
+    "me.mitya57.ReText",
     "org.geany.Geany",
     "org.gnome.Tau",
     "org.gnome.gedit",

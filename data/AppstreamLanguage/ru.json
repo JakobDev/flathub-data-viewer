@@ -40,8 +40,8 @@
     "fr.romainvigier.MetadataCleaner",
     "im.pidgin.Pidgin",
     "io.github.Hexchat",
-    "io.github.Qalculate",
     "io.github.Qalculate.qalculate-qt",
+    "io.github.Qalculate",
     "io.github.celluloid_player.Celluloid",
     "io.github.dfandrich.gpscorrelate",
     "io.github.gillesdegottex.FMIT",
@@ -57,6 +57,7 @@
     "io.gitlab.Goodvibes",
     "io.otsaloma.gaupol",
     "io.otsaloma.nfoview",
+    "me.mitya57.ReText",
     "net.launchpad.gmult",
     "net.meijn.onvifviewer",
     "net.supertuxkart.SuperTuxKart",
@@ -67,6 +68,7 @@
     "org.fedoraproject.MediaWriter",
     "org.fontforge.FontForge",
     "org.freedesktop.Piper",
+    "org.freedesktop.appstream.cli",
     "org.gabmus.gfeeds",
     "org.gabmus.giara",
     "org.gabmus.hydrapaper",
@@ -111,6 +113,7 @@
     "org.gnome.Maps",
     "org.gnome.Mines",
     "org.gnome.Music",
+    "org.gnome.NautilusPreviewer",
     "org.gnome.Nibbles",
     "org.gnome.Notes",
     "org.gnome.OCRFeeder",
@@ -271,5 +274,8 @@
     "re.sonny.Commit",
     "sh.ppy.osu",
     "ua.org.brezblock.q4wine",
-    "uk.co.ibboard.cawbird"
+    "uk.co.ibboard.cawbird",
+    "org.fcitx.Fcitx5.Addon.ChineseAddons",
+    "org.fcitx.Fcitx5.Addon.Mozc",
+    "org.fcitx.Fcitx5.Addon.Rime"
 ]

@@ -1,3 +1,4 @@
 [
-    "com.valvesoftware.SteamLink"
+    "com.valvesoftware.SteamLink",
+    "io.github.philipk.boilr"
 ]

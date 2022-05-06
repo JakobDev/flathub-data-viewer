@@ -1,3 +1,4 @@
 [
-    "org.kde.kuiviewer"
+    "org.kde.kuiviewer",
+    "org.telegram.desktop.webview"
 ]

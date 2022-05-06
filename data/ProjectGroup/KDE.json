@@ -4,6 +4,8 @@
     "de.rwth_aachen.ient.YUView",
     "info.smplayer.SMPlayer",
     "io.github.qnapi",
+    "io.qt.qtwebengine.BaseApp",
+    "io.qt.qtwebkit.BaseApp",
     "org.frescobaldi.Frescobaldi",
     "org.kde.Ikona",
     "org.kde.akregator",
@@ -111,5 +113,8 @@
     "org.kde.subtitlecomposer",
     "org.kde.tellico",
     "org.kde.tokodon",
-    "org.kde.vvave"
+    "org.kde.vvave",
+    "org.gtk.Gtk3theme.Breeze",
+    "org.kde.Platform",
+    "org.kde.Sdk"
 ]

@@ -16,6 +16,7 @@
     "io.webtorrent.WebTorrent",
     "net.agalwood.Motrix",
     "net.jami.Jami",
+    "net.sourceforge.fspclient",
     "org.deluge_torrent.deluge",
     "org.filezillaproject.Filezilla",
     "org.gnome.moserial",

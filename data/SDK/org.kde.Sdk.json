@@ -36,7 +36,6 @@
         "org.strawberrymusicplayer.strawberry"
     ],
     "5.15-21.08": [
-        "app.organicmaps.desktop",
         "app.resp.RESP",
         "art.taunoerik.tauno-serial-plotter",
         "at.priv.toastfreeware.ConfClerk",
@@ -150,6 +149,7 @@
         "io.mgba.mGBA",
         "io.photoflare.photoflare",
         "io.sourceforge.qoobar.Qoobar",
+        "me.mitya57.ReText",
         "net.codeindustry.MasterPDFEditor",
         "net.dengine.Doomsday",
         "net.fsuae.FS-UAE",
@@ -420,7 +420,6 @@
         "org.flightgear.FlightGear",
         "org.frescobaldi.Frescobaldi",
         "org.jaspstats.JASP",
-        "org.kiwix.desktop",
         "org.mapeditor.Tiled",
         "org.mobsya.ThymioSuite",
         "org.munadi.Munadi",
@@ -464,5 +463,8 @@
         "io.liri.Calculator",
         "io.liri.Text",
         "org.rolisteam.rolisteam"
+    ],
+    "5.9": [
+        "io.qt.qtwebkit.BaseApp"
     ]
 }

@@ -1,5 +1,5 @@
 [
-    "app.organicmaps.desktop",
+    "app.organicmaps",
     "br.gov.cti.invesalius",
     "com.dhsdevelopments.Climaxima",
     "com.flashforge.FlashPrint",
@@ -20,8 +20,8 @@
     "eu.ad5001.LogarithmPlotter",
     "fr.rubet.rpn",
     "im.bernard.Funkcio",
-    "io.github.Qalculate",
     "io.github.Qalculate.qalculate-qt",
+    "io.github.Qalculate",
     "io.github.bothlab.pomidaq",
     "io.github.hermitdemschoenenleben.linien",
     "io.github.markummitchell.Engauge_Digitizer",

@@ -7,5 +7,7 @@
     "org.atheme.audacious",
     "org.linux_hardware.hw-probe",
     "org.purei.Play",
-    "org.pyzo.pyzo"
+    "org.pyzo.pyzo",
+    "com.valvesoftware.Steam.Utility.gamescope",
+    "org.freedesktop.LinuxAudio.Plugins.sfizz"
 ]

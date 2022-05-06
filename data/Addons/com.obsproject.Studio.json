@@ -1,0 +1,11 @@
+[
+    "com.obsproject.Studio.Plugin.Gstreamer",
+    "com.obsproject.Studio.Plugin.InputOverlay",
+    "com.obsproject.Studio.Plugin.MoveTransition",
+    "com.obsproject.Studio.Plugin.NVFBC",
+    "com.obsproject.Studio.Plugin.OBSVkCapture",
+    "com.obsproject.Studio.Plugin.ScaleToSound",
+    "com.obsproject.Studio.Plugin.SceneSwitcher",
+    "com.obsproject.Studio.Plugin.TransitionTable",
+    "com.obsproject.Studio.Plugin.WebSocket"
+]

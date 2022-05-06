@@ -2,7 +2,6 @@
     "5.15-21.08": [
         "ch.openboard.OpenBoard",
         "com.github.fontmatrix.Fontmatrix",
-        "com.github.git_cola.git-cola",
         "com.icanblink.blink",
         "com.notepadqq.Notepadqq",
         "com.sourcepole.kadas",

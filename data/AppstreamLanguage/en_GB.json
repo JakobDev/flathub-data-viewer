@@ -19,5 +19,6 @@
     "org.gnome.design.Palette",
     "org.gnome.five-or-more",
     "org.gnome.gThumb",
-    "page.codeberg.foreverxml.Random"
+    "page.codeberg.foreverxml.Random",
+    "org.gnome.Games.LibretroPlugin.PicoDrive"
 ]

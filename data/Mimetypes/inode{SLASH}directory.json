@@ -1,8 +1,8 @@
 [
     "com.github.Bleuzen.FFaudioConverter",
     "com.rawtherapee.RawTherapee",
-    "com.visualstudio.code",
     "com.visualstudio.code-oss",
+    "com.visualstudio.code",
     "com.vscodium.codium",
     "dev.tchx84.Portfolio",
     "io.atom.Atom",

@@ -92,6 +92,7 @@
         "org.chromium.Chromium",
         "org.cubocore.CoreAction",
         "org.cubocore.CoreStats",
+        "org.freedesktop.fwupd",
         "org.gnome.OfficeRunner",
         "org.gnome.PowerStats",
         "org.mixxx.Mixxx",
@@ -116,6 +117,7 @@
         "org.cubocore.CoreFM",
         "org.cubocore.CoreStats",
         "org.fedoraproject.MediaWriter",
+        "org.freedesktop.fwupd",
         "org.kde.digikam",
         "org.kde.dolphin",
         "org.kde.kdenlive",
@@ -147,6 +149,7 @@
         "com.vscodium.codium",
         "io.github.Fndroid.clash_for_windows",
         "io.github.cges30901.hmtimer",
+        "org.freedesktop.fwupd",
         "org.gajim.Gajim",
         "org.gnome.Calendar",
         "org.gnome.Firmware",
@@ -192,6 +195,10 @@
     "org.freedesktop.ratbag1": [
         "org.freedesktop.Piper"
     ],
+    "org.freedesktop.fwupd": [
+        "org.freedesktop.fwupd",
+        "org.gnome.Firmware"
+    ],
     "org.freedesktop.timedate1": [
         "org.gnome.Boxes",
         "org.gnome.Calendar"
@@ -204,9 +211,6 @@
     ],
     "org.freedesktop.modemmanager1": [
         "org.gnome.Calls"
-    ],
-    "org.freedesktop.fwupd": [
-        "org.gnome.Firmware"
     ],
     "org.freedesktop.dbus.peer.ping": [
         "org.gnome.OCRFeeder"

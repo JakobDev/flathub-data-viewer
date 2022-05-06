@@ -75,8 +75,8 @@
     "im.pidgin.Pidgin",
     "info.febvre.Komikku",
     "io.github.Hexchat",
-    "io.github.Qalculate",
     "io.github.Qalculate.qalculate-qt",
+    "io.github.Qalculate",
     "io.github.celluloid_player.Celluloid",
     "io.github.dfandrich.gpscorrelate",
     "io.github.diegoivanme.flowtime",
@@ -97,6 +97,7 @@
     "io.gitlab.Goodvibes",
     "io.otsaloma.nfoview",
     "io.qt.Linguist",
+    "me.mitya57.ReText",
     "net.launchpad.gmult",
     "net.meijn.onvifviewer",
     "net.sourceforge.electrip.Electrip",
@@ -112,6 +113,7 @@
     "org.fedoraproject.MediaWriter",
     "org.fontforge.FontForge",
     "org.freedesktop.Piper",
+    "org.freedesktop.appstream.cli",
     "org.gabmus.gfeeds",
     "org.gabmus.giara",
     "org.gabmus.hydrapaper",
@@ -160,6 +162,7 @@
     "org.gnome.Maps",
     "org.gnome.Mines",
     "org.gnome.Music",
+    "org.gnome.NautilusPreviewer",
     "org.gnome.NetworkDisplays",
     "org.gnome.Nibbles",
     "org.gnome.Notes",
@@ -366,5 +369,7 @@
     "page.codeberg.foreverxml.Random",
     "re.sonny.Commit",
     "re.sonny.Junction",
-    "ua.org.brezblock.q4wine"
+    "ua.org.brezblock.q4wine",
+    "com.valvesoftware.Steam.CompatibilityTool.Proton-Exp",
+    "com.valvesoftware.Steam.CompatibilityTool.Proton"
 ]

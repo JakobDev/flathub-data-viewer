@@ -1,7 +1,6 @@
 {
     "xdg-config/kdeglobals:ro": [
         "app.lith.Lith",
-        "app.organicmaps.desktop",
         "app.resp.RESP",
         "art.taunoerik.tauno-serial-plotter",
         "at.priv.toastfreeware.ConfClerk",
@@ -183,6 +182,7 @@
         "io.qt.qdbusviewer",
         "io.sourceforge.qoobar.Qoobar",
         "io.trustable.stpadocumentationtool",
+        "me.mitya57.ReText",
         "net.codeindustry.MasterPDFEditor",
         "net.davidotek.pupgui2",
         "net.dengine.Doomsday",
@@ -391,7 +391,6 @@
         "org.kde.tokodon",
         "org.kde.vvave",
         "org.keepassxc.KeePassXC",
-        "org.kiwix.desktop",
         "org.ksnip.ksnip",
         "org.leocad.LeoCAD",
         "org.librepcb.LibrePCB",
@@ -557,11 +556,11 @@
         "com.jetbrains.DataGrip",
         "com.jetbrains.PhpStorm",
         "com.jetpackduba.Gitnuro",
-        "com.jgraph.drawio.desktop",
         "com.jpexs.decompiler.flash",
         "com.logseq.Logseq",
         "com.mattermost.Desktop",
         "com.notepadqq.Notepadqq",
+        "com.openwall.John",
         "com.orama_interactive.Pixelorama",
         "com.polyphone_soundfonts.polyphone",
         "com.powerball253.eternalmodmanager",
@@ -597,6 +596,7 @@
         "de.willuhn.Jameica",
         "dev.goats.xivlauncher",
         "dev.lukebriggs.pepys",
+        "dev.paullee.scraterpreter.Scrapec",
         "dev.tchx84.Portfolio",
         "edu.mit.Scratch",
         "edu.princeton.physics.WSJTX",
@@ -644,6 +644,8 @@
         "io.photoflare.photoflare",
         "io.sourceforge.Pixelitor",
         "md.obsidian.Obsidian",
+        "me.mitya57.ReText",
+        "me.simakis.dropboxignore",
         "net.agalwood.Motrix",
         "net.biniou.LeBiniou",
         "net.cebix.basilisk",
@@ -668,6 +670,7 @@
         "net.sourceforge.dmidiplayer",
         "net.sourceforge.efaxgtk",
         "net.sourceforge.electrip.Electrip",
+        "net.sourceforge.fspclient",
         "net.sourceforge.kmetronome",
         "net.sourceforge.kmidimon",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
@@ -708,6 +711,7 @@
         "org.gnome.FileRoller",
         "org.gnome.Gtranslator",
         "org.gnome.OCRFeeder",
+        "org.gnome.Pinpoint",
         "org.gnome.design.AppIconPreview",
         "org.gnome.design.BannerViewer",
         "org.gnome.design.SymbolicPreview",
@@ -898,6 +902,7 @@
         "org.citra_emu.citra",
         "org.duckstation.DuckStation",
         "org.equeim.Tremotesf",
+        "org.flathub.flatpak-external-data-checker",
         "org.flycast.Flycast",
         "org.gnome.Devhelp",
         "org.gnome.Games",
@@ -906,7 +911,6 @@
         "org.linux_hardware.hw-probe",
         "org.pegasus_frontend.Pegasus",
         "org.ppsspp.PPSSPP",
-        "org.telegram.desktop",
         "re.sonny.Junction",
         "ru.sview.sView",
         "space.fips.Fips",
@@ -982,7 +986,6 @@
         "org.rncbc.qsynth",
         "org.rncbc.qtractor",
         "org.shotcut.Shotcut",
-        "org.telegram.desktop",
         "org.zrythm.Zrythm",
         "studio.kx.carla",
         "us.zoom.Zoom"
@@ -1083,6 +1086,7 @@
     "host": [
         "ar.com.tuxguitar.TuxGuitar",
         "ca.parallel_launcher.ParallelLauncher",
+        "cc.nift.nsm",
         "chat.schildi.desktop",
         "com.bitwig.BitwigStudio",
         "com.borgbase.Vorta",
@@ -1099,10 +1103,12 @@
         "com.github.calo001.fondo",
         "com.github.devalien.workspaces",
         "com.github.geigi.cozy",
+        "com.github.ilai_deutel.kibi",
         "com.github.jeromerobert.pdfarranger",
         "com.github.jkotra.eovpn",
         "com.github.junrrein.PDFSlicer",
         "com.github.marktext.marktext",
+        "com.github.nihui.waifu2x-ncnn-vulkan",
         "com.github.qarmin.czkawka",
         "com.github.xournalpp.xournalpp",
         "com.gitlab.JakobDev.jdTextEdit",
@@ -1128,6 +1134,7 @@
         "com.nextcloud.desktopclient.nextcloud",
         "com.nitrokey.nitrokey-app",
         "com.obsproject.Studio",
+        "com.okta.developer.CLI",
         "com.ozmartians.VidCutter",
         "com.parallax.PropellerIDE",
         "com.pypyrev.linuxdcpp",
@@ -1145,8 +1152,8 @@
         "com.tutanota.Tutanota",
         "com.unity.UnityHub",
         "com.vesc_project.VescTool",
-        "com.visualstudio.code",
         "com.visualstudio.code-oss",
+        "com.visualstudio.code",
         "com.vscodium.codium",
         "com.vzhd1701.gridplayer",
         "cz.pervoj.valdo-gtk",
@@ -1156,6 +1163,7 @@
         "de.rwth_aachen.ient.YUView",
         "edu.stanford.Almond",
         "eu.scarpetta.PDFMixTool",
+        "fi.mooc.tmc.tmc-cli-rust",
         "fr.handbrake.ghb",
         "fr.natron.Natron",
         "info.puredata.Pd-extended",
@@ -1230,6 +1238,7 @@
         "org.freedesktop.Bustle",
         "org.freedesktop.GstDebugViewer",
         "org.freedesktop.adriconf",
+        "org.freedesktop.appstream.cli",
         "org.freefilesync.FreeFileSync",
         "org.gaphor.Gaphor",
         "org.geany.Geany",
@@ -1256,6 +1265,7 @@
         "org.greenfoot.Greenfoot",
         "org.gtkhash.gtkhash",
         "org.inkscape.Inkscape",
+        "org.jreleaser.cli",
         "org.karapulse.Karapulse",
         "org.kde.ark",
         "org.kde.gwenview",
@@ -1382,6 +1392,7 @@
         "com.vagueentertainment.Framed",
         "dev.ares.ares",
         "dev.bsnes.bsnes",
+        "dev.paullee.scraterpreter.Scrape",
         "fi.skyjake.Lagrange",
         "im.srain.Srain",
         "io.github.fabiangreffrath.Doom",
@@ -1389,6 +1400,7 @@
         "org.cubocore.CoreHunt",
         "org.gabmus.hydrapaper",
         "org.gnode.NixView",
+        "org.gnome.NautilusPreviewer",
         "org.nanuc.Axolotl",
         "org.parlatype.Parlatype",
         "org.purei.Play",
@@ -1402,12 +1414,10 @@
     "xdg-download": [
         "ch.protonmail.protonmail-import-export-app",
         "ch.threema.threema-web-desktop",
-        "chat.delta.desktop",
         "chat.quadrix.Quadrix",
         "chat.rocket.RocketChat",
         "chat.tandem.Client",
         "co.luoja.Telyn",
-        "com.bitwarden.desktop",
         "com.boxy_svg.BoxySVG",
         "com.brave.Browser",
         "com.dangeredwolf.ModernDeck",
@@ -1499,6 +1509,7 @@
         "org.deluge_torrent.deluge",
         "org.eu.encom.spectral",
         "org.firestormviewer.FirestormViewer",
+        "org.freedesktop.fwupd",
         "org.frescobaldi.Frescobaldi",
         "org.gnome.EasyTAG",
         "org.gnome.Epiphany",
@@ -1528,7 +1539,6 @@
         "org.soundconverter.SoundConverter",
         "org.standardnotes.standardnotes",
         "org.syphon.Syphon",
-        "org.telegram.desktop",
         "org.tuxfamily.hatari",
         "org.twinery.Twine",
         "org.zaproxy.ZAP",
@@ -1540,7 +1550,6 @@
         "ua.org.brezblock.q4wine"
     ],
     "xdg-documents": [
-        "chat.delta.desktop",
         "chat.quadrix.Quadrix",
         "chat.rocket.RocketChat",
         "co.luoja.Telyn",
@@ -1601,7 +1610,6 @@
         "org.frescobaldi.Frescobaldi",
         "org.fritzing.Fritzing",
         "org.gnome.Dictionary",
-        "org.gnome.Hamster",
         "org.gnome.frogr",
         "org.gnome.moserial",
         "org.gnumeric.Gnumeric",
@@ -1619,96 +1627,7 @@
         "ua.org.brezblock.q4wine",
         "uk.org.zint.zint-qt"
     ],
-    "xdg-music": [
-        "chat.delta.desktop",
-        "com.brave.Browser",
-        "com.github.ahrm.sioyek",
-        "com.github.arminstraub.krop",
-        "com.github.eneshecan.WhatsAppForLinux",
-        "com.github.gmg137.netease-cloud-music-gtk",
-        "com.github.gyunaev.spivak",
-        "com.github.kalibari.audok",
-        "com.github.nrittsti.NTag",
-        "com.github.taiko2k.tauonmb",
-        "com.google.Chrome",
-        "com.netease.CloudMusic",
-        "com.seventhstring.Transcribe",
-        "com.tracktion.Waveform",
-        "de.haeckerfelix.Shortwave",
-        "io.github.cmus.cmus",
-        "io.github.jacalz.rymdport",
-        "io.github.janbar.noson",
-        "io.github.qtox.qTox",
-        "io.sourceforge.qoobar.Qoobar",
-        "io.wavebox.Wavebox",
-        "net.blockbench.Blockbench",
-        "net.filebot.FileBot",
-        "net.sonobus.SonoBus",
-        "org.atheme.audacious",
-        "org.clementine_player.Clementine",
-        "org.denemo.Denemo",
-        "org.firestormviewer.FirestormViewer",
-        "org.frescobaldi.Frescobaldi",
-        "org.gmusicbrowser.gmusicbrowser",
-        "org.gnome.EasyTAG",
-        "org.gnome.Lollypop",
-        "org.gnome.Music",
-        "org.gnome.Rhythmbox3",
-        "org.gnome.SoundJuicer",
-        "org.kde.kid3",
-        "org.mixxx.Mixxx",
-        "org.mpdevil.mpdevil",
-        "org.musicbrainz.Picard",
-        "org.qutebrowser.qutebrowser",
-        "org.signal.Signal",
-        "org.soundconverter.SoundConverter",
-        "org.strawberrymusicplayer.strawberry",
-        "org.zotero.Zotero",
-        "sh.cider.Cider",
-        "tv.kodi.Kodi",
-        "ua.org.brezblock.q4wine"
-    ],
-    "xdg-videos": [
-        "chat.delta.desktop",
-        "chat.quadrix.Quadrix",
-        "com.bluejeans.BlueJeans",
-        "com.brave.Browser",
-        "com.github.amikha1lov.RecApp",
-        "com.github.artemanufrij.playmyvideos",
-        "com.github.coslyk.MoonPlayer",
-        "com.github.eneshecan.WhatsAppForLinux",
-        "com.github.rafostar.Clapper",
-        "com.google.Chrome",
-        "com.tracktion.Waveform",
-        "com.viber.Viber",
-        "com.wps.Office",
-        "io.github.jacalz.rymdport",
-        "io.github.qnapi",
-        "io.github.qtox.qTox",
-        "io.github.seadve.Kooha",
-        "io.github.webcamoid.Webcamoid",
-        "io.mpv.Mpv",
-        "io.otsaloma.gaupol",
-        "io.wavebox.Wavebox",
-        "net.baseart.Glide",
-        "net.blockbench.Blockbench",
-        "net.filebot.FileBot",
-        "net.xmind.XMind8",
-        "no.mifi.losslesscut",
-        "org.bitbucket.mystery_keeper.VapourSynthEditor",
-        "org.gnome.Cheese",
-        "org.gnome.Totem",
-        "org.gnome.frogr",
-        "org.kde.kamoso",
-        "org.qutebrowser.qutebrowser",
-        "org.signal.Signal",
-        "org.sigxcpu.Livi",
-        "org.zotero.Zotero",
-        "tv.kodi.Kodi",
-        "ua.org.brezblock.q4wine"
-    ],
     "xdg-pictures": [
-        "chat.delta.desktop",
         "chat.quadrix.Quadrix",
         "chat.rocket.RocketChat",
         "com.boxy_svg.BoxySVG",
@@ -1756,6 +1675,44 @@
         "org.signal.Signal",
         "org.zotero.Zotero",
         "org.zulip.Zulip",
+        "tv.kodi.Kodi",
+        "ua.org.brezblock.q4wine"
+    ],
+    "xdg-videos": [
+        "chat.quadrix.Quadrix",
+        "com.bluejeans.BlueJeans",
+        "com.brave.Browser",
+        "com.github.amikha1lov.RecApp",
+        "com.github.artemanufrij.playmyvideos",
+        "com.github.coslyk.MoonPlayer",
+        "com.github.eneshecan.WhatsAppForLinux",
+        "com.github.rafostar.Clapper",
+        "com.google.Chrome",
+        "com.tracktion.Waveform",
+        "com.viber.Viber",
+        "com.wps.Office",
+        "io.github.jacalz.rymdport",
+        "io.github.qnapi",
+        "io.github.qtox.qTox",
+        "io.github.seadve.Kooha",
+        "io.github.webcamoid.Webcamoid",
+        "io.mpv.Mpv",
+        "io.otsaloma.gaupol",
+        "io.wavebox.Wavebox",
+        "net.baseart.Glide",
+        "net.blockbench.Blockbench",
+        "net.filebot.FileBot",
+        "net.xmind.XMind8",
+        "no.mifi.losslesscut",
+        "org.bitbucket.mystery_keeper.VapourSynthEditor",
+        "org.gnome.Cheese",
+        "org.gnome.Totem",
+        "org.gnome.frogr",
+        "org.kde.kamoso",
+        "org.qutebrowser.qutebrowser",
+        "org.signal.Signal",
+        "org.sigxcpu.Livi",
+        "org.zotero.Zotero",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
     ],
@@ -1926,6 +1883,54 @@
         "com.google.ChromeDev",
         "io.wavebox.Wavebox"
     ],
+    "xdg-music": [
+        "com.brave.Browser",
+        "com.github.ahrm.sioyek",
+        "com.github.arminstraub.krop",
+        "com.github.eneshecan.WhatsAppForLinux",
+        "com.github.gmg137.netease-cloud-music-gtk",
+        "com.github.gyunaev.spivak",
+        "com.github.kalibari.audok",
+        "com.github.nrittsti.NTag",
+        "com.github.taiko2k.tauonmb",
+        "com.google.Chrome",
+        "com.netease.CloudMusic",
+        "com.seventhstring.Transcribe",
+        "com.tracktion.Waveform",
+        "de.haeckerfelix.Shortwave",
+        "io.github.cmus.cmus",
+        "io.github.jacalz.rymdport",
+        "io.github.janbar.noson",
+        "io.github.qtox.qTox",
+        "io.sourceforge.qoobar.Qoobar",
+        "io.wavebox.Wavebox",
+        "net.blockbench.Blockbench",
+        "net.filebot.FileBot",
+        "net.sonobus.SonoBus",
+        "org.atheme.audacious",
+        "org.clementine_player.Clementine",
+        "org.denemo.Denemo",
+        "org.firestormviewer.FirestormViewer",
+        "org.frescobaldi.Frescobaldi",
+        "org.gmusicbrowser.gmusicbrowser",
+        "org.gnome.EasyTAG",
+        "org.gnome.Lollypop",
+        "org.gnome.Music",
+        "org.gnome.Rhythmbox3",
+        "org.gnome.SoundJuicer",
+        "org.kde.kid3",
+        "org.mixxx.Mixxx",
+        "org.mpdevil.mpdevil",
+        "org.musicbrainz.Picard",
+        "org.qutebrowser.qutebrowser",
+        "org.signal.Signal",
+        "org.soundconverter.SoundConverter",
+        "org.strawberrymusicplayer.strawberry",
+        "org.zotero.Zotero",
+        "sh.cider.Cider",
+        "tv.kodi.Kodi",
+        "ua.org.brezblock.q4wine"
+    ],
     "/run/.heim_org.h5l.kcm-socket": [
         "com.brave.Browser",
         "com.getferdi.Ferdi",
@@ -1955,6 +1960,7 @@
         "com.elsevier.MendeleyDesktop",
         "com.github.Murmele.Gittyup",
         "com.github.ahrm.sioyek",
+        "com.github.ilai_deutel.kibi",
         "com.github.marktext.marktext",
         "com.rawtherapee.RawTherapee",
         "com.zettlr.Zettlr",
@@ -1989,15 +1995,18 @@
     ],
     "~/.var/app/com.valvesoftware.Steam": [
         "com.github.Matoking.protontricks",
-        "com.heroicgameslauncher.hgl"
+        "com.heroicgameslauncher.hgl",
+        "io.github.philipk.boilr"
     ],
     "xdg-data/Steam": [
         "com.github.Matoking.protontricks",
-        "com.heroicgameslauncher.hgl"
+        "com.heroicgameslauncher.hgl",
+        "io.github.philipk.boilr"
     ],
     "~/.steam": [
         "com.github.Matoking.protontricks",
         "com.heroicgameslauncher.hgl",
+        "io.github.philipk.boilr",
         "net.davidotek.pupgui2"
     ],
     "xdg-public-share": [
@@ -2032,6 +2041,13 @@
         "com.github.matfantinel.reminduck",
         "com.rtosta.zapzap",
         "it.mijorus.smile"
+    ],
+    "/var/tmp": [
+        "com.github.ilai_deutel.kibi",
+        "com.itextpdf.RUPS",
+        "io.neovim.nvim",
+        "org.gnu.emacs",
+        "org.vim.Vim"
     ],
     "/run/docker.sock": [
         "com.github.inercia.k3x",
@@ -2166,7 +2182,8 @@
         "org.gnome.Boxes"
     ],
     "xdg-data/lutris": [
-        "com.heroicgameslauncher.hgl"
+        "com.heroicgameslauncher.hgl",
+        "io.github.philipk.boilr"
     ],
     "~/Games/Heroic:create": [
         "com.heroicgameslauncher.hgl"
@@ -2178,12 +2195,6 @@
     ],
     "~/Inform:create": [
         "com.inform7.IDE"
-    ],
-    "/var/tmp": [
-        "com.itextpdf.RUPS",
-        "io.neovim.nvim",
-        "org.gnu.emacs",
-        "org.vim.Vim"
     ],
     "xdg-run/gnupg:ro": [
         "com.jetbrains.GoLand",
@@ -2221,6 +2232,24 @@
     ],
     "~/.spring:create": [
         "com.springrts.SpringLobby"
+    ],
+    "~/.steam/steam/config/loginusers.vdf:ro": [
+        "com.steamgriddb.SGDBoop"
+    ],
+    "~/.steam/steam/userdata": [
+        "com.steamgriddb.SGDBoop"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/data/Steam/userdata": [
+        "com.steamgriddb.SGDBoop"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/data/Steam/config/loginusers.vdf:ro": [
+        "com.steamgriddb.SGDBoop"
+    ],
+    "~/.steam/steam/appcache/librarycache": [
+        "com.steamgriddb.SGDBoop"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/data/Steam/appcache/librarycache": [
+        "com.steamgriddb.SGDBoop"
     ],
     "/proc": [
         "com.thincast.client"
@@ -2270,6 +2299,27 @@
     "xdg-config/clash:create": [
         "io.github.Fndroid.clash_for_windows"
     ],
+    "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/632360": [
+        "io.github.Foldex.r2mod"
+    ],
+    "xdg-data/Steam/steamapps/common/Risk of Rain 2": [
+        "io.github.Foldex.r2mod"
+    ],
+    "xdg-data/Steam/steamapps/compatdata/632360": [
+        "io.github.Foldex.r2mod"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Risk of Rain 2": [
+        "io.github.Foldex.r2mod"
+    ],
+    "xdg-data/bash-completion/completions:create": [
+        "io.github.Foldex.r2mod"
+    ],
+    "/tmp/r2mod:create": [
+        "io.github.Foldex.r2mod"
+    ],
+    "xdg-data/zsh/site-functions:create": [
+        "io.github.Foldex.r2mod"
+    ],
     "~/coyotetm": [
         "io.github.igaldino.CoyoteTM"
     ],
@@ -2286,6 +2336,18 @@
         "io.github.mmstick.FontFinder",
         "org.gnome.FontManager",
         "org.gnome.font-viewer"
+    ],
+    "~/.var/app/net.lutris.Lutris": [
+        "io.github.philipk.boilr"
+    ],
+    "~/.var/app/com.heroicgameslauncher.hgl": [
+        "io.github.philipk.boilr"
+    ],
+    "~/Games/Heroic": [
+        "io.github.philipk.boilr"
+    ],
+    "~/.config/itch": [
+        "io.github.philipk.boilr"
     ],
     "~/Applications:create": [
         "io.github.prateekmedia.appimagepool"
@@ -2416,6 +2478,7 @@
     ],
     "/var/lib/flatpak:ro": [
         "org.bluesabre.MenuLibre",
+        "org.freedesktop.appstream.cli",
         "re.sonny.Junction"
     ],
     "xdg-run/org.keepassxc.KeePassXC.BrowserServer": [
@@ -2445,6 +2508,15 @@
     "/run/spnav.sock:ro": [
         "org.freecadweb.FreeCAD",
         "org.horizon_eda.HorizonEDA"
+    ],
+    "~/.local/share/flatpak:ro": [
+        "org.freedesktop.appstream.cli"
+    ],
+    "/sys": [
+        "org.freedesktop.fwupd"
+    ],
+    "/boot": [
+        "org.freedesktop.fwupd"
     ],
     "xdg-data/fonts": [
         "org.gabmus.gfeeds"
@@ -2599,9 +2671,6 @@
     ],
     "xdg-run/discord-ipc-0": [
         "org.srb2.SRB2Kart"
-    ],
-    "!~/.TelegramDesktop": [
-        "org.telegram.desktop"
     ],
     "xdg-download/TriblerDownloads:create": [
         "org.tribler.Tribler"

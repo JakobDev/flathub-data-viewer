@@ -21,5 +21,6 @@
     "org.paraview.ParaView",
     "org.telesculptor.TeleSculptor",
     "org.tomviz.Tomviz",
-    "website.i2pd.i2pd"
+    "website.i2pd.i2pd",
+    "org.freedesktop.Sdk.Extension.haskell"
 ]

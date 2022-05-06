@@ -1,13 +1,14 @@
 [
     "com.github.dail8859.NotepadNext",
+    "com.github.ilai_deutel.kibi",
     "com.github.marktext.marktext",
     "com.github.tenderowl.norka",
     "com.gitlab.JakobDev.jdTextEdit",
     "com.notepadqq.Notepadqq",
     "com.sublimetext.three",
     "com.sweetscape.ZeroOneZeroEditor",
-    "com.visualstudio.code",
     "com.visualstudio.code-oss",
+    "com.visualstudio.code",
     "com.vscodium.codium",
     "io.atom.Atom",
     "io.github.cudatext.CudaText-Qt5",
@@ -33,5 +34,6 @@
     "org.wxhexeditor.wxHexEditor",
     "org.xfce.mousepad",
     "org.zim_wiki.Zim",
-    "re.sonny.Commit"
+    "re.sonny.Commit",
+    "com.sublimetext.three.DevUtils"
 ]

@@ -75,6 +75,7 @@
     "org.gnome.Maps",
     "org.gnome.Mines",
     "org.gnome.Music",
+    "org.gnome.NautilusPreviewer",
     "org.gnome.NetworkDisplays",
     "org.gnome.Nibbles",
     "org.gnome.Notes",
@@ -82,6 +83,7 @@
     "org.gnome.OfficeRunner",
     "org.gnome.PasswordSafe",
     "org.gnome.Photos",
+    "org.gnome.Pinpoint",
     "org.gnome.Podcasts",
     "org.gnome.Polari",
     "org.gnome.PowerStats",
@@ -144,5 +146,9 @@
     "org.librehunt.Organizer",
     "org.pitivi.Pitivi",
     "org.upnproutercontrol.UPnPRouterControl",
-    "org.xiphos.Xiphos"
+    "org.xiphos.Xiphos",
+    "org.freedesktop.Sdk.Extension.vala",
+    "org.gnome.Platform",
+    "org.gnome.Sdk",
+    "org.gtk.Gtk3theme.Adwaita-dark"
 ]

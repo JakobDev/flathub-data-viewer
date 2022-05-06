@@ -1,7 +1,6 @@
 {
     "com.canonical.appmenu.registrar": [
         "app.lith.Lith",
-        "app.organicmaps.desktop",
         "app.resp.RESP",
         "art.taunoerik.tauno-serial-plotter",
         "at.priv.toastfreeware.ConfClerk",
@@ -10,7 +9,6 @@
         "cc.retroshare.retroshare-gui",
         "ch.openboard.OpenBoard",
         "ch.theologeek.Manuskript",
-        "com.bitwarden.desktop",
         "com.borgbase.Vorta",
         "com.calibre_ebook.calibre",
         "com.chatterino.chatterino",
@@ -201,6 +199,7 @@
         "io.stoplight.studio",
         "io.trustable.stpadocumentationtool",
         "io.typora.Typora",
+        "me.mitya57.ReText",
         "net.codeindustry.MasterPDFEditor",
         "net.cozic.joplin_desktop",
         "net.davidotek.pupgui2",
@@ -410,7 +409,6 @@
         "org.kde.tokodon",
         "org.kde.vvave",
         "org.keepassxc.KeePassXC",
-        "org.kiwix.desktop",
         "org.ksnip.ksnip",
         "org.leocad.LeoCAD",
         "org.libreoffice.LibreOffice",
@@ -464,7 +462,6 @@
         "org.stellarium.Stellarium",
         "org.strawberrymusicplayer.strawberry",
         "org.subsurface_divelog.Subsurface",
-        "org.telegram.desktop",
         "org.telesculptor.TeleSculptor",
         "org.texstudio.TeXstudio",
         "org.tomviz.Tomviz",
@@ -492,7 +489,6 @@
         "chat.revolt.RevoltDesktop",
         "chat.rocket.RocketChat",
         "chat.schildi.desktop",
-        "com.bitwarden.desktop",
         "com.calibre_ebook.calibre",
         "com.chmouel.gnomeNextMeetingApplet",
         "com.codemouse92.timecard",
@@ -616,7 +612,6 @@
         "org.signal.Signal",
         "org.sparkleshare.SparkleShare",
         "org.strawberrymusicplayer.strawberry",
-        "org.telegram.desktop",
         "org.zealdocs.Zeal",
         "org.zim_wiki.Zim",
         "org.zulip.Zulip",
@@ -631,14 +626,12 @@
         "app.lith.Lith",
         "app.riftshare.RiftShare",
         "ca.hamaluik.Timecop",
-        "chat.delta.desktop",
         "chat.revolt.RevoltDesktop",
         "chat.rocket.RocketChat",
         "chat.schildi.desktop",
         "co.headsetapp.headset",
         "com.axosoft.GitKraken",
         "com.biglybt.BiglyBT",
-        "com.bitwarden.desktop",
         "com.bitwig.BitwigStudio",
         "com.bluejeans.BlueJeans",
         "com.borgbase.Vorta",
@@ -733,8 +726,8 @@
         "com.usebottles.bottles",
         "com.valvesoftware.Steam",
         "com.viber.Viber",
-        "com.visualstudio.code",
         "com.visualstudio.code-oss",
+        "com.visualstudio.code",
         "com.vscodium.codium",
         "com.wire.WireDesktop",
         "com.xunlei.Thunder",
@@ -868,7 +861,6 @@
         "org.standardnotes.standardnotes",
         "org.strawberrymusicplayer.strawberry",
         "org.syphon.Syphon",
-        "org.telegram.desktop",
         "org.tribler.Tribler",
         "org.videolan.VLC",
         "org.zulip.Zulip",
@@ -896,7 +888,6 @@
         "io.github.mimbrero.WhatsAppDesktop",
         "org.remmina.Remmina",
         "org.sparkleshare.SparkleShare",
-        "org.telegram.desktop",
         "org.zim_wiki.Zim",
         "social.whalebird.WhalebirdDesktop"
     ],
@@ -907,8 +898,7 @@
         "com.toggl.TogglDesktop",
         "io.github.kotatogram",
         "io.github.mimbrero.WhatsAppDesktop",
-        "org.remmina.Remmina",
-        "org.telegram.desktop"
+        "org.remmina.Remmina"
     ],
     "org.freedesktop.portal.fcitx": [
         "app.lith.Lith",
@@ -930,7 +920,6 @@
         "ru.proninyaroslav.libretrack"
     ],
     "org.kde.kconfig.notify": [
-        "app.organicmaps.desktop",
         "app.resp.RESP",
         "ca.parallel_launcher.ParallelLauncher",
         "ch.openboard.OpenBoard",
@@ -1021,6 +1010,7 @@
         "io.mgba.mGBA",
         "io.photoflare.photoflare",
         "io.sourceforge.qoobar.Qoobar",
+        "me.mitya57.ReText",
         "net.codeindustry.MasterPDFEditor",
         "net.kuribo64.melonDS",
         "net.mediaarea.MediaConch",
@@ -1319,6 +1309,7 @@
     ],
     "org.freedesktop.flatpak": [
         "ca.desrt.dconf-editor",
+        "cc.nift.nsm",
         "com.axosoft.GitKraken",
         "com.chatterino.chatterino",
         "com.georgefb.quickaccess",
@@ -1352,8 +1343,8 @@
         "com.syntevo.SmartSynchronize",
         "com.ulduzsoft.Birdtray",
         "com.unity.UnityHub",
-        "com.visualstudio.code",
         "com.visualstudio.code-oss",
+        "com.visualstudio.code",
         "com.vscodium.codium",
         "edu.stanford.Almond",
         "es.estoes.wallpaperDownloader",
@@ -1448,7 +1439,6 @@
         "org.libretro.RetroArch",
         "org.mozilla.firefox",
         "org.qutebrowser.qutebrowser",
-        "org.telegram.desktop",
         "org.tordini.flavio.Minitube",
         "org.videolan.VLC",
         "re.chiaki.Chiaki",
@@ -1476,7 +1466,6 @@
         "com.axosoft.GitKraken",
         "com.belmoussaoui.Authenticator",
         "com.belmoussaoui.ReadItLater",
-        "com.bitwarden.desktop",
         "com.borgbase.Vorta",
         "com.brave.Browser",
         "com.github.Eloston.UngoogledChromium",
@@ -1699,6 +1688,7 @@
         "org.glimpse_editor.Glimpse",
         "org.gnome.Builder",
         "org.gnome.Evince",
+        "org.gnome.NautilusPreviewer",
         "org.gnome.Photos",
         "org.gnome.Shotwell",
         "org.gnome.World.PikaBackup",
@@ -1926,8 +1916,7 @@
         "com.toggl.TogglDesktop",
         "io.github.kotatogram",
         "org.gajim.Gajim",
-        "org.gnome.BreakTimer",
-        "org.telegram.desktop"
+        "org.gnome.BreakTimer"
     ],
     "org.gnome.shell.extensions": [
         "com.mattjakeman.ExtensionManager",
@@ -1983,8 +1972,7 @@
     ],
     "com.canonical.unity": [
         "io.github.kotatogram",
-        "org.remmina.Remmina",
-        "org.telegram.desktop"
+        "org.remmina.Remmina"
     ],
     "org.kde.plasmashell": [
         "io.github.quodlibet.ExFalso",

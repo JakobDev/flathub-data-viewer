@@ -1,15 +1,17 @@
 {
+    "5.15-21.08": [
+        "com.github.git_cola.git-cola",
+        "com.sigil_ebook.Sigil",
+        "io.github.ciromattia.kcc",
+        "me.mitya57.ReText",
+        "org.pymol.PyMOL",
+        "org.qutebrowser.qutebrowser"
+    ],
     "6.2": [
         "com.gitlab.JakobDev.jdAppdataEdit",
         "com.gitlab.JakobDev.jdMinecraftLauncher",
         "com.gitlab.JakobDev.jdReplace",
         "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.jakobdev.jdnbtexplorer"
-    ],
-    "5.15-21.08": [
-        "com.sigil_ebook.Sigil",
-        "io.github.ciromattia.kcc",
-        "org.pymol.PyMOL",
-        "org.qutebrowser.qutebrowser"
     ]
 }

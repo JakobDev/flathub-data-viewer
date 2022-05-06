@@ -39,5 +39,6 @@
     "org.sonic3air.Sonic3AIR",
     "org.verapdf.veraPDF",
     "org.zealdocs.Zeal",
-    "sa.sy.bluerecorder"
+    "sa.sy.bluerecorder",
+    "org.gtk.Gtk3theme.Mojave-light"
 ]

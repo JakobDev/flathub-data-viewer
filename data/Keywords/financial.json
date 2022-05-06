@@ -1,5 +1,5 @@
 [
-    "io.github.Qalculate",
     "io.github.Qalculate.qalculate-qt",
+    "io.github.Qalculate",
     "org.gnome.Calculator"
 ]

@@ -1,10 +1,12 @@
 [
     "com.belmoussaoui.Authenticator",
+    "com.github.alexkdeveloper.forgetpass",
     "com.github.muriloventuroso.easyssh",
     "com.github.paolostivanin.OTPClient",
     "com.gitlab.guillermop.MasterKey",
     "com.gitlab.j0chn.nextcloud_password_client",
     "com.nitrokey.nitrokey-app",
+    "com.openwall.John",
     "com.virustotal.VirusTotalUploader",
     "de.bund.ausweisapp.ausweisapp2",
     "info.olasagasti.revelation",

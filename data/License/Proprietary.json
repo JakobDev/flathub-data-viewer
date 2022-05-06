@@ -129,5 +129,10 @@
     "org.pjbroad.EternallandsClient",
     "se.cendio.tlclient",
     "us.zoom.Zoom",
-    "xyz.eclipium.TetraSwap"
+    "xyz.eclipium.TetraSwap",
+    "com.github.wwmm.pulseeffects.plugin.lsp-plugins",
+    "fr.free.hxc2001.HxCFloppyEmulator.Extension.capslib",
+    "org.freedesktop.Platform.openh264",
+    "org.gnome.Games.LibretroPlugin.PicoDrive",
+    "org.videolan.VLC.Plugin.makemkv"
 ]

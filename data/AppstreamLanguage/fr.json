@@ -79,8 +79,8 @@
     "info.olasagasti.revelation",
     "io.github.Hexchat",
     "io.github.ImEditor",
-    "io.github.Qalculate",
     "io.github.Qalculate.qalculate-qt",
+    "io.github.Qalculate",
     "io.github.celluloid_player.Celluloid",
     "io.github.dfandrich.gpscorrelate",
     "io.github.endless_sky.endless_sky",
@@ -100,6 +100,7 @@
     "io.lmms.LMMS",
     "io.otsaloma.gaupol",
     "io.otsaloma.nfoview",
+    "me.mitya57.ReText",
     "net.launchpad.gmult",
     "net.mediaarea.MediaInfo",
     "net.meijn.onvifviewer",
@@ -115,6 +116,7 @@
     "org.fedoraproject.MediaWriter",
     "org.fontforge.FontForge",
     "org.freedesktop.Piper",
+    "org.freedesktop.appstream.cli",
     "org.freedesktop.dabrain34.GstPipelineStudio",
     "org.gabmus.gfeeds",
     "org.gabmus.giara",
@@ -161,6 +163,7 @@
     "org.gnome.Maps",
     "org.gnome.Mines",
     "org.gnome.Music",
+    "org.gnome.NautilusPreviewer",
     "org.gnome.NetworkDisplays",
     "org.gnome.Nibbles",
     "org.gnome.Notes",
@@ -357,5 +360,6 @@
     "re.sonny.Commit",
     "re.sonny.Junction",
     "uk.co.ibboard.cawbird",
-    "work.openpaper.Paperwork"
+    "work.openpaper.Paperwork",
+    "org.gnome.Games.LibretroPlugin.PicoDrive"
 ]

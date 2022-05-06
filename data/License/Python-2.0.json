@@ -1,3 +1,4 @@
 [
-    "org.pymol.PyMOL"
+    "org.pymol.PyMOL",
+    "com.jetbrains.PyCharm.Extensions.Python2-7"
 ]

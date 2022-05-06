@@ -1,0 +1,11 @@
+{
+    "description": "Shows all Apps with the given Type",
+    "data": [
+        "addon",
+        "console-application",
+        "desktop",
+        "generic",
+        "runtime"
+    ],
+    "dataNames": {}
+}

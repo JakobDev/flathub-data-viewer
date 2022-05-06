@@ -70,5 +70,13 @@
     {
         "name": "Last Updated",
         "value": "LastUpdated"
+    },
+    {
+        "name": "Addons",
+        "value": "Addons"
+    },
+    {
+        "name": "Type",
+        "value": "Type"
     }
 ]

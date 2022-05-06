@@ -40,6 +40,7 @@
     "io.github.seadve.Kooha",
     "io.github.seadve.Mousai",
     "io.github.webcamoid.Webcamoid",
+    "me.mitya57.ReText",
     "net.launchpad.gmult",
     "net.supertuxkart.SuperTuxKart",
     "org.ardour.Ardour",
@@ -48,6 +49,7 @@
     "org.entangle_photo.Manager",
     "org.fcitx.Fcitx5",
     "org.fontforge.FontForge",
+    "org.freedesktop.appstream.cli",
     "org.gajim.Gajim",
     "org.gimp.GIMP",
     "org.glimpse_editor.Glimpse",
@@ -84,6 +86,7 @@
     "org.gnome.Maps",
     "org.gnome.Mines",
     "org.gnome.Music",
+    "org.gnome.NautilusPreviewer",
     "org.gnome.NetworkDisplays",
     "org.gnome.Nibbles",
     "org.gnome.Notes",
@@ -138,5 +141,7 @@
     "org.xfce.mousepad",
     "org.xfce.ristretto",
     "org.zrythm.Zrythm",
-    "re.sonny.Junction"
+    "re.sonny.Junction",
+    "org.fcitx.Fcitx5.Addon.Mozc",
+    "org.fcitx.Fcitx5.Addon.Rime"
 ]

@@ -1,9 +1,9 @@
 [
-    "chat.delta.desktop",
+    "chat.delta",
     "com.github.eneshecan.WhatsAppForLinux",
     "im.kaidan.kaidan",
     "io.github.kotatogram",
     "org.gajim.Gajim",
     "org.gnunet.Messenger",
-    "org.telegram.desktop"
+    "org.telegram"
 ]

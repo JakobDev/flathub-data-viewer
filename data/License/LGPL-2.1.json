@@ -4,5 +4,9 @@
     "com.endlessm.HatchPreviewer",
     "org.firestormviewer.FirestormViewer",
     "org.freecadweb.FreeCAD",
-    "org.kde.koko"
+    "org.gnome.Pinpoint",
+    "org.kde.koko",
+    "com.hack_computer.Clippy.Extension",
+    "org.freedesktop.LinuxAudio.Plugins.Calf",
+    "org.videolan.VLC.Plugin.fdkaac"
 ]

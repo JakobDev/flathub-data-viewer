@@ -1,0 +1,5 @@
+[
+    "org.winehq.Wine.DLLs.dxvk",
+    "org.winehq.Wine.gecko",
+    "org.winehq.Wine.mono"
+]

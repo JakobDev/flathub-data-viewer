@@ -1,7 +1,7 @@
 [
     "cc.retroshare.retroshare-gui",
     "ch.threema.threema-web-desktop",
-    "chat.delta.desktop",
+    "chat.delta",
     "chat.quadrix.Quadrix",
     "chat.schildi.desktop",
     "com.github.IsmaelMartinez.teams_for_linux",
@@ -25,6 +25,6 @@
     "org.quassel_irc.QuasselClient",
     "org.signal.Signal",
     "org.syphon.Syphon",
-    "org.telegram.desktop",
+    "org.telegram",
     "xyz.mx_moment.moment"
 ]

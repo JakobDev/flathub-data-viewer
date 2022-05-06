@@ -18,11 +18,13 @@
     "io.github.quodlibet.ExFalso",
     "io.github.quodlibet.QuodLibet",
     "io.github.webcamoid.Webcamoid",
+    "me.mitya57.ReText",
     "net.launchpad.gmult",
     "net.supertuxkart.SuperTuxKart",
     "org.fcitx.Fcitx5",
     "org.fontforge.FontForge",
     "org.freedesktop.Piper",
+    "org.freedesktop.appstream.cli",
     "org.gimp.GIMP",
     "org.glimpse_editor.Glimpse",
     "org.gnome.Aisleriot",
@@ -58,6 +60,7 @@
     "org.gnome.Maps",
     "org.gnome.Mines",
     "org.gnome.Music",
+    "org.gnome.NautilusPreviewer",
     "org.gnome.Nibbles",
     "org.gnome.Notes",
     "org.gnome.OCRFeeder",
@@ -107,5 +110,9 @@
     "org.xfce.mousepad",
     "org.xfce.ristretto",
     "org.zrythm.Zrythm",
-    "uk.co.ibboard.cawbird"
+    "uk.co.ibboard.cawbird",
+    "org.fcitx.Fcitx5.Addon.ChineseAddons",
+    "org.fcitx.Fcitx5.Addon.Mozc",
+    "org.fcitx.Fcitx5.Addon.Rime",
+    "org.fcitx.Fcitx5.Addon.Zhuyin"
 ]

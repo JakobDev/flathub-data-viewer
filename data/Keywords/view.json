@@ -1,4 +1,5 @@
 [
     "org.gnome.Connections",
+    "org.gnome.NautilusPreviewer",
     "org.libvips.vipsdisp"
 ]

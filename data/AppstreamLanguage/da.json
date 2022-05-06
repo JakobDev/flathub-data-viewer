@@ -21,11 +21,13 @@
     "io.github.quodlibet.ExFalso",
     "io.github.quodlibet.QuodLibet",
     "io.gitlab.Goodvibes",
+    "me.mitya57.ReText",
     "net.supertuxkart.SuperTuxKart",
     "nl.hjdskes.gcolor3",
     "org.denemo.Denemo",
     "org.fcitx.Fcitx5",
     "org.fedoraproject.MediaWriter",
+    "org.freedesktop.appstream.cli",
     "org.gabmus.giara",
     "org.gimp.GIMP",
     "org.glimpse_editor.Glimpse",
@@ -65,6 +67,7 @@
     "org.gnome.Maps",
     "org.gnome.Mines",
     "org.gnome.Music",
+    "org.gnome.NautilusPreviewer",
     "org.gnome.Nibbles",
     "org.gnome.Notes",
     "org.gnome.OCRFeeder",
@@ -184,5 +187,9 @@
     "org.x.Warpinator",
     "org.xfce.mousepad",
     "org.xfce.ristretto",
-    "uk.co.ibboard.cawbird"
+    "uk.co.ibboard.cawbird",
+    "org.fcitx.Fcitx5.Addon.ChineseAddons",
+    "org.fcitx.Fcitx5.Addon.Mozc",
+    "org.fcitx.Fcitx5.Addon.Rime",
+    "org.fcitx.Fcitx5.Addon.Zhuyin"
 ]

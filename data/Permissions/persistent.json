@@ -351,6 +351,9 @@
     ".mixxx": [
         "org.mixxx.Mixxx"
     ],
+    ".ssh": [
+        "org.mosh.mosh"
+    ],
     ".thunderbird": [
         "org.mozilla.Thunderbird"
     ],

@@ -1,7 +1,7 @@
 [
     "cc.retroshare.retroshare-gui",
     "ch.threema.threema-web-desktop",
-    "chat.delta.desktop",
+    "chat.delta",
     "chat.quadrix.Quadrix",
     "chat.revolt.RevoltDesktop",
     "chat.rocket.RocketChat",
@@ -46,7 +46,7 @@
     "org.nanuc.Axolotl",
     "org.signal.Signal",
     "org.syphon.Syphon",
-    "org.telegram.desktop",
+    "org.telegram",
     "org.zulip.Zulip",
     "us.zoom.Zoom",
     "xyz.mx_moment.moment"

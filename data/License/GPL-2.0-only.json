@@ -14,5 +14,7 @@
     "org.kde.ksudoku",
     "org.msweet.htmldoc",
     "org.nmap.Zenmap",
-    "org.subsurface_divelog.Subsurface"
+    "org.subsurface_divelog.Subsurface",
+    "io.github.peazip.PeaZip.Addon.i386",
+    "org.freedesktop.Sdk.Extension.freepascal"
 ]

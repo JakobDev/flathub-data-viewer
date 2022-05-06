@@ -474,9 +474,6 @@
     "org.mpris.mediaplayer2.strawberry": [
         "org.strawberrymusicplayer.strawberry"
     ],
-    "org.mpris.mediaplayer2.tdesktop": [
-        "org.telegram.desktop"
-    ],
     "org.mpris.mediaplayer2.vlc": [
         "org.videolan.VLC"
     ],

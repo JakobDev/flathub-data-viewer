@@ -110,6 +110,7 @@
         "io.liri.Text",
         "io.openrct2.OpenRCT2",
         "me.sanchezrodriguez.passes",
+        "me.simakis.dropboxignore",
         "net.blockout.BlockOutII",
         "net.daase.journable",
         "net.jenyay.Outwiker",
@@ -210,7 +211,7 @@
     ],
     "intense": [
         "ch.threema.threema-web-desktop",
-        "chat.delta.desktop",
+        "chat.delta",
         "chat.revolt.RevoltDesktop",
         "chat.rocket.RocketChat",
         "chat.schildi.desktop",
@@ -264,7 +265,7 @@
         "org.phoenicis.playonlinux",
         "org.signal.Signal",
         "org.syphon.Syphon",
-        "org.telegram.desktop",
+        "org.telegram",
         "social.whalebird.WhalebirdDesktop",
         "us.zoom.Zoom",
         "xyz.mx_moment.moment"

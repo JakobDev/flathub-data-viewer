@@ -1,7 +1,7 @@
 [
     "app.getspace.Space",
     "app.midterm.MidtermDesktop",
-    "app.organicmaps.desktop",
+    "app.organicmaps",
     "ar.com.pilas_engine.App",
     "be.telenet.user.QSSTV",
     "br.gov.cti.invesalius",
@@ -87,7 +87,7 @@
     "org.kde.labplot2",
     "org.kde.marble",
     "org.kde.minuet",
-    "org.kiwix.desktop",
+    "org.kiwix",
     "org.laptop.TurtleArtActivity",
     "org.learningequality.Kolibri",
     "org.leocad.LeoCAD",

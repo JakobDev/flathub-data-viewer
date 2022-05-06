@@ -1,4 +1,5 @@
 [
+    "com.github.alexkdeveloper.forgetpass",
     "org.gnome.seahorse.Application",
     "org.nmap.Zenmap"
 ]

@@ -1,5 +1,6 @@
 [
     "com.usebottles.bottles",
     "org.phoenicis.playonlinux",
+    "org.winehq.Wine",
     "ua.org.brezblock.q4wine"
 ]

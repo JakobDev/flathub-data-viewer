@@ -1,4 +1,5 @@
 [
+    "at.ssh_mitm.server",
     "com.eminfedar.vaktisalah",
     "com.github.Flacon",
     "fr.rubet.rpn",
@@ -8,5 +9,7 @@
     "org.kde.index",
     "org.kde.pix",
     "org.kde.vvave",
-    "org.phoenicis.playonlinux"
+    "org.phoenicis.playonlinux",
+    "org.freedesktop.LinuxAudio.Plugins.DrumGizmo",
+    "org.freedesktop.LinuxAudio.Plugins.LSP"
 ]

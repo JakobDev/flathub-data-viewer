@@ -1,5 +1,5 @@
 [
-    "com.visualstudio.code",
     "com.visualstudio.code-oss",
+    "com.visualstudio.code",
     "com.vscodium.codium"
 ]

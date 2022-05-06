@@ -1,4 +1,5 @@
 [
     "io.github.bothlab.pomidaq",
+    "org.nuspell.Nuspell",
     "space.fips.Fips"
 ]

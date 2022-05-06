@@ -1,5 +1,6 @@
 [
     "org.flatpak.qtdemo",
+    "org.freedesktop.fwupd",
     "org.pitivi.Pitivi",
     "org.qxmledit.QXmlEdit"
 ]

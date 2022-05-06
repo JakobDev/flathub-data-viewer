@@ -1,5 +1,5 @@
 [
-    "chat.delta.desktop",
+    "chat.delta",
     "chat.quadrix.Quadrix",
     "chat.schildi.desktop",
     "com.chatterino.chatterino",
@@ -14,5 +14,5 @@
     "org.gajim.Gajim",
     "org.gnome.Fractal",
     "org.gnunet.Messenger",
-    "org.telegram.desktop"
+    "org.telegram"
 ]
