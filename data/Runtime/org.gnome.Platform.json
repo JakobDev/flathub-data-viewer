@@ -129,6 +129,7 @@
         "com.github.huluti.Curtail",
         "com.github.jeromerobert.pdfarranger",
         "com.github.jkotra.eovpn",
+        "com.github.johnfactotum.Foliate",
         "com.github.joseexposito.touche",
         "com.github.lachhebo.Gabtag",
         "com.github.maoschanz.drawing",
@@ -164,11 +165,13 @@
         "com.rawtherapee.RawTherapee",
         "com.syntevo.SmartSynchronize",
         "com.usebottles.bottles",
+        "de.create3000.titania",
         "de.haeckerfelix.Shortwave",
         "de.schmidhuberj.DieBahn",
         "de.schmidhuberj.tubefeeder",
         "de.tumexam.cli",
         "dev.alextren.Spot",
+        "dev.edfloreshz.Done",
         "dev.geopjr.Collision",
         "fr.free.Homebank",
         "fr.romainvigier.MetadataCleaner",
@@ -361,7 +364,6 @@
         "com.github.gi_lom.dialect",
         "com.github.gmg137.netease-cloud-music-gtk",
         "com.github.iwalton3.jellyfin-mpv-shim",
-        "com.github.johnfactotum.Foliate",
         "com.github.johnfactotum.QuickLookup",
         "com.github.junrrein.PDFSlicer",
         "com.github.kalibari.audok",
@@ -531,9 +533,6 @@
     ],
     "3.26": [
         "com.lettier.movie-monad"
-    ],
-    "3.32": [
-        "de.create3000.titania"
     ],
     "3.34": [
         "org.caione.GScope",

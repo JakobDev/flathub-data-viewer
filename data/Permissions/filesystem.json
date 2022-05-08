@@ -467,6 +467,7 @@
         "app.rednotebook.RedNotebook",
         "app.riftshare.RiftShare",
         "ar.com.pilas_engine.App",
+        "ar.com.tuxguitar.TuxGuitar",
         "ar.xjuan.Cambalache",
         "au.edu.uq.esys.escript",
         "be.telenet.user.QSSTV",
@@ -1083,8 +1084,97 @@
         "org.pitivi.Pitivi",
         "org.rolisteam.rolisteam"
     ],
+    "xdg-run/gvfsd": [
+        "br.gov.fazenda.receita.irpf",
+        "com.abisource.AbiWord",
+        "com.axosoft.GitKraken",
+        "com.github.Flacon",
+        "com.github.PintaProject.Pinta",
+        "com.github.flxzt.rnote",
+        "com.github.geigi.cozy",
+        "com.github.junrrein.PDFSlicer",
+        "com.github.needleandthread.vocal",
+        "com.github.xournalpp.xournalpp",
+        "com.giuspen.cherrytree",
+        "com.icons8.Lunacy",
+        "com.neatdecisions.Detwinner",
+        "com.rawtherapee.RawTherapee",
+        "com.transmissionbt.Transmission",
+        "de.create3000.titania",
+        "edu.stanford.Almond",
+        "fr.handbrake.ghb",
+        "io.github.TransmissionRemoteGtk",
+        "io.github.celluloid_player.Celluloid",
+        "net.sourceforge.efaxgtk",
+        "org.darktable.Darktable",
+        "org.entangle_photo.Manager",
+        "org.free_astro.siril",
+        "org.freefilesync.FreeFileSync",
+        "org.gimp.GIMP",
+        "org.gnome.Builder",
+        "org.gnome.DejaDup",
+        "org.gnome.Evince",
+        "org.gnome.GHex",
+        "org.gnome.Lollypop",
+        "org.gnome.NetworkDisplays",
+        "org.gnome.OCRFeeder",
+        "org.gnome.Photos",
+        "org.gnome.Rhythmbox3",
+        "org.gnome.SoundJuicer",
+        "org.gnome.TextEditor",
+        "org.gnome.Totem",
+        "org.gnome.World.PikaBackup",
+        "org.gnome.baobab",
+        "org.gnome.gThumb",
+        "org.gnome.gedit",
+        "org.gnumeric.Gnumeric",
+        "org.inkscape.Inkscape",
+        "org.libreoffice.LibreOffice",
+        "org.libvips.vipsdisp",
+        "org.remmina.Remmina",
+        "work.openpaper.Paperwork"
+    ],
+    "~/ProgramasRFB:create": [
+        "br.gov.fazenda.receita.irpf"
+    ],
+    "home:ro": [
+        "ca._0ldsk00l.Nestopia",
+        "ch.x29a.playitslowly",
+        "com.carpeludum.KegaFusion",
+        "com.corsixth.corsixth",
+        "com.endlessm.HatchPreviewer",
+        "com.getferdi.Ferdi",
+        "com.github.alexkdeveloper.desktop-files-creator",
+        "com.github.keriew.augustus",
+        "com.github.maoschanz.DynamicWallpaperEditor",
+        "com.github.marinm.songrec",
+        "com.github.rhyme_player.rhyme",
+        "com.github.yucefsourani.albasheer-electronic-quran-browser",
+        "com.retrodev.blastem",
+        "com.skype.Client",
+        "com.vagueentertainment.Framed",
+        "dev.ares.ares",
+        "dev.bsnes.bsnes",
+        "dev.paullee.scraterpreter.Scrape",
+        "fi.skyjake.Lagrange",
+        "im.srain.Srain",
+        "io.github.fabiangreffrath.Doom",
+        "net.rpcs3.RPCS3",
+        "org.cubocore.CoreHunt",
+        "org.gabmus.hydrapaper",
+        "org.gnode.NixView",
+        "org.gnome.NautilusPreviewer",
+        "org.nanuc.Axolotl",
+        "org.parlatype.Parlatype",
+        "org.purei.Play",
+        "org.ryujinx.Ryujinx",
+        "org.wireshark.Wireshark",
+        "org.yuzu_emu.yuzu",
+        "se.manyver.Manyverse",
+        "uk.org.zint.zint-qt",
+        "vn.hoabinh.quan.CoBang"
+    ],
     "host": [
-        "ar.com.tuxguitar.TuxGuitar",
         "ca.parallel_launcher.ParallelLauncher",
         "cc.nift.nsm",
         "chat.schildi.desktop",
@@ -1321,95 +1411,6 @@
         "org.xfce.ristretto",
         "org.zaproxy.ZAP",
         "se.cendio.tlclient"
-    ],
-    "xdg-run/gvfsd": [
-        "br.gov.fazenda.receita.irpf",
-        "com.abisource.AbiWord",
-        "com.axosoft.GitKraken",
-        "com.github.Flacon",
-        "com.github.PintaProject.Pinta",
-        "com.github.flxzt.rnote",
-        "com.github.geigi.cozy",
-        "com.github.junrrein.PDFSlicer",
-        "com.github.needleandthread.vocal",
-        "com.github.xournalpp.xournalpp",
-        "com.giuspen.cherrytree",
-        "com.icons8.Lunacy",
-        "com.neatdecisions.Detwinner",
-        "com.rawtherapee.RawTherapee",
-        "com.transmissionbt.Transmission",
-        "edu.stanford.Almond",
-        "fr.handbrake.ghb",
-        "io.github.TransmissionRemoteGtk",
-        "io.github.celluloid_player.Celluloid",
-        "net.sourceforge.efaxgtk",
-        "org.darktable.Darktable",
-        "org.entangle_photo.Manager",
-        "org.free_astro.siril",
-        "org.freefilesync.FreeFileSync",
-        "org.gimp.GIMP",
-        "org.gnome.Builder",
-        "org.gnome.DejaDup",
-        "org.gnome.Evince",
-        "org.gnome.GHex",
-        "org.gnome.Lollypop",
-        "org.gnome.NetworkDisplays",
-        "org.gnome.OCRFeeder",
-        "org.gnome.Photos",
-        "org.gnome.Rhythmbox3",
-        "org.gnome.SoundJuicer",
-        "org.gnome.TextEditor",
-        "org.gnome.Totem",
-        "org.gnome.World.PikaBackup",
-        "org.gnome.baobab",
-        "org.gnome.gThumb",
-        "org.gnome.gedit",
-        "org.gnumeric.Gnumeric",
-        "org.inkscape.Inkscape",
-        "org.libreoffice.LibreOffice",
-        "org.libvips.vipsdisp",
-        "org.remmina.Remmina",
-        "work.openpaper.Paperwork"
-    ],
-    "~/ProgramasRFB:create": [
-        "br.gov.fazenda.receita.irpf"
-    ],
-    "home:ro": [
-        "ca._0ldsk00l.Nestopia",
-        "ch.x29a.playitslowly",
-        "com.carpeludum.KegaFusion",
-        "com.corsixth.corsixth",
-        "com.endlessm.HatchPreviewer",
-        "com.getferdi.Ferdi",
-        "com.github.alexkdeveloper.desktop-files-creator",
-        "com.github.keriew.augustus",
-        "com.github.maoschanz.DynamicWallpaperEditor",
-        "com.github.marinm.songrec",
-        "com.github.rhyme_player.rhyme",
-        "com.github.yucefsourani.albasheer-electronic-quran-browser",
-        "com.retrodev.blastem",
-        "com.skype.Client",
-        "com.vagueentertainment.Framed",
-        "dev.ares.ares",
-        "dev.bsnes.bsnes",
-        "dev.paullee.scraterpreter.Scrape",
-        "fi.skyjake.Lagrange",
-        "im.srain.Srain",
-        "io.github.fabiangreffrath.Doom",
-        "net.rpcs3.RPCS3",
-        "org.cubocore.CoreHunt",
-        "org.gabmus.hydrapaper",
-        "org.gnode.NixView",
-        "org.gnome.NautilusPreviewer",
-        "org.nanuc.Axolotl",
-        "org.parlatype.Parlatype",
-        "org.purei.Play",
-        "org.ryujinx.Ryujinx",
-        "org.wireshark.Wireshark",
-        "org.yuzu_emu.yuzu",
-        "se.manyver.Manyverse",
-        "uk.org.zint.zint-qt",
-        "vn.hoabinh.quan.CoBang"
     ],
     "xdg-download": [
         "ch.protonmail.protonmail-import-export-app",
@@ -1791,6 +1792,7 @@
         "com.kristianduske.TrenchBroom",
         "com.thincast.client",
         "com.vzhd1701.gridplayer",
+        "de.create3000.titania",
         "fr.handbrake.ghb",
         "info.olasagasti.revelation",
         "io.github.celluloid_player.Celluloid",
@@ -2182,8 +2184,7 @@
         "org.gnome.Boxes"
     ],
     "xdg-data/lutris": [
-        "com.heroicgameslauncher.hgl",
-        "io.github.philipk.boilr"
+        "com.heroicgameslauncher.hgl"
     ],
     "~/Games/Heroic:create": [
         "com.heroicgameslauncher.hgl"
@@ -2213,6 +2214,9 @@
     ],
     "xdg-run/Nextcloud:create": [
         "com.nextcloud.desktopclient.nextcloud"
+    ],
+    "xdg-download/Geopard": [
+        "com.ranfdev.Geopard"
     ],
     "~/.renpy:create": [
         "com.scoutshonour.Digital",
@@ -2337,16 +2341,22 @@
         "org.gnome.FontManager",
         "org.gnome.font-viewer"
     ],
-    "~/.var/app/net.lutris.Lutris": [
+    "~/run/media/mmcblk0p1:ro": [
         "io.github.philipk.boilr"
     ],
-    "~/.var/app/com.heroicgameslauncher.hgl": [
+    "~/.var/app/net.lutris.Lutris:ro": [
         "io.github.philipk.boilr"
     ],
-    "~/Games/Heroic": [
+    "~/Games/Heroic:ro": [
         "io.github.philipk.boilr"
     ],
-    "~/.config/itch": [
+    "xdg-data/lutris:ro": [
+        "io.github.philipk.boilr"
+    ],
+    "~/.var/app/com.heroicgameslauncher.hgl:ro": [
+        "io.github.philipk.boilr"
+    ],
+    "~/.config/itch:ro": [
         "io.github.philipk.boilr"
     ],
     "~/Applications:create": [

@@ -1418,6 +1418,7 @@
         "x-scheme-handler{SLASH}dash-plugin",
         "x-scheme-handler{SLASH}dashpay",
         "x-scheme-handler{SLASH}ddnet",
+        "x-scheme-handler{SLASH}done",
         "x-scheme-handler{SLASH}drawpile",
         "x-scheme-handler{SLASH}element",
         "x-scheme-handler{SLASH}et",
