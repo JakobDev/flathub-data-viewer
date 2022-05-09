@@ -9,6 +9,7 @@
     "me.leucoso.Grock",
     "net.gwyddion.Gwyddion",
     "net.sourceforge.scidavis",
+    "org.kde.kst",
     "org.paraview.ParaView",
     "org.telesculptor.TeleSculptor"
 ]
