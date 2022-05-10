@@ -2,6 +2,7 @@
     "dri": [
         "app.getspace.Space",
         "app.lith.Lith",
+        "app.moosync.moosync",
         "app.rednotebook.RedNotebook",
         "app.resp.RESP",
         "app.riftshare.RiftShare",
@@ -99,6 +100,7 @@
         "com.github.alexkdeveloper.desktop-files-creator",
         "com.github.alexkdeveloper.dice",
         "com.github.alexkdeveloper.forgetpass",
+        "com.github.alexkdeveloper.goldsearch",
         "com.github.alexkdeveloper.relaxator",
         "com.github.alexkdeveloper.somafm",
         "com.github.alexkdeveloper.sudoku",

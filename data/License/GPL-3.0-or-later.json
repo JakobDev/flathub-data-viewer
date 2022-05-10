@@ -1,4 +1,5 @@
 [
+    "app.moosync.moosync",
     "app.riftshare.RiftShare",
     "art.taunoerik.tauno-serial-plotter",
     "chat.quadrix.Quadrix",
@@ -23,6 +24,7 @@
     "com.github.alexhuntley.Plots",
     "com.github.alexkdeveloper.desktop-files-creator",
     "com.github.alexkdeveloper.dwxmlcreator",
+    "com.github.alexkdeveloper.goldsearch",
     "com.github.alexkdeveloper.notepad",
     "com.github.alexkdeveloper.relaxator",
     "com.github.amikha1lov.RecApp",

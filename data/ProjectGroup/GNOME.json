@@ -148,6 +148,7 @@
     "org.upnproutercontrol.UPnPRouterControl",
     "org.xiphos.Xiphos",
     "org.freedesktop.Sdk.Extension.vala",
+    "org.gnome.Crosswords.PuzzleSets.xword-dl",
     "org.gnome.Platform",
     "org.gnome.Sdk",
     "org.gtk.Gtk3theme.Adwaita-dark"

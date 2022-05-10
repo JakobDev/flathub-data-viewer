@@ -226,7 +226,8 @@
         "net.pioneerspacesim.Pioneer",
         "net.runelite.RuneLite",
         "org.gna.Warmux",
-        "org.gnome.gitlab.Cowsay"
+        "org.gnome.gitlab.Cowsay",
+        "org.kryogenix.Pick"
     ],
     "moderate": [
         "com.fightcade.Fightcade",

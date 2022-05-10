@@ -3,5 +3,6 @@
     "com.github.themix_project.Oomox",
     "io.github.lainsce.Colorway",
     "io.github.lainsce.Emulsion",
-    "org.gabmus.swatch"
+    "org.gabmus.swatch",
+    "org.kryogenix.Pick"
 ]

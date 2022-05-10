@@ -28,7 +28,6 @@
         "com.github.robertsanseries.ciano",
         "com.github.ryanakca.slingshot",
         "com.github.skullernet.q2pro",
-        "com.github.z.Cumulonimbus",
         "com.gitlab.davem.ClamTk",
         "com.gitlab.sat_metalab.Splash",
         "com.inventwithpython.flippy",
@@ -144,6 +143,7 @@
         "uk.me.doof.Lander"
     ],
     "21.08": [
+        "app.moosync.moosync",
         "app.xemu.xemu",
         "app.ytmdesktop.ytmdesktop",
         "ar.com.pilas_engine.App",
@@ -245,6 +245,7 @@
         "com.github.unrud.RemoteTouchpad",
         "com.github.vikdevelop.photopea_app",
         "com.github.vladimiry.ElectronMail",
+        "com.github.z.Cumulonimbus",
         "com.gitlab.coringao.cavestory-nx",
         "com.google.Chrome",
         "com.google.ChromeDev",

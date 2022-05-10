@@ -236,7 +236,8 @@
         "com.github.rkoesters.xkcd-gtk",
         "com.realm667.Wolfenstein_Blade_of_Agony",
         "io.github.Foldex.r2mod",
-        "io.github.hurricangame.hurrican"
+        "io.github.hurricangame.hurrican",
+        "org.kryogenix.Pick"
     ],
     "mild": [
         "com.github.dariasteam.cowsrevenge",

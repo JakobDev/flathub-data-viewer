@@ -1,5 +1,6 @@
 [
     "app.lith.Lith",
+    "app.moosync.moosync",
     "app.riftshare.RiftShare",
     "br.gov.fazenda.receita.irpf",
     "cc.retroshare.retroshare-gui",

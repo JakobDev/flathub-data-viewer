@@ -1471,6 +1471,7 @@
         "x-scheme-handler{SLASH}mo",
         "x-scheme-handler{SLASH}moonplayer",
         "x-scheme-handler{SLASH}moonplayers",
+        "x-scheme-handler{SLASH}moosync",
         "x-scheme-handler{SLASH}motrix",
         "x-scheme-handler{SLASH}ms-access",
         "x-scheme-handler{SLASH}ms-excel",

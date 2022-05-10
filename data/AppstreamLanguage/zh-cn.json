@@ -1,4 +1,5 @@
 [
     "com.netease.CloudMusic",
-    "com.qq.QQmusic"
+    "com.qq.QQmusic",
+    "org.fedoraproject.MediaWriter"
 ]

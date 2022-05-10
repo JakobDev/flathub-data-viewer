@@ -29,6 +29,7 @@
         "sh.ppy.osu"
     ],
     "mild": [
+        "app.moosync.moosync",
         "ar.com.pilas_engine.App",
         "com.axosoft.GitKraken",
         "com.calibre_ebook.calibre",

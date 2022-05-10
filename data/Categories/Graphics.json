@@ -130,6 +130,7 @@
     "org.kde.kxstitch",
     "org.kde.okular",
     "org.kde.pix",
+    "org.kryogenix.Pick",
     "org.leocad.LeoCAD",
     "org.libvips.vipsdisp",
     "org.mapeditor.Tiled",
