@@ -3,6 +3,7 @@
     "com.github.unrud.RemoteTouchpad",
     "com.itopia.client",
     "com.thincast.client",
+    "io.github.retgal.Dayon",
     "org.cockpit_project.CockpitClient",
     "org.gnome.Connections",
     "org.kde.krdc",

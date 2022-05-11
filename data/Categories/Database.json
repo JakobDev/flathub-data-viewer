@@ -1,4 +1,5 @@
 [
     "org.apache.directory.studio",
-    "org.kde.tellico"
+    "org.kde.tellico",
+    "org.sqlitebrowser.sqlitebrowser"
 ]

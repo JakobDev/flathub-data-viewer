@@ -1,0 +1,16 @@
+{
+    "description": "Shows all Apps which require a specific Flatpak version",
+    "data": [
+        "0.10.2",
+        "0.10.3",
+        "0.11.1",
+        "0.11.4",
+        "0.11.6",
+        "1.0.0",
+        "1.1.2",
+        "1.3.2",
+        "1.7.1",
+        "1.8.2"
+    ],
+    "dataNames": {}
+}

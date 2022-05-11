@@ -195,6 +195,7 @@
     "org.gajim.Gajim.Plugin.openpgp",
     "org.gajim.Gajim.Plugin.pgp",
     "org.gajim.Gajim.Plugin.url_image_preview",
+    "org.gnome.Crosswords.PuzzleSets.puzzlepull",
     "org.gnome.Crosswords.PuzzleSets.xword-dl",
     "org.gnome.Games.LibretroPlugin.PicoDrive",
     "org.gnome.Platform",

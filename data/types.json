@@ -24,6 +24,10 @@
         "value": "Architecture"
     },
     {
+        "name": "Required Flatpak Version",
+        "value": "RequiredFlatpak"
+    },
+    {
         "name": "URL",
         "value": "Url"
     },

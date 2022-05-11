@@ -1,5 +1,6 @@
 {
     "dri": [
+        "app.drey.Warp",
         "app.getspace.Space",
         "app.lith.Lith",
         "app.moosync.moosync",
@@ -145,6 +146,7 @@
         "com.github.johnfactotum.QuickLookup",
         "com.github.joseexposito.touche",
         "com.github.jpakkane.glyphtracer",
+        "com.github.juzzlin.DustRacing2D",
         "com.github.k4zmu2a.spacecadetpinball",
         "com.github.kalibari.audok",
         "com.github.kmwallio.thiefmd",
@@ -887,6 +889,7 @@
         "org.scintilla.SciTE",
         "org.shadowsocks.qt5client",
         "org.sparkleshare.SparkleShare",
+        "org.sqlitebrowser.sqlitebrowser",
         "org.standardnotes.standardnotes",
         "org.stellarium.Stellarium",
         "org.sugarlabs.AbacusActivity",

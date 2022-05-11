@@ -1,4 +1,5 @@
 [
+    "app.drey.Warp",
     "app.organicmaps",
     "app.rednotebook.RedNotebook",
     "app.riftshare.RiftShare",
@@ -460,6 +461,7 @@
     "io.github.quodlibet.ExFalso",
     "io.github.quodlibet.QuodLibet",
     "io.github.realmazharhussain.GdmSettings",
+    "io.github.retgal.Dayon",
     "io.github.rinigus.OSMScoutServer",
     "io.github.rinigus.PureMaps",
     "io.github.seadve.Breathing",
@@ -989,6 +991,7 @@
     "org.sparkleshare.SparkleShare",
     "org.speed_dreams.SpeedDreams",
     "org.speedcrunch.SpeedCrunch",
+    "org.sqlitebrowser.sqlitebrowser",
     "org.standardnotes.standardnotes",
     "org.stellarium.Stellarium",
     "org.strawberrymusicplayer.strawberry",

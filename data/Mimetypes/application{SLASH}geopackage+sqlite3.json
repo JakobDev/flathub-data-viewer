@@ -1,3 +1,4 @@
 [
-    "org.qgis.qgis"
+    "org.qgis.qgis",
+    "org.sqlitebrowser.sqlitebrowser"
 ]

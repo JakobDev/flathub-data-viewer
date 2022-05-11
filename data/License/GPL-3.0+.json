@@ -282,6 +282,7 @@
     "org.freedesktop.LinuxAudio.Plugins.Surge-XT",
     "org.freedesktop.LinuxAudio.Plugins.Surge",
     "org.gimp.GIMP.Plugin.Resynthesizer",
+    "org.gnome.Crosswords.PuzzleSets.puzzlepull",
     "org.gnome.Crosswords.PuzzleSets.xword-dl",
     "org.libreoffice.LibreOffice.BundledExtension.Voikko"
 ]

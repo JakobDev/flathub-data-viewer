@@ -1,5 +1,6 @@
 {
     "network": [
+        "app.drey.Warp",
         "app.getspace.Space",
         "app.lith.Lith",
         "app.midterm.MidtermDesktop",
@@ -473,6 +474,7 @@
         "io.github.qtox.qTox",
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
+        "io.github.retgal.Dayon",
         "io.github.rinigus.OSMScoutServer",
         "io.github.rinigus.PureMaps",
         "io.github.seadve.Mousai",
@@ -892,6 +894,7 @@
         "org.sil.FieldWorks",
         "org.sparkleshare.SparkleShare",
         "org.speed_dreams.SpeedDreams",
+        "org.sqlitebrowser.sqlitebrowser",
         "org.squeakland.Etoys",
         "org.srb2.SRB2",
         "org.srb2.SRB2Kart",
@@ -974,6 +977,7 @@
         "xyz.z3ntu.razergenie"
     ],
     "ipc": [
+        "app.drey.Warp",
         "app.lith.Lith",
         "app.midterm.MidtermDesktop",
         "app.moosync.moosync",
@@ -1208,6 +1212,7 @@
         "com.github.joseexposito.touche",
         "com.github.jpakkane.glyphtracer",
         "com.github.junrrein.PDFSlicer",
+        "com.github.juzzlin.DustRacing2D",
         "com.github.kalibari.audok",
         "com.github.keriew.augustus",
         "com.github.kmwallio.thiefmd",
@@ -1670,6 +1675,7 @@
         "io.github.quodlibet.QuodLibet",
         "io.github.rafaelfassi.QLogExplorer",
         "io.github.realmazharhussain.GdmSettings",
+        "io.github.retgal.Dayon",
         "io.github.rinigus.OSMScoutServer",
         "io.github.rinigus.PureMaps",
         "io.github.seadve.Breathing",
@@ -2350,6 +2356,7 @@
         "org.sparkleshare.SparkleShare",
         "org.speed_dreams.SpeedDreams",
         "org.speedcrunch.SpeedCrunch",
+        "org.sqlitebrowser.sqlitebrowser",
         "org.squeakland.Etoys",
         "org.srb2.SRB2",
         "org.srb2.SRB2Kart",

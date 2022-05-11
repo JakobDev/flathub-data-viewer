@@ -1,5 +1,6 @@
 {
     "x11": [
+        "app.drey.Warp",
         "app.getspace.Space",
         "app.lith.Lith",
         "app.midterm.MidtermDesktop",
@@ -244,6 +245,7 @@
         "com.github.joseexposito.touche",
         "com.github.jpakkane.glyphtracer",
         "com.github.junrrein.PDFSlicer",
+        "com.github.juzzlin.DustRacing2D",
         "com.github.k4zmu2a.spacecadetpinball",
         "com.github.kalibari.audok",
         "com.github.keriew.augustus",
@@ -733,6 +735,7 @@
         "io.github.quodlibet.QuodLibet",
         "io.github.rafaelfassi.QLogExplorer",
         "io.github.realmazharhussain.GdmSettings",
+        "io.github.retgal.Dayon",
         "io.github.rinigus.OSMScoutServer",
         "io.github.rinigus.PureMaps",
         "io.github.seadve.Breathing",
@@ -1437,6 +1440,7 @@
         "org.sparkleshare.SparkleShare",
         "org.speed_dreams.SpeedDreams",
         "org.speedcrunch.SpeedCrunch",
+        "org.sqlitebrowser.sqlitebrowser",
         "org.squeakland.Etoys",
         "org.srb2.SRB2",
         "org.srb2.SRB2Kart",
@@ -1572,6 +1576,7 @@
         "xyz.z3ntu.razergenie"
     ],
     "wayland": [
+        "app.drey.Warp",
         "app.getspace.Space",
         "app.lith.Lith",
         "app.rednotebook.RedNotebook",
@@ -1730,6 +1735,7 @@
         "com.github.joseexposito.touche",
         "com.github.jpakkane.glyphtracer",
         "com.github.junrrein.PDFSlicer",
+        "com.github.juzzlin.DustRacing2D",
         "com.github.k4zmu2a.spacecadetpinball",
         "com.github.kalibari.audok",
         "com.github.keriew.augustus",
@@ -2554,6 +2560,7 @@
         "org.sparkleshare.SparkleShare",
         "org.speed_dreams.SpeedDreams",
         "org.speedcrunch.SpeedCrunch",
+        "org.sqlitebrowser.sqlitebrowser",
         "org.srb2.SRB2",
         "org.srb2.SRB2Kart",
         "org.strawberrymusicplayer.strawberry",
@@ -2617,6 +2624,7 @@
         "xyz.z3ntu.razergenie"
     ],
     "fallback-x11": [
+        "app.drey.Warp",
         "app.getspace.Space",
         "app.lith.Lith",
         "app.resp.RESP",
@@ -2729,6 +2737,7 @@
         "com.github.johnfactotum.QuickLookup",
         "com.github.joseexposito.touche",
         "com.github.jpakkane.glyphtracer",
+        "com.github.juzzlin.DustRacing2D",
         "com.github.k4zmu2a.spacecadetpinball",
         "com.github.kalibari.audok",
         "com.github.keriew.augustus",
@@ -3224,6 +3233,7 @@
         "org.sonic3air.Sonic3AIR",
         "org.soundconverter.SoundConverter",
         "org.speed_dreams.SpeedDreams",
+        "org.sqlitebrowser.sqlitebrowser",
         "org.srb2.SRB2",
         "org.srb2.SRB2Kart",
         "org.strawberrymusicplayer.strawberry",
@@ -3373,6 +3383,7 @@
         "com.github.iwalton3.jellyfin-media-player",
         "com.github.iwalton3.jellyfin-mpv-shim",
         "com.github.johnfactotum.Foliate",
+        "com.github.juzzlin.DustRacing2D",
         "com.github.k4zmu2a.spacecadetpinball",
         "com.github.kalibari.audok",
         "com.github.keriew.augustus",

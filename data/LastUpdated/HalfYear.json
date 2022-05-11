@@ -1,4 +1,5 @@
 [
+    "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ar.com.softwareperonista.Rockarrolla",
     "ar.xjuan.Cambalache",
@@ -47,7 +48,6 @@
     "com.github.Darazaki.Spedread",
     "com.github.HypatiaProject.hypatia",
     "com.github.IsmaelMartinez.teams_for_linux",
-    "com.github.KRTirtho.Spotube",
     "com.github.Matoking.protontricks",
     "com.github.PintaProject.Pinta",
     "com.github.Rosalie241.RMG",
@@ -161,7 +161,6 @@
     "com.syntevo.SmartGit",
     "com.syntevo.SmartSynchronize",
     "com.tencent.wemeet",
-    "com.ticktick.TickTick",
     "com.todoist.Todoist",
     "com.tonikelope.MegaBasterd",
     "com.ultimaker.cura",
