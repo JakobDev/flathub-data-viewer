@@ -119,6 +119,9 @@ def parse_summary_api(app_id: str, data: dict):
     for i in r["arches"]:
         add_simple_to_data(data, "arch", i, app_id)
 
+    if "required-flatpak" in r["metadata"]:
+        add_simple_to_data(data, "required_flatpak", r["metadata"]["required-flatpak"], app_id)
+
 
 def parse_appstream(app_id: str, data: dict, component: appstream_python.AppstreamComponent):
     for i in list(component.urls.keys()):
@@ -221,6 +224,7 @@ def main():
     data["extensions"] = {}
     data["permissions"] = {}
     data["arch"] = {}
+    data["required_flatpak"] = {}
     data["url"] = {}
     data["categories"] = {}
     data["license"] = {}
@@ -262,6 +266,7 @@ def main():
     write_data(os.path.join(data_path, "Extensions"), data["extensions"], "Shows all Apps with the given Extensions")
     write_data(os.path.join(data_path, "Permissions"), data["permissions"], "Shows all Apps with the given Permission")
     write_data(os.path.join(data_path, "Architecture"), data["arch"], "Shows all Apps which supports the given Architecture")
+    write_data(os.path.join(data_path, "RequiredFlatpak"), data["required_flatpak"], "Shows all Apps which require a specific Flatpak version")
     write_data(os.path.join(data_path, "Url"), data["url"], "Shows all Apps which has a URL with the given type")
     write_data(os.path.join(data_path, "Categories"), data["categories"], "Shows all Apps with the given Categorie")
     write_data(os.path.join(data_path, "License"), data["license"], "Shows all Apps with the given License")
@@ -285,6 +290,7 @@ def main():
             {"name": "Extension", "value": "Extensions"},
             {"name": "Permission", "value": "Permissions"},
             {"name": "Architecture", "value": "Architecture"},
+            {"name": "Required Flatpak Version", "value": "RequiredFlatpak"},
             {"name": "URL", "value": "Url"},
             {"name": "Categorie", "value": "Categories"},
             {"name": "License", "value": "License"},
