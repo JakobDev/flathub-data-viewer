@@ -1302,7 +1302,6 @@
         "org.gnumeric.Gnumeric",
         "org.gpodder.gpodder",
         "org.inkscape.Inkscape",
-        "org.keepassxc.KeePassXC",
         "org.libreoffice.LibreOffice",
         "org.libvips.vipsdisp",
         "org.mozilla.firefox",
@@ -1609,7 +1608,6 @@
         "org.gnome.Shotwell",
         "org.gnome.Totem",
         "org.gnome.World.PikaBackup",
-        "org.keepassxc.KeePassXC",
         "org.onlyoffice.desktopeditors",
         "org.sparkleshare.SparkleShare"
     ],
@@ -2150,13 +2148,13 @@
     "org.kde.kuiserver": [
         "org.kde.ksudoku"
     ],
-    "org.freedesktop.login1.session": [
+    "com.canonical.unity.session": [
         "org.keepassxc.KeePassXC"
     ],
     "org.freedesktop.login1.manager": [
         "org.keepassxc.KeePassXC"
     ],
-    "com.canonical.unity.session": [
+    "org.freedesktop.login1.session": [
         "org.keepassxc.KeePassXC"
     ],
     "org.gnome.sessionmanager.presence": [
