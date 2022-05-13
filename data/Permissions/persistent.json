@@ -213,6 +213,9 @@
     ".bibletime": [
         "info.bibletime.BibleTime"
     ],
+    ".q3a": [
+        "info.urbanterror.UrbanTerror"
+    ],
     ".ezquake": [
         "io.github.ezQuake"
     ],

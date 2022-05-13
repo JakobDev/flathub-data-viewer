@@ -200,6 +200,7 @@
         "org.filmulator.Filmulator",
         "org.flameshot.Flameshot",
         "org.flatpak.qtdemo",
+        "org.flightgear.FlightGear",
         "org.freecadweb.FreeCAD",
         "org.fritzing.Fritzing",
         "org.genivi.DLTViewer",
@@ -412,7 +413,6 @@
         "org.bitbucket.mystery_keeper.VapourSynthEditor",
         "org.codeberg.dimkard.glossaico",
         "org.eu.encom.spectral",
-        "org.flightgear.FlightGear",
         "org.frescobaldi.Frescobaldi",
         "org.jaspstats.JASP",
         "org.mapeditor.Tiled",
@@ -432,7 +432,6 @@
         "org.telesculptor.TeleSculptor",
         "org.tomviz.Tomviz",
         "org.tordini.flavio.Minitube",
-        "org.tribler.Tribler",
         "re.chiaki.Chiaki",
         "uk.org.zint.zint-qt"
     ],

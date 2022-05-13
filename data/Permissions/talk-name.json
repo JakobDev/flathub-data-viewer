@@ -469,7 +469,6 @@
         "org.texstudio.TeXstudio",
         "org.tomviz.Tomviz",
         "org.tordini.flavio.Minitube",
-        "org.tribler.Tribler",
         "org.tug.texworks",
         "org.videolan.VLC",
         "org.wireshark.Wireshark",
@@ -739,6 +738,7 @@
         "de.bund.ausweisapp.ausweisapp2",
         "de.hoppfoundation.klassenzimmer",
         "de.ifw_dresden.nagstamon",
+        "dev.vieb.Vieb",
         "edu.mit.Scratch",
         "edu.stanford.Almond",
         "gg.guilded.Guilded",
@@ -1043,6 +1043,7 @@
         "org.fcitx.Fcitx5",
         "org.flameshot.Flameshot",
         "org.flatpak.qtdemo",
+        "org.flightgear.FlightGear",
         "org.freecadweb.FreeCAD",
         "org.fritzing.Fritzing",
         "org.genivi.DLTViewer",
@@ -1738,6 +1739,14 @@
         "gg.guilded.Guilded",
         "social.whalebird.WhalebirdDesktop"
     ],
+    "org.mpris.mediaplayer2.*": [
+        "com.feaneron.Boatswain",
+        "com.github.muriloventuroso.givemelyrics",
+        "io.github.Hexchat",
+        "moe.tundra.Tundra",
+        "org.gajim.Gajim",
+        "org.nicotine_plus.Nicotine"
+    ],
     "org.gtk.notifications": [
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.hack_computer.Clubhouse",
@@ -1829,13 +1838,6 @@
         "moe.tundra.Tundra",
         "org.gnome.OCRFeeder",
         "org.openchemistry.Avogadro2"
-    ],
-    "org.mpris.mediaplayer2.*": [
-        "com.github.muriloventuroso.givemelyrics",
-        "io.github.Hexchat",
-        "moe.tundra.Tundra",
-        "org.gajim.Gajim",
-        "org.nicotine_plus.Nicotine"
     ],
     "org.mate.settingsdaemon": [
         "com.github.needleandthread.vocal",

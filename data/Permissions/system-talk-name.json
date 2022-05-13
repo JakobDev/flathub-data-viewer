@@ -87,6 +87,7 @@
         "com.google.ChromeDev",
         "com.microsoft.Edge",
         "com.valvesoftware.Steam",
+        "dev.vieb.Vieb",
         "io.mgba.mGBA",
         "io.wavebox.Wavebox",
         "org.chromium.Chromium",

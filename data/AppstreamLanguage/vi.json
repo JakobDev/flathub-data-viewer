@@ -70,6 +70,7 @@
     "org.inkscape.Inkscape",
     "org.kde.dolphin",
     "org.kde.kcolorchooser",
+    "org.kde.kfind",
     "org.kde.kwrite",
     "org.kde.lokalize",
     "org.kde.okular",

@@ -1464,6 +1464,7 @@
         "x-scheme-handler{SLASH}kolibri",
         "x-scheme-handler{SLASH}lbry",
         "x-scheme-handler{SLASH}lightning",
+        "x-scheme-handler{SLASH}logseq",
         "x-scheme-handler{SLASH}magnet",
         "x-scheme-handler{SLASH}mailspring",
         "x-scheme-handler{SLASH}mailto",
