@@ -207,5 +207,6 @@
     "org.kde.PlatformInputContexts.MaliitSailfishOS",
     "org.kde.PlatformTheme.QGnomePlatform",
     "org.kde.PlatformTheme.QtSNI",
-    "org.kde.WaylandDecoration.QGnomePlatform-decoration"
+    "org.kde.WaylandDecoration.QGnomePlatform-decoration",
+    "org.qutebrowser.qutebrowser.Userscripts"
 ]

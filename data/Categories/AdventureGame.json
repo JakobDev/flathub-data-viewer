@@ -10,5 +10,6 @@
     "org.manaplus.ManaPlus",
     "org.naev.Naev",
     "org.pjbroad.EternallandsClient",
-    "org.scummvm.ScummVM"
+    "org.scummvm.ScummVM",
+    "org.solarus_games.solarus.Launcher"
 ]

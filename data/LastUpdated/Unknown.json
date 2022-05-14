@@ -382,6 +382,7 @@
     "org.kicad.KiCad.Library.Symbols",
     "org.kicad.KiCad.Library.Templates",
     "org.libreoffice.LibreOffice.BundledExtension.Voikko",
+    "org.qutebrowser.qutebrowser.Userscripts",
     "org.videolan.VLC.Plugin.bdj",
     "org.videolan.VLC.Plugin.fdkaac",
     "org.winehq.Wine.gecko",

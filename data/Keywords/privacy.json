@@ -1,5 +1,6 @@
 [
     "io.wasabiwallet.WasabiWallet",
+    "org.kryogenix.utm_no",
     "org.onionshare.OnionShare",
     "org.standardnotes.standardnotes"
 ]

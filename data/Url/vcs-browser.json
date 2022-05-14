@@ -1,3 +1,6 @@
 [
+    "io.qt.Linguist",
+    "io.qt.qdbusviewer",
+    "org.love2d.love2d",
     "org.yuzu_emu.yuzu"
 ]

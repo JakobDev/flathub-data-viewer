@@ -94,6 +94,7 @@
         "net.xmind.XMind",
         "net.xmind.XMind8",
         "no.mifi.losslesscut",
+        "one.ablaze.floorp",
         "org.atheme.audacious",
         "org.briarproject.Briar",
         "org.deluge_torrent.deluge",
@@ -265,6 +266,7 @@
         "io.bit3.ThreemaQT",
         "io.bit3.WhatsAppQT",
         "io.botfather.Botfather",
+        "io.crow_translate.CrowTranslate",
         "io.emeric.watchflower",
         "io.github.Bollos00.LibreMines",
         "io.github.Cockatrice.cockatrice",
@@ -581,6 +583,7 @@
         "org.rolisteam.rolisteam",
         "org.shadowsocks.qt5client",
         "org.shotcut.Shotcut",
+        "org.solarus_games.solarus.Launcher",
         "org.speedcrunch.SpeedCrunch",
         "org.sqlitebrowser.sqlitebrowser",
         "org.stellarium.Stellarium",
@@ -1371,6 +1374,7 @@
     "host": [
         "ca.parallel_launcher.ParallelLauncher",
         "cc.nift.nsm",
+        "cc.retroshare.retroshare-gui",
         "chat.schildi.desktop",
         "com.bitwig.BitwigStudio",
         "com.borgbase.Vorta",
@@ -2017,7 +2021,8 @@
     "xdg-data/Steam": [
         "com.github.Matoking.protontricks",
         "com.heroicgameslauncher.hgl",
-        "io.github.philipk.boilr"
+        "io.github.philipk.boilr",
+        "space.crankshaft.Crankshaft"
     ],
     "~/.steam": [
         "com.github.Matoking.protontricks",
@@ -2379,6 +2384,12 @@
     ],
     "xdg-download/pstube:create": [
         "io.github.prateekmedia.pstube"
+    ],
+    "xdg-download:create": [
+        "io.github.purplehorrorrus.Meridius"
+    ],
+    "xdg-music:create": [
+        "io.github.purplehorrorrus.Meridius"
     ],
     "xdg-config/gtk-3.0:ro": [
         "io.github.quodlibet.ExFalso",

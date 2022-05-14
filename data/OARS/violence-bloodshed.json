@@ -232,6 +232,7 @@
         "org.pjbroad.EternallandsClient",
         "org.sauerbraten.Sauerbraten",
         "org.seul.pingus",
+        "org.solarus_games.solarus.Launcher",
         "org.xonotic.Xonotic",
         "ws.openarena.OpenArena"
     ],

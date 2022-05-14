@@ -17,9 +17,6 @@
         "org.briarproject.Briar",
         "org.verapdf.veraPDF"
     ],
-    ".retroshare": [
-        "cc.retroshare.retroshare-gui"
-    ],
     ".noiz2sa.prf": [
         "com.abagames.noiz2sa"
     ],
@@ -285,6 +282,10 @@
     ".local/share/Bisq": [
         "network.bisq.Bisq"
     ],
+    ".mozilla": [
+        "one.ablaze.floorp",
+        "org.mozilla.firefox"
+    ],
     ".ApacheDirectoryStudio": [
         "org.apache.directory.studio"
     ],
@@ -360,9 +361,6 @@
     ".thunderbird": [
         "org.mozilla.Thunderbird"
     ],
-    ".mozilla": [
-        "org.mozilla.firefox"
-    ],
     ".neverball": [
         "org.neverball.Neverball"
     ],
@@ -429,6 +427,9 @@
     ],
     ".thinlinc": [
         "se.cendio.tlclient"
+    ],
+    ".local/state": [
+        "space.crankshaft.Crankshaft"
     ],
     ".wine": [
         "ua.org.brezblock.q4wine"

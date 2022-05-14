@@ -53,6 +53,7 @@
     "org.openttd.OpenTTD",
     "org.pegasus_frontend.Pegasus",
     "org.polymc.PolyMC",
+    "org.solarus_games.solarus.Launcher",
     "org.supertuxproject.SuperTux",
     "org.tabos.twofun",
     "org.taisei_project.Taisei",
