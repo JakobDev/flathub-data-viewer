@@ -1287,6 +1287,7 @@
         "com.axosoft.GitKraken",
         "com.github.Flacon",
         "com.github.PintaProject.Pinta",
+        "com.github.coslyk.MoonPlayer",
         "com.github.flxzt.rnote",
         "com.github.geigi.cozy",
         "com.github.junrrein.PDFSlicer",
@@ -1847,6 +1848,7 @@
         "com.flashforge.FlashPrint",
         "com.github.Flacon",
         "com.github.PintaProject.Pinta",
+        "com.github.coslyk.MoonPlayer",
         "com.github.flxzt.rnote",
         "com.github.geigi.cozy",
         "com.github.xournalpp.xournalpp",
@@ -2158,6 +2160,7 @@
     "xdg-data/flatpak:ro": [
         "com.gitlab.librebob.Athenaeum",
         "org.bluesabre.MenuLibre",
+        "org.gnome.World.PikaBackup",
         "re.sonny.Junction"
     ],
     "xdg-config/gtk-3.0": [

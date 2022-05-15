@@ -97,6 +97,7 @@
         "org.freedesktop.fwupd",
         "org.gnome.OfficeRunner",
         "org.gnome.PowerStats",
+        "org.gnome.World.PikaBackup",
         "org.mixxx.Mixxx",
         "org.musescore.MuseScore",
         "org.quetoo.Quetoo",
@@ -159,7 +160,6 @@
         "org.gnome.Music",
         "org.gnome.OfficeRunner",
         "org.gnome.Todo",
-        "org.gnome.World.PikaBackup",
         "tv.kodi.Kodi"
     ],
     "org.freedesktop.geoclue2": [

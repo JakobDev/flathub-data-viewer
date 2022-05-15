@@ -1,4 +1,5 @@
 [
+    "com.heroicgameslauncher.hgl",
     "io.qt.Linguist",
     "io.qt.qdbusviewer",
     "org.love2d.love2d",
