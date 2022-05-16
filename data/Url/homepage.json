@@ -1801,6 +1801,7 @@
     "com.obsproject.Studio.Plugin.SceneSwitcher",
     "com.obsproject.Studio.Plugin.TransitionTable",
     "com.obsproject.Studio.Plugin.WebSocket",
+    "com.obsproject.Studio.Plugin.waveform",
     "com.sublimetext.three.DevUtils",
     "com.valvesoftware.Steam.CompatibilityTool.Boxtron",
     "com.valvesoftware.Steam.CompatibilityTool.Proton-Exp",

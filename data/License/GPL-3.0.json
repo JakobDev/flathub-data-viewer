@@ -168,6 +168,7 @@
     "space.crankshaft.Crankshaft",
     "uk.co.powdertoy.tpt",
     "uk.org.zint.zint-qt",
+    "com.obsproject.Studio.Plugin.waveform",
     "org.freedesktop.LinuxAudio.Plugins.ChowTapeModel",
     "org.freedesktop.LinuxAudio.Plugins.DragonflyReverb",
     "org.freedesktop.LinuxAudio.Plugins.Geonkick",

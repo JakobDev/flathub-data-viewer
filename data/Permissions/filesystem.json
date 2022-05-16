@@ -2364,22 +2364,22 @@
         "org.gnome.FontManager",
         "org.gnome.font-viewer"
     ],
-    "~/run/media/mmcblk0p1:ro": [
-        "io.github.philipk.boilr"
-    ],
     "~/.var/app/net.lutris.Lutris:ro": [
         "io.github.philipk.boilr"
     ],
     "~/Games/Heroic:ro": [
         "io.github.philipk.boilr"
     ],
+    "/run/media/mmcblk0p1:ro": [
+        "io.github.philipk.boilr"
+    ],
     "xdg-data/lutris:ro": [
         "io.github.philipk.boilr"
     ],
-    "~/.var/app/com.heroicgameslauncher.hgl:ro": [
+    "~/.config/itch:ro": [
         "io.github.philipk.boilr"
     ],
-    "~/.config/itch:ro": [
+    "~/.var/app/com.heroicgameslauncher.hgl:ro": [
         "io.github.philipk.boilr"
     ],
     "~/Applications:create": [

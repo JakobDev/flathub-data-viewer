@@ -14,6 +14,7 @@
         "net.davidotek.pupgui2",
         "net.jami.Jami",
         "net.sourceforge.VMPK",
+        "net.sourceforge.dmidiplayer",
         "net.wz2100.wz2100",
         "org.bunkus.mkvtoolnix-gui",
         "org.coolero.Coolero",
@@ -164,7 +165,6 @@
         "net.sf.metronomek",
         "net.sf.nootka",
         "net.sonic_pi.SonicPi",
-        "net.sourceforge.dmidiplayer",
         "net.sourceforge.kmetronome",
         "net.sourceforge.kmidimon",
         "net.sourceforge.molsketch",
@@ -360,6 +360,7 @@
         "org.wireshark.Wireshark",
         "org.yuzu_emu.yuzu",
         "org.zealdocs.Zeal",
+        "re.chiaki.Chiaki",
         "space.fips.Fips",
         "studio.kx.carla",
         "ua.org.brezblock.q4wine",
@@ -434,7 +435,6 @@
         "org.telesculptor.TeleSculptor",
         "org.tomviz.Tomviz",
         "org.tordini.flavio.Minitube",
-        "re.chiaki.Chiaki",
         "uk.org.zint.zint-qt"
     ],
     "5.14": [
