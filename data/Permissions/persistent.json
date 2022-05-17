@@ -228,6 +228,9 @@
     ".bl2": [
         "net.blockout.BlockOutII"
     ],
+    ".goatattack": [
+        "net.goatattack.goatattack"
+    ],
     ".minetest": [
         "net.minetest.Minetest"
     ],
