@@ -938,6 +938,7 @@
     "org.libretrainsim.Libre-TrainSim",
     "org.libretro.RetroArch",
     "org.love2d.love2d",
+    "org.mapeditor.Tiled",
     "org.megaglest.MegaGlest",
     "org.midori_browser.Midori",
     "org.mixxx.Mixxx",

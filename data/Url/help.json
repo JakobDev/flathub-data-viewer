@@ -479,6 +479,7 @@
     "org.librepcb.LibrePCB",
     "org.libretro.RetroArch",
     "org.love2d.love2d",
+    "org.mapeditor.Tiled",
     "org.megaglest.MegaGlest",
     "org.mixxx.Mixxx",
     "org.mobsya.ThymioSuite",

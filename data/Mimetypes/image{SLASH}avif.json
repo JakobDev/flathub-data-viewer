@@ -3,5 +3,6 @@
     "org.gimp.GIMP",
     "org.kde.gwenview",
     "org.kde.kolourpaint",
+    "org.kde.pix",
     "org.photoqt.PhotoQt"
 ]

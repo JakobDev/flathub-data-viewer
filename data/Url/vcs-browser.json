@@ -3,5 +3,6 @@
     "io.qt.Linguist",
     "io.qt.qdbusviewer",
     "org.love2d.love2d",
+    "org.mapeditor.Tiled",
     "org.yuzu_emu.yuzu"
 ]
