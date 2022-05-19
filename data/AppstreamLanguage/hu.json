@@ -111,6 +111,7 @@
     "org.gnome.Weather",
     "org.gnome.World.PikaBackup",
     "org.gnome.World.Secrets",
+    "org.gnome.atomix",
     "org.gnome.baobab",
     "org.gnome.clocks",
     "org.gnome.design.AppIconPreview",

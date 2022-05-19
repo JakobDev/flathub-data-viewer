@@ -172,6 +172,7 @@
         "org.gnome.Tetravex",
         "org.gnome.Todo",
         "org.gnome.TwentyFortyEight",
+        "org.gnome.atomix",
         "org.gnome.dspy",
         "org.gnome.eog",
         "org.gnome.five-or-more",
@@ -263,6 +264,7 @@
         "io.github.hakuneko.HakuNeko",
         "io.github.sharkwouter.Minigalaxy",
         "jp.yvt.OpenSpades",
+        "net.warsow.Warsow",
         "org.gna.Warmux",
         "org.phoenicis.playonlinux",
         "org.tordini.flavio.Minitube",
@@ -270,6 +272,7 @@
     ],
     "mild": [
         "com.coeck_studios.Dinonuggys-Journey",
+        "com.github.opentyrian.OpenTyrian",
         "com.github.rkoesters.xkcd-gtk",
         "com.roguetemple.HyperRogue",
         "com.tux4kids.tuxmath",

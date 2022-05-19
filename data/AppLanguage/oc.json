@@ -81,6 +81,7 @@
     "org.gnome.Todo",
     "org.gnome.Totem",
     "org.gnome.Weather",
+    "org.gnome.atomix",
     "org.gnome.baobab",
     "org.gnome.clocks",
     "org.gnome.design.AppIconPreview",

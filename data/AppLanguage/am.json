@@ -1,6 +1,7 @@
 [
     "com.github.gi_lom.dialect",
     "org.gnome.Gtranslator",
+    "org.gnome.atomix",
     "org.gnome.gThumb",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.FotoToon",

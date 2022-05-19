@@ -1,5 +1,6 @@
 [
     "org.gnome.FontManager",
+    "org.gnome.atomix",
     "org.gnome.eog",
     "org.gnome.gThumb",
     "org.gnome.gedit",

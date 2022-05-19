@@ -88,6 +88,9 @@
         "com.github.jkotra.eovpn",
         "org.kde.kongress"
     ],
+    ".opentyrian": [
+        "com.github.opentyrian.OpenTyrian"
+    ],
     ".jrommanager": [
         "com.github.optyfr.JRomManager"
     ],

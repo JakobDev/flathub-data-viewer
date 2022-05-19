@@ -17,6 +17,7 @@
     "org.kde.kalgebra",
     "org.kde.kbruch",
     "org.kde.kig",
+    "org.kde.kmplot",
     "org.kde.labplot2",
     "org.mersenne.mprime",
     "org.octave.Octave",

@@ -8,6 +8,7 @@
         "org.scilab.Scilab"
     ],
     "21.08": [
+        "com.axosoft.GitKraken",
         "com.chez.GrafX2",
         "com.google.AndroidStudio",
         "com.jetbrains.CLion",

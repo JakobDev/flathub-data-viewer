@@ -12,6 +12,7 @@
     "org.gnome.NetworkDisplays",
     "org.gnome.SoundJuicer",
     "org.gnome.Totem",
+    "org.gnome.atomix",
     "org.gnome.eog",
     "org.gnome.gedit",
     "org.tuxpaint.Tuxpaint",

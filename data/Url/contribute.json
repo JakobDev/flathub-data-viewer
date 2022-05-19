@@ -1,5 +1,8 @@
 [
+    "com.usebottles.bottles",
     "io.qt.Linguist",
     "io.qt.qdbusviewer",
+    "org.inkscape.Inkscape",
+    "org.kde.okteta",
     "org.yuzu_emu.yuzu"
 ]

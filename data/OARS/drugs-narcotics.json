@@ -180,6 +180,7 @@
         "org.gnome.Tetravex",
         "org.gnome.Todo",
         "org.gnome.TwentyFortyEight",
+        "org.gnome.atomix",
         "org.gnome.dspy",
         "org.gnome.eog",
         "org.gnome.five-or-more",
@@ -225,6 +226,7 @@
         "edu.mit.Scratch",
         "net.pioneerspacesim.Pioneer",
         "net.runelite.RuneLite",
+        "net.sourceforge.DuneLegacy",
         "org.gna.Warmux",
         "org.gnome.gitlab.Cowsay",
         "org.kryogenix.Pick"

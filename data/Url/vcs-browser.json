@@ -1,7 +1,11 @@
 [
     "com.gitlab.JakobDev.jdAppdataEdit",
+    "com.heroicgameslauncher.hgl",
+    "com.usebottles.bottles",
     "io.qt.Linguist",
     "io.qt.qdbusviewer",
+    "org.inkscape.Inkscape",
+    "org.kde.okteta",
     "org.love2d.love2d",
     "org.mapeditor.Tiled",
     "org.yuzu_emu.yuzu"

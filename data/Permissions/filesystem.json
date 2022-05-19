@@ -488,6 +488,7 @@
         "org.kde.klickety",
         "org.kde.klines",
         "org.kde.kmines",
+        "org.kde.kmplot",
         "org.kde.knavalbattle",
         "org.kde.knetwalk",
         "org.kde.koko",
@@ -742,6 +743,7 @@
         "de.manuel_kehl.go-for-it",
         "de.willuhn.Jameica",
         "dev.goats.xivlauncher",
+        "dev.lapce.lapce",
         "dev.lukebriggs.pepys",
         "dev.paullee.scraterpreter.Scrapec",
         "dev.tchx84.Portfolio",
@@ -1931,6 +1933,7 @@
         "com.github.corna.Vivado",
         "com.github.eneshecan.WhatsAppForLinux",
         "com.github.flxzt.rnote",
+        "com.heroicgameslauncher.hgl",
         "com.viber.Viber",
         "io.github.jacalz.rymdport",
         "io.github.qtox.qTox",
@@ -2207,6 +2210,9 @@
     "/var/lib/AccountsService/icons:ro": [
         "com.hack_computer.Clubhouse",
         "org.gnome.Boxes"
+    ],
+    "xdg-data/applications": [
+        "com.heroicgameslauncher.hgl"
     ],
     "xdg-data/lutris": [
         "com.heroicgameslauncher.hgl"

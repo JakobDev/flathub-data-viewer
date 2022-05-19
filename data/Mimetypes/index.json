@@ -474,6 +474,7 @@
         "application{SLASH}x-kgeo",
         "application{SLASH}x-kicad-project",
         "application{SLASH}x-kig",
+        "application{SLASH}x-kmplot",
         "application{SLASH}x-kmymoney",
         "application{SLASH}x-kolf",
         "application{SLASH}x-kourse",

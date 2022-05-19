@@ -100,6 +100,7 @@
     "net.pcsx2.PCSX2",
     "net.sonobus.SonoBus",
     "net.sourceforge.Lifeograph",
+    "net.sourceforge.SDL-Ball",
     "net.sourceforge.lgames.LBreakoutHD",
     "net.sourceforge.pdfchain",
     "network.loki.Session",

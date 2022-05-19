@@ -175,6 +175,7 @@
         "org.gnome.Tetravex",
         "org.gnome.Todo",
         "org.gnome.TwentyFortyEight",
+        "org.gnome.atomix",
         "org.gnome.dspy",
         "org.gnome.eog",
         "org.gnome.five-or-more",
@@ -226,6 +227,7 @@
         "net.runelite.RuneLite",
         "net.sourceforge.btanks",
         "net.unvanquished.Unvanquished",
+        "net.warsow.Warsow",
         "org.develz.Crawl",
         "org.freeorion.FreeOrion",
         "org.megaglest.MegaGlest",
@@ -257,6 +259,7 @@
     ],
     "moderate": [
         "com.etlegacy.ETLegacy",
+        "com.github.opentyrian.OpenTyrian",
         "com.github.skullernet.q2pro",
         "com.heroicgameslauncher.hgl",
         "com.katawa_shoujo.KatawaShoujo",
@@ -270,6 +273,7 @@
         "io.gitlab.windstille.Windstille-0_2",
         "net.dengine.Doomsday",
         "net.openra.OpenRA",
+        "net.sourceforge.DuneLegacy",
         "org.firestormviewer.FirestormViewer",
         "org.yamagi.YamagiQ2",
         "org.zdoom.GZDoom"
