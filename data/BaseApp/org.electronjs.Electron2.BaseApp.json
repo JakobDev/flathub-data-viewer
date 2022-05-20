@@ -11,7 +11,6 @@
         "io.github.liberodark.OpenDrive",
         "io.webtorrent.WebTorrent",
         "org.js.nuclear.Nuclear",
-        "org.onlyoffice.desktopeditors",
         "tech.feliciano.pocket-casts"
     ],
     "21.08": [
@@ -105,6 +104,7 @@
         "org.jamovi.jamovi",
         "org.jitsi.jitsi-meet",
         "org.nanuc.Axolotl",
+        "org.onlyoffice.desktopeditors",
         "org.signal.Signal",
         "org.standardnotes.standardnotes",
         "org.sugarlabs.MusicBlocks",

@@ -1321,6 +1321,7 @@
         "org.gnome.OCRFeeder",
         "org.gnome.Photos",
         "org.gnome.Rhythmbox3",
+        "org.gnome.Shotwell",
         "org.gnome.SoundJuicer",
         "org.gnome.TextEditor",
         "org.gnome.Totem",
@@ -1881,6 +1882,7 @@
         "org.gnome.NetworkDisplays",
         "org.gnome.OCRFeeder",
         "org.gnome.Photos",
+        "org.gnome.Shotwell",
         "org.gnome.Totem",
         "org.gnome.World.PikaBackup",
         "org.gnome.baobab",
@@ -2655,6 +2657,9 @@
     ],
     "~/Recordings": [
         "org.gnome.SoundRecorder"
+    ],
+    "xdg-documents/Bibliography": [
+        "org.gnome.World.Citations"
     ],
     "~/.ssh:create": [
         "org.gnome.seahorse.Application"

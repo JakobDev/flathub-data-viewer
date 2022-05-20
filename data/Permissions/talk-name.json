@@ -1008,6 +1008,7 @@
         "io.github.dummerle.rare",
         "io.github.garglk.Gargoyle",
         "io.github.janbar.noson",
+        "io.github.jordanl2.ModularCalculator",
         "io.github.libvibrant.vibrantLinux",
         "io.github.m64p.m64p",
         "io.github.markummitchell.Engauge_Digitizer",
@@ -1253,7 +1254,6 @@
         "org.gnome.Boxes",
         "org.gnome.Gtranslator",
         "org.gnome.Rhythmbox3",
-        "org.gnome.Shotwell",
         "org.laptop.TurtleArtActivity",
         "org.pitivi.Pitivi",
         "org.remmina.Remmina"
@@ -1372,6 +1372,7 @@
         "com.visualstudio.code-oss",
         "com.visualstudio.code",
         "com.vscodium.codium",
+        "dev.lapce.lapce",
         "edu.stanford.Almond",
         "es.estoes.wallpaperDownloader",
         "eu.skribisto.skribisto",
@@ -1576,6 +1577,7 @@
         "org.gnome.Lollypop",
         "org.gnome.Maps",
         "org.gnome.Polari",
+        "org.gnome.Shotwell",
         "org.gnome.gThumb",
         "org.gnome.gitg",
         "org.gnome.seahorse.Application",
@@ -1598,8 +1600,7 @@
         "com.sublimetext.three",
         "org.gabmus.hydrapaper",
         "org.gabmus.unifydmin",
-        "org.gnome.Photos",
-        "org.gnome.Shotwell"
+        "org.gnome.Photos"
     ],
     "org.freedesktop.secrets.*": [
         "codes.loers.Karlender"

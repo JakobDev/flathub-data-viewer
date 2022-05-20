@@ -69,6 +69,7 @@
     "io.liri.Text",
     "io.neovim.nvim",
     "io.otsaloma.gaupol",
+    "io.posidon.Paper",
     "me.kozec.syncthingtk",
     "net.displaycal.DisplayCAL",
     "net.launchpad.gmult",
