@@ -1,4 +1,5 @@
 [
     "io.jamulus.Jamulus",
-    "net.sonobus.SonoBus"
+    "net.sonobus.SonoBus",
+    "org.kryogenix.hushboard"
 ]

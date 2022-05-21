@@ -36,7 +36,6 @@
     ],
     "5.15": [
         "com.wiz.Note",
-        "io.bit3.WhatsAppQT",
         "io.github.maurycyliebner.enve",
         "io.github.wereturtle.ghostwriter",
         "org.frescobaldi.Frescobaldi",

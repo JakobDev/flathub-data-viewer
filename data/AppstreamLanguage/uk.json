@@ -140,6 +140,7 @@
     "org.gnumeric.Gnumeric",
     "org.gottcode.Connectagram",
     "org.gottcode.FocusWriter",
+    "org.gottcode.Kapow",
     "org.gottcode.Tanglet",
     "org.gottcode.Tetzle",
     "org.gramps_project.Gramps",

@@ -216,6 +216,9 @@
     ".q3a": [
         "info.urbanterror.UrbanTerror"
     ],
+    ".stratagus": [
+        "io.github.Andrettin.Wyrmsun"
+    ],
     ".ezquake": [
         "io.github.ezQuake"
     ],
