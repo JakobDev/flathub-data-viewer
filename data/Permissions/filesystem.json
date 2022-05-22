@@ -1980,6 +1980,7 @@
     ],
     "xdg-data/Trash": [
         "com.calibre_ebook.calibre",
+        "com.github.git_cola.git-cola",
         "org.kde.gwenview"
     ],
     "~/.config/gnome-next-meeting-applet:ro": [

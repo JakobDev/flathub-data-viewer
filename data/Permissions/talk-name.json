@@ -1849,6 +1849,14 @@
     "org.freedesktop.portal.desktop": [
         "com.github.gabutakut.gabutdm"
     ],
+    "org.kde.kglobalsettings": [
+        "com.github.git_cola.git-cola",
+        "community.pathofbuilding.PathOfBuilding",
+        "eu.vcmi.VCMI",
+        "io.github.jordanl2.ModularCalculator",
+        "net.rpcs3.RPCS3",
+        "org.photoqt.PhotoQt"
+    ],
     "org.freedesktop.powermanagement": [
         "com.github.iwalton3.jellyfin-media-player",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
