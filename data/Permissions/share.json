@@ -644,6 +644,7 @@
         "org.cryptomator.Cryptomator",
         "org.cubocore.CoreAction",
         "org.cubocore.CoreStats",
+        "org.cubocore.CoreTime",
         "org.cznic.Datovka",
         "org.d3cod3.Mosaic",
         "org.darktable.Darktable",

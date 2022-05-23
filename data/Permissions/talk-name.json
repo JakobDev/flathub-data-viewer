@@ -1051,6 +1051,7 @@
         "org.cloudcompare.CloudCompare",
         "org.cubocore.CoreImage",
         "org.cubocore.CoreShot",
+        "org.cubocore.CoreTime",
         "org.dash.electrum.electrum_dash",
         "org.duckstation.DuckStation",
         "org.easycoding.TunedSwitcher",
@@ -1490,7 +1491,6 @@
         "io.sourceforge.qoobar.Qoobar",
         "one.ablaze.floorp",
         "org.kde.Ikona",
-        "org.ksnip.ksnip",
         "org.mozilla.firefox",
         "org.nomacs.ImageLounge"
     ],
@@ -1853,8 +1853,12 @@
         "com.github.git_cola.git-cola",
         "community.pathofbuilding.PathOfBuilding",
         "eu.vcmi.VCMI",
+        "io.github.cudatext.CudaText-Qt5",
         "io.github.jordanl2.ModularCalculator",
         "net.rpcs3.RPCS3",
+        "org.cubocore.CoreTime",
+        "org.kde.kontact",
+        "org.ksnip.ksnip",
         "org.photoqt.PhotoQt"
     ],
     "org.freedesktop.powermanagement": [

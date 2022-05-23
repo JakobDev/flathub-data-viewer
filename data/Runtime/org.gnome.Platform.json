@@ -36,6 +36,7 @@
         "com.github.flxzt.rnote",
         "com.github.fushinari.Wordbook",
         "com.github.gabutakut.gabutdm",
+        "com.github.gi_lom.dialect",
         "com.github.hugolabe.Wike",
         "com.github.huluti.Curtail",
         "com.github.jeromerobert.pdfarranger",
@@ -248,6 +249,7 @@
         "org.gnumeric.Gnumeric",
         "org.gnunet.Messenger",
         "org.gramps_project.Gramps",
+        "org.gustavoperedo.FontDownloader",
         "org.inkscape.Inkscape",
         "org.karapulse.Karapulse",
         "org.kryogenix.Pick",
@@ -268,7 +270,8 @@
         "re.sonny.Commit",
         "re.sonny.OhMySVG",
         "re.sonny.Tangram",
-        "re.sonny.Workbench"
+        "re.sonny.Workbench",
+        "sa.sy.bluerecorder"
     ],
     "40": [
         "app.rednotebook.RedNotebook",
@@ -356,8 +359,7 @@
         "org.sugarlabs.TurtlePondActivity",
         "org.sugarlabs.Words",
         "org.tabos.roger",
-        "org.upnproutercontrol.UPnPRouterControl",
-        "sa.sy.bluerecorder"
+        "org.upnproutercontrol.UPnPRouterControl"
     ],
     "41": [
         "ar.com.softwareperonista.Rockarrolla",
@@ -381,7 +383,6 @@
         "com.github.birros.WebArchives",
         "com.github.fabiocolacio.marker",
         "com.github.geigi.cozy",
-        "com.github.gi_lom.dialect",
         "com.github.gmg137.netease-cloud-music-gtk",
         "com.github.iwalton3.jellyfin-mpv-shim",
         "com.github.johnfactotum.QuickLookup",
@@ -474,7 +475,6 @@
         "org.gnome.meld",
         "org.gnome.moserial",
         "org.gnucash.GnuCash",
-        "org.gustavoperedo.FontDownloader",
         "org.mpdevil.mpdevil",
         "org.mypaint.MyPaint",
         "org.soundconverter.SoundConverter",
