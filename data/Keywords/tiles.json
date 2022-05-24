@@ -1,4 +1,5 @@
 [
+    "net.sourceforge.lgames.LGeneral",
     "org.freeciv.Freeciv",
     "org.gnome.LightsOff"
 ]

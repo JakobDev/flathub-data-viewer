@@ -1,4 +1,5 @@
 [
     "com.github.rogercrocker.badabib",
-    "org.jabref.jabref"
+    "org.jabref.jabref",
+    "org.kde.kbibtex"
 ]

@@ -1,4 +1,5 @@
 [
     "com.elsevier.MendeleyDesktop",
-    "info.bibletime.BibleTime"
+    "info.bibletime.BibleTime",
+    "org.kde.kbibtex"
 ]

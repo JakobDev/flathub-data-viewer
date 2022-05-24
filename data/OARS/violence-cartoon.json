@@ -87,6 +87,7 @@
         "de.manuel_kehl.go-for-it",
         "de.rwth_aachen.ient.RDPlot",
         "de.rwth_aachen.ient.YUView",
+        "dev.jamiethalacker.window_painter",
         "eu.planete_kraus.Tarot",
         "fr.handbrake.ghb",
         "gg.guilded.Guilded",
@@ -273,6 +274,7 @@
     ],
     "mild": [
         "com.coeck_studios.Dinonuggys-Journey",
+        "com.github.bjaraujo.Bombermaaan",
         "com.github.opentyrian.OpenTyrian",
         "com.github.rkoesters.xkcd-gtk",
         "com.roguetemple.HyperRogue",

@@ -279,6 +279,10 @@
     ".lbreakouthd": [
         "net.sourceforge.lgames.LBreakoutHD"
     ],
+    ".lgames": [
+        "net.sourceforge.lgames.LGeneral",
+        "net.sourceforge.lgames.LTris"
+    ],
     ".marsshooter": [
         "net.sourceforge.mars-game"
     ],
