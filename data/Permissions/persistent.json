@@ -222,6 +222,9 @@
     ".ezquake": [
         "io.github.ezQuake"
     ],
+    ".trackballs": [
+        "io.github.trackballs.Trackballs"
+    ],
     ".librewolf": [
         "io.gitlab.librewolf-community"
     ],

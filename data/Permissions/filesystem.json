@@ -193,6 +193,7 @@
         "com.github.rssguard",
         "com.github.shonumi.gbe-plus",
         "com.github.unrud.djpdf",
+        "com.github.vkohaupt.vokoscreenNG",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.gitlab.JakobDev.jdAppdataEdit",
         "com.gitlab.JakobDev.jdMinecraftLauncher",
@@ -515,6 +516,7 @@
         "org.kde.kst",
         "org.kde.kstars",
         "org.kde.ksudoku",
+        "org.kde.kteatime",
         "org.kde.ktorrent",
         "org.kde.ktouch",
         "org.kde.ktrip",
@@ -1049,6 +1051,7 @@
         "com.github.nrittsti.NTag",
         "com.github.qarmin.szyszka",
         "com.github.weclaw1.ImageRoll",
+        "com.heroicgameslauncher.hgl",
         "com.itopia.client",
         "com.powerball253.eternalmodmanager",
         "com.prusa3d.PrusaSlicer",
@@ -1493,6 +1496,7 @@
         "io.liri.Text",
         "io.mgba.mGBA",
         "io.neovim.nvim",
+        "io.posidon.Paper",
         "io.qt.QtCreator",
         "io.typora.Typora",
         "me.hyliu.fluentreader",
@@ -1716,6 +1720,7 @@
         "com.github.jpakkane.glyphtracer",
         "com.github.sakya.corechess",
         "com.github.taiko2k.avvie",
+        "com.github.vkohaupt.vokoscreenNG",
         "com.google.Chrome",
         "com.hamrick.VueScan",
         "com.kolor.AutopanoPro",
@@ -1764,6 +1769,7 @@
         "com.github.coslyk.MoonPlayer",
         "com.github.eneshecan.WhatsAppForLinux",
         "com.github.rafostar.Clapper",
+        "com.github.vkohaupt.vokoscreenNG",
         "com.google.Chrome",
         "com.tracktion.Waveform",
         "com.uploadedlobster.peek",
@@ -2227,10 +2233,10 @@
     "xdg-data/applications": [
         "com.heroicgameslauncher.hgl"
     ],
-    "xdg-data/lutris": [
+    "~/Games/Heroic:create": [
         "com.heroicgameslauncher.hgl"
     ],
-    "~/Games/Heroic:create": [
+    "xdg-data/lutris": [
         "com.heroicgameslauncher.hgl"
     ],
     "xdg-config/fontconfig:ro": [

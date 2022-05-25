@@ -1,3 +1,4 @@
 [
-    "org.gnome.Keysign"
+    "org.gnome.Keysign",
+    "org.gnome.seahorse.Application"
 ]
