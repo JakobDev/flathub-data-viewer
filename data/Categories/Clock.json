@@ -1,5 +1,6 @@
 [
     "one.alynx.FlipClock",
     "org.gnome.clocks",
-    "org.kde.kclock"
+    "org.kde.kclock",
+    "org.kde.kronometer"
 ]

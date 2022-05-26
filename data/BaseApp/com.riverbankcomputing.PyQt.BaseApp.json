@@ -5,6 +5,7 @@
         "io.github.ciromattia.kcc",
         "me.mitya57.ReText",
         "net.sourceforge.scidavis",
+        "org.plomgrading.PlomClient",
         "org.pymol.PyMOL",
         "org.qutebrowser.qutebrowser"
     ],
