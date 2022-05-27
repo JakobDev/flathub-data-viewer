@@ -3,6 +3,7 @@
     "edu.berkeley.BOINC",
     "org.gnome.Logs",
     "org.gnome.PowerStats",
+    "org.kde.ktimetracker",
     "org.wireshark.Wireshark",
     "page.codeberg.tpikonen.satellite"
 ]

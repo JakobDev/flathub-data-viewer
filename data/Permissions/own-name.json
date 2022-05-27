@@ -442,6 +442,9 @@
     "org.kde.kioexec.*": [
         "org.kde.kontact"
     ],
+    "org.kde.umbrello-2": [
+        "org.kde.umbrello"
+    ],
     "org.mpris.mediaplayer2.vvave": [
         "org.kde.vvave"
     ],

@@ -40,6 +40,7 @@
     "com.github.xournalpp.xournalpp",
     "com.github.ztefn.haguichi",
     "com.gitlab.JakobDev.jdAppdataEdit",
+    "com.gitlab.JakobDev.jdDiff",
     "com.gitlab.JakobDev.jdMinecraftLauncher",
     "com.gitlab.JakobDev.jdReplace",
     "com.gitlab.JakobDev.jdTextEdit",
@@ -327,6 +328,7 @@
     "org.kde.kstars",
     "org.kde.ksudoku",
     "org.kde.kteatime",
+    "org.kde.ktimetracker",
     "org.kde.ktorrent",
     "org.kde.ktouch",
     "org.kde.ktrip",
@@ -352,6 +354,7 @@
     "org.kde.subtitlecomposer",
     "org.kde.tellico",
     "org.kde.tokodon",
+    "org.kde.umbrello",
     "org.kde.vvave",
     "org.kicad.KiCad",
     "org.midori_browser.Midori",
@@ -384,5 +387,6 @@
     "re.sonny.Junction",
     "ua.org.brezblock.q4wine",
     "com.valvesoftware.Steam.CompatibilityTool.Proton-Exp",
-    "com.valvesoftware.Steam.CompatibilityTool.Proton"
+    "com.valvesoftware.Steam.CompatibilityTool.Proton",
+    "org.fcitx.Fcitx5.Addon.Unikey"
 ]

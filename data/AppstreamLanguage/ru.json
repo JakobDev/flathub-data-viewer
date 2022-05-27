@@ -245,6 +245,7 @@
     "org.kde.kstars",
     "org.kde.ksudoku",
     "org.kde.kteatime",
+    "org.kde.ktimetracker",
     "org.kde.ktorrent",
     "org.kde.ktouch",
     "org.kde.ktuberling",
@@ -261,6 +262,7 @@
     "org.kde.ruqola",
     "org.kde.skrooge",
     "org.kde.tellico",
+    "org.kde.umbrello",
     "org.kicad.KiCad",
     "org.midori_browser.Midori",
     "org.nicotine_plus.Nicotine",
@@ -286,5 +288,6 @@
     "uk.co.ibboard.cawbird",
     "org.fcitx.Fcitx5.Addon.ChineseAddons",
     "org.fcitx.Fcitx5.Addon.Mozc",
-    "org.fcitx.Fcitx5.Addon.Rime"
+    "org.fcitx.Fcitx5.Addon.Rime",
+    "org.fcitx.Fcitx5.Addon.Unikey"
 ]

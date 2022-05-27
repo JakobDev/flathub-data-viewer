@@ -87,6 +87,7 @@
     "org.kde.kstars",
     "org.kde.ksudoku",
     "org.kde.kteatime",
+    "org.kde.ktimetracker",
     "org.kde.ktorrent",
     "org.kde.ktouch",
     "org.kde.ktrip",
@@ -113,6 +114,7 @@
     "org.kde.subtitlecomposer",
     "org.kde.tellico",
     "org.kde.tokodon",
+    "org.kde.umbrello",
     "org.kde.vvave",
     "org.stellarium.Stellarium"
 ]

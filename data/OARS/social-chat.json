@@ -312,6 +312,7 @@
         "network.loki.Session",
         "org.briarproject.Briar",
         "org.bzflag.BZFlag",
+        "org.chocolate_doom.ChocolateDoom",
         "org.cznic.Datovka",
         "org.dhewm3.Dhewm3",
         "org.eu.encom.spectral",

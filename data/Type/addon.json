@@ -197,6 +197,7 @@
     "org.fcitx.Fcitx5.Addon.ChineseAddons",
     "org.fcitx.Fcitx5.Addon.Mozc",
     "org.fcitx.Fcitx5.Addon.Rime",
+    "org.fcitx.Fcitx5.Addon.Unikey",
     "org.fcitx.Fcitx5.Addon.Zhuyin",
     "org.freedesktop.LinuxAudio.Plugins.ADLplug",
     "org.freedesktop.LinuxAudio.Plugins.AVLDrums",

@@ -10,6 +10,7 @@
         "org.freecadweb.FreeCAD",
         "org.goldendict.GoldenDict",
         "org.kde.skrooge",
+        "org.kde.umbrello",
         "org.openshot.OpenShot",
         "org.qgis.qgis",
         "org.zealdocs.Zeal"

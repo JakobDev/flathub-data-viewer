@@ -244,6 +244,7 @@
     "org.kde.okular",
     "org.kde.pix",
     "org.kde.tellico",
+    "org.kde.umbrello",
     "org.kde.vvave",
     "org.kicad.KiCad",
     "org.midori_browser.Midori",
@@ -259,5 +260,6 @@
     "org.zrythm.Zrythm",
     "re.sonny.Junction",
     "uk.co.ibboard.cawbird",
-    "org.fcitx.Fcitx5.Addon.Rime"
+    "org.fcitx.Fcitx5.Addon.Rime",
+    "org.fcitx.Fcitx5.Addon.Unikey"
 ]
