@@ -250,6 +250,7 @@
         "io.github.freedoom.FreeDM",
         "io.github.freedoom.Phase1",
         "io.github.freedoom.Phase2",
+        "io.github.openhv.OpenHV",
         "net.openra.OpenRA",
         "net.runelite.RuneLite",
         "net.sourceforge.atanks",

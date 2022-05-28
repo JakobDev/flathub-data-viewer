@@ -138,7 +138,6 @@
         "info.mumble.Mumble",
         "info.smplayer.SMPlayer",
         "io.atom.Atom",
-        "io.bit3.ThreemaQT",
         "io.botfather.Botfather",
         "io.crow_translate.CrowTranslate",
         "io.emeric.watchflower",
@@ -575,7 +574,6 @@
         "im.riot.Riot",
         "in.cinny.Cinny",
         "info.mumble.Mumble",
-        "io.bit3.ThreemaQT",
         "io.botfather.Botfather",
         "io.crow_translate.CrowTranslate",
         "io.gdevelop.ide",
@@ -1460,6 +1458,7 @@
     "org.kde.kglobalsettings": [
         "ca.parallel_launcher.ParallelLauncher",
         "com.borgbase.Vorta",
+        "com.github.dail8859.NotepadNext",
         "com.github.git_cola.git-cola",
         "com.github.vkohaupt.vokoscreenNG",
         "com.gitlab.coringao.JAG",
@@ -1478,6 +1477,7 @@
         "org.citra_emu.citra",
         "org.cubocore.CoreRenamer",
         "org.cubocore.CoreTime",
+        "org.electrum.electrum",
         "org.fcitx.Fcitx5",
         "org.genivi.DLTViewer",
         "org.goldendict.GoldenDict",
@@ -1505,7 +1505,8 @@
         "org.quassel_irc.QuasselClient",
         "org.qutebrowser.qutebrowser",
         "org.rncbc.qtractor",
-        "org.yuzu_emu.yuzu"
+        "org.yuzu_emu.yuzu",
+        "website.i2pd.i2pd"
     ],
     "org.freedesktop.powermanagement.inhibit": [
         "ca.parallel_launcher.ParallelLauncher",

@@ -11,6 +11,7 @@
         "org.freedesktop.LinuxAudio.Plugins",
         "org.freedesktop.LinuxAudio.Plugins.CMT",
         "org.freedesktop.LinuxAudio.Plugins.LSP",
+        "org.freedesktop.LinuxAudio.Plugins.MDA",
         "org.freedesktop.LinuxAudio.Plugins.TAP",
         "org.freedesktop.LinuxAudio.Plugins.ZamPlugins",
         "org.freedesktop.LinuxAudio.Plugins.swh",

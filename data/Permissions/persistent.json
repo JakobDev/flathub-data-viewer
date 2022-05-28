@@ -60,6 +60,9 @@
     ".etlegacy": [
         "com.etlegacy.ETLegacy"
     ],
+    ".abuse": [
+        "com.github.Xenoveritas.abuse"
+    ],
     ".mandelbulber": [
         "com.github.buddhi1980.mandelbulber2"
     ],
