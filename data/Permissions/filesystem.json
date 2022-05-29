@@ -2504,16 +2504,19 @@
     "~/.local/share/Steam": [
         "net.davidotek.pupgui2"
     ],
-    "~/.local/share/lutris/runners/wine": [
+    "~/.var/app/net.lutris.Lutris/data/lutris/runners/wine": [
         "net.davidotek.pupgui2"
     ],
-    "~/.config/heroic/tools": [
+    "~/.local/share/lutris/runners/wine": [
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam": [
         "net.davidotek.pupgui2"
     ],
-    "~/.var/app/net.lutris.Lutris/data/lutris/runners/wine": [
+    "~/.var/app/com.usebottles.bottles/data/bottles/runners": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.config/heroic/tools": [
         "net.davidotek.pupgui2"
     ],
     "~/.runelite:create": [

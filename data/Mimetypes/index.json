@@ -1436,6 +1436,7 @@
         "x-scheme-handler{SLASH}bitcoin",
         "x-scheme-handler{SLASH}bitwarden",
         "x-scheme-handler{SLASH}bjnb",
+        "x-scheme-handler{SLASH}bottles",
         "x-scheme-handler{SLASH}btchd",
         "x-scheme-handler{SLASH}calendar",
         "x-scheme-handler{SLASH}calibre",
