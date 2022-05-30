@@ -419,6 +419,9 @@
     ".srb2kart": [
         "org.srb2.SRB2Kart"
     ],
+    "\"~/Standard Notes Backups\"": [
+        "org.standardnotes.standardnotes"
+    ],
     ".dart_tool": [
         "org.syphon.Syphon",
         "ru.proninyaroslav.libretrack"

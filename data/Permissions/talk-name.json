@@ -1458,6 +1458,7 @@
     "org.kde.kglobalsettings": [
         "ca.parallel_launcher.ParallelLauncher",
         "com.borgbase.Vorta",
+        "com.github._4lex4.ScanTailor-Advanced",
         "com.github.dail8859.NotepadNext",
         "com.github.git_cola.git-cola",
         "com.github.vkohaupt.vokoscreenNG",
