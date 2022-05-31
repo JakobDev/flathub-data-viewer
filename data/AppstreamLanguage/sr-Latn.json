@@ -22,10 +22,13 @@
     "org.kde.knavalbattle",
     "org.kde.knights",
     "org.kde.kolf",
+    "org.kde.kollision",
     "org.kde.konquest",
     "org.kde.konversation",
+    "org.kde.kreversi",
     "org.kde.kruler",
     "org.kde.ksirk",
+    "org.kde.ksnakeduel",
     "org.kde.ksquares",
     "org.kde.ksudoku",
     "org.kde.kteatime",
@@ -35,5 +38,6 @@
     "org.kde.lokalize",
     "org.kde.okteta",
     "org.kde.okular",
-    "org.kde.palapeli"
+    "org.kde.palapeli",
+    "org.kde.picmi"
 ]

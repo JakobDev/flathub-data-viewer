@@ -266,6 +266,7 @@
         "io.github.hakuneko.HakuNeko",
         "io.github.sharkwouter.Minigalaxy",
         "jp.yvt.OpenSpades",
+        "net.sourceforge.OpenLieroX",
         "net.warsow.Warsow",
         "org.gna.Warmux",
         "org.phoenicis.playonlinux",
@@ -274,6 +275,7 @@
     ],
     "mild": [
         "com.coeck_studios.Dinonuggys-Journey",
+        "com.frogatto.Frogatto",
         "com.github.Xenoveritas.abuse",
         "com.github.bjaraujo.Bombermaaan",
         "com.github.opentyrian.OpenTyrian",

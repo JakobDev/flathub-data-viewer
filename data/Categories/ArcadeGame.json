@@ -44,6 +44,8 @@
     "org.kde.kbreakout",
     "org.kde.kgoldrunner",
     "org.kde.kolf",
+    "org.kde.kollision",
+    "org.kde.ksnakeduel",
     "org.neverball.Neverball",
     "org.openclonk.OpenClonk",
     "org.opensurge2d.OpenSurge",

@@ -9,6 +9,7 @@
     "org.freecol.FreeCol",
     "org.kde.akregator",
     "org.kde.kig",
+    "org.kde.kollision",
     "org.kde.kxstitch",
     "io.dbeaver.DBeaverCommunity.Client.pgsql",
     "org.freedesktop.Sdk.Extension.golang",

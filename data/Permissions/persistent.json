@@ -60,6 +60,9 @@
     ".etlegacy": [
         "com.etlegacy.ETLegacy"
     ],
+    ".frogatto": [
+        "com.frogatto.Frogatto"
+    ],
     ".abuse": [
         "com.github.Xenoveritas.abuse"
     ],
@@ -239,6 +242,9 @@
     ],
     ".bl2": [
         "net.blockout.BlockOutII"
+    ],
+    ".assaultcube": [
+        "net.cubers.assault.AssaultCube"
     ],
     ".goatattack": [
         "net.goatattack.goatattack"

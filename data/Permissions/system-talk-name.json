@@ -23,6 +23,9 @@
         "org.shotcut.Shotcut",
         "org.zrythm.Zrythm"
     ],
+    "org.gtk.vfs.*": [
+        "cc.arduino.IDE2"
+    ],
     "org.bluez": [
         "com.avocode.Avocode",
         "com.github.alexr4535.siglo",

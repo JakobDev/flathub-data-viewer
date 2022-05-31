@@ -1,5 +1,6 @@
 [
     "ar.com.pilas_engine.App",
+    "cc.arduino.IDE2",
     "cc.arduino.arduinoide",
     "com.github.corna.Vivado",
     "com.google.AndroidStudio",
