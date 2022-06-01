@@ -1,5 +1,6 @@
 [
     "app.rednotebook.RedNotebook",
+    "ca.parallel_launcher.ParallelLauncher",
     "com.endlessm.photos",
     "com.github.PintaProject.Pinta",
     "com.github.debauchee.barrier",
