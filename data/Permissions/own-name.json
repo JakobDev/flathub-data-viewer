@@ -243,6 +243,9 @@
     "org.mpris.mediaplayer2.chromium.instance2": [
         "net.jami.Jami"
     ],
+    "org.mpris.mediaplayer2.bible": [
+        "net.lugsole.bible_gui"
+    ],
     "org.mpris.mediaplayer2.net.sonic_pi.sonicpi": [
         "net.sonic_pi.SonicPi"
     ],

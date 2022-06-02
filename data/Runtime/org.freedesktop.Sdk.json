@@ -38,7 +38,8 @@
         "org.flathub.flatpak-external-data-checker",
         "org.geany.Geany",
         "org.gnu.emacs",
-        "org.thonny.Thonny"
+        "org.thonny.Thonny",
+        "org.vim.Vim"
     ],
     "19.08": [
         "com.synology.CloudStationBackup",

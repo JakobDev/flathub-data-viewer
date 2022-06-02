@@ -11,6 +11,7 @@
         "net.sonic_pi.SonicPi",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.xm1math.Texmaker",
+        "org.frescobaldi.Frescobaldi",
         "org.kde.akregator",
         "org.kde.angelfish",
         "org.kde.cantor",
@@ -37,7 +38,6 @@
         "com.wiz.Note",
         "io.github.maurycyliebner.enve",
         "io.github.wereturtle.ghostwriter",
-        "org.frescobaldi.Frescobaldi",
         "org.jaspstats.JASP",
         "org.mobsya.ThymioSuite"
     ]
