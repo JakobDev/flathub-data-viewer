@@ -2246,6 +2246,9 @@
         "com.hack_computer.Clubhouse",
         "org.gnome.Boxes"
     ],
+    "/run/udev:ro": [
+        "com.heroicgameslauncher.hgl"
+    ],
     "xdg-data/applications": [
         "com.heroicgameslauncher.hgl"
     ],

@@ -1477,15 +1477,19 @@
     ],
     "org.kde.kglobalsettings": [
         "ca.parallel_launcher.ParallelLauncher",
+        "ch.openboard.OpenBoard",
         "com.borgbase.Vorta",
+        "com.flashforge.FlashPrint",
         "com.github._4lex4.ScanTailor-Advanced",
         "com.github.dail8859.NotepadNext",
         "com.github.git_cola.git-cola",
+        "com.github.rssguard",
         "com.github.vkohaupt.vokoscreenNG",
         "com.gitlab.coringao.JAG",
         "com.icanblink.blink",
         "com.moonlight_stream.Moonlight",
         "com.sigil_ebook.Sigil",
+        "com.zandronum.Zandronum",
         "community.pathofbuilding.PathOfBuilding",
         "eu.vcmi.VCMI",
         "io.github.Qalculate.qalculate-qt",
@@ -1553,6 +1557,7 @@
     "org.freedesktop.screensaver": [
         "ca.parallel_launcher.ParallelLauncher",
         "chat.schildi.desktop",
+        "com.brave.Browser",
         "com.fightcade.Fightcade",
         "com.github.Eloston.UngoogledChromium",
         "com.github.artemanufrij.playmymusic",
@@ -1706,21 +1711,6 @@
         "org.videolan.VLC",
         "social.whalebird.WhalebirdDesktop",
         "uk.et1.big-finish-downloader"
-    ],
-    "org.a11y.bus": [
-        "ch.openboard.OpenBoard",
-        "com.obsproject.Studio",
-        "com.sleepfiles.OSCAR",
-        "com.vicr123.thebeat",
-        "de.akaflieg_freiburg.enroute",
-        "io.gitlab.librewolf-community",
-        "io.itch.azagaya.Laigter",
-        "io.lmms.LMMS",
-        "io.sourceforge.qoobar.Qoobar",
-        "one.ablaze.floorp",
-        "org.kde.Ikona",
-        "org.mozilla.firefox",
-        "org.nomacs.ImageLounge"
     ],
     "org.gnome.settingsdaemon": [
         "chat.tandem.Client",
@@ -2073,6 +2063,20 @@
     ],
     "org.freedesktop.portal.trash": [
         "com.neatdecisions.Detwinner"
+    ],
+    "org.a11y.bus": [
+        "com.obsproject.Studio",
+        "com.sleepfiles.OSCAR",
+        "com.vicr123.thebeat",
+        "de.akaflieg_freiburg.enroute",
+        "io.gitlab.librewolf-community",
+        "io.itch.azagaya.Laigter",
+        "io.lmms.LMMS",
+        "io.sourceforge.qoobar.Qoobar",
+        "one.ablaze.floorp",
+        "org.kde.Ikona",
+        "org.mozilla.firefox",
+        "org.nomacs.ImageLounge"
     ],
     "org.freedesktop.dbus.introspectable.*": [
         "com.prusa3d.PrusaSlicer"

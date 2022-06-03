@@ -168,6 +168,7 @@
         "org.phoenicis.playonlinux"
     ],
     "moderate": [
+        "io.github.endless_sky.endless_sky",
         "org.firestormviewer.FirestormViewer",
         "org.tordini.flavio.Minitube"
     ]
