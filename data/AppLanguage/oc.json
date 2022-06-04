@@ -19,6 +19,7 @@
     "fr.romainvigier.MetadataCleaner",
     "io.bassi.Amberol",
     "io.github.lainsce.Colorway",
+    "io.posidon.Paper",
     "net.poedit.Poedit",
     "net.supertuxkart.SuperTuxKart",
     "org.freedesktop.appstream.cli",

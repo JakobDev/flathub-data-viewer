@@ -2102,6 +2102,7 @@
     "xdg-config/autostart:create": [
         "com.github.hluk.copyq",
         "com.github.matfantinel.reminduck",
+        "com.github.rssguard",
         "com.rtosta.zapzap",
         "it.mijorus.smile"
     ],
@@ -2137,6 +2138,7 @@
     ],
     "xdg-download:ro": [
         "com.github.optyfr.JRomManager",
+        "io.bassi.Amberol",
         "io.github.Soundux",
         "org.opensurge2d.OpenSurge",
         "org.polymc.PolyMC"

@@ -1479,6 +1479,7 @@
         "ca.parallel_launcher.ParallelLauncher",
         "ch.openboard.OpenBoard",
         "com.borgbase.Vorta",
+        "com.darhon.syncbackup",
         "com.flashforge.FlashPrint",
         "com.github._4lex4.ScanTailor-Advanced",
         "com.github.dail8859.NotepadNext",

@@ -51,6 +51,7 @@
     "io.neovim.nvim",
     "io.otsaloma.gaupol",
     "io.otsaloma.nfoview",
+    "io.posidon.Paper",
     "me.kozec.syncthingtk",
     "net.displaycal.DisplayCAL",
     "net.launchpad.gmult",

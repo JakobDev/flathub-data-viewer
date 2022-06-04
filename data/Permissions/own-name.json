@@ -228,6 +228,10 @@
     "org.mpris.mediaplayer2.goodvibes": [
         "io.gitlab.Goodvibes"
     ],
+    "org.mpris.mediaplayer2.firefox.*": [
+        "io.gitlab.librewolf-community",
+        "org.mozilla.firefox"
+    ],
     "io.gitlab.librewolf.*": [
         "io.gitlab.librewolf-community"
     ],
@@ -460,9 +464,6 @@
         "org.mozilla.Thunderbird"
     ],
     "org.mozilla.firefox.*": [
-        "org.mozilla.firefox"
-    ],
-    "org.mpris.mediaplayer2.firefox.*": [
         "org.mozilla.firefox"
     ],
     "org.mozilla.firefox_beta.*": [
