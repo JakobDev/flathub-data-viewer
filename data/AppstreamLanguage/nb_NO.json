@@ -22,5 +22,6 @@
     "org.nicotine_plus.Nicotine",
     "org.parlatype.Parlatype",
     "org.zrythm.Zrythm",
-    "re.sonny.Junction"
+    "re.sonny.Junction",
+    "re.sonny.Workbench"
 ]

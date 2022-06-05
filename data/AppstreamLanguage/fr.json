@@ -94,7 +94,6 @@
     "io.github.quodlibet.QuodLibet",
     "io.github.seadve.Breathing",
     "io.github.seadve.Mousai",
-    "io.github.trevorsandy.LPub3D",
     "io.github.webcamoid.Webcamoid",
     "io.github.yairm210.unciv",
     "io.gitlab.Goodvibes",
@@ -377,6 +376,7 @@
     "org.zrythm.Zrythm",
     "re.sonny.Commit",
     "re.sonny.Junction",
+    "re.sonny.Workbench",
     "uk.co.ibboard.cawbird",
     "work.openpaper.Paperwork",
     "org.gnome.Games.LibretroPlugin.PicoDrive"

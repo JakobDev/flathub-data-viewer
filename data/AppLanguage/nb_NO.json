@@ -20,5 +20,6 @@
     "org.nicotine_plus.Nicotine",
     "org.parlatype.Parlatype",
     "org.pulseaudio.pavucontrol",
-    "re.sonny.Junction"
+    "re.sonny.Junction",
+    "re.sonny.Workbench"
 ]

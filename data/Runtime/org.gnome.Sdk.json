@@ -3,7 +3,8 @@
         "cn.navclub.ldbfx",
         "com.github.corna.Vivado",
         "org.gnome.Builder",
-        "org.gnome.Devhelp"
+        "org.gnome.Devhelp",
+        "re.sonny.Workbench"
     ],
     "40": [
         "com.github.mikacousin.olc"

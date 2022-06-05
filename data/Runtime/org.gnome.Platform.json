@@ -276,6 +276,7 @@
         "org.pitivi.Pitivi",
         "org.remmina.Remmina",
         "org.sonic3air.Sonic3AIR",
+        "org.soundconverter.SoundConverter",
         "org.syphon.Syphon",
         "org.tabos.banking",
         "org.tabos.roger",
@@ -286,7 +287,6 @@
         "re.sonny.Commit",
         "re.sonny.OhMySVG",
         "re.sonny.Tangram",
-        "re.sonny.Workbench",
         "ro.hume.cosmin.ShoppingList",
         "sa.sy.bluerecorder"
     ],
@@ -481,7 +481,6 @@
         "org.gnucash.GnuCash",
         "org.mpdevil.mpdevil",
         "org.mypaint.MyPaint",
-        "org.soundconverter.SoundConverter",
         "org.viking.Viking",
         "org.worldpossible.ScriptLauncher",
         "org.xiphos.Xiphos",
