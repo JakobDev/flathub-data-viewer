@@ -20,6 +20,7 @@
     "com.okta.developer.CLI",
     "com.seafile.Client",
     "com.virustotal.VirusTotalUploader",
+    "com.yktoo.ymuse",
     "de.hoppfoundation.klassenzimmer",
     "dev.lapce.lapce",
     "edu.stanford.Almond",

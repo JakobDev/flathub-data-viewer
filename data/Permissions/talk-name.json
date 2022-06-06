@@ -1021,6 +1021,7 @@
         "eu.ad5001.LogarithmPlotter",
         "eu.scarpetta.PDFMixTool",
         "eu.vcmi.VCMI",
+        "in.srev.guiscrcpy",
         "info.bibletime.BibleTime",
         "info.mumble.Mumble",
         "info.smplayer.SMPlayer",
@@ -1486,6 +1487,7 @@
         "com.github.dail8859.NotepadNext",
         "com.github.git_cola.git-cola",
         "com.github.rssguard",
+        "com.github.unrud.djpdf",
         "com.github.vkohaupt.vokoscreenNG",
         "com.gitlab.coringao.JAG",
         "com.icanblink.blink",
@@ -1493,7 +1495,9 @@
         "com.sigil_ebook.Sigil",
         "com.zandronum.Zandronum",
         "community.pathofbuilding.PathOfBuilding",
+        "de.klayout.KLayout",
         "eu.vcmi.VCMI",
+        "in.srev.guiscrcpy",
         "io.github.Qalculate.qalculate-qt",
         "io.github.antimicrox.antimicrox",
         "io.github.congard.qnvsm",
@@ -1540,10 +1544,12 @@
         "org.kde.umbrello",
         "org.ksnip.ksnip",
         "org.musicbrainz.Picard",
+        "org.openchemistry.Avogadro2",
         "org.openhantek.OpenHantek6022",
         "org.photoqt.PhotoQt",
         "org.plomgrading.PlomClient",
         "org.polymc.PolyMC",
+        "org.purei.Play",
         "org.qbittorrent.qBittorrent",
         "org.qownnotes.QOwnNotes",
         "org.quassel_irc.QuasselClient",
@@ -2125,6 +2131,9 @@
     ],
     "org.freedesktop.statusnotifieritem": [
         "io.github.NhekoReborn.Nheko"
+    ],
+    "org.freedesktop.filemanager1.*": [
+        "io.github.ihhub.Fheroes2"
     ],
     "com.canonical.unity": [
         "io.github.kotatogram",

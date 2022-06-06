@@ -1990,6 +1990,9 @@
         "com.google.ChromeDev",
         "io.wavebox.Wavebox"
     ],
+    "~/.local/share/applications:create": [
+        "com.brave.Browser"
+    ],
     "/run/.heim_org.h5l.kcm-socket": [
         "com.brave.Browser",
         "com.getferdi.Ferdi",
@@ -2004,6 +2007,9 @@
         "org.gnome.Evolution",
         "org.qutebrowser.qutebrowser",
         "se.cendio.tlclient"
+    ],
+    "~/.local/share/icons:create": [
+        "com.brave.Browser"
     ],
     "xdg-run/speech-dispatcher:ro": [
         "com.calibre_ebook.calibre"
