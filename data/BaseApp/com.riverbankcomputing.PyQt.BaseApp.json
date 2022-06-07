@@ -6,6 +6,7 @@
         "io.github.giantpinkrobots.bootqt",
         "me.mitya57.ReText",
         "net.sourceforge.scidavis",
+        "org.opennumismat.OpenNumismat",
         "org.plomgrading.PlomClient",
         "org.pymol.PyMOL",
         "org.qutebrowser.qutebrowser"
