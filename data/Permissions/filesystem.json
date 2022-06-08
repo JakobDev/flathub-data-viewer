@@ -1665,6 +1665,7 @@
         "com.jetbrains.RubyMine",
         "com.jetbrains.WebStorm",
         "com.syntevo.SmartGit",
+        "im.riot.Riot",
         "in.cinny.Cinny",
         "io.github.gitahead.GitAhead",
         "io.github.shiftey.Desktop",
@@ -2365,6 +2366,11 @@
     "~/.ViberPC:create": [
         "com.viber.Viber"
     ],
+    "xdg-config/gtk-3.0:ro": [
+        "com.vscodium.codium",
+        "io.github.quodlibet.ExFalso",
+        "io.github.quodlibet.QuodLibet"
+    ],
     "xdg-config/mpv:ro": [
         "de.schmidhuberj.tubefeeder"
     ],
@@ -2453,10 +2459,6 @@
     ],
     "xdg-music:create": [
         "io.github.purplehorrorrus.Meridius"
-    ],
-    "xdg-config/gtk-3.0:ro": [
-        "io.github.quodlibet.ExFalso",
-        "io.github.quodlibet.QuodLibet"
     ],
     "/var/log": [
         "io.github.rafaelfassi.QLogExplorer"
