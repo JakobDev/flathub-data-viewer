@@ -3,7 +3,6 @@
         "app.midterm.MidtermDesktop",
         "com.sublimemerge.App",
         "com.synology.SynologyDrive",
-        "com.unity.UnityHub",
         "io.atom.Atom",
         "org.scilab.Scilab"
     ],
@@ -25,6 +24,7 @@
         "com.steamgriddb.steam-rom-manager",
         "com.sublimetext.three",
         "com.synology.SynologyAssistant",
+        "com.unity.UnityHub",
         "com.visualstudio.code-oss",
         "com.visualstudio.code",
         "com.vscodium.codium",

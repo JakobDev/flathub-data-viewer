@@ -1494,6 +1494,7 @@
         "com.github.buddhi1980.mandelbulber2",
         "com.github.dail8859.NotepadNext",
         "com.github.git_cola.git-cola",
+        "com.github.micahflee.torbrowser-launcher",
         "com.github.rssguard",
         "com.github.unrud.djpdf",
         "com.github.vkohaupt.vokoscreenNG",
@@ -1623,6 +1624,7 @@
         "org.videolan.VLC",
         "re.chiaki.Chiaki",
         "tv.kodi.Kodi",
+        "tv.plex.PlexHTPC",
         "us.zoom.Zoom"
     ],
     "org.freedesktop.login1": [
@@ -1984,7 +1986,8 @@
         "net.displaycal.DisplayCAL",
         "org.filezillaproject.Filezilla",
         "org.jitsi.jitsi-meet",
-        "org.qbittorrent.qBittorrent"
+        "org.qbittorrent.qBittorrent",
+        "tv.plex.PlexHTPC"
     ],
     "org.freedesktop.dbus": [
         "com.github.muriloventuroso.givemelyrics",

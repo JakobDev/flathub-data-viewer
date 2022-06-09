@@ -59,5 +59,6 @@
     "org.tordini.flavio.Minitube",
     "org.videolan.VLC",
     "ru.sview.sView",
-    "tv.kodi.Kodi"
+    "tv.kodi.Kodi",
+    "tv.plex.PlexHTPC"
 ]
