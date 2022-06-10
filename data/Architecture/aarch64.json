@@ -1,6 +1,7 @@
 [
     "app.drey.Warp",
     "app.lith.Lith",
+    "app.moosync.moosync",
     "app.rednotebook.RedNotebook",
     "app.riftshare.RiftShare",
     "app.ytmdesktop.ytmdesktop",
