@@ -1,10 +1,13 @@
 [
     "com.github.alainm23.byte",
     "com.github.artemanufrij.playmymusic",
+    "com.github.neithern.g4music",
     "com.github.rafostar.Clapper",
     "com.github.taiko2k.tauonmb",
+    "com.ylsoftware.qmmp.Qmmp",
     "io.bassi.Amberol",
     "io.github.celluloid_player.Celluloid",
+    "io.github.pragha_music_player.pragha",
     "io.github.quodlibet.QuodLibet",
     "io.github.swanux.hbud",
     "io.mpv.Mpv",

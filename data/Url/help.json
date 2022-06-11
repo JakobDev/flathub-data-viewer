@@ -177,6 +177,7 @@
     "com.wickeditor.WickEditor",
     "com.wps.Office",
     "com.xnview.XnViewMP",
+    "com.ylsoftware.qmmp.Qmmp",
     "com.zandronum.Zandronum",
     "com.zettlr.Zettlr",
     "de.create3000.titania",
@@ -580,9 +581,11 @@
     "se.manyver.Manyverse",
     "sh.ppy.osu",
     "tv.kodi.Kodi",
+    "tv.plex.PlexDesktop",
     "tv.plex.PlexHTPC",
     "uk.co.powdertoy.tpt",
     "website.i2pd.i2pd",
     "work.openpaper.Paperwork",
+    "xyz.xclicker.xclicker",
     "com.valvesoftware.Steam.CompatibilityTool.Boxtron"
 ]

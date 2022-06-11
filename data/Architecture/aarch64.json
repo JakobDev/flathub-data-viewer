@@ -222,6 +222,7 @@
     "com.github.muriloventuroso.pdftricks",
     "com.github.naaando.lyrics",
     "com.github.needleandthread.vocal",
+    "com.github.neithern.g4music",
     "com.github.nihui.waifu2x-ncnn-vulkan",
     "com.github.ojubaorg.Othman",
     "com.github.opentyrian.OpenTyrian",
@@ -398,6 +399,7 @@
     "com.wings3d.WINGS",
     "com.wiz.Note",
     "com.yktoo.ymuse",
+    "com.ylsoftware.qmmp.Qmmp",
     "com.yubico.yubioath",
     "com.zettlr.Zettlr",
     "cz.cvut.edu.comparch.qtrvsim",
@@ -455,6 +457,7 @@
     "fr.fgrabenstaetter.DigitalAssets",
     "fr.free.Homebank",
     "fr.free.hxc2001.HxCFloppyEmulator",
+    "fr.masson_informatique.WhosWho",
     "fr.romainvigier.MetadataCleaner",
     "fr.rubet.rpn",
     "fyi.zoey.Boop-GTK",
@@ -574,6 +577,7 @@
     "io.github.openhv.OpenHV",
     "io.github.peazip.PeaZip",
     "io.github.philipk.boilr",
+    "io.github.pragha_music_player.pragha",
     "io.github.qnapi",
     "io.github.qtox.qTox",
     "io.github.quodlibet.ExFalso",
@@ -1369,5 +1373,6 @@
     "ws.openarena.OpenArena",
     "xyz.mx_moment.moment",
     "xyz.stuerz.BilligSweeper",
+    "xyz.xclicker.xclicker",
     "xyz.z3ntu.razergenie"
 ]

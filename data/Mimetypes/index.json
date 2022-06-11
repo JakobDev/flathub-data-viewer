@@ -969,6 +969,7 @@
         "audio{SLASH}x-aiff",
         "audio{SLASH}x-ape",
         "audio{SLASH}x-dsf",
+        "audio{SLASH}x-ffmpeg-shorten",
         "audio{SLASH}x-flac",
         "audio{SLASH}x-flac+ogg",
         "audio{SLASH}x-gsm",

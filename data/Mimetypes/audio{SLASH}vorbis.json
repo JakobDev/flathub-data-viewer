@@ -1,5 +1,6 @@
 [
     "info.smplayer.SMPlayer",
+    "io.github.pragha_music_player.pragha",
     "io.github.quodlibet.QuodLibet",
     "io.mpv.Mpv",
     "org.clementine_player.Clementine",

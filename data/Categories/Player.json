@@ -24,11 +24,13 @@
     "com.sayonara_player.Sayonara",
     "com.stremio.Stremio",
     "com.vicr123.thebeat",
+    "com.ylsoftware.qmmp.Qmmp",
     "info.smplayer.SMPlayer",
     "io.github.Pithos",
     "io.github.Soundux",
     "io.github.celluloid_player.Celluloid",
     "io.github.cmus.cmus",
+    "io.github.pragha_music_player.pragha",
     "io.github.quodlibet.QuodLibet",
     "io.github.swanux.hbud",
     "io.github.webcamoid.Webcamoid",
@@ -60,5 +62,6 @@
     "org.videolan.VLC",
     "ru.sview.sView",
     "tv.kodi.Kodi",
+    "tv.plex.PlexDesktop",
     "tv.plex.PlexHTPC"
 ]

@@ -285,6 +285,7 @@
     "com.github.muriloventuroso.pdftricks",
     "com.github.naaando.lyrics",
     "com.github.needleandthread.vocal",
+    "com.github.neithern.g4music",
     "com.github.nrittsti.NTag",
     "com.github.ojubaorg.Othman",
     "com.github.opentyrian.OpenTyrian",
@@ -549,6 +550,7 @@
     "com.xnview.XnViewMP",
     "com.xunlei.Thunder",
     "com.yktoo.ymuse",
+    "com.ylsoftware.qmmp.Qmmp",
     "com.yubico.yubioath",
     "com.zandronum.Zandronum",
     "com.zettlr.Zettlr",
@@ -616,6 +618,7 @@
     "fr.free.Homebank",
     "fr.free.hxc2001.HxCFloppyEmulator",
     "fr.handbrake.ghb",
+    "fr.masson_informatique.WhosWho",
     "fr.natron.Natron",
     "fr.romainvigier.MetadataCleaner",
     "fr.rubet.rpn",
@@ -1641,6 +1644,7 @@
     "studio.kx.carla",
     "tech.feliciano.pocket-casts",
     "tv.kodi.Kodi",
+    "tv.plex.PlexDesktop",
     "tv.plex.PlexHTPC",
     "tw.ddnet.ddnet",
     "ua.org.brezblock.q4wine",
@@ -1661,5 +1665,6 @@
     "xyz.kusma.aurora",
     "xyz.mx_moment.moment",
     "xyz.stuerz.BilligSweeper",
+    "xyz.xclicker.xclicker",
     "xyz.z3ntu.razergenie"
 ]

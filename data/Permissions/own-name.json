@@ -30,6 +30,20 @@
         "si.tano.Vremenar",
         "us.zoom.Zoom"
     ],
+    "org.mpris.mediaplayer2.chromium.*": [
+        "app.moosync.moosync",
+        "com.brave.Browser",
+        "com.github.Eloston.UngoogledChromium",
+        "com.github.rhyme_player.rhyme",
+        "com.google.Chrome",
+        "com.google.ChromeDev",
+        "com.qq.QQmusic",
+        "dev.vieb.Vieb",
+        "io.github.purplehorrorrus.Meridius",
+        "io.wavebox.Wavebox",
+        "org.chromium.Chromium",
+        "tech.feliciano.pocket-casts"
+    ],
     "org.mpris.mediaplayer2.youtubemusic": [
         "app.ytmdesktop.ytmdesktop"
     ],
@@ -51,19 +65,6 @@
     ],
     "com.belmoussaoui.authenticator.searchprovider": [
         "com.belmoussaoui.Authenticator"
-    ],
-    "org.mpris.mediaplayer2.chromium.*": [
-        "com.brave.Browser",
-        "com.github.Eloston.UngoogledChromium",
-        "com.github.rhyme_player.rhyme",
-        "com.google.Chrome",
-        "com.google.ChromeDev",
-        "com.qq.QQmusic",
-        "dev.vieb.Vieb",
-        "io.github.purplehorrorrus.Meridius",
-        "io.wavebox.Wavebox",
-        "org.chromium.Chromium",
-        "tech.feliciano.pocket-casts"
     ],
     "org.mpris.mediaplayer2.euterpe-gtk": [
         "com.doycho.euterpe.gtk"

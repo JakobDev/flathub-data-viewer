@@ -410,6 +410,7 @@
         "io.github.nroduit.Weasis",
         "io.github.openhv.OpenHV",
         "io.github.philipk.boilr",
+        "io.github.pragha_music_player.pragha",
         "io.github.prateekmedia.appimagepool",
         "io.github.prateekmedia.pstube",
         "io.github.purplehorrorrus.Meridius",
@@ -606,6 +607,7 @@
         "social.whalebird.WhalebirdDesktop",
         "space.crankshaft.Crankshaft",
         "tv.kodi.Kodi",
+        "tv.plex.PlexDesktop",
         "tv.plex.PlexHTPC",
         "tw.ddnet.ddnet",
         "uk.co.electronstudio.ComicReaderUltimate",
@@ -614,7 +616,8 @@
         "ws.openarena.OpenArena",
         "xyz.eclipium.TetraSwap",
         "xyz.kusma.aurora",
-        "xyz.stuerz.BilligSweeper"
+        "xyz.stuerz.BilligSweeper",
+        "xyz.xclicker.xclicker"
     ],
     "18.08": [
         "au.edu.uq.esys.escript",

@@ -1,6 +1,7 @@
 [
     "com.dosbox_x.DOSBox-X",
     "com.github.Flacon",
+    "com.ylsoftware.qmmp.Qmmp",
     "io.mpv.Mpv",
     "org.atheme.audacious",
     "org.freac.freac",

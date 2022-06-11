@@ -243,6 +243,7 @@
         "com.vzhd1701.gridplayer",
         "com.wiz.Note",
         "com.xnview.XnViewMP",
+        "com.ylsoftware.qmmp.Qmmp",
         "com.yubico.yubioath",
         "com.zandronum.Zandronum",
         "community.pathofbuilding.PathOfBuilding",
@@ -971,11 +972,13 @@
         "com.netease.CloudMusic",
         "com.seventhstring.Transcribe",
         "com.tracktion.Waveform",
+        "com.ylsoftware.qmmp.Qmmp",
         "de.haeckerfelix.Shortwave",
         "dev.vieb.Vieb",
         "io.github.cmus.cmus",
         "io.github.jacalz.rymdport",
         "io.github.janbar.noson",
+        "io.github.pragha_music_player.pragha",
         "io.github.qtox.qTox",
         "io.sourceforge.qoobar.Qoobar",
         "io.wavebox.Wavebox",
@@ -1325,6 +1328,7 @@
         "com.github.geigi.cozy",
         "com.github.junrrein.PDFSlicer",
         "com.github.needleandthread.vocal",
+        "com.github.neithern.g4music",
         "com.github.xournalpp.xournalpp",
         "com.giuspen.cherrytree",
         "com.icons8.Lunacy",
@@ -1334,6 +1338,7 @@
         "de.create3000.titania",
         "edu.stanford.Almond",
         "fr.handbrake.ghb",
+        "fr.masson_informatique.WhosWho",
         "io.github.TransmissionRemoteGtk",
         "io.github.celluloid_player.Celluloid",
         "net.sourceforge.efaxgtk",
@@ -1908,6 +1913,7 @@
         "info.olasagasti.revelation",
         "io.github.celluloid_player.Celluloid",
         "io.github.lruzicka.Needly",
+        "io.github.pragha_music_player.pragha",
         "io.github.swanux.hbud",
         "ml.prevete.Daty",
         "net.danigm.timetrack",
@@ -2039,6 +2045,7 @@
         "com.github.ahrm.sioyek",
         "com.github.ilai_deutel.kibi",
         "com.github.marktext.marktext",
+        "com.github.neithern.g4music",
         "com.rawtherapee.RawTherapee",
         "com.zettlr.Zettlr",
         "io.github.maurycyliebner.enve",
@@ -2139,6 +2146,7 @@
     ],
     "xdg-run/pipewire-0:ro": [
         "com.github.kalibari.audok",
+        "com.github.neithern.g4music",
         "com.github.rafostar.Clapper",
         "com.github.wwmm.easyeffects",
         "dev.vieb.Vieb",
@@ -2153,11 +2161,22 @@
         "com.github.needleandthread.vocal"
     ],
     "xdg-download:ro": [
+        "com.github.neithern.g4music",
         "com.github.optyfr.JRomManager",
         "io.bassi.Amberol",
         "io.github.Soundux",
         "org.opensurge2d.OpenSurge",
         "org.polymc.PolyMC"
+    ],
+    "xdg-music:ro": [
+        "com.github.neithern.g4music",
+        "com.greyrook.siptop",
+        "com.slack.Slack",
+        "com.spotify.Client",
+        "com.valvesoftware.Steam",
+        "io.bassi.Amberol",
+        "io.github.Soundux",
+        "sh.ppy.osu"
     ],
     "xdg-config/neothesia": [
         "com.github.polymeilex.neothesia"
@@ -2238,15 +2257,6 @@
     ],
     "xdg-run/discord:create": [
         "com.googleplaymusicdesktopplayer.GPMDP"
-    ],
-    "xdg-music:ro": [
-        "com.greyrook.siptop",
-        "com.slack.Slack",
-        "com.spotify.Client",
-        "com.valvesoftware.Steam",
-        "io.bassi.Amberol",
-        "io.github.Soundux",
-        "sh.ppy.osu"
     ],
     "~/.local/share/flatpak/overrides": [
         "com.hack_computer.Clubhouse"

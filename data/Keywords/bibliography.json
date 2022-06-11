@@ -1,5 +1,6 @@
 [
     "com.github.rogercrocker.badabib",
+    "org.gnome.World.Citations",
     "org.jabref.jabref",
     "org.kde.kbibtex"
 ]

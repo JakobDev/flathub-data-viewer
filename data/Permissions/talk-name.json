@@ -113,6 +113,7 @@
         "com.vzhd1701.gridplayer",
         "com.wire.WireDesktop",
         "com.wiz.Note",
+        "com.ylsoftware.qmmp.Qmmp",
         "com.yubico.yubioath",
         "com.zandronum.Zandronum",
         "community.pathofbuilding.PathOfBuilding",
@@ -963,6 +964,15 @@
         "org.signal.Signal",
         "ru.proninyaroslav.libretrack"
     ],
+    "org.mpris.mediaplayer2.player": [
+        "app.moosync.moosync",
+        "com.gitlab.ColinDuquesnoy.MellowPlayer",
+        "com.sayonara_player.Sayonara",
+        "io.github.janbar.noson",
+        "org.clementine_player.Clementine",
+        "org.strawberrymusicplayer.strawberry",
+        "org.videolan.VLC"
+    ],
     "org.kde.kconfig.notify": [
         "app.resp.RESP",
         "ca.parallel_launcher.ParallelLauncher",
@@ -1005,6 +1015,7 @@
         "com.obsproject.Studio",
         "com.ozmartians.VidCutter",
         "com.polyphone_soundfonts.polyphone",
+        "com.rosegardenmusic.rosegarden",
         "com.sayonara_player.Sayonara",
         "com.seafile.Client",
         "com.sigil_ebook.Sigil",
@@ -1334,6 +1345,7 @@
         "com.github.louis77.tuner",
         "com.github.mdh34.quickdocs",
         "com.github.needleandthread.vocal",
+        "com.github.neithern.g4music",
         "com.github.philip_scott.notes-up",
         "com.github.xournalpp.xournalpp",
         "com.giuspen.cherrytree",
@@ -1346,6 +1358,7 @@
         "de.create3000.titania",
         "edu.stanford.Almond",
         "fr.handbrake.ghb",
+        "fr.masson_informatique.WhosWho",
         "io.atom.Atom",
         "io.brackets.Brackets",
         "io.github.TransmissionRemoteGtk",
@@ -1491,6 +1504,7 @@
         "com.borgbase.Vorta",
         "com.darhon.syncbackup",
         "com.flashforge.FlashPrint",
+        "com.github.Murmele.Gittyup",
         "com.github._4lex4.ScanTailor-Advanced",
         "com.github.buddhi1980.mandelbulber2",
         "com.github.dail8859.NotepadNext",
@@ -1502,6 +1516,7 @@
         "com.gitlab.coringao.JAG",
         "com.icanblink.blink",
         "com.moonlight_stream.Moonlight",
+        "com.rosegardenmusic.rosegarden",
         "com.sigil_ebook.Sigil",
         "com.zandronum.Zandronum",
         "community.pathofbuilding.PathOfBuilding",
@@ -1535,18 +1550,23 @@
         "org.getmonero.Monero",
         "org.goldendict.GoldenDict",
         "org.kde.akregator",
+        "org.kde.ark",
         "org.kde.artikulate",
         "org.kde.audiotube",
         "org.kde.blinken",
         "org.kde.bomber",
         "org.kde.bovo",
         "org.kde.cantor",
+        "org.kde.dolphin",
         "org.kde.elisa",
         "org.kde.falkon",
         "org.kde.granatier",
+        "org.kde.gwenview",
+        "org.kde.itinerary",
         "org.kde.juk",
         "org.kde.kalgebra",
         "org.kde.kalzium",
+        "org.kde.kamoso",
         "org.kde.kanagram",
         "org.kde.kapman",
         "org.kde.kasts",
@@ -1560,6 +1580,8 @@
         "org.kde.kcachegrind",
         "org.kde.kcalc",
         "org.kde.kcolorchooser",
+        "org.kde.kdenlive",
+        "org.kde.kdevelop",
         "org.kde.kdiamond",
         "org.kde.kfind",
         "org.kde.kfourinline",
@@ -1610,11 +1632,13 @@
         "org.kde.kubrick",
         "org.kde.kuiviewer",
         "org.kde.kwordquiz",
+        "org.kde.kwrite",
         "org.kde.labplot2",
         "org.kde.lokalize",
         "org.kde.marble",
         "org.kde.minuet",
         "org.kde.neochat",
+        "org.kde.okteta",
         "org.kde.okular",
         "org.kde.palapeli",
         "org.kde.picmi",
@@ -1690,6 +1714,7 @@
         "org.videolan.VLC",
         "re.chiaki.Chiaki",
         "tv.kodi.Kodi",
+        "tv.plex.PlexDesktop",
         "tv.plex.PlexHTPC",
         "us.zoom.Zoom"
     ],
@@ -1821,7 +1846,6 @@
         "com.github.artemanufrij.playmymusic",
         "com.github.calo001.fondo",
         "com.github.junrrein.PDFSlicer",
-        "com.github.philip_scott.notes-up",
         "com.lettier.movie-monad",
         "io.atom.Atom",
         "io.github.celluloid_player.Celluloid",
@@ -2096,14 +2120,6 @@
     "org.freedesktop.impl.portal.permissionstore": [
         "com.github.tchx84.Flatseal"
     ],
-    "org.mpris.mediaplayer2.player": [
-        "com.gitlab.ColinDuquesnoy.MellowPlayer",
-        "com.sayonara_player.Sayonara",
-        "io.github.janbar.noson",
-        "org.clementine_player.Clementine",
-        "org.strawberrymusicplayer.strawberry",
-        "org.videolan.VLC"
-    ],
     "org.endlessos.onboarding": [
         "com.hack_computer.Clubhouse"
     ],
@@ -2377,12 +2393,12 @@
         "org.kde.akregator",
         "org.kde.kontact"
     ],
+    "org.kde.kiod5": [
+        "org.kde.dolphin"
+    ],
     "org.kde.kpasswdserver": [
         "org.kde.dolphin",
         "org.kde.kontact"
-    ],
-    "org.kde.kiod5": [
-        "org.kde.dolphin"
     ],
     "org.kde.baloo": [
         "org.kde.elisa"

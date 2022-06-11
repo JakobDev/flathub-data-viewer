@@ -34,6 +34,7 @@
     "com.github.marinm.songrec",
     "com.github.naaando.lyrics",
     "com.github.needleandthread.vocal",
+    "com.github.neithern.g4music",
     "com.github.nrittsti.NTag",
     "com.github.powertab.powertabeditor",
     "com.github.rafostar.Clapper",
@@ -70,6 +71,7 @@
     "com.vicr123.thebeat",
     "com.vzhd1701.gridplayer",
     "com.yktoo.ymuse",
+    "com.ylsoftware.qmmp.Qmmp",
     "de.haeckerfelix.Shortwave",
     "de.hoppfoundation.klassenzimmer",
     "de.rwth_aachen.ient.YUView",
@@ -91,6 +93,7 @@
     "io.github.janbar.noson",
     "io.github.jliljebl.Flowblade",
     "io.github.muse_sequencer.Muse",
+    "io.github.pragha_music_player.pragha",
     "io.github.purplehorrorrus.Meridius",
     "io.github.qnapi",
     "io.github.quodlibet.ExFalso",
@@ -198,6 +201,7 @@
     "sh.xaviers.Opentapes",
     "studio.kx.carla",
     "tv.kodi.Kodi",
+    "tv.plex.PlexDesktop",
     "tv.plex.PlexHTPC",
     "vn.hoabinh.quan.CoBang"
 ]

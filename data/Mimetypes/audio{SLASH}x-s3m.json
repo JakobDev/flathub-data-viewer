@@ -1,5 +1,7 @@
 [
+    "com.github.neithern.g4music",
     "com.github.rafostar.Clapper",
+    "com.ylsoftware.qmmp.Qmmp",
     "io.bassi.Amberol",
     "io.github.celluloid_player.Celluloid",
     "io.github.swanux.hbud",

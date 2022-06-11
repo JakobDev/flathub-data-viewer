@@ -132,6 +132,7 @@
     "org.mersenne.mprime",
     "org.pjbroad.EternallandsClient",
     "se.cendio.tlclient",
+    "tv.plex.PlexDesktop",
     "tv.plex.PlexHTPC",
     "us.zoom.Zoom",
     "xyz.eclipium.TetraSwap",

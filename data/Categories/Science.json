@@ -42,6 +42,7 @@
     "org.freecadweb.FreeCAD",
     "org.gnode.NixView",
     "org.gnome.Genius",
+    "org.gnome.World.Citations",
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnumeric.Gnumeric",
     "org.jamovi.jamovi",
