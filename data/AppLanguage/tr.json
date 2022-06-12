@@ -2,6 +2,7 @@
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
+    "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
     "com.bitstower.Markets",
     "com.github.PintaProject.Pinta",

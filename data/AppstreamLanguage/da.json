@@ -1,6 +1,7 @@
 [
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
+    "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
     "com.github.artemanufrij.playmymusic",
     "com.github.muriloventuroso.easyssh",

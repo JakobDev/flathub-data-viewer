@@ -1,5 +1,6 @@
 [
     "app.rednotebook.RedNotebook",
+    "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
     "com.endlessm.photos",
     "com.github.PintaProject.Pinta",

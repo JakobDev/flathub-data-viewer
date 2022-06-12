@@ -2,6 +2,7 @@
     "ca.desrt.dconf-editor",
     "ch.openboard.OpenBoard",
     "com.belmoussaoui.Authenticator",
+    "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
     "com.bitstower.Markets",
     "com.calibre_ebook.calibre",

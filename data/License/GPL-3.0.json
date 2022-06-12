@@ -182,6 +182,7 @@
     "org.freedesktop.LinuxAudio.Plugins.MDA",
     "org.freedesktop.LinuxAudio.Plugins.Ninjas2",
     "org.freedesktop.LinuxAudio.Plugins.OBXd",
+    "org.freedesktop.LinuxAudio.Plugins.SonoBus",
     "org.freedesktop.LinuxAudio.Plugins.Sorcer",
     "org.freedesktop.LinuxAudio.Plugins.Tunefish4",
     "org.freedesktop.LinuxAudio.Plugins.WolfShaper",

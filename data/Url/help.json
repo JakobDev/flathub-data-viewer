@@ -587,5 +587,6 @@
     "website.i2pd.i2pd",
     "work.openpaper.Paperwork",
     "xyz.xclicker.xclicker",
-    "com.valvesoftware.Steam.CompatibilityTool.Boxtron"
+    "com.valvesoftware.Steam.CompatibilityTool.Boxtron",
+    "org.freedesktop.LinuxAudio.Plugins.SonoBus"
 ]

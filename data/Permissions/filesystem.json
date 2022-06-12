@@ -2546,6 +2546,12 @@
     "~/.var/app/net.lutris.Lutris/data/lutris/runners/wine": [
         "net.davidotek.pupgui2"
     ],
+    "~/.config/heroic/tools": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/tools": [
+        "net.davidotek.pupgui2"
+    ],
     "~/.local/share/lutris/runners/wine": [
         "net.davidotek.pupgui2"
     ],
@@ -2553,9 +2559,6 @@
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/com.usebottles.bottles/data/bottles/runners": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.config/heroic/tools": [
         "net.davidotek.pupgui2"
     ],
     "~/.runelite:create": [
