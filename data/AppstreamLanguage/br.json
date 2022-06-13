@@ -14,5 +14,6 @@
     "org.gnome.seahorse.Application",
     "org.inkscape.Inkscape",
     "org.kde.gcompris",
-    "org.stellarium.Stellarium"
+    "org.stellarium.Stellarium",
+    "org.tuxpaint.Tuxpaint"
 ]

@@ -28,5 +28,6 @@
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
     "org.kde.gcompris",
-    "org.stellarium.Stellarium"
+    "org.stellarium.Stellarium",
+    "org.tuxpaint.Tuxpaint"
 ]

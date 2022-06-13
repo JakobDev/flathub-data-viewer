@@ -101,5 +101,6 @@
     "org.kde.tellico",
     "org.midori_browser.Midori",
     "org.pitivi.Pitivi",
-    "org.stellarium.Stellarium"
+    "org.stellarium.Stellarium",
+    "org.tuxpaint.Tuxpaint"
 ]

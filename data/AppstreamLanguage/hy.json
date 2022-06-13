@@ -3,5 +3,6 @@
     "org.gnome.FileRoller",
     "org.gnome.Glade",
     "org.gottcode.FocusWriter",
-    "org.stellarium.Stellarium"
+    "org.stellarium.Stellarium",
+    "org.tuxpaint.Tuxpaint"
 ]

@@ -5,5 +5,6 @@
     "org.gnome.eog",
     "org.gnome.gedit",
     "org.midori_browser.Midori",
-    "org.pitivi.Pitivi"
+    "org.pitivi.Pitivi",
+    "org.tuxpaint.Tuxpaint"
 ]

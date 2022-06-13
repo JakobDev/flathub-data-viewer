@@ -45,5 +45,6 @@
     "org.kicad.KiCad",
     "org.midori_browser.Midori",
     "org.squeakland.Etoys",
-    "org.stellarium.Stellarium"
+    "org.stellarium.Stellarium",
+    "org.tuxpaint.Tuxpaint"
 ]

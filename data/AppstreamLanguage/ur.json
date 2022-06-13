@@ -4,5 +4,6 @@
     "org.gnucash.GnuCash",
     "org.inkscape.Inkscape",
     "org.midori_browser.Midori",
-    "org.stellarium.Stellarium"
+    "org.stellarium.Stellarium",
+    "org.tuxpaint.Tuxpaint"
 ]

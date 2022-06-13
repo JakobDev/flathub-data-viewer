@@ -29,5 +29,6 @@
     "org.gnome.font-viewer",
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
-    "org.stellarium.Stellarium"
+    "org.stellarium.Stellarium",
+    "org.tuxpaint.Tuxpaint"
 ]

@@ -3,5 +3,6 @@
     "org.gnome.Extensions",
     "org.gnome.Logs",
     "org.gnome.Totem",
+    "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator"
 ]

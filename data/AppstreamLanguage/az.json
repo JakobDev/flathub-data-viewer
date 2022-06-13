@@ -34,5 +34,6 @@
     "org.kde.lokalize",
     "org.kde.neochat",
     "org.kde.okular",
-    "org.stellarium.Stellarium"
+    "org.stellarium.Stellarium",
+    "org.tuxpaint.Tuxpaint"
 ]

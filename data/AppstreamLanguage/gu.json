@@ -41,5 +41,6 @@
     "org.gnome.seahorse.Application",
     "org.gnucash.GnuCash",
     "org.inkscape.Inkscape",
-    "org.stellarium.Stellarium"
+    "org.stellarium.Stellarium",
+    "org.tuxpaint.Tuxpaint"
 ]

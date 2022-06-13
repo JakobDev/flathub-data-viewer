@@ -46,6 +46,7 @@
     "org.kde.kolf",
     "org.kde.kollision",
     "org.kde.ksnakeduel",
+    "org.libsdl.Maelstrom",
     "org.neverball.Neverball",
     "org.openclonk.OpenClonk",
     "org.opensurge2d.OpenSurge",

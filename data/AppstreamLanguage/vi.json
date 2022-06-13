@@ -81,5 +81,6 @@
     "org.midori_browser.Midori",
     "org.pitivi.Pitivi",
     "org.squeakland.Etoys",
-    "org.stellarium.Stellarium"
+    "org.stellarium.Stellarium",
+    "org.tuxpaint.Tuxpaint"
 ]

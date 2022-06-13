@@ -57,5 +57,6 @@
     "org.kde.kfind",
     "org.kde.kwrite",
     "org.midori_browser.Midori",
-    "org.stellarium.Stellarium"
+    "org.stellarium.Stellarium",
+    "org.tuxpaint.Tuxpaint"
 ]

@@ -13,5 +13,6 @@
     "org.gnome.Tali",
     "org.gnome.baobab",
     "org.gnome.eog",
-    "org.gnome.gedit"
+    "org.gnome.gedit",
+    "org.tuxpaint.Tuxpaint"
 ]

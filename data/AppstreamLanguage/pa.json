@@ -97,5 +97,6 @@
     "org.kde.okular",
     "org.kde.pix",
     "org.kde.vvave",
-    "org.stellarium.Stellarium"
+    "org.stellarium.Stellarium",
+    "org.tuxpaint.Tuxpaint"
 ]
