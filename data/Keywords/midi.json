@@ -1,5 +1,6 @@
 [
     "com.bitwig.BitwigStudio",
+    "com.giadamusic.Giada",
     "org.nongnu.gsequencer.gsequencer",
     "org.zrythm.Zrythm"
 ]
