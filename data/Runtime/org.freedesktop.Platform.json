@@ -488,6 +488,7 @@
         "org.freac.freac",
         "org.freeciv.Freeciv",
         "org.freedesktop.appstream.cli",
+        "org.freedownloadmanager.Manager",
         "org.freeorion.FreeOrion",
         "org.geogebra.GeoGebra",
         "org.ghidra_sre.Ghidra",

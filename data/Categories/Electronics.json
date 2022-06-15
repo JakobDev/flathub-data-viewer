@@ -4,6 +4,7 @@
     "com.diy_fever.DIYLayoutCreator",
     "com.github.reds.LogisimEvolution",
     "de.klayout.KLayout",
+    "eu.stethewwolf.gresistor",
     "org.fritzing.Fritzing",
     "org.horizon_eda.HorizonEDA",
     "org.kicad.KiCad",

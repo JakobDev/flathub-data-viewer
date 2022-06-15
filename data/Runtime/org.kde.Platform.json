@@ -387,6 +387,7 @@
         "org.speedcrunch.SpeedCrunch",
         "org.sqlitebrowser.sqlitebrowser",
         "org.stellarium.Stellarium",
+        "org.telesculptor.TeleSculptor",
         "org.texstudio.TeXstudio",
         "org.tug.texworks",
         "org.videolan.VLC",
@@ -455,7 +456,6 @@
         "org.qelectrotech.QElectroTech",
         "org.shadowsocks.qt5client",
         "org.subsurface_divelog.Subsurface",
-        "org.telesculptor.TeleSculptor",
         "org.tomviz.Tomviz",
         "org.tordini.flavio.Minitube",
         "uk.org.zint.zint-qt"

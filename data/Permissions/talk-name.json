@@ -1277,6 +1277,7 @@
         "org.shotcut.Shotcut",
         "org.solarus_games.solarus.Launcher",
         "org.sqlitebrowser.sqlitebrowser",
+        "org.telesculptor.TeleSculptor",
         "org.texstudio.TeXstudio",
         "org.tug.texworks",
         "org.videolan.VLC",
@@ -1664,6 +1665,7 @@
         "org.quassel_irc.QuasselClient",
         "org.qutebrowser.qutebrowser",
         "org.rncbc.qtractor",
+        "org.telesculptor.TeleSculptor",
         "org.texstudio.TeXstudio",
         "org.yuzu_emu.yuzu",
         "website.i2pd.i2pd"

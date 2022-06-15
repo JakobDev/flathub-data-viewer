@@ -15,6 +15,7 @@
     "org.btchd.btchd-qt",
     "org.deluge_torrent.deluge",
     "org.equeim.Tremotesf",
+    "org.freedownloadmanager.Manager",
     "org.groestlcoin.groestlcoin-qt",
     "org.kde.ktorrent",
     "org.nicotine_plus.Nicotine",

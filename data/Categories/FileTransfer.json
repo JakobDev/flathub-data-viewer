@@ -19,6 +19,7 @@
     "net.sourceforge.fspclient",
     "org.deluge_torrent.deluge",
     "org.filezillaproject.Filezilla",
+    "org.freedownloadmanager.Manager",
     "org.gnome.moserial",
     "org.gpodder.gpodder",
     "org.kde.kget",
