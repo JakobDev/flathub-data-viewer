@@ -1,4 +1,5 @@
 [
+    "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
@@ -92,6 +93,7 @@
     "nl.hjdskes.gcolor3",
     "org.bluesabre.MenuLibre",
     "org.darktable.Darktable",
+    "org.emilien.Password",
     "org.entangle_photo.Manager",
     "org.equeim.Tremotesf",
     "org.fedoraproject.MediaWriter",

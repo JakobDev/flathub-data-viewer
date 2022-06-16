@@ -1,5 +1,6 @@
 [
     "app.rednotebook.RedNotebook",
+    "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
     "ca.parallel_launcher.ParallelLauncher",
     "com.belmoussaoui.Authenticator",

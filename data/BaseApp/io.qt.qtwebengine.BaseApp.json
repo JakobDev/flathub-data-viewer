@@ -32,13 +32,13 @@
     "6.2": [
         "com.rtosta.zapzap",
         "dev.lukebriggs.pepys",
-        "net.jami.Jami"
+        "net.jami.Jami",
+        "org.jaspstats.JASP"
     ],
     "5.15": [
         "com.wiz.Note",
         "io.github.maurycyliebner.enve",
         "io.github.wereturtle.ghostwriter",
-        "org.jaspstats.JASP",
         "org.mobsya.ThymioSuite"
     ]
 }
