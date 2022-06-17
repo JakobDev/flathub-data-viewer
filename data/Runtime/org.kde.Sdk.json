@@ -2,12 +2,12 @@
     "5.15-21.08": [
         "com.github.Murmele.scram",
         "com.gitlab.cutecom.cutecom",
+        "io.qt.QtCreator",
         "org.kde.kdevelop",
         "org.octave.Octave"
     ],
     "5.15": [
-        "io.github.dman95.SASM",
-        "io.qt.QtCreator"
+        "io.github.dman95.SASM"
     ],
     "6.2": [
         "io.qt.Linguist",
