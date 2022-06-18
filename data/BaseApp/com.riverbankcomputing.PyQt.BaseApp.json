@@ -14,6 +14,7 @@
     "6.2": [
         "com.gitlab.JakobDev.jdAppdataEdit",
         "com.gitlab.JakobDev.jdDiff",
+        "com.gitlab.JakobDev.jdEolConverter",
         "com.gitlab.JakobDev.jdMinecraftLauncher",
         "com.gitlab.JakobDev.jdReplace",
         "com.gitlab.JakobDev.jdTextEdit",

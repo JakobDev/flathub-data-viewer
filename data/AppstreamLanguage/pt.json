@@ -1,4 +1,5 @@
 [
+    "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
@@ -32,6 +33,7 @@
     "fr.romainvigier.MetadataCleaner",
     "im.kaidan.kaidan",
     "im.pidgin.Pidgin",
+    "io.bassi.Amberol",
     "io.github.Hexchat",
     "io.github.gillesdegottex.FMIT",
     "io.github.lainsce.Notejot",

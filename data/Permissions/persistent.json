@@ -12,6 +12,7 @@
         "com.github.mgropp.PdfJumbler",
         "com.github.reds.LogisimEvolution",
         "com.itextpdf.RUPS",
+        "com.lunarclient.LunarClient",
         "io.sourceforge.Pixelitor",
         "net.sourceforge.pdfchain",
         "org.briarproject.Briar",
@@ -118,6 +119,13 @@
     ".renpy": [
         "com.katawa_shoujo.KatawaShoujo"
     ],
+    ".minecraft": [
+        "com.lunarclient.LunarClient",
+        "com.mojang.Minecraft"
+    ],
+    ".lunarclient": [
+        "com.lunarclient.LunarClient"
+    ],
     ".config/gzdoom": [
         "com.moddb.TotalChaos",
         "com.realm667.Wolfenstein_Blade_of_Agony",
@@ -125,9 +133,6 @@
         "io.github.freedoom.Phase1",
         "io.github.freedoom.Phase2",
         "org.zdoom.GZDoom"
-    ],
-    ".minecraft": [
-        "com.mojang.Minecraft"
     ],
     ".cache": [
         "com.netease.CloudMusic"

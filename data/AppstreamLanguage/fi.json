@@ -1,4 +1,5 @@
 [
+    "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
@@ -22,6 +23,7 @@
     "dev.geopjr.Collision",
     "fr.romainvigier.MetadataCleaner",
     "im.pidgin.Pidgin",
+    "io.bassi.Amberol",
     "io.github.Hexchat",
     "io.github.celluloid_player.Celluloid",
     "io.github.quodlibet.ExFalso",

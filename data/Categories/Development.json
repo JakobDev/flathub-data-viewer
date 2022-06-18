@@ -32,6 +32,7 @@
     "com.github.treagod.spectator",
     "com.gitlab.JakobDev.jdAppdataEdit",
     "com.gitlab.JakobDev.jdDiff",
+    "com.gitlab.JakobDev.jdEolConverter",
     "com.gitlab.JakobDev.jdTextEdit",
     "com.google.AndroidStudio",
     "com.inform7.IDE",

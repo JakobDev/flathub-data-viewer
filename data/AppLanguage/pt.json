@@ -1,4 +1,5 @@
 [
+    "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
@@ -21,6 +22,7 @@
     "de.manuel_kehl.go-for-it",
     "fr.romainvigier.MetadataCleaner",
     "im.bernard.Funkcio",
+    "io.bassi.Amberol",
     "io.github.Hexchat",
     "io.github.cboxdoerfer.FSearch",
     "io.github.gillesdegottex.FMIT",

@@ -3,5 +3,6 @@
     "com.valvesoftware.Steam.CompatibilityTool.Proton-Exp",
     "com.valvesoftware.Steam.CompatibilityTool.Proton-GE",
     "com.valvesoftware.Steam.CompatibilityTool.Proton",
-    "com.valvesoftware.Steam.Utility.gamescope"
+    "com.valvesoftware.Steam.Utility.gamescope",
+    "com.valvesoftware.Steam.Utility.steamtinkerlaunch"
 ]

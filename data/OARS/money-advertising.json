@@ -1,6 +1,7 @@
 {
     "moderate": [
         "com.fightcade.Fightcade",
+        "com.lunarclient.LunarClient",
         "nl.lostboys.rollemup"
     ],
     "mild": [
