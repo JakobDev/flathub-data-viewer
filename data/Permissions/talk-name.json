@@ -671,6 +671,7 @@
         "chat.rocket.RocketChat",
         "chat.schildi.desktop",
         "co.headsetapp.headset",
+        "codes.loers.Karlender",
         "com.axosoft.GitKraken",
         "com.biglybt.BiglyBT",
         "com.bitwig.BitwigStudio",
@@ -871,6 +872,7 @@
         "org.firestormviewer.FirestormViewer",
         "org.flameshot.Flameshot",
         "org.freedesktop.GstDebugViewer",
+        "org.gajim.Gajim",
         "org.gnome.BreakTimer",
         "org.gnome.Contacts",
         "org.gnome.Evolution",
@@ -1307,6 +1309,7 @@
         "com.github.dail8859.NotepadNext",
         "com.github.git_cola.git-cola",
         "com.github.iwalton3.jellyfin-media-player",
+        "com.github.makhber.Makhber",
         "com.github.micahflee.torbrowser-launcher",
         "com.github.rssguard",
         "com.github.unrud.djpdf",
@@ -1388,6 +1391,7 @@
         "org.kde.kfind",
         "org.kde.kfourinline",
         "org.kde.kgeography",
+        "org.kde.kgeotag",
         "org.kde.kget",
         "org.kde.kgoldrunner",
         "org.kde.khangman",
@@ -1446,6 +1450,7 @@
         "org.kde.palapeli",
         "org.kde.picmi",
         "org.kde.pix",
+        "org.kde.ruqola",
         "org.kde.skrooge",
         "org.kde.tellico",
         "org.kde.umbrello",
@@ -1741,6 +1746,7 @@
         "cc.arduino.IDE2",
         "ch.protonmail.protonmail-bridge",
         "ch.protonmail.protonmail-import-export-app",
+        "codes.loers.Karlender",
         "com.axosoft.GitKraken",
         "com.belmoussaoui.Authenticator",
         "com.belmoussaoui.ReadItLater",
@@ -1850,8 +1856,10 @@
         "org.gabmus.unifydmin",
         "org.gnome.Photos"
     ],
-    "org.freedesktop.secrets.*": [
-        "codes.loers.Karlender"
+    "org.freedesktop.portal.background": [
+        "codes.loers.Karlender",
+        "gg.guilded.Guilded",
+        "org.signal.Signal"
     ],
     "org.gtk.vfs": [
         "com.axosoft.GitKraken",
@@ -2234,10 +2242,6 @@
     ],
     "org.freedesktop.networkmanager": [
         "ga.rpmtw.rpmlauncher"
-    ],
-    "org.freedesktop.portal.background": [
-        "gg.guilded.Guilded",
-        "org.signal.Signal"
     ],
     "org.kde.*": [
         "io.github.NhekoReborn.Nheko"

@@ -4,12 +4,12 @@
         "org.sugarlabs.Chart",
         "org.sugarlabs.ColorDeducto",
         "org.sugarlabs.Dimensions",
-        "org.sugarlabs.Finance"
+        "org.sugarlabs.Finance",
+        "org.sugarlabs.FotoToon",
+        "org.sugarlabs.FractionBounce"
     ],
     "21.04": [
         "org.sugarlabs.Chess",
-        "org.sugarlabs.FotoToon",
-        "org.sugarlabs.FractionBounce",
         "org.sugarlabs.ImplodeActivity",
         "org.sugarlabs.Maze",
         "org.sugarlabs.Measure",

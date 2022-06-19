@@ -140,7 +140,6 @@
         "org.zulip.Zulip",
         "pl.art.lach.slawek.V2BlankBrowser",
         "sh.ppy.osu",
-        "social.whalebird.WhalebirdDesktop",
         "ua.org.brezblock.q4wine"
     ],
     "xdg-config/kdeglobals:ro": [
@@ -1876,8 +1875,7 @@
         "com.spotify.Client",
         "com.valvesoftware.Steam",
         "gg.guilded.Guilded",
-        "sh.ppy.osu",
-        "social.whalebird.WhalebirdDesktop"
+        "sh.ppy.osu"
     ],
     "xdg-videos:ro": [
         "chat.revolt.RevoltDesktop",
@@ -1889,8 +1887,7 @@
         "com.sindresorhus.Caprine",
         "com.slack.Slack",
         "gg.guilded.Guilded",
-        "sh.ppy.osu",
-        "social.whalebird.WhalebirdDesktop"
+        "sh.ppy.osu"
     ],
     "xdg-run/gvfs": [
         "com.abisource.AbiWord",
