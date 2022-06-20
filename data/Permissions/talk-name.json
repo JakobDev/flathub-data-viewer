@@ -294,6 +294,7 @@
         "org.flatpak.qtdemo",
         "org.flightgear.FlightGear",
         "org.freecadweb.FreeCAD",
+        "org.freedownloadmanager.Manager",
         "org.frescobaldi.Frescobaldi",
         "org.fritzing.Fritzing",
         "org.genivi.DLTViewer",
@@ -872,6 +873,7 @@
         "org.firestormviewer.FirestormViewer",
         "org.flameshot.Flameshot",
         "org.freedesktop.GstDebugViewer",
+        "org.freedownloadmanager.Manager",
         "org.gajim.Gajim",
         "org.gnome.BreakTimer",
         "org.gnome.Contacts",
@@ -935,6 +937,7 @@
         "gg.guilded.Guilded",
         "io.github.kotatogram",
         "io.github.mimbrero.WhatsAppDesktop",
+        "org.freedownloadmanager.Manager",
         "org.remmina.Remmina",
         "org.sparkleshare.SparkleShare",
         "org.zim_wiki.Zim",
@@ -1303,6 +1306,7 @@
         "com.borgbase.Vorta",
         "com.darhon.syncbackup",
         "com.flashforge.FlashPrint",
+        "com.georgefb.quickaccess",
         "com.github.Murmele.Gittyup",
         "com.github._4lex4.ScanTailor-Advanced",
         "com.github.buddhi1980.mandelbulber2",
@@ -1474,6 +1478,7 @@
         "org.telesculptor.TeleSculptor",
         "org.texstudio.TeXstudio",
         "org.yuzu_emu.yuzu",
+        "studio.kx.carla",
         "website.i2pd.i2pd"
     ],
     "ca.desrt.dconf": [
@@ -2006,6 +2011,7 @@
         "com.ozmartians.VidCutter",
         "de.manuel_kehl.go-for-it",
         "gg.guilded.Guilded",
+        "org.freedownloadmanager.Manager",
         "social.whalebird.WhalebirdDesktop"
     ],
     "org.mpris.mediaplayer2.*": [

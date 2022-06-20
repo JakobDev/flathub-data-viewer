@@ -312,9 +312,8 @@
     ".local/share/Bisq": [
         "network.bisq.Bisq"
     ],
-    ".mozilla": [
-        "one.ablaze.floorp",
-        "org.mozilla.firefox"
+    ".floorp": [
+        "one.ablaze.floorp"
     ],
     ".ApacheDirectoryStudio": [
         "org.apache.directory.studio"
@@ -390,6 +389,9 @@
     ],
     ".thunderbird": [
         "org.mozilla.Thunderbird"
+    ],
+    ".mozilla": [
+        "org.mozilla.firefox"
     ],
     ".neverball": [
         "org.neverball.Neverball"

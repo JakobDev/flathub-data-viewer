@@ -2537,25 +2537,37 @@
     "xdg-data/gnome-background-properties:create": [
         "me.dusansimic.DynamicWallpaper"
     ],
+    "~/.config/lutris:ro": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.var/app/net.lutris.Lutris/data/lutris/pga.db:ro": [
+        "net.davidotek.pupgui2"
+    ],
     "~/.local/share/Steam": [
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/net.lutris.Lutris/data/lutris/runners/wine": [
         "net.davidotek.pupgui2"
     ],
-    "~/.config/heroic/tools": [
+    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/tools": [
         "net.davidotek.pupgui2"
     ],
-    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/tools": [
+    "~/.local/share/lutris/pga.db:ro": [
         "net.davidotek.pupgui2"
     ],
     "~/.local/share/lutris/runners/wine": [
         "net.davidotek.pupgui2"
     ],
-    "~/.var/app/com.valvesoftware.Steam/data/Steam": [
+    "~/.var/app/net.lutris.Lutris/config/lutris:ro": [
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/com.usebottles.bottles/data/bottles/runners": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/data/Steam": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.config/heroic/tools": [
         "net.davidotek.pupgui2"
     ],
     "~/.runelite:create": [
