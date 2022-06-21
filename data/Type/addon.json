@@ -272,6 +272,7 @@
     "org.gimp.GIMP.Plugin.Resynthesizer",
     "org.gnome.Boxes.Extension.OsinfoDb",
     "org.gnome.Crosswords.PuzzleSets.puzzlepull",
+    "org.gnome.Crosswords.PuzzleSets.pzzl",
     "org.gnome.Crosswords.PuzzleSets.xword-dl",
     "org.gnome.Games.LibretroPlugin.PicoDrive",
     "org.gnome.Totem.Videosite.YouTubeDl",

@@ -254,6 +254,9 @@
     ".goatattack": [
         "net.goatattack.goatattack"
     ],
+    ".config/KVIrc": [
+        "net.kvirc.KVIrc"
+    ],
     ".minetest": [
         "net.minetest.Minetest"
     ],
@@ -329,6 +332,9 @@
     ],
     ".electrum-dash": [
         "org.dash.electrum.electrum_dash"
+    ],
+    ".local/share/godot/app_userdata/LittleAdventure": [
+        "org.dupot.littleadventure"
     ],
     "/app/": [
         "org.eclipse.iot.fourdiac.Ide"

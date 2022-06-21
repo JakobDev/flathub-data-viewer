@@ -1,6 +1,7 @@
 [
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
+    "ca.parallel_launcher.ParallelLauncher",
     "ch.openboard.OpenBoard",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
@@ -95,6 +96,7 @@
     "io.github.pragha_music_player.pragha",
     "io.github.quodlibet.ExFalso",
     "io.github.quodlibet.QuodLibet",
+    "io.github.realmazharhussain.GdmSettings",
     "io.github.seadve.Breathing",
     "io.github.seadve.Mousai",
     "io.github.webcamoid.Webcamoid",

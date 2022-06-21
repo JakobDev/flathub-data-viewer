@@ -110,6 +110,7 @@
     "org.fritzing.Fritzing",
     "org.gaphor.Gaphor",
     "org.geany.Geany",
+    "org.getzola.zola",
     "org.ghidra_sre.Ghidra",
     "org.gnome.Boxes",
     "org.gnome.Builder",

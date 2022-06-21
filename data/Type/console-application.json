@@ -17,6 +17,7 @@
     "org.flathub.flatpak-external-data-checker",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",
+    "org.getzola.zola",
     "org.gnome.Pinpoint",
     "org.jreleaser.cli",
     "org.mosh.mosh",

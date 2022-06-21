@@ -1,6 +1,7 @@
 [
     "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
+    "ca.parallel_launcher.ParallelLauncher",
     "ch.openboard.OpenBoard",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",

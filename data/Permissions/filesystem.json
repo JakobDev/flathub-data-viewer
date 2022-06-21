@@ -88,6 +88,7 @@
         "net.baseart.Glide",
         "net.blockbench.Blockbench",
         "net.filebot.FileBot",
+        "net.kvirc.KVIrc",
         "net.sonobus.SonoBus",
         "net.sourceforge.Pdfedit",
         "net.sourceforge.jpdftweak.jPdfTweak",
@@ -345,6 +346,7 @@
         "net.jami.Jami",
         "net.jammr.jammr",
         "net.kuribo64.melonDS",
+        "net.kvirc.KVIrc",
         "net.mediaarea.AVIMetaEdit",
         "net.mediaarea.BWFMetaEdit",
         "net.mediaarea.DVAnalyzer",
@@ -742,6 +744,7 @@
         "com.rafaelmardojai.WebfontKitGenerator",
         "com.rawtherapee.RawTherapee",
         "com.rosegardenmusic.rosegarden",
+        "com.serveftp.officefactoring",
         "com.sigil_ebook.Sigil",
         "com.sireliah.Dragit",
         "com.sleepfiles.OSCAR",
@@ -1125,6 +1128,7 @@
         "com.github.Alcaro.Flips",
         "com.github.donadigo.appeditor",
         "com.github.joseexposito.touche",
+        "com.github.neithern.g4music",
         "com.virustotal.VirusTotalUploader",
         "io.github.kotatogram",
         "io.github.shiiion.primehack",
@@ -1441,6 +1445,7 @@
         "com.github.xournalpp.xournalpp",
         "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.davem.ClamTk",
+        "com.gitlab.inendi.Inspector",
         "com.gitlab.sat_metalab.Splash",
         "com.giuspen.cherrytree",
         "com.google.AndroidStudio",
@@ -1573,6 +1578,7 @@
         "org.gaphor.Gaphor",
         "org.geany.Geany",
         "org.geeqie.Geeqie",
+        "org.getzola.zola",
         "org.gimp.GIMP",
         "org.glimpse_editor.Glimpse",
         "org.gnome.Boxes",
@@ -2043,6 +2049,7 @@
         "com.github.ilai_deutel.kibi",
         "com.github.marktext.marktext",
         "com.github.neithern.g4music",
+        "com.gitlab.inendi.Inspector",
         "com.rawtherapee.RawTherapee",
         "com.zettlr.Zettlr",
         "io.github.maurycyliebner.enve",
@@ -2158,22 +2165,11 @@
         "com.github.needleandthread.vocal"
     ],
     "xdg-download:ro": [
-        "com.github.neithern.g4music",
         "com.github.optyfr.JRomManager",
         "io.bassi.Amberol",
         "io.github.Soundux",
         "org.opensurge2d.OpenSurge",
         "org.polymc.PolyMC"
-    ],
-    "xdg-music:ro": [
-        "com.github.neithern.g4music",
-        "com.greyrook.siptop",
-        "com.slack.Slack",
-        "com.spotify.Client",
-        "com.valvesoftware.Steam",
-        "io.bassi.Amberol",
-        "io.github.Soundux",
-        "sh.ppy.osu"
     ],
     "xdg-config/neothesia": [
         "com.github.polymeilex.neothesia"
@@ -2231,6 +2227,12 @@
     "~/.config/activitywatch": [
         "com.gitlab.cunidev.Workflow"
     ],
+    "/opt/inendi": [
+        "com.gitlab.inendi.Inspector"
+    ],
+    "~/.inendi": [
+        "com.gitlab.inendi.Inspector"
+    ],
     "xdg-data/flatpak:ro": [
         "com.gitlab.librebob.Athenaeum",
         "org.bluesabre.MenuLibre",
@@ -2254,6 +2256,15 @@
     ],
     "xdg-run/discord:create": [
         "com.googleplaymusicdesktopplayer.GPMDP"
+    ],
+    "xdg-music:ro": [
+        "com.greyrook.siptop",
+        "com.slack.Slack",
+        "com.spotify.Client",
+        "com.valvesoftware.Steam",
+        "io.bassi.Amberol",
+        "io.github.Soundux",
+        "sh.ppy.osu"
     ],
     "~/.local/share/flatpak/overrides": [
         "com.hack_computer.Clubhouse"
@@ -2470,13 +2481,7 @@
     "/var/log": [
         "io.github.rafaelfassi.QLogExplorer"
     ],
-    "/etc/dconf/profile/gdm": [
-        "io.github.realmazharhussain.GdmSettings"
-    ],
     "host-os": [
-        "io.github.realmazharhussain.GdmSettings"
-    ],
-    "/etc/dconf/db/gdm.d": [
         "io.github.realmazharhussain.GdmSettings"
     ],
     "~/GOG Games:create": [
@@ -2537,25 +2542,31 @@
     "xdg-data/gnome-background-properties:create": [
         "me.dusansimic.DynamicWallpaper"
     ],
-    "~/.config/lutris:ro": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.var/app/net.lutris.Lutris/data/lutris/pga.db:ro": [
+    "~/.local/share/lutris/runtime/dxvk": [
         "net.davidotek.pupgui2"
     ],
     "~/.local/share/Steam": [
         "net.davidotek.pupgui2"
     ],
+    "~/.var/app/net.lutris.Lutris/data/lutris/pga.db:ro": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.config/lutris:ro": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.config/heroic/tools": [
+        "net.davidotek.pupgui2"
+    ],
     "~/.var/app/net.lutris.Lutris/data/lutris/runners/wine": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.var/app/net.lutris.Lutris/data/lutris/runtime/dxvk": [
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/tools": [
         "net.davidotek.pupgui2"
     ],
     "~/.local/share/lutris/pga.db:ro": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.local/share/lutris/runners/wine": [
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/net.lutris.Lutris/config/lutris:ro": [
@@ -2567,7 +2578,7 @@
     "~/.var/app/com.valvesoftware.Steam/data/Steam": [
         "net.davidotek.pupgui2"
     ],
-    "~/.config/heroic/tools": [
+    "~/.local/share/lutris/runners/wine": [
         "net.davidotek.pupgui2"
     ],
     "~/.runelite:create": [
