@@ -2,15 +2,15 @@
     "22.06": [
         "org.sugarlabs.AbacusActivity",
         "org.sugarlabs.Chart",
+        "org.sugarlabs.Chess",
         "org.sugarlabs.ColorDeducto",
         "org.sugarlabs.Dimensions",
         "org.sugarlabs.Finance",
         "org.sugarlabs.FotoToon",
-        "org.sugarlabs.FractionBounce"
+        "org.sugarlabs.FractionBounce",
+        "org.sugarlabs.ImplodeActivity"
     ],
     "21.04": [
-        "org.sugarlabs.Chess",
-        "org.sugarlabs.ImplodeActivity",
         "org.sugarlabs.Maze",
         "org.sugarlabs.Measure",
         "org.sugarlabs.Memorize",

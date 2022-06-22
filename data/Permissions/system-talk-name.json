@@ -136,6 +136,7 @@
     "org.freedesktop.accounts": [
         "com.cassidyjames.plausible",
         "com.github.benpocalypse.Huely",
+        "com.github.bluesabre.darkbar",
         "com.github.childishgiant.mixer",
         "com.github.matfantinel.reminduck",
         "com.github.rajsolai.textsnatcher",

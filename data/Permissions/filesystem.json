@@ -197,6 +197,7 @@
         "com.github.shonumi.gbe-plus",
         "com.github.unrud.djpdf",
         "com.github.vkohaupt.vokoscreenNG",
+        "com.github.zocker_160.SyncThingy",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.gitlab.JakobDev.jdAppdataEdit",
         "com.gitlab.JakobDev.jdDiff",
@@ -1126,6 +1127,7 @@
         "ca.desrt.dconf-editor",
         "com.adobe.Flash-Player-Projector",
         "com.github.Alcaro.Flips",
+        "com.github.bluesabre.darkbar",
         "com.github.donadigo.appeditor",
         "com.github.joseexposito.touche",
         "com.github.neithern.g4music",
@@ -1443,6 +1445,7 @@
         "com.github.nihui.waifu2x-ncnn-vulkan",
         "com.github.qarmin.czkawka",
         "com.github.xournalpp.xournalpp",
+        "com.github.zocker_160.SyncThingy",
         "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.davem.ClamTk",
         "com.gitlab.inendi.Inspector",
@@ -2113,6 +2116,25 @@
         "com.github.donadigo.appeditor",
         "org.bluesabre.MenuLibre"
     ],
+    "xdg-config/autostart:create": [
+        "com.github.bluesabre.darkbar",
+        "com.github.hluk.copyq",
+        "com.github.matfantinel.reminduck",
+        "com.github.rssguard",
+        "com.rtosta.zapzap",
+        "it.mijorus.smile"
+    ],
+    "/var/lib/flatpak/app:ro": [
+        "com.github.bluesabre.darkbar",
+        "com.github.tchx84.Flatseal",
+        "com.hack_computer.Clubhouse",
+        "io.github.shiftey.Desktop"
+    ],
+    "xdg-data/flatpak/app:ro": [
+        "com.github.bluesabre.darkbar",
+        "com.github.tchx84.Flatseal",
+        "io.github.shiftey.Desktop"
+    ],
     "xdg-cache": [
         "com.github.cfcurtis.pdfstitcher",
         "net.sourceforge.pdfchain",
@@ -2125,13 +2147,6 @@
         "com.github.flxzt.rnote",
         "com.gitlab.cunidev.Gestures",
         "com.tracktion.Waveform"
-    ],
-    "xdg-config/autostart:create": [
-        "com.github.hluk.copyq",
-        "com.github.matfantinel.reminduck",
-        "com.github.rssguard",
-        "com.rtosta.zapzap",
-        "it.mijorus.smile"
     ],
     "/var/tmp": [
         "com.github.ilai_deutel.kibi",
@@ -2199,15 +2214,6 @@
     ],
     "xdg-data/flatpak/overrides:create": [
         "com.github.tchx84.Flatseal"
-    ],
-    "/var/lib/flatpak/app:ro": [
-        "com.github.tchx84.Flatseal",
-        "com.hack_computer.Clubhouse",
-        "io.github.shiftey.Desktop"
-    ],
-    "xdg-data/flatpak/app:ro": [
-        "com.github.tchx84.Flatseal",
-        "io.github.shiftey.Desktop"
     ],
     "~/.themes:create": [
         "com.github.themix_project.Oomox"

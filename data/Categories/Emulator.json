@@ -1,6 +1,7 @@
 [
     "app.xemu.xemu",
     "ca._0ldsk00l.Nestopia",
+    "ca.parallel_launcher.ParallelLauncher",
     "com.carpeludum.KegaFusion",
     "com.dosbox.DOSBox",
     "com.dosbox_x.DOSBox-X",
