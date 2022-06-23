@@ -26,16 +26,6 @@
         "org.coolero.Coolero",
         "org.cznic.Datovka",
         "org.fedoraproject.MediaWriter",
-        "org.gottcode.Connectagram",
-        "org.gottcode.CuteMaze",
-        "org.gottcode.Gottet",
-        "org.gottcode.Hexalate",
-        "org.gottcode.Kapow",
-        "org.gottcode.NovProg",
-        "org.gottcode.Peg-E",
-        "org.gottcode.Simsu",
-        "org.gottcode.Tanglet",
-        "org.gottcode.Tetzle",
         "org.jaspstats.JASP",
         "org.linux_hardware.hw-probe",
         "org.profex_xrd.Profex",
@@ -52,6 +42,7 @@
         "ch.theologeek.Manuskript",
         "com.borgbase.Vorta",
         "com.chatterino.chatterino",
+        "com.cuperino.qprompt",
         "com.darhon.drfinance",
         "com.darhon.syncbackup",
         "com.flashforge.FlashPrint",
@@ -418,7 +409,6 @@
         "be.telenet.user.QSSTV",
         "cc.retroshare.retroshare-gui",
         "com.codemouse92.timecard",
-        "com.cuperino.qprompt",
         "com.eminfedar.vaktisalah",
         "com.github.Qv2ray",
         "com.github.gyunaev.spivak",
@@ -496,5 +486,17 @@
     ],
     "5.9": [
         "io.qt.qtwebkit.BaseApp"
+    ],
+    "6.3": [
+        "org.gottcode.Connectagram",
+        "org.gottcode.CuteMaze",
+        "org.gottcode.Gottet",
+        "org.gottcode.Hexalate",
+        "org.gottcode.Kapow",
+        "org.gottcode.NovProg",
+        "org.gottcode.Peg-E",
+        "org.gottcode.Simsu",
+        "org.gottcode.Tanglet",
+        "org.gottcode.Tetzle"
     ]
 }

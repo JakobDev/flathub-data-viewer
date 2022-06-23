@@ -1228,8 +1228,7 @@
         "org.rncbc.qtractor",
         "org.shotcut.Shotcut",
         "org.zrythm.Zrythm",
-        "studio.kx.carla",
-        "us.zoom.Zoom"
+        "studio.kx.carla"
     ],
     "xdg-run/dconf": [
         "ar.com.tuxguitar.TuxGuitar",
@@ -2124,15 +2123,15 @@
         "com.rtosta.zapzap",
         "it.mijorus.smile"
     ],
+    "xdg-data/flatpak/app:ro": [
+        "com.github.bluesabre.darkbar",
+        "com.github.tchx84.Flatseal",
+        "io.github.shiftey.Desktop"
+    ],
     "/var/lib/flatpak/app:ro": [
         "com.github.bluesabre.darkbar",
         "com.github.tchx84.Flatseal",
         "com.hack_computer.Clubhouse",
-        "io.github.shiftey.Desktop"
-    ],
-    "xdg-data/flatpak/app:ro": [
-        "com.github.bluesabre.darkbar",
-        "com.github.tchx84.Flatseal",
         "io.github.shiftey.Desktop"
     ],
     "xdg-cache": [

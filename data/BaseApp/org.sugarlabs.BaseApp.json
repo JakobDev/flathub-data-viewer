@@ -8,11 +8,11 @@
         "org.sugarlabs.Finance",
         "org.sugarlabs.FotoToon",
         "org.sugarlabs.FractionBounce",
-        "org.sugarlabs.ImplodeActivity"
+        "org.sugarlabs.ImplodeActivity",
+        "org.sugarlabs.Maze",
+        "org.sugarlabs.Measure"
     ],
     "21.04": [
-        "org.sugarlabs.Maze",
-        "org.sugarlabs.Measure",
         "org.sugarlabs.Memorize",
         "org.sugarlabs.MusicKeyboard",
         "org.sugarlabs.Paint",
