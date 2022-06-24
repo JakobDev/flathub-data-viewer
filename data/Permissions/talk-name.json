@@ -1486,6 +1486,7 @@
         "org.plomgrading.PlomClient",
         "org.polymc.PolyMC",
         "org.purei.Play",
+        "org.pymol.PyMOL",
         "org.qbittorrent.qBittorrent",
         "org.qelectrotech.QElectroTech",
         "org.qgis.qgis",
@@ -1564,6 +1565,7 @@
         "com.neatdecisions.Detwinner",
         "com.rawtherapee.RawTherapee",
         "com.transmissionbt.Transmission",
+        "com.zettlr.Zettlr",
         "cz.zeropage.Formiko",
         "de.create3000.titania",
         "edu.stanford.Almond",
@@ -1889,7 +1891,6 @@
     "org.gtk.vfs": [
         "com.axosoft.GitKraken",
         "com.github.alainm23.byte",
-        "com.github.artemanufrij.playmymusic",
         "com.github.calo001.fondo",
         "com.github.junrrein.PDFSlicer",
         "com.lettier.movie-monad",

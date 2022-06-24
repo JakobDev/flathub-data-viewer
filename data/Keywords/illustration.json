@@ -1,4 +1,5 @@
 [
+    "com.boxy_svg.BoxySVG",
     "io.sourceforge.Pixelitor",
     "org.gimp.GIMP",
     "org.glimpse_editor.Glimpse"

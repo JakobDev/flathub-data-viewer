@@ -6,7 +6,6 @@
         "com.github.arshubham.cipher",
         "com.github.arshubham.gitignore",
         "com.github.artemanufrij.graphui",
-        "com.github.artemanufrij.playmymusic",
         "com.github.artemanufrij.playmyvideos",
         "com.github.artemanufrij.regextester",
         "com.github.babluboy.bookworm",
@@ -24,6 +23,7 @@
     ],
     "juno-21.08": [
         "com.github.alainm23.planner",
+        "com.github.artemanufrij.playmymusic",
         "com.github.benpocalypse.Huely",
         "com.github.dahenson.agenda",
         "com.github.louis77.tuner",

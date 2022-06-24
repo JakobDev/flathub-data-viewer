@@ -3,6 +3,7 @@
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
+    "com.boxy_svg.BoxySVG",
     "com.calibre_ebook.calibre",
     "com.github.bluesabre.darkbar",
     "com.github.gi_lom.dialect",

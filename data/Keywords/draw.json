@@ -1,4 +1,5 @@
 [
+    "com.boxy_svg.BoxySVG",
     "com.github.PintaProject.Pinta",
     "com.github.artemanufrij.graphui",
     "com.jgraph.drawio"
