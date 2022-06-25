@@ -1,5 +1,6 @@
 [
     "com.github.coslyk.MoonPlayer",
+    "com.vzhd1701.gridplayer",
     "info.smplayer.SMPlayer",
     "io.mpv.Mpv",
     "org.kde.haruna",

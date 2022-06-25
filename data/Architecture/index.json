@@ -2,7 +2,6 @@
     "description": "Shows all Apps which supports the given Architecture",
     "data": [
         "aarch64",
-        "arm",
         "x86_64"
     ],
     "dataNames": {}

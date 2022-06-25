@@ -13,6 +13,8 @@
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.gedit",
+    "org.kde.kalk",
+    "org.kde.kclock",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint"
 ]

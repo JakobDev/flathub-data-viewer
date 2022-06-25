@@ -1,6 +1,7 @@
 [
     "com.dosbox_x.DOSBox-X",
     "com.system76.Popsicle",
+    "com.vzhd1701.gridplayer",
     "io.github.peazip.PeaZip",
     "org.cubocore.CoreArchiver",
     "org.gnome.Boxes",

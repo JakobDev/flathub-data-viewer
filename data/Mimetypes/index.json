@@ -908,6 +908,8 @@
         "application{SLASH}x-zsh",
         "application{SLASH}x-zstd-compressed-tar",
         "application{SLASH}x-zygo-spm",
+        "application{SLASH}x.scratch.sb",
+        "application{SLASH}x.scratch.sb2",
         "application{SLASH}x.scratch.sb3",
         "application{SLASH}xhtml+xml",
         "application{SLASH}xhtml_xml",

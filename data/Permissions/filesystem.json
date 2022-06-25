@@ -1130,7 +1130,6 @@
         "com.github.bluesabre.darkbar",
         "com.github.donadigo.appeditor",
         "com.github.joseexposito.touche",
-        "com.github.neithern.g4music",
         "com.virustotal.VirusTotalUploader",
         "io.github.kotatogram",
         "io.github.shiiion.primehack",
@@ -1333,6 +1332,7 @@
         "com.github.junrrein.PDFSlicer",
         "com.github.needleandthread.vocal",
         "com.github.neithern.g4music",
+        "com.github.rafostar.Clapper",
         "com.github.xournalpp.xournalpp",
         "com.giuspen.cherrytree",
         "com.icons8.Lunacy",
@@ -2179,11 +2179,22 @@
         "com.github.needleandthread.vocal"
     ],
     "xdg-download:ro": [
+        "com.github.neithern.g4music",
         "com.github.optyfr.JRomManager",
         "io.bassi.Amberol",
         "io.github.Soundux",
         "org.opensurge2d.OpenSurge",
         "org.polymc.PolyMC"
+    ],
+    "xdg-music:ro": [
+        "com.github.neithern.g4music",
+        "com.greyrook.siptop",
+        "com.slack.Slack",
+        "com.spotify.Client",
+        "com.valvesoftware.Steam",
+        "io.bassi.Amberol",
+        "io.github.Soundux",
+        "sh.ppy.osu"
     ],
     "xdg-config/neothesia": [
         "com.github.polymeilex.neothesia"
@@ -2261,15 +2272,6 @@
     ],
     "xdg-run/discord:create": [
         "com.googleplaymusicdesktopplayer.GPMDP"
-    ],
-    "xdg-music:ro": [
-        "com.greyrook.siptop",
-        "com.slack.Slack",
-        "com.spotify.Client",
-        "com.valvesoftware.Steam",
-        "io.bassi.Amberol",
-        "io.github.Soundux",
-        "sh.ppy.osu"
     ],
     "~/.local/share/flatpak/overrides": [
         "com.hack_computer.Clubhouse"
