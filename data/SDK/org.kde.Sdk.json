@@ -458,8 +458,7 @@
         "org.shadowsocks.qt5client",
         "org.subsurface_divelog.Subsurface",
         "org.tomviz.Tomviz",
-        "org.tordini.flavio.Minitube",
-        "uk.org.zint.zint-qt"
+        "org.tordini.flavio.Minitube"
     ],
     "5.14": [
         "com.dhsdevelopments.Climaxima",
@@ -497,6 +496,7 @@
         "org.gottcode.Peg-E",
         "org.gottcode.Simsu",
         "org.gottcode.Tanglet",
-        "org.gottcode.Tetzle"
+        "org.gottcode.Tetzle",
+        "uk.org.zint.zint-qt"
     ]
 }
