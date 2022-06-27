@@ -10,7 +10,6 @@
         "com.atlauncher.ATLauncher",
         "com.boxy_svg.BoxySVG",
         "com.brave.Browser",
-        "com.dangeredwolf.ModernDeck",
         "com.darhon.drfinance",
         "com.discordapp.Discord",
         "com.diy_fever.DIYLayoutCreator",
@@ -1875,7 +1874,6 @@
     "xdg-pictures:ro": [
         "chat.revolt.RevoltDesktop",
         "chat.tandem.Client",
-        "com.dangeredwolf.ModernDeck",
         "com.discordapp.Discord",
         "com.greyrook.siptop",
         "com.meetfranz.Franz",
@@ -1889,7 +1887,6 @@
     "xdg-videos:ro": [
         "chat.revolt.RevoltDesktop",
         "chat.tandem.Client",
-        "com.dangeredwolf.ModernDeck",
         "com.discordapp.Discord",
         "com.greyrook.siptop",
         "com.meetfranz.Franz",
@@ -2177,6 +2174,9 @@
     ],
     "~/.local/share/textpieces:create": [
         "com.github.liferooter.textpieces"
+    ],
+    "xdg-cache/pokete:create": [
+        "com.github.lxgr_linux.pokete"
     ],
     "xdg-data/vocal:create": [
         "com.github.needleandthread.vocal"
