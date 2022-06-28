@@ -1,5 +1,7 @@
 {
     "x11": [
+        "app.authpass.AuthPass",
+        "app.bluebubbles.BlueBubbles",
         "app.drey.Warp",
         "app.getspace.Space",
         "app.lith.Lith",
@@ -325,6 +327,7 @@
         "com.github.tenderowl.frog",
         "com.github.tenderowl.norka",
         "com.github.tglima.Myfluttercrypto",
+        "com.github.theironrobin.siglo",
         "com.github.themix_project.Oomox",
         "com.github.tmewett.BrogueCE",
         "com.github.treagod.spectator",
@@ -431,6 +434,7 @@
         "com.microsoft.Teams",
         "com.moddb.TotalChaos",
         "com.mojang.Minecraft",
+        "com.mongodb.Compass",
         "com.moonlight_stream.Moonlight",
         "com.mousepawmedia.omission",
         "com.musixmatch.Musixmatch",
@@ -1670,6 +1674,7 @@
         "xyz.z3ntu.razergenie"
     ],
     "wayland": [
+        "app.authpass.AuthPass",
         "app.drey.Warp",
         "app.getspace.Space",
         "app.lith.Lith",
@@ -1892,6 +1897,7 @@
         "com.github.tenderowl.frog",
         "com.github.tenderowl.norka",
         "com.github.tglima.Myfluttercrypto",
+        "com.github.theironrobin.siglo",
         "com.github.tmewett.BrogueCE",
         "com.github.treagod.spectator",
         "com.github.unrud.VideoDownloader",
@@ -2781,6 +2787,7 @@
         "xyz.z3ntu.razergenie"
     ],
     "fallback-x11": [
+        "app.authpass.AuthPass",
         "app.drey.Warp",
         "app.getspace.Space",
         "app.lith.Lith",
@@ -2940,6 +2947,7 @@
         "com.github.tenderowl.frog",
         "com.github.tenderowl.norka",
         "com.github.tglima.Myfluttercrypto",
+        "com.github.theironrobin.siglo",
         "com.github.tmewett.BrogueCE",
         "com.github.treagod.spectator",
         "com.github.unrud.RemoteTouchpad",
@@ -3495,6 +3503,7 @@
         "xyz.mx_moment.moment"
     ],
     "pulseaudio": [
+        "app.bluebubbles.BlueBubbles",
         "app.midterm.MidtermDesktop",
         "app.moosync.moosync",
         "app.xemu.xemu",
@@ -3687,6 +3696,7 @@
         "com.microsoft.Teams",
         "com.moddb.TotalChaos",
         "com.mojang.Minecraft",
+        "com.mongodb.Compass",
         "com.moonlight_stream.Moonlight",
         "com.mousepawmedia.omission",
         "com.netease.CloudMusic",

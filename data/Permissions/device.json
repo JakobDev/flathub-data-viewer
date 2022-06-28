@@ -1,5 +1,7 @@
 {
     "dri": [
+        "app.authpass.AuthPass",
+        "app.bluebubbles.BlueBubbles",
         "app.drey.Warp",
         "app.getspace.Space",
         "app.lith.Lith",

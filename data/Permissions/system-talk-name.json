@@ -1,4 +1,29 @@
 {
+    "org.freedesktop.networkmanager.connection.active": [
+        "app.bluebubbles.BlueBubbles"
+    ],
+    "org.freedesktop.networkmanager": [
+        "app.bluebubbles.BlueBubbles",
+        "com.borgbase.Vorta",
+        "com.github.Matoking.protontricks",
+        "com.github.gabutakut.gabutdm",
+        "com.skype.Client",
+        "com.valvesoftware.Steam",
+        "io.github.prateekmedia.pstube",
+        "io.gitlab.librewolf-community",
+        "one.ablaze.floorp",
+        "org.claws_mail.Claws-Mail",
+        "org.gnome.NetworkDisplays",
+        "org.kde.akregator",
+        "org.kde.kontact",
+        "org.mozilla.firefox",
+        "org.syphon.Syphon",
+        "ru.proninyaroslav.libretrack",
+        "ua.org.brezblock.q4wine"
+    ],
+    "org.freedesktop.filemanager1": [
+        "app.bluebubbles.BlueBubbles"
+    ],
     "org.freedesktop.realtimekit1": [
         "ar.com.tuxguitar.TuxGuitar",
         "com.giadamusic.Giada",
@@ -29,6 +54,7 @@
     "org.bluez": [
         "com.avocode.Avocode",
         "com.github.alexr4535.siglo",
+        "com.github.theironrobin.siglo",
         "com.skype.Client",
         "edu.stanford.Almond",
         "io.emeric.watchflower",
@@ -38,24 +64,6 @@
         "org.freedesktop.Tuhi",
         "org.gnome.Keysign",
         "org.subsurface_divelog.Subsurface"
-    ],
-    "org.freedesktop.networkmanager": [
-        "com.borgbase.Vorta",
-        "com.github.Matoking.protontricks",
-        "com.github.gabutakut.gabutdm",
-        "com.skype.Client",
-        "com.valvesoftware.Steam",
-        "io.github.prateekmedia.pstube",
-        "io.gitlab.librewolf-community",
-        "one.ablaze.floorp",
-        "org.claws_mail.Claws-Mail",
-        "org.gnome.NetworkDisplays",
-        "org.kde.akregator",
-        "org.kde.kontact",
-        "org.mozilla.firefox",
-        "org.syphon.Syphon",
-        "ru.proninyaroslav.libretrack",
-        "ua.org.brezblock.q4wine"
     ],
     "org.freedesktop.avahi": [
         "com.brave.Browser",

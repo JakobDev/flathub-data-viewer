@@ -1,4 +1,5 @@
 [
+    "app.authpass.AuthPass",
     "app.moosync.moosync",
     "app.riftshare.RiftShare",
     "art.taunoerik.tauno-serial-plotter",

@@ -1,4 +1,5 @@
 [
+    "app.authpass.AuthPass",
     "com.belmoussaoui.Authenticator",
     "com.github.alexkdeveloper.forgetpass",
     "com.github.muriloventuroso.easyssh",

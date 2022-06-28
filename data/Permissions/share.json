@@ -1,5 +1,7 @@
 {
     "network": [
+        "app.authpass.AuthPass",
+        "app.bluebubbles.BlueBubbles",
         "app.drey.Warp",
         "app.getspace.Space",
         "app.lith.Lith",
@@ -195,6 +197,7 @@
         "com.github.tenderowl.frog",
         "com.github.tenderowl.norka",
         "com.github.tglima.Myfluttercrypto",
+        "com.github.theironrobin.siglo",
         "com.github.tmewett.BrogueCE",
         "com.github.treagod.spectator",
         "com.github.unrud.RemoteTouchpad",
@@ -264,6 +267,7 @@
         "com.microsoft.Edge",
         "com.microsoft.Teams",
         "com.mojang.Minecraft",
+        "com.mongodb.Compass",
         "com.moonlight_stream.Moonlight",
         "com.musixmatch.Musixmatch",
         "com.netease.CloudMusic",
@@ -1035,6 +1039,8 @@
         "xyz.z3ntu.razergenie"
     ],
     "ipc": [
+        "app.authpass.AuthPass",
+        "app.bluebubbles.BlueBubbles",
         "app.drey.Warp",
         "app.lith.Lith",
         "app.midterm.MidtermDesktop",
@@ -1346,6 +1352,7 @@
         "com.github.tenderowl.frog",
         "com.github.tenderowl.norka",
         "com.github.tglima.Myfluttercrypto",
+        "com.github.theironrobin.siglo",
         "com.github.themix_project.Oomox",
         "com.github.tmewett.BrogueCE",
         "com.github.unrud.VideoDownloader",
@@ -1442,6 +1449,7 @@
         "com.microsoft.Teams",
         "com.moddb.TotalChaos",
         "com.mojang.Minecraft",
+        "com.mongodb.Compass",
         "com.moonlight_stream.Moonlight",
         "com.mousepawmedia.omission",
         "com.musixmatch.Musixmatch",

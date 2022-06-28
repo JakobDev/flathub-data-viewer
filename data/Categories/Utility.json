@@ -1,4 +1,6 @@
 [
+    "app.authpass.AuthPass",
+    "app.bluebubbles.BlueBubbles",
     "app.drey.Warp",
     "app.moosync.moosync",
     "app.riftshare.RiftShare",
@@ -82,6 +84,7 @@
     "com.github.tchx84.Flatseal",
     "com.github.tenderowl.frog",
     "com.github.tglima.Myfluttercrypto",
+    "com.github.theironrobin.siglo",
     "com.gitlab.JakobDev.jdDiff",
     "com.gitlab.JakobDev.jdEolConverter",
     "com.gitlab.JakobDev.jdReplace",
@@ -103,6 +106,7 @@
     "com.leinardi.gwe",
     "com.leinardi.gx52",
     "com.mattjakeman.ExtensionManager",
+    "com.mongodb.Compass",
     "com.musixmatch.Musixmatch",
     "com.neatdecisions.Detwinner",
     "com.nextcloud.desktopclient.nextcloud",

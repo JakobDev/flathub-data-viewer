@@ -49,6 +49,7 @@
     "bluetooth": [
         "com.github.Matoking.protontricks",
         "com.github.alexr4535.siglo",
+        "com.github.theironrobin.siglo",
         "com.valvesoftware.Steam",
         "io.emeric.watchflower",
         "io.github.shiiion.primehack",

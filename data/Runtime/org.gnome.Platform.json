@@ -1,5 +1,6 @@
 {
     "42": [
+        "app.bluebubbles.BlueBubbles",
         "app.drey.Warp",
         "app.riftshare.RiftShare",
         "ar.xjuan.Cambalache",
@@ -37,6 +38,7 @@
         "com.github.artemanufrij.playmymusic",
         "com.github.avojak.paint-spill",
         "com.github.avojak.warble",
+        "com.github.bleakgrey.tootle",
         "com.github.bluesabre.darkbar",
         "com.github.carlos157oliveira.Calculus",
         "com.github.eneshecan.WhatsAppForLinux",
@@ -67,6 +69,7 @@
         "com.github.taiko2k.tauonmb",
         "com.github.tchx84.Flatseal",
         "com.github.tenderowl.frog",
+        "com.github.theironrobin.siglo",
         "com.github.unrud.VideoDownloader",
         "com.github.utsushi.Utsushi",
         "com.github.vikdevelop.VCalculator",
@@ -332,7 +335,6 @@
         "com.github.artemanufrij.playmyvideos",
         "com.github.babluboy.bookworm",
         "com.github.bcedu.valasimplehttpserver",
-        "com.github.bleakgrey.tootle",
         "com.github.donadigo.appeditor",
         "com.github.edenalencar.identifications",
         "com.github.huluti.Coulr",

@@ -1,7 +1,6 @@
 {
     "20.08": [
         "app.midterm.MidtermDesktop",
-        "com.sublimemerge.App",
         "com.synology.SynologyDrive",
         "io.atom.Atom",
         "org.scilab.Scilab"
@@ -22,6 +21,7 @@
         "com.jetbrains.WebStorm",
         "com.okta.developer.CLI",
         "com.steamgriddb.steam-rom-manager",
+        "com.sublimemerge.App",
         "com.sublimetext.three",
         "com.synology.SynologyAssistant",
         "com.unity.UnityHub",
