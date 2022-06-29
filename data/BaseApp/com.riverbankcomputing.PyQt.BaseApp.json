@@ -1,5 +1,6 @@
 {
     "5.15-21.08": [
+        "com.borgbase.Vorta",
         "com.github.git_cola.git-cola",
         "com.sigil_ebook.Sigil",
         "io.github.ciromattia.kcc",

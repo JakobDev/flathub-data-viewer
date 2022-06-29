@@ -1,6 +1,5 @@
 [
     "app.authpass.AuthPass",
-    "app.bluebubbles.BlueBubbles",
     "app.drey.Warp",
     "app.moosync.moosync",
     "app.riftshare.RiftShare",
@@ -36,6 +35,7 @@
     "com.github.alainm23.planner",
     "com.github.alecaddd.sequeler",
     "com.github.alexkdeveloper.desktop-files-creator",
+    "com.github.alexkdeveloper.forgetpass",
     "com.github.alexkdeveloper.notepad",
     "com.github.alexr4535.siglo",
     "com.github.arminstraub.krop",

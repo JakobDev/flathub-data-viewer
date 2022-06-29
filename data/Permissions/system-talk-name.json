@@ -24,6 +24,27 @@
     "org.freedesktop.filemanager1": [
         "app.bluebubbles.BlueBubbles"
     ],
+    "org.freedesktop.login1": [
+        "app.drey.Warp",
+        "com.github.iwalton3.jellyfin-media-player",
+        "com.github.taiko2k.tauonmb",
+        "com.github.ztefn.haguichi",
+        "com.skype.Client",
+        "com.toggl.TogglDesktop",
+        "com.visualstudio.code",
+        "com.vscodium.codium",
+        "io.github.Fndroid.clash_for_windows",
+        "io.github.cges30901.hmtimer",
+        "org.freedesktop.fwupd",
+        "org.gajim.Gajim",
+        "org.gnome.Calendar",
+        "org.gnome.Firmware",
+        "org.gnome.GTG",
+        "org.gnome.Music",
+        "org.gnome.OfficeRunner",
+        "org.gnome.Todo",
+        "tv.kodi.Kodi"
+    ],
     "org.freedesktop.realtimekit1": [
         "ar.com.tuxguitar.TuxGuitar",
         "com.giadamusic.Giada",
@@ -152,26 +173,6 @@
         "com.hack_computer.Clubhouse",
         "com.ktechpit.wonderwall",
         "org.gnome.Boxes"
-    ],
-    "org.freedesktop.login1": [
-        "com.github.iwalton3.jellyfin-media-player",
-        "com.github.taiko2k.tauonmb",
-        "com.github.ztefn.haguichi",
-        "com.skype.Client",
-        "com.toggl.TogglDesktop",
-        "com.visualstudio.code",
-        "com.vscodium.codium",
-        "io.github.Fndroid.clash_for_windows",
-        "io.github.cges30901.hmtimer",
-        "org.freedesktop.fwupd",
-        "org.gajim.Gajim",
-        "org.gnome.Calendar",
-        "org.gnome.Firmware",
-        "org.gnome.GTG",
-        "org.gnome.Music",
-        "org.gnome.OfficeRunner",
-        "org.gnome.Todo",
-        "tv.kodi.Kodi"
     ],
     "org.freedesktop.geoclue2": [
         "com.gitlab.bitseater.meteo",

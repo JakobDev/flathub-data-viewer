@@ -9,7 +9,7 @@
     "5.15": [
         "io.github.dman95.SASM"
     ],
-    "6.2": [
+    "6.3": [
         "io.qt.Linguist",
         "io.qt.qdbusviewer"
     ]

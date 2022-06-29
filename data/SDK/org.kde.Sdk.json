@@ -15,8 +15,6 @@
         "cz.cvut.edu.comparch.qtrvsim",
         "dev.lukebriggs.pepys",
         "eu.skribisto.skribisto",
-        "io.qt.Linguist",
-        "io.qt.qdbusviewer",
         "net.davidotek.pupgui2",
         "net.jami.Jami",
         "net.sourceforge.VMPK",
@@ -483,10 +481,9 @@
         "io.liri.Text",
         "org.rolisteam.rolisteam"
     ],
-    "5.9": [
-        "io.qt.qtwebkit.BaseApp"
-    ],
     "6.3": [
+        "io.qt.Linguist",
+        "io.qt.qdbusviewer",
         "org.gottcode.Connectagram",
         "org.gottcode.CuteMaze",
         "org.gottcode.Gottet",
@@ -498,5 +495,8 @@
         "org.gottcode.Tanglet",
         "org.gottcode.Tetzle",
         "uk.org.zint.zint-qt"
+    ],
+    "5.9": [
+        "io.qt.qtwebkit.BaseApp"
     ]
 }

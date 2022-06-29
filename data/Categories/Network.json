@@ -1,4 +1,5 @@
 [
+    "app.bluebubbles.BlueBubbles",
     "app.lith.Lith",
     "app.moosync.moosync",
     "app.riftshare.RiftShare",
