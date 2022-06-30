@@ -7,6 +7,8 @@
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.nextcloud.desktopclient.nextcloud",
         "com.stremio.Stremio",
+        "io.github.wereturtle.ghostwriter",
+        "io.mrarm.mcpelauncher",
         "net.mediaarea.MediaConch",
         "net.sonic_pi.SonicPi",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
@@ -39,7 +41,6 @@
     "5.15": [
         "com.wiz.Note",
         "io.github.maurycyliebner.enve",
-        "io.github.wereturtle.ghostwriter",
         "org.mobsya.ThymioSuite"
     ]
 }

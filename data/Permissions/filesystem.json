@@ -664,6 +664,7 @@
         "io.liri.Text",
         "io.lmms.LMMS",
         "io.mgba.mGBA",
+        "io.mrarm.mcpelauncher",
         "io.photoflare.photoflare",
         "io.qt.Linguist",
         "io.qt.QtCreator",
@@ -2029,6 +2030,7 @@
         "org.ferdium.Ferdium",
         "org.gnome.Epiphany",
         "org.gnome.Evolution",
+        "org.mozilla.Thunderbird",
         "org.qutebrowser.qutebrowser",
         "se.cendio.tlclient"
     ],

@@ -536,6 +536,7 @@
         "io.lbry.lbry-app",
         "io.mgba.mGBA",
         "io.mpv.Mpv",
+        "io.mrarm.mcpelauncher",
         "io.neovim.nvim",
         "io.openrct2.OpenRCT2",
         "io.poez.Poezio",
