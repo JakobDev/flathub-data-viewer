@@ -38,7 +38,8 @@
     ],
     ".config": [
         "com.bluejeans.BlueJeans",
-        "com.netease.CloudMusic"
+        "com.netease.CloudMusic",
+        "org.surge_synth_team.surge-xt"
     ],
     ".pki": [
         "com.bluejeans.BlueJeans",

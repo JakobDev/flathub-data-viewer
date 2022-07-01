@@ -152,6 +152,7 @@
     "com.powerball253.eternalmodmanager",
     "com.prusa3d.PrusaSlicer",
     "com.qq.QQmusic",
+    "com.raggesilver.BlackBox",
     "com.rawtherapee.RawTherapee",
     "com.remnantsoftheprecursors.ROTP",
     "com.revolutionarygamesstudio.ThriveLauncher",
@@ -192,6 +193,7 @@
     "de.uni_heidelberg.zah.GaiaSky",
     "dev.goats.xivlauncher",
     "dev.lapce.lapce",
+    "dev.linwood.butterfly",
     "dev.paullee.scraterpreter.Scrape",
     "dev.paullee.scraterpreter.Scrapec",
     "edu.berkeley.BOINC",
@@ -255,6 +257,7 @@
     "io.openrct2.OpenRCT2",
     "io.otsaloma.gaupol",
     "io.poez.Poezio",
+    "io.qt.Designer",
     "io.sourceforge.qoobar.Qoobar",
     "io.typora.Typora",
     "io.wasabiwallet.WasabiWallet",
@@ -593,5 +596,6 @@
     "work.openpaper.Paperwork",
     "xyz.xclicker.xclicker",
     "com.valvesoftware.Steam.CompatibilityTool.Boxtron",
+    "com.valvesoftware.Steam.Utility.steamtinkerlaunch",
     "org.freedesktop.LinuxAudio.Plugins.SonoBus"
 ]

@@ -1,4 +1,5 @@
 [
+    "io.qt.Designer",
     "io.qt.QtCreator",
     "org.kde.kuiviewer"
 ]

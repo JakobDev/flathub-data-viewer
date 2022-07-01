@@ -84,6 +84,7 @@
     "io.github.technic.e2designer",
     "io.gitlab.Turtlico",
     "io.howl.Editor",
+    "io.qt.Designer",
     "io.qt.Linguist",
     "io.qt.QtCreator",
     "io.qt.qdbusviewer",

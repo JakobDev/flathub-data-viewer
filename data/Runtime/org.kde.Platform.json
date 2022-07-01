@@ -15,7 +15,6 @@
         "cz.cvut.edu.comparch.qtrvsim",
         "dev.lukebriggs.pepys",
         "eu.skribisto.skribisto",
-        "net.davidotek.pupgui2",
         "net.jami.Jami",
         "net.sourceforge.VMPK",
         "net.sourceforge.dmidiplayer",
@@ -480,6 +479,7 @@
         "io.qt.qtwebkit.BaseApp"
     ],
     "6.3": [
+        "net.davidotek.pupgui2",
         "org.gottcode.Connectagram",
         "org.gottcode.CuteMaze",
         "org.gottcode.Gottet",

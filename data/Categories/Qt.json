@@ -13,6 +13,7 @@
     "io.github.congard.qnvsm",
     "io.github.rinigus.OSMScoutServer",
     "io.github.rinigus.PureMaps",
+    "io.qt.Designer",
     "io.qt.Linguist",
     "io.qt.qdbusviewer",
     "io.sourceforge.qoobar.Qoobar",

@@ -666,6 +666,7 @@
         "io.mgba.mGBA",
         "io.mrarm.mcpelauncher",
         "io.photoflare.photoflare",
+        "io.qt.Designer",
         "io.qt.Linguist",
         "io.qt.QtCreator",
         "io.qt.qdbusviewer",
@@ -1238,6 +1239,7 @@
         "org.rncbc.qsynth",
         "org.rncbc.qtractor",
         "org.shotcut.Shotcut",
+        "org.surge_synth_team.surge-xt",
         "org.zrythm.Zrythm",
         "studio.kx.carla"
     ],
@@ -1357,6 +1359,7 @@
         "fr.masson_informatique.WhosWho",
         "io.github.TransmissionRemoteGtk",
         "io.github.celluloid_player.Celluloid",
+        "net.giuspen.cherrytree",
         "net.sourceforge.efaxgtk",
         "org.darktable.Darktable",
         "org.entangle_photo.Manager",
@@ -1403,6 +1406,7 @@
         "com.github.marinm.songrec",
         "com.github.rhyme_player.rhyme",
         "com.github.yucefsourani.albasheer-electronic-quran-browser",
+        "com.raggesilver.BlackBox",
         "com.retrodev.blastem",
         "com.skype.Client",
         "com.vagueentertainment.Framed",
@@ -1546,6 +1550,7 @@
         "me.kozec.syncthingtk",
         "media.emby.EmbyServer",
         "net.drawpile.drawpile",
+        "net.giuspen.cherrytree",
         "net.jenyay.Outwiker",
         "net.mediaarea.AVIMetaEdit",
         "net.mediaarea.BWFMetaEdit",
@@ -1931,6 +1936,7 @@
         "io.github.swanux.hbud",
         "ml.prevete.Daty",
         "net.danigm.timetrack",
+        "net.giuspen.cherrytree",
         "net.sourceforge.efaxgtk",
         "org.darktable.Darktable",
         "org.free_astro.siril",
@@ -2105,7 +2111,8 @@
         "com.github.Matoking.protontricks",
         "com.heroicgameslauncher.hgl",
         "io.github.philipk.boilr",
-        "net.davidotek.pupgui2"
+        "net.davidotek.pupgui2",
+        "space.crankshaft.Crankshaft"
     ],
     "xdg-public-share": [
         "com.github.PintaProject.Pinta",
@@ -2269,6 +2276,7 @@
         "com.neatdecisions.Detwinner",
         "com.visualstudio.code",
         "fr.handbrake.ghb",
+        "net.giuspen.cherrytree",
         "org.gimp.GIMP",
         "org.gnome.gThumb",
         "org.inkscape.Inkscape",
@@ -2827,6 +2835,9 @@
     ],
     "xdg-run/discord-ipc-0": [
         "org.srb2.SRB2Kart"
+    ],
+    "xdg-documents/Surge XT:create": [
+        "org.surge_synth_team.surge-xt"
     ],
     "xdg-download/TriblerDownloads:create": [
         "org.tribler.Tribler"

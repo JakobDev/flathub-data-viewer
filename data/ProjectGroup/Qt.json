@@ -1,5 +1,8 @@
 [
+    "io.qt.Designer",
+    "io.qt.Linguist",
     "io.qt.QtCreator",
+    "io.qt.qdbusviewer",
     "net.xm1math.Texmaker",
     "org.qxmledit.QXmlEdit"
 ]
