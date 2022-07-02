@@ -275,6 +275,7 @@
         "org.supertux.SuperTux-Milestone1",
         "org.supertuxproject.SuperTux",
         "org.taisei_project.Taisei",
-        "sh.ppy.osu"
+        "sh.ppy.osu",
+        "vet.rsc.OpenRSC.Launcher"
     ]
 }

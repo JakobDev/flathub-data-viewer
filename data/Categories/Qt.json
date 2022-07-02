@@ -1,6 +1,7 @@
 [
     "ca.parallel_launcher.ParallelLauncher",
     "com.github.Rosalie241.RMG",
+    "com.gitlab.JakobDev.jdAnimatedImageEditor",
     "com.gitlab.JakobDev.jdAppdataEdit",
     "com.gitlab.JakobDev.jdDiff",
     "com.gitlab.JakobDev.jdEolConverter",

@@ -184,6 +184,7 @@
         "org.tordini.flavio.Minitube",
         "org.unitystation.StationHub",
         "org.yamagi.YamagiQ2",
-        "org.zdoom.GZDoom"
+        "org.zdoom.GZDoom",
+        "vet.rsc.OpenRSC.Launcher"
     ]
 }

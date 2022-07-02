@@ -13,6 +13,7 @@
         "org.qutebrowser.qutebrowser"
     ],
     "6.2": [
+        "com.gitlab.JakobDev.jdAnimatedImageEditor",
         "com.gitlab.JakobDev.jdAppdataEdit",
         "com.gitlab.JakobDev.jdDiff",
         "com.gitlab.JakobDev.jdEolConverter",

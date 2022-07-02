@@ -265,6 +265,7 @@
         "org.pjbroad.EternallandsClient",
         "org.quetoo.Quetoo",
         "org.seul.pingus",
-        "org.taisei_project.Taisei"
+        "org.taisei_project.Taisei",
+        "vet.rsc.OpenRSC.Launcher"
     ]
 }

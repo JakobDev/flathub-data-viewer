@@ -42,6 +42,7 @@
         "org.codeblocks.codeblocks",
         "org.eclipse.Java",
         "org.eclipse.Javascript",
+        "org.ghidra_sre.Ghidra",
         "org.gnome.Builder",
         "org.kde.kdevelop",
         "ua.org.brezblock.q4wine"

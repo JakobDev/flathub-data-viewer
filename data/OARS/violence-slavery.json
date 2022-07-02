@@ -158,7 +158,8 @@
     "mild": [
         "com.albiononline.AlbionOnline",
         "com.github.louis77.tuner",
-        "net.pioneerspacesim.Pioneer"
+        "net.pioneerspacesim.Pioneer",
+        "vet.rsc.OpenRSC.Launcher"
     ],
     "intense": [
         "com.fightcade.Fightcade",

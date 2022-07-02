@@ -241,6 +241,7 @@
         "org.phoenicis.playonlinux"
     ],
     "moderate": [
-        "net.runelite.RuneLite"
+        "net.runelite.RuneLite",
+        "vet.rsc.OpenRSC.Launcher"
     ]
 }

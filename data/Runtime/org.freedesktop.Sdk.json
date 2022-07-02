@@ -1,7 +1,6 @@
 {
     "20.08": [
         "app.midterm.MidtermDesktop",
-        "com.synology.CloudStationBackup",
         "com.synology.SynologyDrive",
         "io.atom.Atom",
         "org.scilab.Scilab"
@@ -24,6 +23,7 @@
         "com.steamgriddb.steam-rom-manager",
         "com.sublimemerge.App",
         "com.sublimetext.three",
+        "com.synology.CloudStationBackup",
         "com.synology.SynologyAssistant",
         "com.unity.UnityHub",
         "com.visualstudio.code-oss",
@@ -38,6 +38,7 @@
         "org.codeblocks.codeblocks",
         "org.flathub.flatpak-external-data-checker",
         "org.geany.Geany",
+        "org.ghidra_sre.Ghidra",
         "org.gnu.emacs",
         "org.thonny.Thonny",
         "org.vim.Vim"

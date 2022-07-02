@@ -252,7 +252,8 @@
         "org.firestormviewer.FirestormViewer",
         "org.phoenicis.playonlinux",
         "org.tordini.flavio.Minitube",
-        "org.unitystation.StationHub"
+        "org.unitystation.StationHub",
+        "vet.rsc.OpenRSC.Launcher"
     ],
     "intense": [
         "io.github.hakuneko.HakuNeko"

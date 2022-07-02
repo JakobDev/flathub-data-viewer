@@ -9,5 +9,6 @@
     "org.sugarlabs.MusicBlocks",
     "org.syphon.Syphon",
     "org.zrythm.Zrythm",
-    "page.codeberg.foreverxml.Random"
+    "page.codeberg.foreverxml.Random",
+    "vet.rsc.OpenRSC.Launcher"
 ]
