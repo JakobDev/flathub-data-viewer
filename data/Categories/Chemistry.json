@@ -3,5 +3,6 @@
     "org.kde.kalzium",
     "org.openchemistry.Avogadro2",
     "org.pymol.PyMOL",
-    "org.tomviz.Tomviz"
+    "org.tomviz.Tomviz",
+    "pl.nieto.fityk"
 ]

@@ -44,6 +44,7 @@
     "org.gnome.Genius",
     "org.gnome.World.Citations",
     "org.gnome.gitlab.YaLTeR.Identity",
+    "org.gnu.pspp",
     "org.gnumeric.Gnumeric",
     "org.jamovi.jamovi",
     "org.kde.cantor",
@@ -69,5 +70,6 @@
     "org.telesculptor.TeleSculptor",
     "org.tomviz.Tomviz",
     "org.viking.Viking",
+    "pl.nieto.fityk",
     "space.fips.Fips"
 ]

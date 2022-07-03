@@ -129,6 +129,7 @@
     "org.gnome.meld",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
+    "org.gnu.pspp",
     "org.gnucash.GnuCash",
     "org.gottcode.FocusWriter",
     "org.gottcode.Gottet",

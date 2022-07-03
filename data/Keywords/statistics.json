@@ -1,6 +1,7 @@
 [
     "com.github.subhadeepjasu.pebbles",
     "net.sourceforge.Lifeograph",
+    "org.gnu.pspp",
     "org.jamovi.jamovi",
     "org.jaspstats.JASP"
 ]

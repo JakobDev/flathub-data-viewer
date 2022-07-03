@@ -183,6 +183,7 @@
     "org.gnome.meld",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
+    "org.gnu.pspp",
     "org.gnucash.GnuCash",
     "org.gottcode.Connectagram",
     "org.gottcode.CuteMaze",

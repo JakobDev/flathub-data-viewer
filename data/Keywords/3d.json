@@ -1,5 +1,6 @@
 [
     "com.flashforge.FlashPrint",
+    "com.solvespace.SolveSpace",
     "info.colobot.Colobot",
     "org.blender.Blender",
     "org.darkdimension.rue",

@@ -92,6 +92,7 @@
     "org.gnome.seahorse.Application",
     "org.gnucash.GnuCash",
     "org.gnumeric.Gnumeric",
+    "org.gottcode.FocusWriter",
     "org.gramps_project.Gramps",
     "org.inkscape.Inkscape",
     "org.kde.ark",

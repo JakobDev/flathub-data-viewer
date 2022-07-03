@@ -4,6 +4,7 @@
     "com.github.Murmele.scram",
     "com.github.hopsan.Hopsan",
     "com.prusa3d.PrusaSlicer",
+    "com.solvespace.SolveSpace",
     "com.sweethome3d.Sweethome3d",
     "de.klayout.KLayout",
     "io.github.trevorsandy.LPub3D",
@@ -16,5 +17,6 @@
     "org.librepcb.LibrePCB",
     "org.openhantek.OpenHantek6022",
     "org.openscad.OpenSCAD",
-    "org.qelectrotech.QElectroTech"
+    "org.qelectrotech.QElectroTech",
+    "pl.nieto.fityk"
 ]

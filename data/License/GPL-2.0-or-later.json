@@ -58,5 +58,6 @@
     "org.sugarlabs.Paint",
     "org.sugarlabs.SwiftFeet",
     "org.wesnoth.Wesnoth",
-    "org.worldpossible.ScriptLauncher"
+    "org.worldpossible.ScriptLauncher",
+    "pl.nieto.fityk"
 ]

@@ -1,5 +1,7 @@
 [
     "com.github.makhber.Makhber",
     "net.sourceforge.scidavis",
-    "org.jamovi.jamovi"
+    "org.gnu.pspp",
+    "org.jamovi.jamovi",
+    "pl.nieto.fityk"
 ]
