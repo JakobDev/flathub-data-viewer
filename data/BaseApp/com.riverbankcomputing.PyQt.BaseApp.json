@@ -2,6 +2,7 @@
     "5.15-21.08": [
         "com.borgbase.Vorta",
         "com.github.git_cola.git-cola",
+        "com.github.micahflee.torbrowser-launcher",
         "com.sigil_ebook.Sigil",
         "io.github.ciromattia.kcc",
         "io.github.giantpinkrobots.bootqt",
@@ -12,7 +13,7 @@
         "org.pymol.PyMOL",
         "org.qutebrowser.qutebrowser"
     ],
-    "6.2": [
+    "6.3": [
         "com.gitlab.JakobDev.jdAnimatedImageEditor",
         "com.gitlab.JakobDev.jdAppdataEdit",
         "com.gitlab.JakobDev.jdDiff",

@@ -2,14 +2,6 @@
     "6.2": [
         "app.lith.Lith",
         "com.github.giacomogroppi.writernote-qt",
-        "com.gitlab.JakobDev.jdAnimatedImageEditor",
-        "com.gitlab.JakobDev.jdAppdataEdit",
-        "com.gitlab.JakobDev.jdDiff",
-        "com.gitlab.JakobDev.jdEolConverter",
-        "com.gitlab.JakobDev.jdMinecraftLauncher",
-        "com.gitlab.JakobDev.jdReplace",
-        "com.gitlab.JakobDev.jdTextEdit",
-        "com.gitlab.jakobdev.jdnbtexplorer",
         "com.gitlab.tipp10.tipp10",
         "com.rtosta.zapzap",
         "com.ylsoftware.qmmp.Qmmp",
@@ -472,15 +464,15 @@
         "org.gnode.NixView",
         "org.guerinoni.qTsConverter"
     ],
-    "5.12": [
-        "de.ifw_dresden.nagstamon",
-        "de.rwth_aachen.ient.RDPlot",
-        "io.botfather.Botfather",
-        "io.liri.Calculator",
-        "io.liri.Text",
-        "org.rolisteam.rolisteam"
-    ],
     "6.3": [
+        "com.gitlab.JakobDev.jdAnimatedImageEditor",
+        "com.gitlab.JakobDev.jdAppdataEdit",
+        "com.gitlab.JakobDev.jdDiff",
+        "com.gitlab.JakobDev.jdEolConverter",
+        "com.gitlab.JakobDev.jdMinecraftLauncher",
+        "com.gitlab.JakobDev.jdReplace",
+        "com.gitlab.JakobDev.jdTextEdit",
+        "com.gitlab.jakobdev.jdnbtexplorer",
         "io.qt.Designer",
         "io.qt.Linguist",
         "io.qt.qdbusviewer",
@@ -497,6 +489,14 @@
         "org.gottcode.Tanglet",
         "org.gottcode.Tetzle",
         "uk.org.zint.zint-qt"
+    ],
+    "5.12": [
+        "de.ifw_dresden.nagstamon",
+        "de.rwth_aachen.ient.RDPlot",
+        "io.botfather.Botfather",
+        "io.liri.Calculator",
+        "io.liri.Text",
+        "org.rolisteam.rolisteam"
     ],
     "5.9": [
         "io.qt.qtwebkit.BaseApp"
