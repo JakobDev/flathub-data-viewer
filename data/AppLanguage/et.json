@@ -1,6 +1,7 @@
 [
     "com.github.PintaProject.Pinta",
     "com.github.debauchee.barrier",
+    "dev.geopjr.Collision",
     "info.olasagasti.revelation",
     "io.github.Hexchat",
     "io.github.NhekoReborn.Nheko",
