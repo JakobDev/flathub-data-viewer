@@ -25,6 +25,7 @@
         "com.github.alainm23.planner",
         "com.github.artemanufrij.playmymusic",
         "com.github.benpocalypse.Huely",
+        "com.github.calo001.luna",
         "com.github.dahenson.agenda",
         "com.github.louis77.tuner",
         "com.github.muriloventuroso.givemelyrics",
@@ -36,7 +37,6 @@
     "juno-19.08": [
         "com.github.bcedu.vgrive",
         "com.github.calo001.fondo",
-        "com.github.calo001.luna",
         "com.github.devalien.workspaces",
         "com.github.horaciodrs.tradesim",
         "com.github.inercia.k3x",
