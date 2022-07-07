@@ -64,6 +64,7 @@
     "net.mediaarea.MediaInfo",
     "net.minetest.Minetest",
     "net.pioneerspacesim.Pioneer",
+    "net.retrodeck.retrodeck",
     "net.shrew.ike.qikea",
     "net.veloren.airshipper",
     "net.veloren.veloren",

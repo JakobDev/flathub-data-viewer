@@ -692,6 +692,7 @@
         "net.mediaarea.QCTools",
         "net.meijn.onvifviewer",
         "net.meshlab.MeshLab",
+        "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
         "net.rpdev.OpenTodoList",
         "net.scribus.Scribus",
@@ -1054,6 +1055,7 @@
         "io.github.qtox.qTox",
         "md.obsidian.Obsidian",
         "net.meshlab.MeshLab",
+        "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
         "net.sourceforge.pdfchain",
         "net.xmind.XMind",
@@ -1104,6 +1106,7 @@
         "io.github.nroduit.Weasis",
         "md.obsidian.Obsidian",
         "net.meshlab.MeshLab",
+        "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
         "net.sourceforge.pdfchain",
         "net.xmind.XMind",
@@ -1181,6 +1184,7 @@
         "com.valvesoftware.Steam",
         "io.github.hmlendea.geforcenow-electron",
         "io.github.shiiion.primehack",
+        "net.retrodeck.retrodeck",
         "net.runelite.RuneLite",
         "org.DolphinEmu.dolphin-emu",
         "org.firestormviewer.FirestormViewer",
@@ -2601,6 +2605,9 @@
     ],
     "~/.local/share/lutris/runners/wine": [
         "net.davidotek.pupgui2"
+    ],
+    "~/retrodeck:create": [
+        "net.retrodeck.retrodeck"
     ],
     "~/.runelite:create": [
         "net.runelite.RuneLite"

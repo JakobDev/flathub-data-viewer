@@ -162,6 +162,7 @@
         "net.mediaarea.DVAnalyzer",
         "net.mediaarea.MediaConch",
         "net.meshlab.MeshLab",
+        "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
         "net.rpdev.OpenTodoList",
         "net.scribus.Scribus",

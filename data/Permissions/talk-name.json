@@ -383,6 +383,7 @@
         "net.mediaarea.QCTools",
         "net.meijn.onvifviewer",
         "net.meshlab.MeshLab",
+        "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
         "net.rpdev.OpenTodoList",
         "net.scribus.Scribus",
@@ -1259,6 +1260,7 @@
         "net.kvirc.KVIrc",
         "net.mediaarea.MediaConch",
         "net.meshlab.MeshLab",
+        "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
         "net.rpdev.OpenTodoList",
         "net.sourceforge.kmidimon",
@@ -1484,6 +1486,7 @@
         "com.github.buddhi1980.mandelbulber2",
         "com.github.dail8859.NotepadNext",
         "com.github.git_cola.git-cola",
+        "com.github.hluk.copyq",
         "com.github.iwalton3.jellyfin-media-player",
         "com.github.makhber.Makhber",
         "com.github.micahflee.torbrowser-launcher",
@@ -1527,6 +1530,7 @@
         "net.fsuae.FS-UAE",
         "net.kvirc.KVIrc",
         "net.meshlab.MeshLab",
+        "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
         "net.rpdev.OpenTodoList",
         "nz.mega.MEGAsync",
@@ -1902,6 +1906,7 @@
     ],
     "org.freedesktop.powermanagement.inhibit": [
         "ca.parallel_launcher.ParallelLauncher",
+        "net.retrodeck.retrodeck",
         "org.libretro.RetroArch"
     ],
     "org.freedesktop.screensaver": [
@@ -1934,6 +1939,7 @@
         "net.blockbench.Blockbench",
         "net.displaycal.DisplayCAL",
         "net.jami.Jami",
+        "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
         "one.ablaze.floorp",
         "org.DolphinEmu.dolphin-emu",
@@ -1957,6 +1963,7 @@
     "org.freedesktop.login1": [
         "ca.parallel_launcher.ParallelLauncher",
         "de.hoppfoundation.klassenzimmer",
+        "net.retrodeck.retrodeck",
         "org.jitsi.jitsi-meet",
         "org.libretro.RetroArch"
     ],

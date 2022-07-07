@@ -9,5 +9,7 @@
     "org.kde.kwrite",
     "org.winehq.Wine",
     "com.fightcade.Fightcade.Wine",
+    "org.fcitx.Fcitx5.Addon.Chewing",
+    "org.fcitx.Fcitx5.Addon.M17N",
     "org.fcitx.Fcitx5.Addon.Rime"
 ]

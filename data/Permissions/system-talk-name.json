@@ -74,7 +74,6 @@
     ],
     "org.bluez": [
         "com.avocode.Avocode",
-        "com.github.alexr4535.siglo",
         "com.github.theironrobin.siglo",
         "com.skype.Client",
         "edu.stanford.Almond",

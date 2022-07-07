@@ -1,6 +1,7 @@
 [
     "com.gitlab.coringao.cavestory-nx",
     "io.github.achetagames.epic_asset_manager",
+    "net.retrodeck.retrodeck",
     "net.sourceforge.Ri-li",
     "org.libretro.RetroArch"
 ]
