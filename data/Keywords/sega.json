@@ -1,4 +1,5 @@
 [
     "com.carpeludum.KegaFusion",
-    "com.retrodev.blastem"
+    "com.retrodev.blastem",
+    "org.openmsx.openMSX"
 ]
