@@ -103,6 +103,7 @@
         "org.clementine_player.Clementine",
         "org.gnome.Builder",
         "org.gnome.Keysign",
+        "org.gnome.NetworkDisplays",
         "org.gnome.OCRFeeder",
         "org.gnome.Rhythmbox3",
         "org.gnome.Totem",

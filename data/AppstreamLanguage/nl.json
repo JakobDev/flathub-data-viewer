@@ -355,5 +355,6 @@
     "org.zrythm.Zrythm",
     "re.sonny.Commit",
     "re.sonny.Junction",
+    "re.sonny.Workbench",
     "uk.co.ibboard.cawbird"
 ]

@@ -2241,6 +2241,15 @@
         "com.github.ryonakano.pinit",
         "org.kde.angelfish"
     ],
+    "xdg-run/podman/podman.sock": [
+        "com.github.sdv43.whaler"
+    ],
+    "/run/podman/podman.sock": [
+        "com.github.sdv43.whaler"
+    ],
+    "xdg-run/docker.sock": [
+        "com.github.sdv43.whaler"
+    ],
     "xdg-data/flatpak/overrides:create": [
         "com.github.tchx84.Flatseal"
     ],

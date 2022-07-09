@@ -28,6 +28,7 @@
     "de.haeckerfelix.Fragments",
     "de.haeckerfelix.Shortwave",
     "de.manuel_kehl.go-for-it",
+    "de.schmidhuberj.Flare",
     "dev.Cogitri.Health",
     "dev.geopjr.Collision",
     "fr.handbrake.ghb",
@@ -222,5 +223,6 @@
     "org.zrythm.Zrythm",
     "page.codeberg.foreverxml.Random",
     "re.sonny.Commit",
+    "re.sonny.Workbench",
     "uk.co.ibboard.cawbird"
 ]

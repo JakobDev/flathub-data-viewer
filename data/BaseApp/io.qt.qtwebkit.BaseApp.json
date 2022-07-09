@@ -6,6 +6,7 @@
         "com.notepadqq.Notepadqq",
         "com.sourcepole.kadas",
         "info.smplayer.SMPlayer",
+        "io.github.cloose.CuteMarkEd",
         "org.fcitx.Fcitx5",
         "org.goldendict.GoldenDict",
         "org.kde.skrooge",
@@ -16,7 +17,6 @@
     ],
     "5.15": [
         "com.codemouse92.timecard",
-        "io.github.cloose.CuteMarkEd",
         "org.subsurface_divelog.Subsurface"
     ],
     "5.14": [

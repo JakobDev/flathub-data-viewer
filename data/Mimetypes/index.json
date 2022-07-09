@@ -400,6 +400,7 @@
         "application{SLASH}x-font-type1",
         "application{SLASH}x-fototoon-activity",
         "application{SLASH}x-fpt",
+        "application{SLASH}x-freedesktop-appstream",
         "application{SLASH}x-freemind",
         "application{SLASH}x-freeplane",
         "application{SLASH}x-fritzing-fz",
