@@ -61,6 +61,7 @@
     "io.liri.Text",
     "io.neovim.nvim",
     "io.otsaloma.nfoview",
+    "io.posidon.Paper",
     "net.displaycal.DisplayCAL",
     "net.launchpad.gmult",
     "net.meijn.onvifviewer",
