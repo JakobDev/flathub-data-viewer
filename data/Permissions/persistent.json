@@ -141,9 +141,6 @@
     ".ccnet": [
         "com.seafile.Client"
     ],
-    "home": [
-        "com.shatteredpixel.shatteredpixeldungeon"
-    ],
     ".stepmania-5.1": [
         "com.stepmania.StepMania"
     ],
