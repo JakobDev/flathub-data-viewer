@@ -71,5 +71,6 @@
     "org.midori_browser.Midori",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
-    "org.widelands.Widelands"
+    "org.widelands.Widelands",
+    "org.xfce.ristretto"
 ]
