@@ -2,8 +2,7 @@
     "20.08": [
         "app.midterm.MidtermDesktop",
         "com.synology.SynologyDrive",
-        "io.atom.Atom",
-        "org.scilab.Scilab"
+        "io.atom.Atom"
     ],
     "21.08": [
         "com.axosoft.GitKraken",
@@ -40,6 +39,7 @@
         "org.geany.Geany",
         "org.ghidra_sre.Ghidra",
         "org.gnu.emacs",
+        "org.scilab.Scilab",
         "org.thonny.Thonny",
         "org.vim.Vim"
     ],
