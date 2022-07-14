@@ -1,10 +1,10 @@
 [
+    "app.drey.Dialect",
     "com.belmoussaoui.Authenticator",
     "com.calibre_ebook.calibre",
     "com.dropbox.Client",
     "com.endlessm.photos",
     "com.github.babluboy.bookworm",
-    "com.github.gi_lom.dialect",
     "com.github.junrrein.PDFSlicer",
     "com.github.muriloventuroso.easyssh",
     "com.github.ojubaorg.Othman",

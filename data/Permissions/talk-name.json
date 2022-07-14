@@ -1175,6 +1175,7 @@
         "com.github.makhber.Makhber",
         "com.github.micahflee.torbrowser-launcher",
         "com.github.powertab.powertabeditor",
+        "com.github.quaternion",
         "com.github.rssguard",
         "com.github.shonumi.gbe-plus",
         "com.github.unrud.djpdf",
@@ -1500,6 +1501,7 @@
         "com.github.iwalton3.jellyfin-media-player",
         "com.github.makhber.Makhber",
         "com.github.micahflee.torbrowser-launcher",
+        "com.github.quaternion",
         "com.github.rssguard",
         "com.github.unrud.djpdf",
         "com.github.vkohaupt.vokoscreenNG",
@@ -1574,6 +1576,7 @@
         "org.kde.bomber",
         "org.kde.bovo",
         "org.kde.cantor",
+        "org.kde.digikam",
         "org.kde.dolphin",
         "org.kde.elisa",
         "org.kde.falkon",
@@ -1687,6 +1690,7 @@
         "org.openmw.OpenMW",
         "org.opennumismat.OpenNumismat",
         "org.openrgb.OpenRGB",
+        "org.pegasus_frontend.Pegasus",
         "org.photoqt.PhotoQt",
         "org.plomgrading.PlomClient",
         "org.polymc.PolyMC",
@@ -2312,6 +2316,9 @@
     "com.prusa3d.prusaslicer.instancecheck.*": [
         "com.prusa3d.PrusaSlicer"
     ],
+    "org.freedesktop.portal.filechooser": [
+        "com.rtosta.zapzap"
+    ],
     "org.gnome.gconf": [
         "com.skype.Client",
         "io.brackets.Brackets",
@@ -2494,6 +2501,7 @@
     ],
     "org.kde.kded5": [
         "org.kde.akregator",
+        "org.kde.dolphin",
         "org.kde.kontact"
     ],
     "org.kde.kglobalaccel": [
@@ -2508,12 +2516,12 @@
         "org.kde.akregator",
         "org.kde.kontact"
     ],
-    "org.kde.kiod5": [
-        "org.kde.dolphin"
-    ],
     "org.kde.kpasswdserver": [
         "org.kde.dolphin",
         "org.kde.kontact"
+    ],
+    "org.kde.kiod5": [
+        "org.kde.dolphin"
     ],
     "org.kde.baloo": [
         "org.kde.elisa"

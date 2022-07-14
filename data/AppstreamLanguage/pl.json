@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
@@ -6,7 +7,6 @@
     "com.boxy_svg.BoxySVG",
     "com.calibre_ebook.calibre",
     "com.github.bluesabre.darkbar",
-    "com.github.gi_lom.dialect",
     "com.github.gijsgoudzwaard.image-optimizer",
     "com.github.hugolabe.Wike",
     "com.github.huluti.Curtail",

@@ -1,5 +1,5 @@
 [
-    "com.github.gi_lom.dialect",
+    "app.drey.Dialect",
     "com.tux4kids.tuxtype",
     "io.github.Hexchat",
     "org.gnome.Aisleriot",

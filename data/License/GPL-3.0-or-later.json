@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.drey.Dialect",
     "app.moosync.moosync",
     "app.riftshare.RiftShare",
     "art.taunoerik.tauno-serial-plotter",
@@ -38,7 +39,6 @@
     "com.github.edenalencar.identifications",
     "com.github.elth0r0.iqpuzzle",
     "com.github.fushinari.Wordbook",
-    "com.github.gi_lom.dialect",
     "com.github.hugolabe.Wike",
     "com.github.huluti.Curtail",
     "com.github.jeromerobert.pdfarranger",

@@ -1,8 +1,8 @@
 [
+    "app.drey.Dialect",
     "com.bitstower.Markets",
     "com.github.babluboy.bookworm",
     "com.github.bajoja.indicator-kdeconnect",
-    "com.github.gi_lom.dialect",
     "com.github.junrrein.PDFSlicer",
     "fr.romainvigier.MetadataCleaner",
     "io.github.cboxdoerfer.FSearch",

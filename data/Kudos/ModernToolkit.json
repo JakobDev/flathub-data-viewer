@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
@@ -18,7 +19,6 @@
     "com.github.emmanueltouzery.cigale",
     "com.github.emmanueltouzery.hotwire",
     "com.github.emmanueltouzery.projectpad",
-    "com.github.gi_lom.dialect",
     "com.github.hluk.copyq",
     "com.github.huluti.Coulr",
     "com.github.huluti.Curtail",

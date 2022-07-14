@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ar.xjuan.Cambalache",
@@ -14,7 +15,6 @@
     "com.github.artemanufrij.regextester",
     "com.github.bajoja.indicator-kdeconnect",
     "com.github.debauchee.barrier",
-    "com.github.gi_lom.dialect",
     "com.github.hugolabe.Wike",
     "com.github.huluti.Coulr",
     "com.github.huluti.Curtail",

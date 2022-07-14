@@ -1,11 +1,11 @@
 [
+    "app.drey.Dialect",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
     "com.calibre_ebook.calibre",
-    "com.github.gi_lom.dialect",
     "com.github.hugolabe.Wike",
     "com.github.jeromerobert.pdfarranger",
     "com.github.maoschanz.drawing",

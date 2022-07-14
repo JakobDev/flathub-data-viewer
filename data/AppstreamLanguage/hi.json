@@ -1,8 +1,8 @@
 [
+    "app.drey.Dialect",
     "com.dropbox.Client",
     "com.endlessm.photos",
     "com.github.geigi.cozy",
-    "com.github.gi_lom.dialect",
     "com.mojang.Minecraft",
     "com.rafaelmardojai.Blanket",
     "com.usebottles.bottles",

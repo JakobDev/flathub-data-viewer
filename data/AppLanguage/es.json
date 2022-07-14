@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ar.com.softwareperonista.Rockarrolla",
@@ -19,7 +20,6 @@
     "com.github.carlos157oliveira.Calculus",
     "com.github.dariasteam.cowsrevenge",
     "com.github.debauchee.barrier",
-    "com.github.gi_lom.dialect",
     "com.github.hugolabe.Wike",
     "com.github.huluti.Curtail",
     "com.github.johnfactotum.Foliate",

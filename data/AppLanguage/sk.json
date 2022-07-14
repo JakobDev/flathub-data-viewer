@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -8,7 +9,6 @@
     "com.github.PintaProject.Pinta",
     "com.github.carlos157oliveira.Calculus",
     "com.github.debauchee.barrier",
-    "com.github.gi_lom.dialect",
     "com.github.huluti.Curtail",
     "com.github.junrrein.PDFSlicer",
     "com.github.unrud.VideoDownloader",

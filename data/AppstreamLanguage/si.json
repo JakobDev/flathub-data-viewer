@@ -1,5 +1,5 @@
 [
-    "com.github.gi_lom.dialect",
+    "app.drey.Dialect",
     "io.github.TransmissionRemoteGtk",
     "net.sourceforge.Lifeograph",
     "org.gnome.Calculator",

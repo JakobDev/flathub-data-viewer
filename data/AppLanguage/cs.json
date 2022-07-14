@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "app.rednotebook.RedNotebook",
     "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
@@ -9,7 +10,6 @@
     "com.github.PintaProject.Pinta",
     "com.github.bajoja.indicator-kdeconnect",
     "com.github.debauchee.barrier",
-    "com.github.gi_lom.dialect",
     "com.github.hugolabe.Wike",
     "com.github.johnfactotum.Foliate",
     "com.github.junrrein.PDFSlicer",

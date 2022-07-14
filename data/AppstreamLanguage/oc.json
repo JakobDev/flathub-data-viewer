@@ -1,10 +1,10 @@
 [
+    "app.drey.Dialect",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
-    "com.github.gi_lom.dialect",
     "com.github.maoschanz.drawing",
     "com.mattjakeman.ExtensionManager",
     "com.rafaelmardojai.Blanket",

@@ -2,6 +2,7 @@
     "dri": [
         "app.authpass.AuthPass",
         "app.bluebubbles.BlueBubbles",
+        "app.drey.Dialect",
         "app.drey.Warp",
         "app.getspace.Space",
         "app.lith.Lith",
@@ -137,7 +138,6 @@
         "com.github.flxzt.rnote",
         "com.github.fontmatrix.Fontmatrix",
         "com.github.geigi.cozy",
-        "com.github.gi_lom.dialect",
         "com.github.giacomogroppi.writernote-qt",
         "com.github.gmg137.netease-cloud-music-gtk",
         "com.github.gpuvis.Gpuvis",

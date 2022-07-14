@@ -1,6 +1,7 @@
 [
     "app.authpass.AuthPass",
     "app.bluebubbles.BlueBubbles",
+    "app.drey.Dialect",
     "app.drey.Warp",
     "app.getspace.Space",
     "app.lith.Lith",
@@ -234,7 +235,6 @@
     "com.github.fushinari.Wordbook",
     "com.github.gabutakut.gabutdm",
     "com.github.geigi.cozy",
-    "com.github.gi_lom.dialect",
     "com.github.giacomogroppi.writernote-qt",
     "com.github.gijsgoudzwaard.image-optimizer",
     "com.github.git_cola.git-cola",

@@ -81,9 +81,6 @@
     "org.mpris.mediaplayer2.cozy": [
         "com.github.geigi.cozy"
     ],
-    "com.github.gi_lom.dialect.searchprovider": [
-        "com.github.gi_lom.dialect"
-    ],
     "org.mpris.mediaplayer2.com.gitee.gmg137.neteasecloudmusicgtk4": [
         "com.github.gmg137.netease-cloud-music-gtk"
     ],

@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
@@ -9,7 +10,6 @@
     "com.feaneron.Boatswain",
     "com.github.PintaProject.Pinta",
     "com.github.debauchee.barrier",
-    "com.github.gi_lom.dialect",
     "com.github.johnfactotum.Foliate",
     "com.github.maoschanz.drawing",
     "com.github.rafostar.Clapper",

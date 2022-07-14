@@ -1,6 +1,7 @@
 {
     "home": [
         "app.authpass.AuthPass",
+        "app.bluebubbles.BlueBubbles",
         "app.midterm.MidtermDesktop",
         "app.rednotebook.RedNotebook",
         "app.riftshare.RiftShare",
@@ -326,15 +327,7 @@
         "uk.et1.big-finish-downloader",
         "work.openpaper.Paperwork"
     ],
-    "xdg-data": [
-        "app.bluebubbles.BlueBubbles",
-        "com.boxy_svg.BoxySVG",
-        "org.chocolate_doom.ChocolateDoom",
-        "org.eyecreate.qiflora",
-        "org.eyecreate.vehiclevoyage"
-    ],
     "xdg-download": [
-        "app.bluebubbles.BlueBubbles",
         "app.drey.Warp",
         "ch.protonmail.protonmail-import-export-app",
         "ch.threema.threema-web-desktop",
@@ -1994,6 +1987,12 @@
         "com.github.qarmin.czkawka",
         "org.gnome.DejaDup",
         "org.gnome.World.PikaBackup"
+    ],
+    "xdg-data": [
+        "com.boxy_svg.BoxySVG",
+        "org.chocolate_doom.ChocolateDoom",
+        "org.eyecreate.qiflora",
+        "org.eyecreate.vehiclevoyage"
     ],
     "xdg-desktop": [
         "com.boxy_svg.BoxySVG",

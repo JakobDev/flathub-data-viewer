@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "app.drey.Warp",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
@@ -9,7 +10,6 @@
     "com.github.babluboy.bookworm",
     "com.github.bluesabre.darkbar",
     "com.github.donadigo.appeditor",
-    "com.github.gi_lom.dialect",
     "com.github.hugolabe.Wike",
     "com.github.huluti.Curtail",
     "com.github.johnfactotum.Foliate",

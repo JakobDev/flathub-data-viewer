@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
@@ -10,7 +11,6 @@
     "com.github.birros.WebArchives",
     "com.github.bluesabre.darkbar",
     "com.github.donadigo.appeditor",
-    "com.github.gi_lom.dialect",
     "com.github.hugolabe.Wike",
     "com.github.huluti.Curtail",
     "com.github.junrrein.PDFSlicer",

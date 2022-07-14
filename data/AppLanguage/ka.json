@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "app.rednotebook.RedNotebook",
     "com.rafaelmardojai.Blanket",
     "net.poedit.Poedit",

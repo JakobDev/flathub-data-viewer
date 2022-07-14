@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "app.drey.Warp",
     "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
@@ -19,7 +20,6 @@
     "com.github.christianrauch.Jahresarbeit-2003",
     "com.github.elth0r0.iqpuzzle",
     "com.github.geigi.cozy",
-    "com.github.gi_lom.dialect",
     "com.github.hugolabe.Wike",
     "com.github.huluti.Coulr",
     "com.github.huluti.Curtail",

@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "app.rednotebook.RedNotebook",
     "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
@@ -13,7 +14,6 @@
     "com.github.bajoja.indicator-kdeconnect",
     "com.github.birros.WebArchives",
     "com.github.debauchee.barrier",
-    "com.github.gi_lom.dialect",
     "com.github.hugolabe.Wike",
     "com.github.huluti.Coulr",
     "com.github.huluti.Curtail",

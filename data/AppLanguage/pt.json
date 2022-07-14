@@ -1,11 +1,11 @@
 [
+    "app.drey.Dialect",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
     "com.github.PintaProject.Pinta",
-    "com.github.gi_lom.dialect",
     "com.github.junrrein.PDFSlicer",
     "com.github.rafostar.Clapper",
     "com.github.rkoesters.xkcd-gtk",

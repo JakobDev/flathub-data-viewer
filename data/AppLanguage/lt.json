@@ -1,10 +1,10 @@
 [
+    "app.drey.Dialect",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.github.PintaProject.Pinta",
     "com.github.artemanufrij.playmymusic",
     "com.github.bajoja.indicator-kdeconnect",
-    "com.github.gi_lom.dialect",
     "com.github.ztefn.haguichi",
     "com.gitlab.bitseater.meteo",
     "com.tux4kids.tuxtype",

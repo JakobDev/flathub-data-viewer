@@ -1,7 +1,7 @@
 [
+    "app.drey.Dialect",
     "com.belmoussaoui.Decoder",
     "com.github.alexhuntley.Plots",
-    "com.github.gi_lom.dialect",
     "com.github.hugolabe.Wike",
     "com.github.unrud.VideoDownloader",
     "com.mattjakeman.ExtensionManager",

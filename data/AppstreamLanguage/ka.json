@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "com.rafaelmardojai.Blanket",
     "org.gimp.GIMP",
     "org.gnome.Calculator",

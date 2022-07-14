@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -9,7 +10,6 @@
     "com.endlessm.photos",
     "com.feaneron.Boatswain",
     "com.github.bluesabre.darkbar",
-    "com.github.gi_lom.dialect",
     "com.github.johnfactotum.Foliate",
     "com.github.mdh34.quickdocs",
     "com.github.muriloventuroso.easyssh",

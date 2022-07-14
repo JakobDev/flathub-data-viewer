@@ -1,7 +1,7 @@
 [
+    "app.drey.Dialect",
     "ca.desrt.dconf-editor",
     "com.github.alexhuntley.Plots",
-    "com.github.gi_lom.dialect",
     "com.github.muriloventuroso.easyssh",
     "com.rafaelmardojai.Blanket",
     "com.uploadedlobster.peek",

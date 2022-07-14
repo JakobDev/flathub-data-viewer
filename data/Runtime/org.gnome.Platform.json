@@ -1,6 +1,7 @@
 {
     "42": [
         "app.bluebubbles.BlueBubbles",
+        "app.drey.Dialect",
         "app.drey.Warp",
         "app.riftshare.RiftShare",
         "ar.xjuan.Cambalache",
@@ -47,7 +48,6 @@
         "com.github.flxzt.rnote",
         "com.github.fushinari.Wordbook",
         "com.github.gabutakut.gabutdm",
-        "com.github.gi_lom.dialect",
         "com.github.gmg137.netease-cloud-music-gtk",
         "com.github.hugolabe.Wike",
         "com.github.huluti.Curtail",

@@ -1,5 +1,5 @@
 [
-    "com.github.gi_lom.dialect",
+    "app.drey.Dialect",
     "com.github.treagod.spectator",
     "org.gnome.Calendar",
     "org.gnome.Characters",

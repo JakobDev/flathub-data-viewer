@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "app.drey.Warp",
     "ar.com.softwareperonista.Rockarrolla",
     "ar.xjuan.Cambalache",
@@ -28,7 +29,6 @@
     "com.github.calo001.luna",
     "com.github.dariasteam.cowsrevenge",
     "com.github.donadigo.appeditor",
-    "com.github.gi_lom.dialect",
     "com.github.horaciodrs.tradesim",
     "com.github.hugolabe.Wike",
     "com.github.huluti.Curtail",

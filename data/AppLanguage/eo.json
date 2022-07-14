@@ -1,8 +1,8 @@
 [
+    "app.drey.Dialect",
     "com.ekonomikas.merkato",
     "com.github.PintaProject.Pinta",
     "com.github.debauchee.barrier",
-    "com.github.gi_lom.dialect",
     "com.rafaelmardojai.Blanket",
     "com.uploadedlobster.peek",
     "de.haeckerfelix.Fragments",
