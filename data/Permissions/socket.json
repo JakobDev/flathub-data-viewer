@@ -2,6 +2,7 @@
     "x11": [
         "app.authpass.AuthPass",
         "app.bluebubbles.BlueBubbles",
+        "app.drey.Blurble",
         "app.drey.Dialect",
         "app.drey.Warp",
         "app.getspace.Space",
@@ -1693,6 +1694,7 @@
     ],
     "wayland": [
         "app.authpass.AuthPass",
+        "app.drey.Blurble",
         "app.drey.Dialect",
         "app.drey.Warp",
         "app.getspace.Space",
@@ -2821,6 +2823,7 @@
     ],
     "fallback-x11": [
         "app.authpass.AuthPass",
+        "app.drey.Blurble",
         "app.drey.Dialect",
         "app.drey.Warp",
         "app.getspace.Space",
@@ -2865,6 +2868,7 @@
         "com.frac_tion.teleport",
         "com.gigitux.youp",
         "com.github.ADBeveridge.Raider",
+        "com.github.Alcaro.Flips",
         "com.github.AmatCoder.mednaffe",
         "com.github.Anuken.Mindustry",
         "com.github.Darazaki.Spedread",
@@ -3477,6 +3481,7 @@
         "org.libsdl.Maelstrom",
         "org.libvips.vipsdisp",
         "org.love2d.love2d",
+        "org.mapeditor.Tiled",
         "org.mattdm.icebreaker",
         "org.midori_browser.Midori",
         "org.mpdevil.mpdevil",
@@ -3515,6 +3520,7 @@
         "org.subsurface_divelog.Subsurface",
         "org.syphon.Syphon",
         "org.tabos.banking",
+        "org.tabos.maxcontrol",
         "org.tabos.twofun",
         "org.taisei_project.Taisei",
         "org.texstudio.TeXstudio",

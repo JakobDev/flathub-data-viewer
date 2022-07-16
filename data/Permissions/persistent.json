@@ -364,6 +364,9 @@
     ".bitmonero": [
         "org.getmonero.Monero"
     ],
+    ".genius": [
+        "org.gnome.Genius"
+    ],
     ".gnome2": [
         "org.gnome.Genius"
     ],
