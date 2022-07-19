@@ -2,7 +2,6 @@
     "juno-20.08": [
         "com.cassidyjames.plausible",
         "com.github.alecaddd.sequeler",
-        "com.github.arshubham.cipher",
         "com.github.arshubham.gitignore",
         "com.github.artemanufrij.graphui",
         "com.github.artemanufrij.playmyvideos",
@@ -23,6 +22,7 @@
     "juno-21.08": [
         "com.github.alainm23.byte",
         "com.github.alainm23.planner",
+        "com.github.arshubham.cipher",
         "com.github.artemanufrij.playmymusic",
         "com.github.benpocalypse.Huely",
         "com.github.calo001.luna",

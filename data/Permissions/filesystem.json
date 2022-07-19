@@ -709,6 +709,7 @@
         "org.DolphinEmu.dolphin-emu",
         "org.atheme.audacious",
         "org.avidemux.Avidemux",
+        "org.beeref.BeeRef",
         "org.bitbucket.mystery_keeper.VapourSynthEditor",
         "org.bunkus.mkvtoolnix-gui",
         "org.citra_emu.citra",
@@ -1560,6 +1561,7 @@
         "org.apache.netbeans",
         "org.audacityteam.Audacity",
         "org.avidemux.Avidemux",
+        "org.beeref.BeeRef",
         "org.blender.Blender",
         "org.bluej.BlueJ",
         "org.bunkus.mkvtoolnix-gui",
@@ -2131,6 +2133,7 @@
     "xdg-data/applications:create": [
         "com.github.alexkdeveloper.desktop-files-creator",
         "com.github.donadigo.appeditor",
+        "com.gitlab.JakobDev.jdMinecraftLauncher",
         "org.bluesabre.MenuLibre"
     ],
     "xdg-config/autostart:create": [
@@ -2268,6 +2271,9 @@
         "com.github.ztefn.haguichi"
     ],
     "~/.minecraft:create": [
+        "com.gitlab.JakobDev.jdMinecraftLauncher"
+    ],
+    "xdg-desktop:create": [
         "com.gitlab.JakobDev.jdMinecraftLauncher"
     ],
     "~/.config/activitywatch": [

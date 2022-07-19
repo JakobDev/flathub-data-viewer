@@ -339,6 +339,7 @@
         "net.sourceforge.fspclient",
         "net.sourceforge.lgames.LBreakoutHD",
         "net.sourceforge.lgames.LGeneral",
+        "net.sourceforge.lgames.LPairs2",
         "net.sourceforge.lgames.LTris",
         "net.sourceforge.squirrel_sql",
         "net.sourceforge.wavbreaker",

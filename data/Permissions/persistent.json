@@ -80,7 +80,8 @@
         "com.parsecgaming.parsec",
         "com.tonikelope.MegaBasterd",
         "com.valvesoftware.Steam",
-        "edu.berkeley.BOINC"
+        "edu.berkeley.BOINC",
+        "net.sourceforge.lgames.LPairs2"
     ],
     ".godot": [
         "com.github.dariasteam.cowsrevenge",

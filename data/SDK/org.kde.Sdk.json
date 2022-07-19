@@ -478,6 +478,7 @@
         "io.qt.Linguist",
         "io.qt.qdbusviewer",
         "net.davidotek.pupgui2",
+        "org.beeref.BeeRef",
         "org.gottcode.Connectagram",
         "org.gottcode.CuteMaze",
         "org.gottcode.FocusWriter",
