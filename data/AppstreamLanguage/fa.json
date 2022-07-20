@@ -90,5 +90,6 @@
     "org.stellarium.Stellarium",
     "org.tug.texworks",
     "org.tuxpaint.Tuxpaint",
-    "re.sonny.Junction"
+    "re.sonny.Junction",
+    "re.sonny.Workbench"
 ]

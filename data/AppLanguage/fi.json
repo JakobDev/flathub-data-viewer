@@ -32,6 +32,7 @@
     "io.neovim.nvim",
     "io.otsaloma.gaupol",
     "io.otsaloma.nfoview",
+    "io.posidon.Paper",
     "net.launchpad.gmult",
     "net.poedit.Poedit",
     "net.sourceforge.Hugin",
