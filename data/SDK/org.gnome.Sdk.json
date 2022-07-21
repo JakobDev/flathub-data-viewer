@@ -20,6 +20,7 @@
         "com.endlessm.photos",
         "com.feaneron.Boatswain",
         "com.frac_tion.teleport",
+        "com.github.ADBeveridge.Raider",
         "com.github.Alcaro.Flips",
         "com.github.HypatiaProject.hypatia",
         "com.github.JannikHv.Gydl",
@@ -78,6 +79,7 @@
         "com.github.tchx84.Flatseal",
         "com.github.tenderowl.frog",
         "com.github.theironrobin.siglo",
+        "com.github.themix_project.Oomox",
         "com.github.unrud.VideoDownloader",
         "com.github.utsushi.Utsushi",
         "com.github.vikdevelop.VCalculator",
@@ -295,6 +297,7 @@
         "org.gnome.five-or-more",
         "org.gnome.font-viewer",
         "org.gnome.frogr",
+        "org.gnome.gbrainy",
         "org.gnome.gedit",
         "org.gnome.gitlab.Cowsay",
         "org.gnome.gitlab.YaLTeR.Identity",
@@ -422,7 +425,6 @@
         "com.chmouel.gnomeNextMeetingApplet",
         "com.doycho.euterpe.gtk",
         "com.ekonomikas.merkato",
-        "com.github.ADBeveridge.Raider",
         "com.github.Darazaki.Spedread",
         "com.github.PopoutApps.popout3d",
         "com.github.afrantzis.Bless",
@@ -526,7 +528,6 @@
         "com.github.horaciodrs.tradesim",
         "com.github.labyrinth_team.labyrinth",
         "com.github.tenderowl.norka",
-        "com.github.themix_project.Oomox",
         "com.gitlab.adnan338.Invoicer",
         "com.gitlab.adnan338.Nixwriter",
         "com.inform7.IDE",
@@ -567,7 +568,6 @@
         "org.laptop.TurtleArtActivity"
     ],
     "3.28": [
-        "org.gnome.gbrainy",
         "org.sparkleshare.SparkleShare"
     ]
 }

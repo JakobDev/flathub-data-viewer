@@ -685,6 +685,7 @@
         "net.mediaarea.QCTools",
         "net.meijn.onvifviewer",
         "net.meshlab.MeshLab",
+        "net.pcsx2.PCSX2",
         "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
         "net.rpdev.OpenTodoList",
@@ -2056,6 +2057,7 @@
     "xdg-data/Trash": [
         "com.calibre_ebook.calibre",
         "com.github.git_cola.git-cola",
+        "com.zettlr.Zettlr",
         "org.kde.gwenview"
     ],
     "~/.config/gnome-next-meeting-applet:ro": [

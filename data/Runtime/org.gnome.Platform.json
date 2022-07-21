@@ -19,6 +19,7 @@
         "com.endlessm.photos",
         "com.feaneron.Boatswain",
         "com.frac_tion.teleport",
+        "com.github.ADBeveridge.Raider",
         "com.github.Alcaro.Flips",
         "com.github.HypatiaProject.hypatia",
         "com.github.JannikHv.Gydl",
@@ -292,6 +293,7 @@
         "org.gnome.five-or-more",
         "org.gnome.font-viewer",
         "org.gnome.frogr",
+        "org.gnome.gbrainy",
         "org.gnome.gedit",
         "org.gnome.gitlab.Cowsay",
         "org.gnome.gitlab.YaLTeR.Identity",
@@ -417,7 +419,6 @@
         "com.chmouel.gnomeNextMeetingApplet",
         "com.doycho.euterpe.gtk",
         "com.ekonomikas.merkato",
-        "com.github.ADBeveridge.Raider",
         "com.github.Darazaki.Spedread",
         "com.github.PopoutApps.popout3d",
         "com.github.afrantzis.Bless",
@@ -559,7 +560,6 @@
         "org.laptop.TurtleArtActivity"
     ],
     "3.28": [
-        "org.gnome.gbrainy",
         "org.sparkleshare.SparkleShare"
     ]
 }

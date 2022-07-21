@@ -10,7 +10,8 @@
         "org.gnome.Lollypop"
     ],
     "intense": [
-        "io.github.fin_ger.OvGUCanteen"
+        "io.github.fin_ger.OvGUCanteen",
+        "net.brinkervii.grapejuice"
     ],
     "none": [
         "org.kde.digikam"
