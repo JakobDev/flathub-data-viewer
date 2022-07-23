@@ -28,6 +28,8 @@
         "com.github.calo001.luna",
         "com.github.dahenson.agenda",
         "com.github.louis77.tuner",
+        "com.github.mdh34.hackup",
+        "com.github.mdh34.quickdocs",
         "com.github.muriloventuroso.givemelyrics",
         "com.github.needleandthread.vocal",
         "com.github.phase1geo.minder",
@@ -42,8 +44,6 @@
         "com.github.inercia.k3x",
         "com.github.matfantinel.moneta",
         "com.github.matfantinel.reminduck",
-        "com.github.mdh34.hackup",
-        "com.github.mdh34.quickdocs",
         "com.github.naaando.lyrics"
     ]
 }

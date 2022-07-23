@@ -1,6 +1,7 @@
 [
     "chat.delta",
     "com.github.eneshecan.WhatsAppForLinux",
+    "com.rtosta.zapzap",
     "com.wire.WireDesktop",
     "io.github.kotatogram",
     "org.gnunet.Messenger",

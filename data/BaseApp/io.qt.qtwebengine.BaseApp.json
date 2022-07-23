@@ -33,15 +33,14 @@
         "org.paraview.ParaView",
         "org.yuzu_emu.yuzu"
     ],
-    "6.2": [
-        "com.rtosta.zapzap",
-        "dev.lukebriggs.pepys",
-        "net.jami.Jami",
-        "org.jaspstats.JASP"
-    ],
     "5.15": [
         "com.wiz.Note",
         "io.github.maurycyliebner.enve",
         "org.mobsya.ThymioSuite"
+    ],
+    "6.2": [
+        "dev.lukebriggs.pepys",
+        "net.jami.Jami",
+        "org.jaspstats.JASP"
     ]
 }

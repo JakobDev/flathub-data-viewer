@@ -910,6 +910,7 @@
         "com.parsecgaming.parsec",
         "com.plexamp.Plexamp",
         "com.qq.QQmusic",
+        "com.rtosta.zapzap",
         "com.sayonara_player.Sayonara",
         "com.seafile.Client",
         "com.sigil_ebook.Sigil",
@@ -1527,6 +1528,7 @@
         "in.srev.guiscrcpy",
         "info.mumble.Mumble",
         "io.crow_translate.CrowTranslate",
+        "io.github.NhekoReborn.Nheko",
         "io.github.OpenToonz",
         "io.github.Qalculate.qalculate-qt",
         "io.github.antimicrox.antimicrox",
@@ -2354,10 +2356,10 @@
     "org.freedesktop.networkmanager": [
         "ga.rpmtw.rpmlauncher"
     ],
-    "org.kde.*": [
+    "org.freedesktop.statusnotifieritem": [
         "io.github.NhekoReborn.Nheko"
     ],
-    "org.freedesktop.statusnotifieritem": [
+    "org.kde.*": [
         "io.github.NhekoReborn.Nheko"
     ],
     "org.freedesktop.filemanager1.*": [

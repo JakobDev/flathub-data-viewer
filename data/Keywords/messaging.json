@@ -1,6 +1,7 @@
 [
     "chat.delta",
     "com.github.eneshecan.WhatsAppForLinux",
+    "com.rtosta.zapzap",
     "im.kaidan.kaidan",
     "io.github.kotatogram",
     "org.gajim.Gajim",
