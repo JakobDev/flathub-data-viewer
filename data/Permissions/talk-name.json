@@ -2325,7 +2325,8 @@
         "com.prusa3d.PrusaSlicer"
     ],
     "org.freedesktop.portal.filechooser": [
-        "com.rtosta.zapzap"
+        "com.rtosta.zapzap",
+        "de.schmidhuberj.Flare"
     ],
     "org.gnome.gconf": [
         "com.skype.Client",
