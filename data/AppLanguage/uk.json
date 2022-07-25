@@ -46,6 +46,7 @@
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",
     "org.fritzing.Fritzing",
+    "org.gajim.Gajim",
     "org.geany.Geany",
     "org.gimp.GIMP",
     "org.glimpse_editor.Glimpse",

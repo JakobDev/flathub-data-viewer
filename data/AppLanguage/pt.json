@@ -42,6 +42,7 @@
     "org.bunkus.mkvtoolnix-gui",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",
+    "org.gajim.Gajim",
     "org.geany.Geany",
     "org.gimp.GIMP",
     "org.glimpse_editor.Glimpse",

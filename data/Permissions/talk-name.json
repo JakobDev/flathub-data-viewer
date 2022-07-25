@@ -1562,6 +1562,7 @@
         "org.citra_emu.citra",
         "org.cubocore.CoreRenamer",
         "org.cubocore.CoreTime",
+        "org.duckstation.DuckStation",
         "org.electrum.electrum",
         "org.fcitx.Fcitx5",
         "org.filmulator.Filmulator",
