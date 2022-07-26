@@ -68,6 +68,7 @@
     "org.flightgear.FlightGear",
     "org.flycast.Flycast",
     "org.freac.freac",
+    "org.freecol.FreeCol",
     "org.frozen_bubble.frozen-bubble",
     "org.hedgewars.Hedgewars",
     "org.icculus.tennix",

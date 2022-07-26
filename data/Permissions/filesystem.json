@@ -88,6 +88,7 @@
         "com.github.shonumi.gbe-plus",
         "com.github.skylot.jadx",
         "com.github.tenderowl.norka",
+        "com.github.virtual_puppet_project.vpuppr",
         "com.github.weclaw1.ImageRoll",
         "com.gitlab.cutecom.cutecom",
         "com.icanblink.blink",
@@ -635,6 +636,7 @@
         "io.github.muse_sequencer.Muse",
         "io.github.narunlifescience.AlphaPlot",
         "io.github.obiwankennedy.HotShots",
+        "io.github.parnassius.SysDVR-Qt",
         "io.github.peazip.PeaZip",
         "io.github.qnapi",
         "io.github.qtox.qTox",
@@ -667,6 +669,7 @@
         "io.sourceforge.qoobar.Qoobar",
         "io.trustable.stpadocumentationtool",
         "me.mitya57.ReText",
+        "net._86box._86Box",
         "net.codeindustry.MasterPDFEditor",
         "net.davidotek.pupgui2",
         "net.dengine.Doomsday",
@@ -717,6 +720,7 @@
         "org.clementine_player.Clementine",
         "org.cloudcompare.CloudCompare",
         "org.codeberg.dimkard.glossaico",
+        "org.contourterminal.Contour",
         "org.coolero.Coolero",
         "org.cubocore.CoreAction",
         "org.cubocore.CoreArchiver",
@@ -941,6 +945,7 @@
         "org.rncbc.qsynth",
         "org.rncbc.qtractor",
         "org.rolisteam.rolisteam",
+        "org.sdrangel.SDRangel",
         "org.shadowsocks.qt5client",
         "org.shotcut.Shotcut",
         "org.solarus_games.solarus.Launcher",
@@ -1778,6 +1783,7 @@
         "org.phoenicis.playonlinux",
         "org.profex_xrd.Profex",
         "org.scummvm.ScummVM",
+        "org.sdrangel.SDRangel",
         "org.signal.Signal",
         "org.standardnotes.standardnotes",
         "org.zaproxy.ZAP",
@@ -2201,7 +2207,10 @@
     "~/.local/share/textpieces:create": [
         "com.github.liferooter.textpieces"
     ],
-    "xdg-cache/pokete:create": [
+    "xdg-cache/pokete:ro": [
+        "com.github.lxgr_linux.pokete"
+    ],
+    "xdg-data/pokete:create": [
         "com.github.lxgr_linux.pokete"
     ],
     "xdg-data/vocal:create": [

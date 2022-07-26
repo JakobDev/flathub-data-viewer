@@ -203,6 +203,7 @@
     "org.quassel_irc.QuasselClient",
     "org.qutebrowser.qutebrowser",
     "org.remmina.Remmina",
+    "org.sdrangel.SDRangel",
     "org.shadowsocks.qt5client",
     "org.signal.Signal",
     "org.sparkleshare.SparkleShare",

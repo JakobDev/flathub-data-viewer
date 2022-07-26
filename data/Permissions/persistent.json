@@ -450,6 +450,9 @@
     ".Tribler": [
         "org.tribler.Tribler"
     ],
+    ".tuxemon": [
+        "org.tuxemon.Tuxemon"
+    ],
     ".tuxpaint": [
         "org.tuxpaint.Tuxpaint"
     ],

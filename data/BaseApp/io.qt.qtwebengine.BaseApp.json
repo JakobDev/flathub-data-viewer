@@ -31,6 +31,7 @@
         "org.kde.tellico",
         "org.musescore.MuseScore",
         "org.paraview.ParaView",
+        "org.sdrangel.SDRangel",
         "org.yuzu_emu.yuzu"
     ],
     "5.15": [
