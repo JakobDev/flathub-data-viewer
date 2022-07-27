@@ -178,7 +178,6 @@
         "io.github.nroduit.Weasis",
         "io.github.rafaelfassi.QLogExplorer",
         "io.github.retgal.Dayon",
-        "io.github.swanux.hbud",
         "io.github.technic.e2designer",
         "io.github.torbuntu.Leikr",
         "io.github.trevorsandy.LPub3D",
@@ -995,6 +994,7 @@
         "io.github.janbar.noson",
         "io.github.pragha_music_player.pragha",
         "io.github.qtox.qTox",
+        "io.github.swanux.hbud",
         "io.sourceforge.qoobar.Qoobar",
         "io.wavebox.Wavebox",
         "net.blockbench.Blockbench",
@@ -1104,6 +1104,7 @@
         "dev.tchx84.Portfolio",
         "io.github.cmus.cmus",
         "io.github.nroduit.Weasis",
+        "io.github.swanux.hbud",
         "md.obsidian.Obsidian",
         "net.meshlab.MeshLab",
         "net.retrodeck.retrodeck",
@@ -1363,6 +1364,7 @@
         "fr.masson_informatique.WhosWho",
         "io.github.TransmissionRemoteGtk",
         "io.github.celluloid_player.Celluloid",
+        "io.github.swanux.hbud",
         "net.giuspen.cherrytree",
         "net.sourceforge.efaxgtk",
         "org.darktable.Darktable",
@@ -1420,6 +1422,7 @@
         "dev.paullee.scraterpreter.Scrape",
         "fi.skyjake.Lagrange",
         "im.srain.Srain",
+        "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.fabiangreffrath.Doom",
         "net.rpcs3.RPCS3",
         "org.cubocore.CoreHunt",
@@ -1866,6 +1869,7 @@
         "io.github.qnapi",
         "io.github.qtox.qTox",
         "io.github.seadve.Kooha",
+        "io.github.swanux.hbud",
         "io.github.webcamoid.Webcamoid",
         "io.mpv.Mpv",
         "io.otsaloma.gaupol",
@@ -2083,6 +2087,7 @@
         "com.gitlab.inendi.Inspector",
         "com.rawtherapee.RawTherapee",
         "com.zettlr.Zettlr",
+        "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.maurycyliebner.enve",
         "io.github.nroduit.Weasis",
         "io.github.quodlibet.ExFalso",
@@ -2192,6 +2197,7 @@
     ],
     "~/.config": [
         "com.github.joseexposito.touche",
+        "io.github.am2r_community_developers.AM2RLauncher",
         "life.bolls.bolls"
     ],
     "xdg-run/pipewire-0:ro": [
@@ -2487,6 +2493,9 @@
     ],
     "xdg-data/zsh/site-functions:create": [
         "io.github.Foldex.r2mod"
+    ],
+    "xdg-data/apktool:create": [
+        "io.github.am2r_community_developers.AM2RLauncher"
     ],
     "~/coyotetm": [
         "io.github.igaldino.CoyoteTM"

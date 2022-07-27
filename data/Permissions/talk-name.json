@@ -756,6 +756,7 @@
         "io.github.Fndroid.clash_for_windows",
         "io.github.Icalingua.Icalingua",
         "io.github.Pithos",
+        "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.antimicrox.antimicrox",
         "io.github.ciromattia.kcc",
         "io.github.kotatogram",
@@ -972,6 +973,7 @@
         "io.github.Hexchat",
         "io.github.Icalingua.Icalingua",
         "io.github.NhekoReborn.Nheko",
+        "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.ciromattia.kcc",
         "io.github.gitahead.GitAhead",
         "io.github.jacalz.rymdport",
@@ -986,6 +988,7 @@
         "io.github.qnapi",
         "io.github.quodlibet.QuodLibet",
         "io.github.shiftey.Desktop",
+        "io.github.spacingbat3.webcord",
         "io.gitlab.librewolf-community",
         "io.kopia.KopiaUI",
         "io.lbry.lbry-app",
@@ -1105,6 +1108,7 @@
         "com.toggl.TogglDesktop",
         "com.wiz.Note",
         "gg.guilded.Guilded",
+        "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.kotatogram",
         "io.github.mimbrero.WhatsAppDesktop",
         "org.freedownloadmanager.Manager",
@@ -1809,6 +1813,7 @@
         "io.github.celluloid_player.Celluloid",
         "io.github.dfandrich.gpscorrelate",
         "io.github.shiftey.Desktop",
+        "io.github.swanux.hbud",
         "io.gitlab.librewolf-community",
         "net.giuspen.cherrytree",
         "net.sourceforge.efaxgtk",
@@ -1973,6 +1978,7 @@
         "info.puredata.Pd-extended",
         "info.smplayer.SMPlayer",
         "io.botfather.Botfather",
+        "io.freetubeapp.FreeTube",
         "io.github.kotatogram",
         "io.github.m64p.m64p",
         "io.github.shiiion.primehack",
@@ -2014,6 +2020,7 @@
         "chat.tandem.Client",
         "com.spotify.Client",
         "com.sublimetext.three",
+        "io.freetubeapp.FreeTube",
         "org.gabmus.hydrapaper",
         "org.gabmus.unifydmin",
         "org.gnome.Photos"
@@ -2056,6 +2063,7 @@
     ],
     "org.freedesktop.flatpak.*": [
         "com.borgbase.Vorta",
+        "io.github.am2r_community_developers.AM2RLauncher",
         "org.gnome.World.PikaBackup"
     ],
     "org.freedesktop.dbus.*": [
@@ -2076,6 +2084,7 @@
         "com.spotify.Client",
         "de.hoppfoundation.klassenzimmer",
         "edu.stanford.Almond",
+        "io.freetubeapp.FreeTube",
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
         "io.gitlab.librewolf-community",
@@ -2219,6 +2228,7 @@
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.valvesoftware.Steam",
         "de.hoppfoundation.klassenzimmer",
+        "io.freetubeapp.FreeTube",
         "net.displaycal.DisplayCAL",
         "org.filezillaproject.Filezilla",
         "org.jitsi.jitsi-meet",
@@ -2412,6 +2422,9 @@
     ],
     "io.github.rinigus.osmscoutserver": [
         "io.github.rinigus.PureMaps"
+    ],
+    "org.kde.statusnotifieritem-2-1": [
+        "io.github.spacingbat3.webcord"
     ],
     "org.mate.screensaver": [
         "net.rpcs3.RPCS3"
