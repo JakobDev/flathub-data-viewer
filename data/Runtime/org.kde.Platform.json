@@ -19,7 +19,6 @@
         "org.jaspstats.JASP",
         "org.linux_hardware.hw-probe",
         "org.profex_xrd.Profex",
-        "org.rncbc.qpwgraph",
         "org.rncbc.qsynth",
         "org.strawberrymusicplayer.strawberry"
     ],
@@ -485,6 +484,7 @@
         "org.gottcode.Simsu",
         "org.gottcode.Tanglet",
         "org.gottcode.Tetzle",
+        "org.rncbc.qpwgraph",
         "uk.org.zint.zint-qt"
     ],
     "5.12": [

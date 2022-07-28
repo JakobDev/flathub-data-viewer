@@ -7,6 +7,7 @@
         "app.riftshare.RiftShare",
         "ar.xjuan.Cambalache",
         "br.gov.fazenda.receita.irpf",
+        "ch.x29a.playitslowly",
         "cn.navclub.ldbfx",
         "codes.loers.Karlender",
         "com.abisource.AbiWord",
@@ -180,6 +181,7 @@
         "io.posidon.Paper",
         "me.dusansimic.DynamicWallpaper",
         "me.sanchezrodriguez.passes",
+        "ml.prevete.Daty",
         "moe.tundra.Tundra",
         "net.baseart.Glide",
         "net.christianbeier.Gromit-MPX",
@@ -526,8 +528,19 @@
         "uk.jnthn.backgammony",
         "work.openpaper.Paperwork"
     ],
+    "3.36": [
+        "codes.nora.gDiceRoller",
+        "com.github.bajoja.indicator-kdeconnect",
+        "com.github.bcedu.vgrive",
+        "com.github.calo001.fondo",
+        "com.github.inercia.k3x",
+        "in.bharatkalluri.splash",
+        "net.sourceforge.Teo",
+        "org.fdroid.Repomaker",
+        "org.gabmus.unifydmin",
+        "org.sil.FieldWorks"
+    ],
     "3.38": [
-        "ch.x29a.playitslowly",
         "com.cassidyjames.plausible",
         "com.gigitux.youp",
         "com.github.dawidd6.checksumo",
@@ -537,7 +550,6 @@
         "com.gitlab.adnan338.Invoicer",
         "com.gitlab.adnan338.Nixwriter",
         "com.inform7.IDE",
-        "ml.prevete.Daty",
         "org.cvfosammmm.Porto",
         "org.cvfosammmm.Setzer",
         "org.famistudio.FamiStudio",
@@ -551,18 +563,6 @@
         "uk.co.mangobrain.Infector",
         "uk.et1.big-finish-downloader",
         "vn.hoabinh.quan.CoBang"
-    ],
-    "3.36": [
-        "codes.nora.gDiceRoller",
-        "com.github.bajoja.indicator-kdeconnect",
-        "com.github.bcedu.vgrive",
-        "com.github.calo001.fondo",
-        "com.github.inercia.k3x",
-        "in.bharatkalluri.splash",
-        "net.sourceforge.Teo",
-        "org.fdroid.Repomaker",
-        "org.gabmus.unifydmin",
-        "org.sil.FieldWorks"
     ],
     "3.26": [
         "com.lettier.movie-monad"

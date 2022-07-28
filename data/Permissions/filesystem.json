@@ -384,6 +384,7 @@
         "com.teamspeak.TeamSpeak",
         "com.tonikelope.MegaBasterd",
         "com.tracktion.Waveform",
+        "com.usebottles.bottles",
         "com.viber.Viber",
         "com.wps.Office",
         "com.xunlei.Thunder",
@@ -973,6 +974,7 @@
     ],
     "xdg-music": [
         "app.moosync.moosync",
+        "ch.x29a.playitslowly",
         "com.brave.Browser",
         "com.github.ahrm.sioyek",
         "com.github.arminstraub.krop",
@@ -1276,7 +1278,6 @@
         "io.gitlab.Goodvibes",
         "io.liri.Calculator",
         "io.liri.Text",
-        "ml.prevete.Daty",
         "net.christianbeier.Gromit-MPX",
         "net.poedit.Poedit",
         "nl.g4d.Girens",
@@ -1321,7 +1322,6 @@
         "io.gitlab.Goodvibes",
         "io.liri.Calculator",
         "io.liri.Text",
-        "ml.prevete.Daty",
         "net.christianbeier.Gromit-MPX",
         "net.poedit.Poedit",
         "nl.g4d.Girens",
@@ -2071,6 +2071,7 @@
         "com.calibre_ebook.calibre",
         "com.github.git_cola.git-cola",
         "com.zettlr.Zettlr",
+        "io.github.shiftey.Desktop",
         "org.kde.gwenview"
     ],
     "~/.config/gnome-next-meeting-applet:ro": [
