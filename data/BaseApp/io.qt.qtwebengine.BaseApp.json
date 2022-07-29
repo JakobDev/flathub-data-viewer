@@ -41,7 +41,9 @@
     ],
     "6.2": [
         "dev.lukebriggs.pepys",
-        "net.jami.Jami",
         "org.jaspstats.JASP"
+    ],
+    "6.3": [
+        "net.jami.Jami"
     ]
 }

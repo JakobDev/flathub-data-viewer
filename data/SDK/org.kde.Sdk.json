@@ -8,7 +8,6 @@
         "dev.lukebriggs.pepys",
         "eu.skribisto.skribisto",
         "io.github.m64p.m64p",
-        "net.jami.Jami",
         "net.sourceforge.VMPK",
         "net.sourceforge.dmidiplayer",
         "net.wz2100.wz2100",
@@ -384,7 +383,6 @@
         "org.qutebrowser.qutebrowser",
         "org.qxmledit.QXmlEdit",
         "org.raspberrypi.rpi-imager",
-        "org.rncbc.qtractor",
         "org.sdrangel.SDRangel",
         "org.shotcut.Shotcut",
         "org.solarus_games.solarus.Launcher",
@@ -481,6 +479,7 @@
         "io.qt.Linguist",
         "io.qt.qdbusviewer",
         "net.davidotek.pupgui2",
+        "net.jami.Jami",
         "net.pcsx2.PCSX2",
         "org.beeref.BeeRef",
         "org.gottcode.Connectagram",
@@ -495,6 +494,7 @@
         "org.gottcode.Tanglet",
         "org.gottcode.Tetzle",
         "org.rncbc.qpwgraph",
+        "org.rncbc.qtractor",
         "uk.org.zint.zint-qt"
     ],
     "5.12": [

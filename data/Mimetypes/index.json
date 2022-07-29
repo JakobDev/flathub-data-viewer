@@ -1472,7 +1472,6 @@
         "x-scheme-handler{SLASH}element",
         "x-scheme-handler{SLASH}et",
         "x-scheme-handler{SLASH}feed",
-        "x-scheme-handler{SLASH}ferdi",
         "x-scheme-handler{SLASH}ferdium",
         "x-scheme-handler{SLASH}figma",
         "x-scheme-handler{SLASH}franz",

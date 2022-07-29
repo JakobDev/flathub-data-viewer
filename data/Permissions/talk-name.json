@@ -689,7 +689,6 @@
         "com.dropbox.Client",
         "com.elsevier.MendeleyDesktop",
         "com.georgefb.quickaccess",
-        "com.getferdi.Ferdi",
         "com.getmailspring.Mailspring",
         "com.gigitux.youp",
         "com.github.IsmaelMartinez.teams_for_linux",
@@ -849,7 +848,6 @@
         "com.dropbox.Client",
         "com.elsevier.MendeleyDesktop",
         "com.fightcade.Fightcade",
-        "com.getferdi.Ferdi",
         "com.getmailspring.Mailspring",
         "com.gigitux.youp",
         "com.github.Eloston.UngoogledChromium",
@@ -1476,7 +1474,6 @@
         "org.qutebrowser.qutebrowser",
         "org.qxmledit.QXmlEdit",
         "org.raspberrypi.rpi-imager",
-        "org.rncbc.qtractor",
         "org.sdrangel.SDRangel",
         "org.shotcut.Shotcut",
         "org.solarus_games.solarus.Launcher",
@@ -1728,7 +1725,6 @@
         "org.qownnotes.QOwnNotes",
         "org.quassel_irc.QuasselClient",
         "org.qutebrowser.qutebrowser",
-        "org.rncbc.qtractor",
         "org.sdrangel.SDRangel",
         "org.shotcut.Shotcut",
         "org.stellarium.Stellarium",
@@ -1951,8 +1947,7 @@
         "ca.desrt.dconf-editor",
         "info.febvre.Komikku",
         "org.gnome.Calendar",
-        "org.gnome.Reversi",
-        "org.gnome.Todo"
+        "org.gnome.Reversi"
     ],
     "org.freedesktop.powermanagement.inhibit": [
         "ca.parallel_launcher.ParallelLauncher",
@@ -2577,7 +2572,8 @@
         "org.keepassxc.KeePassXC"
     ],
     "org.freedesktop.login1.manager": [
-        "org.keepassxc.KeePassXC"
+        "org.keepassxc.KeePassXC",
+        "org.yuzu_emu.yuzu"
     ],
     "org.freedesktop.login1.session": [
         "org.keepassxc.KeePassXC"
