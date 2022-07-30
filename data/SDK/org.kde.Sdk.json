@@ -1,6 +1,7 @@
 {
     "6.2": [
         "app.lith.Lith",
+        "com.github.dynobo.normcap",
         "com.github.giacomogroppi.writernote-qt",
         "com.gitlab.tipp10.tipp10",
         "com.ylsoftware.qmmp.Qmmp",
@@ -100,6 +101,7 @@
         "de.bund.ausweisapp.ausweisapp2",
         "de.klayout.KLayout",
         "de.rwth_aachen.ient.YUView",
+        "de.shorsh.discord-screenaudio",
         "de.syping.gta5view",
         "de.unifreiburg.ellipticcurve",
         "eu.ad5001.LogarithmPlotter",
