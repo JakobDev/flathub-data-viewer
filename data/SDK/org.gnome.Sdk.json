@@ -48,6 +48,7 @@
         "com.github.artemanufrij.playmymusic",
         "com.github.avojak.paint-spill",
         "com.github.avojak.warble",
+        "com.github.bcedu.vgrive",
         "com.github.bleakgrey.tootle",
         "com.github.bluesabre.darkbar",
         "com.github.carlos157oliveira.Calculus",
@@ -74,6 +75,7 @@
         "com.github.neithern.g4music",
         "com.github.paolostivanin.OTPClient",
         "com.github.philip_scott.notes-up",
+        "com.github.qarmin.czkawka",
         "com.github.rafostar.Clapper",
         "com.github.rogercrocker.badabib",
         "com.github.ryonakano.konbucase",
@@ -531,7 +533,6 @@
     "3.36": [
         "codes.nora.gDiceRoller",
         "com.github.bajoja.indicator-kdeconnect",
-        "com.github.bcedu.vgrive",
         "com.github.calo001.fondo",
         "com.github.inercia.k3x",
         "in.bharatkalluri.splash",

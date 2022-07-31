@@ -2,7 +2,6 @@
     "5.15-21.08": [
         "ch.theologeek.Manuskript",
         "com.github.iwalton3.jellyfin-media-player",
-        "com.github.jmlich.geotagging",
         "com.github.rssguard",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.nextcloud.desktopclient.nextcloud",
@@ -35,6 +34,10 @@
         "org.sdrangel.SDRangel",
         "org.yuzu_emu.yuzu"
     ],
+    "6.3": [
+        "com.github.jmlich.geotagging",
+        "net.jami.Jami"
+    ],
     "5.15": [
         "com.wiz.Note",
         "io.github.maurycyliebner.enve",
@@ -43,8 +46,5 @@
     "6.2": [
         "dev.lukebriggs.pepys",
         "org.jaspstats.JASP"
-    ],
-    "6.3": [
-        "net.jami.Jami"
     ]
 }

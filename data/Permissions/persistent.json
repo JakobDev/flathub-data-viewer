@@ -93,10 +93,6 @@
     ".lyrics": [
         "com.github.gmg137.netease-cloud-music-gtk"
     ],
-    "path": [
-        "com.github.jkotra.eovpn",
-        "org.kde.kongress"
-    ],
     ".opentyrian": [
         "com.github.opentyrian.OpenTyrian"
     ],
@@ -379,6 +375,9 @@
     ],
     ".hikounomizu": [
         "org.hikounomizu.HikouNoMizu"
+    ],
+    "path": [
+        "org.kde.kongress"
     ],
     ".config/mana": [
         "org.manaplus.ManaPlus"

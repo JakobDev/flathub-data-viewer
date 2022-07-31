@@ -1465,7 +1465,6 @@
         "com.github.geigi.cozy",
         "com.github.ilai_deutel.kibi",
         "com.github.jeromerobert.pdfarranger",
-        "com.github.jkotra.eovpn",
         "com.github.junrrein.PDFSlicer",
         "com.github.marktext.marktext",
         "com.github.nihui.waifu2x-ncnn-vulkan",
@@ -2196,6 +2195,9 @@
     "/run/docker.sock": [
         "com.github.inercia.k3x",
         "com.github.sdv43.whaler"
+    ],
+    "~/.cert:create": [
+        "com.github.jkotra.eovpn"
     ],
     "~/.config": [
         "com.github.joseexposito.touche",
