@@ -4528,23 +4528,6 @@
         "se.cendio.tlclient",
         "uk.org.zint.zint-qt"
     ],
-    "system-bus": [
-        "com.github.jkotra.eovpn",
-        "com.rtosta.zapzap",
-        "com.tutanota.Tutanota",
-        "io.brackets.Brackets",
-        "io.github.jliljebl.Flowblade",
-        "io.jamulus.Jamulus",
-        "io.qt.qdbusviewer",
-        "net.displaycal.DisplayCAL",
-        "org.codeblocks.codeblocks",
-        "org.freedesktop.Bustle",
-        "org.gabmus.whatip",
-        "org.gnome.Builder",
-        "org.gnome.dfeet",
-        "org.gnome.dspy",
-        "vn.hoabinh.quan.CoBang"
-    ],
     "session-bus": [
         "com.github.naaando.lyrics",
         "com.hack_computer.Clubhouse",
@@ -4570,6 +4553,22 @@
         "org.gnome.dspy",
         "org.xfce.ristretto",
         "re.sonny.Workbench",
+        "vn.hoabinh.quan.CoBang"
+    ],
+    "system-bus": [
+        "com.rtosta.zapzap",
+        "com.tutanota.Tutanota",
+        "io.brackets.Brackets",
+        "io.github.jliljebl.Flowblade",
+        "io.jamulus.Jamulus",
+        "io.qt.qdbusviewer",
+        "net.displaycal.DisplayCAL",
+        "org.codeblocks.codeblocks",
+        "org.freedesktop.Bustle",
+        "org.gabmus.whatip",
+        "org.gnome.Builder",
+        "org.gnome.dfeet",
+        "org.gnome.dspy",
         "vn.hoabinh.quan.CoBang"
     ]
 }

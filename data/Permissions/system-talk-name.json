@@ -7,6 +7,7 @@
         "com.borgbase.Vorta",
         "com.github.Matoking.protontricks",
         "com.github.gabutakut.gabutdm",
+        "com.github.jkotra.eovpn",
         "com.skype.Client",
         "com.valvesoftware.Steam",
         "io.github.prateekmedia.pstube",
@@ -173,6 +174,12 @@
         "com.hack_computer.Clubhouse",
         "com.ktechpit.wonderwall",
         "org.gnome.Boxes"
+    ],
+    "net.openvpn.v3.configuration": [
+        "com.github.jkotra.eovpn"
+    ],
+    "net.openvpn.v3.sessions": [
+        "com.github.jkotra.eovpn"
     ],
     "org.freedesktop.geoclue2": [
         "com.gitlab.bitseater.meteo",
