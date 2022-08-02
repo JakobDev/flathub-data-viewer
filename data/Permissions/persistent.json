@@ -219,6 +219,9 @@
     ".bibletime": [
         "info.bibletime.BibleTime"
     ],
+    "~/.s25rttr": [
+        "info.rttr.Return-To-The-Roots"
+    ],
     ".q3a": [
         "info.urbanterror.UrbanTerror"
     ],

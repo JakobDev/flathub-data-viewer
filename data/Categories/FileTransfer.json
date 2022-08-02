@@ -10,6 +10,7 @@
     "com.synology.SynologyDrive",
     "com.transmissionbt.Transmission",
     "com.valvesoftware.Steam",
+    "eu.ithz.umftpd",
     "io.github.TransmissionRemoteGtk",
     "io.github.hakuneko.HakuNeko",
     "io.github.jacalz.rymdport",

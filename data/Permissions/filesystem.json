@@ -344,6 +344,7 @@
         "com.getmailspring.Mailspring",
         "com.github.JannikHv.Gydl",
         "com.github.KRTirtho.Spotube",
+        "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
         "com.github.ahrm.sioyek",
         "com.github.arminstraub.krop",
@@ -978,6 +979,7 @@
         "app.moosync.moosync",
         "ch.x29a.playitslowly",
         "com.brave.Browser",
+        "com.github.Matoking.protontricks",
         "com.github.ahrm.sioyek",
         "com.github.arminstraub.krop",
         "com.github.eneshecan.WhatsAppForLinux",
@@ -1363,6 +1365,7 @@
         "com.transmissionbt.Transmission",
         "de.create3000.titania",
         "edu.stanford.Almond",
+        "eu.ithz.umftpd",
         "fr.handbrake.ghb",
         "fr.masson_informatique.WhosWho",
         "io.github.TransmissionRemoteGtk",
@@ -1725,6 +1728,7 @@
         "com.dosbox.DOSBox",
         "com.getmailspring.Mailspring",
         "com.github.KRTirtho.Spotube",
+        "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
         "com.github.ahrm.sioyek",
         "com.github.arminstraub.krop",
@@ -1801,6 +1805,7 @@
         "chat.rocket.RocketChat",
         "com.boxy_svg.BoxySVG",
         "com.diy_fever.DIYLayoutCreator",
+        "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
         "com.github.cfcurtis.pdfstitcher",
         "com.github.coslyk.MoonPlayer",
@@ -1854,6 +1859,7 @@
         "chat.quadrix.Quadrix",
         "com.bluejeans.BlueJeans",
         "com.brave.Browser",
+        "com.github.Matoking.protontricks",
         "com.github.amikha1lov.RecApp",
         "com.github.artemanufrij.playmyvideos",
         "com.github.coslyk.MoonPlayer",
@@ -2015,6 +2021,7 @@
     "xdg-desktop": [
         "com.boxy_svg.BoxySVG",
         "com.brave.Browser",
+        "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
         "com.github.corna.Vivado",
         "com.github.eneshecan.WhatsAppForLinux",
@@ -2119,17 +2126,17 @@
     "xdg-run/app/com.discordapp.DiscordCanary:create": [
         "com.github.Anuken.Mindustry"
     ],
-    "~/.var/app/com.valvesoftware.Steam": [
-        "com.github.Matoking.protontricks",
-        "com.github._0negal.Viper",
-        "com.heroicgameslauncher.hgl",
-        "io.github.philipk.boilr"
-    ],
     "xdg-data/Steam": [
         "com.github.Matoking.protontricks",
         "com.heroicgameslauncher.hgl",
         "io.github.philipk.boilr",
         "space.crankshaft.Crankshaft"
+    ],
+    "~/.var/app/com.valvesoftware.Steam": [
+        "com.github.Matoking.protontricks",
+        "com.github._0negal.Viper",
+        "com.heroicgameslauncher.hgl",
+        "io.github.philipk.boilr"
     ],
     "~/.steam": [
         "com.github.Matoking.protontricks",
@@ -2140,6 +2147,7 @@
     ],
     "xdg-public-share": [
         "com.github.PintaProject.Pinta",
+        "eu.ithz.umftpd",
         "net.blockbench.Blockbench",
         "no.mifi.losslesscut",
         "org.gnome.gThumb",
