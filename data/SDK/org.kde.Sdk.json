@@ -354,6 +354,7 @@
         "org.leocad.LeoCAD",
         "org.librepcb.LibrePCB",
         "org.libretro.RetroArch",
+        "org.mamedev.MAME",
         "org.mapeditor.Tiled",
         "org.mixxx.Mixxx",
         "org.munadi.Munadi",

@@ -236,6 +236,7 @@
         "net.cubers.assault.AssaultCube",
         "org.chocolate_doom.ChocolateDoom",
         "org.dhewm3.Dhewm3",
+        "org.mamedev.MAME",
         "org.phoenicis.playonlinux",
         "org.tordini.flavio.Minitube"
     ],

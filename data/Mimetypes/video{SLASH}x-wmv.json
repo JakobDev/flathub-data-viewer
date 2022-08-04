@@ -1,4 +1,5 @@
 [
+    "app.drey.EarTag",
     "io.github.quodlibet.QuodLibet",
     "org.kde.koko",
     "org.musicbrainz.Picard"

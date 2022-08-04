@@ -382,6 +382,9 @@
     "path": [
         "org.kde.kongress"
     ],
+    ".mame": [
+        "org.mamedev.MAME"
+    ],
     ".config/mana": [
         "org.manaplus.ManaPlus"
     ],

@@ -231,6 +231,7 @@
         "com.valvesoftware.Steam",
         "io.github.hakuneko.HakuNeko",
         "org.firestormviewer.FirestormViewer",
+        "org.mamedev.MAME",
         "org.phoenicis.playonlinux",
         "org.tordini.flavio.Minitube"
     ],

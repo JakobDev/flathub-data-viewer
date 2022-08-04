@@ -244,6 +244,7 @@
     "moderate": [
         "net.brinkervii.grapejuice",
         "net.runelite.RuneLite",
+        "org.mamedev.MAME",
         "vet.rsc.OpenRSC.Launcher"
     ]
 }

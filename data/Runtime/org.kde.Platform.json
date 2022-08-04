@@ -350,6 +350,7 @@
         "org.leocad.LeoCAD",
         "org.librepcb.LibrePCB",
         "org.libretro.RetroArch",
+        "org.mamedev.MAME",
         "org.mapeditor.Tiled",
         "org.mixxx.Mixxx",
         "org.munadi.Munadi",
@@ -462,7 +463,6 @@
     "6.3": [
         "com.github.jmlich.geotagging",
         "com.gitlab.JakobDev.jdAnimatedImageEditor",
-        "com.gitlab.JakobDev.jdAppdataEdit",
         "com.gitlab.JakobDev.jdDiff",
         "com.gitlab.JakobDev.jdEolConverter",
         "com.gitlab.JakobDev.jdMinecraftLauncher",

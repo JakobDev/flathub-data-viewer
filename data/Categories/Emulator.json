@@ -36,6 +36,7 @@
     "org.flycast.Flycast",
     "org.gnome.Boxes",
     "org.libretro.RetroArch",
+    "org.mamedev.MAME",
     "org.openmsx.openMSX",
     "org.purei.Play",
     "org.ryujinx.Ryujinx",

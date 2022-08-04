@@ -3,6 +3,7 @@
         "app.bluebubbles.BlueBubbles",
         "app.drey.Blurble",
         "app.drey.Dialect",
+        "app.drey.EarTag",
         "app.drey.Warp",
         "app.rednotebook.RedNotebook",
         "app.riftshare.RiftShare",
@@ -54,6 +55,7 @@
         "com.github.bluesabre.darkbar",
         "com.github.carlos157oliveira.Calculus",
         "com.github.corna.Vivado",
+        "com.github.d4nj1.tlpui",
         "com.github.eneshecan.WhatsAppForLinux",
         "com.github.flxzt.rnote",
         "com.github.fushinari.Wordbook",
@@ -114,6 +116,7 @@
         "com.rafaelmardojai.WebfontKitGenerator",
         "com.raggesilver.BlackBox",
         "com.ranfdev.Geopard",
+        "com.ranfdev.Lobjur",
         "com.rawtherapee.RawTherapee",
         "com.syntevo.SmartSynchronize",
         "com.transmissionbt.Transmission",
@@ -206,6 +209,7 @@
         "nl.sarine.gpx-viewer",
         "org.apache.directory.studio",
         "org.audacityteam.Audacity",
+        "org.caione.GScope",
         "org.cockpit_project.CockpitClient",
         "org.darktable.Darktable",
         "org.eclipse.Java",
@@ -570,7 +574,6 @@
         "com.lettier.movie-monad"
     ],
     "3.34": [
-        "org.caione.GScope",
         "org.laptop.TurtleArtActivity"
     ],
     "3.28": [

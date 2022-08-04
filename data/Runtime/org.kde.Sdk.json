@@ -7,6 +7,7 @@
         "org.octave.Octave"
     ],
     "6.3": [
+        "com.gitlab.JakobDev.jdAppdataEdit",
         "com.gitlab.JakobDev.jdTextEdit",
         "io.qt.Designer",
         "io.qt.Linguist",

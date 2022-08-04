@@ -2,7 +2,8 @@
     "moderate": [
         "com.fightcade.Fightcade",
         "com.lunarclient.LunarClient",
-        "nl.lostboys.rollemup"
+        "nl.lostboys.rollemup",
+        "org.mamedev.MAME"
     ],
     "mild": [
         "com.github.HypatiaProject.hypatia",
