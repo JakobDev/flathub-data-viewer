@@ -1,6 +1,7 @@
 [
     "com.chmouel.gnomeNextMeetingApplet",
     "org.cubocore.CoreTime",
+    "org.flozz.calcleaner",
     "org.gahshomar.Gahshomar",
     "org.gnome.Calendar"
 ]

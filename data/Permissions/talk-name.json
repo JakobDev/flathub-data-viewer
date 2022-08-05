@@ -1721,6 +1721,7 @@
         "org.mixxx.Mixxx",
         "org.munadi.Munadi",
         "org.musicbrainz.Picard",
+        "org.octave.Octave",
         "org.onionshare.OnionShare",
         "org.openchemistry.Avogadro2",
         "org.openhantek.OpenHantek6022",
@@ -2359,6 +2360,9 @@
     ],
     "com.prusa3d.prusaslicer.instancecheck.*": [
         "com.prusa3d.PrusaSlicer"
+    ],
+    "org.kde.statusnotifieritem": [
+        "com.rtosta.zapzap"
     ],
     "org.freedesktop.portal.filechooser": [
         "com.rtosta.zapzap",

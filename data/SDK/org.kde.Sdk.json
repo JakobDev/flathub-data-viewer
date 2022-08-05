@@ -18,8 +18,7 @@
         "org.jaspstats.JASP",
         "org.linux_hardware.hw-probe",
         "org.profex_xrd.Profex",
-        "org.rncbc.qsynth",
-        "org.strawberrymusicplayer.strawberry"
+        "org.rncbc.qsynth"
     ],
     "5.15-21.08": [
         "app.resp.RESP",
@@ -498,6 +497,7 @@
         "org.gottcode.Tetzle",
         "org.rncbc.qpwgraph",
         "org.rncbc.qtractor",
+        "org.strawberrymusicplayer.strawberry",
         "uk.org.zint.zint-qt"
     ],
     "5.12": [
