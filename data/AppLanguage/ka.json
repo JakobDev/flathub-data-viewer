@@ -2,6 +2,7 @@
     "app.drey.Dialect",
     "app.rednotebook.RedNotebook",
     "com.rafaelmardojai.Blanket",
+    "io.bassi.Amberol",
     "net.poedit.Poedit",
     "org.gimp.GIMP",
     "org.gnome.Calculator",

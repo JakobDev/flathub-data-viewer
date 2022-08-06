@@ -1590,6 +1590,7 @@
         "org.cubocore.CoreRenamer",
         "org.cubocore.CoreTime",
         "org.duckstation.DuckStation",
+        "org.easycoding.TunedSwitcher",
         "org.electrum.electrum",
         "org.fcitx.Fcitx5",
         "org.filmulator.Filmulator",

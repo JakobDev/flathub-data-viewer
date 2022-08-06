@@ -5,6 +5,7 @@
     "com.github.reds.LogisimEvolution",
     "de.klayout.KLayout",
     "eu.stethewwolf.gresistor",
+    "io.github.gtkwave.GTKWave",
     "org.fritzing.Fritzing",
     "org.horizon_eda.HorizonEDA",
     "org.kicad.KiCad",

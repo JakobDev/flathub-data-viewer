@@ -168,6 +168,7 @@
         "io.github.f3d_app.f3d",
         "io.github.garglk.Gargoyle",
         "io.github.gitahead.GitAhead",
+        "io.github.gtkwave.GTKWave",
         "io.github.hakuneko.HakuNeko",
         "io.github.liberodark.OpenDrive",
         "io.github.lruzicka.Needly",
@@ -1987,6 +1988,7 @@
         "org.inkscape.Inkscape",
         "org.kde.krita",
         "org.keepassxc.KeePassXC",
+        "org.nicotine_plus.Nicotine",
         "org.videolan.VLC",
         "org.xfce.mousepad",
         "org.xfce.ristretto"

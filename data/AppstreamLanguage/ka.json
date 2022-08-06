@@ -1,6 +1,7 @@
 [
     "app.drey.Dialect",
     "com.rafaelmardojai.Blanket",
+    "io.bassi.Amberol",
     "org.gimp.GIMP",
     "org.gnome.Calculator",
     "org.gnome.Cheese",
