@@ -13,6 +13,7 @@
     "io.qt.Designer",
     "io.qt.Linguist",
     "io.qt.qdbusviewer",
+    "net.minetest.Minetest",
     "org.inkscape.Inkscape",
     "org.kde.okteta",
     "org.love2d.love2d",
