@@ -102,6 +102,7 @@
     "org.plomgrading.PlomClient",
     "org.profex_xrd.Profex",
     "org.qgis.qgis",
+    "org.sil.Bloom",
     "org.sil.FieldWorks",
     "org.squeakland.Etoys",
     "org.stellarium.Stellarium",

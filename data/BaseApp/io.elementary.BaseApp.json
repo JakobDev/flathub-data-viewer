@@ -16,7 +16,6 @@
         "com.github.raibtoffoletto.litteris",
         "com.github.rajsolai.response",
         "com.github.robertsanseries.ciano",
-        "com.github.subhadeepjasu.pebbles",
         "com.github.treagod.spectator"
     ],
     "juno-21.08": [
@@ -35,7 +34,8 @@
         "com.github.needleandthread.vocal",
         "com.github.phase1geo.minder",
         "com.github.philip_scott.notes-up",
-        "com.github.rajsolai.textsnatcher"
+        "com.github.rajsolai.textsnatcher",
+        "com.github.subhadeepjasu.pebbles"
     ],
     "juno-19.08": [
         "com.github.calo001.fondo",

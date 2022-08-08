@@ -1698,6 +1698,7 @@
         "org.scantailor.ScanTailor",
         "org.scintilla.SciTE",
         "org.shotcut.Shotcut",
+        "org.sil.Bloom",
         "org.sil.FieldWorks",
         "org.synfig.SynfigStudio",
         "org.tabos.roger",
@@ -2126,6 +2127,7 @@
         "org.ksnip.ksnip",
         "org.musicbrainz.Picard",
         "org.onlyoffice.desktopeditors",
+        "org.sil.Bloom",
         "org.sil.FieldWorks",
         "org.texstudio.TeXstudio",
         "org.vim.Vim"

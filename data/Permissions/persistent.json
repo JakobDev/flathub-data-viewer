@@ -211,6 +211,9 @@
     ".purple": [
         "im.pidgin.Pidgin"
     ],
+    ".android": [
+        "in.srev.guiscrcpy"
+    ],
     ".sword": [
         "info.bibletime.BibleTime",
         "org.homelinuxserver.vance.biblereader",
