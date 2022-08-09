@@ -203,6 +203,7 @@
         "io.liri.Calculator",
         "io.liri.Text",
         "io.openrct2.OpenRCT2",
+        "me.aandrew.ytdownloader",
         "me.sanchezrodriguez.passes",
         "me.simakis.dropboxignore",
         "net.blockout.BlockOutII",

@@ -241,6 +241,7 @@
         "com.ozmartians.VidCutter",
         "com.parallax.PropellerIDE",
         "com.polyphone_soundfonts.polyphone",
+        "com.rocksandpaper.syndic",
         "com.rosegardenmusic.rosegarden",
         "com.rtosta.zapzap",
         "com.sayonara_player.Sayonara",
@@ -724,6 +725,7 @@
         "com.nordpass.NordPass",
         "com.obsproject.Studio",
         "com.ownrwallet.wallet",
+        "com.rocksandpaper.syndic",
         "com.rtosta.zapzap",
         "com.seafile.Client",
         "com.sigil_ebook.Sigil",
@@ -917,6 +919,7 @@
         "com.parsecgaming.parsec",
         "com.plexamp.Plexamp",
         "com.qq.QQmusic",
+        "com.rocksandpaper.syndic",
         "com.rtosta.zapzap",
         "com.sayonara_player.Sayonara",
         "com.seafile.Client",
@@ -997,6 +1000,7 @@
         "io.stoplight.studio",
         "io.wavebox.Wavebox",
         "io.webtorrent.WebTorrent",
+        "me.aandrew.ytdownloader",
         "me.hyliu.fluentreader",
         "moe.tundra.Tundra",
         "net.agalwood.Motrix",
@@ -1203,6 +1207,7 @@
         "com.obsproject.Studio",
         "com.ozmartians.VidCutter",
         "com.polyphone_soundfonts.polyphone",
+        "com.rocksandpaper.syndic",
         "com.rosegardenmusic.rosegarden",
         "com.sayonara_player.Sayonara",
         "com.seafile.Client",
@@ -1500,7 +1505,8 @@
         "space.fips.Fips",
         "studio.kx.carla",
         "ua.org.brezblock.q4wine",
-        "website.i2pd.i2pd"
+        "website.i2pd.i2pd",
+        "xyz.mx_moment.moment"
     ],
     "org.kde.kglobalsettings": [
         "app.resp.RESP",
@@ -1536,6 +1542,7 @@
         "com.makemkv.MakeMKV",
         "com.moonlight_stream.Moonlight",
         "com.nextcloud.desktopclient.nextcloud",
+        "com.rocksandpaper.syndic",
         "com.rosegardenmusic.rosegarden",
         "com.seafile.Client",
         "com.sigil_ebook.Sigil",
@@ -1752,7 +1759,8 @@
         "org.wireshark.Wireshark",
         "org.yuzu_emu.yuzu",
         "studio.kx.carla",
-        "website.i2pd.i2pd"
+        "website.i2pd.i2pd",
+        "xyz.mx_moment.moment"
     ],
     "ca.desrt.dconf": [
         "ar.com.tuxguitar.TuxGuitar",

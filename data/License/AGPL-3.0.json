@@ -11,5 +11,6 @@
     "org.gnunet.Messenger",
     "org.kde.gcompris",
     "org.standardnotes.standardnotes",
-    "org.zotero.Zotero"
+    "org.zotero.Zotero",
+    "org.freedesktop.LinuxAudio.Plugins.Fire"
 ]

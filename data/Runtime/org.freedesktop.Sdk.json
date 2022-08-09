@@ -39,6 +39,7 @@
         "org.geany.Geany",
         "org.ghidra_sre.Ghidra",
         "org.gnu.emacs",
+        "org.kicad.KiCad",
         "org.scilab.Scilab",
         "org.thonny.Thonny",
         "org.vim.Vim"

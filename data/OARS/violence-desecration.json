@@ -94,6 +94,7 @@
         "io.lbry.lbry-app",
         "io.liri.Calculator",
         "io.liri.Text",
+        "me.aandrew.ytdownloader",
         "me.sanchezrodriguez.passes",
         "net.blockout.BlockOutII",
         "net.daase.journable",

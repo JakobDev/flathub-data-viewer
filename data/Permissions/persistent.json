@@ -99,6 +99,9 @@
     ".jrommanager": [
         "com.github.optyfr.JRomManager"
     ],
+    ".yafc": [
+        "com.github.petebuffon.yafc"
+    ],
     ".xournalpp": [
         "com.github.xournalpp.xournalpp"
     ],

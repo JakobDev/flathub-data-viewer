@@ -192,6 +192,7 @@
         "io.photoflare.photoflare",
         "io.sourceforge.Pixelitor",
         "md.obsidian.Obsidian",
+        "me.aandrew.ytdownloader",
         "me.mitya57.ReText",
         "me.simakis.dropboxignore",
         "net.agalwood.Motrix",
@@ -630,6 +631,7 @@
         "com.ozmartians.VidCutter",
         "com.parallax.PropellerIDE",
         "com.polyphone_soundfonts.polyphone",
+        "com.rocksandpaper.syndic",
         "com.rosegardenmusic.rosegarden",
         "com.rtosta.zapzap",
         "com.sayonara_player.Sayonara",
@@ -2265,6 +2267,17 @@
         "io.github.Soundux",
         "sh.ppy.osu"
     ],
+    "~/.var/app/com.valvesoftware.Steam:ro": [
+        "com.github.petebuffon.yafc",
+        "org.gnome.Games",
+        "org.pegasus_frontend.Pegasus"
+    ],
+    "~/.steam/steam/steamapps/common/Factorio/data:ro": [
+        "com.github.petebuffon.yafc"
+    ],
+    "~/.factorio/mods:ro": [
+        "com.github.petebuffon.yafc"
+    ],
     "xdg-config/neothesia": [
         "com.github.polymeilex.neothesia"
     ],
@@ -2811,10 +2824,6 @@
     ],
     "xdg-config/fontconfig:create": [
         "org.gnome.FontManager"
-    ],
-    "~/.var/app/com.valvesoftware.Steam:ro": [
-        "org.gnome.Games",
-        "org.pegasus_frontend.Pegasus"
     ],
     "~/.config/geary:ro": [
         "org.gnome.Geary"
