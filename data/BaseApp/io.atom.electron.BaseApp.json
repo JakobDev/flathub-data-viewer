@@ -1,10 +1,9 @@
 {
-    "19.08": [
-        "com.airtame.Client",
-        "io.brackets.Brackets"
-    ],
     "20.08": [
         "id.sideka.App"
+    ],
+    "19.08": [
+        "io.brackets.Brackets"
     ],
     "18.08": [
         "io.github.betaflight.BetaflightConfigurator",

@@ -339,6 +339,7 @@
     "org.upnproutercontrol.UPnPRouterControl",
     "org.vim.Vim",
     "org.virtualxt.VirtualXT",
+    "org.wezfurlong.wezterm",
     "org.wxhexeditor.wxHexEditor",
     "org.x.Warpinator",
     "org.xfce.mousepad",

@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "cat.xtec.clic.JClic",
     "com.belmoussaoui.Authenticator",

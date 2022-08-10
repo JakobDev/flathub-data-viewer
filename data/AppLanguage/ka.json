@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "com.rafaelmardojai.Blanket",
     "io.bassi.Amberol",

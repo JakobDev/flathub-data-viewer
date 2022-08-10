@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.Warp",
     "com.rafaelmardojai.Blanket",
     "io.bassi.Amberol",
     "org.gimp.GIMP",

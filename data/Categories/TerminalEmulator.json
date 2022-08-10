@@ -3,5 +3,6 @@
     "com.raggesilver.BlackBox",
     "dev.boxi.Boxi",
     "org.contourterminal.Contour",
-    "org.gnome.moserial"
+    "org.gnome.moserial",
+    "org.wezfurlong.wezterm"
 ]

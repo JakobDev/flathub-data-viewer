@@ -45,6 +45,7 @@
     "org.kde.dolphin",
     "org.kde.index",
     "org.linux_hardware.hw-probe",
+    "org.wezfurlong.wezterm",
     "org.worldpossible.ScriptLauncher",
     "org.zaproxy.ZAP",
     "re.sonny.Junction",

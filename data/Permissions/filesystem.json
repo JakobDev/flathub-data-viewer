@@ -265,7 +265,6 @@
         "org.gnome.design.BannerViewer",
         "org.gnome.design.SymbolicPreview",
         "org.gnome.glabels-3",
-        "org.gnunet.Messenger",
         "org.gottcode.FocusWriter",
         "org.gpodder.gpodder",
         "org.gramps_project.Gramps",
@@ -447,6 +446,7 @@
         "org.gnome.Photos",
         "org.gnome.Shotwell",
         "org.gnome.Totem",
+        "org.gnunet.Messenger",
         "org.gustavoperedo.FontDownloader",
         "org.jdownloader.JDownloader",
         "org.kde.angelfish",
@@ -489,6 +489,7 @@
         "com.spotify.Client",
         "com.valvesoftware.Steam",
         "gg.guilded.Guilded",
+        "org.gnunet.Messenger",
         "sh.ppy.osu"
     ],
     "xdg-music": [
@@ -581,6 +582,7 @@
         "com.github.buddhi1980.mandelbulber2",
         "com.github.chipmuenk.pyfda",
         "com.github.coslyk.MoonPlayer",
+        "com.github.cubitect.cubiomes-viewer",
         "com.github.dail8859.NotepadNext",
         "com.github.debauchee.barrier",
         "com.github.dynobo.normcap",
@@ -1464,6 +1466,7 @@
         "org.parlatype.Parlatype",
         "org.purei.Play",
         "org.ryujinx.Ryujinx",
+        "org.wezfurlong.wezterm",
         "org.wireshark.Wireshark",
         "org.yuzu_emu.yuzu",
         "se.manyver.Manyverse",
@@ -1932,7 +1935,8 @@
         "com.sindresorhus.Caprine",
         "com.slack.Slack",
         "io.github.Icalingua.Icalingua",
-        "io.github.Soundux"
+        "io.github.Soundux",
+        "org.gnunet.Messenger"
     ],
     "xdg-videos:ro": [
         "chat.revolt.RevoltDesktop",
@@ -1943,6 +1947,7 @@
         "com.sindresorhus.Caprine",
         "com.slack.Slack",
         "gg.guilded.Guilded",
+        "org.gnunet.Messenger",
         "sh.ppy.osu"
     ],
     "xdg-run/gvfs": [
@@ -2265,6 +2270,7 @@
         "com.valvesoftware.Steam",
         "io.bassi.Amberol",
         "io.github.Soundux",
+        "org.gnunet.Messenger",
         "sh.ppy.osu"
     ],
     "~/.var/app/com.valvesoftware.Steam:ro": [
@@ -2857,6 +2863,15 @@
     ],
     "~/.gnupg:create": [
         "org.gnome.seahorse.Application"
+    ],
+    "xdg-templates:ro": [
+        "org.gnunet.Messenger"
+    ],
+    "xdg-public-share:ro": [
+        "org.gnunet.Messenger"
+    ],
+    "xdg-desktop:ro": [
+        "org.gnunet.Messenger"
     ],
     "/usr/share/fonts": [
         "org.gustavoperedo.FontDownloader"

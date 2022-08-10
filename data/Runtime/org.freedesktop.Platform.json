@@ -30,6 +30,7 @@
         "com.adilhanney.timing",
         "com.agatanawrot.karambola",
         "com.agateau.PixelWheels",
+        "com.airtame.Client",
         "com.albiononline.AlbionOnline",
         "com.alientrap.nexuiz-classic",
         "com.anydesk.Anydesk",
@@ -41,6 +42,7 @@
         "com.bluejeans.BlueJeans",
         "com.boxy_svg.BoxySVG",
         "com.brave.Browser",
+        "com.brosix.Brosix",
         "com.calibre_ebook.calibre",
         "com.carpeludum.KegaFusion",
         "com.coeck_studios.Dinonuggys-Journey",
@@ -464,6 +466,7 @@
         "org.virtualxt.VirtualXT",
         "org.wesnoth.Wesnoth",
         "org.wesnoth.Wesnoth",
+        "org.wezfurlong.wezterm",
         "org.xfce.mousepad",
         "org.xfce.ristretto",
         "org.xonotic.Xonotic",
@@ -634,9 +637,7 @@
         "org.tuxfamily.StuntRally"
     ],
     "19.08": [
-        "com.airtame.Client",
         "com.avocode.Avocode",
-        "com.brosix.Brosix",
         "com.github.devalien.workspaces",
         "com.github.matfantinel.moneta",
         "com.github.matfantinel.reminduck",
