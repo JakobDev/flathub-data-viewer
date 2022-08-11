@@ -832,7 +832,8 @@
         "sh.cider.Cider",
         "si.tano.Vremenar",
         "social.whalebird.WhalebirdDesktop",
-        "tech.feliciano.pocket-casts"
+        "tech.feliciano.pocket-casts",
+        "xyz.mx_moment.moment"
     ],
     "org.freedesktop.notifications": [
         "app.lith.Lith",
@@ -1300,7 +1301,6 @@
         "net.rpcs3.RPCS3",
         "net.rpdev.OpenTodoList",
         "net.sonic_pi.SonicPi",
-        "net.sourceforge.kmidimon",
         "net.sourceforge.molsketch",
         "net.sourceforge.scidavis",
         "net.xm1math.Texmaker",
@@ -1835,7 +1835,6 @@
         "cz.zeropage.Formiko",
         "de.create3000.titania",
         "edu.stanford.Almond",
-        "eu.ithz.umftpd",
         "fr.handbrake.ghb",
         "fr.masson_informatique.WhosWho",
         "io.atom.Atom",

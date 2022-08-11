@@ -136,6 +136,7 @@
         "org.quetoo.Quetoo",
         "org.qutebrowser.qutebrowser",
         "sh.cider.Cider",
+        "sh.ppy.osu",
         "tv.kodi.Kodi"
     ],
     "org.freedesktop.udisks2": [
