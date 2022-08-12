@@ -289,5 +289,6 @@
     "org.x.Warpinator",
     "re.sonny.Commit",
     "re.sonny.Junction",
-    "re.sonny.Workbench"
+    "re.sonny.Workbench",
+    "ua.org.brezblock.q4wine"
 ]
