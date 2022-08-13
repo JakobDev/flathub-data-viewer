@@ -1656,6 +1656,7 @@
         "org.kde.kdenlive",
         "org.kde.kdevelop",
         "org.kde.kdiamond",
+        "org.kde.kdiff3",
         "org.kde.keysmith",
         "org.kde.kfind",
         "org.kde.kfourinline",

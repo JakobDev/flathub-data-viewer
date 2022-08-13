@@ -207,7 +207,6 @@
         "org.scummvm.ScummVM",
         "org.signal.Signal",
         "org.sonic3air.Sonic3AIR",
-        "org.telegram",
         "org.tuxfamily.StuntRally",
         "org.tuxpaint.Tuxpaint",
         "org.unknown_horizons.UnknownHorizons",
@@ -252,7 +251,8 @@
         "net.runelite.RuneLite",
         "network.bisq.Bisq",
         "org.firestormviewer.FirestormViewer",
-        "org.phoenicis.playonlinux"
+        "org.phoenicis.playonlinux",
+        "org.telegram"
     ],
     "mild": [
         "com.avocode.Avocode",
