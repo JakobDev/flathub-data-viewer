@@ -1583,6 +1583,7 @@
         "io.mrarm.mcpelauncher",
         "io.photoflare.photoflare",
         "io.qt.QtCreator",
+        "me.mitya57.ReText",
         "net._86box._86Box",
         "net.codeindustry.MasterPDFEditor",
         "net.drawpile.drawpile",
@@ -1756,6 +1757,7 @@
         "org.qownnotes.QOwnNotes",
         "org.quassel_irc.QuasselClient",
         "org.qutebrowser.qutebrowser",
+        "org.qxmledit.QXmlEdit",
         "org.sdrangel.SDRangel",
         "org.shotcut.Shotcut",
         "org.stellarium.Stellarium",
@@ -2384,7 +2386,8 @@
     ],
     "org.freedesktop.portal.filechooser": [
         "com.rtosta.zapzap",
-        "de.schmidhuberj.Flare"
+        "de.schmidhuberj.Flare",
+        "de.schmidhuberj.tubefeeder"
     ],
     "org.gnome.gconf": [
         "com.skype.Client",
