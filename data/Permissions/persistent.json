@@ -93,6 +93,9 @@
     ".lyrics": [
         "com.github.gmg137.netease-cloud-music-gtk"
     ],
+    ".ola": [
+        "com.github.mikacousin.olc"
+    ],
     ".opentyrian": [
         "com.github.opentyrian.OpenTyrian"
     ],

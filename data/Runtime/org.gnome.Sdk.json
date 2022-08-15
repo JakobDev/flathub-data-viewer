@@ -2,13 +2,11 @@
     "42": [
         "cn.navclub.ldbfx",
         "com.github.corna.Vivado",
+        "com.github.mikacousin.olc",
         "com.github.themix_project.Oomox",
         "org.gnome.Builder",
         "org.gnome.Devhelp",
         "re.sonny.Workbench"
-    ],
-    "40": [
-        "com.github.mikacousin.olc"
     ],
     "41": [
         "org.libvips.vipsdisp"

@@ -7,7 +7,6 @@
         "io.github.ciromattia.kcc",
         "io.github.giantpinkrobots.bootqt",
         "io.github.parnassius.SysDVR-Qt",
-        "me.mitya57.ReText",
         "net.sourceforge.scidavis",
         "org.opennumismat.OpenNumismat",
         "org.plomgrading.PlomClient",
@@ -24,6 +23,7 @@
         "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.jakobdev.jdnbtexplorer",
         "com.rtosta.zapzap",
+        "me.mitya57.ReText",
         "org.beeref.BeeRef"
     ]
 }
