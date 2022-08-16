@@ -232,6 +232,7 @@
         "Feed",
         "Ferdi",
         "File",
+        "File{SPACE}Info",
         "File{SPACE}Manager",
         "File{SPACE}Renamer",
         "File{SPACE}search",

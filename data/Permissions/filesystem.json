@@ -240,6 +240,7 @@
         "org.cryptomator.Cryptomator",
         "org.cubocore.CoreArchiver",
         "org.cubocore.CoreFM",
+        "org.cubocore.CorePDF",
         "org.cubocore.CorePad",
         "org.davmail.DavMail",
         "org.denemo.Denemo",

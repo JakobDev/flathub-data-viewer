@@ -8,6 +8,7 @@
         "app.rednotebook.RedNotebook",
         "app.riftshare.RiftShare",
         "ar.xjuan.Cambalache",
+        "br.gov.cti.invesalius",
         "br.gov.fazenda.receita.irpf",
         "ch.x29a.playitslowly",
         "cn.navclub.ldbfx",
@@ -503,8 +504,18 @@
         "uk.jnthn.backgammony",
         "work.openpaper.Paperwork"
     ],
+    "3.36": [
+        "codes.nora.gDiceRoller",
+        "com.github.bajoja.indicator-kdeconnect",
+        "com.github.calo001.fondo",
+        "com.github.inercia.k3x",
+        "in.bharatkalluri.splash",
+        "net.sourceforge.Teo",
+        "org.fdroid.Repomaker",
+        "org.gabmus.unifydmin",
+        "org.sil.FieldWorks"
+    ],
     "40": [
-        "br.gov.cti.invesalius",
         "com.adrienplazas.Metronome",
         "com.arteeh.Flasher",
         "com.github.alecaddd.sequeler",
@@ -541,17 +552,6 @@
         "org.sugarlabs.Physics",
         "org.sugarlabs.Pippy",
         "org.upnproutercontrol.UPnPRouterControl"
-    ],
-    "3.36": [
-        "codes.nora.gDiceRoller",
-        "com.github.bajoja.indicator-kdeconnect",
-        "com.github.calo001.fondo",
-        "com.github.inercia.k3x",
-        "in.bharatkalluri.splash",
-        "net.sourceforge.Teo",
-        "org.fdroid.Repomaker",
-        "org.gabmus.unifydmin",
-        "org.sil.FieldWorks"
     ],
     "3.38": [
         "com.cassidyjames.plausible",
