@@ -121,7 +121,8 @@
         "com.jagex.RuneScape"
     ],
     ".renpy": [
-        "com.katawa_shoujo.KatawaShoujo"
+        "com.katawa_shoujo.KatawaShoujo",
+        "games.zetsubou.WanderNoMore"
     ],
     ".minecraft": [
         "com.lunarclient.LunarClient",
