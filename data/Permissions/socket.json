@@ -1725,6 +1725,7 @@
         "xyz.eclipium.Hieroctive",
         "xyz.eclipium.TetraSwap",
         "xyz.kusma.aurora",
+        "xyz.ljoonal.neospeeps",
         "xyz.mx_moment.moment",
         "xyz.stuerz.BilligSweeper",
         "xyz.xclicker.xclicker",
@@ -2882,6 +2883,7 @@
         "work.openpaper.Paperwork",
         "xyz.eclipium.Hieroctive",
         "xyz.eclipium.TetraSwap",
+        "xyz.ljoonal.neospeeps",
         "xyz.mx_moment.moment",
         "xyz.z3ntu.razergenie"
     ],
@@ -3653,6 +3655,7 @@
         "work.openpaper.Paperwork",
         "xyz.eclipium.Hieroctive",
         "xyz.eclipium.TetraSwap",
+        "xyz.ljoonal.neospeeps",
         "xyz.mx_moment.moment"
     ],
     "pulseaudio": [

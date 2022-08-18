@@ -1,5 +1,6 @@
 [
     "com.darhon.drfinance",
+    "com.github.scrivanolabs.scrivano",
     "io.kinvolk.Headlamp",
     "net.jami.Jami",
     "net.xmind.XMind",
