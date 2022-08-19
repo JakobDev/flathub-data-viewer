@@ -32,6 +32,7 @@
     "io.kinvolk.Headlamp",
     "io.kopia.KopiaUI",
     "io.neovim.nvim",
+    "io.podman_desktop.PodmanDesktop",
     "one.alynx.FlipClock",
     "org.apache.directory.studio",
     "org.apache.netbeans",

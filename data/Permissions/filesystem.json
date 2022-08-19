@@ -191,6 +191,7 @@
         "io.lmms.LMMS",
         "io.otsaloma.gaupol",
         "io.photoflare.photoflare",
+        "io.podman_desktop.PodmanDesktop",
         "io.sourceforge.Pixelitor",
         "md.obsidian.Obsidian",
         "me.aandrew.ytdownloader",
@@ -2645,6 +2646,9 @@
     ],
     "~/.var/app/io.mpv.Mpv/config/mpv/scripts:create": [
         "io.mpv.Mpv"
+    ],
+    "xdg-run/podman": [
+        "io.podman_desktop.PodmanDesktop"
     ],
     "xdg-cache/poezio:create": [
         "io.poez.Poezio"

@@ -260,6 +260,7 @@
     "io.neovim.nvim",
     "io.openrct2.OpenRCT2",
     "io.otsaloma.gaupol",
+    "io.podman_desktop.PodmanDesktop",
     "io.poez.Poezio",
     "io.qt.Designer",
     "io.sourceforge.qoobar.Qoobar",

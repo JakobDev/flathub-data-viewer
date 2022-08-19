@@ -97,6 +97,7 @@
         "io.kinvolk.Headlamp",
         "io.kopia.KopiaUI",
         "io.lbry.lbry-app",
+        "io.podman_desktop.PodmanDesktop",
         "io.typora.Typora",
         "life.bolls.bolls",
         "md.obsidian.Obsidian",

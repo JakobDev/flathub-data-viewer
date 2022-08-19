@@ -220,6 +220,7 @@
     "io.liri.Text",
     "io.neovim.nvim",
     "io.otsaloma.nfoview",
+    "io.podman_desktop.PodmanDesktop",
     "io.posidon.Paper",
     "it.mijorus.smile",
     "me.aandrew.ytdownloader",

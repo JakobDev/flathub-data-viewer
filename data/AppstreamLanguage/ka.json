@@ -20,6 +20,9 @@
     "org.gnome.gedit",
     "org.kde.kalk",
     "org.kde.kclock",
+    "org.kde.kcolorchooser",
+    "org.kde.kdevelop",
+    "org.kde.kgeography",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint"
 ]

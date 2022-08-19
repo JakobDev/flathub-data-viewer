@@ -122,6 +122,8 @@
     ],
     ".renpy": [
         "com.katawa_shoujo.KatawaShoujo",
+        "games.zetsubou.HumanityMustPerish",
+        "games.zetsubou.MaxMassacre",
         "games.zetsubou.WanderNoMore"
     ],
     ".minecraft": [
