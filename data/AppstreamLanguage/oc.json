@@ -5,6 +5,7 @@
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
+    "com.github.ADBeveridge.Raider",
     "com.github.maoschanz.drawing",
     "com.mattjakeman.ExtensionManager",
     "com.rafaelmardojai.Blanket",

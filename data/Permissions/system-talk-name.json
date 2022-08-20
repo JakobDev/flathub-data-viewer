@@ -81,6 +81,7 @@
         "edu.stanford.Almond",
         "io.emeric.watchflower",
         "io.github.betaflight.BetaflightConfigurator",
+        "io.gitlab.azymohliad.WatchMate",
         "nl.brixit.wiremapper",
         "org.eyecreate.qiflora",
         "org.freedesktop.Tuhi",

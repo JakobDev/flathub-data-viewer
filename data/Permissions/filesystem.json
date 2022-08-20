@@ -415,6 +415,7 @@
         "io.github.openWMail.openWMail",
         "io.github.qnapi",
         "io.github.qtox.qTox",
+        "io.gitlab.azymohliad.WatchMate",
         "io.gitlab.librewolf-community",
         "io.sourceforge.qoobar.Qoobar",
         "io.trustable.stpadocumentationtool",
@@ -2671,10 +2672,10 @@
     "xdg-data/gnome-background-properties:create": [
         "me.dusansimic.DynamicWallpaper"
     ],
-    "~/.local/share/lutris/runtime/dxvk": [
+    "~/.local/share/lutris/runners": [
         "net.davidotek.pupgui2"
     ],
-    "~/.local/share/Steam": [
+    "~/.local/share/lutris/runtime/dxvk": [
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/net.lutris.Lutris/data/lutris/pga.db:ro": [
@@ -2683,19 +2684,22 @@
     "~/.config/lutris:ro": [
         "net.davidotek.pupgui2"
     ],
-    "~/.config/heroic/tools": [
+    "~/.local/share/lutris/pga.db:ro": [
         "net.davidotek.pupgui2"
     ],
-    "~/.var/app/net.lutris.Lutris/data/lutris/runners/wine": [
+    "~/.local/share/Steam": [
         "net.davidotek.pupgui2"
     ],
-    "~/.var/app/net.lutris.Lutris/data/lutris/runtime/dxvk": [
+    "~/.var/app/net.lutris.Lutris/data/lutris/runners": [
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/tools": [
         "net.davidotek.pupgui2"
     ],
-    "~/.local/share/lutris/pga.db:ro": [
+    "~/.config/heroic/tools": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.var/app/net.lutris.Lutris/data/lutris/runtime/dxvk": [
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/net.lutris.Lutris/config/lutris:ro": [
@@ -2705,9 +2709,6 @@
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.local/share/lutris/runners/wine": [
         "net.davidotek.pupgui2"
     ],
     "~/retrodeck:create": [

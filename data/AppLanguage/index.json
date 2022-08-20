@@ -1,7 +1,6 @@
 {
     "description": "Shows all Apps which are aviable in the given Language",
     "data": [
-        "IT_it",
         "ab",
         "ach",
         "af",

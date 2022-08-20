@@ -129,6 +129,7 @@
         "io.github.kotatogram",
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
+        "io.github.seadve.Kooha",
         "io.gitlab.librewolf-community",
         "io.wavebox.Wavebox",
         "one.ablaze.floorp",
@@ -779,6 +780,7 @@
         "io.github.quodlibet.QuodLibet",
         "io.github.spacingbat3.webcord",
         "io.kopia.KopiaUI",
+        "io.podman_desktop.PodmanDesktop",
         "me.kozec.syncthingtk",
         "net.christianbeier.Gromit-MPX",
         "net.cozic.joplin_desktop",
@@ -1582,6 +1584,7 @@
         "io.github.OpenToonz",
         "io.github.Qalculate.qalculate-qt",
         "io.github.antimicrox.antimicrox",
+        "io.github.bothlab.pomidaq",
         "io.github.cloose.CuteMarkEd",
         "io.github.congard.qnvsm",
         "io.github.cudatext.CudaText-Qt5",
@@ -2091,6 +2094,7 @@
     ],
     "org.freedesktop.portal.background": [
         "codes.loers.Karlender",
+        "com.github.zocker_160.SyncThingy",
         "gg.guilded.Guilded",
         "org.signal.Signal"
     ],
@@ -2211,6 +2215,7 @@
         "com.feaneron.Boatswain",
         "com.github.muriloventuroso.givemelyrics",
         "io.github.Hexchat",
+        "io.gitlab.azymohliad.WatchMate",
         "moe.tundra.Tundra",
         "org.gajim.Gajim",
         "org.nicotine_plus.Nicotine"
