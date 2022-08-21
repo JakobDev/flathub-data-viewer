@@ -18,6 +18,7 @@
     "org.kde.okteta",
     "org.love2d.love2d",
     "org.mapeditor.Tiled",
+    "org.mozilla.Thunderbird",
     "org.turbowarp.TurboWarp",
     "org.yuzu_emu.yuzu"
 ]

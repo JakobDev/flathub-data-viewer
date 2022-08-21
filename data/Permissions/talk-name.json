@@ -1120,6 +1120,7 @@
         "com.discordapp.Discord",
         "com.github.inercia.k3x",
         "com.googleplaymusicdesktopplayer.GPMDP",
+        "com.rtosta.zapzap",
         "com.seafile.Client",
         "com.toggl.TogglDesktop",
         "com.wiz.Note",
@@ -1137,6 +1138,7 @@
         "app.lith.Lith",
         "com.codemouse92.timecard",
         "com.github.inercia.k3x",
+        "com.rtosta.zapzap",
         "com.toggl.TogglDesktop",
         "io.github.kotatogram",
         "io.github.mimbrero.WhatsAppDesktop",
@@ -2420,6 +2422,11 @@
     "org.kde.statusnotifieritem": [
         "com.rtosta.zapzap"
     ],
+    "com.canonical.unity": [
+        "com.rtosta.zapzap",
+        "io.github.kotatogram",
+        "org.remmina.Remmina"
+    ],
     "org.freedesktop.portal.filechooser": [
         "com.rtosta.zapzap",
         "de.schmidhuberj.Flare",
@@ -2462,10 +2469,6 @@
     ],
     "org.freedesktop.filemanager1.*": [
         "io.github.ihhub.Fheroes2"
-    ],
-    "com.canonical.unity": [
-        "io.github.kotatogram",
-        "org.remmina.Remmina"
     ],
     "org.kde.plasmashell": [
         "io.github.quodlibet.ExFalso",

@@ -186,6 +186,7 @@
         "io.github.trevorsandy.LPub3D",
         "io.github.wereturtle.ghostwriter",
         "io.github.xverizex.nem_desktop",
+        "io.gitlab.persiangolf.voicegen",
         "io.itch.azagaya.Laigter",
         "io.lbry.lbry-app",
         "io.lmms.LMMS",
@@ -1187,7 +1188,6 @@
         "com.github.d4nj1.tlpui",
         "com.github.donadigo.appeditor",
         "com.github.joseexposito.touche",
-        "com.rtosta.zapzap",
         "com.virustotal.VirusTotalUploader",
         "io.github.kotatogram",
         "io.github.shiiion.primehack",
@@ -1537,6 +1537,7 @@
         "com.ozmartians.VidCutter",
         "com.parallax.PropellerIDE",
         "com.pypyrev.linuxdcpp",
+        "com.rtosta.zapzap",
         "com.sayonara_player.Sayonara",
         "com.sigmyne.crush",
         "com.sourcepole.kadas",
@@ -2171,7 +2172,8 @@
         "com.github.Matoking.protontricks",
         "com.github._0negal.Viper",
         "com.heroicgameslauncher.hgl",
-        "io.github.philipk.boilr"
+        "io.github.philipk.boilr",
+        "space.crankshaft.Crankshaft"
     ],
     "~/.steam": [
         "com.github.Matoking.protontricks",
@@ -2396,7 +2398,8 @@
         "org.gnome.Boxes"
     ],
     "/run/udev:ro": [
-        "com.heroicgameslauncher.hgl"
+        "com.heroicgameslauncher.hgl",
+        "com.napster.napster-bigscreen-electron"
     ],
     "xdg-data/applications": [
         "com.heroicgameslauncher.hgl"

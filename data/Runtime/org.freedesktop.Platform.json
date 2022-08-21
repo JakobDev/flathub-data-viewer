@@ -152,6 +152,7 @@
         "com.mojang.Minecraft",
         "com.mongodb.Compass",
         "com.musixmatch.Musixmatch",
+        "com.napster.napster-bigscreen-electron",
         "com.nordpass.NordPass",
         "com.openwall.John",
         "com.orama_interactive.Pixelorama",
@@ -469,6 +470,7 @@
         "org.tuxpaint.Tuxpaint",
         "org.twinery.Twine",
         "org.unknown_horizons.UnknownHorizons",
+        "org.vergecurrency.verge-qt",
         "org.vertcoin.vertcoin-qt",
         "org.virtualxt.VirtualXT",
         "org.wesnoth.Wesnoth",
@@ -658,7 +660,6 @@
         "io.gitlab.sdl_jstest.sdl_jstest",
         "org.kosmospredanie.Yakblt",
         "org.lamport.tla.toolbox",
-        "org.vergecurrency.verge-qt",
         "party.supertux.supertuxparty"
     ]
 }
