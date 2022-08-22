@@ -1087,6 +1087,7 @@
         "com.thincast.client",
         "com.tracktion.Waveform",
         "com.wps.Office",
+        "com.xnview.XnViewMP",
         "cz.zeropage.Formiko",
         "dev.lukebriggs.pepys",
         "dev.tchx84.Portfolio",
@@ -1143,6 +1144,7 @@
         "com.tracktion.Waveform",
         "com.vicr123.thebeat",
         "com.wps.Office",
+        "com.xnview.XnViewMP",
         "dev.tchx84.Portfolio",
         "io.github.cmus.cmus",
         "io.github.nroduit.Weasis",
@@ -1480,6 +1482,7 @@
         "org.wezfurlong.wezterm",
         "org.wireshark.Wireshark",
         "org.yuzu_emu.yuzu",
+        "ro.fxdata.taskmonitor.viewer",
         "se.manyver.Manyverse",
         "uk.org.zint.zint-qt",
         "vn.hoabinh.quan.CoBang"

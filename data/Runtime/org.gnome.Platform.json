@@ -402,6 +402,7 @@
         "re.sonny.Commit",
         "re.sonny.OhMySVG",
         "re.sonny.Tangram",
+        "ro.fxdata.taskmonitor.viewer",
         "ro.hume.cosmin.ShoppingList",
         "sa.sy.bluerecorder"
     ],

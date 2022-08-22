@@ -188,6 +188,7 @@
         "io.github.mightycreak.Diffuse",
         "io.github.mmstick.FontFinder",
         "io.github.mpobaschnig.Vaults",
+        "io.github.orontee.Argos",
         "io.github.realmazharhussain.GdmSettings",
         "io.github.seadve.Breathing",
         "io.github.seadve.Kooha",
@@ -408,6 +409,7 @@
         "re.sonny.OhMySVG",
         "re.sonny.Tangram",
         "re.sonny.Workbench",
+        "ro.fxdata.taskmonitor.viewer",
         "ro.hume.cosmin.ShoppingList",
         "sa.sy.bluerecorder"
     ],
