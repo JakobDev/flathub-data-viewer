@@ -1,6 +1,7 @@
 {
     "org.freedesktop.secrets": [
         "app.authpass.AuthPass",
+        "app.moosync.moosync",
         "cc.arduino.IDE2",
         "ch.protonmail.protonmail-bridge",
         "ch.protonmail.protonmail-import-export-app",
@@ -706,6 +707,7 @@
         "com.github.Qv2ray",
         "com.github.bajoja.indicator-kdeconnect",
         "com.github.debauchee.barrier",
+        "com.github.dynobo.normcap",
         "com.github.eneshecan.WhatsAppForLinux",
         "com.github.hluk.copyq",
         "com.github.inercia.k3x",
@@ -874,6 +876,7 @@
         "com.github.artemanufrij.playmymusic",
         "com.github.artemanufrij.playmyvideos",
         "com.github.bajoja.indicator-kdeconnect",
+        "com.github.dynobo.normcap",
         "com.github.eneshecan.WhatsAppForLinux",
         "com.github.geigi.cozy",
         "com.github.inercia.k3x",
@@ -1162,6 +1165,27 @@
         "org.signal.Signal",
         "ru.proninyaroslav.libretrack"
     ],
+    "org.kde.kwalletd5": [
+        "app.moosync.moosync",
+        "com.borgbase.Vorta",
+        "com.github.Eloston.UngoogledChromium",
+        "com.github.quaternion",
+        "org.chromium.Chromium",
+        "org.cryptomator.Cryptomator",
+        "org.gajim.Gajim",
+        "org.kde.akregator",
+        "org.kde.falkon",
+        "org.kde.kontact",
+        "org.kde.neochat",
+        "org.kde.ruqola",
+        "org.kde.tokodon",
+        "org.remmina.Remmina",
+        "org.videolan.VLC"
+    ],
+    "org.gnome.keyring": [
+        "app.moosync.moosync",
+        "org.cryptomator.Cryptomator"
+    ],
     "org.mpris.mediaplayer2.player": [
         "app.moosync.moosync",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
@@ -1336,7 +1360,6 @@
         "org.cubocore.CoreStats",
         "org.cubocore.CoreTime",
         "org.dash.electrum.electrum_dash",
-        "org.duckstation.DuckStation",
         "org.easycoding.TunedSwitcher",
         "org.electrum.electrum",
         "org.equeim.Tremotesf",
@@ -1596,6 +1619,7 @@
         "io.github.parnassius.SysDVR-Qt",
         "io.github.peazip.PeaZip",
         "io.github.rinigus.OSMScoutServer",
+        "io.github.rinigus.PureMaps",
         "io.github.shiiion.primehack",
         "io.github.trevorsandy.LPub3D",
         "io.github.wereturtle.ghostwriter",
@@ -1635,7 +1659,6 @@
         "org.cubocore.CoreShot",
         "org.cubocore.CoreStats",
         "org.cubocore.CoreTime",
-        "org.duckstation.DuckStation",
         "org.easycoding.TunedSwitcher",
         "org.electrum.electrum",
         "org.fcitx.Fcitx5",
@@ -2115,22 +2138,6 @@
         "org.gnome.World.PikaBackup",
         "org.sparkleshare.SparkleShare"
     ],
-    "org.kde.kwalletd5": [
-        "com.borgbase.Vorta",
-        "com.github.Eloston.UngoogledChromium",
-        "com.github.quaternion",
-        "org.chromium.Chromium",
-        "org.cryptomator.Cryptomator",
-        "org.gajim.Gajim",
-        "org.kde.akregator",
-        "org.kde.falkon",
-        "org.kde.kontact",
-        "org.kde.neochat",
-        "org.kde.ruqola",
-        "org.kde.tokodon",
-        "org.remmina.Remmina",
-        "org.videolan.VLC"
-    ],
     "org.freedesktop.flatpak.*": [
         "com.borgbase.Vorta",
         "io.github.am2r_community_developers.AM2RLauncher",
@@ -2508,9 +2515,6 @@
     "org.wiimotedev.deviceevents": [
         "org.clementine_player.Clementine",
         "org.strawberrymusicplayer.strawberry"
-    ],
-    "org.gnome.keyring": [
-        "org.cryptomator.Cryptomator"
     ],
     "org.gnome.mutter.displayconfig": [
         "org.gabmus.hydrapaper"

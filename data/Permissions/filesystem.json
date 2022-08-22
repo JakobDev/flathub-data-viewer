@@ -160,6 +160,7 @@
         "io.github.JaGoLi.ytdl_gui",
         "io.github.RodZill4.Material-Maker",
         "io.github.antimicrox.antimicrox",
+        "io.github.bothlab.pomidaq",
         "io.github.ciromattia.kcc",
         "io.github.cudatext.CudaText-Qt5",
         "io.github.dbchoco.Salawat",
@@ -1089,6 +1090,7 @@
         "cz.zeropage.Formiko",
         "dev.lukebriggs.pepys",
         "dev.tchx84.Portfolio",
+        "io.github.bothlab.pomidaq",
         "io.github.cmus.cmus",
         "io.github.nroduit.Weasis",
         "io.github.qtox.qTox",
@@ -1572,7 +1574,6 @@
         "io.github.OpenToonz",
         "io.github.achetagames.epic_asset_manager",
         "io.github.betaflight.BetaflightConfigurator",
-        "io.github.bothlab.pomidaq",
         "io.github.cboxdoerfer.FSearch",
         "io.github.dfandrich.gpscorrelate",
         "io.github.giantpinkrobots.bootqt",
@@ -1662,6 +1663,7 @@
         "org.gnome.eog",
         "org.gnome.gedit",
         "org.gnome.gitg",
+        "org.gnome.gitlab.johannesjh.favagtk",
         "org.gnome.gitlab.somas.Apostrophe",
         "org.gnome.meld",
         "org.gnu.emacs",
@@ -2031,8 +2033,10 @@
         "com.github.ransome1.sleek",
         "com.github.weclaw1.ImageRoll",
         "com.powerball253.eternalmodmanager",
+        "io.github.bothlab.pomidaq",
         "md.obsidian.Obsidian",
         "org.clementine_player.Clementine",
+        "org.libvips.vipsdisp",
         "org.strawberrymusicplayer.strawberry",
         "tv.kodi.Kodi"
     ],
@@ -2560,6 +2564,10 @@
     ],
     "xdg-data/apktool:create": [
         "io.github.am2r_community_developers.AM2RLauncher"
+    ],
+    "/srv": [
+        "io.github.bothlab.pomidaq",
+        "org.libvips.vipsdisp"
     ],
     "~/coyotetm": [
         "io.github.igaldino.CoyoteTM"
