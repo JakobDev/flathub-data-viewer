@@ -52,10 +52,10 @@ def clear_filename(name: str) -> str:
     return name[:50]
 
 
-def try_request(url: str) -> Any:
+def try_request(url: str, session: requests.sessions.Session) -> Any:
     for i in range(10):
         try:
-            return requests.get(url).json()
+            return session.get(url).json()
         except Exception:
             time.sleep(1)
     raise Exception()
@@ -75,8 +75,8 @@ PERMISSON_NAMES = {
 }
 
 
-def parse_summary_api(app_id: str, data: dict):
-    r = try_request("https://flathub.org/api/v2/summary/" + app_id)
+def parse_summary_api(app_id: str, data: dict, session: requests.sessions.Session):
+    r = try_request("https://flathub.org/api/v2/summary/" + app_id, session)
 
     if r is None:
         return
@@ -241,11 +241,12 @@ def main():
     data["type"] = {}
 
     appstream_collection = get_appstream_data()
+    session = requests.session()
 
     for i in appstream_collection.get_component_list():
         app_id = i.id.removesuffix(".desktop")
         print(app_id)
-        parse_summary_api(app_id, data)
+        parse_summary_api(app_id, data, session)
         parse_appstream(app_id, data, i)
 
     data_path = "web/data"
