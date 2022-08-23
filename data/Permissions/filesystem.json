@@ -2179,6 +2179,7 @@
         "com.github.Matoking.protontricks",
         "com.github._0negal.Viper",
         "com.heroicgameslauncher.hgl",
+        "com.steamgriddb.SGDBoop",
         "io.github.philipk.boilr",
         "space.crankshaft.Crankshaft"
     ],
@@ -2473,22 +2474,34 @@
     "~/.spring:create": [
         "com.springrts.SpringLobby"
     ],
-    "~/.steam/steam/config/loginusers.vdf:ro": [
-        "com.steamgriddb.SGDBoop"
-    ],
-    "~/.steam/steam/userdata": [
-        "com.steamgriddb.SGDBoop"
-    ],
-    "~/.var/app/com.valvesoftware.Steam/data/Steam/userdata": [
+    "~/.steam/steam/steamapps/common/Half-Life:ro": [
         "com.steamgriddb.SGDBoop"
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam/config/loginusers.vdf:ro": [
         "com.steamgriddb.SGDBoop"
     ],
-    "~/.steam/steam/appcache/librarycache": [
+    "~/.steam/steam/steamapps/sourcemods:ro": [
         "com.steamgriddb.SGDBoop"
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam/appcache/librarycache": [
+        "com.steamgriddb.SGDBoop"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/data/Steam/userdata": [
+        "com.steamgriddb.SGDBoop"
+    ],
+    "~/.steam/steam/userdata": [
+        "com.steamgriddb.SGDBoop"
+    ],
+    "~/.steam/steam/config/loginusers.vdf:ro": [
+        "com.steamgriddb.SGDBoop"
+    ],
+    "~/.steam/steam/appcache/librarycache": [
+        "com.steamgriddb.SGDBoop"
+    ],
+    "~/.steam/registry.vdf:ro": [
+        "com.steamgriddb.SGDBoop"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/data/registry.vdf:ro": [
         "com.steamgriddb.SGDBoop"
     ],
     "/proc": [
