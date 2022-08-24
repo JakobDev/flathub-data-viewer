@@ -48,29 +48,6 @@
         "org.gnome.Todo",
         "tv.kodi.Kodi"
     ],
-    "org.freedesktop.realtimekit1": [
-        "ar.com.tuxguitar.TuxGuitar",
-        "com.giadamusic.Giada",
-        "com.polyphone_soundfonts.polyphone",
-        "com.rosegardenmusic.rosegarden",
-        "io.github.gillesdegottex.FMIT",
-        "io.github.muse_sequencer.Muse",
-        "io.lmms.LMMS",
-        "net.purrdata.PurrData",
-        "net.sonic_pi.SonicPi",
-        "net.sonobus.SonoBus",
-        "net.sourceforge.GrandOrgue",
-        "org.ardour.Ardour",
-        "org.audacityteam.Audacity",
-        "org.guitarix.Guitarix",
-        "org.mixxx.Mixxx",
-        "org.musescore.MuseScore",
-        "org.nongnu.gsequencer.gsequencer",
-        "org.rncbc.qsynth",
-        "org.rncbc.qtractor",
-        "org.shotcut.Shotcut",
-        "org.zrythm.Zrythm"
-    ],
     "org.gtk.vfs.*": [
         "cc.arduino.IDE2"
     ],
@@ -177,6 +154,28 @@
         "com.hack_computer.Clubhouse",
         "com.ktechpit.wonderwall",
         "org.gnome.Boxes"
+    ],
+    "org.freedesktop.realtimekit1": [
+        "com.giadamusic.Giada",
+        "com.polyphone_soundfonts.polyphone",
+        "com.rosegardenmusic.rosegarden",
+        "io.github.gillesdegottex.FMIT",
+        "io.github.muse_sequencer.Muse",
+        "io.lmms.LMMS",
+        "net.purrdata.PurrData",
+        "net.sonic_pi.SonicPi",
+        "net.sonobus.SonoBus",
+        "net.sourceforge.GrandOrgue",
+        "org.ardour.Ardour",
+        "org.audacityteam.Audacity",
+        "org.guitarix.Guitarix",
+        "org.mixxx.Mixxx",
+        "org.musescore.MuseScore",
+        "org.nongnu.gsequencer.gsequencer",
+        "org.rncbc.qsynth",
+        "org.rncbc.qtractor",
+        "org.shotcut.Shotcut",
+        "org.zrythm.Zrythm"
     ],
     "net.openvpn.v3.configuration": [
         "com.github.jkotra.eovpn"
