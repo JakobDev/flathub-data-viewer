@@ -6,5 +6,6 @@
     "net.sourceforge.lgames.LBreakoutHD",
     "net.sourceforge.mars-game",
     "org.freeorion.FreeOrion",
-    "org.gnome.baobab"
+    "org.gnome.baobab",
+    "org.kde.filelight"
 ]

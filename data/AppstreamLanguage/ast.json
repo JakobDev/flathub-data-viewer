@@ -28,6 +28,7 @@
     "org.gnome.seahorse.Application",
     "org.kde.ark",
     "org.kde.dolphin",
+    "org.kde.filelight",
     "org.kde.kfind",
     "org.kde.kget",
     "org.kde.krita",

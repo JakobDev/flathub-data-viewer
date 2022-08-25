@@ -1,5 +1,6 @@
 [
     "org.kde.angelfish",
+    "org.kde.filelight",
     "org.kde.kcolorchooser",
     "org.kde.kontrast",
     "org.kde.labplot2",
