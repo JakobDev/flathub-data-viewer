@@ -23,6 +23,7 @@
     "net.launchpad.gmult",
     "net.supertuxkart.SuperTuxKart",
     "org.aliflang.lang",
+    "org.fedoraproject.MediaWriter",
     "org.freedesktop.appstream.cli",
     "org.gimp.GIMP",
     "org.glimpse_editor.Glimpse",

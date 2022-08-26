@@ -1,5 +1,6 @@
 [
     "com.usebottles.bottles",
     "io.github.am2r_community_developers.AM2RLauncher",
-    "io.github.sharkwouter.Minigalaxy"
+    "io.github.sharkwouter.Minigalaxy",
+    "net.lutris.Lutris"
 ]

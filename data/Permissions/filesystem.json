@@ -208,6 +208,7 @@
         "net.fsuae.FS-UAE",
         "net.jammr.jammr",
         "net.kuribo64.melonDS",
+        "net.lutris.Lutris",
         "net.mancubus.SLADE",
         "net.meshlab.MeshLab",
         "net.poedit.Poedit",
@@ -1100,6 +1101,7 @@
         "io.github.nroduit.Weasis",
         "io.github.qtox.qTox",
         "md.obsidian.Obsidian",
+        "net.lutris.Lutris",
         "net.meshlab.MeshLab",
         "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
@@ -1154,6 +1156,7 @@
         "io.github.nroduit.Weasis",
         "io.github.swanux.hbud",
         "md.obsidian.Obsidian",
+        "net.lutris.Lutris",
         "net.meshlab.MeshLab",
         "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
@@ -2302,6 +2305,7 @@
     ],
     "~/.var/app/com.valvesoftware.Steam:ro": [
         "com.github.petebuffon.yafc",
+        "net.lutris.Lutris",
         "org.gnome.Games",
         "org.pegasus_frontend.Pegasus"
     ],
@@ -2380,6 +2384,7 @@
     ],
     "xdg-data/flatpak:ro": [
         "com.gitlab.librebob.Athenaeum",
+        "net.lutris.Lutris",
         "org.bluesabre.MenuLibre",
         "org.gnome.World.PikaBackup",
         "re.sonny.Junction"

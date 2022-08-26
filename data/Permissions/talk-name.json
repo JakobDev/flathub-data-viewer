@@ -789,6 +789,7 @@
         "net.cozic.joplin_desktop",
         "net.jami.Jami",
         "net.kvirc.KVIrc",
+        "net.lutris.Lutris",
         "net.rpdev.OpenTodoList",
         "network.loki.Session",
         "nz.mega.MEGAsync",
@@ -2015,6 +2016,7 @@
         "io.podman_desktop.PodmanDesktop",
         "io.stoplight.studio",
         "net.cozic.joplin_desktop",
+        "net.lutris.Lutris",
         "org.cockpit_project.CockpitClient",
         "org.contourterminal.Contour",
         "org.coolero.Coolero",
@@ -2512,15 +2514,16 @@
     "org.kde.statusnotifieritem-2-1": [
         "io.github.spacingbat3.webcord"
     ],
+    "org.gnome.mutter.displayconfig": [
+        "net.lutris.Lutris",
+        "org.gabmus.hydrapaper"
+    ],
     "org.mate.screensaver": [
         "net.rpcs3.RPCS3"
     ],
     "org.wiimotedev.deviceevents": [
         "org.clementine_player.Clementine",
         "org.strawberrymusicplayer.strawberry"
-    ],
-    "org.gnome.mutter.displayconfig": [
-        "org.gabmus.hydrapaper"
     ],
     "org.kde.kwin.screenshot": [
         "org.gimp.GIMP"

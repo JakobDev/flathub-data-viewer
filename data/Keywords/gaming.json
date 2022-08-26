@@ -1,6 +1,7 @@
 [
     "io.github.dosbox-staging",
     "io.github.sharkwouter.Minigalaxy",
+    "net.lutris.Lutris",
     "org.freedesktop.Piper",
     "org.opensurge2d.OpenSurge",
     "xyz.xclicker.xclicker"
