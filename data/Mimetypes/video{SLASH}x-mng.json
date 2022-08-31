@@ -1,5 +1,6 @@
 [
     "com.github.artemanufrij.playmyvideos",
+    "org.kde.kaffeine",
     "org.kde.okular",
     "org.photoqt.PhotoQt"
 ]

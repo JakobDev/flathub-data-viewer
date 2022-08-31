@@ -19,5 +19,6 @@
     "org.rncbc.qpwgraph",
     "org.rncbc.qsynth",
     "org.rncbc.qtractor",
+    "org.stochas.Stochas",
     "org.zrythm.Zrythm"
 ]

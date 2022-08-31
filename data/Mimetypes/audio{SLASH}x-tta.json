@@ -15,6 +15,7 @@
     "net.mediaarea.MediaInfo",
     "org.cubocore.CoreInfo",
     "org.kde.haruna",
+    "org.kde.kaffeine",
     "org.kde.kid3",
     "org.kde.vvave",
     "org.musicbrainz.Picard",

@@ -18,6 +18,14 @@
         "org.briarproject.Briar",
         "org.verapdf.veraPDF"
     ],
+    ".minecraft": [
+        "ch.tlaun.TL",
+        "com.lunarclient.LunarClient",
+        "com.mojang.Minecraft"
+    ],
+    ".tlauncher": [
+        "ch.tlaun.TL"
+    ],
     ".noiz2sa.prf": [
         "com.abagames.noiz2sa"
     ],
@@ -39,6 +47,7 @@
     ".config": [
         "com.bluejeans.BlueJeans",
         "com.netease.CloudMusic",
+        "org.stochas.Stochas",
         "org.surge_synth_team.surge-xt"
     ],
     ".pki": [
@@ -81,6 +90,7 @@
         "com.tonikelope.MegaBasterd",
         "com.valvesoftware.Steam",
         "edu.berkeley.BOINC",
+        "io.github.santiagocezar.maniatic-launcher",
         "net.sourceforge.lgames.LPairs2"
     ],
     ".godot": [
@@ -125,10 +135,6 @@
         "games.zetsubou.HumanityMustPerish",
         "games.zetsubou.MaxMassacre",
         "games.zetsubou.WanderNoMore"
-    ],
-    ".minecraft": [
-        "com.lunarclient.LunarClient",
-        "com.mojang.Minecraft"
     ],
     ".lunarclient": [
         "com.lunarclient.LunarClient"
@@ -210,6 +216,10 @@
     ],
     ".BOINC": [
         "edu.berkeley.BOINC"
+    ],
+    ".thunderbird": [
+        "eu.betterbird.Betterbird",
+        "org.mozilla.Thunderbird"
     ],
     ".config/ravkavonline": [
         "il.co.ravkavonline.RavKavOnline"
@@ -411,9 +421,6 @@
     ],
     ".ssh": [
         "org.mosh.mosh"
-    ],
-    ".thunderbird": [
-        "org.mozilla.Thunderbird"
     ],
     ".mozilla": [
         "org.mozilla.firefox"

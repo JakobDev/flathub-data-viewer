@@ -1,4 +1,5 @@
 [
+    "eu.betterbird.Betterbird",
     "org.gnome.Calendar",
     "org.gnome.Evolution",
     "org.kde.itinerary"

@@ -395,6 +395,9 @@
     "org.mpris.mediaplayer2.haruna": [
         "org.kde.haruna"
     ],
+    "org.mpris.mediaplayer2.org.kde.kaffeine": [
+        "org.kde.kaffeine"
+    ],
     "org.mpris.mediaplayer2.kasts": [
         "org.kde.kasts"
     ],
@@ -467,7 +470,7 @@
     "org.libreoffice.libreofficeipc0": [
         "org.libreoffice.LibreOffice"
     ],
-    "org.mozilla.thunderbird.*": [
+    "org.mozilla.thunderbird_default.*": [
         "org.mozilla.Thunderbird"
     ],
     "org.mozilla.firefox.*": [

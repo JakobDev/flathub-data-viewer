@@ -25,6 +25,7 @@
         "co.headsetapp.headset",
         "com.agatanawrot.karambola",
         "com.airtame.Client",
+        "com.avocode.Avocode",
         "com.axosoft.GitKraken",
         "com.basemark.BasemarkGPU",
         "com.boxy_svg.BoxySVG",
@@ -44,6 +45,7 @@
         "com.github.z.Cumulonimbus",
         "com.github.zadam.trilium",
         "com.googleplaymusicdesktopplayer.GPMDP",
+        "com.greyrook.siptop",
         "com.heroicgameslauncher.hgl",
         "com.inklestudios.Inky",
         "com.logseq.Logseq",
@@ -127,9 +129,5 @@
         "sh.cider.Cider",
         "social.whalebird.WhalebirdDesktop",
         "us.zoom.Zoom"
-    ],
-    "19.08": [
-        "com.avocode.Avocode",
-        "com.greyrook.siptop"
     ]
 }

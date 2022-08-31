@@ -12,6 +12,7 @@
     "net.baseart.Glide",
     "org.freac.freac",
     "org.kde.haruna",
+    "org.kde.kaffeine",
     "org.kde.kid3",
     "org.musicbrainz.Picard",
     "org.shotcut.Shotcut",

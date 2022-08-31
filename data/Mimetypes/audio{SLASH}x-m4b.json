@@ -1,5 +1,6 @@
 [
     "com.github.neithern.g4music",
     "io.bassi.Amberol",
-    "org.freac.freac"
+    "org.freac.freac",
+    "org.kde.kaffeine"
 ]

@@ -7,6 +7,7 @@
     "io.github.celluloid_player.Celluloid",
     "io.github.swanux.hbud",
     "net.baseart.Glide",
+    "org.kde.kaffeine",
     "org.shotcut.Shotcut",
     "org.videolan.VLC"
 ]

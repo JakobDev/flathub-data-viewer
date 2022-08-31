@@ -1,6 +1,7 @@
 [
     "codes.loers.Karlender",
     "codes.nora.gDiceRoller",
+    "com.doycho.euterpe.gtk",
     "com.github.alexkdeveloper.recorder",
     "com.github.alexkdeveloper.somafm",
     "com.github.bajoja.indicator-kdeconnect",

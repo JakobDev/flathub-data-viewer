@@ -1,6 +1,7 @@
 [
     "com.visualstudio.code",
     "com.vscodium.codium",
+    "eu.betterbird.Betterbird",
     "io.stoplight.studio",
     "org.filezillaproject.Filezilla",
     "org.mozilla.Thunderbird"

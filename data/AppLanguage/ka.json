@@ -5,6 +5,7 @@
     "com.rafaelmardojai.Blanket",
     "io.bassi.Amberol",
     "net.poedit.Poedit",
+    "org.freedesktop.fwupd",
     "org.gimp.GIMP",
     "org.gnome.Calculator",
     "org.gnome.Cheese",

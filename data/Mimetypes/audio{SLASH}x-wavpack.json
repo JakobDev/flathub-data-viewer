@@ -19,6 +19,7 @@
     "org.cubocore.CoreInfo",
     "org.freac.freac",
     "org.kde.haruna",
+    "org.kde.kaffeine",
     "org.kde.kid3",
     "org.kde.vvave",
     "org.musicbrainz.Picard",

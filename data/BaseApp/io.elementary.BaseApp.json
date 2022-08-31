@@ -1,33 +1,18 @@
 {
-    "juno-20.08": [
-        "com.cassidyjames.plausible",
-        "com.github.alecaddd.sequeler",
-        "com.github.arshubham.gitignore",
-        "com.github.artemanufrij.graphui",
-        "com.github.artemanufrij.regextester",
-        "com.github.babluboy.bookworm",
-        "com.github.bcedu.valasimplehttpserver",
-        "com.github.childishgiant.mixer",
-        "com.github.donadigo.appeditor",
-        "com.github.gijsgoudzwaard.image-optimizer",
-        "com.github.muriloventuroso.pdftricks",
-        "com.github.philip_scott.spice-up",
-        "com.github.raibtoffoletto.litteris",
-        "com.github.rajsolai.response",
-        "com.github.robertsanseries.ciano",
-        "com.github.treagod.spectator"
-    ],
     "juno-21.08": [
+        "com.cassidyjames.plausible",
         "com.github.alainm23.byte",
         "com.github.alainm23.planner",
         "com.github.arshubham.cipher",
         "com.github.artemanufrij.playmymusic",
         "com.github.artemanufrij.playmyvideos",
+        "com.github.bcedu.valasimplehttpserver",
         "com.github.bcedu.vgrive",
         "com.github.benpocalypse.Huely",
         "com.github.calo001.luna",
         "com.github.dahenson.agenda",
         "com.github.louis77.tuner",
+        "com.github.matfantinel.reminduck",
         "com.github.mdh34.hackup",
         "com.github.mdh34.quickdocs",
         "com.github.muriloventuroso.givemelyrics",
@@ -35,7 +20,23 @@
         "com.github.phase1geo.minder",
         "com.github.philip_scott.notes-up",
         "com.github.rajsolai.textsnatcher",
-        "com.github.subhadeepjasu.pebbles"
+        "com.github.subhadeepjasu.pebbles",
+        "com.github.treagod.spectator"
+    ],
+    "juno-20.08": [
+        "com.github.alecaddd.sequeler",
+        "com.github.arshubham.gitignore",
+        "com.github.artemanufrij.graphui",
+        "com.github.artemanufrij.regextester",
+        "com.github.babluboy.bookworm",
+        "com.github.childishgiant.mixer",
+        "com.github.donadigo.appeditor",
+        "com.github.gijsgoudzwaard.image-optimizer",
+        "com.github.muriloventuroso.pdftricks",
+        "com.github.philip_scott.spice-up",
+        "com.github.raibtoffoletto.litteris",
+        "com.github.rajsolai.response",
+        "com.github.robertsanseries.ciano"
     ],
     "juno-19.08": [
         "com.github.calo001.fondo",
@@ -43,7 +44,6 @@
         "com.github.horaciodrs.tradesim",
         "com.github.inercia.k3x",
         "com.github.matfantinel.moneta",
-        "com.github.matfantinel.reminduck",
         "com.github.naaando.lyrics"
     ]
 }

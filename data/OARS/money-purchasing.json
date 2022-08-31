@@ -253,7 +253,8 @@
         "network.bisq.Bisq",
         "org.firestormviewer.FirestormViewer",
         "org.phoenicis.playonlinux",
-        "org.telegram"
+        "org.telegram",
+        "org.vergecurrency.verge-qt"
     ],
     "mild": [
         "com.avocode.Avocode",

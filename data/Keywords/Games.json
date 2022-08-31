@@ -1,5 +1,6 @@
 [
     "com.valvesoftware.SteamLink",
     "io.github.philipk.boilr",
-    "io.github.pr_starfighter.starfighter"
+    "io.github.pr_starfighter.starfighter",
+    "io.github.retux_game.retux"
 ]

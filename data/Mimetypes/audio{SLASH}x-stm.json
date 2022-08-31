@@ -4,5 +4,6 @@
     "com.ylsoftware.qmmp.Qmmp",
     "net.baseart.Glide",
     "org.atheme.audacious",
-    "org.gnome.Rhythmbox3"
+    "org.gnome.Rhythmbox3",
+    "org.kde.kaffeine"
 ]

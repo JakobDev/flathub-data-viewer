@@ -14,6 +14,7 @@
     "io.gitlab.sdl_jstest.sdl_jstest",
     "me.simakis.dropboxignore",
     "net.sourceforge.fspclient",
+    "network.koesling.shm-modbus",
     "org.flathub.flatpak-external-data-checker",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",

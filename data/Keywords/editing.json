@@ -1,4 +1,5 @@
 [
+    "com.github.kagami.boram",
     "com.ozmartians.VidCutter",
     "org.kde.kdenlive",
     "org.shotcut.Shotcut"

@@ -1,6 +1,7 @@
 [
     "com.getpostman.Postman",
     "com.github.muriloventuroso.easyssh",
+    "com.github.treagod.spectator",
     "com.jpexs.decompiler.flash",
     "de.create3000.titania",
     "nl.openoffice.bluefish",

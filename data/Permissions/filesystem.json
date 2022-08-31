@@ -68,6 +68,7 @@
         "com.github.huluti.Curtail",
         "com.github.inercia.k3x",
         "com.github.jmlich.geotagging",
+        "com.github.kagami.boram",
         "com.github.kmwallio.thiefmd",
         "com.github.lachhebo.Gabtag",
         "com.github.libresprite.LibreSprite",
@@ -181,6 +182,7 @@
         "io.github.nroduit.Weasis",
         "io.github.rafaelfassi.QLogExplorer",
         "io.github.retgal.Dayon",
+        "io.github.sameboy.SameBoy",
         "io.github.stella_emu.Stella",
         "io.github.technic.e2designer",
         "io.github.torbuntu.Leikr",
@@ -283,6 +285,7 @@
         "org.js.nuclear.Nuclear",
         "org.kde.dolphin",
         "org.kde.filelight",
+        "org.kde.kaffeine",
         "org.kde.kalzium",
         "org.kde.kile",
         "org.kde.koko",
@@ -405,6 +408,7 @@
         "de.haeckerfelix.Fragments",
         "de.schmidhuberj.tubefeeder",
         "dev.vieb.Vieb",
+        "eu.betterbird.Betterbird",
         "fi.skyjake.Lagrange",
         "gg.guilded.Guilded",
         "im.fluffychat.Fluffychat",
@@ -616,6 +620,7 @@
         "com.github.scrivanolabs.scrivano",
         "com.github.shonumi.gbe-plus",
         "com.github.unrud.djpdf",
+        "com.github.varnholt.dynablaster_revenge",
         "com.github.vkohaupt.vokoscreenNG",
         "com.github.zocker_160.SyncThingy",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
@@ -708,6 +713,7 @@
         "io.github.Qalculate.qalculate-qt",
         "io.github.antimicrox.antimicrox",
         "io.github.bothlab.pomidaq",
+        "io.github.bothlab.syntalos",
         "io.github.cges30901.hmtimer",
         "io.github.chris2511.xca",
         "io.github.ciromattia.kcc",
@@ -895,6 +901,7 @@
         "org.kde.index",
         "org.kde.itinerary",
         "org.kde.juk",
+        "org.kde.kaffeine",
         "org.kde.kalgebra",
         "org.kde.kalk",
         "org.kde.kalzium",
@@ -985,6 +992,7 @@
         "org.kde.okteta",
         "org.kde.okular",
         "org.kde.palapeli",
+        "org.kde.parley",
         "org.kde.picmi",
         "org.kde.pix",
         "org.kde.ruqola",
@@ -1080,6 +1088,7 @@
         "com.github.arminstraub.krop",
         "com.github.artemanufrij.playmyvideos",
         "com.github.cfcurtis.pdfstitcher",
+        "com.github.kagami.boram",
         "com.github.makhber.Makhber",
         "com.github.nrittsti.NTag",
         "com.github.qarmin.szyszka",
@@ -1115,6 +1124,7 @@
         "org.jdownloader.JDownloader",
         "org.kde.digikam",
         "org.kde.dolphin",
+        "org.kde.kaffeine",
         "org.nomacs.ImageLounge",
         "org.opennumismat.OpenNumismat",
         "org.raspberrypi.rpi-imager",
@@ -1135,6 +1145,7 @@
         "com.github.arminstraub.krop",
         "com.github.artemanufrij.playmyvideos",
         "com.github.cfcurtis.pdfstitcher",
+        "com.github.kagami.boram",
         "com.github.makhber.Makhber",
         "com.github.mtkennerly.ludusavi",
         "com.github.nrittsti.NTag",
@@ -1172,6 +1183,7 @@
         "org.jdownloader.JDownloader",
         "org.kde.digikam",
         "org.kde.dolphin",
+        "org.kde.kaffeine",
         "org.opennumismat.OpenNumismat",
         "org.raspberrypi.rpi-imager",
         "org.soundconverter.SoundConverter",
@@ -1298,6 +1310,7 @@
         "org.rncbc.qsynth",
         "org.rncbc.qtractor",
         "org.shotcut.Shotcut",
+        "org.stochas.Stochas",
         "org.surge_synth_team.surge-xt",
         "org.zrythm.Zrythm",
         "studio.kx.carla"
@@ -1379,7 +1392,6 @@
         "com.retrodev.blastem",
         "com.skype.Client",
         "com.vagueentertainment.Framed",
-        "dev.ares.ares",
         "dev.bsnes.bsnes",
         "dev.paullee.scraterpreter.Scrape",
         "fi.skyjake.Lagrange",
@@ -1412,7 +1424,6 @@
         "com.github.Qv2ray",
         "com.github.calo001.fondo",
         "com.github.devalien.workspaces",
-        "com.github.lachhebo.Gabtag",
         "com.github.marktext.marktext",
         "com.github.xournalpp.xournalpp",
         "com.google.Chrome",
@@ -1456,7 +1467,6 @@
         "com.github.Qv2ray",
         "com.github.calo001.fondo",
         "com.github.devalien.workspaces",
-        "com.github.lachhebo.Gabtag",
         "com.github.marktext.marktext",
         "com.github.xournalpp.xournalpp",
         "com.google.Chrome",
@@ -1570,6 +1580,7 @@
         "de.lernsoftware_filius.Filius",
         "de.rwth_aachen.ient.RDPlot",
         "de.rwth_aachen.ient.YUView",
+        "dev.ares.ares",
         "edu.stanford.Almond",
         "eu.scarpetta.PDFMixTool",
         "fi.mooc.tmc.tmc-cli-rust",
@@ -1582,6 +1593,7 @@
         "io.github.OpenToonz",
         "io.github.achetagames.epic_asset_manager",
         "io.github.betaflight.BetaflightConfigurator",
+        "io.github.bothlab.syntalos",
         "io.github.cboxdoerfer.FSearch",
         "io.github.dfandrich.gpscorrelate",
         "io.github.giantpinkrobots.bootqt",
@@ -2037,6 +2049,7 @@
     "/mnt": [
         "com.axosoft.GitKraken",
         "com.github._0negal.Viper",
+        "com.github.kagami.boram",
         "com.github.qarmin.szyszka",
         "com.github.ransome1.sleek",
         "com.github.weclaw1.ImageRoll",
@@ -2105,6 +2118,7 @@
         "com.google.ChromeDev",
         "com.microsoft.Edge",
         "dev.vieb.Vieb",
+        "eu.betterbird.Betterbird",
         "io.wavebox.Wavebox",
         "org.chromium.Chromium",
         "org.ferdium.Ferdium",
@@ -2173,6 +2187,21 @@
     "xdg-run/app/com.discordapp.DiscordCanary:create": [
         "com.github.Anuken.Mindustry",
         "sh.ppy.osu"
+    ],
+    "xdg-config/gtk-3.0": [
+        "com.github.GradienceTeam.Gradience",
+        "com.neatdecisions.Detwinner",
+        "com.visualstudio.code",
+        "fr.handbrake.ghb",
+        "net.giuspen.cherrytree",
+        "org.gimp.GIMP",
+        "org.gnome.gThumb",
+        "org.inkscape.Inkscape",
+        "org.libreoffice.LibreOffice",
+        "org.onlyoffice.desktopeditors"
+    ],
+    "xdg-config/gtk-4.0": [
+        "com.github.GradienceTeam.Gradience"
     ],
     "xdg-data/Steam": [
         "com.github.Matoking.protontricks",
@@ -2305,6 +2334,7 @@
     ],
     "~/.var/app/com.valvesoftware.Steam:ro": [
         "com.github.petebuffon.yafc",
+        "io.github.santiagocezar.maniatic-launcher",
         "net.lutris.Lutris",
         "org.gnome.Games",
         "org.pegasus_frontend.Pegasus"
@@ -2440,6 +2470,7 @@
         "com.sublimemerge.App",
         "com.syntevo.SmartGit",
         "com.vscodium.codium",
+        "eu.betterbird.Betterbird",
         "org.claws_mail.Claws-Mail",
         "org.gnome.Keysign",
         "org.mozilla.Thunderbird"
@@ -2447,17 +2478,6 @@
     "/sys:ro": [
         "com.leinardi.gst",
         "org.linux_hardware.hw-probe"
-    ],
-    "xdg-config/gtk-3.0": [
-        "com.neatdecisions.Detwinner",
-        "com.visualstudio.code",
-        "fr.handbrake.ghb",
-        "net.giuspen.cherrytree",
-        "org.gimp.GIMP",
-        "org.gnome.gThumb",
-        "org.inkscape.Inkscape",
-        "org.libreoffice.LibreOffice",
-        "org.onlyoffice.desktopeditors"
     ],
     "xdg-run/Nextcloud:create": [
         "com.nextcloud.desktopclient.nextcloud"
@@ -2555,6 +2575,13 @@
     "~/.wallpaperdownloader:create": [
         "es.estoes.wallpaperDownloader"
     ],
+    "~/.gnupg": [
+        "eu.betterbird.Betterbird",
+        "io.github.shiftey.Desktop",
+        "org.gajim.Gajim",
+        "org.gnome.Evolution",
+        "org.mozilla.Thunderbird"
+    ],
     "~/RPMLauncher:create": [
         "ga.rpmtw.rpmlauncher"
     ],
@@ -2645,14 +2672,11 @@
     "host-os": [
         "io.github.realmazharhussain.GdmSettings"
     ],
+    "~/.steam:ro": [
+        "io.github.santiagocezar.maniatic-launcher"
+    ],
     "~/GOG Games:create": [
         "io.github.sharkwouter.Minigalaxy"
-    ],
-    "~/.gnupg": [
-        "io.github.shiftey.Desktop",
-        "org.gajim.Gajim",
-        "org.gnome.Evolution",
-        "org.mozilla.Thunderbird"
     ],
     "xdg-config/gnupg": [
         "io.github.shiftey.Desktop",
@@ -2983,6 +3007,9 @@
     ],
     "xdg-run/discord-ipc-0": [
         "org.srb2.SRB2Kart"
+    ],
+    "~/AudioVitamins:create": [
+        "org.stochas.Stochas"
     ],
     "xdg-documents/Surge XT:create": [
         "org.surge_synth_team.surge-xt"

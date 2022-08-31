@@ -8,5 +8,6 @@
     "org.musescore.MuseScore",
     "org.nongnu.gsequencer.gsequencer",
     "org.rncbc.qtractor",
+    "org.stochas.Stochas",
     "org.zrythm.Zrythm"
 ]
