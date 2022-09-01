@@ -1,4 +1,5 @@
 [
+    "com.amazon.Workspaces",
     "com.github.muriloventuroso.easyssh",
     "com.github.unrud.RemoteTouchpad",
     "com.itopia.client",

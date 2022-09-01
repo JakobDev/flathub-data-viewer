@@ -528,6 +528,7 @@
         "com.ylsoftware.qmmp.Qmmp",
         "de.haeckerfelix.Shortwave",
         "dev.vieb.Vieb",
+        "im.riot.Riot",
         "io.github.cmus.cmus",
         "io.github.jacalz.rymdport",
         "io.github.janbar.noson",
@@ -1822,6 +1823,7 @@
         "de.halaszovich.PMbrowser",
         "dev.vieb.Vieb",
         "fr.free.hxc2001.HxCFloppyEmulator",
+        "im.riot.Riot",
         "io.github.chris2511.xca",
         "io.github.dman95.SASM",
         "io.github.jacalz.rymdport",
@@ -1888,6 +1890,7 @@
         "com.wps.Office",
         "dev.vieb.Vieb",
         "eu.ngdevelopment.tsukitag",
+        "im.riot.Riot",
         "in.bharatkalluri.splash",
         "info.febvre.Komikku",
         "io.github.Figma_Linux.figma_linux",
@@ -1936,6 +1939,7 @@
         "com.viber.Viber",
         "com.wps.Office",
         "dev.vieb.Vieb",
+        "im.riot.Riot",
         "io.github.jacalz.rymdport",
         "io.github.qnapi",
         "io.github.qtox.qTox",
@@ -2087,6 +2091,7 @@
         "com.github.scrivanolabs.scrivano",
         "com.heroicgameslauncher.hgl",
         "com.viber.Viber",
+        "im.riot.Riot",
         "io.github.jacalz.rymdport",
         "io.github.qtox.qTox",
         "io.wavebox.Wavebox",
@@ -2414,6 +2419,7 @@
     ],
     "xdg-data/flatpak:ro": [
         "com.gitlab.librebob.Athenaeum",
+        "io.github.philipk.boilr",
         "net.lutris.Lutris",
         "org.bluesabre.MenuLibre",
         "org.gnome.World.PikaBackup",
@@ -2636,22 +2642,22 @@
         "org.gnome.FontManager",
         "org.gnome.font-viewer"
     ],
+    "/run/media/mmcblk0p1:ro": [
+        "io.github.philipk.boilr"
+    ],
     "~/.var/app/net.lutris.Lutris:ro": [
         "io.github.philipk.boilr"
     ],
     "~/Games/Heroic:ro": [
         "io.github.philipk.boilr"
     ],
-    "/run/media/mmcblk0p1:ro": [
-        "io.github.philipk.boilr"
-    ],
     "xdg-data/lutris:ro": [
         "io.github.philipk.boilr"
     ],
-    "~/.config/itch:ro": [
+    "~/.var/app/com.heroicgameslauncher.hgl:ro": [
         "io.github.philipk.boilr"
     ],
-    "~/.var/app/com.heroicgameslauncher.hgl:ro": [
+    "~/.config/itch:ro": [
         "io.github.philipk.boilr"
     ],
     "~/Applications:create": [

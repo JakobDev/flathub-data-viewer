@@ -3,7 +3,6 @@
         "com.fightcade.Fightcade",
         "com.lunarclient.LunarClient",
         "nl.lostboys.rollemup",
-        "org.mamedev.MAME",
         "org.telegram"
     ],
     "mild": [

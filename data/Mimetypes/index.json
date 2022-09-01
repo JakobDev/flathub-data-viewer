@@ -1636,6 +1636,7 @@
         "x-scheme-handler{SLASH}webcal",
         "x-scheme-handler{SLASH}whatsapp",
         "x-scheme-handler{SLASH}wire",
+        "x-scheme-handler{SLASH}workspaces",
         "x-scheme-handler{SLASH}wormhole-transfer",
         "x-scheme-handler{SLASH}x-github-client",
         "x-scheme-handler{SLASH}x-github-desktop-auth",

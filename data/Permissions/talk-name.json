@@ -2023,6 +2023,7 @@
         "io.github.maurycyliebner.enve",
         "io.github.mightycreak.Diffuse",
         "io.github.mpobaschnig.Vaults",
+        "io.github.philipk.boilr",
         "io.github.prateekmedia.appimagepool",
         "io.github.realmazharhussain.GdmSettings",
         "io.github.shiftey.Desktop",
@@ -2254,6 +2255,9 @@
         "com.icanblink.blink",
         "com.skype.Client",
         "io.gdevelop.ide"
+    ],
+    "com.github.matoking.protontricks.*": [
+        "com.github.Matoking.protontricks"
     ],
     "org.gnome.settingsdaemon.mediakeys": [
         "com.github.alainm23.byte",

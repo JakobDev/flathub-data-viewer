@@ -172,6 +172,7 @@
         "com.mongodb.Compass",
         "com.musixmatch.Musixmatch",
         "com.napster.napster-bigscreen-electron",
+        "com.netease.CloudMusic",
         "com.nordpass.NordPass",
         "com.okta.developer.CLI",
         "com.openwall.John",
@@ -694,7 +695,6 @@
     "18.08": [
         "au.edu.uq.esys.escript",
         "com.abagames.noiz2sa",
-        "com.netease.CloudMusic",
         "io.ark.Desktop",
         "io.github.betaflight.BetaflightConfigurator",
         "io.github.openWMail.openWMail",
