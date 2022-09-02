@@ -425,7 +425,6 @@
         "io.github.openWMail.openWMail",
         "io.github.qnapi",
         "io.github.qtox.qTox",
-        "io.gitlab.azymohliad.WatchMate",
         "io.gitlab.librewolf-community",
         "io.sourceforge.qoobar.Qoobar",
         "io.trustable.stpadocumentationtool",
@@ -2566,6 +2565,7 @@
     ],
     "xdg-config/gtk-3.0:ro": [
         "com.vscodium.codium",
+        "de.willuhn.Jameica",
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet"
     ],

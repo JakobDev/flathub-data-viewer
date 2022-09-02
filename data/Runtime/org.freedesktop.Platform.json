@@ -200,7 +200,6 @@
         "com.tutanota.Tutanota",
         "com.tux4kids.tuxmath",
         "com.tux4kids.tuxtype",
-        "com.valvesoftware.Steam",
         "com.valvesoftware.SteamLink",
         "com.viewizard.AstroMenace",
         "com.w1hkj.fldigi",
@@ -236,7 +235,6 @@
         "eu.betterbird.Betterbird",
         "eu.ngdevelopment.tsukitag",
         "fi.mooc.tmc.tmc-cli-rust",
-        "fr.free.hxc2001.HxCFloppyEmulator",
         "fr.rubet.rpn",
         "ga.rpmtw.rpmlauncher",
         "games.zetsubou.HumanityMustPerish",
@@ -260,7 +258,6 @@
         "io.github.Foldex.r2mod",
         "io.github.Icalingua.Icalingua",
         "io.github.RodZill4.Material-Maker",
-        "io.github.arunsivaramanneo.GPUViewer",
         "io.github.cmus.cmus",
         "io.github.dbchoco.Salawat",
         "io.github.dbchoco.muezzin",
@@ -349,7 +346,6 @@
         "net.goatattack.goatattack",
         "net.kubux.Muehle",
         "net.mediaarea.MediaInfo",
-        "net.minetest.Minetest",
         "net.olofson.KoboDeluxe",
         "net.openra.OpenRA",
         "net.pioneerspacesim.Pioneer",
@@ -447,7 +443,6 @@
         "org.libreoffice.LibreOffice",
         "org.libretrainsim.Libre-TrainSim",
         "org.libsdl.Maelstrom",
-        "org.love2d.love2d",
         "org.manaplus.ManaPlus",
         "org.mattdm.icebreaker",
         "org.mosh.mosh",
@@ -671,5 +666,12 @@
         "org.kosmospredanie.Yakblt",
         "org.lamport.tla.toolbox",
         "party.supertux.supertuxparty"
+    ],
+    "22.08": [
+        "com.valvesoftware.Steam",
+        "fr.free.hxc2001.HxCFloppyEmulator",
+        "io.github.arunsivaramanneo.GPUViewer",
+        "net.minetest.Minetest",
+        "org.love2d.love2d"
     ]
 }

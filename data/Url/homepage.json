@@ -2049,6 +2049,7 @@
     "org.freedesktop.LinuxAudio.Plugins.swh",
     "org.freedesktop.LinuxAudio.Plugins.x42Plugins",
     "org.freedesktop.Platform.GL.default",
+    "org.freedesktop.Platform.GL32.default",
     "org.freedesktop.Platform.VulkanLayer.MangoHud",
     "org.freedesktop.Platform.VulkanLayer.OBSVkCapture",
     "org.freedesktop.Platform.VulkanLayer.vkBasalt",

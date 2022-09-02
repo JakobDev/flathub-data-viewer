@@ -13,10 +13,7 @@
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetbrains.PhpStorm",
-        "com.jetbrains.PyCharm-Community",
         "com.jetbrains.PyCharm-Professional",
-        "com.jetbrains.Rider",
-        "com.jetbrains.RubyMine",
         "com.jetbrains.WebStorm",
         "com.okta.developer.CLI",
         "com.steamgriddb.steam-rom-manager",
@@ -36,13 +33,18 @@
         "org.apache.netbeans",
         "org.codeblocks.codeblocks",
         "org.flathub.flatpak-external-data-checker",
-        "org.geany.Geany",
         "org.ghidra_sre.Ghidra",
         "org.gnu.emacs",
         "org.kicad.KiCad",
         "org.scilab.Scilab",
         "org.thonny.Thonny",
         "org.vim.Vim"
+    ],
+    "22.08": [
+        "com.jetbrains.PyCharm-Community",
+        "com.jetbrains.Rider",
+        "com.jetbrains.RubyMine",
+        "org.geany.Geany"
     ],
     "19.08": [
         "io.brackets.Brackets",

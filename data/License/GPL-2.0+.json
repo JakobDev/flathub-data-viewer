@@ -201,8 +201,6 @@
     "org.fcitx.Fcitx5.Addon.Zhuyin",
     "org.freedesktop.LinuxAudio.Plugins.CMT",
     "org.freedesktop.LinuxAudio.Plugins.ZynFusion",
-    "org.freedesktop.Platform",
-    "org.freedesktop.Sdk",
     "org.gimp.GIMP.Manual",
     "org.gimp.GIMP.Plugin.BIMP",
     "org.gimp.GIMP.Plugin.LiquidRescale",
