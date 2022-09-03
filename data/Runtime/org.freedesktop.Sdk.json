@@ -31,20 +31,20 @@
         "io.neovim.nvim",
         "io.stoplight.studio",
         "org.apache.netbeans",
-        "org.codeblocks.codeblocks",
         "org.flathub.flatpak-external-data-checker",
         "org.ghidra_sre.Ghidra",
         "org.gnu.emacs",
         "org.kicad.KiCad",
         "org.scilab.Scilab",
-        "org.thonny.Thonny",
         "org.vim.Vim"
     ],
     "22.08": [
         "com.jetbrains.PyCharm-Community",
         "com.jetbrains.Rider",
         "com.jetbrains.RubyMine",
-        "org.geany.Geany"
+        "org.codeblocks.codeblocks",
+        "org.geany.Geany",
+        "org.thonny.Thonny"
     ],
     "19.08": [
         "io.brackets.Brackets",

@@ -1,5 +1,6 @@
 [
     "de.syping.gta5view",
+    "org.freedesktop.appstream.cli",
     "org.kde.Ikona",
     "org.kde.akregator",
     "org.kde.angelfish",

@@ -1,4 +1,5 @@
 [
+    "org.freedesktop.appstream.cli",
     "org.gtkhash.gtkhash",
     "org.inkscape.Inkscape"
 ]

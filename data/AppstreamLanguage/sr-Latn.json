@@ -1,4 +1,5 @@
 [
+    "org.freedesktop.appstream.cli",
     "org.kde.akregator",
     "org.kde.ark",
     "org.kde.bomber",

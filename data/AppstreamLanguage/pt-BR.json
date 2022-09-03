@@ -1,6 +1,7 @@
 [
     "im.kaidan.kaidan",
     "io.github.gillesdegottex.FMIT",
+    "org.freedesktop.appstream.cli",
     "org.kde.Ikona",
     "org.kde.akregator",
     "org.kde.alligator",

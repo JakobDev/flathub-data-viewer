@@ -16,6 +16,7 @@
     "io.qt.Linguist",
     "io.qt.qdbusviewer",
     "net.minetest.Minetest",
+    "org.freedesktop.appstream.cli",
     "org.inkscape.Inkscape",
     "org.jreleaser.cli",
     "org.kde.okteta",

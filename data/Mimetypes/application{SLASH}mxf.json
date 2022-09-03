@@ -7,6 +7,7 @@
     "net.baseart.Glide",
     "org.gnome.Totem",
     "org.kde.haruna",
+    "org.photoqt.PhotoQt",
     "org.shotcut.Shotcut",
     "org.videolan.VLC"
 ]

@@ -1,5 +1,6 @@
 [
     "com.github.juzzlin.DustRacing2D",
+    "io.sourceforge.trigger_rally.TriggerRally",
     "org.debian.TuxPuck",
     "org.gnome.OfficeRunner",
     "org.icculus.tennix",
