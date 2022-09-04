@@ -2282,7 +2282,6 @@
         "io.github.seadve.Mousai",
         "io.github.sharkwouter.Minigalaxy",
         "io.github.simple64.simple64",
-        "io.github.spacingbat3.webcord",
         "io.github.swanux.hbud",
         "io.github.technic.e2designer",
         "io.github.thiefmd.themegenerator",
@@ -2922,6 +2921,7 @@
         "xyz.eclipium.TetraSwap",
         "xyz.ljoonal.neospeeps",
         "xyz.mx_moment.moment",
+        "xyz.stuerz.BilligSweeper",
         "xyz.z3ntu.razergenie"
     ],
     "fallback-x11": [
@@ -3707,7 +3707,8 @@
         "xyz.eclipium.Hieroctive",
         "xyz.eclipium.TetraSwap",
         "xyz.ljoonal.neospeeps",
-        "xyz.mx_moment.moment"
+        "xyz.mx_moment.moment",
+        "xyz.stuerz.BilligSweeper"
     ],
     "pulseaudio": [
         "app.bluebubbles.BlueBubbles",

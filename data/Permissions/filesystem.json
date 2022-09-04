@@ -94,6 +94,7 @@
         "com.github.zadam.trilium",
         "com.gitlab.cutecom.cutecom",
         "com.icanblink.blink",
+        "com.inform7.IDE",
         "com.inklestudios.Inky",
         "com.itextpdf.RUPS",
         "com.itopia.client",
@@ -413,7 +414,6 @@
         "gg.guilded.Guilded",
         "im.fluffychat.Fluffychat",
         "im.pidgin.Pidgin",
-        "im.riot.Riot",
         "in.cinny.Cinny",
         "io.freetubeapp.FreeTube",
         "io.gdevs.GDLauncher",
@@ -527,7 +527,6 @@
         "com.ylsoftware.qmmp.Qmmp",
         "de.haeckerfelix.Shortwave",
         "dev.vieb.Vieb",
-        "im.riot.Riot",
         "io.github.cmus.cmus",
         "io.github.jacalz.rymdport",
         "io.github.janbar.noson",
@@ -1811,7 +1810,6 @@
         "com.hamrick.VueScan",
         "com.heroicgameslauncher.hgl",
         "com.icons8.Lunacy",
-        "com.inform7.IDE",
         "com.quixel.Bridge",
         "com.rabbit_company.passky",
         "com.simplenote.Simplenote",
@@ -1823,7 +1821,6 @@
         "de.halaszovich.PMbrowser",
         "dev.vieb.Vieb",
         "fr.free.hxc2001.HxCFloppyEmulator",
-        "im.riot.Riot",
         "io.github.chris2511.xca",
         "io.github.dman95.SASM",
         "io.github.jacalz.rymdport",
@@ -1890,7 +1887,6 @@
         "com.wps.Office",
         "dev.vieb.Vieb",
         "eu.ngdevelopment.tsukitag",
-        "im.riot.Riot",
         "in.bharatkalluri.splash",
         "info.febvre.Komikku",
         "io.github.Figma_Linux.figma_linux",
@@ -1939,7 +1935,6 @@
         "com.viber.Viber",
         "com.wps.Office",
         "dev.vieb.Vieb",
-        "im.riot.Riot",
         "io.github.jacalz.rymdport",
         "io.github.qnapi",
         "io.github.qtox.qTox",
@@ -2091,7 +2086,6 @@
         "com.github.scrivanolabs.scrivano",
         "com.heroicgameslauncher.hgl",
         "com.viber.Viber",
-        "im.riot.Riot",
         "io.github.jacalz.rymdport",
         "io.github.qtox.qTox",
         "io.wavebox.Wavebox",
@@ -2898,6 +2892,10 @@
     "xdg-data/pixmaps/faces:create": [
         "org.gnome.Contacts"
     ],
+    "xdg-cache/evolution/addressbook:ro": [
+        "org.gnome.Contacts",
+        "org.gnome.Geary"
+    ],
     "~/.mozilla/firefox": [
         "org.gnome.Eolie"
     ],
@@ -2917,9 +2915,6 @@
         "org.gnome.FontManager"
     ],
     "~/.config/geary:ro": [
-        "org.gnome.Geary"
-    ],
-    "xdg-cache/evolution/addressbook:ro": [
         "org.gnome.Geary"
     ],
     "xdg-cache/evolution/tmp:ro": [

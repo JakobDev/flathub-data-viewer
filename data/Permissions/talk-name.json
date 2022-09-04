@@ -70,6 +70,7 @@
         "io.github.gitahead.GitAhead",
         "io.github.mideb.digitales_register",
         "io.github.shiftey.Desktop",
+        "io.github.spacingbat3.webcord",
         "io.gitlab.caveman250.headlines",
         "io.lbry.lbry-app",
         "io.stoplight.studio",
@@ -2258,9 +2259,6 @@
         "com.icanblink.blink",
         "com.skype.Client",
         "io.gdevelop.ide"
-    ],
-    "com.github.matoking.protontricks.*": [
-        "com.github.Matoking.protontricks"
     ],
     "org.gnome.settingsdaemon.mediakeys": [
         "com.github.alainm23.byte",
