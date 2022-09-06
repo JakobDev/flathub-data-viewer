@@ -7,10 +7,11 @@ import random
 import shutil
 import json
 import time
+import sys
 import os
 
 
-def download_file(url: str, path: str):
+def download_file(url: str, path: str) -> None:
     r = requests.get(url, stream=True)
     with open(path, "wb") as f:
         shutil.copyfileobj(r.raw, f)
@@ -25,7 +26,24 @@ def get_appstream_data() -> appstream_python.AppstreamCollection:
     return appstream_collection
 
 
-def add_to_data(data: dict, key: str, first: str, second: str, value: str):
+def load_manifests() -> dict:
+    if not os.path.isfile("repodata.json"):
+        print("repodata.json was not found", file=sys.stderr)
+        return {}
+
+    with open("repodata.json", "r", encoding="utf-8") as f:
+        repo_data = json.load(f)
+
+    manifest_data = {}
+    for i in repo_data:
+        app_id = i["ref"].split("/")[1]
+        if i["manifest"] is not None:
+            manifest_data[app_id] = i["manifest"]
+
+    return manifest_data
+
+
+def add_to_data(data: dict, key: str, first: str, second: str, value: str) -> None:
     if first not in data[key]:
         data[key][first] = {}
 
@@ -35,7 +53,7 @@ def add_to_data(data: dict, key: str, first: str, second: str, value: str):
     data[key][first][second].append(value)
 
 
-def add_simple_to_data(data: dict, key: str, name: str, app_id: str):
+def add_simple_to_data(data: dict, key: str, name: str, app_id: str) -> None:
     if name not in data[key]:
         data[key][name] = []
 
@@ -75,7 +93,7 @@ PERMISSON_NAMES = {
 }
 
 
-def parse_summary_api(app_id: str, data: dict, session: requests.sessions.Session):
+def parse_summary_api(app_id: str, data: dict, session: requests.sessions.Session) -> None:
     r = try_request("https://flathub.org/api/v2/summary/" + app_id, session)
 
     if r is None:
@@ -123,7 +141,7 @@ def parse_summary_api(app_id: str, data: dict, session: requests.sessions.Sessio
         add_simple_to_data(data, "required_flatpak", r["metadata"]["required-flatpak"], app_id)
 
 
-def parse_appstream(app_id: str, data: dict, component: appstream_python.AppstreamComponent):
+def parse_appstream(app_id: str, data: dict, component: appstream_python.AppstreamComponent) -> None:
     for i in list(component.urls.keys()):
         add_simple_to_data(data, "url", i, app_id)
 
@@ -186,7 +204,15 @@ def parse_appstream(app_id: str, data: dict, component: appstream_python.Appstre
     add_simple_to_data(data, "type", component.type, app_id)
 
 
-def write_data(path: str, data: dict, description: str, enable_all: bool = False, all_text: Optional[str] = None, data_names: Optional[dict[str, str]] = None, sort_alphabetically: bool = True):
+def parse_manifest(app_id: str, data: dict, manifest_data: dict) -> None:
+    if app_id not in manifest_data:
+        return
+
+    for i in manifest_data[app_id].get("sdk-extensions", []):
+        add_simple_to_data(data, "sdk_extensions", i, app_id)
+
+
+def write_data(path: str, data: dict, description: str, enable_all: bool = False, all_text: Optional[str] = None, data_names: Optional[dict[str, str]] = None, sort_alphabetically: bool = True) -> None:
     try:
         os.makedirs(path)
     except Exception:
@@ -216,12 +242,13 @@ def write_data(path: str, data: dict, description: str, enable_all: bool = False
             json.dump(data[i], f, ensure_ascii=False, indent=4)
 
 
-def main():
+def main() -> None:
     data = {}
     data["runtime"] = {}
     data["sdk"] = {}
     data["base_app"] = {}
     data["extensions"] = {}
+    data["sdk_extensions"] = {}
     data["permissions"] = {}
     data["arch"] = {}
     data["required_flatpak"] = {}
@@ -241,6 +268,7 @@ def main():
     data["type"] = {}
 
     appstream_collection = get_appstream_data()
+    manifest_data = load_manifests()
     session = requests.session()
 
     for i in appstream_collection.get_component_list():
@@ -248,6 +276,7 @@ def main():
         print(app_id)
         parse_summary_api(app_id, data, session)
         parse_appstream(app_id, data, i)
+        parse_manifest(app_id, data, manifest_data)
 
     data_path = "web/data"
 
@@ -265,6 +294,7 @@ def main():
     write_data(os.path.join(data_path, "SDK"), data["sdk"], "Shows all Apps with the given SDK")
     write_data(os.path.join(data_path, "BaseApp"), data["base_app"], "Shows all Apps with the given BaseApp")
     write_data(os.path.join(data_path, "Extensions"), data["extensions"], "Shows all Apps with the given Extensions")
+    write_data(os.path.join(data_path, "SdkExtensions"), data["sdk_extensions"], "Shows all Apps with the given SDK Extensions")
     write_data(os.path.join(data_path, "Permissions"), data["permissions"], "Shows all Apps with the given Permission")
     write_data(os.path.join(data_path, "Architecture"), data["arch"], "Shows all Apps which supports the given Architecture")
     write_data(os.path.join(data_path, "RequiredFlatpak"), data["required_flatpak"], "Shows all Apps which require a specific Flatpak version")
@@ -289,6 +319,7 @@ def main():
             {"name": "SDK", "value": "SDK"},
             {"name": "BaseApp", "value": "BaseApp"},
             {"name": "Extension", "value": "Extensions"},
+            {"name": "SDK Extension", "value": "SdkExtensions"},
             {"name": "Permission", "value": "Permissions"},
             {"name": "Architecture", "value": "Architecture"},
             {"name": "Required Flatpak Version", "value": "RequiredFlatpak"},
