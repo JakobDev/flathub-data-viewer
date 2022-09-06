@@ -187,6 +187,7 @@
         "io.github.stella_emu.Stella",
         "io.github.technic.e2designer",
         "io.github.torbuntu.Leikr",
+        "io.github.torrent_file_editor.Torrent-file-editor",
         "io.github.trevorsandy.LPub3D",
         "io.github.wereturtle.ghostwriter",
         "io.github.xverizex.nem_desktop",
@@ -747,6 +748,7 @@
         "io.github.simple64.simple64",
         "io.github.tcobbs.LDView",
         "io.github.technic.e2designer",
+        "io.github.torrent_file_editor.Torrent-file-editor",
         "io.github.trevorsandy.LPub3D",
         "io.github.veusz.Veusz",
         "io.github.webcamoid.Webcamoid",
@@ -995,6 +997,7 @@
         "org.kde.parley",
         "org.kde.picmi",
         "org.kde.pix",
+        "org.kde.rocs",
         "org.kde.ruqola",
         "org.kde.skrooge",
         "org.kde.subtitlecomposer",
@@ -1848,6 +1851,7 @@
         "org.gnome.moserial",
         "org.gnumeric.Gnumeric",
         "org.kde.cantor",
+        "org.kde.rocs",
         "org.msweet.htmldoc",
         "org.omegat.OmegaT",
         "org.phoenicis.playonlinux",
@@ -2036,6 +2040,9 @@
         "org.videolan.VLC",
         "org.xfce.mousepad",
         "org.xfce.ristretto"
+    ],
+    "xdg-documents/Saber:create": [
+        "com.adilhanney.saber"
     ],
     "xdg-run/gvfs:ro": [
         "com.adobe.Flash-Player-Projector",
@@ -2625,6 +2632,9 @@
     ],
     "xdg-pictures:create": [
         "io.github.igorlogius.scr2ppm"
+    ],
+    "xdg-videos/Hidamari:create": [
+        "io.github.jeffshee.Hidamari"
     ],
     "/run/libvirt": [
         "io.github.lruzicka.Needly"

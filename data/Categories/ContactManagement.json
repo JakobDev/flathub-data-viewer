@@ -1,6 +1,7 @@
 [
     "com.ulduzsoft.Birdtray",
     "eu.betterbird.Betterbird",
+    "net.sourceforge.osmo",
     "org.gnome.Contacts",
     "org.gnome.Evolution",
     "org.mozilla.Thunderbird"

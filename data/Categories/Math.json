@@ -21,6 +21,7 @@
     "org.kde.kig",
     "org.kde.kmplot",
     "org.kde.labplot2",
+    "org.kde.rocs",
     "org.mersenne.mprime",
     "org.octave.Octave",
     "org.scilab.Scilab"

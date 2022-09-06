@@ -354,6 +354,7 @@
         "io.github.simple64.simple64",
         "io.github.tcobbs.LDView",
         "io.github.technic.e2designer",
+        "io.github.torrent_file_editor.Torrent-file-editor",
         "io.github.trevorsandy.LPub3D",
         "io.github.veusz.Veusz",
         "io.github.webcamoid.Webcamoid",
@@ -608,6 +609,7 @@
         "org.kde.parley",
         "org.kde.picmi",
         "org.kde.pix",
+        "org.kde.rocs",
         "org.kde.ruqola",
         "org.kde.skrooge",
         "org.kde.subtitlecomposer",
@@ -779,6 +781,7 @@
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.antimicrox.antimicrox",
         "io.github.ciromattia.kcc",
+        "io.github.jeffshee.Hidamari",
         "io.github.kotatogram",
         "io.github.liberodark.OpenDrive",
         "io.github.mimbrero.WhatsAppDesktop",
@@ -1242,7 +1245,6 @@
         "com.github.micahflee.torbrowser-launcher",
         "com.github.powertab.powertabeditor",
         "com.github.quaternion",
-        "com.github.rssguard",
         "com.github.scrivanolabs.scrivano",
         "com.github.shonumi.gbe-plus",
         "com.github.unrud.djpdf",
@@ -1319,6 +1321,7 @@
         "io.github.rinigus.PureMaps",
         "io.github.shiiion.primehack",
         "io.github.tcobbs.LDView",
+        "io.github.torrent_file_editor.Torrent-file-editor",
         "io.github.trevorsandy.LPub3D",
         "io.github.veusz.Veusz",
         "io.github.webcamoid.Webcamoid",
@@ -1509,6 +1512,7 @@
         "org.kde.parley",
         "org.kde.picmi",
         "org.kde.pix",
+        "org.kde.rocs",
         "org.kde.ruqola",
         "org.kde.skrooge",
         "org.kde.subtitlecomposer",
@@ -1595,7 +1599,6 @@
         "com.github.makhber.Makhber",
         "com.github.micahflee.torbrowser-launcher",
         "com.github.quaternion",
-        "com.github.rssguard",
         "com.github.scrivanolabs.scrivano",
         "com.github.unrud.djpdf",
         "com.github.varnholt.dynablaster_revenge",
@@ -1640,6 +1643,7 @@
         "io.github.rinigus.OSMScoutServer",
         "io.github.rinigus.PureMaps",
         "io.github.shiiion.primehack",
+        "io.github.torrent_file_editor.Torrent-file-editor",
         "io.github.trevorsandy.LPub3D",
         "io.github.wereturtle.ghostwriter",
         "io.github.xaos_project.XaoS",
@@ -1805,6 +1809,7 @@
         "org.kde.parley",
         "org.kde.picmi",
         "org.kde.pix",
+        "org.kde.rocs",
         "org.kde.ruqola",
         "org.kde.skrooge",
         "org.kde.subtitlecomposer",
@@ -2022,6 +2027,7 @@
         "io.github.congard.qnvsm",
         "io.github.dummerle.rare",
         "io.github.giantpinkrobots.bootqt",
+        "io.github.jeffshee.Hidamari",
         "io.github.jliljebl.Flowblade",
         "io.github.maurycyliebner.enve",
         "io.github.mightycreak.Diffuse",
@@ -2094,6 +2100,7 @@
         "info.smplayer.SMPlayer",
         "io.botfather.Botfather",
         "io.freetubeapp.FreeTube",
+        "io.github.jeffshee.Hidamari",
         "io.github.kotatogram",
         "io.github.shiiion.primehack",
         "io.github.simple64.simple64",
@@ -2186,6 +2193,7 @@
         "de.hoppfoundation.klassenzimmer",
         "edu.stanford.Almond",
         "io.freetubeapp.FreeTube",
+        "io.github.jeffshee.Hidamari",
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
         "io.gitlab.librewolf-community",
@@ -2425,6 +2433,7 @@
     ],
     "org.gnome.shell.extensions": [
         "com.mattjakeman.ExtensionManager",
+        "io.github.jeffshee.Hidamari",
         "org.gnome.Extensions"
     ],
     "org.freedesktop.portal.trash": [
@@ -2485,6 +2494,7 @@
     "org.gnome.screensaver": [
         "edu.stanford.Almond",
         "info.olasagasti.revelation",
+        "io.github.jeffshee.Hidamari",
         "io.github.quodlibet.QuodLibet",
         "org.gnome.BreakTimer",
         "org.gnome.Totem",
@@ -2501,6 +2511,9 @@
     ],
     "org.freedesktop.filemanager1.*": [
         "io.github.ihhub.Fheroes2"
+    ],
+    "org.cinnamon.screensaver": [
+        "io.github.jeffshee.Hidamari"
     ],
     "org.kde.plasmashell": [
         "io.github.quodlibet.ExFalso",

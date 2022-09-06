@@ -9,6 +9,7 @@
     "com.viber.Viber",
     "io.github.TransmissionRemoteGtk",
     "io.github.jacalz.rymdport",
+    "io.github.torrent_file_editor.Torrent-file-editor",
     "io.webtorrent.WebTorrent",
     "net.jami.Jami",
     "org.bitcoincore.bitcoin-qt",

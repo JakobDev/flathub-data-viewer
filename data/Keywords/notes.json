@@ -1,9 +1,11 @@
 [
+    "com.adilhanney.saber",
     "com.github.hluk.copyq",
     "com.github.scrivanolabs.scrivano",
     "com.github.tenderowl.norka",
     "io.github.lainsce.Notejot",
     "net.giuspen.cherrytree",
+    "net.sourceforge.osmo",
     "org.gabmus.notorious",
     "org.gnome.Gnote",
     "org.gnome.Notes",

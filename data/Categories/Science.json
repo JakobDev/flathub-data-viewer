@@ -59,6 +59,7 @@
     "org.kde.kstars",
     "org.kde.labplot2",
     "org.kde.marble",
+    "org.kde.rocs",
     "org.kicad.KiCad",
     "org.lamport.tla.toolbox",
     "org.mobsya.ThymioSuite",

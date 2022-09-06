@@ -1,5 +1,6 @@
 [
     "cat.xtec.clic.JClic",
+    "com.adilhanney.timing",
     "com.atlauncher.ATLauncher",
     "com.carpeludum.KegaFusion",
     "com.endlessnetwork.aqueducts",
@@ -32,6 +33,7 @@
     "net.supertuxkart.SuperTuxKart",
     "org.bzflag.BZFlag",
     "org.gnome.Chess",
+    "org.gnome.Crosswords",
     "org.gnome.Four-in-a-row",
     "org.gnome.Games",
     "org.gnome.HexGL",

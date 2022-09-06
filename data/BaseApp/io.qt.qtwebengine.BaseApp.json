@@ -2,7 +2,6 @@
     "5.15-21.08": [
         "ch.theologeek.Manuskript",
         "com.github.iwalton3.jellyfin-media-player",
-        "com.github.rssguard",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.nextcloud.desktopclient.nextcloud",
         "com.stremio.Stremio",
@@ -37,6 +36,7 @@
     ],
     "6.3": [
         "com.github.jmlich.geotagging",
+        "com.github.rssguard",
         "net.jami.Jami"
     ],
     "5.15": [

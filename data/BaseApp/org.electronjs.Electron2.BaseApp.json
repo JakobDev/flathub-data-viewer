@@ -26,7 +26,6 @@
         "com.agatanawrot.karambola",
         "com.airtame.Client",
         "com.avocode.Avocode",
-        "com.axosoft.GitKraken",
         "com.basemark.BasemarkGPU",
         "com.boxy_svg.BoxySVG",
         "com.dangeredwolf.ModernDeck",
@@ -129,5 +128,8 @@
         "sh.cider.Cider",
         "social.whalebird.WhalebirdDesktop",
         "us.zoom.Zoom"
+    ],
+    "22.08": [
+        "com.axosoft.GitKraken"
     ]
 }

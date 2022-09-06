@@ -2,6 +2,7 @@
     "app.resp.RESP",
     "ar.com.pilas_engine.App",
     "ch.openboard.OpenBoard",
+    "com.adilhanney.saber",
     "com.adilhanney.timing",
     "com.cassidyjames.plausible",
     "com.diy_fever.DIYLayoutCreator",

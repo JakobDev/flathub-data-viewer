@@ -4,15 +4,24 @@
         "com.synology.SynologyDrive",
         "io.atom.Atom"
     ],
-    "21.08": [
+    "22.08": [
         "com.axosoft.GitKraken",
+        "com.jetbrains.PhpStorm",
+        "com.jetbrains.PyCharm-Community",
+        "com.jetbrains.Rider",
+        "com.jetbrains.RubyMine",
+        "org.codeblocks.codeblocks",
+        "org.geany.Geany",
+        "org.thonny.Thonny",
+        "org.vim.Vim"
+    ],
+    "21.08": [
         "com.chez.GrafX2",
         "com.google.AndroidStudio",
         "com.jetbrains.CLion",
         "com.jetbrains.GoLand",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
-        "com.jetbrains.PhpStorm",
         "com.jetbrains.PyCharm-Professional",
         "com.jetbrains.WebStorm",
         "com.okta.developer.CLI",
@@ -35,16 +44,7 @@
         "org.ghidra_sre.Ghidra",
         "org.gnu.emacs",
         "org.kicad.KiCad",
-        "org.scilab.Scilab",
-        "org.vim.Vim"
-    ],
-    "22.08": [
-        "com.jetbrains.PyCharm-Community",
-        "com.jetbrains.Rider",
-        "com.jetbrains.RubyMine",
-        "org.codeblocks.codeblocks",
-        "org.geany.Geany",
-        "org.thonny.Thonny"
+        "org.scilab.Scilab"
     ],
     "19.08": [
         "io.brackets.Brackets",
