@@ -1,0 +1,18 @@
+[
+    "com.belmoussaoui.Authenticator",
+    "com.belmoussaoui.Decoder",
+    "com.belmoussaoui.ashpd.demo",
+    "eu.ad5001.LogarithmPlotter",
+    "io.github.kotatogram",
+    "io.mrarm.mcpelauncher",
+    "org.cloudcompare.CloudCompare",
+    "org.coolero.Coolero",
+    "org.freecadweb.FreeCAD",
+    "org.gnome.Builder",
+    "org.kde.kdenlive",
+    "org.kde.kdevelop",
+    "org.kde.umbrello",
+    "org.onionshare.OnionShare",
+    "org.pipewire.Helvum",
+    "org.freedesktop.Sdk.Extension.dmd"
+]

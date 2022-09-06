@@ -24,5 +24,6 @@
     "org.mapeditor.Tiled",
     "org.mozilla.Thunderbird",
     "org.turbowarp.TurboWarp",
-    "org.yuzu_emu.yuzu"
+    "org.yuzu_emu.yuzu",
+    "pm.mirko.Atoms"
 ]

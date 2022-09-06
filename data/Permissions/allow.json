@@ -51,6 +51,7 @@
         "org.ghidra_sre.Ghidra",
         "org.gnome.Builder",
         "org.kde.kdevelop",
+        "pm.mirko.Atoms",
         "ua.org.brezblock.q4wine"
     ],
     "bluetooth": [

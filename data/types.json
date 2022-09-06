@@ -16,6 +16,10 @@
         "value": "Extensions"
     },
     {
+        "name": "SDK Extension",
+        "value": "SdkExtensions"
+    },
+    {
         "name": "Permission",
         "value": "Permissions"
     },

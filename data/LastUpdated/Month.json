@@ -286,6 +286,7 @@
     "org.freedesktop.Platform.VulkanLayer.OBSVkCapture",
     "org.freedesktop.Sdk.Extension.node16",
     "org.freedesktop.Sdk.Extension.node18",
+    "org.freedesktop.Sdk.Extension.rust-stable",
     "org.gnome.Boxes.Extension.OsinfoDb",
     "org.telegram.desktop.webview"
 ]

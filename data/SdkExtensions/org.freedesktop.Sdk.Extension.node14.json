@@ -1,0 +1,22 @@
+[
+    "ch.threema.threema-web-desktop",
+    "com.boxy_svg.BoxySVG",
+    "com.emqx.MQTTX",
+    "com.github.ransome1.sleek",
+    "com.github.rhyme_player.rhyme",
+    "com.mongodb.Compass",
+    "com.wickeditor.WickEditor",
+    "info.beyondallreason.bar",
+    "io.github.dbchoco.muezzin",
+    "io.github.mimbrero.WhatsAppDesktop",
+    "io.qt.QtCreator",
+    "io.qt.qtwebengine.BaseApp",
+    "me.hyliu.fluentreader",
+    "net.agalwood.Motrix",
+    "net.biniou.LeBiniou",
+    "no.mifi.losslesscut",
+    "org.gnome.Builder",
+    "org.qutebrowser.qutebrowser",
+    "org.turbowarp.TurboWarp",
+    "tech.feliciano.pocket-casts"
+]

@@ -1,0 +1,21 @@
+[
+    "com.atlauncher.ATLauncher",
+    "com.github.skylot.jadx",
+    "com.gitlab.JakobDev.jdMinecraftLauncher",
+    "com.jetpackduba.Gitnuro",
+    "com.remnantsoftheprecursors.ROTP",
+    "com.tonikelope.MegaBasterd",
+    "io.github.dbchoco.Salawat",
+    "io.github.yairm210.unciv",
+    "net.sourceforge.squirrel_sql",
+    "network.bisq.Bisq",
+    "org.apache.directory.studio",
+    "org.briarproject.Briar",
+    "org.cryptomator.Cryptomator",
+    "org.eclipse.sumo",
+    "org.jdownloader.JDownloader",
+    "org.omegat.OmegaT",
+    "org.openstreetmap.josm",
+    "org.polymc.PolyMC",
+    "vet.rsc.OpenRSC.Launcher"
+]
