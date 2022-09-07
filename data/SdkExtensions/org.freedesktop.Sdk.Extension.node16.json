@@ -1,6 +1,7 @@
 [
     "app.moosync.moosync",
     "app.ytmdesktop.ytmdesktop",
+    "ch.threema.threema-web-desktop",
     "chat.revolt.RevoltDesktop",
     "com.dangeredwolf.ModernDeck",
     "com.getmailspring.Mailspring",

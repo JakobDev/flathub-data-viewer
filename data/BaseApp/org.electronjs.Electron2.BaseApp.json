@@ -16,7 +16,6 @@
         "app.moosync.moosync",
         "app.ytmdesktop.ytmdesktop",
         "ar.com.pilas_engine.App",
-        "ch.threema.threema-web-desktop",
         "chat.quadrix.Quadrix",
         "chat.revolt.RevoltDesktop",
         "chat.rocket.RocketChat",
@@ -79,7 +78,6 @@
         "dev.vieb.Vieb",
         "edu.mit.Scratch",
         "im.gitter.Gitter",
-        "im.riot.Riot",
         "info.beyondallreason.bar",
         "io.designer.GravitDesigner",
         "io.exodus.Exodus",
@@ -102,7 +100,6 @@
         "io.podman_desktop.PodmanDesktop",
         "io.typora.Typora",
         "life.bolls.bolls",
-        "md.obsidian.Obsidian",
         "me.aandrew.ytdownloader",
         "me.hyliu.fluentreader",
         "net.agalwood.Motrix",
@@ -117,7 +114,6 @@
         "org.nanuc.Axolotl",
         "org.onlyoffice.desktopeditors",
         "org.signal.Signal",
-        "org.standardnotes.standardnotes",
         "org.sugarlabs.MusicBlocks",
         "org.turbowarp.TurboWarp",
         "org.twinery.Twine",
@@ -130,6 +126,10 @@
         "us.zoom.Zoom"
     ],
     "22.08": [
-        "com.axosoft.GitKraken"
+        "ch.threema.threema-web-desktop",
+        "com.axosoft.GitKraken",
+        "im.riot.Riot",
+        "md.obsidian.Obsidian",
+        "org.standardnotes.standardnotes"
     ]
 }
