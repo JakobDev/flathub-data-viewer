@@ -14,8 +14,6 @@
         "cc.arduino.arduinoide",
         "cc.nift.nsm",
         "ch.imatt.ClipQR",
-        "ch.protonmail.protonmail-bridge",
-        "ch.protonmail.protonmail-import-export-app",
         "ch.tlaun.TL",
         "chat.quadrix.Quadrix",
         "chat.revolt.RevoltDesktop",
@@ -620,6 +618,8 @@
     "22.08": [
         "ca.littlesvr.asunder",
         "cc.arduino.IDE2",
+        "ch.protonmail.protonmail-bridge",
+        "ch.protonmail.protonmail-import-export-app",
         "ch.threema.threema-web-desktop",
         "com.adilhanney.saber",
         "com.adilhanney.timing",

@@ -1557,6 +1557,7 @@
         "x-scheme-handler{SLASH}music",
         "x-scheme-handler{SLASH}musics",
         "x-scheme-handler{SLASH}mxm",
+        "x-scheme-handler{SLASH}nc",
         "x-scheme-handler{SLASH}net",
         "x-scheme-handler{SLASH}nordpass",
         "x-scheme-handler{SLASH}note",

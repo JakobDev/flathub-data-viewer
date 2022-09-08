@@ -3,6 +3,7 @@
     "cc.arduino.arduinoide",
     "com.diy_fever.DIYLayoutCreator",
     "com.github.reds.LogisimEvolution",
+    "com.gitlab.Murmele.UDPLogger",
     "de.klayout.KLayout",
     "eu.stethewwolf.gresistor",
     "io.github.gtkwave.GTKWave",

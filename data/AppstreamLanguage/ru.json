@@ -1,6 +1,7 @@
 [
     "app.drey.Dialect",
     "app.drey.Warp",
+    "ch.tlaun.TL",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
