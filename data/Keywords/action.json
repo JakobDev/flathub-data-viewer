@@ -1,5 +1,6 @@
 [
     "com.gitlab.coringao.cavestory-nx",
     "net.redeclipse.RedEclipse",
-    "org.opensurge2d.OpenSurge"
+    "org.opensurge2d.OpenSurge",
+    "uk.co.parallelrealities.games.edgar"
 ]

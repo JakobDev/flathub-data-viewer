@@ -1,5 +1,6 @@
 [
     "com.calibre_ebook.calibre",
+    "net.sourceforge.mcomix",
     "org.gnome.Evince",
     "org.kde.okular"
 ]

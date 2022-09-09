@@ -1,6 +1,7 @@
 [
     "com.georgefb.mangareader",
     "com.github.johnfactotum.Foliate",
+    "net.sourceforge.mcomix",
     "org.gnome.Evince",
     "org.kde.okular"
 ]

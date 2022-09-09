@@ -1,4 +1,5 @@
 [
     "com.gitlab.coringao.cavestory-nx",
-    "org.manaplus.ManaPlus"
+    "org.manaplus.ManaPlus",
+    "uk.co.parallelrealities.games.edgar"
 ]

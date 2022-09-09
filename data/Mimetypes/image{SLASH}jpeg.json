@@ -29,6 +29,7 @@
     "io.sourceforge.Pixelitor",
     "io.wavebox.Wavebox",
     "net.drawpile.drawpile",
+    "net.sourceforge.mcomix",
     "net.sourceforge.qtpfsgui.LuminanceHDR",
     "org.chromium.Chromium",
     "org.cubocore.CoreImage",

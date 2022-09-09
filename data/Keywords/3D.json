@@ -3,6 +3,7 @@
     "com.prusa3d.PrusaSlicer",
     "com.ultimaker.cura",
     "de.billardgl.Billardgl",
+    "io.github.mgerhardy.vengi.voxedit",
     "net.sourceforge.ExtremeTuxRacer",
     "org.armagetronad.ArmagetronAdvanced"
 ]

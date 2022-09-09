@@ -147,18 +147,6 @@
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
     ],
-    "org.freedesktop.accounts": [
-        "com.cassidyjames.plausible",
-        "com.github.benpocalypse.Huely",
-        "com.github.childishgiant.mixer",
-        "com.github.matfantinel.reminduck",
-        "com.github.rajsolai.textsnatcher",
-        "com.github.subhadeepjasu.pebbles",
-        "com.github.suzie97.communique",
-        "com.hack_computer.Clubhouse",
-        "com.ktechpit.wonderwall",
-        "org.gnome.Boxes"
-    ],
     "org.freedesktop.realtimekit1": [
         "com.giadamusic.Giada",
         "com.polyphone_soundfonts.polyphone",
@@ -180,6 +168,17 @@
         "org.rncbc.qtractor",
         "org.shotcut.Shotcut",
         "org.zrythm.Zrythm"
+    ],
+    "org.freedesktop.accounts": [
+        "com.github.benpocalypse.Huely",
+        "com.github.childishgiant.mixer",
+        "com.github.matfantinel.reminduck",
+        "com.github.rajsolai.textsnatcher",
+        "com.github.subhadeepjasu.pebbles",
+        "com.github.suzie97.communique",
+        "com.hack_computer.Clubhouse",
+        "com.ktechpit.wonderwall",
+        "org.gnome.Boxes"
     ],
     "net.openvpn.v3.configuration": [
         "com.github.jkotra.eovpn"

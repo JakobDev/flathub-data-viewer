@@ -21,6 +21,7 @@
     "io.wavebox.Wavebox",
     "net.codeindustry.MasterPDFEditor",
     "net.sourceforge.Pdfedit",
+    "net.sourceforge.mcomix",
     "net.sourceforge.pdfchain",
     "org.chromium.Chromium",
     "org.cubocore.CorePDF",

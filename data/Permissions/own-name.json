@@ -353,6 +353,9 @@
     "org.gnome.design.iconlibrary.searchprovider": [
         "org.gnome.design.IconLibrary"
     ],
+    "org.gpodder.*": [
+        "org.gpodder.gpodder-adaptive"
+    ],
     "org.gpodder": [
         "org.gpodder.gpodder"
     ],

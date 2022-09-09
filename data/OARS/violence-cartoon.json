@@ -183,6 +183,7 @@
         "org.gnome.five-or-more",
         "org.gnome.frogr",
         "org.gnome.gbrainy",
+        "org.gpodder.gpodder-adaptive",
         "org.gpodder.gpodder",
         "org.hlwd.sonofman",
         "org.jamovi.jamovi",
@@ -329,6 +330,7 @@
         "org.seul.pingus",
         "org.supertux.SuperTux-Milestone1",
         "org.supertuxproject.SuperTux",
-        "page.codeberg.papojari.Find_Billy"
+        "page.codeberg.papojari.Find_Billy",
+        "uk.co.parallelrealities.games.edgar"
     ]
 }

@@ -13,5 +13,6 @@
     "org.naev.Naev",
     "org.pjbroad.EternallandsClient",
     "org.scummvm.ScummVM",
-    "org.solarus_games.solarus.Launcher"
+    "org.solarus_games.solarus.Launcher",
+    "uk.co.parallelrealities.games.edgar"
 ]

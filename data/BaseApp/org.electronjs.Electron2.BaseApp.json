@@ -75,7 +75,6 @@
         "com.xunlei.Thunder",
         "com.zettlr.Zettlr",
         "de.hoppfoundation.klassenzimmer",
-        "dev.vieb.Vieb",
         "edu.mit.Scratch",
         "im.gitter.Gitter",
         "info.beyondallreason.bar",
@@ -100,7 +99,6 @@
         "io.podman_desktop.PodmanDesktop",
         "io.typora.Typora",
         "life.bolls.bolls",
-        "me.aandrew.ytdownloader",
         "me.hyliu.fluentreader",
         "net.agalwood.Motrix",
         "net.blockbench.Blockbench",
@@ -128,8 +126,10 @@
     "22.08": [
         "ch.threema.threema-web-desktop",
         "com.axosoft.GitKraken",
+        "dev.vieb.Vieb",
         "im.riot.Riot",
         "md.obsidian.Obsidian",
+        "me.aandrew.ytdownloader",
         "org.standardnotes.standardnotes"
     ]
 }

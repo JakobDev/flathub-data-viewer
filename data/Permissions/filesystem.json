@@ -177,6 +177,7 @@
         "io.github.liberodark.OpenDrive",
         "io.github.lruzicka.Needly",
         "io.github.maurycyliebner.enve",
+        "io.github.mgerhardy.vengi.voxedit",
         "io.github.mightycreak.Diffuse",
         "io.github.mrmyhuang.cbetar2",
         "io.github.muse_sequencer.Muse",
@@ -441,6 +442,7 @@
         "net.sonobus.SonoBus",
         "net.sourceforge.Pdfedit",
         "net.sourceforge.jpdftweak.jPdfTweak",
+        "net.sourceforge.mcomix",
         "net.sourceforge.pdfchain",
         "net.xmind.XMind",
         "net.xmind.XMind8",
@@ -1119,6 +1121,7 @@
         "net.meshlab.MeshLab",
         "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
+        "net.sourceforge.mcomix",
         "net.sourceforge.pdfchain",
         "net.xmind.XMind",
         "net.xmind.XMind8",
@@ -1176,6 +1179,7 @@
         "net.meshlab.MeshLab",
         "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
+        "net.sourceforge.mcomix",
         "net.sourceforge.pdfchain",
         "net.xmind.XMind",
         "net.xmind.XMind8",
@@ -1428,7 +1432,6 @@
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.Qv2ray",
         "com.github.calo001.fondo",
-        "com.github.devalien.workspaces",
         "com.github.marktext.marktext",
         "com.github.xournalpp.xournalpp",
         "com.google.Chrome",
@@ -1471,7 +1474,6 @@
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.Qv2ray",
         "com.github.calo001.fondo",
-        "com.github.devalien.workspaces",
         "com.github.marktext.marktext",
         "com.github.xournalpp.xournalpp",
         "com.google.Chrome",
@@ -1841,6 +1843,7 @@
         "net.danigm.timetrack",
         "net.sourceforge.Pdfedit",
         "net.sourceforge.jpdftweak.jPdfTweak",
+        "net.sourceforge.mcomix",
         "net.sourceforge.pdfchain",
         "net.xm1math.Texmaker",
         "net.xmind.XMind",
@@ -1903,6 +1906,7 @@
         "io.github.webcamoid.Webcamoid",
         "io.mpv.Mpv",
         "net.blockbench.Blockbench",
+        "net.sourceforge.mcomix",
         "net.sourceforge.pdfchain",
         "net.xmind.XMind",
         "net.xmind.XMind8",
@@ -2100,6 +2104,7 @@
         "io.wavebox.Wavebox",
         "net.blockbench.Blockbench",
         "net.sourceforge.jpdftweak.jPdfTweak",
+        "net.sourceforge.mcomix",
         "net.xmind.XMind",
         "org.firestormviewer.FirestormViewer",
         "org.signal.Signal",
@@ -2964,6 +2969,9 @@
     ],
     "xdg-desktop:ro": [
         "org.gnunet.Messenger"
+    ],
+    "~/gPodder": [
+        "org.gpodder.gpodder-adaptive"
     ],
     "/usr/share/fonts": [
         "org.gustavoperedo.FontDownloader"

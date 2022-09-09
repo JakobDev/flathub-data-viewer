@@ -373,6 +373,7 @@
         "org.gnu.pspp",
         "org.gnumeric.Gnumeric",
         "org.gnunet.Messenger",
+        "org.gpodder.gpodder-adaptive",
         "org.gpodder.gpodder",
         "org.gramps_project.Gramps",
         "org.gustavoperedo.FontDownloader",

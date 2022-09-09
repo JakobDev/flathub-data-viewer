@@ -23,6 +23,7 @@
     "org.filezillaproject.Filezilla",
     "org.freedownloadmanager.Manager",
     "org.gnome.moserial",
+    "org.gpodder.gpodder-adaptive",
     "org.gpodder.gpodder",
     "org.kde.kget",
     "org.kde.ktorrent",
