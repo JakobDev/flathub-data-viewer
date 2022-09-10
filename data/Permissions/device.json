@@ -269,6 +269,7 @@
         "com.katawa_shoujo.KatawaShoujo",
         "com.kolor.AutopanoPro",
         "com.kristianduske.TrenchBroom",
+        "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.wonderwall",
         "com.lakoliu.Furtherance",
         "com.leinardi.gst",
@@ -589,6 +590,7 @@
         "me.sanchezrodriguez.passes",
         "media.emby.EmbyServer",
         "moe.tundra.Tundra",
+        "mx.pwmc.Svgvi",
         "net.agalwood.Motrix",
         "net.ankiweb.Anki",
         "net.bartkessels.getit",
@@ -656,6 +658,7 @@
         "net.sourceforge.projectM",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.sourceforge.scidavis",
+        "net.sourceforge.tomatoes.IHaveNoTomatoes",
         "net.stabyourself.nottetris2",
         "net.tedomum.CapBattleship",
         "net.unvanquished.Unvanquished",
@@ -1491,7 +1494,8 @@
         "uk.me.doof.Lander",
         "us.zoom.Zoom",
         "vn.hoabinh.quan.CoBang",
-        "ws.openarena.OpenArena"
+        "ws.openarena.OpenArena",
+        "xyz.stuerz.BilligSweeper"
     ],
     "shm": [
         "com.github.ahrm.sioyek",

@@ -392,6 +392,7 @@
         "com.google.ChromeDev",
         "com.greyrook.siptop",
         "com.icons8.Lunacy",
+        "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.wonderwall",
         "com.meetfranz.Franz",
         "com.microsoft.Edge",
@@ -644,6 +645,7 @@
         "com.interversehq.qView",
         "com.itopia.client",
         "com.kristianduske.TrenchBroom",
+        "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.wonderwall",
         "com.makemkv.MakeMKV",
         "com.moonlight_stream.Moonlight",
@@ -1891,6 +1893,7 @@
         "com.google.Chrome",
         "com.hamrick.VueScan",
         "com.kolor.AutopanoPro",
+        "com.ktechpit.ultimate-media-downloader",
         "com.tracktion.Waveform",
         "com.viber.Viber",
         "com.wps.Office",
@@ -1940,6 +1943,7 @@
         "com.github.rafostar.Clapper",
         "com.github.vkohaupt.vokoscreenNG",
         "com.google.Chrome",
+        "com.ktechpit.ultimate-media-downloader",
         "com.tracktion.Waveform",
         "com.uploadedlobster.peek",
         "com.viber.Viber",
@@ -2527,7 +2531,10 @@
     "~/.var/app/com.valvesoftware.Steam/data/Steam/appcache/librarycache": [
         "com.steamgriddb.SGDBoop"
     ],
-    "~/.var/app/com.valvesoftware.Steam/data/Steam/userdata": [
+    "/run/media/mmcblk0p1/steamapps/sourcemods:ro": [
+        "com.steamgriddb.SGDBoop"
+    ],
+    "~/.steam/steam/appcache/librarycache": [
         "com.steamgriddb.SGDBoop"
     ],
     "~/.steam/steam/userdata": [
@@ -2536,10 +2543,16 @@
     "~/.steam/steam/config/loginusers.vdf:ro": [
         "com.steamgriddb.SGDBoop"
     ],
-    "~/.steam/steam/appcache/librarycache": [
+    "/run/media/mmcblk0p1/steamapps/common/Half-Life:ro": [
         "com.steamgriddb.SGDBoop"
     ],
     "~/.steam/registry.vdf:ro": [
+        "com.steamgriddb.SGDBoop"
+    ],
+    "~/.local/state:create": [
+        "com.steamgriddb.SGDBoop"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/data/Steam/userdata": [
         "com.steamgriddb.SGDBoop"
     ],
     "~/.var/app/com.valvesoftware.Steam/data/registry.vdf:ro": [

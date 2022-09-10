@@ -326,6 +326,9 @@
     ".marsshooter": [
         "net.sourceforge.mars-game"
     ],
+    ".tomatoes": [
+        "net.sourceforge.tomatoes.IHaveNoTomatoes"
+    ],
     ".torcs": [
         "net.sourceforge.torcs"
     ],

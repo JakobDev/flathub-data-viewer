@@ -47,6 +47,7 @@
     "org.gnome.seahorse.Application",
     "org.gramps_project.Gramps",
     "org.inkscape.Inkscape",
+    "org.kde.ark",
     "org.kde.digikam",
     "org.kde.dolphin",
     "org.kde.falkon",
@@ -55,8 +56,10 @@
     "org.kde.kfind",
     "org.kde.kid3",
     "org.kde.kmines",
+    "org.kde.knavalbattle",
     "org.kde.kruler",
     "org.kde.kturtle",
+    "org.kde.lokalize",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator"
