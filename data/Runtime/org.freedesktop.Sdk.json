@@ -13,6 +13,7 @@
         "com.vscodium.codium",
         "org.codeblocks.codeblocks",
         "org.geany.Geany",
+        "org.kicad.KiCad",
         "org.thonny.Thonny",
         "org.vim.Vim"
     ],
@@ -34,6 +35,7 @@
         "com.unity.UnityHub",
         "com.visualstudio.code-oss",
         "com.visualstudio.code",
+        "dev.lapce.lapce",
         "fr.natron.Natron",
         "io.gdevs.GDLauncher",
         "io.github.nroduit.Weasis",
@@ -43,7 +45,6 @@
         "org.flathub.flatpak-external-data-checker",
         "org.ghidra_sre.Ghidra",
         "org.gnu.emacs",
-        "org.kicad.KiCad",
         "org.scilab.Scilab"
     ],
     "19.08": [
