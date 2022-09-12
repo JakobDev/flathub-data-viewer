@@ -18,6 +18,7 @@
     "io.qt.Linguist",
     "io.qt.qdbusviewer",
     "io.sourceforge.qoobar.Qoobar",
+    "net.fasterland.converseen",
     "net.xm1math.Texmaker",
     "org.cubocore.CoreAction",
     "org.cubocore.CoreArchiver",

@@ -3059,6 +3059,9 @@
     "xdg-documents/Twine:create": [
         "org.twinery.Twine"
     ],
+    "xdg-config/wezterm": [
+        "org.wezfurlong.wezterm"
+    ],
     "xdg-run/app/org.mozilla.Firefox.BaseApp:create": [
         "org.zaproxy.ZAP"
     ],

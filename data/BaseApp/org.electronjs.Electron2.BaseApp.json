@@ -98,7 +98,6 @@
         "net.cozic.joplin_desktop",
         "net.xmind.XMind",
         "network.loki.Session",
-        "org.ferdium.Ferdium",
         "org.geogebra.GeoGebra",
         "org.jamovi.jamovi",
         "org.jitsi.jitsi-meet",
@@ -129,6 +128,7 @@
         "io.exodus.Exodus",
         "md.obsidian.Obsidian",
         "me.aandrew.ytdownloader",
+        "org.ferdium.Ferdium",
         "org.signal.Signal",
         "org.standardnotes.standardnotes"
     ]
