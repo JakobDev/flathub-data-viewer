@@ -12,7 +12,8 @@
         "org.opennumismat.OpenNumismat",
         "org.plomgrading.PlomClient",
         "org.pymol.PyMOL",
-        "org.qutebrowser.qutebrowser"
+        "org.qutebrowser.qutebrowser",
+        "se.sjoerd.GIScan"
     ],
     "6.3": [
         "com.gitlab.JakobDev.jdAnimatedImageEditor",

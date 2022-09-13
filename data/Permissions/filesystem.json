@@ -897,6 +897,7 @@
         "org.kde.bomber",
         "org.kde.bovo",
         "org.kde.cantor",
+        "org.kde.choqok",
         "org.kde.digikam",
         "org.kde.dolphin",
         "org.kde.elisa",
@@ -948,6 +949,7 @@
         "org.kde.kiriki",
         "org.kde.kiten",
         "org.kde.kjumpingcube",
+        "org.kde.kleopatra",
         "org.kde.klettres",
         "org.kde.klickety",
         "org.kde.klines",
@@ -1079,6 +1081,7 @@
         "org.yuzu_emu.yuzu",
         "org.zealdocs.Zeal",
         "re.chiaki.Chiaki",
+        "se.sjoerd.GIScan",
         "space.fips.Fips",
         "studio.kx.carla",
         "ua.org.brezblock.q4wine",
@@ -1099,6 +1102,7 @@
         "com.github.cfcurtis.pdfstitcher",
         "com.github.kagami.boram",
         "com.github.makhber.Makhber",
+        "com.github.mtkennerly.ludusavi",
         "com.github.nrittsti.NTag",
         "com.github.qarmin.szyszka",
         "com.github.ransome1.sleek",
@@ -1639,6 +1643,7 @@
         "net.mediaarea.MOVMetaEdit",
         "net.mediaarea.MediaConch",
         "net.mediaarea.QCTools",
+        "net.natesales.Aviator",
         "net.purrdata.PurrData",
         "net.scribus.Scribus",
         "net.sourceforge.Lifeograph",
@@ -1820,6 +1825,7 @@
         "com.hamrick.VueScan",
         "com.heroicgameslauncher.hgl",
         "com.icons8.Lunacy",
+        "com.milesalan.mepo",
         "com.quixel.Bridge",
         "com.rabbit_company.passky",
         "com.simplenote.Simplenote",
@@ -1871,6 +1877,7 @@
         "org.zaproxy.ZAP",
         "org.zotero.Zotero",
         "org.zulip.Zulip",
+        "se.sjoerd.GIScan",
         "ua.org.brezblock.q4wine",
         "uk.org.zint.zint-qt"
     ],
@@ -2252,6 +2259,9 @@
         "org.wireshark.Wireshark",
         "org.zotero.Zotero"
     ],
+    "xdg-pictures/RMG:create": [
+        "com.github.Rosalie241.RMG"
+    ],
     "xdg-data/applications:create": [
         "com.github.alexkdeveloper.desktop-files-creator",
         "com.github.donadigo.appeditor",
@@ -2328,12 +2338,16 @@
     "xdg-data/pokete:create": [
         "com.github.lxgr_linux.pokete"
     ],
+    "/var/home": [
+        "com.github.mtkennerly.ludusavi"
+    ],
     "xdg-data/vocal:create": [
         "com.github.needleandthread.vocal"
     ],
     "xdg-download:ro": [
         "com.github.neithern.g4music",
         "com.github.optyfr.JRomManager",
+        "com.mojang.Minecraft",
         "io.bassi.Amberol",
         "io.github.Soundux",
         "org.opensurge2d.OpenSurge",
@@ -2492,6 +2506,7 @@
         "eu.betterbird.Betterbird",
         "org.claws_mail.Claws-Mail",
         "org.gnome.Keysign",
+        "org.kde.kleopatra",
         "org.mozilla.Thunderbird"
     ],
     "/sys:ro": [
@@ -2973,7 +2988,8 @@
         "org.gnome.seahorse.Application"
     ],
     "~/.gnupg:create": [
-        "org.gnome.seahorse.Application"
+        "org.gnome.seahorse.Application",
+        "org.kde.kleopatra"
     ],
     "xdg-templates:ro": [
         "org.gnunet.Messenger"

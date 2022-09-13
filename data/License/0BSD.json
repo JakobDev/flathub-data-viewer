@@ -1,3 +1,4 @@
 [
-    "net.mediaarea.BWFMetaEdit"
+    "net.mediaarea.BWFMetaEdit",
+    "org.openjkdf2.OpenJKDF2"
 ]

@@ -15,6 +15,7 @@
         "4k",
         "64",
         "7kaa",
+        "8",
         "8-bit",
         "AI",
         "ALSA",
@@ -125,6 +126,7 @@
         "Coding",
         "Coin",
         "Color",
+        "Color{SPACE}Picker",
         "Comic",
         "Companion",
         "Compression",
@@ -1084,6 +1086,7 @@
         "crypto",
         "cryptocurrency",
         "cryptography",
+        "crystal",
         "csg",
         "cube",
         "cue",
@@ -1173,6 +1176,7 @@
         "education",
         "educational",
         "effects",
+        "eight",
         "electronics",
         "element",
         "elgato",
@@ -2230,7 +2234,9 @@
         "zx",
         "{DOUBLEQUOTE}",
         "{DOUBLEQUOTE}USB",
-        "{SPACE}airshipper"
+        "{SPACE}airshipper",
+        "🎱",
+        "🔮"
     ],
     "dataNames": {}
 }

@@ -240,6 +240,7 @@
         "org.develz.Crawl",
         "org.freeorion.FreeOrion",
         "org.megaglest.MegaGlest",
+        "org.openjkdf2.OpenJKDF2",
         "org.pjbroad.EternallandsClient",
         "org.sauerbraten.Sauerbraten",
         "org.seul.pingus",

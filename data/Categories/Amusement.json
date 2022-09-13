@@ -1,5 +1,6 @@
 [
     "codes.merritt.FeelingFinder",
+    "com.github.cassidyjames.clairvoyant",
     "com.github.rkoesters.xkcd-gtk",
     "io.github.philipk.boilr",
     "org.gnome.gitlab.Cowsay"

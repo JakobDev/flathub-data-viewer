@@ -1,5 +1,6 @@
 [
     "com.getpostman.Postman",
+    "com.github.finefindus.eyedropper",
     "com.github.muriloventuroso.easyssh",
     "com.github.treagod.spectator",
     "com.jpexs.decompiler.flash",
