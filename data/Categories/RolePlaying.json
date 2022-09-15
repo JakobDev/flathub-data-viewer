@@ -1,6 +1,7 @@
 [
     "com.albiononline.AlbionOnline",
     "net.runelite.RuneLite",
+    "org.develz.Crawl",
     "org.flarerpg.Flare",
     "org.openmw.OpenMW",
     "vet.rsc.OpenRSC.Launcher"

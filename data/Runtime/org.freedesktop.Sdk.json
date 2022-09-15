@@ -6,6 +6,8 @@
     ],
     "22.08": [
         "com.axosoft.GitKraken",
+        "com.jetbrains.IntelliJ-IDEA-Community",
+        "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetbrains.PhpStorm",
         "com.jetbrains.PyCharm-Community",
         "com.jetbrains.Rider",
@@ -23,8 +25,6 @@
         "com.google.AndroidStudio",
         "com.jetbrains.CLion",
         "com.jetbrains.GoLand",
-        "com.jetbrains.IntelliJ-IDEA-Community",
-        "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetbrains.PyCharm-Professional",
         "com.jetbrains.WebStorm",
         "com.okta.developer.CLI",
