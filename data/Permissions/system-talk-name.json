@@ -141,6 +141,7 @@
         "org.kde.dolphin",
         "org.kde.kaffeine",
         "org.kde.kdenlive",
+        "org.kde.kmplayer",
         "org.raspberrypi.rpi-imager",
         "org.sil.FieldWorks",
         "org.strawberrymusicplayer.strawberry",
@@ -166,6 +167,7 @@
     ],
     "org.freedesktop.geoclue2": [
         "com.gitlab.bitseater.meteo",
+        "com.ktechpit.whatsie",
         "de.akaflieg_freiburg.enroute",
         "io.github.rinigus.PureMaps",
         "me.leucoso.Grock",
@@ -179,6 +181,10 @@
     ],
     "org.freedesktop.hostname1": [
         "com.hack_computer.Clubhouse"
+    ],
+    "org.freedesktop.upower.*": [
+        "com.ktechpit.whatsie",
+        "org.kde.falkon"
     ],
     "org.freedesktop.realtimekit1": [
         "com.polyphone_soundfonts.polyphone",
@@ -240,14 +246,14 @@
         "org.gnome.Tomboy",
         "org.openchemistry.Avogadro2"
     ],
-    "org.freedesktop.upower.*": [
-        "org.kde.falkon"
-    ],
     "org.learningequality.kolibri.daemon": [
         "org.learningequality.Kolibri"
     ],
     "org.freedesktop.dbus.proprieties": [
         "org.openchemistry.Avogadro2"
+    ],
+    "org.freedesktop.geoclue2.*": [
+        "page.codeberg.tpikonen.geobug"
     ],
     "org.freedesktop.modemmanager1.*": [
         "page.codeberg.tpikonen.satellite"

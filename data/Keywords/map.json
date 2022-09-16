@@ -1,4 +1,5 @@
 [
+    "net.darkradiant.DarkRadiant",
     "org.freeplane.App",
     "org.qgis.qgis"
 ]

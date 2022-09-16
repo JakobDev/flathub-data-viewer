@@ -118,6 +118,9 @@
     ".xournalpp": [
         "com.github.xournalpp.xournalpp"
     ],
+    ".scenebuilder": [
+        "com.gluonhq.SceneBuilder"
+    ],
     ".tremulous": [
         "com.grangerhub.Tremulous"
     ],
@@ -403,6 +406,9 @@
     ],
     ".hikounomizu": [
         "org.hikounomizu.HikouNoMizu"
+    ],
+    ".mplayer": [
+        "org.kde.kmplayer"
     ],
     "path": [
         "org.kde.kongress"

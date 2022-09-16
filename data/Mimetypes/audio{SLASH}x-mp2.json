@@ -10,6 +10,7 @@
     "io.mpv.Mpv",
     "net.baseart.Glide",
     "org.kde.haruna",
+    "org.kde.kmplayer",
     "org.kde.vvave",
     "org.shotcut.Shotcut",
     "org.videolan.VLC"

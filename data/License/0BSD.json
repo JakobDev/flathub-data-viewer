@@ -1,4 +1,5 @@
 [
+    "com.gluonhq.SceneBuilder",
     "net.mediaarea.BWFMetaEdit",
     "org.openjkdf2.OpenJKDF2"
 ]

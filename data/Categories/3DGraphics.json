@@ -12,6 +12,7 @@
     "io.github.tcobbs.LDView",
     "io.github.trevorsandy.LPub3D",
     "net.blockbench.Blockbench",
+    "net.darkradiant.DarkRadiant",
     "net.meshlab.MeshLab",
     "org.blender.Blender",
     "org.leocad.LeoCAD",

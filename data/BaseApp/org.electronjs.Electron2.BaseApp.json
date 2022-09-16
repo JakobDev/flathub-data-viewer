@@ -108,7 +108,6 @@
         "rest.insomnia.Insomnia",
         "ro.go.hmlendea.DL-Desktop",
         "se.manyver.Manyverse",
-        "sh.cider.Cider",
         "social.whalebird.WhalebirdDesktop",
         "us.zoom.Zoom"
     ],
@@ -130,6 +129,7 @@
         "me.aandrew.ytdownloader",
         "org.ferdium.Ferdium",
         "org.signal.Signal",
-        "org.standardnotes.standardnotes"
+        "org.standardnotes.standardnotes",
+        "sh.cider.Cider"
     ]
 }
