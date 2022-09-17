@@ -424,7 +424,6 @@
         "ru.sview.sView",
         "se.manyver.Manyverse",
         "sh.ppy.osu",
-        "social.whalebird.WhalebirdDesktop",
         "space.crankshaft.Crankshaft",
         "tv.kodi.Kodi",
         "tv.plex.PlexDesktop",
@@ -675,6 +674,7 @@
         "party.supertux.supertuxparty",
         "se.cendio.tlclient",
         "sh.cider.Cider",
+        "social.whalebird.WhalebirdDesktop",
         "uk.co.parallelrealities.games.edgar",
         "ws.openarena.OpenArena",
         "xyz.stuerz.BilligSweeper"

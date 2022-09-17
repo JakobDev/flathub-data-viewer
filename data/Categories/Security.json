@@ -15,6 +15,7 @@
     "org.cryptomator.Cryptomator",
     "org.gnome.seahorse.Application",
     "org.gtkhash.gtkhash",
+    "org.kde.kwalletmanager5",
     "org.keepassxc.KeePassXC",
     "org.nmap.Zenmap",
     "org.zaproxy.ZAP"

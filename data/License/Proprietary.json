@@ -124,6 +124,7 @@
     "io.wavebox.Wavebox",
     "md.obsidian.Obsidian",
     "media.emby.EmbyServer",
+    "net.blix.BlueMail",
     "net.codeindustry.MasterPDFEditor",
     "net.devolutions.RDM",
     "net.devolutions.RDMFree",

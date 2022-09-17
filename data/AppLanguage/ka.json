@@ -19,6 +19,7 @@
     "org.gnome.Glade",
     "org.gnome.NautilusPreviewer",
     "org.gnome.NetworkDisplays",
+    "org.gnome.PowerStats",
     "org.gnome.SoundJuicer",
     "org.gnome.Totem",
     "org.gnome.atomix",

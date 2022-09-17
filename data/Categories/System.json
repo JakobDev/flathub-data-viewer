@@ -45,6 +45,7 @@
     "org.kde.Ikona",
     "org.kde.dolphin",
     "org.kde.index",
+    "org.kde.kwalletmanager5",
     "org.linux_hardware.hw-probe",
     "org.wezfurlong.wezterm",
     "org.worldpossible.ScriptLauncher",
