@@ -1,7 +1,6 @@
 {
     "5.15-21.08": [
         "ch.openboard.OpenBoard",
-        "com.github.fontmatrix.Fontmatrix",
         "com.icanblink.blink",
         "com.notepadqq.Notepadqq",
         "com.sourcepole.kadas",
@@ -18,6 +17,9 @@
     "5.15": [
         "com.codemouse92.timecard",
         "org.subsurface_divelog.Subsurface"
+    ],
+    "5.15-22.08": [
+        "com.github.fontmatrix.Fontmatrix"
     ],
     "5.14": [
         "com.ktechpit.wonderwall"
