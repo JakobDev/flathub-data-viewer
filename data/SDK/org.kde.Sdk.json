@@ -13,8 +13,7 @@
         "org.cznic.Datovka",
         "org.jaspstats.JASP",
         "org.linux_hardware.hw-probe",
-        "org.profex_xrd.Profex",
-        "org.rncbc.qsynth"
+        "org.profex_xrd.Profex"
     ],
     "5.15-21.08": [
         "app.resp.RESP",
@@ -197,7 +196,6 @@
         "org.frescobaldi.Frescobaldi",
         "org.fritzing.Fritzing",
         "org.genivi.DLTViewer",
-        "org.goldendict.GoldenDict",
         "org.groestlcoin.electrum-grs",
         "org.hedgewars.Hedgewars",
         "org.jacktrip.JackTrip",
@@ -410,6 +408,7 @@
         "org.atheme.audacious",
         "org.citra_emu.citra",
         "org.getmonero.Monero",
+        "org.goldendict.GoldenDict",
         "org.hydrogenmusic.Hydrogen",
         "org.libretro.RetroArch",
         "org.openrgb.OpenRGB",
@@ -519,6 +518,7 @@
         "org.gottcode.Tanglet",
         "org.gottcode.Tetzle",
         "org.rncbc.qpwgraph",
+        "org.rncbc.qsynth",
         "org.rncbc.qtractor",
         "org.strawberrymusicplayer.strawberry",
         "uk.org.zint.zint-qt"

@@ -7,7 +7,6 @@
         "info.smplayer.SMPlayer",
         "io.github.cloose.CuteMarkEd",
         "org.fcitx.Fcitx5",
-        "org.goldendict.GoldenDict",
         "org.kde.skrooge",
         "org.kde.umbrello",
         "org.openshot.OpenShot",
@@ -19,7 +18,8 @@
         "org.subsurface_divelog.Subsurface"
     ],
     "5.15-22.08": [
-        "com.github.fontmatrix.Fontmatrix"
+        "com.github.fontmatrix.Fontmatrix",
+        "org.goldendict.GoldenDict"
     ],
     "5.14": [
         "com.ktechpit.wonderwall"

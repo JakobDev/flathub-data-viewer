@@ -198,7 +198,6 @@
         "org.mixxx.Mixxx",
         "org.musescore.MuseScore",
         "org.nongnu.gsequencer.gsequencer",
-        "org.rncbc.qsynth",
         "org.rncbc.qtractor",
         "org.shotcut.Shotcut",
         "org.zrythm.Zrythm"
@@ -208,6 +207,7 @@
         "org.gnome.NetworkDisplays"
     ],
     "org.freedesktop.colormanager": [
+        "net.displaycal.DisplayCAL",
         "org.darktable.Darktable",
         "org.gnome.ColorViewer",
         "org.kde.krita"

@@ -7,7 +7,6 @@
     "io.photoflare.photoflare",
     "org.cubocore.CoreImage",
     "org.cubocore.CorePaint",
-    "org.darktable.Darktable",
     "org.gnome.OCRFeeder",
     "org.gnome.eog",
     "org.gnome.frogr",

@@ -2736,6 +2736,9 @@
     "host-os": [
         "io.github.realmazharhussain.GdmSettings"
     ],
+    "xdg-data/Steam:ro": [
+        "io.github.santiagocezar.maniatic-launcher"
+    ],
     "~/.steam:ro": [
         "io.github.santiagocezar.maniatic-launcher"
     ],

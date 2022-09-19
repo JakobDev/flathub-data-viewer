@@ -2211,7 +2211,6 @@
     "org.gtk.vfs": [
         "com.axosoft.GitKraken",
         "com.github.calo001.fondo",
-        "com.github.junrrein.PDFSlicer",
         "com.lettier.movie-monad",
         "io.atom.Atom",
         "io.github.celluloid_player.Celluloid",
@@ -2600,8 +2599,12 @@
         "io.github.spacingbat3.webcord"
     ],
     "org.gnome.mutter.displayconfig": [
+        "net.displaycal.DisplayCAL",
         "net.lutris.Lutris",
         "org.gabmus.hydrapaper"
+    ],
+    "org.gnome.settingsdaemon.power": [
+        "net.displaycal.DisplayCAL"
     ],
     "org.mate.screensaver": [
         "net.rpcs3.RPCS3"
