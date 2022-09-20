@@ -449,7 +449,8 @@
         "ro.fxdata.taskmonitor.viewer",
         "ro.hume.cosmin.ShoppingList",
         "sa.sy.bluerecorder",
-        "uk.co.mangobrain.Infector"
+        "uk.co.mangobrain.Infector",
+        "work.openpaper.Paperwork"
     ],
     "41": [
         "ar.com.softwareperonista.Rockarrolla",
@@ -504,7 +505,6 @@
         "io.gitlab.jstest_gtk.jstest_gtk",
         "it.mijorus.smile",
         "net.danigm.loop",
-        "net.gaijin.WarThunder",
         "net.jenyay.Outwiker",
         "net.kirgroup.confy",
         "nl.g4d.Girens",
@@ -534,8 +534,7 @@
         "re.sonny.Junction",
         "sh.xaviers.Opentapes",
         "uk.co.ibboard.cawbird",
-        "uk.jnthn.backgammony",
-        "work.openpaper.Paperwork"
+        "uk.jnthn.backgammony"
     ],
     "3.36": [
         "codes.nora.gDiceRoller",

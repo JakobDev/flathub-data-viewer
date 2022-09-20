@@ -41,6 +41,7 @@
     "org.fedoraproject.MediaWriter",
     "org.freedesktop.appstream.cli",
     "org.gabmus.gfeeds",
+    "org.gajim.Gajim",
     "org.gaphor.Gaphor",
     "org.gimp.GIMP",
     "org.glimpse_editor.Glimpse",

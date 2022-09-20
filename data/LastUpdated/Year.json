@@ -188,6 +188,7 @@
     "org.gnome.BreakTimer",
     "org.gnome.Calls",
     "org.gnome.Characters",
+    "org.gnome.Connections",
     "org.gnome.Devhelp",
     "org.gnome.Extensions",
     "org.gnome.FileRoller",
