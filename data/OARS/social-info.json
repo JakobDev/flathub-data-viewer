@@ -66,6 +66,7 @@
         "edu.stanford.Almond",
         "info.urbanterror.UrbanTerror",
         "io.github.Foldex.r2mod",
+        "io.gitlab.celleron56.libretile",
         "io.gitlab.floodlight.Presenter",
         "io.lbry.lbry-app",
         "md.obsidian.Obsidian",
@@ -342,6 +343,7 @@
         "net.gaijin.WarThunder",
         "org.mozilla.Thunderbird",
         "org.sil.FieldWorks",
+        "org.skytemple.SkyTemple",
         "us.zoom.Zoom"
     ]
 }

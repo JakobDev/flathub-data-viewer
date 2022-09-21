@@ -7,6 +7,7 @@
     "com.gitlab.JakobDev.jdMinecraftLauncher",
     "com.gitlab.JakobDev.jdTextEdit",
     "com.heroicgameslauncher.hgl",
+    "com.inochi2d.inochi-creator",
     "com.revolutionarygamesstudio.ThriveLauncher",
     "com.sevenkfans.sevenkaa",
     "com.usebottles.bottles",
@@ -24,6 +25,8 @@
     "org.love2d.love2d",
     "org.mapeditor.Tiled",
     "org.mozilla.Thunderbird",
+    "org.skytemple.Randomizer",
+    "org.skytemple.SkyTemple",
     "org.turbowarp.TurboWarp",
     "org.yuzu_emu.yuzu",
     "pm.mirko.Atoms"

@@ -1,6 +1,7 @@
 [
     "com.neatdecisions.Detwinner",
     "dev.tchx84.Portfolio",
+    "io.github.jonmagon.kdiskmark",
     "org.kde.filelight",
     "org.wxhexeditor.wxHexEditor"
 ]

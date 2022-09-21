@@ -644,6 +644,7 @@
         "com.gitlab.librebob.Athenaeum",
         "com.gitlab.tipp10.tipp10",
         "com.icanblink.blink",
+        "com.inochi2d.inochi-creator",
         "com.interversehq.qView",
         "com.itopia.client",
         "com.kristianduske.TrenchBroom",
@@ -737,6 +738,7 @@
         "io.github.hermitdemschoenenleben.linien",
         "io.github.hydrusnetwork.hydrus",
         "io.github.janbar.noson",
+        "io.github.jonmagon.kdiskmark",
         "io.github.jordanl2.ModularCalculator",
         "io.github.libvibrant.vibrantLinux",
         "io.github.markummitchell.Engauge_Digitizer",
@@ -955,6 +957,7 @@
         "org.kde.klettres",
         "org.kde.klickety",
         "org.kde.klines",
+        "org.kde.kmahjongg",
         "org.kde.kmines",
         "org.kde.kmplayer",
         "org.kde.kmplot",
@@ -1278,6 +1281,7 @@
         "org.libretro.RetroArch",
         "org.polymc.PolyMC",
         "org.ryujinx.Ryujinx",
+        "org.skytemple.SkyTemple",
         "org.srb2.SRB2Kart",
         "org.yuzu_emu.yuzu",
         "sh.cider.Cider",
@@ -1554,6 +1558,7 @@
         "com.gitlab.sat_metalab.Splash",
         "com.google.AndroidStudio",
         "com.hack_computer.Clubhouse",
+        "com.inochi2d.inochi-creator",
         "com.interversehq.qView",
         "com.jetbrains.CLion",
         "com.jetbrains.GoLand",
@@ -1621,6 +1626,7 @@
         "io.github.guillaumechereau.Goxel",
         "io.github.hydrusnetwork.hydrus",
         "io.github.jliljebl.Flowblade",
+        "io.github.jonmagon.kdiskmark",
         "io.github.martinrotter.textosaurus",
         "io.github.mimbrero.WhatsAppDesktop",
         "io.github.mpobaschnig.Vaults",
@@ -1762,6 +1768,7 @@
         "org.shotcut.Shotcut",
         "org.sil.Bloom",
         "org.sil.FieldWorks",
+        "org.skytemple.SkyTemple",
         "org.synfig.SynfigStudio",
         "org.tabos.roger",
         "org.texstudio.TeXstudio",
@@ -2652,6 +2659,12 @@
     "xdg-config/clash:create": [
         "io.github.Fndroid.clash_for_windows"
     ],
+    "~/.var/app/com.valvesoftware.Steam/.steam/steam": [
+        "io.github.Foldex.AdwSteamGtk"
+    ],
+    "~/.steam/steam": [
+        "io.github.Foldex.AdwSteamGtk"
+    ],
     "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/632360": [
         "io.github.Foldex.r2mod"
     ],
@@ -3058,6 +3071,9 @@
     ],
     "/mnt:ro": [
         "org.purei.Play"
+    ],
+    "xdg-run/discord-ipc-0:create": [
+        "org.skytemple.SkyTemple"
     ],
     "~/.local/share/Steam/steamapps/common/Sega Classics/uncompressed ROMs/Sonic_Knuckles_wSonic3.bin:ro": [
         "org.sonic3air.Sonic3AIR"

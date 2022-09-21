@@ -1,4 +1,5 @@
 [
+    "io.gitlab.celleron56.libretile",
     "net.minetest.Minetest",
     "net.veloren.veloren"
 ]
