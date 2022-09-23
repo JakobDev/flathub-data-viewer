@@ -220,6 +220,9 @@
     "org.mpris.mediaplayer2.noson.*": [
         "io.github.janbar.noson"
     ],
+    "flowblade.movie.editor.batchrender": [
+        "io.github.jliljebl.Flowblade"
+    ],
     "org.mpris.mediaplayer2.kotatogram": [
         "io.github.kotatogram"
     ],

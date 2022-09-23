@@ -1264,6 +1264,7 @@
     "xdg-run/app/com.discordapp.Discord:create": [
         "app.ytmdesktop.ytmdesktop",
         "ca.parallel_launcher.ParallelLauncher",
+        "co.headsetapp.headset",
         "com.atlauncher.ATLauncher",
         "com.github.Anuken.Mindustry",
         "com.github.taiko2k.tauonmb",
