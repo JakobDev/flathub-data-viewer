@@ -119,7 +119,6 @@
         "com.frac_tion.teleport",
         "com.github.Eloston.UngoogledChromium",
         "com.github.calo001.fondo",
-        "com.github.unrud.VideoDownloader",
         "com.google.Chrome",
         "com.google.ChromeDev",
         "com.ktechpit.wonderwall",
@@ -384,6 +383,7 @@
         "io.stoplight.studio",
         "io.trustable.stpadocumentationtool",
         "io.typora.Typora",
+        "me.aandrew.ytdownloader",
         "me.mitya57.ReText",
         "net._86box._86Box",
         "net.codeindustry.MasterPDFEditor",
@@ -792,7 +792,6 @@
         "io.github.Pithos",
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.antimicrox.antimicrox",
-        "io.github.ciromattia.kcc",
         "io.github.jeffshee.Hidamari",
         "io.github.kotatogram",
         "io.github.liberodark.OpenDrive",
@@ -1670,6 +1669,7 @@
         "de.akaflieg_freiburg.enroute",
         "de.klayout.KLayout",
         "de.shorsh.discord-screenaudio",
+        "de.syping.gta5view",
         "edu.princeton.physics.WSJTX",
         "eu.vcmi.VCMI",
         "in.srev.guiscrcpy",
@@ -1681,6 +1681,7 @@
         "io.github.antimicrox.antimicrox",
         "io.github.bothlab.pomidaq",
         "io.github.bothlab.syntalos",
+        "io.github.ciromattia.kcc",
         "io.github.cloose.CuteMarkEd",
         "io.github.congard.qnvsm",
         "io.github.cudatext.CudaText-Qt5",
@@ -1968,6 +1969,7 @@
         "org.gimp.GIMP",
         "org.glimpse_editor.Glimpse",
         "org.gnome.Builder",
+        "org.gnome.Calls",
         "org.gnome.ColorViewer",
         "org.gnome.DejaDup",
         "org.gnome.Evince",
@@ -2055,6 +2057,7 @@
         "com.github.devalien.workspaces",
         "com.github.johnfactotum.Foliate",
         "com.github.liferooter.textpieces",
+        "com.github.theCalcaholic.StreamDeck",
         "com.github.ztefn.haguichi",
         "com.gitlab.JakobDev.jdAppdataEdit",
         "com.gitlab.JakobDev.jdTextEdit",
@@ -2107,6 +2110,7 @@
         "io.podman_desktop.PodmanDesktop",
         "io.stoplight.studio",
         "net.cozic.joplin_desktop",
+        "net.davidotek.pupgui2",
         "net.lutris.Lutris",
         "org.cockpit_project.CockpitClient",
         "org.contourterminal.Contour",
@@ -2645,17 +2649,21 @@
     "org.freedesktop.packagekit": [
         "org.gnome.Builder"
     ],
-    "org.gnome.evolution.dataserver.addressbook9": [
-        "org.gnome.Calendar",
-        "org.gnome.Todo",
-        "org.tabos.roger"
-    ],
     "org.gnome.evolution.dataserver.subprocess.backend.*": [
         "org.gnome.Calendar",
         "org.gnome.Calls",
         "org.gnome.Contacts",
         "org.gnome.Maps",
         "org.gnome.Notes",
+        "org.gnome.Todo",
+        "org.tabos.roger"
+    ],
+    "org.gnome.settings": [
+        "org.gnome.Calendar",
+        "org.gnome.Contacts"
+    ],
+    "org.gnome.evolution.dataserver.addressbook9": [
+        "org.gnome.Calendar",
         "org.gnome.Todo",
         "org.tabos.roger"
     ],
@@ -2673,9 +2681,6 @@
     ],
     "org.sigxcpu.feedback": [
         "org.gnome.Calls"
-    ],
-    "org.gnome.settings": [
-        "org.gnome.Contacts"
     ],
     "com.feralinteractive.gamemode": [
         "org.gnome.DejaDup"

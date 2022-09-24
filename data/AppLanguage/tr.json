@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -22,6 +23,7 @@
     "com.github.unrud.VideoDownloader",
     "com.github.xournalpp.xournalpp",
     "com.github.ztefn.haguichi",
+    "com.gitlab.newsflash",
     "com.mattjakeman.ExtensionManager",
     "com.rafaelmardojai.Blanket",
     "com.rafaelmardojai.SharePreview",
@@ -155,6 +157,7 @@
     "org.gnome.gedit",
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
+    "org.gnome.gitlab.cheywood.Iotas",
     "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.glabels-3",
     "org.gnome.meld",

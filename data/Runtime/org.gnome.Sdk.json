@@ -6,8 +6,10 @@
         "com.github.themix_project.Oomox",
         "io.github.orontee.Argos",
         "org.gnome.Builder",
-        "org.gnome.Devhelp",
         "re.sonny.Workbench"
+    ],
+    "43": [
+        "org.gnome.Devhelp"
     ],
     "3.38": [
         "org.scintilla.SciTE"

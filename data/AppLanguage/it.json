@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",

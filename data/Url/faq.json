@@ -97,6 +97,7 @@
     "org.gnu.emacs",
     "org.gnucash.GnuCash",
     "org.godotengine.Godot",
+    "org.hdfgroup.HDFView",
     "org.hedgewars.Hedgewars",
     "org.inkscape.Inkscape",
     "org.jreleaser.cli",

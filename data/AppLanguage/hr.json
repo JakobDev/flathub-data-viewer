@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -126,6 +127,7 @@
     "org.gramps_project.Gramps",
     "org.gtkhash.gtkhash",
     "org.inkscape.Inkscape",
+    "org.laptop.TurtleArtActivity",
     "org.midori_browser.Midori",
     "org.pulseaudio.pavucontrol",
     "org.remmina.Remmina",

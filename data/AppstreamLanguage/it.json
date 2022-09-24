@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.Warp",
     "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
     "ca.parallel_launcher.ParallelLauncher",

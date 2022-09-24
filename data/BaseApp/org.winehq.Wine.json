@@ -1,6 +1,8 @@
 {
+    "stable-22.08": [
+        "com.usebottles.bottles"
+    ],
     "stable-21.08": [
-        "com.usebottles.bottles",
         "io.github.sharkwouter.Minigalaxy",
         "net.lutris.Lutris",
         "ua.org.brezblock.q4wine"

@@ -1,19 +1,21 @@
 {
     "5.15-21.08": [
         "com.borgbase.Vorta",
-        "com.github.git_cola.git-cola",
         "com.github.micahflee.torbrowser-launcher",
-        "com.sigil_ebook.Sigil",
-        "io.github.bothlab.syntalos",
-        "io.github.ciromattia.kcc",
         "io.github.giantpinkrobots.bootqt",
         "io.github.parnassius.SysDVR-Qt",
         "net.sourceforge.scidavis",
-        "org.opennumismat.OpenNumismat",
         "org.plomgrading.PlomClient",
         "org.pymol.PyMOL",
         "org.qutebrowser.qutebrowser",
         "se.sjoerd.GIScan"
+    ],
+    "5.15-22.08": [
+        "com.github.git_cola.git-cola",
+        "com.sigil_ebook.Sigil",
+        "io.github.bothlab.syntalos",
+        "io.github.ciromattia.kcc",
+        "org.opennumismat.OpenNumismat"
     ],
     "6.3": [
         "com.gitlab.JakobDev.jdAnimatedImageEditor",

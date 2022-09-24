@@ -9,5 +9,6 @@
     "network.bisq.Bisq",
     "org.enjoyingfoss.FOSStriangulator",
     "org.freeplane.App",
+    "org.hdfgroup.HDFView",
     "org.robocode.Robocode"
 ]

@@ -1375,6 +1375,7 @@
         "org.freefilesync.FreeFileSync",
         "org.gimp.GIMP",
         "org.gnome.Builder",
+        "org.gnome.Calls",
         "org.gnome.DejaDup",
         "org.gnome.Evince",
         "org.gnome.GHex",
@@ -2254,6 +2255,7 @@
     ],
     "xdg-data/Steam": [
         "com.github.Matoking.protontricks",
+        "com.github.theCalcaholic.StreamDeck",
         "com.heroicgameslauncher.hgl",
         "io.github.philipk.boilr",
         "space.crankshaft.Crankshaft"
@@ -2261,6 +2263,7 @@
     "~/.var/app/com.valvesoftware.Steam": [
         "com.github.Matoking.protontricks",
         "com.github._0negal.Viper",
+        "com.github.theCalcaholic.StreamDeck",
         "com.heroicgameslauncher.hgl",
         "com.steamgriddb.SGDBoop",
         "io.github.philipk.boilr",
@@ -2268,6 +2271,7 @@
     ],
     "~/.steam": [
         "com.github.Matoking.protontricks",
+        "com.github.theCalcaholic.StreamDeck",
         "com.heroicgameslauncher.hgl",
         "io.github.philipk.boilr",
         "net.davidotek.pupgui2",
@@ -2313,13 +2317,21 @@
     ],
     "xdg-cache": [
         "com.github.cfcurtis.pdfstitcher",
+        "com.github.eneshecan.WhatsAppForLinux",
         "net.sourceforge.pdfchain",
         "org.gnome.gThumb"
     ],
     "~/.Xilinx:create": [
         "com.github.corna.Vivado"
     ],
+    "/dev/log": [
+        "com.github.eneshecan.WhatsAppForLinux"
+    ],
+    "/var/run/syslog": [
+        "com.github.eneshecan.WhatsAppForLinux"
+    ],
     "xdg-config": [
+        "com.github.eneshecan.WhatsAppForLinux",
         "com.github.flxzt.rnote",
         "com.gitlab.cunidev.Gestures",
         "com.tracktion.Waveform"
@@ -2341,7 +2353,8 @@
     "~/.config": [
         "com.github.joseexposito.touche",
         "io.github.am2r_community_developers.AM2RLauncher",
-        "life.bolls.bolls"
+        "life.bolls.bolls",
+        "net.davidotek.pupgui2"
     ],
     "xdg-run/pipewire-0:ro": [
         "com.github.kalibari.audok",
@@ -2442,6 +2455,27 @@
     "xdg-data/flatpak/overrides:create": [
         "com.github.tchx84.Flatseal"
     ],
+    "~/.mozilla/firefox": [
+        "com.github.theCalcaholic.StreamDeck",
+        "org.gnome.Eolie"
+    ],
+    "/run/udev:ro": [
+        "com.github.theCalcaholic.StreamDeck",
+        "com.heroicgameslauncher.hgl",
+        "com.napster.napster-bigscreen-electron"
+    ],
+    "~/.var/app/org.mozilla.firefox": [
+        "com.github.theCalcaholic.StreamDeck"
+    ],
+    "xdg-data/flatpak:ro": [
+        "com.github.theCalcaholic.StreamDeck",
+        "com.gitlab.librebob.Athenaeum",
+        "io.github.philipk.boilr",
+        "net.lutris.Lutris",
+        "org.bluesabre.MenuLibre",
+        "org.gnome.World.PikaBackup",
+        "re.sonny.Junction"
+    ],
     "~/.themes:create": [
         "com.github.themix_project.Oomox"
     ],
@@ -2469,14 +2503,6 @@
     "~/.inendi": [
         "com.gitlab.inendi.Inspector"
     ],
-    "xdg-data/flatpak:ro": [
-        "com.gitlab.librebob.Athenaeum",
-        "io.github.philipk.boilr",
-        "net.lutris.Lutris",
-        "org.bluesabre.MenuLibre",
-        "org.gnome.World.PikaBackup",
-        "re.sonny.Junction"
-    ],
     "~/.config/kioslaverc": [
         "com.google.Chrome",
         "com.google.ChromeDev"
@@ -2499,10 +2525,6 @@
     "/var/lib/AccountsService/icons:ro": [
         "com.hack_computer.Clubhouse",
         "org.gnome.Boxes"
-    ],
-    "/run/udev:ro": [
-        "com.heroicgameslauncher.hgl",
-        "com.napster.napster-bigscreen-electron"
     ],
     "xdg-data/applications": [
         "com.heroicgameslauncher.hgl"
@@ -2750,6 +2772,9 @@
     "host-os": [
         "io.github.realmazharhussain.GdmSettings"
     ],
+    "xdg-config/monitors.xml:ro": [
+        "io.github.realmazharhussain.GdmSettings"
+    ],
     "xdg-data/Steam:ro": [
         "io.github.santiagocezar.maniatic-launcher"
     ],
@@ -2811,43 +2836,49 @@
     "xdg-data/gnome-background-properties:create": [
         "me.dusansimic.DynamicWallpaper"
     ],
+    "~/.var/app/net.lutris.Lutris/data/lutris/runners": [
+        "net.davidotek.pupgui2"
+    ],
     "~/.local/share/lutris/runners": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.var/app/net.lutris.Lutris/data/lutris/runtime/dxvk": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/tools": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.var/app/com.usebottles.bottles/data/bottles/runners": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.var/app/net.lutris.Lutris/config/lutris:ro": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.kshrc": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/data/Steam": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/stl:create": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.local/share/lutris/pga.db:ro": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.zshrc": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.local/share/Steam": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.bashrc": [
         "net.davidotek.pupgui2"
     ],
     "~/.local/share/lutris/runtime/dxvk": [
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/net.lutris.Lutris/data/lutris/pga.db:ro": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.config/lutris:ro": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.local/share/lutris/pga.db:ro": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.local/share/Steam": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.var/app/net.lutris.Lutris/data/lutris/runners": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/tools": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.config/heroic/tools": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.var/app/net.lutris.Lutris/data/lutris/runtime/dxvk": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.var/app/net.lutris.Lutris/config/lutris:ro": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.var/app/com.usebottles.bottles/data/bottles/runners": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.var/app/com.valvesoftware.Steam/data/Steam": [
         "net.davidotek.pupgui2"
     ],
     "~/retrodeck:create": [
@@ -2975,9 +3006,6 @@
     "xdg-cache/evolution/addressbook:ro": [
         "org.gnome.Contacts",
         "org.gnome.Geary"
-    ],
-    "~/.mozilla/firefox": [
-        "org.gnome.Eolie"
     ],
     "~/.config/chromium": [
         "org.gnome.Eolie"

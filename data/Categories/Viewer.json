@@ -24,6 +24,7 @@
     "org.gnome.Evince",
     "org.gnome.eog",
     "org.gnome.gThumb",
+    "org.hdfgroup.HDFView",
     "org.kde.gwenview",
     "org.kde.koko",
     "org.kde.okular",

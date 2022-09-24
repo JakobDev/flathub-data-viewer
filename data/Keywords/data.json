@@ -1,5 +1,6 @@
 [
     "io.github.veusz.Veusz",
+    "org.hdfgroup.HDFView",
     "org.jamovi.jamovi",
     "org.jaspstats.JASP"
 ]

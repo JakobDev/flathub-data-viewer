@@ -18,7 +18,6 @@
         "ar.com.pilas_engine.App",
         "chat.quadrix.Quadrix",
         "chat.revolt.RevoltDesktop",
-        "chat.rocket.RocketChat",
         "chat.schildi.desktop",
         "co.headsetapp.headset",
         "com.airtame.Client",
@@ -106,7 +105,9 @@
         "us.zoom.Zoom"
     ],
     "22.08": [
+        "cc.arduino.IDE2",
         "ch.threema.threema-web-desktop",
+        "chat.rocket.RocketChat",
         "chat.tandem.Client",
         "com.agatanawrot.karambola",
         "com.axosoft.GitKraken",

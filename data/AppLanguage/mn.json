@@ -9,6 +9,7 @@
     "org.gnome.Tali",
     "org.gnome.eog",
     "org.gnome.gedit",
+    "org.laptop.TurtleArtActivity",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Maze",
     "org.sugarlabs.Memorize",
