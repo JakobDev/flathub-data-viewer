@@ -1096,7 +1096,6 @@
         "org.freedownloadmanager.Manager",
         "org.gajim.Gajim",
         "org.gnome.BreakTimer",
-        "org.gnome.Contacts",
         "org.gnome.Evolution",
         "org.gnome.Fractal",
         "org.gnome.Lollypop",
@@ -2642,9 +2641,6 @@
         "org.gnome.Geary",
         "org.gnome.Music",
         "org.gnome.Photos"
-    ],
-    "org.gnome.codeassist.v1.*": [
-        "org.gnome.Builder"
     ],
     "org.freedesktop.packagekit": [
         "org.gnome.Builder"

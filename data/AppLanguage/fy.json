@@ -1,7 +1,9 @@
 [
     "app.drey.Dialect",
+    "fr.romainvigier.MetadataCleaner",
     "org.gnome.Calendar",
     "org.gnome.Characters",
+    "org.gnome.Contacts",
     "org.gnome.Epiphany",
     "org.gnome.FileRoller",
     "org.gnome.Music",

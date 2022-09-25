@@ -4804,6 +4804,21 @@
         "se.cendio.tlclient",
         "uk.org.zint.zint-qt"
     ],
+    "system-bus": [
+        "com.github.eneshecan.WhatsAppForLinux",
+        "com.tutanota.Tutanota",
+        "io.brackets.Brackets",
+        "io.github.bothlab.syntalos",
+        "io.jamulus.Jamulus",
+        "io.qt.qdbusviewer",
+        "org.codeblocks.codeblocks",
+        "org.freedesktop.Bustle",
+        "org.gabmus.whatip",
+        "org.gnome.Builder",
+        "org.gnome.dfeet",
+        "org.gnome.dspy",
+        "vn.hoabinh.quan.CoBang"
+    ],
     "session-bus": [
         "com.github.naaando.lyrics",
         "com.hack_computer.Clubhouse",
@@ -4829,20 +4844,6 @@
         "org.gnome.dspy",
         "org.xfce.ristretto",
         "re.sonny.Workbench",
-        "vn.hoabinh.quan.CoBang"
-    ],
-    "system-bus": [
-        "com.tutanota.Tutanota",
-        "io.brackets.Brackets",
-        "io.github.bothlab.syntalos",
-        "io.jamulus.Jamulus",
-        "io.qt.qdbusviewer",
-        "org.codeblocks.codeblocks",
-        "org.freedesktop.Bustle",
-        "org.gabmus.whatip",
-        "org.gnome.Builder",
-        "org.gnome.dfeet",
-        "org.gnome.dspy",
         "vn.hoabinh.quan.CoBang"
     ]
 }

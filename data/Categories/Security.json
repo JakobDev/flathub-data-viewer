@@ -1,6 +1,7 @@
 [
     "app.authpass.AuthPass",
     "com.belmoussaoui.Authenticator",
+    "com.github.ADBeveridge.Raider",
     "com.github.alexkdeveloper.forgetpass",
     "com.github.muriloventuroso.easyssh",
     "com.github.paolostivanin.OTPClient",
