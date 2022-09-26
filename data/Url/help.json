@@ -536,6 +536,7 @@
     "org.libretro.RetroArch",
     "org.love2d.love2d",
     "org.mapeditor.Tiled",
+    "org.mattbas.Glaxnimate",
     "org.megaglest.MegaGlest",
     "org.mixxx.Mixxx",
     "org.mobsya.ThymioSuite",

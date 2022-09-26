@@ -1071,6 +1071,7 @@
     "org.libretro.RetroArch",
     "org.love2d.love2d",
     "org.mapeditor.Tiled",
+    "org.mattbas.Glaxnimate",
     "org.mattdm.icebreaker",
     "org.megaglest.MegaGlest",
     "org.midori_browser.Midori",

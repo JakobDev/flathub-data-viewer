@@ -276,6 +276,7 @@
         "application{SLASH}x-ape-dax-spm",
         "application{SLASH}x-ape-spm",
         "application{SLASH}x-apkg",
+        "application{SLASH}x-apple-diskimage",
         "application{SLASH}x-apple-packetlogger",
         "application{SLASH}x-applix-spreadsheet",
         "application{SLASH}x-ar",

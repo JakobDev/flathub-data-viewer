@@ -2,6 +2,7 @@
     "cc.arduino.IDE2",
     "cc.arduino.arduinoide",
     "com.diy_fever.DIYLayoutCreator",
+    "com.github.LongSoft.UEFITool",
     "com.github.reds.LogisimEvolution",
     "com.gitlab.Murmele.UDPLogger",
     "de.klayout.KLayout",

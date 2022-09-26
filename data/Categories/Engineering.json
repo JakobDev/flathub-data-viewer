@@ -1,6 +1,7 @@
 [
     "ch.openboard.OpenBoard",
     "com.flashforge.FlashPrint",
+    "com.github.LongSoft.UEFITool",
     "com.github.Murmele.scram",
     "com.github.hopsan.Hopsan",
     "com.prusa3d.PrusaSlicer",

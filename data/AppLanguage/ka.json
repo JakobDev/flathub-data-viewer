@@ -32,6 +32,7 @@
     "org.gnome.atomix",
     "org.gnome.clocks",
     "org.gnome.eog",
+    "org.gnome.font-viewer",
     "org.gnome.gedit",
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands"

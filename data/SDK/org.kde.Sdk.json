@@ -478,6 +478,7 @@
         "org.guerinoni.qTsConverter"
     ],
     "6.3": [
+        "com.github.LongSoft.UEFITool",
         "com.github.jmlich.geotagging",
         "com.github.rssguard",
         "com.gitlab.JakobDev.jdAnimatedImageEditor",
@@ -520,6 +521,7 @@
         "org.gottcode.Simsu",
         "org.gottcode.Tanglet",
         "org.gottcode.Tetzle",
+        "org.mattbas.Glaxnimate",
         "org.rncbc.qpwgraph",
         "org.rncbc.qsynth",
         "org.rncbc.qtractor",

@@ -3,5 +3,6 @@
     "com.github.unrud.djpdf",
     "io.github.hydrusnetwork.hydrus",
     "net.rpcs3.RPCS3",
+    "org.freedesktop.Bustle",
     "org.gnome.Builder"
 ]

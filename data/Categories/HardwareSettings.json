@@ -1,4 +1,5 @@
 [
+    "com.github.LongSoft.UEFITool",
     "com.github.d4nj1.tlpui",
     "io.github.betaflight.BetaflightConfigurator",
     "org.freedesktop.adriconf",

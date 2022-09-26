@@ -1,5 +1,6 @@
 [
     "app.rednotebook.RedNotebook",
+    "ca.desrt.dconf-editor",
     "com.github.PintaProject.Pinta",
     "com.github.debauchee.barrier",
     "com.github.ztefn.haguichi",

@@ -1,6 +1,7 @@
 [
     "app.drey.Dialect",
     "app.drey.Warp",
+    "ca.desrt.dconf-editor",
     "ch.tlaun.TL",
     "com.agatanawrot.karambola",
     "com.belmoussaoui.Authenticator",
