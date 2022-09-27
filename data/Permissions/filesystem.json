@@ -2528,8 +2528,7 @@
         "com.hack_computer.Clubhouse"
     ],
     "/var/lib/AccountsService/icons:ro": [
-        "com.hack_computer.Clubhouse",
-        "org.gnome.Boxes"
+        "com.hack_computer.Clubhouse"
     ],
     "xdg-data/applications": [
         "com.heroicgameslauncher.hgl"

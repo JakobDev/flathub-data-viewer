@@ -1640,6 +1640,7 @@
         "x-scheme-handler{SLASH}spotify",
         "x-scheme-handler{SLASH}ssb",
         "x-scheme-handler{SLASH}ssh",
+        "x-scheme-handler{SLASH}standardnotes",
         "x-scheme-handler{SLASH}steam",
         "x-scheme-handler{SLASH}steamlink",
         "x-scheme-handler{SLASH}stream-magnet",

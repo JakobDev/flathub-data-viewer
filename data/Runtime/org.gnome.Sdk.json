@@ -4,14 +4,11 @@
         "com.github.corna.Vivado",
         "com.github.mikacousin.olc",
         "com.github.themix_project.Oomox",
-        "io.github.orontee.Argos",
-        "re.sonny.Workbench"
+        "io.github.orontee.Argos"
     ],
     "43": [
         "org.gnome.Builder",
-        "org.gnome.Devhelp"
-    ],
-    "3.38": [
-        "org.scintilla.SciTE"
+        "org.gnome.Devhelp",
+        "re.sonny.Workbench"
     ]
 }

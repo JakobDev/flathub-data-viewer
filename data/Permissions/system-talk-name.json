@@ -156,8 +156,7 @@
         "com.github.subhadeepjasu.pebbles",
         "com.github.suzie97.communique",
         "com.hack_computer.Clubhouse",
-        "com.ktechpit.wonderwall",
-        "org.gnome.Boxes"
+        "com.ktechpit.wonderwall"
     ],
     "net.openvpn.v3.configuration": [
         "com.github.jkotra.eovpn"

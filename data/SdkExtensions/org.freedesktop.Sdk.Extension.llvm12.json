@@ -1,6 +1,5 @@
 [
     "com.belmoussaoui.Authenticator",
-    "com.belmoussaoui.Decoder",
     "com.belmoussaoui.ashpd.demo",
     "eu.ad5001.LogarithmPlotter",
     "io.github.kotatogram",

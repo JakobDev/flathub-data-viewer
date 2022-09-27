@@ -20,6 +20,7 @@
         "org.codeblocks.codeblocks",
         "org.geany.Geany",
         "org.kicad.KiCad",
+        "org.scintilla.SciTE",
         "org.thonny.Thonny",
         "org.vim.Vim"
     ],
