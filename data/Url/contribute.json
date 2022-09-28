@@ -10,9 +10,11 @@
     "io.qt.Linguist",
     "io.qt.qdbusviewer",
     "net.minetest.Minetest",
+    "org.apache.jmeter",
     "org.inkscape.Inkscape",
     "org.kde.okteta",
     "org.mozilla.Thunderbird",
+    "org.soapui.SoapUI",
     "org.yuzu_emu.yuzu",
     "pm.mirko.Atoms"
 ]

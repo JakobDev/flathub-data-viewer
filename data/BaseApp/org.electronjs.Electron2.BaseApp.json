@@ -7,7 +7,6 @@
         "io.github.Figma_Linux.figma_linux",
         "io.github.liberodark.OpenDrive",
         "io.webtorrent.WebTorrent",
-        "org.js.nuclear.Nuclear",
         "tech.feliciano.pocket-casts"
     ],
     "21.08": [
@@ -90,6 +89,7 @@
         "org.geogebra.GeoGebra",
         "org.jamovi.jamovi",
         "org.jitsi.jitsi-meet",
+        "org.js.nuclear.Nuclear",
         "org.nanuc.Axolotl",
         "org.onlyoffice.desktopeditors",
         "org.sugarlabs.MusicBlocks",

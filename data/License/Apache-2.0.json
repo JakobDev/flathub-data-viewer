@@ -35,6 +35,7 @@
     "io.podman_desktop.PodmanDesktop",
     "one.alynx.FlipClock",
     "org.apache.directory.studio",
+    "org.apache.jmeter",
     "org.apache.netbeans",
     "org.contourterminal.Contour",
     "org.ferdium.Ferdium",

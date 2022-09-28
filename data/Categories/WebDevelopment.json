@@ -6,6 +6,8 @@
     "com.jpexs.decompiler.flash",
     "de.create3000.titania",
     "nl.openoffice.bluefish",
+    "org.apache.jmeter",
     "org.getzola.zola",
+    "org.soapui.SoapUI",
     "re.sonny.Workbench"
 ]

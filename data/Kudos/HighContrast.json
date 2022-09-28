@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.KeyRack",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ca.hamaluik.Timecop",
@@ -112,6 +113,7 @@
     "io.mpv.Mpv",
     "io.posidon.Paper",
     "me.dusansimic.DynamicWallpaper",
+    "ml.mdwalters.EightBall",
     "net.agalwood.Motrix",
     "net.daase.journable",
     "net.danigm.timetrack",

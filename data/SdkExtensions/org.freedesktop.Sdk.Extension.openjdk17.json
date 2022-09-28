@@ -10,11 +10,13 @@
     "net.sourceforge.squirrel_sql",
     "network.bisq.Bisq",
     "org.apache.directory.studio",
+    "org.apache.jmeter",
     "org.briarproject.Briar",
     "org.cryptomator.Cryptomator",
     "org.eclipse.sumo",
     "org.jdownloader.JDownloader",
     "org.openstreetmap.josm",
     "org.polymc.PolyMC",
+    "org.soapui.SoapUI",
     "vet.rsc.OpenRSC.Launcher"
 ]

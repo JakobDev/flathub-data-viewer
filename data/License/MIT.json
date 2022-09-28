@@ -90,6 +90,7 @@
     "io.howl.Editor",
     "io.lbry.lbry-app",
     "io.wasabiwallet.WasabiWallet",
+    "ml.mdwalters.EightBall",
     "net.agalwood.Motrix",
     "net.baseart.Glide",
     "net.cozic.joplin_desktop",

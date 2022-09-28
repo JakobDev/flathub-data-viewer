@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.drey.KeyRack",
     "app.drey.Warp",
     "app.moosync.moosync",
     "app.riftshare.RiftShare",
@@ -247,6 +248,7 @@
     "nl.brixit.wiremapper",
     "nl.sarine.gpx-viewer",
     "one.alynx.FlipClock",
+    "org.apache.jmeter",
     "org.bluesabre.MenuLibre",
     "org.bzdev.CVRDecode",
     "org.caione.GScope",
@@ -348,6 +350,7 @@
     "org.qownnotes.QOwnNotes",
     "org.qxmledit.QXmlEdit",
     "org.raspberrypi.rpi-imager",
+    "org.soapui.SoapUI",
     "org.speedcrunch.SpeedCrunch",
     "org.sqlitebrowser.sqlitebrowser",
     "org.standardnotes.standardnotes",

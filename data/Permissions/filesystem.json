@@ -18,6 +18,7 @@
         "ch.openboard.OpenBoard",
         "ch.theologeek.Manuskript",
         "cn.navclub.ldbfx",
+        "cn.ottercorp.xivlaunchercn",
         "com.abisource.AbiWord",
         "com.anydesk.Anydesk",
         "com.avocode.Avocode",
@@ -569,6 +570,26 @@
         "org.zotero.Zotero",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
+    ],
+    "~/.var/app": [
+        "app.drey.KeyRack",
+        "com.borgbase.Vorta",
+        "com.github.qarmin.czkawka",
+        "org.gnome.DejaDup",
+        "org.gnome.World.PikaBackup"
+    ],
+    "/var:ro": [
+        "app.drey.KeyRack"
+    ],
+    "xdg-data/flatpak:ro": [
+        "app.drey.KeyRack",
+        "com.github.theCalcaholic.StreamDeck",
+        "com.gitlab.librebob.Athenaeum",
+        "io.github.philipk.boilr",
+        "net.lutris.Lutris",
+        "org.bluesabre.MenuLibre",
+        "org.gnome.World.PikaBackup",
+        "re.sonny.Junction"
     ],
     "xdg-config/kdeglobals:ro": [
         "app.lith.Lith",
@@ -1880,6 +1901,7 @@
         "net.xm1math.Texmaker",
         "net.xmind.XMind",
         "net.xmind.XMind8",
+        "org.apache.jmeter",
         "org.firestormviewer.FirestormViewer",
         "org.frescobaldi.Frescobaldi",
         "org.fritzing.Fritzing",
@@ -1896,6 +1918,7 @@
         "org.scummvm.ScummVM",
         "org.sdrangel.SDRangel",
         "org.signal.Signal",
+        "org.soapui.SoapUI",
         "org.standardnotes.standardnotes",
         "org.zaproxy.ZAP",
         "org.zotero.Zotero",
@@ -2115,12 +2138,6 @@
     "xdg-download/BiglyBT Downloads:create": [
         "com.biglybt.BiglyBT"
     ],
-    "~/.var/app": [
-        "com.borgbase.Vorta",
-        "com.github.qarmin.czkawka",
-        "org.gnome.DejaDup",
-        "org.gnome.World.PikaBackup"
-    ],
     "xdg-data": [
         "com.boxy_svg.BoxySVG",
         "org.chocolate_doom.ChocolateDoom",
@@ -2175,7 +2192,6 @@
         "io.wavebox.Wavebox",
         "org.chromium.Chromium",
         "org.ferdium.Ferdium",
-        "org.gnome.Epiphany",
         "org.gnome.Evolution",
         "org.mozilla.Thunderbird",
         "org.qutebrowser.qutebrowser",
@@ -2471,15 +2487,6 @@
     ],
     "~/.var/app/org.mozilla.firefox": [
         "com.github.theCalcaholic.StreamDeck"
-    ],
-    "xdg-data/flatpak:ro": [
-        "com.github.theCalcaholic.StreamDeck",
-        "com.gitlab.librebob.Athenaeum",
-        "io.github.philipk.boilr",
-        "net.lutris.Lutris",
-        "org.bluesabre.MenuLibre",
-        "org.gnome.World.PikaBackup",
-        "re.sonny.Junction"
     ],
     "~/.themes:create": [
         "com.github.themix_project.Oomox"

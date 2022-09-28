@@ -1,4 +1,5 @@
 [
+    "app.drey.KeyRack",
     "app.drey.Warp",
     "codes.loers.Karlender",
     "codes.nora.gDiceRoller",
@@ -97,6 +98,7 @@
     "org.openshot.OpenShot",
     "org.pipewire.Helvum",
     "org.qutebrowser.qutebrowser",
+    "org.skytemple.Randomizer",
     "org.thonny.Thonny",
     "org.wezfurlong.wezterm",
     "org.x.Warpinator",

@@ -458,6 +458,9 @@
     ".config/shadowsocks-qt5": [
         "org.shadowsocks.qt5client"
     ],
+    ".soapuios": [
+        "org.soapui.SoapUI"
+    ],
     ".speed-dreams-2": [
         "org.speed_dreams.SpeedDreams"
     ],

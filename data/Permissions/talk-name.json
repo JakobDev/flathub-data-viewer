@@ -1,10 +1,12 @@
 {
     "org.freedesktop.secrets": [
         "app.authpass.AuthPass",
+        "app.drey.KeyRack",
         "app.moosync.moosync",
         "cc.arduino.IDE2",
         "ch.protonmail.protonmail-bridge",
         "ch.protonmail.protonmail-import-export-app",
+        "cn.ottercorp.xivlaunchercn",
         "codes.loers.Karlender",
         "com.axosoft.GitKraken",
         "com.belmoussaoui.Authenticator",
@@ -1721,6 +1723,7 @@
         "net.rpcs3.RPCS3",
         "net.rpdev.OpenTodoList",
         "net.sonic_pi.SonicPi",
+        "net.sourceforge.molsketch",
         "nz.mega.MEGAsync",
         "org.DolphinEmu.dolphin-emu",
         "org.atheme.audacious",
@@ -1831,6 +1834,7 @@
         "org.kde.kolf",
         "org.kde.kollision",
         "org.kde.kolourpaint",
+        "org.kde.kongress",
         "org.kde.konquest",
         "org.kde.kontact",
         "org.kde.kontrast",
