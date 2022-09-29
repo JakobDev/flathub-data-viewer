@@ -14,5 +14,6 @@
     "org.libretro.RetroArch",
     "org.openmsx.openMSX",
     "org.pegasus_frontend.Pegasus",
+    "org.ppsspp.PPSSPP",
     "org.yuzu_emu.yuzu"
 ]

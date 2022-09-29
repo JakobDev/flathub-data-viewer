@@ -19,6 +19,7 @@
         "net.blix.BlueMail",
         "org.codeblocks.codeblocks",
         "org.geany.Geany",
+        "org.gnu.emacs",
         "org.kicad.KiCad",
         "org.scintilla.SciTE",
         "org.thonny.Thonny",
@@ -46,7 +47,6 @@
         "org.apache.netbeans",
         "org.flathub.flatpak-external-data-checker",
         "org.ghidra_sre.Ghidra",
-        "org.gnu.emacs",
         "org.scilab.Scilab"
     ],
     "19.08": [

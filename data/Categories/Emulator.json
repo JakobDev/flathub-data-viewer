@@ -40,6 +40,7 @@
     "org.libretro.RetroArch",
     "org.mamedev.MAME",
     "org.openmsx.openMSX",
+    "org.ppsspp.PPSSPP",
     "org.purei.Play",
     "org.ryujinx.Ryujinx",
     "org.tuxfamily.hatari",

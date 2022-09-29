@@ -199,6 +199,9 @@
     "org.freedesktop.filemanager1": [
         "dev.tchx84.Portfolio"
     ],
+    "org.mozilla.betterbird.*": [
+        "eu.betterbird.Betterbird"
+    ],
     "com.druide.antidote.*": [
         "eu.skribisto.skribisto"
     ],
