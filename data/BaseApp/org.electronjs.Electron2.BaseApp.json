@@ -6,8 +6,7 @@
         "io.atom.Atom",
         "io.github.Figma_Linux.figma_linux",
         "io.github.liberodark.OpenDrive",
-        "io.webtorrent.WebTorrent",
-        "tech.feliciano.pocket-casts"
+        "io.webtorrent.WebTorrent"
     ],
     "21.08": [
         "app.moosync.moosync",
@@ -127,11 +126,13 @@
         "md.obsidian.Obsidian",
         "me.aandrew.ytdownloader",
         "net.blix.BlueMail",
+        "net.hovancik.Stretchly",
         "network.loki.Session",
         "org.ferdium.Ferdium",
         "org.signal.Signal",
         "org.standardnotes.standardnotes",
         "sh.cider.Cider",
-        "social.whalebird.WhalebirdDesktop"
+        "social.whalebird.WhalebirdDesktop",
+        "tech.feliciano.pocket-casts"
     ]
 }

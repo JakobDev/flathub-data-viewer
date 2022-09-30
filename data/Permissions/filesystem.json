@@ -388,7 +388,6 @@
         "com.github.vikdevelop.photopea_app",
         "com.github.vladimiry.ElectronMail",
         "com.github.z.Cumulonimbus",
-        "com.gitlab.newsflash",
         "com.google.Chrome",
         "com.google.ChromeDev",
         "com.greyrook.siptop",
@@ -585,6 +584,7 @@
         "app.drey.KeyRack",
         "com.github.theCalcaholic.StreamDeck",
         "com.gitlab.librebob.Athenaeum",
+        "io.github.fabrialberio.pinapp",
         "io.github.philipk.boilr",
         "net.lutris.Lutris",
         "org.bluesabre.MenuLibre",
@@ -1104,6 +1104,7 @@
         "org.subsurface_divelog.Subsurface",
         "org.telesculptor.TeleSculptor",
         "org.texstudio.TeXstudio",
+        "org.thentrythis.Samplebrain",
         "org.tomviz.Tomviz",
         "org.tordini.flavio.Minitube",
         "org.tug.texworks",
@@ -2538,7 +2539,8 @@
         "com.hack_computer.Clubhouse"
     ],
     "xdg-data/applications": [
-        "com.heroicgameslauncher.hgl"
+        "com.heroicgameslauncher.hgl",
+        "io.github.fabrialberio.pinapp"
     ],
     "~/Games/Heroic:create": [
         "com.heroicgameslauncher.hgl"
@@ -2726,6 +2728,15 @@
     "/srv": [
         "io.github.bothlab.pomidaq",
         "org.libvips.vipsdisp"
+    ],
+    "/var/lib/flatpak:ro": [
+        "io.github.fabrialberio.pinapp",
+        "org.bluesabre.MenuLibre",
+        "org.freedesktop.appstream.cli",
+        "re.sonny.Junction"
+    ],
+    "xdg-data/icons:ro": [
+        "io.github.fabrialberio.pinapp"
     ],
     "~/coyotetm": [
         "io.github.igaldino.CoyoteTM"
@@ -2926,11 +2937,6 @@
         "org.btchd.btchd-qt",
         "org.groestlcoin.groestlcoin-qt",
         "org.vertcoin.vertcoin-qt"
-    ],
-    "/var/lib/flatpak:ro": [
-        "org.bluesabre.MenuLibre",
-        "org.freedesktop.appstream.cli",
-        "re.sonny.Junction"
     ],
     "xdg-run/org.keepassxc.KeePassXC.BrowserServer": [
         "org.cryptomator.Cryptomator"

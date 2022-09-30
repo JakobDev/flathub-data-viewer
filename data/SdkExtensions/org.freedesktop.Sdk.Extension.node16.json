@@ -21,6 +21,7 @@
     "io.kinvolk.Headlamp",
     "io.podman_desktop.PodmanDesktop",
     "net.cozic.joplin_desktop",
+    "net.hovancik.Stretchly",
     "org.chromium.Chromium",
     "org.mozilla.Thunderbird",
     "org.nanuc.Axolotl",

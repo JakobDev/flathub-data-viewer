@@ -1,9 +1,11 @@
 [
     "com.github.GradienceTeam.Gradience",
+    "com.github.flxzt.rnote",
     "com.github.hugolabe.Wike",
     "com.rafaelmardojai.Blanket",
     "com.usebottles.bottles",
     "dev.geopjr.Collision",
+    "io.github.seadve.Kooha",
     "org.fedoraproject.MediaWriter",
     "org.gimp.GIMP",
     "org.glimpse_editor.Glimpse",

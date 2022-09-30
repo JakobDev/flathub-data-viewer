@@ -692,6 +692,7 @@
         "org.subsurface_divelog.Subsurface",
         "org.telesculptor.TeleSculptor",
         "org.texstudio.TeXstudio",
+        "org.thentrythis.Samplebrain",
         "org.tomviz.Tomviz",
         "org.tordini.flavio.Minitube",
         "org.tug.texworks",
@@ -812,6 +813,7 @@
         "me.kozec.syncthingtk",
         "net.christianbeier.Gromit-MPX",
         "net.cozic.joplin_desktop",
+        "net.hovancik.Stretchly",
         "net.jami.Jami",
         "net.kvirc.KVIrc",
         "net.lutris.Lutris",
@@ -1052,6 +1054,7 @@
         "net.blockbench.Blockbench",
         "net.cozic.joplin_desktop",
         "net.danigm.timetrack",
+        "net.hovancik.Stretchly",
         "net.jami.Jami",
         "net.kirgroup.confy",
         "net.kvirc.KVIrc",
@@ -1202,6 +1205,7 @@
     "org.kde.kwalletd5": [
         "app.moosync.moosync",
         "com.borgbase.Vorta",
+        "com.brave.Browser",
         "com.github.Eloston.UngoogledChromium",
         "com.github.quaternion",
         "org.chromium.Chromium",
@@ -1300,6 +1304,7 @@
         "com.toggl.TogglDesktop",
         "com.ulduzsoft.Birdtray",
         "com.vicr123.thebeat",
+        "com.virustotal.VirusTotalUploader",
         "com.vzhd1701.gridplayer",
         "com.yubico.yubioath",
         "com.zandronum.Zandronum",
@@ -1597,6 +1602,7 @@
         "org.stellarium.Stellarium",
         "org.telesculptor.TeleSculptor",
         "org.texstudio.TeXstudio",
+        "org.thentrythis.Samplebrain",
         "org.tug.texworks",
         "org.videolan.VLC",
         "org.wireshark.Wireshark",
@@ -1665,6 +1671,7 @@
         "com.thincast.client",
         "com.toggl.TogglDesktop",
         "com.ulduzsoft.Birdtray",
+        "com.virustotal.VirusTotalUploader",
         "com.vzhd1701.gridplayer",
         "com.yubico.yubioath",
         "com.zandronum.Zandronum",
@@ -1918,6 +1925,7 @@
         "org.stellarium.Stellarium",
         "org.telesculptor.TeleSculptor",
         "org.texstudio.TeXstudio",
+        "org.thentrythis.Samplebrain",
         "org.wireshark.Wireshark",
         "org.yuzu_emu.yuzu",
         "re.chiaki.Chiaki",
@@ -2247,6 +2255,9 @@
     "org.freedesktop.dbus.*": [
         "com.borgbase.Vorta"
     ],
+    "org.gnome.mutter.idlemonitor.*": [
+        "com.brave.Browser"
+    ],
     "org.gnome.sessionmanager": [
         "com.brave.Browser",
         "com.github.Eloston.UngoogledChromium",
@@ -2280,9 +2291,6 @@
         "org.keepassxc.KeePassXC",
         "org.mozilla.firefox",
         "org.qbittorrent.qBittorrent"
-    ],
-    "org.gnome.mutter.idlemonitor.*": [
-        "com.brave.Browser"
     ],
     "org.gnome.evolution.dataserver.*": [
         "com.chmouel.gnomeNextMeetingApplet",
@@ -2439,7 +2447,6 @@
         "com.hack_computer.Sidetrack",
         "com.uploadedlobster.peek",
         "edu.stanford.Almond",
-        "io.github.seadve.Kooha",
         "org.gnome.BreakTimer",
         "org.gnome.Totem",
         "org.remmina.Remmina",
