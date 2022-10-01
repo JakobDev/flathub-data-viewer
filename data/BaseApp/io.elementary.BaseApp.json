@@ -19,7 +19,6 @@
         "com.github.mdh34.quickdocs",
         "com.github.muriloventuroso.givemelyrics",
         "com.github.needleandthread.vocal",
-        "com.github.phase1geo.minder",
         "com.github.philip_scott.notes-up",
         "com.github.rajsolai.textsnatcher",
         "com.github.subhadeepjasu.pebbles",
@@ -45,5 +44,8 @@
         "com.github.inercia.k3x",
         "com.github.matfantinel.moneta",
         "com.github.naaando.lyrics"
+    ],
+    "juno-22.08": [
+        "com.github.phase1geo.minder"
     ]
 }
