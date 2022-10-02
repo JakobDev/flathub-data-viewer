@@ -259,6 +259,9 @@
     ".trackballs": [
         "io.github.trackballs.Trackballs"
     ],
+    ".libretile": [
+        "io.gitlab.celleron56.libretile"
+    ],
     ".librewolf": [
         "io.gitlab.librewolf-community"
     ],

@@ -4778,6 +4778,7 @@
     ],
     "pcsc": [
         "com.axosoft.GitKraken",
+        "com.google.Chrome",
         "com.itopia.client",
         "com.microsoft.Teams",
         "com.thincast.client",

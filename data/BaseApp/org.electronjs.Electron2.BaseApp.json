@@ -2,7 +2,6 @@
     "20.08": [
         "app.midterm.MidtermDesktop",
         "com.endlessm.HatchPreviewer",
-        "com.plexamp.Plexamp",
         "io.atom.Atom",
         "io.github.Figma_Linux.figma_linux",
         "io.github.liberodark.OpenDrive",
@@ -43,6 +42,7 @@
         "com.musixmatch.Musixmatch",
         "com.napster.napster-bigscreen-electron",
         "com.ownrwallet.wallet",
+        "com.plexamp.Plexamp",
         "com.qq.QQmusic",
         "com.rabbit_company.passky",
         "com.revolutionarygamesstudio.ThriveLauncher",
