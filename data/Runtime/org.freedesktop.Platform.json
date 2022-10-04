@@ -2,7 +2,6 @@
     "21.08": [
         "app.authpass.AuthPass",
         "app.moosync.moosync",
-        "app.xemu.xemu",
         "app.ytmdesktop.ytmdesktop",
         "ar.com.pilas_engine.App",
         "ar.com.tuxguitar.TuxGuitar",
@@ -516,17 +515,8 @@
         "si.tano.Vremenar",
         "uk.me.doof.Lander"
     ],
-    "18.08": [
-        "au.edu.uq.esys.escript",
-        "com.abagames.noiz2sa",
-        "io.ark.Desktop",
-        "io.github.betaflight.BetaflightConfigurator",
-        "io.github.openWMail.openWMail",
-        "io.gitlab.osslugaru.Lugaru",
-        "org.gnome.Tomboy",
-        "org.tuxfamily.StuntRally"
-    ],
     "22.08": [
+        "app.xemu.xemu",
         "ca.littlesvr.asunder",
         "cc.arduino.IDE2",
         "cc.arduino.arduinoide",
@@ -686,6 +676,16 @@
         "uk.co.parallelrealities.games.edgar",
         "ws.openarena.OpenArena",
         "xyz.stuerz.BilligSweeper"
+    ],
+    "18.08": [
+        "au.edu.uq.esys.escript",
+        "com.abagames.noiz2sa",
+        "io.ark.Desktop",
+        "io.github.betaflight.BetaflightConfigurator",
+        "io.github.openWMail.openWMail",
+        "io.gitlab.osslugaru.Lugaru",
+        "org.gnome.Tomboy",
+        "org.tuxfamily.StuntRally"
     ],
     "19.08": [
         "com.github.matfantinel.moneta",

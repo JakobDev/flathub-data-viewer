@@ -1562,6 +1562,7 @@
         "org.kde.vvave",
         "org.keepassxc.KeePassXC",
         "org.ksnip.ksnip",
+        "org.librepcb.LibrePCB",
         "org.libretro.RetroArch",
         "org.mamedev.MAME",
         "org.mapeditor.Tiled",
@@ -1890,6 +1891,7 @@
         "org.kde.umbrello",
         "org.kde.vvave",
         "org.ksnip.ksnip",
+        "org.librepcb.LibrePCB",
         "org.libretro.RetroArch",
         "org.mamedev.MAME",
         "org.mapeditor.Tiled",
@@ -2137,6 +2139,7 @@
         "org.gnome.Lollypop",
         "org.godotengine.Godot",
         "org.jabref.jabref",
+        "org.kde.dolphin",
         "org.kde.kdevelop",
         "org.octave.Octave",
         "org.openshot.OpenShot",
@@ -2752,12 +2755,12 @@
         "org.kde.akregator",
         "org.kde.kontact"
     ],
+    "org.kde.kiod5": [
+        "org.kde.dolphin"
+    ],
     "org.kde.kpasswdserver": [
         "org.kde.dolphin",
         "org.kde.kontact"
-    ],
-    "org.kde.kiod5": [
-        "org.kde.dolphin"
     ],
     "org.kde.baloo": [
         "org.kde.elisa"
