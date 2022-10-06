@@ -19,5 +19,6 @@
     "org.kde.kwalletmanager5",
     "org.keepassxc.KeePassXC",
     "org.nmap.Zenmap",
+    "org.radare.iaito",
     "org.zaproxy.ZAP"
 ]

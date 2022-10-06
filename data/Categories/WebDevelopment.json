@@ -9,5 +9,6 @@
     "org.apache.jmeter",
     "org.getzola.zola",
     "org.soapui.SoapUI",
+    "re.sonny.Playhouse",
     "re.sonny.Workbench"
 ]

@@ -49,6 +49,7 @@
     "com.github.mikacousin.olc",
     "com.github.rafostar.Clapper",
     "com.github.rkoesters.xkcd-gtk",
+    "com.github.sixpounder.GameOfLife",
     "com.github.subhadeepjasu.pebbles",
     "com.github.taiko2k.avvie",
     "com.github.taiko2k.tauonmb",
@@ -90,6 +91,7 @@
     "eu.planete_kraus.Tarot",
     "fr.fgrabenstaetter.DigitalAssets",
     "fr.romainvigier.MetadataCleaner",
+    "fr.romainvigier.zap",
     "im.bernard.Funkcio",
     "im.bernard.Nostalgia",
     "im.srain.Srain",
@@ -340,6 +342,7 @@
     "pm.mirko.Atoms",
     "re.sonny.Commit",
     "re.sonny.Junction",
+    "re.sonny.Playhouse",
     "re.sonny.Workbench",
     "uk.co.ibboard.cawbird",
     "work.openpaper.Paperwork"

@@ -1,5 +1,6 @@
 [
     "com.napster.napster-bigscreen-electron",
     "com.spotify.Client",
+    "fr.romainvigier.zap",
     "io.github.hmlendea.geforcenow-electron"
 ]

@@ -1,5 +1,6 @@
 [
     "com.corsixth.corsixth",
+    "com.github.sixpounder.GameOfLife",
     "io.openrct2.OpenRCT2",
     "org.flightgear.FlightGear",
     "org.freeciv.Freeciv",

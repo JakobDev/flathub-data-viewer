@@ -3,5 +3,6 @@
     "org.kde.kclock",
     "org.kde.keysmith",
     "org.kde.klines",
-    "org.kde.kweather"
+    "org.kde.kweather",
+    "org.kde.telly-skout"
 ]

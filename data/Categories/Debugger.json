@@ -2,5 +2,6 @@
     "io.qt.qdbusviewer",
     "org.freedesktop.Bustle",
     "org.gnome.dfeet",
+    "org.radare.iaito",
     "org.thonny.Thonny"
 ]

@@ -150,6 +150,7 @@
     "org.processing.processingide",
     "org.pyzo.pyzo",
     "org.qxmledit.QXmlEdit",
+    "org.radare.iaito",
     "org.robocode.Robocode",
     "org.scintilla.SciTE",
     "org.shadered.SHADERed",
@@ -164,6 +165,7 @@
     "org.verapdf.veraPDF",
     "org.zealdocs.Zeal",
     "re.sonny.Commit",
+    "re.sonny.Playhouse",
     "re.sonny.Workbench",
     "rest.insomnia.Insomnia",
     "com.sublimetext.three.DevUtils"

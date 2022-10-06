@@ -12,6 +12,7 @@
     "org.hdfgroup.HDFView",
     "org.kde.kst",
     "org.paraview.ParaView",
+    "org.radare.iaito",
     "org.telesculptor.TeleSculptor",
     "pl.nieto.fityk"
 ]

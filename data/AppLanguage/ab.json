@@ -1,5 +1,6 @@
 [
     "org.gnome.Characters",
+    "org.gnome.Logs",
     "org.gnome.NautilusPreviewer",
     "org.gnome.SwellFoop",
     "org.gnome.Weather"

@@ -7,5 +7,6 @@
     "io.github.celluloid_player.Celluloid",
     "io.mpv.Mpv",
     "org.kde.haruna",
+    "org.kde.telly-skout",
     "tv.kodi.Kodi"
 ]

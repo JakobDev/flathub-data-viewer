@@ -18,6 +18,7 @@
     "org.gnome.Evince",
     "org.gnome.Extensions",
     "org.gnome.Firmware",
+    "org.gnome.Logs",
     "org.gnome.Maps",
     "org.gnome.NautilusPreviewer",
     "org.gnome.NetworkDisplays",
@@ -56,6 +57,7 @@
     "org.kde.marble",
     "org.kde.parley",
     "org.kde.rocs",
+    "org.kde.telly-skout",
     "org.kde.vvave",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint"

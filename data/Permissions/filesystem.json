@@ -267,7 +267,6 @@
         "org.gabmus.notorious",
         "org.geogebra.GeoGebra",
         "org.ghidra_sre.Ghidra",
-        "org.gnome.Builder",
         "org.gnome.Calendar",
         "org.gnome.Eolie",
         "org.gnome.FileRoller",
@@ -846,6 +845,7 @@
         "net.wz2100.wz2100",
         "net.xm1math.Texmaker",
         "nz.mega.MEGAsync",
+        "one.flipperzero.qFlipper",
         "org.DolphinEmu.dolphin-emu",
         "org.atheme.audacious",
         "org.avidemux.Avidemux",
@@ -1040,6 +1040,7 @@
         "org.kde.skrooge",
         "org.kde.subtitlecomposer",
         "org.kde.tellico",
+        "org.kde.telly-skout",
         "org.kde.tokodon",
         "org.kde.umbrello",
         "org.kde.vvave",
@@ -1088,6 +1089,7 @@
         "org.quassel_irc.QuasselClient",
         "org.qutebrowser.qutebrowser",
         "org.qxmledit.QXmlEdit",
+        "org.radare.iaito",
         "org.raspberrypi.rpi-imager",
         "org.rncbc.qpwgraph",
         "org.rncbc.qsynth",
@@ -1370,6 +1372,7 @@
         "com.abisource.AbiWord",
         "com.axosoft.GitKraken",
         "com.github.Flacon",
+        "com.github.GradienceTeam.Gradience",
         "com.github.PintaProject.Pinta",
         "com.github.coslyk.MoonPlayer",
         "com.github.flxzt.rnote",
@@ -1559,6 +1562,7 @@
         "com.borgbase.Vorta",
         "com.calibre_ebook.calibre",
         "com.darhon.syncbackup",
+        "com.dec05eba.gpu_screen_recorder",
         "com.georgefb.mangareader",
         "com.georgefb.quickaccess",
         "com.github.ADBeveridge.Raider",
@@ -2255,8 +2259,35 @@
         "org.texstudio.TeXstudio",
         "org.vim.Vim"
     ],
+    "~/.var/app/com.valvesoftware.Steam": [
+        "com.eduke32.EDuke32",
+        "com.github.Matoking.protontricks",
+        "com.github._0negal.Viper",
+        "com.github.theCalcaholic.StreamDeck",
+        "com.heroicgameslauncher.hgl",
+        "com.steamgriddb.SGDBoop",
+        "io.github.philipk.boilr",
+        "space.crankshaft.Crankshaft"
+    ],
+    "xdg-data/Steam": [
+        "com.eduke32.EDuke32",
+        "com.github.Matoking.protontricks",
+        "com.github.theCalcaholic.StreamDeck",
+        "com.heroicgameslauncher.hgl",
+        "io.github.philipk.boilr",
+        "space.crankshaft.Crankshaft"
+    ],
     "xdg-documents/EDuke32:create": [
         "com.eduke32.EDuke32"
+    ],
+    "~/.steam": [
+        "com.eduke32.EDuke32",
+        "com.github.Matoking.protontricks",
+        "com.github.theCalcaholic.StreamDeck",
+        "com.heroicgameslauncher.hgl",
+        "io.github.philipk.boilr",
+        "net.davidotek.pupgui2",
+        "space.crankshaft.Crankshaft"
     ],
     "xdg-run/app/com.discordapp.DiscordCanary:create": [
         "com.github.Anuken.Mindustry",
@@ -2277,29 +2308,9 @@
     "xdg-config/gtk-4.0": [
         "com.github.GradienceTeam.Gradience"
     ],
-    "xdg-data/Steam": [
-        "com.github.Matoking.protontricks",
-        "com.github.theCalcaholic.StreamDeck",
-        "com.heroicgameslauncher.hgl",
-        "io.github.philipk.boilr",
-        "space.crankshaft.Crankshaft"
-    ],
-    "~/.var/app/com.valvesoftware.Steam": [
-        "com.github.Matoking.protontricks",
-        "com.github._0negal.Viper",
-        "com.github.theCalcaholic.StreamDeck",
-        "com.heroicgameslauncher.hgl",
-        "com.steamgriddb.SGDBoop",
-        "io.github.philipk.boilr",
-        "space.crankshaft.Crankshaft"
-    ],
-    "~/.steam": [
-        "com.github.Matoking.protontricks",
-        "com.github.theCalcaholic.StreamDeck",
-        "com.heroicgameslauncher.hgl",
-        "io.github.philipk.boilr",
-        "net.davidotek.pupgui2",
-        "space.crankshaft.Crankshaft"
+    "xdg-data/flatpak/overrides:create": [
+        "com.github.GradienceTeam.Gradience",
+        "com.github.tchx84.Flatseal"
     ],
     "xdg-public-share": [
         "com.github.PintaProject.Pinta",
@@ -2478,9 +2489,6 @@
     "xdg-run/docker.sock": [
         "com.github.sdv43.whaler"
     ],
-    "xdg-data/flatpak/overrides:create": [
-        "com.github.tchx84.Flatseal"
-    ],
     "~/.mozilla/firefox": [
         "com.github.theCalcaholic.StreamDeck",
         "org.gnome.Eolie"
@@ -2488,7 +2496,8 @@
     "/run/udev:ro": [
         "com.github.theCalcaholic.StreamDeck",
         "com.heroicgameslauncher.hgl",
-        "com.napster.napster-bigscreen-electron"
+        "com.napster.napster-bigscreen-electron",
+        "one.flipperzero.qFlipper"
     ],
     "~/.var/app/org.mozilla.firefox": [
         "com.github.theCalcaholic.StreamDeck"
@@ -3012,10 +3021,10 @@
     "xdg-data/meson": [
         "org.gnome.Builder"
     ],
-    "~/.local/share/flatpak": [
+    "/var/lib/flatpak": [
         "org.gnome.Builder"
     ],
-    "/var/lib/flatpak": [
+    "~/.local/share/flatpak": [
         "org.gnome.Builder"
     ],
     "~/.local/share/icc:ro": [

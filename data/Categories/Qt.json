@@ -20,6 +20,7 @@
     "io.sourceforge.qoobar.Qoobar",
     "net.fasterland.converseen",
     "net.xm1math.Texmaker",
+    "one.flipperzero.qFlipper",
     "org.cubocore.CoreAction",
     "org.cubocore.CoreArchiver",
     "org.cubocore.CoreFM",
@@ -36,6 +37,7 @@
     "org.flatpak.qtdemo",
     "org.getmonero.Monero",
     "org.kde.klines",
+    "org.kde.telly-skout",
     "org.tug.texworks",
     "xyz.mx_moment.moment"
 ]
