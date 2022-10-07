@@ -2489,6 +2489,10 @@
     "xdg-run/docker.sock": [
         "com.github.sdv43.whaler"
     ],
+    "xdg-run/discord-ipc-0": [
+        "com.github.taiko2k.tauonmb",
+        "org.srb2.SRB2Kart"
+    ],
     "~/.mozilla/firefox": [
         "com.github.theCalcaholic.StreamDeck",
         "org.gnome.Eolie"
@@ -3151,9 +3155,6 @@
     ],
     "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Sega Classics/uncompressed ROMs/Sonic_Knuckles_wSonic3.bin:ro": [
         "org.sonic3air.Sonic3AIR"
-    ],
-    "xdg-run/discord-ipc-0": [
-        "org.srb2.SRB2Kart"
     ],
     "~/AudioVitamins:create": [
         "org.stochas.Stochas"

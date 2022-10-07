@@ -1,6 +1,7 @@
 [
     "com.github.PintaProject.Pinta",
     "com.github.debauchee.barrier",
+    "com.mattjakeman.ExtensionManager",
     "dev.geopjr.Collision",
     "info.olasagasti.revelation",
     "io.github.Hexchat",

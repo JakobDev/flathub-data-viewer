@@ -1,9 +1,11 @@
 [
     "app.rednotebook.RedNotebook",
     "com.github.hugolabe.Wike",
+    "com.mattjakeman.ExtensionManager",
     "com.rafaelmardojai.Blanket",
     "com.tux4kids.tuxtype",
     "dev.geopjr.Collision",
+    "fr.romainvigier.MetadataCleaner",
     "io.github.seadve.Kooha",
     "org.gimp.GIMP",
     "org.glimpse_editor.Glimpse",

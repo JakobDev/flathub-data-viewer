@@ -1535,6 +1535,7 @@
         "x-scheme-handler{SLASH}geo",
         "x-scheme-handler{SLASH}git",
         "x-scheme-handler{SLASH}gitg",
+        "x-scheme-handler{SLASH}gnome-extensions",
         "x-scheme-handler{SLASH}gopher",
         "x-scheme-handler{SLASH}groestlcoin",
         "x-scheme-handler{SLASH}gtg",
