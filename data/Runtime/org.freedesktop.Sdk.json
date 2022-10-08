@@ -1,8 +1,7 @@
 {
     "20.08": [
         "app.midterm.MidtermDesktop",
-        "com.synology.SynologyDrive",
-        "io.atom.Atom"
+        "com.synology.SynologyDrive"
     ],
     "22.08": [
         "com.axosoft.GitKraken",
@@ -16,6 +15,7 @@
         "com.visualstudio.code",
         "com.vscodium.codium",
         "dev.lapce.lapce",
+        "io.atom.Atom",
         "net.blix.BlueMail",
         "org.codeblocks.codeblocks",
         "org.geany.Geany",

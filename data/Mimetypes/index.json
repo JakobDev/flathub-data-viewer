@@ -240,6 +240,7 @@
         "application{SLASH}x-123",
         "application{SLASH}x-3ds",
         "application{SLASH}x-5view",
+        "application{SLASH}x-7z",
         "application{SLASH}x-7z-compressed",
         "application{SLASH}x-7z-compressed-tar",
         "application{SLASH}x-LabPlot-gzip",

@@ -6,7 +6,6 @@
         "io.brackets.Brackets"
     ],
     "18.08": [
-        "io.github.betaflight.BetaflightConfigurator",
         "io.github.openWMail.openWMail"
     ]
 }

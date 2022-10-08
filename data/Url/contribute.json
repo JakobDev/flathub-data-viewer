@@ -1,4 +1,5 @@
 [
+    "com.dec05eba.gpu_screen_recorder",
     "com.gitlab.JakobDev.jdAnimatedImageEditor",
     "com.gitlab.JakobDev.jdAppdataEdit",
     "com.inochi2d.inochi-creator",
@@ -6,6 +7,7 @@
     "com.revolutionarygamesstudio.ThriveLauncher",
     "com.usebottles.bottles",
     "dev.linwood.butterfly",
+    "io.github.betaflight.BetaflightConfigurator",
     "io.github.naikari.Naikari",
     "io.qt.Designer",
     "io.qt.Linguist",

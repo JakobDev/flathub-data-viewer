@@ -2,7 +2,6 @@
     "20.08": [
         "app.midterm.MidtermDesktop",
         "com.endlessm.HatchPreviewer",
-        "io.atom.Atom",
         "io.github.Figma_Linux.figma_linux",
         "io.github.liberodark.OpenDrive",
         "io.webtorrent.WebTorrent"
@@ -121,7 +120,9 @@
         "gg.guilded.Guilded",
         "im.riot.Riot",
         "info.beyondallreason.bar",
+        "io.atom.Atom",
         "io.exodus.Exodus",
+        "io.github.betaflight.BetaflightConfigurator",
         "io.github.spacingbat3.webcord",
         "io.typora.Typora",
         "md.obsidian.Obsidian",
