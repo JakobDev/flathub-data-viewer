@@ -37,6 +37,7 @@
     "org.fcitx.Fcitx5",
     "org.fedoraproject.MediaWriter",
     "org.freedesktop.appstream.cli",
+    "org.gabmus.gfeeds",
     "org.gabmus.giara",
     "org.gimp.GIMP",
     "org.glimpse_editor.Glimpse",
