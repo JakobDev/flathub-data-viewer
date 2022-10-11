@@ -1,6 +1,7 @@
 [
     "ch.theologeek.Manuskript",
     "com.github.donadigo.appeditor",
+    "net.sourceforge.paulstretch",
     "org.audacityteam.Audacity",
     "org.gnome.Shotwell"
 ]

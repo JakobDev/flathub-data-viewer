@@ -1,4 +1,5 @@
 [
+    "app.vup.Vup",
     "codes.merritt.FeelingFinder",
     "com.github.cassidyjames.clairvoyant",
     "com.github.rkoesters.xkcd-gtk",

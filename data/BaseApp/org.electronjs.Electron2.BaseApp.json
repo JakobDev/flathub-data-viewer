@@ -123,6 +123,7 @@
         "io.atom.Atom",
         "io.exodus.Exodus",
         "io.github.betaflight.BetaflightConfigurator",
+        "io.github.letslearn_app.letslearn",
         "io.github.spacingbat3.webcord",
         "io.typora.Typora",
         "md.obsidian.Obsidian",
