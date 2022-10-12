@@ -265,6 +265,9 @@
     ".librewolf": [
         "io.gitlab.librewolf-community"
     ],
+    ".PySolFC": [
+        "io.sourceforge.pysolfc.PySolFC"
+    ],
     ".local/share/openspades": [
         "jp.yvt.OpenSpades"
     ],

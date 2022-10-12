@@ -392,6 +392,7 @@
         "com.leinardi.gst",
         "com.mattjakeman.ExtensionManager",
         "com.raggesilver.BlackBox",
+        "com.steamdeckrepo.manager",
         "com.syntevo.SmartGit",
         "com.syntevo.SmartSynchronize",
         "com.usebottles.bottles",

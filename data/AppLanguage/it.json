@@ -71,6 +71,7 @@
     "io.neovim.nvim",
     "io.otsaloma.nfoview",
     "io.posidon.Paper",
+    "io.sourceforge.pysolfc.PySolFC",
     "net.displaycal.DisplayCAL",
     "net.launchpad.gmult",
     "net.meijn.onvifviewer",

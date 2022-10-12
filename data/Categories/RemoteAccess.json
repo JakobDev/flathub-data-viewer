@@ -1,5 +1,6 @@
 [
     "com.amazon.Workspaces",
+    "com.freerdp.FreeRDP",
     "com.github.muriloventuroso.easyssh",
     "com.github.unrud.RemoteTouchpad",
     "com.itopia.client",

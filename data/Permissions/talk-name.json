@@ -2077,7 +2077,6 @@
     "org.freedesktop.flatpak": [
         "ca.desrt.dconf-editor",
         "cc.nift.nsm",
-        "com.axosoft.GitKraken",
         "com.chatterino.chatterino",
         "com.georgefb.quickaccess",
         "com.getmailspring.Mailspring",
@@ -2251,18 +2250,6 @@
         "gg.guilded.Guilded",
         "org.signal.Signal"
     ],
-    "org.gtk.vfs": [
-        "com.axosoft.GitKraken",
-        "com.github.calo001.fondo",
-        "com.lettier.movie-monad",
-        "io.github.celluloid_player.Celluloid",
-        "org.freefilesync.FreeFileSync",
-        "org.glimpse_editor.Glimpse",
-        "org.gnome.Lollypop",
-        "org.gnome.Totem",
-        "org.gnome.World.PikaBackup",
-        "org.sparkleshare.SparkleShare"
-    ],
     "org.freedesktop.flatpak.*": [
         "com.borgbase.Vorta",
         "io.github.am2r_community_developers.AM2RLauncher",
@@ -2420,6 +2407,17 @@
     ],
     "org.freedesktop.tracker3.miner.files": [
         "com.github.birros.WebArchives"
+    ],
+    "org.gtk.vfs": [
+        "com.github.calo001.fondo",
+        "com.lettier.movie-monad",
+        "io.github.celluloid_player.Celluloid",
+        "org.freefilesync.FreeFileSync",
+        "org.glimpse_editor.Glimpse",
+        "org.gnome.Lollypop",
+        "org.gnome.Totem",
+        "org.gnome.World.PikaBackup",
+        "org.sparkleshare.SparkleShare"
     ],
     "org.a11y.*": [
         "com.github.debauchee.barrier",

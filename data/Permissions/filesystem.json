@@ -124,6 +124,7 @@
         "com.sireliah.Dragit",
         "com.sleepfiles.OSCAR",
         "com.snes9x.Snes9x",
+        "com.steamdeckrepo.manager",
         "com.sweethome3d.Sweethome3d",
         "com.sweetscape.ZeroOneZeroEditor",
         "com.synology.CloudStationBackup",
@@ -360,6 +361,7 @@
         "com.darhon.drfinance",
         "com.discordapp.Discord",
         "com.diy_fever.DIYLayoutCreator",
+        "com.freerdp.FreeRDP",
         "com.getmailspring.Mailspring",
         "com.github.JannikHv.Gydl",
         "com.github.KRTirtho.Spotube",
@@ -2293,6 +2295,7 @@
         "com.github.Matoking.protontricks",
         "com.github.theCalcaholic.StreamDeck",
         "com.heroicgameslauncher.hgl",
+        "com.steamdeckrepo.manager",
         "io.github.philipk.boilr",
         "net.davidotek.pupgui2",
         "space.crankshaft.Crankshaft"

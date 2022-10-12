@@ -1,6 +1,7 @@
 [
     "at.ssh_mitm.server",
     "cc.nift.nsm",
+    "com.freerdp.FreeRDP",
     "com.github.ilai_deutel.kibi",
     "com.github.nihui.waifu2x-ncnn-vulkan",
     "com.okta.developer.CLI",

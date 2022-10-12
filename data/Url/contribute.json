@@ -12,6 +12,7 @@
     "io.qt.Designer",
     "io.qt.Linguist",
     "io.qt.qdbusviewer",
+    "io.sourceforge.pysolfc.PySolFC",
     "net.minetest.Minetest",
     "org.apache.jmeter",
     "org.inkscape.Inkscape",
