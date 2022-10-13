@@ -22,6 +22,7 @@
         "org.flameshot.Flameshot",
         "org.kde.neochat",
         "org.ksnip.ksnip",
+        "org.qownnotes.QOwnNotes",
         "org.qutebrowser.qutebrowser",
         "org.signal.Signal",
         "org.tribler.Tribler",
@@ -41,7 +42,6 @@
         "com.github.Qv2ray",
         "com.github.vladimiry.ElectronMail",
         "com.toggl.TogglDesktop",
-        "im.riot.Riot",
         "io.kopia.KopiaUI",
         "nz.mega.MEGAsync",
         "org.easycoding.TunedSwitcher",
@@ -166,8 +166,7 @@
         "com.toggl.TogglDesktop"
     ],
     "org.kde.statusnotifieritem-3-1": [
-        "com.toggl.TogglDesktop",
-        "org.qownnotes.QOwnNotes"
+        "com.toggl.TogglDesktop"
     ],
     "org.kde.statusnotifieritem-8-1": [
         "com.toggl.TogglDesktop"

@@ -1,5 +1,6 @@
 [
     "com.github.alecaddd.sequeler",
     "io.dbeaver.DBeaverCommunity",
+    "io.github.limads.Queries",
     "net.sourceforge.Chessx"
 ]

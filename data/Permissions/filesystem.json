@@ -179,6 +179,7 @@
         "io.github.gtkwave.GTKWave",
         "io.github.hakuneko.HakuNeko",
         "io.github.liberodark.OpenDrive",
+        "io.github.limads.Queries",
         "io.github.lruzicka.Needly",
         "io.github.maurycyliebner.enve",
         "io.github.mgerhardy.vengi.voxedit",
@@ -425,6 +426,7 @@
         "io.github.Hexchat",
         "io.github.Icalingua.Icalingua",
         "io.github.TransmissionRemoteGtk",
+        "io.github.hvdwofl.jExifToolGUI",
         "io.github.jacalz.rymdport",
         "io.github.kotatogram",
         "io.github.openWMail.openWMail",
@@ -816,6 +818,7 @@
         "net.drawpile.drawpile",
         "net.fasterland.converseen",
         "net.fsuae.FS-UAE",
+        "net.granjow.slowmovideo",
         "net.jami.Jami",
         "net.jammr.jammr",
         "net.kuribo64.melonDS",
@@ -1881,6 +1884,7 @@
         "org.mattbas.Glaxnimate",
         "org.musescore.MuseScore",
         "org.nickvision.tagger",
+        "org.nickvision.tubeconverter",
         "org.nicotine_plus.Nicotine",
         "org.nongnu.gsequencer.gsequencer",
         "org.octave.Octave",
@@ -1973,6 +1977,7 @@
         "info.febvre.Komikku",
         "io.github.Figma_Linux.figma_linux",
         "io.github.celluloid_player.Celluloid",
+        "io.github.hvdwofl.jExifToolGUI",
         "io.github.jacalz.rymdport",
         "io.github.obiwankennedy.HotShots",
         "io.github.qtox.qTox",
@@ -2033,6 +2038,7 @@
         "net.baseart.Glide",
         "net.blockbench.Blockbench",
         "net.filebot.FileBot",
+        "net.granjow.slowmovideo",
         "net.sourceforge.Kino",
         "net.xmind.XMind8",
         "no.mifi.losslesscut",
@@ -2787,22 +2793,25 @@
         "org.gnome.FontManager",
         "org.gnome.font-viewer"
     ],
-    "/run/media/mmcblk0p1:ro": [
+    "~/.var/app/net.lutris.Lutris:ro": [
         "io.github.philipk.boilr"
     ],
-    "~/.var/app/net.lutris.Lutris:ro": [
+    "~/GOG Games:ro": [
         "io.github.philipk.boilr"
     ],
     "~/Games/Heroic:ro": [
         "io.github.philipk.boilr"
     ],
+    "~/.config/itch:ro": [
+        "io.github.philipk.boilr"
+    ],
     "xdg-data/lutris:ro": [
         "io.github.philipk.boilr"
     ],
-    "~/.var/app/com.heroicgameslauncher.hgl:ro": [
+    "/run/media/mmcblk0p1:ro": [
         "io.github.philipk.boilr"
     ],
-    "~/.config/itch:ro": [
+    "~/.var/app/com.heroicgameslauncher.hgl:ro": [
         "io.github.philipk.boilr"
     ],
     "~/Applications:create": [

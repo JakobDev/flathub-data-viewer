@@ -8,5 +8,6 @@
     "io.github.openhv.OpenHV",
     "io.github.parnassius.SysDVR-Qt",
     "io.github.tofudd.lanchat.terminal",
+    "net.retrodeck.retrodeck",
     "org.ryujinx.Ryujinx"
 ]
