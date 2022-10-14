@@ -3252,6 +3252,7 @@
         "com.github.wwmm.easyeffects",
         "com.github.wwmm.pulseeffects",
         "com.github.xournalpp.xournalpp",
+        "com.github.yucefsourani.albasheer-electronic-quran-browser",
         "com.github.zocker_160.SyncThingy",
         "com.github.ztefn.haguichi",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
@@ -4843,6 +4844,7 @@
     ],
     "pcsc": [
         "com.axosoft.GitKraken",
+        "com.brave.Browser",
         "com.freerdp.FreeRDP",
         "com.google.Chrome",
         "com.itopia.client",

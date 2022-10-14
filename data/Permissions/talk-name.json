@@ -1214,6 +1214,7 @@
         "com.brave.Browser",
         "com.github.Eloston.UngoogledChromium",
         "com.github.quaternion",
+        "io.github.spacingbat3.webcord",
         "org.chromium.Chromium",
         "org.cryptomator.Cryptomator",
         "org.gajim.Gajim",
@@ -2417,7 +2418,6 @@
         "io.github.celluloid_player.Celluloid",
         "org.freefilesync.FreeFileSync",
         "org.glimpse_editor.Glimpse",
-        "org.gnome.Lollypop",
         "org.gnome.Totem",
         "org.gnome.World.PikaBackup",
         "org.sparkleshare.SparkleShare"
