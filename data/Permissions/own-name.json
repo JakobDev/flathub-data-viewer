@@ -372,10 +372,6 @@
         "org.kde.akregator",
         "org.kde.kontact"
     ],
-    "org.kde.akregator": [
-        "org.kde.akregator",
-        "org.kde.kontact"
-    ],
     "org.kde.kaddressbook": [
         "org.kde.akregator",
         "org.kde.kontact"
@@ -422,19 +418,22 @@
     "org.kde.kongressac": [
         "org.kde.kongress"
     ],
-    "org.kde.kontact": [
-        "org.kde.kontact"
-    ],
     "org.kde.korgac": [
         "org.kde.kontact"
     ],
     "org.kde.akonadiconsole.*": [
         "org.kde.kontact"
     ],
+    "org.kde.akregator": [
+        "org.kde.kontact"
+    ],
     "org.kde.sieveeditor": [
         "org.kde.kontact"
     ],
     "org.kde.korganizer": [
+        "org.kde.kontact"
+    ],
+    "org.kde.kalendarac": [
         "org.kde.kontact"
     ],
     "org.kde.kmail": [

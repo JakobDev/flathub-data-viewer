@@ -2602,6 +2602,7 @@
         "org.claws_mail.Claws-Mail",
         "org.gnome.Keysign",
         "org.kde.kleopatra",
+        "org.kde.kontact",
         "org.mozilla.Thunderbird"
     ],
     "/sys:ro": [
@@ -3106,7 +3107,8 @@
     ],
     "~/.gnupg:create": [
         "org.gnome.seahorse.Application",
-        "org.kde.kleopatra"
+        "org.kde.kleopatra",
+        "org.kde.kontact"
     ],
     "xdg-templates:ro": [
         "org.gnunet.Messenger"
