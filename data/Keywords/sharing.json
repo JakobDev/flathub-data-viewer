@@ -2,6 +2,7 @@
     "com.github.debauchee.barrier",
     "com.nextcloud.desktopclient.nextcloud",
     "com.transmissionbt.Transmission",
+    "de.haeckerfelix.AudioSharing",
     "io.github.jacalz.rymdport",
     "org.deluge_torrent.deluge",
     "org.nicotine_plus.Nicotine"

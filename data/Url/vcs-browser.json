@@ -22,6 +22,7 @@
     "net.minetest.Minetest",
     "org.apache.jmeter",
     "org.freedesktop.appstream.cli",
+    "org.horizon_eda.HorizonEDA",
     "org.inkscape.Inkscape",
     "org.jreleaser.cli",
     "org.kde.okteta",

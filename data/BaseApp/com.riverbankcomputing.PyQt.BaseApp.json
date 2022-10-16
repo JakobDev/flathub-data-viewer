@@ -15,6 +15,7 @@
         "com.sigil_ebook.Sigil",
         "io.github.bothlab.syntalos",
         "io.github.ciromattia.kcc",
+        "io.github.jordanl2.ModularCalculator",
         "org.opennumismat.OpenNumismat"
     ],
     "6.3": [
