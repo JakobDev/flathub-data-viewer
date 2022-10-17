@@ -1,4 +1,5 @@
 [
+    "app.ywallet.Ywallet",
     "com.bitstower.Markets",
     "com.ekonomikas.merkato",
     "com.github.horaciodrs.tradesim",

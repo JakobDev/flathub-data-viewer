@@ -1,5 +1,6 @@
 [
     "app.drey.EarTag",
+    "app.ywallet.Ywallet",
     "cc.nift.nsm",
     "ch.imatt.ClipQR",
     "chat.rocket.RocketChat",

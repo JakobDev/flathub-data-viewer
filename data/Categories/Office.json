@@ -1,5 +1,6 @@
 [
     "app.rednotebook.RedNotebook",
+    "app.ywallet.Ywallet",
     "at.priv.toastfreeware.ConfClerk",
     "cc.nift.nsm",
     "ch.protonmail.protonmail-bridge",

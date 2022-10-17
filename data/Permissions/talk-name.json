@@ -2241,7 +2241,6 @@
     ],
     "org.gnome.settingsdaemon": [
         "chat.tandem.Client",
-        "com.spotify.Client",
         "com.sublimetext.three",
         "io.freetubeapp.FreeTube",
         "org.gabmus.hydrapaper",
@@ -2363,6 +2362,7 @@
         "com.github.needleandthread.vocal",
         "com.googleplaymusicdesktopplayer.GPMDP",
         "com.lettier.movie-monad",
+        "com.spotify.Client",
         "com.valvesoftware.Steam",
         "io.github.Pithos",
         "io.github.celluloid_player.Celluloid",
