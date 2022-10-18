@@ -2,6 +2,7 @@
     "org.kde.*": [
         "app.lith.Lith",
         "com.borgbase.Vorta",
+        "com.calibre_ebook.calibre",
         "com.codemouse92.timecard",
         "com.dropbox.Client",
         "com.github.debauchee.barrier",
@@ -39,7 +40,6 @@
     ],
     "org.kde.statusnotifieritem-2-1": [
         "chat.schildi.desktop",
-        "com.calibre_ebook.calibre",
         "com.github.Qv2ray",
         "com.github.vladimiry.ElectronMail",
         "com.toggl.TogglDesktop",

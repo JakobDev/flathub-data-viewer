@@ -412,5 +412,6 @@
     "com.github.unrud.djpdf.OCR.UzbCyrl",
     "com.github.unrud.djpdf.OCR.Vie",
     "com.github.unrud.djpdf.OCR.Yid",
-    "com.github.unrud.djpdf.OCR.Yor"
+    "com.github.unrud.djpdf.OCR.Yor",
+    "org.freedesktop.LinuxAudio.Plugins.Cardinal"
 ]

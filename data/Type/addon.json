@@ -210,6 +210,7 @@
     "org.freedesktop.LinuxAudio.Plugins.CAPS",
     "org.freedesktop.LinuxAudio.Plugins.CMT",
     "org.freedesktop.LinuxAudio.Plugins.Calf",
+    "org.freedesktop.LinuxAudio.Plugins.Cardinal",
     "org.freedesktop.LinuxAudio.Plugins.ChowTapeModel",
     "org.freedesktop.LinuxAudio.Plugins.DISTRHO-Ports",
     "org.freedesktop.LinuxAudio.Plugins.DPF-Plugins",

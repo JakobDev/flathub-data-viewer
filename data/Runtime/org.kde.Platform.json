@@ -11,8 +11,7 @@
         "org.bunkus.mkvtoolnix-gui",
         "org.coolero.Coolero",
         "org.jaspstats.JASP",
-        "org.linux_hardware.hw-probe",
-        "org.profex_xrd.Profex"
+        "org.linux_hardware.hw-probe"
     ],
     "5.15-21.08": [
         "app.resp.RESP",
@@ -516,6 +515,7 @@
         "org.gottcode.Tanglet",
         "org.gottcode.Tetzle",
         "org.mattbas.Glaxnimate",
+        "org.profex_xrd.Profex",
         "org.rncbc.qpwgraph",
         "org.rncbc.qsynth",
         "org.rncbc.qtractor",
