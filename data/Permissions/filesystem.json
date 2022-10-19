@@ -1829,6 +1829,7 @@
         "org.freedesktop.Bustle",
         "org.freedesktop.GstDebugViewer",
         "org.freedesktop.adriconf",
+        "org.freedesktop.appstream-glib",
         "org.freedesktop.appstream.cli",
         "org.freefilesync.FreeFileSync",
         "org.gaphor.Gaphor",
@@ -2769,6 +2770,7 @@
     "/var/lib/flatpak:ro": [
         "io.github.fabrialberio.pinapp",
         "org.bluesabre.MenuLibre",
+        "org.freedesktop.appstream-glib",
         "org.freedesktop.appstream.cli",
         "re.sonny.Junction"
     ],
@@ -3007,6 +3009,7 @@
         "org.horizon_eda.HorizonEDA"
     ],
     "~/.local/share/flatpak:ro": [
+        "org.freedesktop.appstream-glib",
         "org.freedesktop.appstream.cli"
     ],
     "/sys": [

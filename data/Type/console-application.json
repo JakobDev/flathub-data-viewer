@@ -17,6 +17,7 @@
     "net.sourceforge.fspclient",
     "network.koesling.shm-modbus",
     "org.flathub.flatpak-external-data-checker",
+    "org.freedesktop.appstream-glib",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",
     "org.getzola.zola",

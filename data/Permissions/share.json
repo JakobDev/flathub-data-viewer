@@ -781,6 +781,7 @@
         "org.freecadweb.FreeCAD",
         "org.freeciv.Freeciv",
         "org.freecol.FreeCol",
+        "org.freedesktop.appstream-glib",
         "org.freedesktop.appstream.cli",
         "org.freedesktop.dabrain34.GstPipelineStudio",
         "org.freedesktop.fwupd",

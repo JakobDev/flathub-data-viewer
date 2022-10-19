@@ -1256,6 +1256,7 @@
     "org.freedesktop.Piper",
     "org.freedesktop.Tuhi",
     "org.freedesktop.adriconf",
+    "org.freedesktop.appstream-glib",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.dabrain34.GstPipelineStudio",
     "org.freedesktop.fwupd",

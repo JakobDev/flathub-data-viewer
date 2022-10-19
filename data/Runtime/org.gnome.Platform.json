@@ -2,7 +2,6 @@
     "42": [
         "app.bluebubbles.BlueBubbles",
         "app.drey.Blurble",
-        "app.drey.Dialect",
         "app.drey.EarTag",
         "app.rednotebook.RedNotebook",
         "app.riftshare.RiftShare",
@@ -182,7 +181,6 @@
         "net.lutris.Lutris",
         "net.mancubus.SLADE",
         "net.natesales.Aviator",
-        "net.oz9aec.Gpredict",
         "net.poedit.Poedit",
         "net.sourceforge.Lifeograph",
         "net.sourceforge.liferea",
@@ -340,6 +338,7 @@
         "work.openpaper.Paperwork"
     ],
     "43": [
+        "app.drey.Dialect",
         "app.drey.KeyRack",
         "app.drey.Warp",
         "br.gov.fazenda.receita.irpf",
@@ -407,6 +406,7 @@
         "io.bassi.Amberol",
         "io.github.Foldex.AdwSteamGtk",
         "io.github.Pithos",
+        "io.github.cboxdoerfer.FSearch",
         "io.github.diegoivanme.flowtime",
         "io.github.fabrialberio.pinapp",
         "io.github.limads.Queries",
@@ -417,6 +417,7 @@
         "io.gitlab.leesonwai.Sums",
         "io.gitlab.leesonwai.Tactics",
         "ml.mdwalters.EightBall",
+        "net.oz9aec.Gpredict",
         "nl.hjdskes.gcolor3",
         "nl.sarine.gpx-viewer",
         "org.audacityteam.Audacity",
@@ -470,7 +471,8 @@
         "org.zim_wiki.Zim",
         "org.zrythm.Zrythm",
         "re.sonny.Junction",
-        "re.sonny.Playhouse"
+        "re.sonny.Playhouse",
+        "uk.co.ibboard.cawbird"
     ],
     "41": [
         "ar.com.softwareperonista.Rockarrolla",
@@ -507,7 +509,6 @@
         "fr.fgrabenstaetter.DigitalAssets",
         "fr.handbrake.ghb",
         "info.portfolio_performance.PortfolioPerformance",
-        "io.github.cboxdoerfer.FSearch",
         "io.github.jhaygood86.mauborgne",
         "io.github.leonardschardijn.Chirurgien",
         "io.github.mideb.digitales_register",
@@ -543,7 +544,6 @@
         "org.xiphos.Xiphos",
         "pl.art.lach.slawek.V2BlankBrowser",
         "sh.xaviers.Opentapes",
-        "uk.co.ibboard.cawbird",
         "uk.jnthn.backgammony"
     ],
     "3.36": [
