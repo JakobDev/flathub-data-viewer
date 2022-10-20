@@ -8,7 +8,6 @@
         "com.stremio.Stremio",
         "de.shorsh.discord-screenaudio",
         "io.github.wereturtle.ghostwriter",
-        "io.mrarm.mcpelauncher",
         "net.mediaarea.MediaConch",
         "net.retrodeck.retrodeck",
         "net.sonic_pi.SonicPi",
@@ -38,6 +37,7 @@
     "6.3": [
         "com.github.jmlich.geotagging",
         "com.github.rssguard",
+        "io.mrarm.mcpelauncher",
         "net.jami.Jami"
     ],
     "5.15": [

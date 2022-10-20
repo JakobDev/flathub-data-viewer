@@ -206,6 +206,9 @@
         "com.sireliah.Dragit",
         "org.gnome.NetworkDisplays"
     ],
+    "org.freedesktop.networkmanager.*": [
+        "io.appflowy.AppFlowy"
+    ],
     "org.freedesktop.colormanager": [
         "net.displaycal.DisplayCAL",
         "org.darktable.Darktable",

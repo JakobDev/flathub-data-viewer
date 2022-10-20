@@ -17,6 +17,7 @@
         "io.github.antimicrox.antimicrox",
         "io.github.qnapi",
         "network.loki.Session",
+        "nz.mega.MEGAsync",
         "org.cubocore.CoreAction",
         "org.cubocore.CoreKeyboard",
         "org.cubocore.CoreTime",
@@ -44,7 +45,6 @@
         "com.github.vladimiry.ElectronMail",
         "com.toggl.TogglDesktop",
         "io.kopia.KopiaUI",
-        "nz.mega.MEGAsync",
         "org.easycoding.TunedSwitcher",
         "org.keepassxc.KeePassXC",
         "ru.proninyaroslav.libretrack"
