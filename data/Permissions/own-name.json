@@ -162,10 +162,6 @@
     "com.sublimemerge": [
         "com.sublimemerge.App"
     ],
-    "org.kde.statusnotifieritem-7-1": [
-        "com.synology.SynologyDrive",
-        "com.toggl.TogglDesktop"
-    ],
     "org.kde.statusnotifieritem-3-1": [
         "com.toggl.TogglDesktop"
     ],
@@ -182,6 +178,9 @@
         "com.toggl.TogglDesktop"
     ],
     "org.kde.statusnotifieritem-9-1": [
+        "com.toggl.TogglDesktop"
+    ],
+    "org.kde.statusnotifieritem-7-1": [
         "com.toggl.TogglDesktop"
     ],
     "org.kde.statusnotifieritem-5-1": [

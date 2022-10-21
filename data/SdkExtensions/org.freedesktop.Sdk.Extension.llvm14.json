@@ -7,6 +7,8 @@
     "io.github.hydrusnetwork.hydrus",
     "net.retrodeck.retrodeck",
     "net.rpcs3.RPCS3",
+    "org.codeberg.dimkard.glossaico",
     "org.freedesktop.Bustle",
-    "org.gnome.Builder"
+    "org.gnome.Builder",
+    "org.pipewire.Helvum"
 ]
