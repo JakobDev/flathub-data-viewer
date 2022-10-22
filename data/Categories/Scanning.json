@@ -5,6 +5,7 @@
     "com.github.unrud.djpdf",
     "com.github.utsushi.Utsushi",
     "com.hamrick.VueScan",
+    "net.epson.epsonscan2",
     "org.gnome.OCRFeeder",
     "vn.hoabinh.quan.CoBang",
     "work.openpaper.Paperwork"

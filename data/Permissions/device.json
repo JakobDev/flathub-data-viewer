@@ -518,6 +518,7 @@
         "io.github.mgerhardy.vengi.voxedit",
         "io.github.mideb.digitales_register",
         "io.github.mpobaschnig.Vaults",
+        "io.github.mrquantumoff.mcmodpackmanager",
         "io.github.naikari.Naikari",
         "io.github.narunlifescience.AlphaPlot",
         "io.github.nroduit.Weasis",
@@ -761,7 +762,6 @@
         "org.flameshot.Flameshot",
         "org.flarerpg.Flare",
         "org.flatpak.qtdemo",
-        "org.flightgear.FlightGear",
         "org.freecadweb.FreeCAD",
         "org.freecol.FreeCol",
         "org.freedesktop.GstDebugViewer",
@@ -1130,6 +1130,7 @@
         "re.sonny.Junction",
         "re.sonny.OhMySVG",
         "re.sonny.Playhouse",
+        "re.sonny.Retro",
         "re.sonny.Tangram",
         "re.sonny.Workbench",
         "ro.fxdata.taskmonitor.viewer",
@@ -1377,6 +1378,7 @@
         "net.brinkervii.grapejuice",
         "net.davidotek.pupgui2",
         "net.displaycal.DisplayCAL",
+        "net.epson.epsonscan2",
         "net.fsuae.FS-UAE",
         "net.gaijin.WarThunder",
         "net.jami.Jami",
@@ -1488,8 +1490,8 @@
         "org.opensurge2d.OpenSurge",
         "org.pegasus_frontend.Pegasus",
         "org.phoenicis.playonlinux",
-        "org.polymc.PolyMC",
         "org.ppsspp.PPSSPP",
+        "org.prismlauncher.PrismLauncher",
         "org.processing.processingide",
         "org.purei.Play",
         "org.raspberrypi.rpi-imager",
@@ -1539,6 +1541,7 @@
         "tv.plex.PlexHTPC",
         "ua.org.brezblock.q4wine",
         "uk.me.doof.Lander",
+        "uk.org.greenend.chiark.sgtatham.putty",
         "us.zoom.Zoom",
         "vn.hoabinh.quan.CoBang",
         "ws.openarena.OpenArena",
@@ -1550,7 +1553,6 @@
         "de.akaflieg_freiburg.enroute",
         "net.jammr.jammr",
         "net.rpdev.OpenTodoList",
-        "network.koesling.shm-modbus",
-        "org.flightgear.FlightGear"
+        "network.koesling.shm-modbus"
     ]
 }

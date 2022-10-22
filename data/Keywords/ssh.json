@@ -1,4 +1,5 @@
 [
     "org.gnome.seahorse.Application",
-    "org.remmina.Remmina"
+    "org.remmina.Remmina",
+    "uk.org.greenend.chiark.sgtatham.putty"
 ]

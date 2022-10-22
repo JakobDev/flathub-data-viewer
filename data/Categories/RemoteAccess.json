@@ -9,5 +9,6 @@
     "org.cockpit_project.CockpitClient",
     "org.gnome.Connections",
     "org.kde.krdc",
-    "se.cendio.tlclient"
+    "se.cendio.tlclient",
+    "uk.org.greenend.chiark.sgtatham.putty"
 ]

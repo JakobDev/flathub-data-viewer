@@ -18,6 +18,7 @@
     "io.liri.Text",
     "io.neovim.nvim",
     "io.posidon.Paper",
+    "org.blackfennec.app",
     "org.cubocore.CorePad",
     "org.frescobaldi.Frescobaldi",
     "org.geany.Geany",

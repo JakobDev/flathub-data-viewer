@@ -1,6 +1,7 @@
 [
     "com.endlessm.photos",
     "com.github.weclaw1.ImageRoll",
+    "dev.linwood.butterfly",
     "org.cubocore.CoreImage",
     "org.cubocore.CorePaint",
     "org.gnome.eog",

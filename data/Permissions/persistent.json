@@ -280,6 +280,9 @@
     ".assaultcube": [
         "net.cubers.assault.AssaultCube"
     ],
+    ".epsonscan2": [
+        "net.epson.epsonscan2"
+    ],
     ".goatattack": [
         "net.goatattack.goatattack"
     ],

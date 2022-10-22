@@ -2,10 +2,10 @@
     "21.08": [
         "com.brave.Browser",
         "com.github.Eloston.UngoogledChromium",
-        "com.google.ChromeDev",
-        "com.microsoft.Edge"
+        "com.google.ChromeDev"
     ],
     "22.08": [
-        "com.google.Chrome"
+        "com.google.Chrome",
+        "com.microsoft.Edge"
     ]
 }

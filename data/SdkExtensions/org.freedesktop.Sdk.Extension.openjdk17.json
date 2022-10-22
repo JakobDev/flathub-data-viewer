@@ -17,7 +17,7 @@
     "org.eclipse.sumo",
     "org.jdownloader.JDownloader",
     "org.openstreetmap.josm",
-    "org.polymc.PolyMC",
+    "org.prismlauncher.PrismLauncher",
     "org.soapui.SoapUI",
     "vet.rsc.OpenRSC.Launcher"
 ]

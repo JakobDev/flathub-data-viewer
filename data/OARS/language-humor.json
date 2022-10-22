@@ -269,6 +269,7 @@
         "net.runelite.RuneLite",
         "net.sourceforge.atanks",
         "net.veloren.airshipper",
+        "org.blackfennec.app",
         "org.freeorion.FreeOrion",
         "org.gna.Warmux",
         "org.gnome.gitlab.Cowsay",
