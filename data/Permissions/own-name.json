@@ -28,6 +28,7 @@
         "org.qownnotes.QOwnNotes",
         "org.qutebrowser.qutebrowser",
         "org.signal.Signal",
+        "org.strawberrymusicplayer.strawberry",
         "org.tribler.Tribler",
         "re.chiaki.Chiaki",
         "si.tano.Vremenar",
@@ -141,8 +142,7 @@
         "info.mumble.Mumble",
         "org.clementine_player.Clementine",
         "org.keepassxc.KeePassXC",
-        "org.qbittorrent.qBittorrent",
-        "org.strawberrymusicplayer.strawberry"
+        "org.qbittorrent.qBittorrent"
     ],
     "org.mpris.mediaplayer2.plexamp": [
         "com.plexamp.Plexamp"

@@ -2735,9 +2735,6 @@
     "xdg-data/libremines:create": [
         "io.github.Bollos00.LibreMines"
     ],
-    "xdg-config/clash:create": [
-        "io.github.Fndroid.clash_for_windows"
-    ],
     "~/.var/app/com.valvesoftware.Steam/.steam/steam": [
         "io.github.Foldex.AdwSteamGtk"
     ],
@@ -2778,9 +2775,6 @@
         "org.freedesktop.appstream-glib",
         "org.freedesktop.appstream.cli",
         "re.sonny.Junction"
-    ],
-    "xdg-data/icons:ro": [
-        "io.github.fabrialberio.pinapp"
     ],
     "~/coyotetm": [
         "io.github.igaldino.CoyoteTM"
