@@ -54,7 +54,6 @@
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.makemkv.MakeMKV",
-        "com.moonlight_stream.Moonlight",
         "com.nextcloud.desktopclient.nextcloud",
         "com.notepadqq.Notepadqq",
         "com.ozmartians.VidCutter",
@@ -380,6 +379,7 @@
         "com.github.vkohaupt.vokoscreenNG",
         "com.github.zocker_160.SyncThingy",
         "com.gitlab.Murmele.UDPLogger",
+        "com.moonlight_stream.Moonlight",
         "com.nitrokey.nitrokey-app",
         "com.sigil_ebook.Sigil",
         "com.sleepfiles.OSCAR",
@@ -500,9 +500,6 @@
         "io.github.hydrusnetwork.hydrus",
         "io.github.simple64.simple64",
         "io.mrarm.mcpelauncher",
-        "io.qt.Designer",
-        "io.qt.Linguist",
-        "io.qt.qdbusviewer",
         "me.mitya57.ReText",
         "net.davidotek.pupgui2",
         "net.jami.Jami",
@@ -541,6 +538,11 @@
         "io.liri.Calculator",
         "io.liri.Text",
         "org.rolisteam.rolisteam"
+    ],
+    "6.4": [
+        "io.qt.Designer",
+        "io.qt.Linguist",
+        "io.qt.qdbusviewer"
     ],
     "5.9": [
         "io.qt.qtwebkit.BaseApp"

@@ -2360,8 +2360,7 @@
         "com.github.hluk.copyq",
         "com.github.matfantinel.reminduck",
         "com.github.rssguard",
-        "com.rtosta.zapzap",
-        "it.mijorus.smile"
+        "com.rtosta.zapzap"
     ],
     "xdg-data/flatpak/app:ro": [
         "com.github.bluesabre.darkbar",

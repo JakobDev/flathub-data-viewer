@@ -253,7 +253,7 @@
     ".stratagus": [
         "io.github.Andrettin.Wyrmsun"
     ],
-    "xdg-config/clash": [
+    "~/.config/clash": [
         "io.github.Fndroid.clash_for_windows"
     ],
     ".ezquake": [
