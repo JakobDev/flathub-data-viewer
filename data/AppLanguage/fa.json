@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Decoder",
     "com.github.PintaProject.Pinta",

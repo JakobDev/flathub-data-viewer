@@ -28,6 +28,7 @@
     "org.inkscape.Inkscape",
     "org.jreleaser.cli",
     "org.kde.okteta",
+    "org.keepassxc.KeePassXC",
     "org.love2d.love2d",
     "org.mapeditor.Tiled",
     "org.mozilla.Thunderbird",

@@ -1916,6 +1916,7 @@
         "org.kde.tokodon",
         "org.kde.umbrello",
         "org.kde.vvave",
+        "org.keepassxc.KeePassXC",
         "org.ksnip.ksnip",
         "org.librepcb.LibrePCB",
         "org.libretro.RetroArch",
@@ -2803,10 +2804,10 @@
         "org.keepassxc.KeePassXC",
         "org.yuzu_emu.yuzu"
     ],
-    "org.freedesktop.login1.session": [
+    "org.gnome.sessionmanager.presence": [
         "org.keepassxc.KeePassXC"
     ],
-    "org.gnome.sessionmanager.presence": [
+    "org.freedesktop.login1.session": [
         "org.keepassxc.KeePassXC"
     ],
     "org.freedesktop.portal.screenshot": [

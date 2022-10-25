@@ -47,7 +47,6 @@
         "com.toggl.TogglDesktop",
         "io.kopia.KopiaUI",
         "org.easycoding.TunedSwitcher",
-        "org.keepassxc.KeePassXC",
         "ru.proninyaroslav.libretrack"
     ],
     "org.mpris.mediaplayer2.headset": [
@@ -141,7 +140,6 @@
         "com.ulduzsoft.Birdtray",
         "info.mumble.Mumble",
         "org.clementine_player.Clementine",
-        "org.keepassxc.KeePassXC",
         "org.qbittorrent.qBittorrent"
     ],
     "org.mpris.mediaplayer2.plexamp": [
@@ -470,9 +468,6 @@
     ],
     "org.mpris.mediaplayer2.vvave": [
         "org.kde.vvave"
-    ],
-    "org.kde.statusnotifieritem-3-2": [
-        "org.keepassxc.KeePassXC"
     ],
     "org.libreoffice.libreofficeipc0": [
         "org.libreoffice.LibreOffice"
