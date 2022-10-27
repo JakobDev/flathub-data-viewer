@@ -495,7 +495,6 @@
         "com.gitlab.tipp10.tipp10",
         "com.obsproject.Studio",
         "com.rtosta.zapzap",
-        "de.bund.ausweisapp.ausweisapp2",
         "de.halaszovich.PMbrowser",
         "io.github.hydrusnetwork.hydrus",
         "io.github.simple64.simple64",
@@ -531,6 +530,12 @@
         "org.strawberrymusicplayer.strawberry",
         "uk.org.zint.zint-qt"
     ],
+    "6.4": [
+        "de.bund.ausweisapp.ausweisapp2",
+        "io.qt.Designer",
+        "io.qt.Linguist",
+        "io.qt.qdbusviewer"
+    ],
     "5.12": [
         "de.ifw_dresden.nagstamon",
         "de.rwth_aachen.ient.RDPlot",
@@ -538,11 +543,6 @@
         "io.liri.Calculator",
         "io.liri.Text",
         "org.rolisteam.rolisteam"
-    ],
-    "6.4": [
-        "io.qt.Designer",
-        "io.qt.Linguist",
-        "io.qt.qdbusviewer"
     ],
     "5.9": [
         "io.qt.qtwebkit.BaseApp"

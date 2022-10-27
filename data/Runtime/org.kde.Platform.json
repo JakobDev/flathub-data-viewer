@@ -487,7 +487,6 @@
         "com.gitlab.tipp10.tipp10",
         "com.obsproject.Studio",
         "com.rtosta.zapzap",
-        "de.bund.ausweisapp.ausweisapp2",
         "de.halaszovich.PMbrowser",
         "io.github.hydrusnetwork.hydrus",
         "io.github.simple64.simple64",
@@ -522,6 +521,9 @@
         "org.rncbc.qtractor",
         "org.strawberrymusicplayer.strawberry",
         "uk.org.zint.zint-qt"
+    ],
+    "6.4": [
+        "de.bund.ausweisapp.ausweisapp2"
     ],
     "5.12": [
         "de.ifw_dresden.nagstamon",

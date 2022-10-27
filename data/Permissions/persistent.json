@@ -18,14 +18,6 @@
         "org.briarproject.Briar",
         "org.verapdf.veraPDF"
     ],
-    ".minecraft": [
-        "ch.tlaun.TL",
-        "com.lunarclient.LunarClient",
-        "com.mojang.Minecraft"
-    ],
-    ".tlauncher": [
-        "ch.tlaun.TL"
-    ],
     ".noiz2sa.prf": [
         "com.abagames.noiz2sa"
     ],
@@ -138,6 +130,10 @@
         "games.zetsubou.HumanityMustPerish",
         "games.zetsubou.MaxMassacre",
         "games.zetsubou.WanderNoMore"
+    ],
+    ".minecraft": [
+        "com.lunarclient.LunarClient",
+        "com.mojang.Minecraft"
     ],
     ".lunarclient": [
         "com.lunarclient.LunarClient"
