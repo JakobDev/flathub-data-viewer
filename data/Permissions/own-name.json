@@ -43,7 +43,6 @@
     "org.kde.statusnotifieritem-2-1": [
         "chat.schildi.desktop",
         "com.github.Qv2ray",
-        "com.github.vladimiry.ElectronMail",
         "com.toggl.TogglDesktop",
         "io.kopia.KopiaUI",
         "org.easycoding.TunedSwitcher",
@@ -84,7 +83,7 @@
     "org.mpris.mediaplayer2.cozy": [
         "com.github.geigi.cozy"
     ],
-    "org.mpris.mediaplayer2.com.gitee.gmg137.neteasecloudmusicgtk4": [
+    "org.mpris.mediaplayer2.com.github.gmg137.netease-cloud-music-gtk": [
         "com.github.gmg137.netease-cloud-music-gtk"
     ],
     "com.gitee.gmg137.neteasecloudmusicgtk4": [
