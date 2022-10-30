@@ -2375,7 +2375,6 @@
     ],
     "xdg-cache": [
         "com.github.cfcurtis.pdfstitcher",
-        "com.github.eneshecan.WhatsAppForLinux",
         "net.sourceforge.pdfchain",
         "org.gnome.gThumb"
     ],
@@ -2387,11 +2386,6 @@
     ],
     "/var/run/syslog": [
         "com.github.eneshecan.WhatsAppForLinux"
-    ],
-    "xdg-config": [
-        "com.github.eneshecan.WhatsAppForLinux",
-        "com.gitlab.cunidev.Gestures",
-        "com.tracktion.Waveform"
     ],
     "/var/tmp": [
         "com.github.ilai_deutel.kibi",
@@ -2546,6 +2540,10 @@
     ],
     "xdg-desktop:create": [
         "com.gitlab.JakobDev.jdMinecraftLauncher"
+    ],
+    "xdg-config": [
+        "com.gitlab.cunidev.Gestures",
+        "com.tracktion.Waveform"
     ],
     "~/.config/activitywatch": [
         "com.gitlab.cunidev.Workflow"

@@ -392,7 +392,6 @@
         "tv.kodi.Kodi",
         "tv.plex.PlexDesktop",
         "tv.plex.PlexHTPC",
-        "tw.ddnet.ddnet",
         "uk.co.electronstudio.ComicReaderUltimate",
         "uk.co.powdertoy.tpt",
         "us.zoom.Zoom",
@@ -738,6 +737,7 @@
         "sh.ppy.osu",
         "social.whalebird.WhalebirdDesktop",
         "tech.feliciano.pocket-casts",
+        "tw.ddnet.ddnet",
         "uk.co.parallelrealities.games.edgar",
         "ws.openarena.OpenArena",
         "xyz.stuerz.BilligSweeper"

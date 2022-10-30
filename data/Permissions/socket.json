@@ -2357,6 +2357,7 @@
         "io.github.lainsce.Quilter",
         "io.github.leonardschardijn.Chirurgien",
         "io.github.lethal_guitar.RigelEngine",
+        "io.github.letslearn_app.letslearn",
         "io.github.limads.Queries",
         "io.github.markummitchell.Engauge_Digitizer",
         "io.github.martinrotter.textosaurus",
@@ -3454,6 +3455,7 @@
         "io.github.lainsce.Quilter",
         "io.github.leonardschardijn.Chirurgien",
         "io.github.lethal_guitar.RigelEngine",
+        "io.github.letslearn_app.letslearn",
         "io.github.limads.Queries",
         "io.github.markummitchell.Engauge_Digitizer",
         "io.github.mgerhardy.vengi.voxedit",
@@ -4928,22 +4930,6 @@
         "se.cendio.tlclient",
         "uk.org.zint.zint-qt"
     ],
-    "system-bus": [
-        "com.github.eneshecan.WhatsAppForLinux",
-        "com.tutanota.Tutanota",
-        "io.brackets.Brackets",
-        "io.github.betaflight.BetaflightConfigurator",
-        "io.github.bothlab.syntalos",
-        "io.jamulus.Jamulus",
-        "io.qt.qdbusviewer",
-        "org.codeblocks.codeblocks",
-        "org.freedesktop.Bustle",
-        "org.gabmus.whatip",
-        "org.gnome.Builder",
-        "org.gnome.dfeet",
-        "org.gnome.dspy",
-        "vn.hoabinh.quan.CoBang"
-    ],
     "session-bus": [
         "com.github.naaando.lyrics",
         "com.hack_computer.Clubhouse",
@@ -4969,6 +4955,21 @@
         "org.gnome.dspy",
         "org.xfce.ristretto",
         "re.sonny.Workbench",
+        "vn.hoabinh.quan.CoBang"
+    ],
+    "system-bus": [
+        "com.tutanota.Tutanota",
+        "io.brackets.Brackets",
+        "io.github.betaflight.BetaflightConfigurator",
+        "io.github.bothlab.syntalos",
+        "io.jamulus.Jamulus",
+        "io.qt.qdbusviewer",
+        "org.codeblocks.codeblocks",
+        "org.freedesktop.Bustle",
+        "org.gabmus.whatip",
+        "org.gnome.Builder",
+        "org.gnome.dfeet",
+        "org.gnome.dspy",
         "vn.hoabinh.quan.CoBang"
     ]
 }
