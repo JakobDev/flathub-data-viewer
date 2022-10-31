@@ -233,6 +233,7 @@
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
+    "org.tabos.banking",
     "org.tuxpaint.Tuxpaint",
     "org.upnproutercontrol.UPnPRouterControl",
     "org.widelands.Widelands",

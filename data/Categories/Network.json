@@ -217,6 +217,7 @@
     "org.signal.Signal",
     "org.sparkleshare.SparkleShare",
     "org.syphon.Syphon",
+    "org.tabos.banking",
     "org.tabos.maxcontrol",
     "org.tabos.roger",
     "org.telegram",

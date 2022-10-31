@@ -1,4 +1,5 @@
 [
     "ch.tlaun.TL",
-    "com.github.devalien.workspaces"
+    "com.github.devalien.workspaces",
+    "org.contourterminal.Contour"
 ]

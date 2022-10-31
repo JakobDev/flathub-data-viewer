@@ -311,6 +311,8 @@
         "org.mobsya.ThymioSuite",
         "org.musicbrainz.Picard",
         "org.mypaint.MyPaint",
+        "org.nickvision.money",
+        "org.nickvision.tagger",
         "org.nmap.Zenmap",
         "org.nomacs.ImageLounge",
         "org.openchemistry.Avogadro2",
@@ -1888,7 +1890,6 @@
         "org.mapeditor.Tiled",
         "org.mattbas.Glaxnimate",
         "org.musescore.MuseScore",
-        "org.nickvision.tagger",
         "org.nickvision.tubeconverter",
         "org.nicotine_plus.Nicotine",
         "org.nongnu.gsequencer.gsequencer",
@@ -2166,12 +2167,6 @@
     ],
     "xdg-download/BiglyBT Downloads:create": [
         "com.biglybt.BiglyBT"
-    ],
-    "xdg-data": [
-        "com.boxy_svg.BoxySVG",
-        "org.chocolate_doom.ChocolateDoom",
-        "org.eyecreate.qiflora",
-        "org.eyecreate.vehiclevoyage"
     ],
     "xdg-desktop": [
         "com.boxy_svg.BoxySVG",
@@ -2977,6 +2972,11 @@
         "org.btchd.btchd-qt",
         "org.groestlcoin.groestlcoin-qt",
         "org.vertcoin.vertcoin-qt"
+    ],
+    "xdg-data": [
+        "org.chocolate_doom.ChocolateDoom",
+        "org.eyecreate.qiflora",
+        "org.eyecreate.vehiclevoyage"
     ],
     "xdg-run/org.keepassxc.KeePassXC.BrowserServer": [
         "org.cryptomator.Cryptomator"

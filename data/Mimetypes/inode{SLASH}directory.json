@@ -10,6 +10,7 @@
     "io.atom.Atom",
     "io.bassi.Amberol",
     "net.filebot.FileBot",
+    "org.contourterminal.Contour",
     "org.cubocore.CoreFM",
     "org.gnome.EasyTAG",
     "org.gnome.baobab",
