@@ -489,7 +489,6 @@
         "com.rtosta.zapzap",
         "de.halaszovich.PMbrowser",
         "io.github.hydrusnetwork.hydrus",
-        "io.github.simple64.simple64",
         "io.mrarm.mcpelauncher",
         "me.mitya57.ReText",
         "net.davidotek.pupgui2",
@@ -523,7 +522,8 @@
         "uk.org.zint.zint-qt"
     ],
     "6.4": [
-        "de.bund.ausweisapp.ausweisapp2"
+        "de.bund.ausweisapp.ausweisapp2",
+        "io.github.simple64.simple64"
     ],
     "5.12": [
         "de.ifw_dresden.nagstamon",

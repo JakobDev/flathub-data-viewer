@@ -1,5 +1,6 @@
 [
     "com.github.cassidyjames.dippi",
+    "io.github.jorchube.monitorets",
     "io.github.rafaelfassi.QLogExplorer",
     "org.freedesktop.Bustle",
     "org.gabmus.hydrapaper"
