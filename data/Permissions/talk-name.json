@@ -2264,7 +2264,6 @@
     ],
     "org.freedesktop.flatpak.*": [
         "com.borgbase.Vorta",
-        "io.github.am2r_community_developers.AM2RLauncher",
         "org.gnome.World.PikaBackup"
     ],
     "org.freedesktop.dbus.*": [

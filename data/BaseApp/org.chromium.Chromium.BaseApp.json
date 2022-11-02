@@ -1,11 +1,11 @@
 {
-    "21.08": [
-        "com.brave.Browser",
-        "com.github.Eloston.UngoogledChromium",
-        "com.google.ChromeDev"
-    ],
     "22.08": [
+        "com.brave.Browser",
         "com.google.Chrome",
         "com.microsoft.Edge"
+    ],
+    "21.08": [
+        "com.github.Eloston.UngoogledChromium",
+        "com.google.ChromeDev"
     ]
 }

@@ -653,6 +653,7 @@
         "dev.lapce.lapce",
         "dev.linwood.butterfly",
         "dev.lukebriggs.pepys",
+        "dev.storyapps.starc",
         "dev.tchx84.Portfolio",
         "dev.vieb.Vieb",
         "dev.zelikos.rollit",
@@ -3011,7 +3012,6 @@
         "org.tuxfamily.hatari",
         "org.unknown_horizons.UnknownHorizons",
         "org.upnproutercontrol.UPnPRouterControl",
-        "org.vim.Vim",
         "org.wesnoth.Wesnoth",
         "org.wesnoth.Wesnoth",
         "org.wezfurlong.wezterm",
@@ -4245,6 +4245,7 @@
         "dev.bsnes.bsnes",
         "dev.goats.xivlauncher",
         "dev.lukebriggs.pepys",
+        "dev.storyapps.starc",
         "dev.vieb.Vieb",
         "dk.tangramgames.mrrescue",
         "edu.berkeley.BOINC",
@@ -4981,5 +4982,8 @@
         "org.gnome.dfeet",
         "org.gnome.dspy",
         "vn.hoabinh.quan.CoBang"
+    ],
+    "gpg-agent": [
+        "io.github.shiftey.Desktop"
     ]
 }

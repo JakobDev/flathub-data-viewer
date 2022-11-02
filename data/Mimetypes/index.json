@@ -849,6 +849,7 @@
         "application{SLASH}x-sqlitebrowser",
         "application{SLASH}x-ssh-key",
         "application{SLASH}x-st-disk-image",
+        "application{SLASH}x-starc-project",
         "application{SLASH}x-starmade",
         "application{SLASH}x-stellarium-script",
         "application{SLASH}x-stmprg-spm",

@@ -1,5 +1,6 @@
 [
     "com.agatanawrot.karambola",
+    "io.github.am2r_community_developers.AM2RLauncher",
     "org.musicbrainz.Picard",
     "org.qgis.qgis"
 ]

@@ -21,6 +21,7 @@
     "io.sourceforge.pysolfc.PySolFC",
     "net.epson.epsonscan2",
     "net.minetest.Minetest",
+    "net.supertuxkart.SuperTuxKart",
     "org.apache.jmeter",
     "org.freedesktop.appstream-glib",
     "org.freedesktop.appstream.cli",

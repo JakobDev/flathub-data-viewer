@@ -1429,6 +1429,7 @@
         "com.wps.Office",
         "com.zettlr.Zettlr",
         "de.halaszovich.PMbrowser",
+        "dev.storyapps.starc",
         "dev.vieb.Vieb",
         "fr.free.hxc2001.HxCFloppyEmulator",
         "io.github.chris2511.xca",
@@ -2182,6 +2183,7 @@
         "com.heroicgameslauncher.hgl",
         "com.ktechpit.whatsie",
         "com.viber.Viber",
+        "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.jacalz.rymdport",
         "io.github.qtox.qTox",
         "io.wavebox.Wavebox",
@@ -2252,7 +2254,6 @@
         "com.gitlab.inendi.Inspector",
         "com.rawtherapee.RawTherapee",
         "com.zettlr.Zettlr",
-        "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.maurycyliebner.enve",
         "io.github.nroduit.Weasis",
         "io.github.quodlibet.ExFalso",
@@ -2717,7 +2718,6 @@
     ],
     "~/.gnupg": [
         "eu.betterbird.Betterbird",
-        "io.github.shiftey.Desktop",
         "org.gajim.Gajim",
         "org.gnome.Evolution",
         "org.mozilla.Thunderbird"
@@ -2754,9 +2754,6 @@
     ],
     "xdg-data/zsh/site-functions:create": [
         "io.github.Foldex.r2mod"
-    ],
-    "xdg-data/apktool:create": [
-        "io.github.am2r_community_developers.AM2RLauncher"
     ],
     "/srv": [
         "io.github.bothlab.pomidaq",
@@ -2842,13 +2839,6 @@
     ],
     "~/GOG Games:create": [
         "io.github.sharkwouter.Minigalaxy"
-    ],
-    "xdg-config/gnupg": [
-        "io.github.shiftey.Desktop",
-        "org.gnome.Evolution"
-    ],
-    "xdg-run/gnupg": [
-        "io.github.shiftey.Desktop"
     ],
     "/opt:ro": [
         "io.github.shiftey.Desktop"
@@ -3077,6 +3067,9 @@
         "org.gnome.Evolution"
     ],
     "~/.pki": [
+        "org.gnome.Evolution"
+    ],
+    "xdg-config/gnupg": [
         "org.gnome.Evolution"
     ],
     "xdg-config/fontconfig:create": [

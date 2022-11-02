@@ -1,6 +1,7 @@
 [
     "com.github.vikdevelop.photopea_app",
     "dev.vieb.Vieb",
+    "io.github.shiftey.Desktop",
     "me.aandrew.ytdownloader",
     "org.gnome.Builder",
     "space.crankshaft.Crankshaft",
