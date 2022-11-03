@@ -1540,6 +1540,7 @@
         "org.inkscape.Inkscape",
         "org.libreoffice.LibreOffice",
         "org.libvips.vipsdisp",
+        "org.onlyoffice.desktopeditors",
         "org.remmina.Remmina",
         "work.openpaper.Paperwork"
     ],
@@ -2138,6 +2139,7 @@
         "org.kde.krita",
         "org.keepassxc.KeePassXC",
         "org.nicotine_plus.Nicotine",
+        "org.onlyoffice.desktopeditors",
         "org.videolan.VLC",
         "org.xfce.mousepad",
         "org.xfce.ristretto"
@@ -2929,6 +2931,12 @@
     ],
     "~/.var/app/net.lutris.Lutris/data/lutris/pga.db:ro": [
         "net.davidotek.pupgui2"
+    ],
+    "xdg-run/app/com.discordapp.Discord:ro": [
+        "net.openra.OpenRA"
+    ],
+    "xdg-run/app/com.discordapp.DiscordCanary:ro": [
+        "net.openra.OpenRA"
     ],
     "~/retrodeck:create": [
         "net.retrodeck.retrodeck"

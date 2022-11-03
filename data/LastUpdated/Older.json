@@ -640,7 +640,6 @@
     "org.freedesktop.Sdk.Extension.llvm11",
     "org.freedesktop.Sdk.Extension.llvm12",
     "org.freedesktop.Sdk.Extension.mono5",
-    "org.freedesktop.Sdk.Extension.mono6",
     "org.freedesktop.Sdk.Extension.node10",
     "org.freedesktop.Sdk.Extension.texlive",
     "org.gimp.GIMP.Manual",
