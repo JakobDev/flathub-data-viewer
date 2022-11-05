@@ -1,5 +1,6 @@
 [
     "com.lakoliu.Furtherance",
     "com.toggl.TogglDesktop",
+    "io.github.fsobolev.TimeSwitch",
     "org.gnome.clocks"
 ]

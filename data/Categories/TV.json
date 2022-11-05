@@ -4,6 +4,7 @@
     "com.github.iwalton3.jellyfin-mpv-shim",
     "com.github.rafostar.Clapper",
     "com.stremio.Stremio",
+    "de.mediathekview.MediathekView",
     "io.github.celluloid_player.Celluloid",
     "io.mpv.Mpv",
     "org.kde.haruna",

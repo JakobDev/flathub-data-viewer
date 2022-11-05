@@ -25,6 +25,7 @@
         "org.gnome.Builder",
         "org.kde.kdevelop",
         "pm.mirko.Atoms",
+        "re.rizin.cutter",
         "ua.org.brezblock.q4wine"
     ],
     "multiarch": [

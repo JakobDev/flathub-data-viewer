@@ -128,7 +128,6 @@
         "net.dengine.Doomsday",
         "net.drawpile.drawpile",
         "net.granjow.slowmovideo",
-        "net.kuribo64.melonDS",
         "net.mediaarea.DVAnalyzer",
         "net.mediaarea.MediaConch",
         "net.meshlab.MeshLab",
@@ -395,6 +394,7 @@
         "net.epson.epsonscan2",
         "net.fasterland.converseen",
         "net.fsuae.FS-UAE",
+        "net.kuribo64.melonDS",
         "net.kvirc.KVIrc",
         "net.rpcs3.RPCS3",
         "net.sonic_pi.SonicPi",
@@ -420,6 +420,7 @@
         "org.thentrythis.Samplebrain",
         "org.wireshark.Wireshark",
         "re.chiaki.Chiaki",
+        "re.rizin.cutter",
         "studio.kx.carla"
     ],
     "5.15": [

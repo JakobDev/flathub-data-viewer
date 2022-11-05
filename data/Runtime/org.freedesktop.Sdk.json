@@ -21,6 +21,7 @@
         "net.blix.BlueMail",
         "org.codeblocks.codeblocks",
         "org.geany.Geany",
+        "org.ghidra_sre.Ghidra",
         "org.gnu.emacs",
         "org.kicad.KiCad",
         "org.scintilla.SciTE",
@@ -46,7 +47,6 @@
         "io.stoplight.studio",
         "org.apache.netbeans",
         "org.flathub.flatpak-external-data-checker",
-        "org.ghidra_sre.Ghidra",
         "org.scilab.Scilab"
     ],
     "19.08": [
