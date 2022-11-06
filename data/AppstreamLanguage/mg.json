@@ -1,6 +1,5 @@
 [
     "org.gnome.Calculator",
     "org.gnome.Evince",
-    "org.gnome.eog",
-    "org.gnome.gedit"
+    "org.gnome.eog"
 ]

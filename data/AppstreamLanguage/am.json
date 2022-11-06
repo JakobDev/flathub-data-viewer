@@ -2,7 +2,6 @@
     "org.gnome.FontManager",
     "org.gnome.atomix",
     "org.gnome.eog",
-    "org.gnome.gedit",
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator"
 ]

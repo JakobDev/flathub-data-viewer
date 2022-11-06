@@ -7,6 +7,5 @@
     "org.gnome.FileRoller",
     "org.gnome.Rhythmbox3",
     "org.gnome.baobab",
-    "org.gnome.eog",
-    "org.gnome.gedit"
+    "org.gnome.eog"
 ]

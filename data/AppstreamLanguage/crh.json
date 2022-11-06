@@ -1,6 +1,5 @@
 [
     "org.gnome.Dictionary",
     "org.gnome.Totem",
-    "org.gnome.baobab",
-    "org.gnome.gedit"
+    "org.gnome.baobab"
 ]

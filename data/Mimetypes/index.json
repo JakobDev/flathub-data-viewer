@@ -955,6 +955,7 @@
         "application{SLASH}x-yaml",
         "application{SLASH}x-zeiss-czi-spm",
         "application{SLASH}x-zeiss-lsm-spm",
+        "application{SLASH}x-zerosize",
         "application{SLASH}x-zim-notebook",
         "application{SLASH}x-zip",
         "application{SLASH}x-zip-compressed",

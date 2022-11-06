@@ -2,6 +2,5 @@
     "com.notesnook.Notesnook",
     "io.github.lainsce.Notejot",
     "org.gnome.TextEditor",
-    "org.gnome.gedit",
     "org.kde.kwrite"
 ]
