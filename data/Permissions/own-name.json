@@ -1,6 +1,7 @@
 {
     "org.kde.*": [
         "app.lith.Lith",
+        "chat.schildi.desktop",
         "com.borgbase.Vorta",
         "com.calibre_ebook.calibre",
         "com.codemouse92.timecard",
@@ -40,14 +41,6 @@
     "org.mpris.mediaplayer2.youtubemusic": [
         "app.ytmdesktop.ytmdesktop"
     ],
-    "org.kde.statusnotifieritem-2-1": [
-        "chat.schildi.desktop",
-        "com.github.Qv2ray",
-        "com.toggl.TogglDesktop",
-        "io.kopia.KopiaUI",
-        "org.easycoding.TunedSwitcher",
-        "ru.proninyaroslav.libretrack"
-    ],
     "org.mpris.mediaplayer2.headset": [
         "co.headsetapp.headset"
     ],
@@ -73,6 +66,13 @@
     ],
     "org.mpris.mediaplayer2.spotube": [
         "com.github.KRTirtho.Spotube"
+    ],
+    "org.kde.statusnotifieritem-2-1": [
+        "com.github.Qv2ray",
+        "com.toggl.TogglDesktop",
+        "io.kopia.KopiaUI",
+        "org.easycoding.TunedSwitcher",
+        "ru.proninyaroslav.libretrack"
     ],
     "org.mpris.mediaplayer2.com.github.artemanufrij.playmymusic": [
         "com.github.artemanufrij.playmymusic"
