@@ -194,6 +194,7 @@
     "org.gajim.Gajim.Plugin.omemo",
     "org.gajim.Gajim.Plugin.openpgp",
     "org.gajim.Gajim.Plugin.pgp",
+    "org.gnome.Crosswords.PuzzleSets.gnome",
     "org.gnome.Crosswords.PuzzleSets.keesing",
     "org.gnome.Crosswords.PuzzleSets.puzzlepull",
     "org.gnome.Crosswords.PuzzleSets.pzzl",

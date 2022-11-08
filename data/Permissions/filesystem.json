@@ -1560,7 +1560,6 @@
         "com.carpeludum.KegaFusion",
         "com.corsixth.corsixth",
         "com.endlessm.HatchPreviewer",
-        "com.github.alexkdeveloper.desktop-files-creator",
         "com.github.keriew.augustus",
         "com.github.maoschanz.DynamicWallpaperEditor",
         "com.github.marinm.songrec",
@@ -1620,7 +1619,6 @@
         "net.poedit.Poedit",
         "nl.g4d.Girens",
         "org.bluej.BlueJ",
-        "org.cvfosammmm.Setzer",
         "org.eclipse.iot.fourdiac.Ide",
         "org.freac.freac",
         "org.freedesktop.GstDebugViewer",
@@ -1660,7 +1658,6 @@
         "net.poedit.Poedit",
         "nl.g4d.Girens",
         "org.bluej.BlueJ",
-        "org.cvfosammmm.Setzer",
         "org.freac.freac",
         "org.freedesktop.GstDebugViewer",
         "org.gabmus.hydrapaper",
@@ -2355,11 +2352,10 @@
     "xdg-pictures/RMG:create": [
         "com.github.Rosalie241.RMG"
     ],
-    "xdg-data/applications:create": [
+    "~/.local/share/applications": [
         "com.github.alexkdeveloper.desktop-files-creator",
-        "com.github.donadigo.appeditor",
-        "com.gitlab.JakobDev.jdMinecraftLauncher",
-        "org.bluesabre.MenuLibre"
+        "com.github.ryonakano.pinit",
+        "org.kde.angelfish"
     ],
     "xdg-config/autostart:create": [
         "com.github.bluesabre.darkbar",
@@ -2386,6 +2382,11 @@
     ],
     "~/.Xilinx:create": [
         "com.github.corna.Vivado"
+    ],
+    "xdg-data/applications:create": [
+        "com.github.donadigo.appeditor",
+        "com.gitlab.JakobDev.jdMinecraftLauncher",
+        "org.bluesabre.MenuLibre"
     ],
     "/dev/log": [
         "com.github.eneshecan.WhatsAppForLinux"
@@ -2497,10 +2498,6 @@
         "org.cubocore.CoreFM",
         "org.purei.Play",
         "org.yuzu_emu.yuzu"
-    ],
-    "~/.local/share/applications": [
-        "com.github.ryonakano.pinit",
-        "org.kde.angelfish"
     ],
     "xdg-run/podman/podman.sock": [
         "com.github.sdv43.whaler"

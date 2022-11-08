@@ -155,6 +155,7 @@
     "org.upnproutercontrol.UPnPRouterControl",
     "org.xiphos.Xiphos",
     "org.freedesktop.Sdk.Extension.vala",
+    "org.gnome.Crosswords.PuzzleSets.gnome",
     "org.gnome.Crosswords.PuzzleSets.keesing",
     "org.gnome.Crosswords.PuzzleSets.puzzlepull",
     "org.gnome.Crosswords.PuzzleSets.pzzl",

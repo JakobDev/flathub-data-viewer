@@ -4,7 +4,8 @@
         "com.endlessm.HatchPreviewer",
         "io.github.Figma_Linux.figma_linux",
         "io.github.liberodark.OpenDrive",
-        "io.webtorrent.WebTorrent"
+        "io.webtorrent.WebTorrent",
+        "org.js.nuclear.Nuclear"
     ],
     "21.08": [
         "app.moosync.moosync",
@@ -29,7 +30,6 @@
         "com.googleplaymusicdesktopplayer.GPMDP",
         "com.greyrook.siptop",
         "com.inklestudios.Inky",
-        "com.logseq.Logseq",
         "com.mattermost.Desktop",
         "com.meetfranz.Franz",
         "com.mongodb.Compass",
@@ -73,7 +73,6 @@
         "org.geogebra.GeoGebra",
         "org.jamovi.jamovi",
         "org.jitsi.jitsi-meet",
-        "org.js.nuclear.Nuclear",
         "org.nanuc.Axolotl",
         "org.sugarlabs.MusicBlocks",
         "org.turbowarp.TurboWarp",
@@ -99,6 +98,7 @@
         "com.github.vikdevelop.photopea_app",
         "com.github.vladimiry.ElectronMail",
         "com.heroicgameslauncher.hgl",
+        "com.logseq.Logseq",
         "com.lunarclient.LunarClient",
         "com.microsoft.Teams",
         "com.nordpass.NordPass",
