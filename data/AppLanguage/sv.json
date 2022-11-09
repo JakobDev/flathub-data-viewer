@@ -46,6 +46,7 @@
     "io.github.Qalculate",
     "io.github.TransmissionRemoteGtk",
     "io.github.celluloid_player.Celluloid",
+    "io.github.fsobolev.TimeSwitch",
     "io.github.lainsce.DotMatrix",
     "io.github.lainsce.Khronos",
     "io.github.lainsce.Notejot",
