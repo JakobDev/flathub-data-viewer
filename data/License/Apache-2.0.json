@@ -38,6 +38,7 @@
     "org.apache.jmeter",
     "org.apache.netbeans",
     "org.contourterminal.Contour",
+    "org.deidentifier.arx",
     "org.ferdium.Ferdium",
     "org.gaphor.Gaphor",
     "org.ghidra_sre.Ghidra",

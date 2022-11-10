@@ -365,6 +365,7 @@
     "org.cubocore.CoreTime",
     "org.darktable.Darktable",
     "org.dash.electrum.electrum_dash",
+    "org.deidentifier.arx",
     "org.dhewm3.Dhewm3",
     "org.duckstation.DuckStation",
     "org.eclipse.Java",

@@ -281,6 +281,7 @@
     "org.cubocore.CoreShot",
     "org.cubocore.CoreStats",
     "org.cubocore.CoreTime",
+    "org.deidentifier.arx",
     "org.easycoding.TunedSwitcher",
     "org.emilien.Password",
     "org.eyecreate.qiflora",

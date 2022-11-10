@@ -25,6 +25,7 @@
     "net.supertuxkart.SuperTuxKart",
     "org.apache.jmeter",
     "org.blackfennec.app",
+    "org.deidentifier.arx",
     "org.freedesktop.appstream-glib",
     "org.freedesktop.appstream.cli",
     "org.horizon_eda.HorizonEDA",

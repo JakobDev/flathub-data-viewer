@@ -227,6 +227,7 @@
         "net.meshlab.MeshLab",
         "net.poedit.Poedit",
         "net.rpdev.OpenTodoList",
+        "net.seamly.seamly2d",
         "net.sf.VICE",
         "net.sf.fuse_emulator",
         "net.sf.nootka",
@@ -844,6 +845,7 @@
         "net.rpcs3.RPCS3",
         "net.rpdev.OpenTodoList",
         "net.scribus.Scribus",
+        "net.seamly.seamly2d",
         "net.sf.metronomek",
         "net.sf.nootka",
         "net.shrew.ike.qikea",
@@ -1284,6 +1286,7 @@
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.mastermindzh.tidal-hifi",
         "com.valvesoftware.Steam",
+        "dev.hdos.HDOS",
         "io.github.hmlendea.geforcenow-electron",
         "io.github.shiiion.primehack",
         "md.obsidian.Obsidian",
@@ -2717,6 +2720,9 @@
     ],
     "xdg-data/tubefeeder:create": [
         "de.schmidhuberj.tubefeeder"
+    ],
+    "~/hdos:create": [
+        "dev.hdos.HDOS"
     ],
     "~/.wallpaperdownloader:create": [
         "es.estoes.wallpaperDownloader"
