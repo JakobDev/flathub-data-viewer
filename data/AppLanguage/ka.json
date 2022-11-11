@@ -35,6 +35,7 @@
     "org.gnome.World.Secrets",
     "org.gnome.atomix",
     "org.gnome.clocks",
+    "org.gnome.design.IconLibrary",
     "org.gnome.eog",
     "org.gnome.font-viewer",
     "org.gnome.gedit",

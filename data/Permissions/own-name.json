@@ -349,9 +349,6 @@
     "org.mpris.mediaplayer2.totem": [
         "org.gnome.Totem"
     ],
-    "org.gnome.design.iconlibrary.searchprovider": [
-        "org.gnome.design.IconLibrary"
-    ],
     "org.gpodder.*": [
         "org.gpodder.gpodder-adaptive"
     ],

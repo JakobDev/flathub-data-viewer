@@ -20,6 +20,7 @@
         "io.neovim.nvim",
         "net.blix.BlueMail",
         "org.codeblocks.codeblocks",
+        "org.flathub.flatpak-external-data-checker",
         "org.geany.Geany",
         "org.ghidra_sre.Ghidra",
         "org.gnu.emacs",
@@ -46,7 +47,6 @@
         "io.github.nroduit.Weasis",
         "io.stoplight.studio",
         "org.apache.netbeans",
-        "org.flathub.flatpak-external-data-checker",
         "org.scilab.Scilab"
     ],
     "19.08": [

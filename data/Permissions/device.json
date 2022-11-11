@@ -1429,6 +1429,7 @@
         "org.apache.netbeans",
         "org.ardour.Ardour",
         "org.audacityteam.Audacity",
+        "org.bino3d.bino",
         "org.bitfighter.Bitfighter",
         "org.bzflag.BZFlag",
         "org.chromium.Chromium",

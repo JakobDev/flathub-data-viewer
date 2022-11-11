@@ -119,7 +119,6 @@
         "io.itch.azagaya.Laigter",
         "io.jamulus.Jamulus",
         "io.mgba.mGBA",
-        "io.photoflare.photoflare",
         "io.sourceforge.pentobi",
         "io.sourceforge.qoobar.Qoobar",
         "net.dengine.Doomsday",
@@ -388,6 +387,7 @@
         "io.github.muse_sequencer.Muse",
         "io.github.peazip.PeaZip",
         "io.lmms.LMMS",
+        "io.photoflare.photoflare",
         "net._86box._86Box",
         "net.codeindustry.MasterPDFEditor",
         "net.epson.epsonscan2",
@@ -525,7 +525,8 @@
     ],
     "6.4": [
         "de.bund.ausweisapp.ausweisapp2",
-        "io.github.simple64.simple64"
+        "io.github.simple64.simple64",
+        "org.bino3d.bino"
     ],
     "5.12": [
         "de.ifw_dresden.nagstamon",

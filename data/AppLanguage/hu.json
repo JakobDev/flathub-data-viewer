@@ -115,6 +115,7 @@
     "org.gnome.design.Contrast",
     "org.gnome.design.IconLibrary",
     "org.gnome.design.Palette",
+    "org.gnome.design.SymbolicPreview",
     "org.gnome.dfeet",
     "org.gnome.eog",
     "org.gnome.five-or-more",
