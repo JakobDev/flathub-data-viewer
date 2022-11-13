@@ -1,7 +1,9 @@
 [
     "com.atlauncher.ATLauncher",
     "com.biglybt.BiglyBT",
+    "com.github.Anuken.Mindustry",
     "com.github.nrittsti.NTag",
+    "com.github.reds.LogisimEvolution",
     "com.github.skylot.jadx",
     "com.gitlab.JakobDev.jdMinecraftLauncher",
     "com.gluonhq.SceneBuilder",

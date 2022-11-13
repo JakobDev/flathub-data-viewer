@@ -2436,7 +2436,6 @@
     "org.gtk.vfs": [
         "com.github.calo001.fondo",
         "com.lettier.movie-monad",
-        "io.github.celluloid_player.Celluloid",
         "org.glimpse_editor.Glimpse",
         "org.gnome.Totem",
         "org.gnome.World.PikaBackup",

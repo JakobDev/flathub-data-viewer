@@ -306,6 +306,7 @@
     "xyz.mx_moment.moment",
     "com.visualstudio.code.tool.podman",
     "io.github.peazip.PeaZip.Addon.i386",
+    "org.freedesktop.LinuxAudio.Plugins.Geonkick",
     "org.freedesktop.LinuxAudio.Plugins.Guitarix",
     "org.freedesktop.LinuxAudio.Plugins.SonoBus",
     "org.freedesktop.LinuxAudio.Plugins.ZynFusion",
