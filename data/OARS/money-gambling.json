@@ -244,6 +244,7 @@
         "dev.hdos.HDOS",
         "net.brinkervii.grapejuice",
         "net.runelite.RuneLite",
+        "org._2009scape.Launcher",
         "vet.rsc.OpenRSC.Launcher"
     ],
     "intense": [

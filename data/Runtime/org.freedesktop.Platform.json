@@ -209,7 +209,6 @@
         "io.github.sameboy.SameBoy",
         "io.github.stella_emu.Stella",
         "io.github.tofudd.lanchat.terminal",
-        "io.github.torbuntu.Leikr",
         "io.github.trackballs.Trackballs",
         "io.github.yairm210.unciv",
         "io.gitlab.Goodvibes",
@@ -388,7 +387,6 @@
         "com.gitlab.inendi.Inspector",
         "com.inventwithpython.flippy",
         "com.locomalito.abbayedesmorts",
-        "com.moddb.TotalChaos",
         "com.pypyrev.linuxdcpp",
         "com.scoutshonour.dtipbijays",
         "com.sigmyne.crush",
@@ -518,6 +516,7 @@
         "com.microsoft.Edge",
         "com.microsoft.Teams",
         "com.milesalan.mepo",
+        "com.moddb.TotalChaos",
         "com.mojang.Minecraft",
         "com.nordpass.NordPass",
         "com.notesnook.Notesnook",
@@ -584,6 +583,7 @@
         "io.github.openhv.OpenHV",
         "io.github.paulwedeck.settlers-remake",
         "io.github.philipk.boilr",
+        "io.github.sharkwouter.oceanpop",
         "io.github.shiftey.Desktop",
         "io.github.spacingbat3.webcord",
         "io.gitlab.celleron56.libretile",
@@ -631,6 +631,7 @@
         "net.werwolv.ImHex",
         "network.loki.Session",
         "one.ablaze.floorp",
+        "org._2009scape.Launcher",
         "org.apache.jmeter",
         "org.ardour.Ardour",
         "org.armagetronad.ArmagetronAdvanced",
@@ -682,6 +683,7 @@
         "org.supertuxproject.SuperTux",
         "org.surge_synth_team.surge-xt",
         "org.taisei_project.Taisei",
+        "org.tuxfamily.StuntRally",
         "org.tuxfamily.hatari",
         "org.wesnoth.Wesnoth",
         "org.wesnoth.Wesnoth",
@@ -699,6 +701,7 @@
         "tw.ddnet.ddnet",
         "uk.co.parallelrealities.games.edgar",
         "ws.openarena.OpenArena",
+        "xyz.rescribe.rescribe",
         "xyz.stuerz.BilligSweeper"
     ],
     "18.08": [
@@ -707,8 +710,7 @@
         "io.ark.Desktop",
         "io.github.openWMail.openWMail",
         "io.gitlab.osslugaru.Lugaru",
-        "org.gnome.Tomboy",
-        "org.tuxfamily.StuntRally"
+        "org.gnome.Tomboy"
     ],
     "19.08": [
         "com.github.matfantinel.moneta",

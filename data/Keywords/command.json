@@ -1,4 +1,5 @@
 [
     "com.raggesilver.BlackBox",
+    "io.github.fsobolev.TimeSwitch",
     "org.wezfurlong.wezterm"
 ]

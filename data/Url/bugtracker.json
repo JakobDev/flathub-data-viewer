@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.cantara.Cantara",
     "app.drey.Blurble",
     "app.drey.Dialect",
     "app.drey.KeyRack",
@@ -576,7 +577,6 @@
     "io.github.tcobbs.LDView",
     "io.github.technic.e2designer",
     "io.github.thiefmd.themegenerator",
-    "io.github.torbuntu.Leikr",
     "io.github.torrent_file_editor.Torrent-file-editor",
     "io.github.trackballs.Trackballs",
     "io.github.trevorsandy.LPub3D",

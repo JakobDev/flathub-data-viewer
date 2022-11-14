@@ -1,5 +1,6 @@
 [
     "app.bluebubbles.BlueBubbles",
+    "app.cantara.Cantara",
     "app.drey.Blurble",
     "app.drey.Dialect",
     "app.drey.EarTag",
@@ -664,6 +665,7 @@
     "io.github.seadve.Breathing",
     "io.github.seadve.Kooha",
     "io.github.seadve.Mousai",
+    "io.github.sharkwouter.oceanpop",
     "io.github.shiiion.primehack",
     "io.github.spacingbat3.webcord",
     "io.github.stella_emu.Stella",
@@ -671,7 +673,6 @@
     "io.github.technic.e2designer",
     "io.github.thiefmd.themegenerator",
     "io.github.tofudd.lanchat.terminal",
-    "io.github.torbuntu.Leikr",
     "io.github.torrent_file_editor.Torrent-file-editor",
     "io.github.trackballs.Trackballs",
     "io.github.trigg.discover_overlay",
@@ -1530,6 +1531,7 @@
     "ws.openarena.OpenArena",
     "xyz.ljoonal.neospeeps",
     "xyz.mx_moment.moment",
+    "xyz.rescribe.rescribe",
     "xyz.stuerz.BilligSweeper",
     "xyz.xclicker.xclicker",
     "xyz.z3ntu.razergenie"

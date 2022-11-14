@@ -1,5 +1,6 @@
 [
     "com.github.unrud.djpdf",
     "org.gnome.OCRFeeder",
-    "work.openpaper.Paperwork"
+    "work.openpaper.Paperwork",
+    "xyz.rescribe.rescribe"
 ]

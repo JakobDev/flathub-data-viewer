@@ -1,4 +1,5 @@
 [
+    "app.cantara.Cantara",
     "app.rednotebook.RedNotebook",
     "app.ywallet.Ywallet",
     "at.priv.toastfreeware.ConfClerk",
@@ -168,5 +169,6 @@
     "org.vertcoin.vertcoin-qt",
     "org.zotero.Zotero",
     "vn.hoabinh.quan.CoBang",
-    "work.openpaper.Paperwork"
+    "work.openpaper.Paperwork",
+    "xyz.rescribe.rescribe"
 ]
