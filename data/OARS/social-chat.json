@@ -358,6 +358,7 @@
         "org.openjkdf2.OpenJKDF2",
         "org.phoenicis.playonlinux",
         "org.pjbroad.EternallandsClient",
+        "org.polymc.PolyMC",
         "org.prismlauncher.PrismLauncher",
         "org.quassel_irc.QuasselClient",
         "org.quetoo.Quetoo",
@@ -380,7 +381,6 @@
     ],
     "moderate": [
         "com.dropbox.Client",
-        "com.github.bleakgrey.tootle",
         "com.netease.CloudMusic",
         "com.wiz.Note",
         "dev.jamiethalacker.window_painter",

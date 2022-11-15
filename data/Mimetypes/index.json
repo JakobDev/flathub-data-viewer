@@ -1666,7 +1666,6 @@
         "x-scheme-handler{SLASH}thunder",
         "x-scheme-handler{SLASH}tidal",
         "x-scheme-handler{SLASH}todoist",
-        "x-scheme-handler{SLASH}tootle",
         "x-scheme-handler{SLASH}tox",
         "x-scheme-handler{SLASH}ts3server",
         "x-scheme-handler{SLASH}tswift",

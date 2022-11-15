@@ -849,6 +849,7 @@
         "org.pencil2d.Pencil2D",
         "org.photoqt.PhotoQt",
         "org.plomgrading.PlomClient",
+        "org.polymc.PolyMC",
         "org.prismlauncher.PrismLauncher",
         "org.profex_xrd.Profex",
         "org.purei.Play",
@@ -920,7 +921,6 @@
         "com.github.PintaProject.Pinta",
         "com.github.ahrm.sioyek",
         "com.github.arminstraub.krop",
-        "com.github.bleakgrey.tootle",
         "com.github.cfcurtis.pdfstitcher",
         "com.github.corna.Vivado",
         "com.github.coslyk.MoonPlayer",
@@ -1300,6 +1300,7 @@
         "org.DolphinEmu.dolphin-emu",
         "org.firestormviewer.FirestormViewer",
         "org.libretro.RetroArch",
+        "org.polymc.PolyMC",
         "org.prismlauncher.PrismLauncher",
         "org.ryujinx.Ryujinx",
         "org.skytemple.SkyTemple",
@@ -2429,6 +2430,7 @@
         "com.github.wwmm.easyeffects",
         "dev.vieb.Vieb",
         "info.mumble.Mumble",
+        "io.github.celluloid_player.Celluloid",
         "io.mpv.Mpv",
         "org.qutebrowser.qutebrowser"
     ],
@@ -2454,6 +2456,7 @@
         "io.bassi.Amberol",
         "io.github.Soundux",
         "org.opensurge2d.OpenSurge",
+        "org.polymc.PolyMC",
         "org.prismlauncher.PrismLauncher"
     ],
     "xdg-music:ro": [

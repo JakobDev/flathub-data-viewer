@@ -26,6 +26,7 @@
         "org.flameshot.Flameshot",
         "org.kde.neochat",
         "org.ksnip.ksnip",
+        "org.qbittorrent.qBittorrent",
         "org.qownnotes.QOwnNotes",
         "org.qutebrowser.qutebrowser",
         "org.signal.Signal",
@@ -135,8 +136,7 @@
         "com.obsproject.Studio",
         "com.ulduzsoft.Birdtray",
         "info.mumble.Mumble",
-        "org.clementine_player.Clementine",
-        "org.qbittorrent.qBittorrent"
+        "org.clementine_player.Clementine"
     ],
     "org.mpris.mediaplayer2.plexamp": [
         "com.plexamp.Plexamp"

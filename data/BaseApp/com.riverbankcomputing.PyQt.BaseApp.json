@@ -7,7 +7,6 @@
         "io.github.veusz.Veusz",
         "net.sourceforge.scidavis",
         "org.plomgrading.PlomClient",
-        "org.pymol.PyMOL",
         "org.qutebrowser.qutebrowser",
         "se.sjoerd.GIScan"
     ],
@@ -17,7 +16,8 @@
         "io.github.bothlab.syntalos",
         "io.github.ciromattia.kcc",
         "io.github.jordanl2.ModularCalculator",
-        "org.opennumismat.OpenNumismat"
+        "org.opennumismat.OpenNumismat",
+        "org.pymol.PyMOL"
     ],
     "6.3": [
         "com.gitlab.JakobDev.jdAnimatedImageEditor",

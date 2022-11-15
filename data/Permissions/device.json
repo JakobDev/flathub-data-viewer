@@ -1502,6 +1502,7 @@
         "org.opensurge2d.OpenSurge",
         "org.pegasus_frontend.Pegasus",
         "org.phoenicis.playonlinux",
+        "org.polymc.PolyMC",
         "org.ppsspp.PPSSPP",
         "org.prismlauncher.PrismLauncher",
         "org.processing.processingide",
