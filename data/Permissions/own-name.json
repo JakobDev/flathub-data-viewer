@@ -13,8 +13,10 @@
         "com.qq.QQmusic",
         "com.sayonara_player.Sayonara",
         "com.stremio.Stremio",
+        "com.tutanota.Tutanota",
         "de.bund.ausweisapp.ausweisapp2",
         "im.riot.Riot",
+        "info.mumble.Mumble",
         "io.github.antimicrox.antimicrox",
         "io.github.qnapi",
         "network.loki.Session",
@@ -135,7 +137,6 @@
     "org.kde.statusnotifieritem-2-2": [
         "com.obsproject.Studio",
         "com.ulduzsoft.Birdtray",
-        "info.mumble.Mumble",
         "org.clementine_player.Clementine"
     ],
     "org.mpris.mediaplayer2.plexamp": [

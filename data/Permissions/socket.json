@@ -2209,7 +2209,6 @@
         "com.tic80.TIC_80",
         "com.toggl.TogglDesktop",
         "com.transmissionbt.Transmission",
-        "com.tutanota.Tutanota",
         "com.ultimaker.cura",
         "com.uploadedlobster.peek",
         "com.usebottles.bottles",
@@ -3421,6 +3420,7 @@
         "in.bharatkalluri.splash",
         "in.cinny.Cinny",
         "info.febvre.Komikku",
+        "info.mumble.Mumble",
         "info.olasagasti.revelation",
         "ink.scribl.Scribl",
         "io.appflowy.AppFlowy",
@@ -4982,7 +4982,6 @@
         "com.jetbrains.RubyMine",
         "com.powerball253.eternalmodmanager",
         "com.st.STM32CubeIDE",
-        "com.tutanota.Tutanota",
         "de.willuhn.Jameica",
         "io.brackets.Brackets",
         "io.github.bothlab.syntalos",
@@ -5001,7 +5000,6 @@
         "vn.hoabinh.quan.CoBang"
     ],
     "system-bus": [
-        "com.tutanota.Tutanota",
         "io.brackets.Brackets",
         "io.github.betaflight.BetaflightConfigurator",
         "io.github.bothlab.syntalos",

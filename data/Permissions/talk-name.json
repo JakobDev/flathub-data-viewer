@@ -1942,6 +1942,7 @@
         "com.parsecgaming.parsec",
         "com.sindresorhus.Caprine",
         "com.toggl.TogglDesktop",
+        "com.tutanota.Tutanota",
         "com.wire.WireDesktop",
         "gg.guilded.Guilded",
         "im.riot.Riot",
@@ -2101,7 +2102,6 @@
         "org.gahshomar.Gahshomar",
         "org.gnome.Boxes",
         "org.gnome.Gtranslator",
-        "org.gnome.Rhythmbox3",
         "org.laptop.TurtleArtActivity",
         "org.pitivi.Pitivi",
         "org.remmina.Remmina"
@@ -2279,6 +2279,7 @@
     "org.freedesktop.portal.background": [
         "codes.loers.Karlender",
         "com.github.zocker_160.SyncThingy",
+        "com.tutanota.Tutanota",
         "gg.guilded.Guilded",
         "org.signal.Signal"
     ],
