@@ -251,6 +251,7 @@
         "network.loki.Session",
         "nl.openoffice.bluefish",
         "nl.sarine.gpx-viewer",
+        "one.mixin.messenger",
         "org.aliflang.lang",
         "org.ardour.Ardour",
         "org.bzdev.CVRDecode",
@@ -473,7 +474,6 @@
         "com.xnview.XnViewMP",
         "com.yacreader.YACReader",
         "com.ylsoftware.qmmp.Qmmp",
-        "com.yubico.yubioath",
         "com.zandronum.Zandronum",
         "community.pathofbuilding.PathOfBuilding",
         "cz.cvut.edu.comparch.qtrvsim",
@@ -2560,9 +2560,11 @@
     "xdg-desktop:create": [
         "com.gitlab.JakobDev.jdMinecraftLauncher"
     ],
-    "xdg-config": [
-        "com.gitlab.cunidev.Gestures",
-        "com.tracktion.Waveform"
+    "xdg-config/libinput-gestures.conf.bak:create": [
+        "com.gitlab.cunidev.Gestures"
+    ],
+    "xdg-config/libinput-gestures.conf:create": [
+        "com.gitlab.cunidev.Gestures"
     ],
     "~/.config/activitywatch": [
         "com.gitlab.cunidev.Workflow"
@@ -2702,6 +2704,9 @@
         "com.tracktion.Waveform"
     ],
     "~/.lxvst:create": [
+        "com.tracktion.Waveform"
+    ],
+    "xdg-config": [
         "com.tracktion.Waveform"
     ],
     "~/.vst3:create": [
