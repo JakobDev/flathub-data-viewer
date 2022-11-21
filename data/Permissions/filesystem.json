@@ -2336,6 +2336,18 @@
         "com.github.Anuken.Mindustry",
         "sh.ppy.osu"
     ],
+    "~/.var/app/io.gitlab.librewolf-community/.librewolf": [
+        "com.github.GradienceTeam.Gradience"
+    ],
+    "xdg-config/gtk-4.0": [
+        "com.github.GradienceTeam.Gradience"
+    ],
+    "~/.librewolf": [
+        "com.github.GradienceTeam.Gradience"
+    ],
+    "~/.var/app/org.mozilla.firefox/.mozilla/firefox": [
+        "com.github.GradienceTeam.Gradience"
+    ],
     "xdg-config/gtk-3.0": [
         "com.github.GradienceTeam.Gradience",
         "com.neatdecisions.Detwinner",
@@ -2348,8 +2360,10 @@
         "org.libreoffice.LibreOffice",
         "org.onlyoffice.desktopeditors"
     ],
-    "xdg-config/gtk-4.0": [
-        "com.github.GradienceTeam.Gradience"
+    "~/.mozilla/firefox": [
+        "com.github.GradienceTeam.Gradience",
+        "com.github.theCalcaholic.StreamDeck",
+        "org.gnome.Eolie"
     ],
     "xdg-data/flatpak/overrides:create": [
         "com.github.GradienceTeam.Gradience",
@@ -2378,8 +2392,7 @@
         "com.github.bluesabre.darkbar",
         "com.github.hluk.copyq",
         "com.github.matfantinel.reminduck",
-        "com.github.rssguard",
-        "com.rtosta.zapzap"
+        "com.github.rssguard"
     ],
     "xdg-data/flatpak/app:ro": [
         "com.github.bluesabre.darkbar",
@@ -2530,10 +2543,6 @@
     "xdg-run/discord-ipc-0": [
         "com.github.taiko2k.tauonmb",
         "org.srb2.SRB2Kart"
-    ],
-    "~/.mozilla/firefox": [
-        "com.github.theCalcaholic.StreamDeck",
-        "org.gnome.Eolie"
     ],
     "/run/udev:ro": [
         "com.github.theCalcaholic.StreamDeck",
