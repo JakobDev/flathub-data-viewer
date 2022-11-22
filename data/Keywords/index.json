@@ -1918,6 +1918,7 @@
         "radare",
         "radare2",
         "radio",
+        "radio{SPACE}control",
         "radio{SPACE}drama",
         "radio{SPACE}play",
         "ram",

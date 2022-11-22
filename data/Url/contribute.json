@@ -18,6 +18,7 @@
     "net.minetest.Minetest",
     "net.supertuxkart.SuperTuxKart",
     "org.apache.jmeter",
+    "org.expresslrs.ExpressLRSConfigurator",
     "org.inkscape.Inkscape",
     "org.kde.okteta",
     "org.keepassxc.KeePassXC",

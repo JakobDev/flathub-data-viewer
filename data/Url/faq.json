@@ -89,6 +89,7 @@
     "org.citra_emu.citra",
     "org.clementine_player.Clementine",
     "org.cryptomator.Cryptomator",
+    "org.expresslrs.ExpressLRSConfigurator",
     "org.fdroid.Repomaker",
     "org.filezillaproject.Filezilla",
     "org.flycast.Flycast",

@@ -1446,6 +1446,7 @@
         "com.simplenote.Simplenote",
         "com.tracktion.Waveform",
         "com.tutanota.Tutanota",
+        "com.umlet.Umlet",
         "com.viber.Viber",
         "com.wiz.Note",
         "com.wps.Office",
@@ -2288,6 +2289,7 @@
         "net.xmind.XMind",
         "org.audacityteam.Audacity",
         "org.eclipse.Java",
+        "org.expresslrs.ExpressLRSConfigurator",
         "org.gimp.GIMP",
         "org.gnome.Geary",
         "org.gnu.emacs",
@@ -2549,7 +2551,8 @@
         "com.heroicgameslauncher.hgl",
         "com.napster.napster-bigscreen-electron",
         "io.github.betaflight.BetaflightConfigurator",
-        "one.flipperzero.qFlipper"
+        "one.flipperzero.qFlipper",
+        "org.expresslrs.ExpressLRSConfigurator"
     ],
     "~/.var/app/org.mozilla.firefox": [
         "com.github.theCalcaholic.StreamDeck"
@@ -2621,6 +2624,7 @@
     ],
     "xdg-config/fontconfig:ro": [
         "com.icons8.Lunacy",
+        "com.umlet.Umlet",
         "io.github.Icalingua.Icalingua",
         "org.fcitx.Fcitx5"
     ],

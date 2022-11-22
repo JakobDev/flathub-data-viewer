@@ -585,6 +585,7 @@
     "com.tux4kids.tuxtype",
     "com.ulduzsoft.Birdtray",
     "com.ultimaker.cura",
+    "com.umlet.Umlet",
     "com.unity.UnityHub",
     "com.uploadedlobster.peek",
     "com.usebottles.bottles",
@@ -997,6 +998,7 @@
     "it.mijorus.smile",
     "jp.yvt.OpenSpades",
     "life.bolls.bolls",
+    "lv.martinsz.millionaire",
     "md.obsidian.Obsidian",
     "me.aandrew.ytdownloader",
     "me.dusansimic.DynamicWallpaper",
@@ -1252,6 +1254,7 @@
     "org.entangle_photo.Manager",
     "org.equeim.Tremotesf",
     "org.eu.encom.spectral",
+    "org.expresslrs.ExpressLRSConfigurator",
     "org.eyecreate.qiflora",
     "org.eyecreate.vehiclevoyage",
     "org.famistudio.FamiStudio",
@@ -2516,5 +2519,6 @@
     "org.videolan.VLC.Plugin.bdj",
     "org.videolan.VLC.Plugin.fdkaac",
     "org.videolan.VLC.Plugin.makemkv",
-    "org.winehq.Wine.DLLs.dxvk"
+    "org.winehq.Wine.DLLs.dxvk",
+    "re.rizin.cutter.plugin.rz-ghidra"
 ]

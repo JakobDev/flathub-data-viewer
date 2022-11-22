@@ -383,6 +383,9 @@
         "org.electrum.electrum",
         "org.groestlcoin.electrum-grs"
     ],
+    ".platformio": [
+        "org.expresslrs.ExpressLRSConfigurator"
+    ],
     ".fgfs": [
         "org.flightgear.FlightGear"
     ],

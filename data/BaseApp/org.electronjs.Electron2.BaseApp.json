@@ -131,6 +131,7 @@
         "net.cozic.joplin_desktop",
         "net.hovancik.Stretchly",
         "network.loki.Session",
+        "org.expresslrs.ExpressLRSConfigurator",
         "org.ferdium.Ferdium",
         "org.geogebra.GeoGebra",
         "org.onlyoffice.desktopeditors",

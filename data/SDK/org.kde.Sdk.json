@@ -502,7 +502,6 @@
         "io.github.hydrusnetwork.hydrus",
         "io.mrarm.mcpelauncher",
         "me.mitya57.ReText",
-        "net.davidotek.pupgui2",
         "net.jami.Jami",
         "net.pcsx2.PCSX2",
         "net.sourceforge.VMPK",
@@ -538,6 +537,7 @@
         "io.qt.Designer",
         "io.qt.Linguist",
         "io.qt.qdbusviewer",
+        "net.davidotek.pupgui2",
         "org.bino3d.bino"
     ],
     "5.12": [

@@ -299,5 +299,6 @@
     "org.videolan.VLC.Plugin.makemkv",
     "org.winehq.Wine.DLLs.dxvk",
     "org.winehq.Wine.gecko",
-    "org.winehq.Wine.mono"
+    "org.winehq.Wine.mono",
+    "re.rizin.cutter.plugin.rz-ghidra"
 ]
