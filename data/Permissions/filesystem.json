@@ -2435,7 +2435,8 @@
     ],
     "/run/docker.sock": [
         "com.github.inercia.k3x",
-        "com.github.sdv43.whaler"
+        "com.github.sdv43.whaler",
+        "io.podman_desktop.PodmanDesktop"
     ],
     "~/.cert:create": [
         "com.github.jkotra.eovpn"
@@ -2906,7 +2907,7 @@
     "~/.var/app/io.mpv.Mpv/config/mpv/scripts:create": [
         "io.mpv.Mpv"
     ],
-    "xdg-run/podman": [
+    "xdg-run/podman:create": [
         "io.podman_desktop.PodmanDesktop"
     ],
     "xdg-cache/poezio:create": [
