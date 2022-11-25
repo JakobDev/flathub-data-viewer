@@ -2653,6 +2653,9 @@
     "xdg-run/Nextcloud:create": [
         "com.nextcloud.desktopclient.nextcloud"
     ],
+    "xdg-documents/Notesnook:create": [
+        "com.notesnook.Notesnook"
+    ],
     "~/.renpy:create": [
         "com.scoutshonour.Digital",
         "com.scoutshonour.dtipbijays"
