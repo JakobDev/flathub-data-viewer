@@ -638,6 +638,7 @@
         "application{SLASH}x-nintendo-3ds-executable",
         "application{SLASH}x-nintendo-3ds-rom",
         "application{SLASH}x-nintendo-ds-rom",
+        "application{SLASH}x-nmoney",
         "application{SLASH}x-nootka-nel",
         "application{SLASH}x-nootka-noo",
         "application{SLASH}x-nova-asc",
