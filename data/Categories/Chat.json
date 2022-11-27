@@ -29,5 +29,6 @@
     "org.quassel_irc.QuasselClient",
     "org.signal.Signal",
     "org.syphon.Syphon",
+    "org.telegram",
     "xyz.mx_moment.moment"
 ]

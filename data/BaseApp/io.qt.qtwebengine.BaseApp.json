@@ -29,7 +29,6 @@
         "org.kde.parley",
         "org.kde.tellico",
         "org.musescore.MuseScore",
-        "org.paraview.ParaView",
         "org.sdrangel.SDRangel",
         "org.yuzu_emu.yuzu"
     ],
@@ -49,6 +48,7 @@
         "org.jaspstats.JASP"
     ],
     "5.15-22.08": [
-        "net.sonic_pi.SonicPi"
+        "net.sonic_pi.SonicPi",
+        "org.paraview.ParaView"
     ]
 }

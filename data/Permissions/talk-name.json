@@ -1387,6 +1387,7 @@
         "org.openmw.OpenMW",
         "org.opennumismat.OpenNumismat",
         "org.openrgb.OpenRGB",
+        "org.paraview.ParaView",
         "org.pegasus_frontend.Pegasus",
         "org.photoqt.PhotoQt",
         "org.plomgrading.PlomClient",
