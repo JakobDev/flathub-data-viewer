@@ -1,6 +1,7 @@
 [
     "com.riverbankcomputing.PyQt.BaseApp",
     "io.github.pragha_music_player.pragha",
+    "io.github.tlcfem.suanPan",
     "io.qt.qtwebengine.BaseApp",
     "io.qt.qtwebkit.BaseApp"
 ]

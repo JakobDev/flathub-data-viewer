@@ -182,6 +182,7 @@
         "io.github.gitahead.GitAhead",
         "io.github.gtkwave.GTKWave",
         "io.github.hakuneko.HakuNeko",
+        "io.github.kevinsmia1939.PySimpleCV",
         "io.github.liberodark.OpenDrive",
         "io.github.limads.Queries",
         "io.github.lruzicka.Needly",
@@ -198,6 +199,7 @@
         "io.github.sameboy.SameBoy",
         "io.github.stella_emu.Stella",
         "io.github.technic.e2designer",
+        "io.github.tlcfem.suanPan",
         "io.github.torrent_file_editor.Torrent-file-editor",
         "io.github.trevorsandy.LPub3D",
         "io.github.wereturtle.ghostwriter",
@@ -482,6 +484,7 @@
         "de.halaszovich.PMbrowser",
         "de.ifw_dresden.nagstamon",
         "de.klayout.KLayout",
+        "de.marlam.gencolormap",
         "de.rwth_aachen.ient.RDPlot",
         "de.rwth_aachen.ient.YUView",
         "de.shorsh.discord-screenaudio",
@@ -891,6 +894,7 @@
         "re.rizin.cutter",
         "se.sjoerd.GIScan",
         "space.fips.Fips",
+        "space.nouspiro.tenmon",
         "studio.kx.carla",
         "ua.org.brezblock.q4wine",
         "uk.org.zint.zint-qt",
@@ -1308,7 +1312,6 @@
         "org.ryujinx.Ryujinx",
         "org.skytemple.SkyTemple",
         "org.srb2.SRB2Kart",
-        "org.yuzu_emu.yuzu",
         "sh.cider.Cider",
         "sh.ppy.osu"
     ],
@@ -1349,6 +1352,7 @@
         "re.sonny.Junction",
         "ru.sview.sView",
         "space.fips.Fips",
+        "space.nouspiro.tenmon",
         "uk.co.electronstudio.ComicReaderUltimate"
     ],
     "xdg-run/pipewire-0": [
@@ -1491,6 +1495,7 @@
         "org.kde.cantor",
         "org.kde.rocs",
         "org.msweet.htmldoc",
+        "org.nongnu.Xlog",
         "org.omegat.OmegaT",
         "org.phoenicis.playonlinux",
         "org.profex_xrd.Profex",
@@ -1525,6 +1530,7 @@
         "com.neatdecisions.Detwinner",
         "com.rawtherapee.RawTherapee",
         "com.transmissionbt.Transmission",
+        "com.vysp3r.ProtonPlus",
         "cz.zeropage.Formiko",
         "de.create3000.titania",
         "edu.stanford.Almond",
@@ -1999,6 +2005,7 @@
         "com.tutanota.Tutanota",
         "com.viber.Viber",
         "com.wps.Office",
+        "de.marlam.gencolormap",
         "dev.vieb.Vieb",
         "eu.ngdevelopment.tsukitag",
         "in.bharatkalluri.splash",
@@ -2172,7 +2179,8 @@
         "com.rawtherapee.RawTherapee",
         "com.retrodev.blastem",
         "org.gnome.eog",
-        "ru.sview.sView"
+        "ru.sview.sView",
+        "space.nouspiro.tenmon"
     ],
     "/mnt": [
         "com.axosoft.GitKraken",
@@ -2750,11 +2758,34 @@
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet"
     ],
-    "xdg-config/mpv:ro": [
-        "de.schmidhuberj.tubefeeder"
+    "~/.steam/root/compatibilitytools.d": [
+        "com.vysp3r.ProtonPlus"
     ],
-    "xdg-cache/tubefeeder:create": [
-        "de.schmidhuberj.tubefeeder"
+    "~/.local/share/bottles/runners": [
+        "com.vysp3r.ProtonPlus"
+    ],
+    "~/.var/app/net.lutris.Lutris/data/lutris": [
+        "com.vysp3r.ProtonPlus"
+    ],
+    "~/.local/share/Steam/compatibilitytools.d": [
+        "com.vysp3r.ProtonPlus"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/data/Steam/compatibilitytools.d": [
+        "com.vysp3r.ProtonPlus"
+    ],
+    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/tools": [
+        "com.vysp3r.ProtonPlus",
+        "net.davidotek.pupgui2"
+    ],
+    "~/.local/share/lutris": [
+        "com.vysp3r.ProtonPlus"
+    ],
+    "~/.var/app/com.usebottles.bottles/data/bottles/runners": [
+        "com.vysp3r.ProtonPlus",
+        "net.davidotek.pupgui2"
+    ],
+    "~/.config/heroic/tools": [
+        "com.vysp3r.ProtonPlus"
     ],
     "xdg-data/tubefeeder:create": [
         "de.schmidhuberj.tubefeeder"
@@ -2943,12 +2974,6 @@
     "~/.var/app/net.lutris.Lutris/data/lutris/runtime/dxvk": [
         "net.davidotek.pupgui2"
     ],
-    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/tools": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.var/app/com.usebottles.bottles/data/bottles/runners": [
-        "net.davidotek.pupgui2"
-    ],
     "~/.var/app/net.lutris.Lutris/config/lutris:ro": [
         "net.davidotek.pupgui2"
     ],
@@ -2980,7 +3005,8 @@
         "net.davidotek.pupgui2"
     ],
     "xdg-run/app/com.discordapp.Discord:ro": [
-        "net.openra.OpenRA"
+        "net.openra.OpenRA",
+        "org.yuzu_emu.yuzu"
     ],
     "xdg-run/app/com.discordapp.DiscordCanary:ro": [
         "net.openra.OpenRA"

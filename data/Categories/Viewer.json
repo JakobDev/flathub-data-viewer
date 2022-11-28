@@ -35,5 +35,6 @@
     "org.photoqt.PhotoQt",
     "org.radare.iaito",
     "org.tug.texworks",
-    "org.xfce.ristretto"
+    "org.xfce.ristretto",
+    "space.nouspiro.tenmon"
 ]

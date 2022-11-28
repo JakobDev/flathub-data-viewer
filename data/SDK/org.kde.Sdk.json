@@ -71,6 +71,7 @@
         "org.prismlauncher.PrismLauncher",
         "org.purei.Play",
         "org.pymol.PyMOL",
+        "org.quassel_irc.QuasselClient",
         "org.radare.iaito",
         "org.raspberrypi.rpi-imager",
         "org.speedcrunch.SpeedCrunch",
@@ -81,21 +82,19 @@
         "org.wireshark.Wireshark",
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
+        "space.nouspiro.tenmon",
         "studio.kx.carla"
     ],
-    "6.2": [
+    "6.4": [
         "app.lith.Lith",
-        "com.github.dynobo.normcap",
-        "com.github.giacomogroppi.writernote-qt",
-        "com.ylsoftware.qmmp.Qmmp",
-        "cz.cvut.edu.comparch.qtrvsim",
-        "dev.lukebriggs.pepys",
-        "eu.skribisto.skribisto",
-        "net.wz2100.wz2100",
-        "org.bunkus.mkvtoolnix-gui",
-        "org.coolero.Coolero",
-        "org.jaspstats.JASP",
-        "org.linux_hardware.hw-probe"
+        "de.bund.ausweisapp.ausweisapp2",
+        "de.marlam.gencolormap",
+        "io.github.simple64.simple64",
+        "io.qt.Designer",
+        "io.qt.Linguist",
+        "io.qt.qdbusviewer",
+        "net.davidotek.pupgui2",
+        "org.bino3d.bino"
     ],
     "5.15-21.08": [
         "app.resp.RESP",
@@ -413,7 +412,6 @@
         "org.qelectrotech.QElectroTech",
         "org.qgis.qgis",
         "org.qownnotes.QOwnNotes",
-        "org.quassel_irc.QuasselClient",
         "org.qutebrowser.qutebrowser",
         "org.qxmledit.QXmlEdit",
         "org.sdrangel.SDRangel",
@@ -531,14 +529,18 @@
         "org.strawberrymusicplayer.strawberry",
         "uk.org.zint.zint-qt"
     ],
-    "6.4": [
-        "de.bund.ausweisapp.ausweisapp2",
-        "io.github.simple64.simple64",
-        "io.qt.Designer",
-        "io.qt.Linguist",
-        "io.qt.qdbusviewer",
-        "net.davidotek.pupgui2",
-        "org.bino3d.bino"
+    "6.2": [
+        "com.github.dynobo.normcap",
+        "com.github.giacomogroppi.writernote-qt",
+        "com.ylsoftware.qmmp.Qmmp",
+        "cz.cvut.edu.comparch.qtrvsim",
+        "dev.lukebriggs.pepys",
+        "eu.skribisto.skribisto",
+        "net.wz2100.wz2100",
+        "org.bunkus.mkvtoolnix-gui",
+        "org.coolero.Coolero",
+        "org.jaspstats.JASP",
+        "org.linux_hardware.hw-probe"
     ],
     "5.12": [
         "de.ifw_dresden.nagstamon",

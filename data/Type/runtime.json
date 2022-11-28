@@ -154,6 +154,8 @@
     "org.gtk.Gtk3theme.Materia-dark",
     "org.gtk.Gtk3theme.Materia-light-compact",
     "org.gtk.Gtk3theme.Materia-light",
+    "org.gtk.Gtk3theme.Materia-nord-compact",
+    "org.gtk.Gtk3theme.Materia-nord",
     "org.gtk.Gtk3theme.Materia",
     "org.gtk.Gtk3theme.Mint-Y-Aqua",
     "org.gtk.Gtk3theme.Mint-Y-Blue",

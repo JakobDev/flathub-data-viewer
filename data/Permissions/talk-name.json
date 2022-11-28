@@ -251,6 +251,7 @@
         "de.halaszovich.PMbrowser",
         "de.ifw_dresden.nagstamon",
         "de.klayout.KLayout",
+        "de.marlam.gencolormap",
         "de.rwth_aachen.ient.RDPlot",
         "de.rwth_aachen.ient.YUView",
         "de.shorsh.discord-screenaudio",
@@ -677,6 +678,7 @@
         "sh.cider.Cider",
         "social.whalebird.WhalebirdDesktop",
         "space.fips.Fips",
+        "space.nouspiro.tenmon",
         "studio.kx.carla",
         "ua.org.brezblock.q4wine",
         "uk.org.zint.zint-qt",
@@ -1072,6 +1074,7 @@
         "re.rizin.cutter",
         "se.sjoerd.GIScan",
         "space.fips.Fips",
+        "space.nouspiro.tenmon",
         "studio.kx.carla",
         "ua.org.brezblock.q4wine",
         "website.i2pd.i2pd",
@@ -1418,6 +1421,7 @@
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
         "se.sjoerd.GIScan",
+        "space.nouspiro.tenmon",
         "studio.kx.carla",
         "ua.org.brezblock.q4wine",
         "website.i2pd.i2pd",
@@ -2013,6 +2017,7 @@
         "com.neatdecisions.Detwinner",
         "com.rawtherapee.RawTherapee",
         "com.transmissionbt.Transmission",
+        "com.vysp3r.ProtonPlus",
         "com.zettlr.Zettlr",
         "cz.zeropage.Formiko",
         "de.create3000.titania",
@@ -2592,8 +2597,7 @@
     ],
     "org.freedesktop.portal.filechooser": [
         "com.rtosta.zapzap",
-        "de.schmidhuberj.Flare",
-        "de.schmidhuberj.tubefeeder"
+        "de.schmidhuberj.Flare"
     ],
     "org.gnome.gconf": [
         "com.skype.Client",

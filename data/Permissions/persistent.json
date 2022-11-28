@@ -21,6 +21,9 @@
     ".noiz2sa.prf": [
         "com.abagames.noiz2sa"
     ],
+    ".local/share/pixelwheels": [
+        "com.agateau.PixelWheels"
+    ],
     ".albiononline": [
         "com.albiononline.AlbionOnline"
     ],
@@ -453,6 +456,9 @@
     ],
     ".neverball": [
         "org.neverball.Neverball"
+    ],
+    ".xlog": [
+        "org.nongnu.Xlog"
     ],
     ".enigma": [
         "org.nongnu.enigma"

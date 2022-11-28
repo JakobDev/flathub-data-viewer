@@ -1,4 +1,5 @@
 [
     "com.github.subhadeepjasu.pebbles",
-    "com.prusa3d.PrusaSlicer"
+    "com.prusa3d.PrusaSlicer",
+    "io.gitlab.adhami3310.Converter"
 ]
