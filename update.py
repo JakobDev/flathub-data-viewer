@@ -180,7 +180,7 @@ def parse_appstream(app_id: str, data: dict, component: appstream_python.Appstre
     for i in list(component.languages.keys()):
         add_simple_to_data(data, "app_language", i, app_id)
 
-    for i in component.get_aviable_languages():
+    for i in component.get_available_languages():
         add_simple_to_data(data, "appstream_language", i, app_id)
 
     if len(component.releases) >= 1:
