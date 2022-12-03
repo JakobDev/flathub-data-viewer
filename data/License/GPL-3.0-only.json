@@ -5,7 +5,6 @@
     "ch.openboard.OpenBoard",
     "com.adilhanney.saber",
     "com.adilhanney.timing",
-    "com.cassidyjames.plausible",
     "com.diy_fever.DIYLayoutCreator",
     "com.github.AlizaMedicalImaging.AlizaMS",
     "com.github.Rosalie241.RMG",
@@ -67,5 +66,6 @@
     "pm.mirko.Atoms",
     "sa.sy.bluerecorder",
     "com.valvesoftware.Steam.Utility.steamtinkerlaunch",
+    "org.blackfennec.app.extensions.core",
     "org.gtk.Gtk3theme.Mojave-light"
 ]

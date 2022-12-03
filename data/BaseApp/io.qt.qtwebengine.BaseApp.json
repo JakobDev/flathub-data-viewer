@@ -48,6 +48,7 @@
         "org.jaspstats.JASP"
     ],
     "5.15-22.08": [
+        "io.sourceforge.chart_geany.chart-geany",
         "net.sonic_pi.SonicPi",
         "org.paraview.ParaView"
     ]

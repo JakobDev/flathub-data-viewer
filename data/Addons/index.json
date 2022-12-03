@@ -18,6 +18,7 @@
         "net._86box._86Box",
         "net.sonobus.SonoBus",
         "org.bitbucket.mystery_keeper.VapourSynthEditor",
+        "org.blackfennec.app",
         "org.fcitx.Fcitx5",
         "org.freedesktop.LinuxAudio.BaseExtension",
         "org.freedesktop.Platform",

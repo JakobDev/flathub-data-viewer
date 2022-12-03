@@ -56,6 +56,7 @@
         "com.wire.WireDesktop",
         "de.haeckerfelix.Fragments",
         "de.schmidhuberj.Flare",
+        "de.willuhn.Jameica",
         "dev.Cogitri.Health",
         "dev.alextren.Spot",
         "dev.goats.xivlauncher",
@@ -252,6 +253,7 @@
         "de.ifw_dresden.nagstamon",
         "de.klayout.KLayout",
         "de.marlam.gencolormap",
+        "de.marlam.qv",
         "de.rwth_aachen.ient.RDPlot",
         "de.rwth_aachen.ient.YUView",
         "de.shorsh.discord-screenaudio",
@@ -329,6 +331,7 @@
         "io.github.webcamoid.Webcamoid",
         "io.github.wereturtle.ghostwriter",
         "io.github.xaos_project.XaoS",
+        "io.gitlab.JakobDev.jdSimpleAutostart",
         "io.gitlab.evtest_qt.evtest_qt",
         "io.gitlab.o20.word",
         "io.gitlab.persiangolf.voicegen",
@@ -344,6 +347,7 @@
         "io.qt.Linguist",
         "io.qt.QtCreator",
         "io.qt.qdbusviewer",
+        "io.sourceforge.chart_geany.chart-geany",
         "io.sourceforge.pentobi",
         "io.sourceforge.qoobar.Qoobar",
         "io.stoplight.studio",
@@ -351,6 +355,7 @@
         "io.typora.Typora",
         "me.aandrew.ytdownloader",
         "me.mitya57.ReText",
+        "moe.karaokes.mugen",
         "net._86box._86Box",
         "net.codeindustry.MasterPDFEditor",
         "net.cozic.joplin_desktop",
@@ -821,6 +826,7 @@
         "io.mgba.mGBA",
         "io.photoflare.photoflare",
         "io.qt.QtCreator",
+        "io.sourceforge.chart_geany.chart-geany",
         "io.sourceforge.pentobi",
         "io.sourceforge.qoobar.Qoobar",
         "net._86box._86Box",
@@ -1188,6 +1194,7 @@
         "io.mgba.mGBA",
         "io.photoflare.photoflare",
         "io.qt.QtCreator",
+        "io.sourceforge.chart_geany.chart-geany",
         "net._86box._86Box",
         "net.codeindustry.MasterPDFEditor",
         "net.drawpile.drawpile",
@@ -1213,6 +1220,7 @@
         "org.atheme.audacious",
         "org.bitbucket.mystery_keeper.VapourSynthEditor",
         "org.citra_emu.citra",
+        "org.cloudcompare.CloudCompare",
         "org.codeberg.dimkard.glossaico",
         "org.contourterminal.Contour",
         "org.cubocore.CoreAction",
@@ -1564,6 +1572,7 @@
         "io.kopia.KopiaUI",
         "io.podman_desktop.PodmanDesktop",
         "me.kozec.syncthingtk",
+        "moe.karaokes.mugen",
         "net.christianbeier.Gromit-MPX",
         "net.cozic.joplin_desktop",
         "net.hovancik.Stretchly",
@@ -1753,6 +1762,7 @@
         "de.bund.ausweisapp.ausweisapp2",
         "de.ifw_dresden.nagstamon",
         "de.mediathekview.MediathekView",
+        "de.willuhn.Jameica",
         "dev.hdos.HDOS",
         "dev.vieb.Vieb",
         "edu.mit.Scratch",
@@ -1804,6 +1814,7 @@
         "io.webtorrent.WebTorrent",
         "me.aandrew.ytdownloader",
         "me.hyliu.fluentreader",
+        "moe.karaokes.mugen",
         "moe.tundra.Tundra",
         "net.agalwood.Motrix",
         "net.blix.BlueMail",
@@ -2277,6 +2288,10 @@
         "org.jitsi.jitsi-meet",
         "org.libretro.RetroArch"
     ],
+    "com.feralinteractive.gamemode": [
+        "ch.tlaun.TL",
+        "org.gnome.DejaDup"
+    ],
     "org.gnome.settingsdaemon": [
         "chat.tandem.Client",
         "com.sublimetext.three",
@@ -2315,6 +2330,7 @@
         "com.microsoft.Edge",
         "com.microsoft.Teams",
         "com.spotify.Client",
+        "de.willuhn.Jameica",
         "edu.stanford.Almond",
         "io.freetubeapp.FreeTube",
         "io.github.fsobolev.TimeSwitch",
@@ -2349,7 +2365,6 @@
         "org.gnome.Evolution",
         "org.gnome.Geary",
         "org.gnome.Lollypop",
-        "org.gnome.Maps",
         "org.gnome.Music",
         "org.gnome.Notes",
         "org.gnome.Todo",
@@ -2677,6 +2692,13 @@
     "org.kde.statusnotifieritem-2-1": [
         "io.github.spacingbat3.webcord"
     ],
+    "org.freedesktop.portal.openuri": [
+        "io.gitlab.adhami3310.Converter"
+    ],
+    "com.canonical.dbusmenu": [
+        "moe.karaokes.mugen",
+        "sh.cider.Cider"
+    ],
     "org.gnome.mutter.displayconfig": [
         "net.displaycal.DisplayCAL",
         "net.lutris.Lutris",
@@ -2739,9 +2761,6 @@
     ],
     "org.sigxcpu.feedback": [
         "org.gnome.Calls"
-    ],
-    "com.feralinteractive.gamemode": [
-        "org.gnome.DejaDup"
     ],
     "org.freedesktop.tracker1": [
         "org.gnome.Games"
@@ -2852,9 +2871,6 @@
     ],
     "org.x.statusiconmonitor.*": [
         "org.x.Warpinator"
-    ],
-    "com.canonical.dbusmenu": [
-        "sh.cider.Cider"
     ],
     "org.razer": [
         "xyz.z3ntu.razergenie"

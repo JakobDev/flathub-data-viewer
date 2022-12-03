@@ -1,5 +1,6 @@
 [
     "in.srev.guiscrcpy",
+    "io.gitlab.JakobDev.jdSimpleAutostart",
     "org.contourterminal.Contour",
     "org.hlwd.sonofman",
     "org.pyzo.pyzo"

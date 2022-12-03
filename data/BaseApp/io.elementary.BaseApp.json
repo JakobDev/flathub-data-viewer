@@ -1,6 +1,5 @@
 {
     "juno-21.08": [
-        "com.cassidyjames.plausible",
         "com.github.alainm23.byte",
         "com.github.alainm23.planner",
         "com.github.arshubham.cipher",

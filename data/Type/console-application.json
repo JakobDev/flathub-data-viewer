@@ -16,6 +16,7 @@
     "me.simakis.dropboxignore",
     "net.sourceforge.fspclient",
     "network.koesling.shm-modbus",
+    "org.eu.wabarc.wayback",
     "org.flathub.flatpak-external-data-checker",
     "org.freedesktop.appstream-glib",
     "org.freedesktop.appstream.cli",

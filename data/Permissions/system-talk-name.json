@@ -24,7 +24,8 @@
         "ua.org.brezblock.q4wine"
     ],
     "org.freedesktop.filemanager1": [
-        "app.bluebubbles.BlueBubbles"
+        "app.bluebubbles.BlueBubbles",
+        "org.sil.Bloom"
     ],
     "org.freedesktop.login1": [
         "app.drey.Warp",
@@ -54,6 +55,9 @@
     ],
     "org.gtk.vfs.*": [
         "cc.arduino.IDE2"
+    ],
+    "net.hadess.switcheroocontrol": [
+        "ch.tlaun.TL"
     ],
     "org.freedesktop.udisks2": [
         "cn.ottercorp.xivlaunchercn",
@@ -136,6 +140,7 @@
         "dev.vieb.Vieb",
         "io.mgba.mGBA",
         "io.wavebox.Wavebox",
+        "moe.karaokes.mugen",
         "org.chromium.Chromium",
         "org.cubocore.CoreAction",
         "org.cubocore.CoreStats",

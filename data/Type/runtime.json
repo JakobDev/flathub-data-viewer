@@ -9,6 +9,7 @@
     "org.freedesktop.Sdk.Extension.dotnet",
     "org.freedesktop.Sdk.Extension.dotnet5",
     "org.freedesktop.Sdk.Extension.dotnet6",
+    "org.freedesktop.Sdk.Extension.dotnet7",
     "org.freedesktop.Sdk.Extension.golang",
     "org.freedesktop.Sdk.Extension.haskell",
     "org.freedesktop.Sdk.Extension.mono5",

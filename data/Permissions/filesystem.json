@@ -147,6 +147,7 @@
         "de.create3000.titania",
         "de.finnik.PassVault",
         "de.manuel_kehl.go-for-it",
+        "de.marlam.qv",
         "de.willuhn.Jameica",
         "dev.bsnes.bsnes",
         "dev.goats.xivlauncher",
@@ -212,6 +213,7 @@
         "io.photoflare.photoflare",
         "io.podman_desktop.PodmanDesktop",
         "io.sourceforge.Pixelitor",
+        "io.sourceforge.chart_geany.chart-geany",
         "md.obsidian.Obsidian",
         "me.aandrew.ytdownloader",
         "me.mitya57.ReText",
@@ -258,7 +260,6 @@
         "org.bzdev.CVRDecode",
         "org.chromium.Chromium",
         "org.claws_mail.Claws-Mail",
-        "org.cloudcompare.CloudCompare",
         "org.codeblocks.codeblocks",
         "org.cryptomator.Cryptomator",
         "org.cubocore.CoreArchiver",
@@ -485,6 +486,7 @@
         "de.ifw_dresden.nagstamon",
         "de.klayout.KLayout",
         "de.marlam.gencolormap",
+        "de.marlam.qv",
         "de.rwth_aachen.ient.RDPlot",
         "de.rwth_aachen.ient.YUView",
         "de.shorsh.discord-screenaudio",
@@ -556,6 +558,7 @@
         "io.github.webcamoid.Webcamoid",
         "io.github.wereturtle.ghostwriter",
         "io.github.xaos_project.XaoS",
+        "io.gitlab.JakobDev.jdSimpleAutostart",
         "io.gitlab.evtest_qt.evtest_qt",
         "io.gitlab.o20.word",
         "io.gitlab.persiangolf.voicegen",
@@ -571,6 +574,7 @@
         "io.qt.Linguist",
         "io.qt.QtCreator",
         "io.qt.qdbusviewer",
+        "io.sourceforge.chart_geany.chart-geany",
         "io.sourceforge.pentobi",
         "io.sourceforge.qoobar.Qoobar",
         "io.trustable.stpadocumentationtool",
@@ -1289,6 +1293,7 @@
         "app.vup.Vup",
         "app.ytmdesktop.ytmdesktop",
         "ca.parallel_launcher.ParallelLauncher",
+        "ch.tlaun.TL",
         "co.headsetapp.headset",
         "com.atlauncher.ATLauncher",
         "com.github.Anuken.Mindustry",
@@ -1302,6 +1307,7 @@
         "io.github.hmlendea.geforcenow-electron",
         "io.github.shiiion.primehack",
         "md.obsidian.Obsidian",
+        "moe.karaokes.mugen",
         "net.retrodeck.retrodeck",
         "net.runelite.RuneLite",
         "org.DolphinEmu.dolphin-emu",
@@ -1485,6 +1491,7 @@
         "net.xmind.XMind8",
         "one.ablaze.floorp",
         "org.apache.jmeter",
+        "org.eu.wabarc.wayback",
         "org.firestormviewer.FirestormViewer",
         "org.frescobaldi.Frescobaldi",
         "org.fritzing.Fritzing",
@@ -2344,6 +2351,7 @@
     ],
     "xdg-run/app/com.discordapp.DiscordCanary:create": [
         "com.github.Anuken.Mindustry",
+        "moe.karaokes.mugen",
         "sh.ppy.osu"
     ],
     "~/.var/app/io.gitlab.librewolf-community/.librewolf": [
@@ -2402,7 +2410,8 @@
         "com.github.bluesabre.darkbar",
         "com.github.hluk.copyq",
         "com.github.matfantinel.reminduck",
-        "com.github.rssguard"
+        "com.github.rssguard",
+        "io.gitlab.JakobDev.jdSimpleAutostart"
     ],
     "xdg-data/flatpak/app:ro": [
         "com.github.bluesabre.darkbar",
@@ -2926,6 +2935,9 @@
     "~/Nextcloud/Notes": [
         "io.github.vegad.vnotes"
     ],
+    "host-etc:ro": [
+        "io.gitlab.JakobDev.jdSimpleAutostart"
+    ],
     "xdg-documents/O20:create": [
         "io.gitlab.o20.word"
     ],
@@ -2964,6 +2976,9 @@
     ],
     "xdg-data/gnome-background-properties:create": [
         "me.dusansimic.DynamicWallpaper"
+    ],
+    "~/KaraokeMugen:create": [
+        "moe.karaokes.mugen"
     ],
     "~/.var/app/net.lutris.Lutris/data/lutris/runners": [
         "net.davidotek.pupgui2"
