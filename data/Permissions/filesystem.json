@@ -2243,6 +2243,7 @@
         "com.brave.Browser",
         "com.google.Chrome",
         "com.google.ChromeDev",
+        "io.github.realmazharhussain.GdmSettings",
         "io.wavebox.Wavebox"
     ],
     "~/.local/share/applications:create": [

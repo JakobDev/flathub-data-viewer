@@ -539,6 +539,9 @@
     ".wine": [
         "ua.org.brezblock.q4wine"
     ],
+    ".putty": [
+        "uk.org.greenend.chiark.sgtatham.putty"
+    ],
     ".python-eggs": [
         "work.openpaper.Paperwork"
     ],

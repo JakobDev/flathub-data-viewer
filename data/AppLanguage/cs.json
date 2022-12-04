@@ -62,6 +62,7 @@
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",
     "org.fritzing.Fritzing",
+    "org.gajim.Gajim",
     "org.geany.Geany",
     "org.geeqie.Geeqie",
     "org.gimp.GIMP",
