@@ -1249,6 +1249,7 @@
         "dev.bsnes.bsnes",
         "dev.tchx84.Portfolio",
         "io.github.cmus.cmus",
+        "io.github.neil_morrison44.pocket-sync",
         "io.github.nroduit.Weasis",
         "io.github.swanux.hbud",
         "md.obsidian.Obsidian",
@@ -2402,6 +2403,38 @@
     "xdg-pictures/RMG:create": [
         "com.github.Rosalie241.RMG"
     ],
+    "xdg-run/discord-ipc-5": [
+        "com.github.Rosalie241.RMG"
+    ],
+    "xdg-run/discord-ipc-4": [
+        "com.github.Rosalie241.RMG"
+    ],
+    "xdg-run/discord-ipc-3": [
+        "com.github.Rosalie241.RMG"
+    ],
+    "xdg-run/discord-ipc-9": [
+        "com.github.Rosalie241.RMG"
+    ],
+    "xdg-run/discord-ipc-2": [
+        "com.github.Rosalie241.RMG"
+    ],
+    "xdg-run/discord-ipc-8": [
+        "com.github.Rosalie241.RMG"
+    ],
+    "xdg-run/discord-ipc-1": [
+        "com.github.Rosalie241.RMG"
+    ],
+    "xdg-run/discord-ipc-7": [
+        "com.github.Rosalie241.RMG"
+    ],
+    "xdg-run/discord-ipc-0": [
+        "com.github.Rosalie241.RMG",
+        "com.github.taiko2k.tauonmb",
+        "org.srb2.SRB2Kart"
+    ],
+    "xdg-run/discord-ipc-6": [
+        "com.github.Rosalie241.RMG"
+    ],
     "~/.local/share/applications": [
         "com.github.alexkdeveloper.desktop-files-creator",
         "com.github.ryonakano.pinit",
@@ -2561,10 +2594,6 @@
     "xdg-run/docker.sock": [
         "com.github.sdv43.whaler"
     ],
-    "xdg-run/discord-ipc-0": [
-        "com.github.taiko2k.tauonmb",
-        "org.srb2.SRB2Kart"
-    ],
     "/run/udev:ro": [
         "com.github.theCalcaholic.StreamDeck",
         "com.heroicgameslauncher.hgl",
@@ -2608,6 +2637,9 @@
     ],
     "~/.inendi": [
         "com.gitlab.inendi.Inspector"
+    ],
+    "xdg-music/myuzi:create": [
+        "com.gitlab.zehkira.Myuzi"
     ],
     "~/.config/kioslaverc": [
         "com.google.Chrome",

@@ -1,7 +1,6 @@
 [
     "com.boxy_svg.BoxySVG",
     "com.emqx.MQTTX",
-    "com.github.ransome1.sleek",
     "com.github.rhyme_player.rhyme",
     "com.mongodb.Compass",
     "com.wickeditor.WickEditor",
