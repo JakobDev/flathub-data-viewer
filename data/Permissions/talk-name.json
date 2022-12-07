@@ -2042,6 +2042,7 @@
         "io.github.dfandrich.gpscorrelate",
         "io.github.shiftey.Desktop",
         "io.github.swanux.hbud",
+        "io.gitlab.jstest_gtk.jstest_gtk",
         "io.gitlab.librewolf-community",
         "net.giuspen.cherrytree",
         "net.sourceforge.efaxgtk",
@@ -2688,9 +2689,6 @@
     ],
     "io.github.rinigus.osmscoutserver": [
         "io.github.rinigus.PureMaps"
-    ],
-    "org.kde.statusnotifieritem-3-1": [
-        "io.github.spacingbat3.webcord"
     ],
     "org.freedesktop.portal.openuri": [
         "io.gitlab.adhami3310.Converter"

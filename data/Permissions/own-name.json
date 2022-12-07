@@ -235,6 +235,9 @@
     "org.mpris.mediaplayer2.goodvibes": [
         "io.gitlab.Goodvibes"
     ],
+    "com.gmail.grumbel.jstest-gtk": [
+        "io.gitlab.jstest_gtk.jstest_gtk"
+    ],
     "org.mpris.mediaplayer2.firefox.*": [
         "io.gitlab.librewolf-community",
         "org.mozilla.firefox"

@@ -1548,6 +1548,7 @@
         "io.github.celluloid_player.Celluloid",
         "io.github.mpobaschnig.Vaults",
         "io.github.swanux.hbud",
+        "io.gitlab.jstest_gtk.jstest_gtk",
         "net.giuspen.cherrytree",
         "net.sourceforge.efaxgtk",
         "org.darktable.Darktable",
