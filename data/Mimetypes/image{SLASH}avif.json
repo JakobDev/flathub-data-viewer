@@ -1,5 +1,6 @@
 [
     "com.interversehq.qView",
+    "io.gitlab.adhami3310.Converter",
     "org.darktable.Darktable",
     "org.gimp.GIMP",
     "org.kde.gwenview",

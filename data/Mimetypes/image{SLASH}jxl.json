@@ -1,5 +1,6 @@
 [
     "com.interversehq.qView",
+    "io.gitlab.adhami3310.Converter",
     "org.gimp.GIMP",
     "org.gnome.eog",
     "org.gnome.gThumb",
