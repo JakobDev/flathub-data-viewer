@@ -1064,6 +1064,7 @@
     "org.kde.ksquares",
     "org.kde.kst",
     "org.kde.kstars",
+    "org.kde.ksudoku",
     "org.kde.kteatime",
     "org.kde.ktimetracker",
     "org.kde.ktorrent",

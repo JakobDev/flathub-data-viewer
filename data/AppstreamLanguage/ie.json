@@ -5,6 +5,8 @@
     "io.otsaloma.gaupol",
     "org.gnome.Lollypop",
     "org.gtkhash.gtkhash",
+    "org.kde.ark",
+    "org.kde.filelight",
     "org.kde.neochat",
     "org.x.Warpinator"
 ]

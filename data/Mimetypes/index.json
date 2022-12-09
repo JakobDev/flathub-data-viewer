@@ -2,6 +2,7 @@
     "description": "Shows all Apps with the given Mimetype",
     "data": [
         "application{SLASH}YUView",
+        "application{SLASH}arj",
         "application{SLASH}asx",
         "application{SLASH}atom+xml",
         "application{SLASH}bitwig-clip",
@@ -984,6 +985,7 @@
         "application{SLASH}xslt+xml",
         "application{SLASH}xspf+xml",
         "application{SLASH}zip",
+        "application{SLASH}zlib",
         "application{SLASH}zstd",
         "application{SLASH}{ASTERISK}",
         "audio{SLASH}3gpp",

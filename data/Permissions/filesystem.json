@@ -1142,7 +1142,8 @@
         "com.borgbase.Vorta",
         "com.github.qarmin.czkawka",
         "org.gnome.DejaDup",
-        "org.gnome.World.PikaBackup"
+        "org.gnome.World.PikaBackup",
+        "org.gnome.baobab"
     ],
     "/var:ro": [
         "app.drey.KeyRack"

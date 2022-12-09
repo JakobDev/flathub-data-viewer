@@ -1,5 +1,6 @@
 [
     "io.github.peazip.PeaZip",
     "org.cubocore.CoreArchiver",
-    "org.gnome.FileRoller"
+    "org.gnome.FileRoller",
+    "org.kde.ark"
 ]
