@@ -2691,7 +2691,8 @@
         "io.github.rinigus.PureMaps"
     ],
     "org.freedesktop.portal.openuri": [
-        "io.gitlab.adhami3310.Converter"
+        "io.gitlab.adhami3310.Converter",
+        "io.gitlab.theevilskeleton.Upscaler"
     ],
     "com.canonical.dbusmenu": [
         "moe.karaokes.mugen",

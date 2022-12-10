@@ -12,7 +12,6 @@
         "net.retrodeck.retrodeck",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.xm1math.Texmaker",
-        "org.freecadweb.FreeCAD",
         "org.frescobaldi.Frescobaldi",
         "org.kde.akregator",
         "org.kde.angelfish",
@@ -49,6 +48,7 @@
     "5.15-22.08": [
         "io.sourceforge.chart_geany.chart-geany",
         "net.sonic_pi.SonicPi",
+        "org.freecadweb.FreeCAD",
         "org.paraview.ParaView"
     ]
 }

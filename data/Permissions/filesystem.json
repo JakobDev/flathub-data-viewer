@@ -1360,7 +1360,6 @@
         "re.sonny.Junction",
         "ru.sview.sView",
         "space.fips.Fips",
-        "space.nouspiro.tenmon",
         "uk.co.electronstudio.ComicReaderUltimate"
     ],
     "xdg-run/pipewire-0": [
@@ -1960,7 +1959,8 @@
         "org.xfce.mousepad",
         "org.xfce.ristretto",
         "org.zaproxy.ZAP",
-        "se.cendio.tlclient"
+        "se.cendio.tlclient",
+        "space.nouspiro.tenmon"
     ],
     "xdg-run/keyring": [
         "cc.arduino.IDE2",
