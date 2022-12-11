@@ -197,7 +197,6 @@
     ],
     "org.freedesktop.realtimekit1": [
         "com.polyphone_soundfonts.polyphone",
-        "com.rosegardenmusic.rosegarden",
         "io.github.gillesdegottex.FMIT",
         "net.purrdata.PurrData",
         "net.sonobus.SonoBus",
