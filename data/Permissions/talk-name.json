@@ -1977,7 +1977,6 @@
         "com.brave.Browser",
         "com.github.Eloston.UngoogledChromium",
         "com.github.quaternion",
-        "io.github.spacingbat3.webcord",
         "org.chromium.Chromium",
         "org.cryptomator.Cryptomator",
         "org.gajim.Gajim",
@@ -2689,6 +2688,9 @@
     ],
     "io.github.rinigus.osmscoutserver": [
         "io.github.rinigus.PureMaps"
+    ],
+    "org.kde.statusnotifieritem-2-1": [
+        "io.github.spacingbat3.webcord"
     ],
     "org.freedesktop.portal.openuri": [
         "io.gitlab.adhami3310.Converter",

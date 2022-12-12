@@ -90,7 +90,8 @@
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
         "space.nouspiro.tenmon",
-        "studio.kx.carla"
+        "studio.kx.carla",
+        "ua.org.brezblock.q4wine"
     ],
     "6.4": [
         "app.lith.Lith",
@@ -103,6 +104,7 @@
         "io.qt.Linguist",
         "io.qt.qdbusviewer",
         "net.davidotek.pupgui2",
+        "net.pcsx2.PCSX2",
         "org.bino3d.bino"
     ],
     "5.15-21.08": [
@@ -427,7 +429,6 @@
         "org.zealdocs.Zeal",
         "se.sjoerd.GIScan",
         "space.fips.Fips",
-        "ua.org.brezblock.q4wine",
         "website.i2pd.i2pd",
         "xyz.mx_moment.moment",
         "xyz.z3ntu.razergenie"
@@ -504,7 +505,6 @@
         "io.mrarm.mcpelauncher",
         "me.mitya57.ReText",
         "net.jami.Jami",
-        "net.pcsx2.PCSX2",
         "net.sourceforge.VMPK",
         "net.sourceforge.dmidiplayer",
         "net.sourceforge.kmetronome",
