@@ -12,6 +12,7 @@
     "net.gwyddion.Gwyddion",
     "net.sourceforge.scidavis",
     "org.hdfgroup.HDFView",
+    "org.kde.kgraphviewer",
     "org.kde.kst",
     "org.paraview.ParaView",
     "org.radare.iaito",

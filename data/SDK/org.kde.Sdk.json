@@ -1,7 +1,6 @@
 {
     "5.15-22.08": [
         "app.cantara.Cantara",
-        "be.telenet.user.QSSTV",
         "com.cuperino.qprompt",
         "com.flashforge.FlashPrint",
         "com.github.Bleuzen.FFaudioConverter",
@@ -31,6 +30,7 @@
         "de.akaflieg_freiburg.enroute",
         "de.syping.gta5view",
         "edu.princeton.physics.WSJTX",
+        "fr.free.brouits.qspeakers",
         "io.crow_translate.CrowTranslate",
         "io.github.antimicrox.antimicrox",
         "io.github.bothlab.pomidaq",
@@ -51,6 +51,7 @@
         "net.jammr.jammr",
         "net.kuribo64.melonDS",
         "net.kvirc.KVIrc",
+        "net.qsl.QSSTV",
         "net.rpcs3.RPCS3",
         "net.seamly.seamly2d",
         "net.sonic_pi.SonicPi",
@@ -316,6 +317,7 @@
         "org.kde.kgeotag",
         "org.kde.kget",
         "org.kde.kgoldrunner",
+        "org.kde.kgraphviewer",
         "org.kde.khangman",
         "org.kde.kid3",
         "org.kde.kig",

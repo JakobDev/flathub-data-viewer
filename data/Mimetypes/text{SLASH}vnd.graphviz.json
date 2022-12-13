@@ -1,3 +1,4 @@
 [
-    "com.github.artemanufrij.graphui"
+    "com.github.artemanufrij.graphui",
+    "org.kde.kgraphviewer"
 ]

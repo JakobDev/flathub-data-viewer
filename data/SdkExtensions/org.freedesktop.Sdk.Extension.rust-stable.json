@@ -64,6 +64,7 @@
     "io.github.achetagames.epic_asset_manager",
     "io.github.davidoc26.wallpaper_selector",
     "io.github.fin_ger.OvGUCanteen",
+    "io.github.hrkfdn.ncspot",
     "io.github.hydrusnetwork.hydrus",
     "io.github.limads.Queries",
     "io.github.mmstick.FontFinder",
@@ -110,5 +111,6 @@
     "org.x.Warpinator",
     "sa.sy.bluerecorder",
     "sh.xaviers.Opentapes",
+    "tw.ddnet.ddnet",
     "xyz.ljoonal.neospeeps"
 ]

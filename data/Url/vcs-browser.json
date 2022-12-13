@@ -46,9 +46,11 @@
     "org.skytemple.Randomizer",
     "org.skytemple.SkyTemple",
     "org.soapui.SoapUI",
+    "org.standardnotes.standardnotes",
     "org.thentrythis.Samplebrain",
     "org.turbowarp.TurboWarp",
     "org.yuzu_emu.yuzu",
     "pm.mirko.Atoms",
+    "org.blackfennec.app.extensions.base",
     "org.blackfennec.app.extensions.core"
 ]

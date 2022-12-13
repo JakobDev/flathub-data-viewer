@@ -185,6 +185,7 @@
     "io.github.Hexchat.Plugin.OTR",
     "io.github.Hexchat.Plugin.Perl",
     "org.bitbucket.mystery_keeper.VapourSynthEditor.Plugin.FFMS2",
+    "org.blackfennec.app.extensions.base",
     "org.blackfennec.app.extensions.core",
     "org.freedesktop.Sdk.Extension.dotnet",
     "org.freedesktop.Sdk.Extension.dotnet5",

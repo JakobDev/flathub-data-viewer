@@ -214,6 +214,9 @@
     "org.mpris.mediaplayer2.cmus": [
         "io.github.cmus.cmus"
     ],
+    "org.mpris.mediaplayer2.ncspot": [
+        "io.github.hrkfdn.ncspot"
+    ],
     "org.mpris.mediaplayer2.noson.*": [
         "io.github.janbar.noson"
     ],
@@ -222,6 +225,9 @@
     ],
     "org.mpris.mediaplayer2.kotatogram": [
         "io.github.kotatogram"
+    ],
+    "org.mpris.mediaplayer2.yesplaymusic": [
+        "io.github.qier222.YesPlayMusic"
     ],
     "org.mpris.quodlibet": [
         "io.github.quodlibet.QuodLibet"

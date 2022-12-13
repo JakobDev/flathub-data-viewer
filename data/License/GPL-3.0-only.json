@@ -66,6 +66,7 @@
     "pm.mirko.Atoms",
     "sa.sy.bluerecorder",
     "com.valvesoftware.Steam.Utility.steamtinkerlaunch",
+    "org.blackfennec.app.extensions.base",
     "org.blackfennec.app.extensions.core",
     "org.gtk.Gtk3theme.Mojave-light"
 ]

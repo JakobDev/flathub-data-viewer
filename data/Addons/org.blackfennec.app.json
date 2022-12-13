@@ -1,3 +1,4 @@
 [
+    "org.blackfennec.app.extensions.base",
     "org.blackfennec.app.extensions.core"
 ]
