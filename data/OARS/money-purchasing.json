@@ -259,7 +259,8 @@
         "org.firestormviewer.FirestormViewer",
         "org.phoenicis.playonlinux",
         "org.telegram",
-        "org.vergecurrency.verge-qt"
+        "org.vergecurrency.verge-qt",
+        "so.onekey.Wallet"
     ],
     "mild": [
         "com.avocode.Avocode",

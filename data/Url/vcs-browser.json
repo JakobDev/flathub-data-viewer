@@ -51,6 +51,7 @@
     "org.turbowarp.TurboWarp",
     "org.yuzu_emu.yuzu",
     "pm.mirko.Atoms",
+    "so.onekey.Wallet",
     "org.blackfennec.app.extensions.base",
     "org.blackfennec.app.extensions.core"
 ]

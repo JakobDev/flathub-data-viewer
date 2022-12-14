@@ -267,6 +267,9 @@
     ".trackballs": [
         "io.github.trackballs.Trackballs"
     ],
+    ".qmplay2": [
+        "io.github.zaps166.QMPlay2"
+    ],
     ".libretile": [
         "io.gitlab.celleron56.libretile"
     ],

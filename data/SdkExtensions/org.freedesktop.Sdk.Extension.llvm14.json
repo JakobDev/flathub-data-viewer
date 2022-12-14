@@ -8,6 +8,7 @@
     "io.github.hydrusnetwork.hydrus",
     "net.retrodeck.retrodeck",
     "net.rpcs3.RPCS3",
+    "org.chromium.Chromium",
     "org.codeberg.dimkard.glossaico",
     "org.freecadweb.FreeCAD",
     "org.freedesktop.Bustle",

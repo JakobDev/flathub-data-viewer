@@ -2,7 +2,8 @@
     "22.08": [
         "com.brave.Browser",
         "com.google.Chrome",
-        "com.microsoft.Edge"
+        "com.microsoft.Edge",
+        "org.chromium.Chromium"
     ],
     "21.08": [
         "com.github.Eloston.UngoogledChromium",

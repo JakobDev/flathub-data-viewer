@@ -1,6 +1,7 @@
 [
     "com.github.neithern.g4music",
     "com.ylsoftware.qmmp.Qmmp",
+    "io.github.zaps166.QMPlay2",
     "net.baseart.Glide",
     "org.atheme.audacious",
     "org.gnome.Rhythmbox3",

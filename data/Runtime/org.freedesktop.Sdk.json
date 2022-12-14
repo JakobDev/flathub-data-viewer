@@ -4,6 +4,7 @@
     ],
     "22.08": [
         "com.axosoft.GitKraken",
+        "com.jetbrains.CLion",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetbrains.PhpStorm",
@@ -34,7 +35,6 @@
     "21.08": [
         "com.chez.GrafX2",
         "com.google.AndroidStudio",
-        "com.jetbrains.CLion",
         "com.jetbrains.GoLand",
         "com.okta.developer.CLI",
         "com.steamgriddb.steam-rom-manager",

@@ -90,6 +90,7 @@
         "org.yuzu_emu.yuzu",
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
+        "se.sjoerd.GIScan",
         "space.nouspiro.tenmon",
         "studio.kx.carla",
         "ua.org.brezblock.q4wine"
@@ -203,6 +204,7 @@
         "io.github.webcamoid.Webcamoid",
         "io.github.wereturtle.ghostwriter",
         "io.github.xaos_project.XaoS",
+        "io.github.zaps166.QMPlay2",
         "io.gitlab.persiangolf.voicegen",
         "io.itch.azagaya.Laigter",
         "io.jamulus.Jamulus",
@@ -421,7 +423,6 @@
         "org.stellarium.Stellarium",
         "org.tug.texworks",
         "org.zealdocs.Zeal",
-        "se.sjoerd.GIScan",
         "space.fips.Fips",
         "website.i2pd.i2pd",
         "xyz.mx_moment.moment",

@@ -47,6 +47,7 @@
     "io.github.Cockatrice.cockatrice",
     "io.github.am2r_community_developers.AM2RLauncher",
     "io.github.betaflight.BetaflightConfigurator",
+    "io.github.brunoherbelin.Vimix",
     "io.github.gillesdegottex.FMIT",
     "io.github.lethal_guitar.RigelEngine",
     "io.github.mrquantumoff.mcmodpackmanager",
@@ -146,6 +147,7 @@
     "org.zdoom.GZDoom",
     "page.codeberg.foreverxml.Random",
     "sh.ppy.osu",
+    "so.onekey.Wallet",
     "tv.kodi.Kodi",
     "org.gimp.GIMP.Plugin.Resynthesizer"
 ]
