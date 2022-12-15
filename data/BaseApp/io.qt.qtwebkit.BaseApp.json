@@ -8,7 +8,6 @@
         "org.fcitx.Fcitx5",
         "org.kde.skrooge",
         "org.kde.umbrello",
-        "org.openshot.OpenShot",
         "org.qgis.qgis",
         "org.zealdocs.Zeal"
     ],
@@ -19,7 +18,8 @@
     "5.15-22.08": [
         "com.github.fontmatrix.Fontmatrix",
         "com.icanblink.blink",
-        "org.goldendict.GoldenDict"
+        "org.goldendict.GoldenDict",
+        "org.openshot.OpenShot"
     ],
     "5.14": [
         "com.ktechpit.wonderwall"

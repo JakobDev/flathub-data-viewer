@@ -3,6 +3,7 @@
     "io.atom.Atom",
     "io.gitlab.librewolf-community",
     "nl.sarine.gpx-viewer",
+    "org.blackfennec.app",
     "org.gnome.Builder",
     "org.kde.itinerary"
 ]

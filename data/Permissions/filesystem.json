@@ -147,6 +147,7 @@
         "de.finnik.PassVault",
         "de.manuel_kehl.go-for-it",
         "de.marlam.qv",
+        "de.mediathekview.MediathekView",
         "de.willuhn.Jameica",
         "dev.bsnes.bsnes",
         "dev.goats.xivlauncher",
@@ -358,6 +359,7 @@
         "org.zrythm.Zrythm",
         "re.rizin.cutter",
         "sa.sy.bluerecorder",
+        "se.sjoerd.DatMan",
         "se.sjoerd.GIScan",
         "studio.kx.carla",
         "uk.et1.big-finish-downloader",
@@ -980,7 +982,6 @@
         "com.wps.Office",
         "com.xunlei.Thunder",
         "de.haeckerfelix.Fragments",
-        "de.mediathekview.MediathekView",
         "de.schmidhuberj.tubefeeder",
         "dev.vieb.Vieb",
         "eu.betterbird.Betterbird",
@@ -3120,6 +3121,9 @@
         "org.eyecreate.vehiclevoyage"
     ],
     "xdg-run/org.keepassxc.KeePassXC.BrowserServer": [
+        "org.cryptomator.Cryptomator"
+    ],
+    "xdg-run/app/org.keepassxc.KeePassXC": [
         "org.cryptomator.Cryptomator"
     ],
     "~/.crawlrc:ro": [

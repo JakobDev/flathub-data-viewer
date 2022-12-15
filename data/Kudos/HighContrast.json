@@ -242,5 +242,6 @@
     "re.sonny.Workbench",
     "ro.fxdata.taskmonitor.viewer",
     "ro.hume.cosmin.ShoppingList",
+    "se.sjoerd.DatMan",
     "se.sjoerd.GIScan"
 ]

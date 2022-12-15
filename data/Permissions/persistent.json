@@ -216,12 +216,6 @@
     ".nagstamon": [
         "de.ifw_dresden.nagstamon"
     ],
-    ".mediathek3": [
-        "de.mediathekview.MediathekView"
-    ],
-    ".mediathek.javafx.tool.JFXHiddenApplication/": [
-        "de.mediathekview.MediathekView"
-    ],
     ".BOINC": [
         "edu.berkeley.BOINC"
     ],

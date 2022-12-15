@@ -66,6 +66,7 @@
         "com.gitlab.maevemi.publictransport",
         "com.gitlab.newsflash",
         "com.gitlab.zehkira.Myuzi",
+        "com.hack_computer.Clubhouse",
         "com.hack_computer.OperatingSystemApp",
         "com.hack_computer.Sidetrack",
         "com.hamrick.VueScan",
@@ -223,6 +224,7 @@
         "re.sonny.Junction",
         "re.sonny.Playhouse",
         "re.sonny.Retro",
+        "se.sjoerd.DatMan",
         "uk.co.ibboard.cawbird",
         "uk.org.greenend.chiark.sgtatham.putty"
     ],
@@ -531,7 +533,6 @@
         "com.github.needleandthread.vocal",
         "com.github.rajsolai.textsnatcher",
         "com.github.suzie97.communique",
-        "com.hack_computer.Clubhouse",
         "com.mousepawmedia.omission",
         "com.st.STM32CubeIDE",
         "de.manuel_kehl.go-for-it",
