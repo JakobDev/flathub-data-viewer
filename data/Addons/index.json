@@ -40,7 +40,8 @@
         "org.surge_synth_team.surge-xt",
         "org.telegram",
         "org.videolan.VLC",
-        "org.winehq.Wine"
+        "org.winehq.Wine",
+        "re.rizin.cutter"
     ],
     "dataNames": {}
 }

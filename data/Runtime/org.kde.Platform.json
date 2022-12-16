@@ -1,6 +1,7 @@
 {
     "5.15-22.08": [
         "app.cantara.Cantara",
+        "ca.parallel_launcher.ParallelLauncher",
         "com.cuperino.qprompt",
         "com.flashforge.FlashPrint",
         "com.github.Bleuzen.FFaudioConverter",
@@ -68,6 +69,7 @@
         "org.hydrogenmusic.Hydrogen",
         "org.jacktrip.JackTrip",
         "org.keepassxc.KeePassXC",
+        "org.ksnip.ksnip",
         "org.librepcb.LibrePCB",
         "org.libretro.RetroArch",
         "org.mamedev.MAME",
@@ -111,7 +113,6 @@
         "app.resp.RESP",
         "art.taunoerik.tauno-serial-plotter",
         "at.priv.toastfreeware.ConfClerk",
-        "ca.parallel_launcher.ParallelLauncher",
         "ch.openboard.OpenBoard",
         "ch.theologeek.Manuskript",
         "com.borgbase.Vorta",
@@ -392,7 +393,6 @@
         "org.kde.tokodon",
         "org.kde.umbrello",
         "org.kde.vvave",
-        "org.ksnip.ksnip",
         "org.leocad.LeoCAD",
         "org.mapeditor.Tiled",
         "org.mixxx.Mixxx",

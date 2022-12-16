@@ -1091,7 +1091,8 @@
         "studio.kx.carla",
         "ua.org.brezblock.q4wine",
         "website.i2pd.i2pd",
-        "xyz.mx_moment.moment"
+        "xyz.mx_moment.moment",
+        "xyz.z3ntu.razergenie"
     ],
     "org.kde.kglobalsettings": [
         "app.cantara.Cantara",
@@ -1445,7 +1446,8 @@
         "studio.kx.carla",
         "ua.org.brezblock.q4wine",
         "website.i2pd.i2pd",
-        "xyz.mx_moment.moment"
+        "xyz.mx_moment.moment",
+        "xyz.z3ntu.razergenie"
     ],
     "org.freedesktop.filemanager1": [
         "app.drey.Warp",
