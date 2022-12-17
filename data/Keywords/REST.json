@@ -1,3 +1,4 @@
 [
-    "com.github.treagod.spectator"
+    "com.github.treagod.spectator",
+    "rest.insomnia.Insomnia"
 ]

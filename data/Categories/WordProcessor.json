@@ -8,5 +8,6 @@
     "io.typora.Typora",
     "me.mitya57.ReText",
     "org.gottcode.FocusWriter",
-    "org.onlyoffice.desktopeditors"
+    "org.onlyoffice.desktopeditors",
+    "org.standardnotes.standardnotes"
 ]
