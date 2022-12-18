@@ -4,5 +4,6 @@
     "io.jamulus.Jamulus",
     "net.sonobus.SonoBus",
     "org.mixxx.Mixxx",
+    "org.musescore.MuseScore",
     "org.pulseaudio.pavucontrol"
 ]
