@@ -738,6 +738,7 @@
     "org.apache.directory.studio",
     "org.apache.jmeter",
     "org.apache.netbeans",
+    "org.ardour.Ardour",
     "org.armagetronad.ArmagetronAdvanced",
     "org.audacityteam.Audacity",
     "org.bitcoincore.bitcoin-qt",

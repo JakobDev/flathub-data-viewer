@@ -1486,6 +1486,7 @@
         "org.mozilla.firefox",
         "org.mpdevil.mpdevil",
         "org.x.Warpinator",
+        "org.xfce.ristretto",
         "work.openpaper.Paperwork"
     ],
     "org.kde.statusnotifierwatcher": [
@@ -2694,8 +2695,7 @@
     ],
     "org.xfce.filemanager": [
         "io.github.quodlibet.ExFalso",
-        "io.github.quodlibet.QuodLibet",
-        "org.xfce.ristretto"
+        "io.github.quodlibet.QuodLibet"
     ],
     "com.canonical.unity.launcher": [
         "io.github.quodlibet.ExFalso",

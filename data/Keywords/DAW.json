@@ -1,4 +1,5 @@
 [
+    "org.ardour.Ardour",
     "org.rncbc.qtractor",
     "org.zrythm.Zrythm"
 ]

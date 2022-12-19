@@ -59,5 +59,6 @@
     "org.gnome.seahorse.Application",
     "org.gnumeric.Gnumeric",
     "org.midori_browser.Midori",
-    "org.stellarium.Stellarium"
+    "org.stellarium.Stellarium",
+    "org.xfce.ristretto"
 ]
