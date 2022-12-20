@@ -609,6 +609,7 @@
         "io.podman_desktop.PodmanDesktop",
         "io.sourceforge.pysolfc.PySolFC",
         "io.sourceforge.trigger_rally.TriggerRally",
+        "io.sourceforge.zaz",
         "io.thp.numptyphysics",
         "io.typora.Typora",
         "io.wasabiwallet.WasabiWallet",
