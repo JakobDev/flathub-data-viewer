@@ -8,6 +8,7 @@
     "de.klayout.KLayout",
     "eu.stethewwolf.gresistor",
     "io.github.gtkwave.GTKWave",
+    "io.github.wh201906.serialtest",
     "org.fritzing.Fritzing",
     "org.horizon_eda.HorizonEDA",
     "org.kicad.KiCad",

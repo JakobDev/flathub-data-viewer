@@ -17,6 +17,7 @@
     "org.horizon_eda.HorizonEDA",
     "org.kicad.KiCad",
     "org.lamport.tla.toolbox",
+    "org.librecad.librecad",
     "org.librepcb.LibrePCB",
     "org.openhantek.OpenHantek6022",
     "org.openscad.OpenSCAD",

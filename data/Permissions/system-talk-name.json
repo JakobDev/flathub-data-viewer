@@ -97,6 +97,7 @@
         "edu.stanford.Almond",
         "io.emeric.watchflower",
         "io.github.betaflight.BetaflightConfigurator",
+        "io.github.wh201906.serialtest",
         "io.gitlab.azymohliad.WatchMate",
         "nl.brixit.wiremapper",
         "org.eyecreate.qiflora",

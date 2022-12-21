@@ -18,6 +18,7 @@
     "org.getmonero.Monero",
     "org.gnome.gitlab.johannesjh.favagtk",
     "org.gnucash.GnuCash",
+    "org.goldcoinproject.goldcoin-qt",
     "org.groestlcoin.electrum-grs",
     "org.groestlcoin.groestlcoin-qt",
     "org.kde.skrooge",
