@@ -2,6 +2,7 @@
     "edu.berkeley.BOINC",
     "org.kde.kturtle",
     "org.lamport.tla.toolbox",
+    "org.mmass.mMass",
     "org.radare.iaito",
     "org.sugarlabs.MusicBlocks",
     "org.thonny.Thonny"

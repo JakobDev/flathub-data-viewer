@@ -31,7 +31,7 @@
     ],
     "6.3": [
         "com.github.jmlich.geotagging",
-        "com.github.rssguard",
+        "io.github.martinrotter.rssguard",
         "io.mrarm.mcpelauncher",
         "net.jami.Jami"
     ],
