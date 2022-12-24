@@ -308,6 +308,7 @@
         "io.github.libvibrant.vibrantLinux",
         "io.github.markummitchell.Engauge_Digitizer",
         "io.github.martinrotter.rssguard",
+        "io.github.martinrotter.rssguardlite",
         "io.github.martinrotter.textosaurus",
         "io.github.maurycyliebner.enve",
         "io.github.muse_sequencer.Muse",
@@ -1590,6 +1591,7 @@
         "io.github.kotatogram",
         "io.github.liberodark.OpenDrive",
         "io.github.martinrotter.rssguard",
+        "io.github.martinrotter.rssguardlite",
         "io.github.mimbrero.WhatsAppDesktop",
         "io.github.peazip.PeaZip",
         "io.github.purplehorrorrus.Meridius",
@@ -1828,6 +1830,7 @@
         "io.github.kotatogram",
         "io.github.liberodark.OpenDrive",
         "io.github.martinrotter.rssguard",
+        "io.github.martinrotter.rssguardlite",
         "io.github.mimbrero.WhatsAppDesktop",
         "io.github.openWMail.openWMail",
         "io.github.peazip.PeaZip",
@@ -2640,7 +2643,8 @@
         "com.prusa3d.PrusaSlicer"
     ],
     "org.kde.statusnotifieritem": [
-        "com.rtosta.zapzap"
+        "com.rtosta.zapzap",
+        "net.hovancik.Stretchly"
     ],
     "com.canonical.unity": [
         "com.rtosta.zapzap",
@@ -2686,7 +2690,8 @@
         "org.gnome.Reversi"
     ],
     "org.freedesktop.statusnotifieritem": [
-        "io.github.NhekoReborn.Nheko"
+        "io.github.NhekoReborn.Nheko",
+        "net.hovancik.Stretchly"
     ],
     "org.kde.*": [
         "io.github.NhekoReborn.Nheko"
@@ -2743,6 +2748,9 @@
     ],
     "org.gnome.settingsdaemon.power": [
         "net.displaycal.DisplayCAL"
+    ],
+    "org.freedesktop.statusnotifierwatcher": [
+        "net.hovancik.Stretchly"
     ],
     "org.mate.screensaver": [
         "net.rpcs3.RPCS3"

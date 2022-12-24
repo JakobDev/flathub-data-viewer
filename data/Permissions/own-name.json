@@ -19,6 +19,7 @@
         "info.mumble.Mumble",
         "io.github.antimicrox.antimicrox",
         "io.github.qnapi",
+        "net.hovancik.Stretchly",
         "network.loki.Session",
         "nz.mega.MEGAsync",
         "org.cubocore.CoreAction",

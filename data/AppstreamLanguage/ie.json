@@ -8,6 +8,9 @@
     "org.kde.ark",
     "org.kde.dolphin",
     "org.kde.filelight",
+    "org.kde.konversation",
+    "org.kde.lokalize",
     "org.kde.neochat",
+    "org.kde.okular",
     "org.x.Warpinator"
 ]

@@ -65,6 +65,8 @@
     "org.kde.filelight",
     "org.kde.gwenview",
     "org.kde.haruna",
+    "org.kde.kcalc",
+    "org.kde.kwrite",
     "org.kde.neochat",
     "org.kde.okular",
     "org.midori_browser.Midori",
