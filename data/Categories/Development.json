@@ -74,6 +74,7 @@
     "in.srev.guiscrcpy",
     "info.puredata.Pd-extended",
     "io.atom.Atom",
+    "io.beekeeperstudio.Studio",
     "io.botfather.Botfather",
     "io.brackets.Brackets",
     "io.dbeaver.DBeaverCommunity",

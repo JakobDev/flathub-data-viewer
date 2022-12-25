@@ -2862,11 +2862,23 @@
     "~/.wallpaperdownloader:create": [
         "es.estoes.wallpaperDownloader"
     ],
+    "/var/spool/mail": [
+        "eu.betterbird.Betterbird"
+    ],
     "~/.gnupg": [
         "eu.betterbird.Betterbird",
         "org.gajim.Gajim",
         "org.gnome.Evolution",
         "org.mozilla.Thunderbird"
+    ],
+    "/usr/mail": [
+        "eu.betterbird.Betterbird"
+    ],
+    "/var/mail": [
+        "eu.betterbird.Betterbird"
+    ],
+    "/usr/spool/mail": [
+        "eu.betterbird.Betterbird"
     ],
     "~/RPMLauncher:create": [
         "ga.rpmtw.rpmlauncher"
@@ -3283,9 +3295,6 @@
     ],
     "~/.local/share/fonts:create": [
         "org.gustavoperedo.FontDownloader"
-    ],
-    "xdg-data/sounds": [
-        "org.kde.kclock"
     ],
     "~/.local/share/godot/app_userdata/libre-trainsim": [
         "org.libretrainsim.Libre-TrainSim"

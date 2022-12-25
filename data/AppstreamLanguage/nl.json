@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.EarTag",
     "app.drey.Warp",
     "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
