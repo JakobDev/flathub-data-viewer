@@ -48,9 +48,6 @@
     "org.mpris.mediaplayer2.headset": [
         "co.headsetapp.headset"
     ],
-    "com.belmoussaoui.authenticator.searchprovider": [
-        "com.belmoussaoui.Authenticator"
-    ],
     "org.mpris.mediaplayer2.chromium.*": [
         "com.brave.Browser",
         "com.github.Eloston.UngoogledChromium",
@@ -184,9 +181,6 @@
     ],
     "org.mpris.mediaplayer2.thebeat": [
         "com.vicr123.thebeat"
-    ],
-    "de.tumexam.cli": [
-        "de.tumexam.cli"
     ],
     "org.mpris.mediaplayer2.spot": [
         "dev.alextren.Spot"

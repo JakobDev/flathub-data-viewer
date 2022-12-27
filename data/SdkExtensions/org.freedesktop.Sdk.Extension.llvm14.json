@@ -1,4 +1,5 @@
 [
+    "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.github.Eloston.UngoogledChromium",
     "com.github.dariasteam.cowsrevenge",
@@ -18,5 +19,6 @@
     "org.hedgewars.Hedgewars",
     "org.mozilla.Thunderbird",
     "org.pipewire.Helvum",
-    "re.rizin.cutter"
+    "re.rizin.cutter",
+    "org.freedesktop.Sdk.Extension.dmd"
 ]

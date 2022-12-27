@@ -1,5 +1,4 @@
 [
-    "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.ashpd.demo",
     "eu.ad5001.LogarithmPlotter",
     "io.github.kotatogram",
@@ -9,6 +8,5 @@
     "org.kde.kdenlive",
     "org.kde.kdevelop",
     "org.kde.umbrello",
-    "org.onionshare.OnionShare",
-    "org.freedesktop.Sdk.Extension.dmd"
+    "org.onionshare.OnionShare"
 ]
