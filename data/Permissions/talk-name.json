@@ -2328,7 +2328,6 @@
     ],
     "org.freedesktop.login1": [
         "ca.parallel_launcher.ParallelLauncher",
-        "net.retrodeck.retrodeck",
         "org.jitsi.jitsi-meet",
         "org.libretro.RetroArch"
     ],
@@ -2757,6 +2756,11 @@
     "org.freedesktop.statusnotifierwatcher": [
         "net.hovancik.Stretchly"
     ],
+    "org.freedesktop.login1.manager": [
+        "net.retrodeck.retrodeck",
+        "org.keepassxc.KeePassXC",
+        "org.yuzu_emu.yuzu"
+    ],
     "org.mate.screensaver": [
         "net.rpcs3.RPCS3"
     ],
@@ -2893,10 +2897,6 @@
     ],
     "com.canonical.unity.session": [
         "org.keepassxc.KeePassXC"
-    ],
-    "org.freedesktop.login1.manager": [
-        "org.keepassxc.KeePassXC",
-        "org.yuzu_emu.yuzu"
     ],
     "org.gnome.sessionmanager.presence": [
         "org.keepassxc.KeePassXC"

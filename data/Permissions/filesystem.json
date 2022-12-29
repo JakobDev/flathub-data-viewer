@@ -233,6 +233,7 @@
         "net.meshlab.MeshLab",
         "net.poedit.Poedit",
         "net.qsl.QSSTV",
+        "net.retrodeck.retrodeck",
         "net.rpdev.OpenTodoList",
         "net.seamly.seamly2d",
         "net.sf.VICE",
@@ -3094,9 +3095,6 @@
     "xdg-run/app/com.discordapp.DiscordCanary:ro": [
         "net.openra.OpenRA"
     ],
-    "~/retrodeck:create": [
-        "net.retrodeck.retrodeck"
-    ],
     "~/.runelite:create": [
         "net.runelite.RuneLite"
     ],
@@ -3132,6 +3130,11 @@
         "org.groestlcoin.groestlcoin-qt",
         "org.vertcoin.vertcoin-qt"
     ],
+    "/run/spnav.sock:ro": [
+        "org.blender.Blender",
+        "org.freecadweb.FreeCAD",
+        "org.horizon_eda.HorizonEDA"
+    ],
     "xdg-data": [
         "org.chocolate_doom.ChocolateDoom",
         "org.eyecreate.qiflora",
@@ -3163,10 +3166,6 @@
     ],
     "~/.firestorm_x64:create": [
         "org.firestormviewer.FirestormViewer"
-    ],
-    "/run/spnav.sock:ro": [
-        "org.freecadweb.FreeCAD",
-        "org.horizon_eda.HorizonEDA"
     ],
     "~/.local/share/flatpak:ro": [
         "org.freedesktop.appstream-glib",

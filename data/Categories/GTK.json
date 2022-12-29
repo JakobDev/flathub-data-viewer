@@ -1,5 +1,6 @@
 [
     "codes.loers.Karlender",
+    "codes.loers.Punchclock",
     "codes.nora.gDiceRoller",
     "com.doycho.euterpe.gtk",
     "com.github.alexkdeveloper.recorder",
