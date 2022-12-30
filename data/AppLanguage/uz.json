@@ -1,4 +1,5 @@
 [
+    "app.rednotebook.RedNotebook",
     "com.github.unrud.VideoDownloader",
     "net.poedit.Poedit",
     "org.gnome.Epiphany",

@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.rednotebook.RedNotebook",
     "com.ekonomikas.merkato",
     "com.github.PintaProject.Pinta",
     "com.github.debauchee.barrier",

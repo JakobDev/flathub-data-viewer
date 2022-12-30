@@ -175,6 +175,7 @@
     ],
     "moderate": [
         "io.github.endless_sky.endless_sky",
+        "io.github.naikari.Naikari",
         "org.firestormviewer.FirestormViewer",
         "org.tordini.flavio.Minitube"
     ]

@@ -484,7 +484,6 @@
         "com.zandronum.Zandronum",
         "community.pathofbuilding.PathOfBuilding",
         "cz.cvut.edu.comparch.qtrvsim",
-        "de.akaflieg_freiburg.cavok.add_hours_and_minutes",
         "de.akaflieg_freiburg.enroute",
         "de.bund.ausweisapp.ausweisapp2",
         "de.halaszovich.PMbrowser",
@@ -1600,6 +1599,7 @@
         "org.libvips.vipsdisp",
         "org.onlyoffice.desktopeditors",
         "org.remmina.Remmina",
+        "vn.hoabinh.quan.CoBang",
         "work.openpaper.Paperwork"
     ],
     "~/ProgramasRFB:create": [

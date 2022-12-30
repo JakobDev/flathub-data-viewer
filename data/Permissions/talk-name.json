@@ -244,7 +244,6 @@
         "com.zandronum.Zandronum",
         "community.pathofbuilding.PathOfBuilding",
         "cz.cvut.edu.comparch.qtrvsim",
-        "de.akaflieg_freiburg.cavok.add_hours_and_minutes",
         "de.akaflieg_freiburg.enroute",
         "de.bund.ausweisapp.ausweisapp2",
         "de.halaszovich.PMbrowser",
@@ -2132,6 +2131,7 @@
         "page.codeberg.tpikonen.satellite",
         "ru.sview.sView",
         "social.whalebird.WhalebirdDesktop",
+        "vn.hoabinh.quan.CoBang",
         "work.openpaper.Paperwork"
     ],
     "ca.desrt.dconf": [

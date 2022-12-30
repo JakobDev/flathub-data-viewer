@@ -236,6 +236,7 @@
         "org.skytemple.Randomizer",
         "org.skytemple.SkyTemple",
         "org.sonic3air.Sonic3AIR",
+        "org.soundconverter.SoundConverter",
         "org.syphon.Syphon",
         "org.tabos.banking",
         "org.tryton.Tryton-66",
@@ -249,7 +250,8 @@
         "re.sonny.Workbench",
         "se.sjoerd.DatMan",
         "uk.co.ibboard.cawbird",
-        "uk.org.greenend.chiark.sgtatham.putty"
+        "uk.org.greenend.chiark.sgtatham.putty",
+        "vn.hoabinh.quan.CoBang"
     ],
     "42": [
         "app.drey.Blurble",
@@ -493,7 +495,6 @@
         "org.pitivi.Pitivi",
         "org.sigxcpu.Livi",
         "org.sil.Bloom",
-        "org.soundconverter.SoundConverter",
         "org.sugarlabs.AbacusActivity",
         "org.sugarlabs.Chart",
         "org.sugarlabs.Chess",
@@ -619,8 +620,7 @@
         "org.gahshomar.Gahshomar",
         "org.glimpse_editor.Glimpse",
         "org.synfig.SynfigStudio",
-        "uk.et1.big-finish-downloader",
-        "vn.hoabinh.quan.CoBang"
+        "uk.et1.big-finish-downloader"
     ],
     "3.26": [
         "com.lettier.movie-monad"

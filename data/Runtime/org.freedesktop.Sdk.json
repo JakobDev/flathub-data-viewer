@@ -29,6 +29,7 @@
         "org.ghidra_sre.Ghidra",
         "org.gnu.emacs",
         "org.kicad.KiCad",
+        "org.scilab.Scilab",
         "org.scintilla.SciTE",
         "org.thonny.Thonny",
         "org.vim.Vim"
@@ -45,8 +46,7 @@
         "com.unity.UnityHub",
         "io.gdevs.GDLauncher",
         "io.stoplight.studio",
-        "org.apache.netbeans",
-        "org.scilab.Scilab"
+        "org.apache.netbeans"
     ],
     "19.08": [
         "io.brackets.Brackets",

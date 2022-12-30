@@ -1,4 +1,5 @@
 [
+    "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.github.ztefn.haguichi",
     "net.poedit.Poedit",

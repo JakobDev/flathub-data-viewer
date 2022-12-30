@@ -215,7 +215,8 @@
         "org.gnome.NetworkDisplays"
     ],
     "org.freedesktop.networkmanager.*": [
-        "io.appflowy.AppFlowy"
+        "io.appflowy.AppFlowy",
+        "vn.hoabinh.quan.CoBang"
     ],
     "org.freedesktop.colormanager": [
         "net.displaycal.DisplayCAL",

@@ -5133,8 +5133,7 @@
         "org.gnome.dfeet",
         "org.gnome.dspy",
         "org.xfce.ristretto",
-        "re.sonny.Workbench",
-        "vn.hoabinh.quan.CoBang"
+        "re.sonny.Workbench"
     ],
     "system-bus": [
         "io.brackets.Brackets",
@@ -5147,8 +5146,7 @@
         "org.gabmus.whatip",
         "org.gnome.Builder",
         "org.gnome.dfeet",
-        "org.gnome.dspy",
-        "vn.hoabinh.quan.CoBang"
+        "org.gnome.dspy"
     ],
     "gpg-agent": [
         "io.github.shiftey.Desktop"
