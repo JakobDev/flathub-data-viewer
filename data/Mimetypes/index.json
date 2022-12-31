@@ -1115,6 +1115,7 @@
         "audio{SLASH}x-wma",
         "audio{SLASH}x-xi",
         "audio{SLASH}x-xm",
+        "audio{SLASH}x-xm4a",
         "audio{SLASH}{ASTERISK}",
         "chemical{SLASH}x-cml",
         "chemical{SLASH}x-pdb",

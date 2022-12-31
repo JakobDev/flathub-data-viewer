@@ -131,9 +131,11 @@
         "io.qt.qdbusviewer",
         "net.davidotek.pupgui2",
         "net.pcsx2.PCSX2",
+        "net.wz2100.wz2100",
         "org.bino3d.bino",
         "org.rncbc.qpwgraph",
-        "org.rncbc.qsynth"
+        "org.rncbc.qsynth",
+        "org.rncbc.qtractor"
     ],
     "5.15-21.08": [
         "app.resp.RESP",
@@ -434,6 +436,7 @@
         "org.solarus_games.solarus.Launcher",
         "org.sqlitebrowser.sqlitebrowser",
         "org.stellarium.Stellarium",
+        "org.subsurface_divelog.Subsurface",
         "org.tug.texworks",
         "org.zealdocs.Zeal",
         "space.fips.Fips",
@@ -473,7 +476,6 @@
         "org.pencil2d.Pencil2D",
         "org.pyzo.pyzo",
         "org.shadowsocks.qt5client",
-        "org.subsurface_divelog.Subsurface",
         "org.tomviz.Tomviz",
         "org.tordini.flavio.Minitube"
     ],
@@ -534,7 +536,6 @@
         "org.gottcode.Tetzle",
         "org.mattbas.Glaxnimate",
         "org.profex_xrd.Profex",
-        "org.rncbc.qtractor",
         "org.strawberrymusicplayer.strawberry",
         "uk.org.zint.zint-qt"
     ],
@@ -545,7 +546,6 @@
         "cz.cvut.edu.comparch.qtrvsim",
         "dev.lukebriggs.pepys",
         "eu.skribisto.skribisto",
-        "net.wz2100.wz2100",
         "org.bunkus.mkvtoolnix-gui",
         "org.coolero.Coolero",
         "org.jaspstats.JASP",

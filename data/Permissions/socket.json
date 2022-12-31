@@ -292,6 +292,7 @@
         "com.github.makhber.Makhber",
         "com.github.maoschanz.DynamicWallpaperEditor",
         "com.github.maoschanz.drawing",
+        "com.github.marhkb.Pods",
         "com.github.marinm.songrec",
         "com.github.marktext.marktext",
         "com.github.matfantinel.moneta",
@@ -2097,6 +2098,7 @@
         "com.github.makhber.Makhber",
         "com.github.maoschanz.DynamicWallpaperEditor",
         "com.github.maoschanz.drawing",
+        "com.github.marhkb.Pods",
         "com.github.marinm.songrec",
         "com.github.marktext.marktext",
         "com.github.matfantinel.moneta",
@@ -2151,6 +2153,7 @@
         "com.github.themix_project.Oomox",
         "com.github.tmewett.BrogueCE",
         "com.github.treagod.spectator",
+        "com.github.unrud.RemoteTouchpad",
         "com.github.unrud.VideoDownloader",
         "com.github.unrud.djpdf",
         "com.github.vikdevelop.VCalculator",
@@ -3321,6 +3324,7 @@
         "com.github.louis77.tuner",
         "com.github.makhber.Makhber",
         "com.github.maoschanz.drawing",
+        "com.github.marhkb.Pods",
         "com.github.marinm.songrec",
         "com.github.matfantinel.moneta",
         "com.github.matfantinel.reminduck",
@@ -5112,6 +5116,10 @@
         "se.cendio.tlclient",
         "uk.org.zint.zint-qt"
     ],
+    "gpg-agent": [
+        "com.github.hluk.copyq",
+        "io.github.shiftey.Desktop"
+    ],
     "session-bus": [
         "com.github.naaando.lyrics",
         "com.hack_computer.Clubhouse",
@@ -5147,8 +5155,5 @@
         "org.gnome.Builder",
         "org.gnome.dfeet",
         "org.gnome.dspy"
-    ],
-    "gpg-agent": [
-        "io.github.shiftey.Desktop"
     ]
 }

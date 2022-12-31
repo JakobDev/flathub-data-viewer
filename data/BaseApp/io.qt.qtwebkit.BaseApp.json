@@ -9,11 +9,11 @@
         "org.kde.skrooge",
         "org.kde.umbrello",
         "org.qgis.qgis",
+        "org.subsurface_divelog.Subsurface",
         "org.zealdocs.Zeal"
     ],
     "5.15": [
-        "com.codemouse92.timecard",
-        "org.subsurface_divelog.Subsurface"
+        "com.codemouse92.timecard"
     ],
     "5.15-22.08": [
         "com.github.fontmatrix.Fontmatrix",

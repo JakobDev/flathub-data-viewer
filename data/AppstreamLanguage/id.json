@@ -34,6 +34,7 @@
     "io.bassi.Amberol",
     "io.github.Hexchat",
     "io.github.celluloid_player.Celluloid",
+    "io.github.fsobolev.TimeSwitch",
     "io.github.pragha_music_player.pragha",
     "io.github.realmazharhussain.GdmSettings",
     "io.github.seadve.Breathing",

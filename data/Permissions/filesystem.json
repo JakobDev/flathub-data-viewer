@@ -2466,7 +2466,6 @@
     ],
     "xdg-config/autostart:create": [
         "com.github.bluesabre.darkbar",
-        "com.github.hluk.copyq",
         "com.github.matfantinel.reminduck",
         "io.gitlab.JakobDev.jdSimpleAutostart"
     ],
@@ -2541,6 +2540,12 @@
     ],
     "xdg-data/pokete:create": [
         "com.github.lxgr_linux.pokete"
+    ],
+    "/run/systemd/journal": [
+        "com.github.marhkb.Pods"
+    ],
+    "xdg-run/podman:ro": [
+        "com.github.marhkb.Pods"
     ],
     "/var/home": [
         "com.github.mtkennerly.ludusavi"
@@ -3302,6 +3307,9 @@
     ],
     "/dev": [
         "org.linux_hardware.hw-probe"
+    ],
+    "xdg-run/mpd": [
+        "org.mpdevil.mpdevil"
     ],
     "~/.config/textsecure.nanuc:create": [
         "org.nanuc.Axolotl"

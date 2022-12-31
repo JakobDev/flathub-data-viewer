@@ -29,6 +29,7 @@
     "org.ppsspp.PPSSPP",
     "org.prismlauncher.PrismLauncher",
     "org.soapui.SoapUI",
+    "org.telegram",
     "org.yuzu_emu.yuzu",
     "pm.mirko.Atoms"
 ]
