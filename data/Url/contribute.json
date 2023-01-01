@@ -20,6 +20,7 @@
     "net.supertuxkart.SuperTuxKart",
     "org.apache.jmeter",
     "org.ardour.Ardour",
+    "org.citra_emu.citra",
     "org.expresslrs.ExpressLRSConfigurator",
     "org.inkscape.Inkscape",
     "org.kde.okteta",
