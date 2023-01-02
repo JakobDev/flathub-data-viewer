@@ -1,6 +1,7 @@
 [
     "app.drey.KeyRack",
     "app.drey.Warp",
+    "app.moosync.moosync",
     "codes.loers.Karlender",
     "codes.loers.Punchclock",
     "codes.nora.gDiceRoller",
