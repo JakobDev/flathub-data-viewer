@@ -1527,6 +1527,7 @@
         "x-scheme-handler{SLASH}bitcoin",
         "x-scheme-handler{SLASH}bitwarden",
         "x-scheme-handler{SLASH}bjnb",
+        "x-scheme-handler{SLASH}blackcoin",
         "x-scheme-handler{SLASH}bloom",
         "x-scheme-handler{SLASH}bloom-collection",
         "x-scheme-handler{SLASH}bloom-join-team",

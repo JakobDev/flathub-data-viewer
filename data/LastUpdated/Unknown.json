@@ -3,6 +3,7 @@
     "io.qt.qtwebkit.BaseApp",
     "org.flathub.flatpak-external-data-checker",
     "org.yuzu_emu.yuzu",
+    "rocks.koreader.KOReader",
     "com.fightcade.Fightcade.Wine",
     "com.github.unrud.djpdf.OCR.Afr",
     "com.github.unrud.djpdf.OCR.Amh",

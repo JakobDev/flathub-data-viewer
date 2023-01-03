@@ -6,6 +6,7 @@
     "org.freedesktop.Sdk.Extension.llvm12",
     "org.freedesktop.Sdk.Extension.llvm13",
     "org.freedesktop.Sdk.Extension.llvm14",
+    "org.freedesktop.Sdk.Extension.llvm15",
     "org.freedesktop.Sdk.Extension.mingw-w64",
     "org.freedesktop.Sdk.Extension.node12",
     "org.freedesktop.Sdk.Extension.node14",

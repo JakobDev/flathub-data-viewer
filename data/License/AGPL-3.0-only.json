@@ -14,5 +14,6 @@
     "network.bisq.Bisq",
     "org.briarproject.Briar",
     "org.onlyoffice.desktopeditors",
-    "re.chiaki.Chiaki"
+    "re.chiaki.Chiaki",
+    "rocks.koreader.KOReader"
 ]

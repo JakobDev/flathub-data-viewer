@@ -40,5 +40,6 @@
     "org.scintilla.SciTE",
     "org.vim.Vim",
     "org.xfce.mousepad",
-    "org.zotero.Zotero"
+    "org.zotero.Zotero",
+    "rocks.koreader.KOReader"
 ]

@@ -355,6 +355,9 @@
     ".torcs": [
         "net.sourceforge.torcs"
     ],
+    ".padman": [
+        "net.worldofpadman.WoP"
+    ],
     ".warzone2100-3.4": [
         "net.wz2100.wz2100"
     ],

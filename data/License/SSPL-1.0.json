@@ -1,3 +1,4 @@
 [
-    "com.mongodb.Compass"
+    "com.mongodb.Compass",
+    "com.redis.RedisInsight-v2"
 ]

@@ -20,6 +20,7 @@
     "net.supertuxkart.SuperTuxKart",
     "org.apache.jmeter",
     "org.ardour.Ardour",
+    "org.bionus.Grabber",
     "org.citra_emu.citra",
     "org.expresslrs.ExpressLRSConfigurator",
     "org.inkscape.Inkscape",
@@ -32,5 +33,6 @@
     "org.soapui.SoapUI",
     "org.telegram",
     "org.yuzu_emu.yuzu",
-    "pm.mirko.Atoms"
+    "pm.mirko.Atoms",
+    "rocks.koreader.KOReader"
 ]

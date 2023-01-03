@@ -116,6 +116,7 @@
     "org.plomgrading.PlomClient",
     "org.profex_xrd.Profex",
     "org.qgis.qgis",
+    "org.racket_lang.DrRacket",
     "org.sil.Bloom",
     "org.sil.FieldWorks",
     "org.squeakland.Etoys",

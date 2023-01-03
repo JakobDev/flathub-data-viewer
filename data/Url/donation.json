@@ -225,6 +225,7 @@
     "org.apache.directory.studio",
     "org.apache.jmeter",
     "org.apache.netbeans",
+    "org.bionus.Grabber",
     "org.blender.Blender",
     "org.bluesabre.MenuLibre",
     "org.briarproject.Briar",

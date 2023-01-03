@@ -3,5 +3,6 @@
     "info.bibletime.BibleTime",
     "org.gnome.World.Citations",
     "org.kde.kbibtex",
+    "rocks.koreader.KOReader",
     "xyz.rescribe.rescribe"
 ]
