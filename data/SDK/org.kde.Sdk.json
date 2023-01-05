@@ -124,6 +124,7 @@
     ],
     "6.4": [
         "app.lith.Lith",
+        "com.github.dynobo.normcap",
         "com.gitlab.tipp10.tipp10",
         "de.bund.ausweisapp.ausweisapp2",
         "de.marlam.gencolormap",
@@ -541,7 +542,6 @@
         "uk.org.zint.zint-qt"
     ],
     "6.2": [
-        "com.github.dynobo.normcap",
         "com.github.giacomogroppi.writernote-qt",
         "com.ylsoftware.qmmp.Qmmp",
         "cz.cvut.edu.comparch.qtrvsim",

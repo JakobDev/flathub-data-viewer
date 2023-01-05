@@ -2424,6 +2424,7 @@
         "org.freecadweb.FreeCAD",
         "org.freeciv.Freeciv",
         "org.freecol.FreeCol",
+        "org.freedesktop.Bustle",
         "org.freedesktop.GstDebugViewer",
         "org.freedesktop.Piper",
         "org.freedesktop.Tuhi",
