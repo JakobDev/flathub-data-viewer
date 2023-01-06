@@ -8,6 +8,7 @@
         "com.valvesoftware.Steam.Utility",
         "com.valvesoftware.Steam.Utility.gamescope",
         "com.visualstudio.code.tool",
+        "org.chromium.Chromium.Codecs",
         "org.freedesktop.LinuxAudio.Plugins",
         "org.freedesktop.LinuxAudio.Plugins.CMT",
         "org.freedesktop.LinuxAudio.Plugins.Guitarix",

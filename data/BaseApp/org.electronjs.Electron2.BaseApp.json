@@ -70,7 +70,6 @@
         "org.sugarlabs.MusicBlocks",
         "org.turbowarp.TurboWarp",
         "org.twinery.Twine",
-        "org.zulip.Zulip",
         "rest.insomnia.Insomnia",
         "ro.go.hmlendea.DL-Desktop",
         "se.manyver.Manyverse"
@@ -141,6 +140,7 @@
         "org.onlyoffice.desktopeditors",
         "org.signal.Signal",
         "org.standardnotes.standardnotes",
+        "org.zulip.Zulip",
         "sh.cider.Cider",
         "so.onekey.Wallet",
         "social.whalebird.WhalebirdDesktop",

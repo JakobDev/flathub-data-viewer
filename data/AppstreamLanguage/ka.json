@@ -70,6 +70,8 @@
     "org.kde.katomic",
     "org.kde.kblackbox",
     "org.kde.kblocks",
+    "org.kde.kbounce",
+    "org.kde.kbreakout",
     "org.kde.kbruch",
     "org.kde.kcachegrind",
     "org.kde.kcalc",
