@@ -636,6 +636,7 @@
         "application{SLASH}x-nearly-raw-raster-data",
         "application{SLASH}x-neo-geo-pocket-color-rom",
         "application{SLASH}x-neo-geo-pocket-rom",
+        "application{SLASH}x-nes",
         "application{SLASH}x-nes-rom",
         "application{SLASH}x-netcdf",
         "application{SLASH}x-netinstobserver",

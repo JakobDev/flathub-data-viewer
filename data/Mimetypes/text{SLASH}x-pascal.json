@@ -1,4 +1,5 @@
 [
+    "com.helix_editor.Helix",
     "io.neovim.nvim",
     "org.cubocore.CorePad",
     "org.geany.Geany",

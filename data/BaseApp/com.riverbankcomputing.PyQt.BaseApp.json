@@ -3,7 +3,6 @@
         "com.borgbase.Vorta",
         "com.github.micahflee.torbrowser-launcher",
         "io.github.giantpinkrobots.bootqt",
-        "net.sourceforge.scidavis",
         "org.plomgrading.PlomClient",
         "org.qutebrowser.qutebrowser"
     ],
@@ -15,6 +14,7 @@
         "io.github.jordanl2.ModularCalculator",
         "io.github.parnassius.SysDVR-Qt",
         "io.github.veusz.Veusz",
+        "net.sourceforge.scidavis",
         "org.opennumismat.OpenNumismat",
         "org.pymol.PyMOL",
         "se.sjoerd.GIScan"

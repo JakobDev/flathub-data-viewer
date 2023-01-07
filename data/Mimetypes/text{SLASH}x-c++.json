@@ -1,4 +1,5 @@
 [
+    "com.helix_editor.Helix",
     "io.atom.Atom",
     "io.neovim.nvim",
     "org.gnome.Builder",

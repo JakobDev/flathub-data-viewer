@@ -1,4 +1,5 @@
 [
+    "com.helix_editor.Helix",
     "io.neovim.nvim",
     "net.xm1math.Texmaker",
     "org.cvfosammmm.Setzer",

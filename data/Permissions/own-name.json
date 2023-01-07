@@ -35,6 +35,7 @@
         "org.signal.Signal",
         "org.strawberrymusicplayer.strawberry",
         "org.tribler.Tribler",
+        "org.zulip.Zulip",
         "re.chiaki.Chiaki",
         "si.tano.Vremenar",
         "us.zoom.Zoom"

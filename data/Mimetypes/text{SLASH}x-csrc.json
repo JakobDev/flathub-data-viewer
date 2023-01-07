@@ -1,4 +1,5 @@
 [
+    "com.helix_editor.Helix",
     "io.atom.Atom",
     "io.github.mightycreak.Diffuse",
     "io.neovim.nvim",
