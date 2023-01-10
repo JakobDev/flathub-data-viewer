@@ -227,6 +227,7 @@
     "org.apache.jmeter",
     "org.apache.netbeans",
     "org.bionus.Grabber",
+    "org.bleachbit.BleachBit",
     "org.blender.Blender",
     "org.bluesabre.MenuLibre",
     "org.briarproject.Briar",

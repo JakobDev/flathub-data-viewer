@@ -3,6 +3,7 @@
     "com.github.alainm23.byte",
     "com.poweriso.PowerISO",
     "net.mediaarea.MediaInfo",
+    "org.exaile.Exaile",
     "org.gnome.EasyTAG",
     "org.kde.kid3"
 ]

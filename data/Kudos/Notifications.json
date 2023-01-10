@@ -57,6 +57,7 @@
     "io.github.quodlibet.QuodLibet",
     "io.github.seadve.Kooha",
     "net.lutris.Lutris",
+    "org.bleachbit.BleachBit",
     "org.deluge_torrent.deluge",
     "org.gajim.Gajim",
     "org.gnome.BreakTimer",

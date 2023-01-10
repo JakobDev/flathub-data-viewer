@@ -263,6 +263,7 @@
         "one.mixin.messenger",
         "org.aliflang.lang",
         "org.ardour.Ardour",
+        "org.bleachbit.BleachBit",
         "org.bzdev.CVRDecode",
         "org.chromium.Chromium",
         "org.claws_mail.Claws-Mail",
@@ -977,6 +978,7 @@
         "com.meetfranz.Franz",
         "com.microsoft.Edge",
         "com.microsoft.Teams",
+        "com.opera.Opera",
         "com.qq.QQ",
         "com.rabbit_company.passky",
         "com.ranfdev.Geopard",
@@ -1136,6 +1138,7 @@
         "org.atheme.audacious",
         "org.clementine_player.Clementine",
         "org.denemo.Denemo",
+        "org.exaile.Exaile",
         "org.firestormviewer.FirestormViewer",
         "org.frescobaldi.Frescobaldi",
         "org.gmusicbrowser.gmusicbrowser",
@@ -1575,6 +1578,7 @@
         "io.gitlab.jstest_gtk.jstest_gtk",
         "net.giuspen.cherrytree",
         "net.sourceforge.efaxgtk",
+        "org.bleachbit.BleachBit",
         "org.darktable.Darktable",
         "org.entangle_photo.Manager",
         "org.free_astro.siril",
@@ -2186,6 +2190,7 @@
         "net.danigm.timetrack",
         "net.giuspen.cherrytree",
         "net.sourceforge.efaxgtk",
+        "org.bleachbit.BleachBit",
         "org.darktable.Darktable",
         "org.free_astro.siril",
         "org.freecadweb.FreeCAD",
@@ -2903,6 +2908,9 @@
     ],
     "~/RPMLauncher:create": [
         "ga.rpmtw.rpmlauncher"
+    ],
+    "~/.steam/steam/steamapps/compatdata/359320/pfx/drive_c/users/steamuser/Saved Games/Frontier Developments/Elite Dangerous": [
+        "io.edcd.EDMarketConnector"
     ],
     "xdg-data/libremines:create": [
         "io.github.Bollos00.LibreMines"

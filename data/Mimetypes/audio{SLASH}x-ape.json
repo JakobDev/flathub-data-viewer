@@ -17,6 +17,7 @@
     "net.mediaarea.MediaConch",
     "net.mediaarea.MediaInfo",
     "org.cubocore.CoreInfo",
+    "org.exaile.Exaile",
     "org.freac.freac",
     "org.gnome.EasyTAG",
     "org.kde.haruna",

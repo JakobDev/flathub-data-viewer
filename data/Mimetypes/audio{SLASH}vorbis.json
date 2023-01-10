@@ -5,6 +5,7 @@
     "io.github.quodlibet.QuodLibet",
     "io.mpv.Mpv",
     "org.clementine_player.Clementine",
+    "org.exaile.Exaile",
     "org.gnome.Lollypop",
     "org.gnome.Rhythmbox3",
     "org.kde.elisa",

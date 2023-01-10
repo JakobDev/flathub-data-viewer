@@ -1,4 +1,5 @@
 [
     "io.mpv.Mpv",
+    "org.exaile.Exaile",
     "org.kde.haruna"
 ]

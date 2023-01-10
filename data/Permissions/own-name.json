@@ -278,6 +278,9 @@
     "org.mpris.mediaplayer2.audacious": [
         "org.atheme.audacious"
     ],
+    "org.gnome.bleachbit": [
+        "org.bleachbit.BleachBit"
+    ],
     "org.mpris.mediaplayer2.clementine": [
         "org.clementine_player.Clementine"
     ],

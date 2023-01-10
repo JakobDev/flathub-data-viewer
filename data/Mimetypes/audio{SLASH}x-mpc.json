@@ -1,4 +1,5 @@
 [
     "io.github.quodlibet.QuodLibet",
+    "org.exaile.Exaile",
     "org.musicbrainz.Picard"
 ]

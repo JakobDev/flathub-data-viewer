@@ -7,6 +7,7 @@
     "io.github.hydrusnetwork.hydrus",
     "io.github.neil_morrison44.pocket-sync",
     "net.filebot.FileBot",
+    "org.bleachbit.BleachBit",
     "org.cryptomator.Cryptomator",
     "org.cubocore.CoreArchiver",
     "org.cubocore.CoreFM",

@@ -3,7 +3,8 @@
         "cn.navclub.ldbfx",
         "com.github.corna.Vivado",
         "com.github.mikacousin.olc",
-        "io.github.orontee.Argos"
+        "io.github.orontee.Argos",
+        "org.bleachbit.BleachBit"
     ],
     "43": [
         "com.github.themix_project.Oomox",

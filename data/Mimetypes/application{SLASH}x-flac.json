@@ -13,6 +13,7 @@
     "net.mediaarea.MediaConch",
     "net.mediaarea.MediaInfo",
     "org.cubocore.CoreInfo",
+    "org.exaile.Exaile",
     "org.musicbrainz.Picard",
     "org.shotcut.Shotcut",
     "org.soundconverter.SoundConverter",
