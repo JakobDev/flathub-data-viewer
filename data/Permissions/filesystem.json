@@ -371,7 +371,6 @@
         "se.sjoerd.GIScan",
         "studio.kx.carla",
         "uk.et1.big-finish-downloader",
-        "work.openpaper.Paperwork",
         "xyz.rescribe.rescribe"
     ],
     "xdg-config/kdeglobals:ro": [
@@ -1995,7 +1994,8 @@
         "org.zaproxy.ZAP",
         "rocks.koreader.KOReader",
         "se.cendio.tlclient",
-        "space.nouspiro.tenmon"
+        "space.nouspiro.tenmon",
+        "work.openpaper.Paperwork"
     ],
     "xdg-run/keyring": [
         "cc.arduino.IDE2",

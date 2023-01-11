@@ -256,7 +256,8 @@
         "se.sjoerd.DatMan",
         "uk.co.ibboard.cawbird",
         "uk.org.greenend.chiark.sgtatham.putty",
-        "vn.hoabinh.quan.CoBang"
+        "vn.hoabinh.quan.CoBang",
+        "work.openpaper.Paperwork"
     ],
     "42": [
         "app.drey.Blurble",
@@ -526,8 +527,7 @@
         "re.sonny.OhMySVG",
         "ro.fxdata.taskmonitor.viewer",
         "sa.sy.bluerecorder",
-        "uk.co.mangobrain.Infector",
-        "work.openpaper.Paperwork"
+        "uk.co.mangobrain.Infector"
     ],
     "41": [
         "co.luoja.Telyn",
