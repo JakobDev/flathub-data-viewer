@@ -15,6 +15,7 @@ jobs:
 
       - name: Install dependencies
         run: |
+          sudo apt update
           sudo apt install -y flatpak python3-gi gir1.2-flatpak-1.0 gir1.2-ostree-1.0
           wget https://raw.githubusercontent.com/gasinvein/flatpak-remote-metadata/master/flatpak-remote-metadata.py
           python3 -m pip install -r requirements.txt
