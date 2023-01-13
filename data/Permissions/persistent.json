@@ -340,7 +340,13 @@
     ".fretsonfire": [
         "net.sourceforge.fretsonfire"
     ],
+    ".lbreakouthd/themes": [
+        "net.sourceforge.lgames.LBreakoutHD"
+    ],
     ".lbreakouthd": [
+        "net.sourceforge.lgames.LBreakoutHD"
+    ],
+    ".lbreakouthd/levels": [
         "net.sourceforge.lgames.LBreakoutHD"
     ],
     ".lgames": [
