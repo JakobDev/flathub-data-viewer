@@ -251,7 +251,8 @@
         "info.rttr.Return-To-The-Roots"
     ],
     ".q3a": [
-        "info.urbanterror.UrbanTerror"
+        "info.urbanterror.UrbanTerror",
+        "io.github.ec_.Quake3e.OpenArena"
     ],
     ".stratagus": [
         "io.github.Andrettin.Wyrmsun"

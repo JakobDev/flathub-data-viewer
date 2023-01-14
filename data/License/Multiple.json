@@ -113,6 +113,7 @@
     "com.visualstudio.code.tool.fish",
     "org.fcitx.Fcitx5.Addon.ChineseAddons",
     "org.fcitx.Fcitx5.Addon.Unikey",
+    "org.freedesktop.LinuxAudio.Plugins.GuitarML",
     "org.freedesktop.LinuxAudio.Plugins.VL1Emulator",
     "org.freedesktop.LinuxAudio.Plugins.swh",
     "org.freedesktop.LinuxAudio.Plugins.x42Plugins",

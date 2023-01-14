@@ -1,6 +1,7 @@
 [
     "org.freedesktop.LinuxAudio.Plugins.ADLplug",
     "org.freedesktop.LinuxAudio.Plugins.AVLDrums",
+    "org.freedesktop.LinuxAudio.Plugins.Airwindows",
     "org.freedesktop.LinuxAudio.Plugins.ArtyFX",
     "org.freedesktop.LinuxAudio.Plugins.CAPS",
     "org.freedesktop.LinuxAudio.Plugins.CMT",
@@ -15,6 +16,7 @@
     "org.freedesktop.LinuxAudio.Plugins.Fabla",
     "org.freedesktop.LinuxAudio.Plugins.Fire",
     "org.freedesktop.LinuxAudio.Plugins.Geonkick",
+    "org.freedesktop.LinuxAudio.Plugins.GuitarML",
     "org.freedesktop.LinuxAudio.Plugins.GxPlugins",
     "org.freedesktop.LinuxAudio.Plugins.Helm",
     "org.freedesktop.LinuxAudio.Plugins.KapitonovPluginsPack",

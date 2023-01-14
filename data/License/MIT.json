@@ -160,6 +160,7 @@
     "xyz.kusma.aurora",
     "fr.handbrake.ghb.Plugin.IntelMediaSDK",
     "org.bitbucket.mystery_keeper.VapourSynthEditor.Plugin.FFMS2",
+    "org.freedesktop.LinuxAudio.Plugins.Airwindows",
     "org.freedesktop.Platform.GL.default",
     "org.freedesktop.Platform.GL32.default",
     "org.freedesktop.Platform.VulkanLayer.MangoHud",
