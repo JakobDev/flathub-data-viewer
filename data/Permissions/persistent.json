@@ -13,6 +13,7 @@
         "com.github.reds.LogisimEvolution",
         "com.itextpdf.RUPS",
         "com.lunarclient.LunarClient",
+        "com.st.STM32CubeIDE",
         "io.sourceforge.Pixelitor",
         "net.sourceforge.pdfchain",
         "org.briarproject.Briar",
@@ -158,6 +159,19 @@
     ],
     ".ccnet": [
         "com.seafile.Client"
+    ],
+    ".stmcube": [
+        "com.st.STM32CubeIDE"
+    ],
+    ".saros": [
+        "com.st.STM32CubeIDE"
+    ],
+    "STM32Cube": [
+        "com.st.STM32CubeIDE"
+    ],
+    ".eclipse": [
+        "com.st.STM32CubeIDE",
+        "org.apache.directory.studio"
     ],
     ".stepmania-5.1": [
         "com.stepmania.StepMania"
@@ -376,9 +390,6 @@
         "one.ablaze.floorp"
     ],
     ".ApacheDirectoryStudio": [
-        "org.apache.directory.studio"
-    ],
-    ".eclipse": [
         "org.apache.directory.studio"
     ],
     ".briar": [

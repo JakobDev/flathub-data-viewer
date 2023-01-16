@@ -283,6 +283,7 @@
     "io.kinvolk.Headlamp",
     "io.lmms.LMMS",
     "io.mpv.Mpv",
+    "io.mrarm.mcpelauncher",
     "io.neovim.nvim",
     "io.openrct2.OpenRCT2",
     "io.otsaloma.gaupol",
