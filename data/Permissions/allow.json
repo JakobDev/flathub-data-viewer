@@ -75,6 +75,7 @@
     ],
     "per-app-dev-shm": [
         "com.github.Matoking.protontricks",
+        "com.usebottles.bottles",
         "com.valvesoftware.Steam",
         "io.github.NhekoReborn.Nheko",
         "net.jami.Jami"

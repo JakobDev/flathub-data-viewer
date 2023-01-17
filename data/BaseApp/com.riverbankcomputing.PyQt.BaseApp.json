@@ -3,6 +3,7 @@
         "com.borgbase.Vorta",
         "com.github.micahflee.torbrowser-launcher",
         "io.github.giantpinkrobots.bootqt",
+        "org.frescobaldi.Frescobaldi",
         "org.plomgrading.PlomClient",
         "org.qutebrowser.qutebrowser"
     ],

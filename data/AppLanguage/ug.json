@@ -1,4 +1,5 @@
 [
+    "app.rednotebook.RedNotebook",
     "org.gnome.Aisleriot",
     "org.gnome.Boxes",
     "org.gnome.Calculator",

@@ -1,6 +1,7 @@
 [
     "app.drey.Dialect",
     "app.drey.Warp",
+    "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.agatanawrot.karambola",
     "com.belmoussaoui.Authenticator",

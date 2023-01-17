@@ -1,6 +1,7 @@
 [
     "com.belmoussaoui.Decoder",
     "com.github.johnfactotum.Foliate",
+    "com.usebottles.bottles",
     "io.github.celluloid_player.Celluloid",
     "io.otsaloma.gaupol",
     "org.gnome.Evolution",

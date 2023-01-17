@@ -12,7 +12,6 @@
         "net.retrodeck.retrodeck",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.xm1math.Texmaker",
-        "org.frescobaldi.Frescobaldi",
         "org.kde.akregator",
         "org.kde.angelfish",
         "org.kde.cantor",
@@ -26,8 +25,7 @@
         "org.kde.labplot2",
         "org.kde.marble",
         "org.kde.parley",
-        "org.kde.tellico",
-        "org.sdrangel.SDRangel"
+        "org.kde.tellico"
     ],
     "6.3": [
         "com.github.jmlich.geotagging",
@@ -49,6 +47,7 @@
         "net.sonic_pi.SonicPi",
         "org.freecadweb.FreeCAD",
         "org.musescore.MuseScore",
-        "org.paraview.ParaView"
+        "org.paraview.ParaView",
+        "org.sdrangel.SDRangel"
     ]
 }
