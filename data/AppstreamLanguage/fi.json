@@ -103,6 +103,7 @@
     "org.gnome.Rhythmbox3",
     "org.gnome.Robots",
     "org.gnome.Shotwell",
+    "org.gnome.SimpleScan",
     "org.gnome.Solanum",
     "org.gnome.SoundJuicer",
     "org.gnome.SoundRecorder",
@@ -284,5 +285,6 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",
+    "re.sonny.Tangram",
     "uk.co.ibboard.cawbird"
 ]

@@ -46,6 +46,7 @@
     "org.gnome.Reversi",
     "org.gnome.Rhythmbox3",
     "org.gnome.Robots",
+    "org.gnome.SimpleScan",
     "org.gnome.SoundRecorder",
     "org.gnome.Sudoku",
     "org.gnome.SwellFoop",
@@ -71,5 +72,6 @@
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
-    "org.xfce.ristretto"
+    "org.xfce.ristretto",
+    "re.sonny.Tangram"
 ]

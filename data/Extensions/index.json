@@ -11,6 +11,7 @@
         "org.chromium.Chromium.Codecs",
         "org.freedesktop.LinuxAudio.Plugins",
         "org.freedesktop.LinuxAudio.Plugins.CMT",
+        "org.freedesktop.LinuxAudio.Plugins.Calf",
         "org.freedesktop.LinuxAudio.Plugins.Guitarix",
         "org.freedesktop.LinuxAudio.Plugins.LSP",
         "org.freedesktop.LinuxAudio.Plugins.MDA",

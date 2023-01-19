@@ -1,7 +1,6 @@
 {
     "5.15-21.08": [
         "com.borgbase.Vorta",
-        "com.github.micahflee.torbrowser-launcher",
         "io.github.giantpinkrobots.bootqt",
         "org.frescobaldi.Frescobaldi",
         "org.plomgrading.PlomClient",
@@ -9,6 +8,7 @@
     ],
     "5.15-22.08": [
         "com.github.git_cola.git-cola",
+        "com.github.micahflee.torbrowser-launcher",
         "com.sigil_ebook.Sigil",
         "io.github.bothlab.syntalos",
         "io.github.ciromattia.kcc",

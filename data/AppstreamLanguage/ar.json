@@ -70,6 +70,7 @@
     "org.gnome.Rhythmbox3",
     "org.gnome.Robots",
     "org.gnome.Shotwell",
+    "org.gnome.SimpleScan",
     "org.gnome.SoundJuicer",
     "org.gnome.SoundRecorder",
     "org.gnome.Sudoku",
@@ -183,6 +184,7 @@
     "org.xfce.mousepad",
     "org.zrythm.Zrythm",
     "re.sonny.Junction",
+    "re.sonny.Tangram",
     "re.sonny.Workbench",
     "uk.co.ibboard.cawbird"
 ]

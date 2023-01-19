@@ -199,6 +199,8 @@
     "org.gajim.Gajim.Plugin.pgp",
     "org.gnome.Crosswords.PuzzleSets.gnome",
     "org.gnome.Crosswords.PuzzleSets.keesing",
+    "org.gnome.Crosswords.PuzzleSets.nienteperniente",
+    "org.gnome.Crosswords.PuzzleSets.oedipus",
     "org.gnome.Crosswords.PuzzleSets.pzzl",
     "org.gnome.Crosswords.PuzzleSets.xword-dl",
     "org.gnome.Games.LibretroPlugin.PicoDrive",

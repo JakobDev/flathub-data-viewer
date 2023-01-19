@@ -136,6 +136,7 @@
         "org.ferdium.Ferdium",
         "org.geogebra.GeoGebra",
         "org.getoutline.OutlineClient",
+        "org.getoutline.OutlineManager",
         "org.jitsi.jitsi-meet",
         "org.js.nuclear.Nuclear",
         "org.onlyoffice.desktopeditors",

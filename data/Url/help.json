@@ -411,6 +411,7 @@
     "org.geogebra.GeoGebra",
     "org.gephi.Gephi",
     "org.getoutline.OutlineClient",
+    "org.getoutline.OutlineManager",
     "org.getzola.zola",
     "org.gimp.GIMP",
     "org.gnome.Boxes",

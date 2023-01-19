@@ -42,6 +42,7 @@
     "org.ferdium.Ferdium",
     "org.gaphor.Gaphor",
     "org.getoutline.OutlineClient",
+    "org.getoutline.OutlineManager",
     "org.ghidra_sre.Ghidra",
     "org.jitsi.jitsi-meet",
     "org.jreleaser.cli",

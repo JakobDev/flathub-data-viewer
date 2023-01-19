@@ -1,6 +1,7 @@
 [
     "com.gitlab.davem.ClamTk",
     "com.hamrick.VueScan",
+    "org.gnome.SimpleScan",
     "org.nmap.Zenmap",
     "work.openpaper.Paperwork"
 ]

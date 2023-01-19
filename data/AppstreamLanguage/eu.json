@@ -96,6 +96,7 @@
     "org.gnome.Rhythmbox3",
     "org.gnome.Robots",
     "org.gnome.Shotwell",
+    "org.gnome.SimpleScan",
     "org.gnome.Solanum",
     "org.gnome.SoundJuicer",
     "org.gnome.SoundRecorder",
@@ -244,5 +245,6 @@
     "org.x.Warpinator",
     "org.xfce.mousepad",
     "org.xfce.ristretto",
-    "re.sonny.Junction"
+    "re.sonny.Junction",
+    "re.sonny.Tangram"
 ]

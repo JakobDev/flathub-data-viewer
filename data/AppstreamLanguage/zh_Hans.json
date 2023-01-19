@@ -9,5 +9,6 @@
     "org.nicotine_plus.Nicotine",
     "re.sonny.Commit",
     "re.sonny.Junction",
+    "re.sonny.Tangram",
     "re.sonny.Workbench"
 ]

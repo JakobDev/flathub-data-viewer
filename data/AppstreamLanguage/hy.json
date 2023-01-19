@@ -2,6 +2,7 @@
     "org.gnome.Calculator",
     "org.gnome.FileRoller",
     "org.gnome.Glade",
+    "org.gnome.SimpleScan",
     "org.gottcode.FocusWriter",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint"

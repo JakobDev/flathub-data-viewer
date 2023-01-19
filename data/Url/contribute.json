@@ -34,5 +34,6 @@
     "org.telegram",
     "org.yuzu_emu.yuzu",
     "pm.mirko.Atoms",
-    "rocks.koreader.KOReader"
+    "rocks.koreader.KOReader",
+    "tv.kodi.Kodi"
 ]

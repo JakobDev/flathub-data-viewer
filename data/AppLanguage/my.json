@@ -3,6 +3,7 @@
     "org.glimpse_editor.Glimpse",
     "org.gnome.Evince",
     "org.gnome.FileRoller",
+    "org.gnome.SimpleScan",
     "org.gnome.Totem",
     "org.gnome.eog",
     "org.gnome.gedit",

@@ -137,5 +137,6 @@
     "org.surge_synth_team.surge-xt",
     "org.zrythm.Zrythm",
     "sh.xaviers.Opentapes",
-    "tech.feliciano.pocket-casts"
+    "tech.feliciano.pocket-casts",
+    "xyz.safeworlds.midiconn"
 ]

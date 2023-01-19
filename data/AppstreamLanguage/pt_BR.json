@@ -1,6 +1,7 @@
 [
     "app.drey.Dialect",
     "app.drey.Warp",
+    "br.app.pw3270.terminal",
     "br.gov.fazenda.receita.irpf",
     "ca.desrt.dconf-editor",
     "ch.openboard.OpenBoard",
@@ -163,6 +164,7 @@
     "org.gnome.Rhythmbox3",
     "org.gnome.Robots",
     "org.gnome.Shotwell",
+    "org.gnome.SimpleScan",
     "org.gnome.Solanum",
     "org.gnome.SoundJuicer",
     "org.gnome.SoundRecorder",
@@ -233,6 +235,7 @@
     "pm.mirko.Atoms",
     "re.sonny.Commit",
     "re.sonny.Junction",
+    "re.sonny.Tangram",
     "re.sonny.Workbench",
     "uk.co.ibboard.cawbird",
     "com.hack_computer.Clippy.Extension",

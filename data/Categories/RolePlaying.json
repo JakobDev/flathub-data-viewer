@@ -1,6 +1,7 @@
 [
     "com.albiononline.AlbionOnline",
     "dev.hdos.HDOS",
+    "io.github.noxworld_dev.OpenNox",
     "net.runelite.RuneLite",
     "org._2009scape.Launcher",
     "org.develz.Crawl",

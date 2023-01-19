@@ -38,6 +38,8 @@
     "org.freedesktop.appstream-glib",
     "org.freedesktop.appstream.cli",
     "org.getoutline.OutlineClient",
+    "org.getoutline.OutlineManager",
+    "org.gnome.SimpleScan",
     "org.horizon_eda.HorizonEDA",
     "org.inkscape.Inkscape",
     "org.jreleaser.cli",
@@ -60,6 +62,7 @@
     "pm.mirko.Atoms",
     "rocks.koreader.KOReader",
     "so.onekey.Wallet",
+    "tv.kodi.Kodi",
     "org.blackfennec.app.extensions.base",
     "org.blackfennec.app.extensions.core"
 ]

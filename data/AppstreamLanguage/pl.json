@@ -135,6 +135,7 @@
     "org.gnome.Rhythmbox3",
     "org.gnome.Robots",
     "org.gnome.Shotwell",
+    "org.gnome.SimpleScan",
     "org.gnome.Solanum",
     "org.gnome.SoundJuicer",
     "org.gnome.SoundRecorder",
@@ -339,6 +340,7 @@
     "org.xfce.ristretto",
     "re.sonny.Commit",
     "re.sonny.Junction",
+    "re.sonny.Tangram",
     "re.sonny.Workbench",
     "uk.co.ibboard.cawbird"
 ]
