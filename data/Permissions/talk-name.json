@@ -861,6 +861,7 @@
         "net.qsl.QSSTV",
         "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
+        "net.scribus.Scribus",
         "net.seamly.seamly2d",
         "net.sonic_pi.SonicPi",
         "net.sourceforge.molsketch",
@@ -1240,6 +1241,7 @@
         "net.qsl.QSSTV",
         "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
+        "net.scribus.Scribus",
         "net.seamly.seamly2d",
         "net.sonic_pi.SonicPi",
         "net.sourceforge.molsketch",
@@ -2192,6 +2194,7 @@
     "org.freedesktop.flatpak": [
         "ca.desrt.dconf-editor",
         "cc.nift.nsm",
+        "codes.merritt.Nyrna",
         "com.chatterino.chatterino",
         "com.georgefb.quickaccess",
         "com.getmailspring.Mailspring",

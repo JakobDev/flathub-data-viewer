@@ -2501,7 +2501,6 @@
     ],
     "xdg-cache": [
         "com.github.cfcurtis.pdfstitcher",
-        "net.sourceforge.pdfchain",
         "org.gnome.gThumb"
     ],
     "~/.Xilinx:create": [

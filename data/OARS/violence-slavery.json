@@ -1,4 +1,13 @@
 {
+    "mild": [
+        "app.drey.Damask",
+        "com.albiononline.AlbionOnline",
+        "com.github.louis77.tuner",
+        "net.pioneerspacesim.Pioneer",
+        "org._2009scape.Launcher",
+        "org.freecol.FreeCol",
+        "vet.rsc.OpenRSC.Launcher"
+    ],
     "none": [
         "ca._0ldsk00l.Nestopia",
         "chat.rocket.RocketChat",
@@ -157,14 +166,6 @@
         "sh.xaviers.Opentapes",
         "us.zoom.Zoom",
         "xyz.z3ntu.razergenie"
-    ],
-    "mild": [
-        "com.albiononline.AlbionOnline",
-        "com.github.louis77.tuner",
-        "net.pioneerspacesim.Pioneer",
-        "org._2009scape.Launcher",
-        "org.freecol.FreeCol",
-        "vet.rsc.OpenRSC.Launcher"
     ],
     "intense": [
         "com.fightcade.Fightcade",

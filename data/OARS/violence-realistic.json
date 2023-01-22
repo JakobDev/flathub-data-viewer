@@ -1,4 +1,25 @@
 {
+    "moderate": [
+        "app.drey.Damask",
+        "com.etlegacy.ETLegacy",
+        "com.github.dariasteam.cowsrevenge",
+        "com.github.skullernet.q2pro",
+        "com.grangerhub.Tremulous",
+        "com.heroicgameslauncher.hgl",
+        "com.springrts.SpringLobby",
+        "com.zandronum.Zandronum",
+        "info.rttr.Return-To-The-Roots",
+        "io.github.ezQuake",
+        "io.github.openhv.OpenHV",
+        "io.github.pr_starfighter.starfighter",
+        "net.gaijin.WarThunder",
+        "net.openra.OpenRA",
+        "net.sourceforge.DuneLegacy",
+        "net.unvanquished.Unvanquished",
+        "org.firestormviewer.FirestormViewer",
+        "org.yamagi.YamagiQ2",
+        "org.zdoom.GZDoom"
+    ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",
         "au.edu.uq.esys.escript",
@@ -241,26 +262,6 @@
         "org.dhewm3.Dhewm3",
         "org.phoenicis.playonlinux",
         "org.tordini.flavio.Minitube"
-    ],
-    "moderate": [
-        "com.etlegacy.ETLegacy",
-        "com.github.dariasteam.cowsrevenge",
-        "com.github.skullernet.q2pro",
-        "com.grangerhub.Tremulous",
-        "com.heroicgameslauncher.hgl",
-        "com.springrts.SpringLobby",
-        "com.zandronum.Zandronum",
-        "info.rttr.Return-To-The-Roots",
-        "io.github.ezQuake",
-        "io.github.openhv.OpenHV",
-        "io.github.pr_starfighter.starfighter",
-        "net.gaijin.WarThunder",
-        "net.openra.OpenRA",
-        "net.sourceforge.DuneLegacy",
-        "net.unvanquished.Unvanquished",
-        "org.firestormviewer.FirestormViewer",
-        "org.yamagi.YamagiQ2",
-        "org.zdoom.GZDoom"
     ],
     "mild": [
         "com.github.Anuken.Mindustry",

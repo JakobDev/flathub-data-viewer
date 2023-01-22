@@ -1,4 +1,10 @@
 {
+    "intense": [
+        "app.drey.Damask",
+        "io.github.hakuneko.HakuNeko",
+        "org.firestormviewer.FirestormViewer",
+        "org.phoenicis.playonlinux"
+    ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",
         "au.edu.uq.esys.escript",
@@ -245,10 +251,5 @@
         "net.runelite.RuneLite",
         "org._2009scape.Launcher",
         "vet.rsc.OpenRSC.Launcher"
-    ],
-    "intense": [
-        "io.github.hakuneko.HakuNeko",
-        "org.firestormviewer.FirestormViewer",
-        "org.phoenicis.playonlinux"
     ]
 }

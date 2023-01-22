@@ -1,4 +1,25 @@
 {
+    "moderate": [
+        "app.drey.Damask",
+        "com.eduke32.EDuke32",
+        "com.fightcade.Fightcade",
+        "com.github.needleandthread.vocal",
+        "com.jagex.RuneScape",
+        "com.katawa_shoujo.KatawaShoujo",
+        "com.moddb.TotalChaos",
+        "com.realm667.Wolfenstein_Blade_of_Agony",
+        "dev.hdos.HDOS",
+        "info.rttr.Return-To-The-Roots",
+        "io.github.naikari.Naikari",
+        "io.github.sharkwouter.Minigalaxy",
+        "net.runelite.RuneLite",
+        "org._2009scape.Launcher",
+        "org.firestormviewer.FirestormViewer",
+        "org.phoenicis.playonlinux",
+        "org.tordini.flavio.Minitube",
+        "org.unitystation.StationHub",
+        "vet.rsc.OpenRSC.Launcher"
+    ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",
         "au.edu.uq.esys.escript",
@@ -242,26 +263,6 @@
         "org.naev.Naev",
         "org.nomacs.ImageLounge",
         "org.widelands.Widelands"
-    ],
-    "moderate": [
-        "com.eduke32.EDuke32",
-        "com.fightcade.Fightcade",
-        "com.github.needleandthread.vocal",
-        "com.jagex.RuneScape",
-        "com.katawa_shoujo.KatawaShoujo",
-        "com.moddb.TotalChaos",
-        "com.realm667.Wolfenstein_Blade_of_Agony",
-        "dev.hdos.HDOS",
-        "info.rttr.Return-To-The-Roots",
-        "io.github.naikari.Naikari",
-        "io.github.sharkwouter.Minigalaxy",
-        "net.runelite.RuneLite",
-        "org._2009scape.Launcher",
-        "org.firestormviewer.FirestormViewer",
-        "org.phoenicis.playonlinux",
-        "org.tordini.flavio.Minitube",
-        "org.unitystation.StationHub",
-        "vet.rsc.OpenRSC.Launcher"
     ],
     "intense": [
         "io.github.hakuneko.HakuNeko"

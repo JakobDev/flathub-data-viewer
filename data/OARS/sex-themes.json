@@ -1,4 +1,10 @@
 {
+    "moderate": [
+        "app.drey.Damask",
+        "com.github.needleandthread.vocal",
+        "com.scoutshonour.dtipbijays",
+        "io.github.sharkwouter.Minigalaxy"
+    ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",
         "au.edu.uq.esys.escript",
@@ -245,10 +251,5 @@
         "io.github.endless_sky.endless_sky",
         "net.runelite.RuneLite",
         "org.gnome.gitlab.Cowsay"
-    ],
-    "moderate": [
-        "com.github.needleandthread.vocal",
-        "com.scoutshonour.dtipbijays",
-        "io.github.sharkwouter.Minigalaxy"
     ]
 }

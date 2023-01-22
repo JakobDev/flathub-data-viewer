@@ -1,4 +1,11 @@
 {
+    "mild": [
+        "app.drey.Damask",
+        "com.fightcade.Fightcade",
+        "com.unity.UnityHub",
+        "io.github.endless_sky.endless_sky",
+        "org.firestormviewer.FirestormViewer"
+    ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",
         "au.edu.uq.esys.escript",
@@ -238,12 +245,6 @@
         "org.freeorion.FreeOrion",
         "org.phoenicis.playonlinux",
         "org.tordini.flavio.Minitube"
-    ],
-    "mild": [
-        "com.fightcade.Fightcade",
-        "com.unity.UnityHub",
-        "io.github.endless_sky.endless_sky",
-        "org.firestormviewer.FirestormViewer"
     ],
     "moderate": [
         "com.github.needleandthread.vocal",

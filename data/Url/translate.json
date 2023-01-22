@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.drey.Damask",
     "app.drey.Dialect",
     "app.organicmaps",
     "app.rednotebook.RedNotebook",

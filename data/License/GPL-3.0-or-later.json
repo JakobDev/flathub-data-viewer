@@ -1,6 +1,7 @@
 [
     "app.authpass.AuthPass",
     "app.drey.Blurble",
+    "app.drey.Damask",
     "app.drey.Dialect",
     "app.moosync.moosync",
     "app.riftshare.RiftShare",
@@ -9,6 +10,7 @@
     "codes.loers.Karlender",
     "codes.loers.Punchclock",
     "codes.merritt.FeelingFinder",
+    "codes.merritt.Nyrna",
     "codes.merritt.bargain",
     "com.agateau.PixelWheels",
     "com.belmoussaoui.Authenticator",

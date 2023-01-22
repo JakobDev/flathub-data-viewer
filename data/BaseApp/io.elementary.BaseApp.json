@@ -31,7 +31,6 @@
         "com.github.artemanufrij.regextester",
         "com.github.childishgiant.mixer",
         "com.github.donadigo.appeditor",
-        "com.github.gijsgoudzwaard.image-optimizer",
         "com.github.muriloventuroso.pdftricks",
         "com.github.philip_scott.spice-up",
         "com.github.raibtoffoletto.litteris",
@@ -45,6 +44,7 @@
         "com.github.naaando.lyrics"
     ],
     "juno-22.08": [
+        "com.github.gijsgoudzwaard.image-optimizer",
         "com.github.phase1geo.minder"
     ]
 }

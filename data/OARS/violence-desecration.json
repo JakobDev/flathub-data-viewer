@@ -1,4 +1,20 @@
 {
+    "moderate": [
+        "app.drey.Damask",
+        "com.github.skullernet.q2pro",
+        "com.realm667.Wolfenstein_Blade_of_Agony",
+        "com.zandronum.Zandronum",
+        "info.rttr.Return-To-The-Roots",
+        "io.github.Andrettin.Wyrmsun",
+        "io.github.ezQuake",
+        "org._2009scape.Launcher",
+        "org.firestormviewer.FirestormViewer",
+        "org.tordini.flavio.Minitube",
+        "org.unitystation.StationHub",
+        "org.yamagi.YamagiQ2",
+        "org.zdoom.GZDoom",
+        "vet.rsc.OpenRSC.Launcher"
+    ],
     "none": [
         "ca._0ldsk00l.Nestopia",
         "chat.rocket.RocketChat",
@@ -175,20 +191,5 @@
         "org.chocolate_doom.ChocolateDoom",
         "org.dhewm3.Dhewm3",
         "org.phoenicis.playonlinux"
-    ],
-    "moderate": [
-        "com.github.skullernet.q2pro",
-        "com.realm667.Wolfenstein_Blade_of_Agony",
-        "com.zandronum.Zandronum",
-        "info.rttr.Return-To-The-Roots",
-        "io.github.Andrettin.Wyrmsun",
-        "io.github.ezQuake",
-        "org._2009scape.Launcher",
-        "org.firestormviewer.FirestormViewer",
-        "org.tordini.flavio.Minitube",
-        "org.unitystation.StationHub",
-        "org.yamagi.YamagiQ2",
-        "org.zdoom.GZDoom",
-        "vet.rsc.OpenRSC.Launcher"
     ]
 }

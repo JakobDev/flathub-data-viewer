@@ -1,6 +1,7 @@
 {
     "43": [
         "app.bluebubbles.BlueBubbles",
+        "app.drey.Damask",
         "app.drey.Dialect",
         "app.drey.EarTag",
         "app.drey.KeyRack",
@@ -116,6 +117,7 @@
         "io.github.Pithos",
         "io.github.Snaggly.PS2_Pnacher",
         "io.github.achetagames.epic_asset_manager",
+        "io.github.alexkdeveloper.radio",
         "io.github.arunsivaramanneo.GPUViewer",
         "io.github.brunoherbelin.Vimix",
         "io.github.cboxdoerfer.FSearch",
@@ -224,6 +226,7 @@
         "org.gnome.dspy",
         "org.gnome.eog",
         "org.gnome.font-viewer",
+        "org.gnome.gbrainy",
         "org.gnome.gedit",
         "org.gnome.gitlab.Cowsay",
         "org.gnome.gitlab.YaLTeR.Identity",
@@ -486,7 +489,6 @@
         "org.gnome.five-or-more",
         "org.gnome.frogr",
         "org.gnome.gThumb",
-        "org.gnome.gbrainy",
         "org.gnome.gitlab.somas.Apostrophe",
         "org.gnome.glabels-3",
         "org.gnome.meld",

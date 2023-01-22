@@ -30,8 +30,7 @@
     "6.3": [
         "com.github.jmlich.geotagging",
         "io.github.martinrotter.rssguard",
-        "io.mrarm.mcpelauncher",
-        "net.jami.Jami"
+        "io.mrarm.mcpelauncher"
     ],
     "5.15": [
         "com.wiz.Note",

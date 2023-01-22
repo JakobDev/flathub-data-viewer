@@ -1,4 +1,15 @@
 {
+    "moderate": [
+        "app.drey.Damask",
+        "com.fightcade.Fightcade",
+        "com.github.needleandthread.vocal",
+        "io.github.endless_sky.endless_sky",
+        "io.github.sharkwouter.Minigalaxy",
+        "org.firestormviewer.FirestormViewer",
+        "org.phoenicis.playonlinux",
+        "org.tordini.flavio.Minitube",
+        "org.unitystation.StationHub"
+    ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",
         "au.edu.uq.esys.escript",
@@ -239,16 +250,6 @@
         "org.gna.Warmux",
         "org.gnome.gitlab.Cowsay",
         "org.kryogenix.Pick"
-    ],
-    "moderate": [
-        "com.fightcade.Fightcade",
-        "com.github.needleandthread.vocal",
-        "io.github.endless_sky.endless_sky",
-        "io.github.sharkwouter.Minigalaxy",
-        "org.firestormviewer.FirestormViewer",
-        "org.phoenicis.playonlinux",
-        "org.tordini.flavio.Minitube",
-        "org.unitystation.StationHub"
     ],
     "intense": [
         "io.github.hakuneko.HakuNeko"
