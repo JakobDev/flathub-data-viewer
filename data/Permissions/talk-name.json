@@ -1286,6 +1286,7 @@
         "org.hedgewars.Hedgewars",
         "org.hydrogenmusic.Hydrogen",
         "org.jacktrip.JackTrip",
+        "org.kde.Ikona",
         "org.kde.akregator",
         "org.kde.alligator",
         "org.kde.angelfish",
@@ -2662,7 +2663,6 @@
         "io.itch.azagaya.Laigter",
         "io.sourceforge.qoobar.Qoobar",
         "one.ablaze.floorp",
-        "org.kde.Ikona",
         "org.mozilla.Thunderbird",
         "org.mozilla.firefox",
         "org.nomacs.ImageLounge"

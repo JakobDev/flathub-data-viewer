@@ -302,9 +302,6 @@
     "org.gmusicbrowser": [
         "org.gmusicbrowser.gmusicbrowser"
     ],
-    "org.gmusicbrowser.gmusicbrowser": [
-        "org.gmusicbrowser.gmusicbrowser"
-    ],
     "org.gnome.eolie.proxy.*": [
         "org.gnome.Eolie"
     ],

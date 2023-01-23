@@ -7,6 +7,7 @@
     "app.drey.EarTag",
     "app.drey.KeyRack",
     "app.drey.Warp",
+    "app.gummi.gummi",
     "app.lith.Lith",
     "app.moosync.moosync",
     "app.rednotebook.RedNotebook",

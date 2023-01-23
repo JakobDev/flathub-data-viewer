@@ -6,6 +6,7 @@
     "app.drey.Dialect",
     "app.drey.KeyRack",
     "app.drey.Warp",
+    "app.gummi.gummi",
     "app.organicmaps",
     "app.rednotebook.RedNotebook",
     "app.riftshare.RiftShare",
