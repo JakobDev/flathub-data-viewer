@@ -8,7 +8,6 @@
     ".java": [
         "br.gov.fazenda.receita.irpf",
         "com.bitwig.BitwigStudio",
-        "com.github.itext.i7j_rups",
         "com.github.mgropp.PdfJumbler",
         "com.github.reds.LogisimEvolution",
         "com.itextpdf.RUPS",
