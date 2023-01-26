@@ -2035,6 +2035,7 @@
         "com.brave.Browser",
         "com.github.Eloston.UngoogledChromium",
         "com.github.quaternion",
+        "com.microsoft.Edge",
         "com.opera.Opera",
         "org.chromium.Chromium",
         "org.cryptomator.Cryptomator",
@@ -2305,6 +2306,7 @@
         "com.github.iwalton3.jellyfin-media-player",
         "com.github.philip_scott.spice-up",
         "com.google.Chrome",
+        "com.microsoft.Edge",
         "com.moonlight_stream.Moonlight",
         "com.opera.Opera",
         "com.skype.Client",
@@ -2382,7 +2384,8 @@
         "com.borgbase.Vorta"
     ],
     "org.gnome.mutter.idlemonitor.*": [
-        "com.brave.Browser"
+        "com.brave.Browser",
+        "com.microsoft.Edge"
     ],
     "org.gnome.sessionmanager": [
         "com.brave.Browser",

@@ -3220,6 +3220,7 @@
         "xyz.eclipium.TetraSwap",
         "xyz.ljoonal.neospeeps",
         "xyz.mx_moment.moment",
+        "xyz.safeworlds.midiconn",
         "xyz.stuerz.BilligSweeper",
         "xyz.z3ntu.razergenie"
     ],
@@ -4157,6 +4158,7 @@
         "xyz.eclipium.TetraSwap",
         "xyz.ljoonal.neospeeps",
         "xyz.mx_moment.moment",
+        "xyz.safeworlds.midiconn",
         "xyz.stuerz.BilligSweeper",
         "xyz.z3ntu.razergenie"
     ],
@@ -5163,6 +5165,7 @@
         "com.google.Chrome",
         "com.itopia.client",
         "com.mattermost.Desktop",
+        "com.microsoft.Edge",
         "com.microsoft.Teams",
         "com.opera.Opera",
         "com.thincast.client",

@@ -22,17 +22,19 @@
     ],
     "6.3": [
         "com.gitlab.JakobDev.jdAnimatedImageEditor",
-        "com.gitlab.JakobDev.jdAppdataEdit",
-        "com.gitlab.JakobDev.jdDiff",
-        "com.gitlab.JakobDev.jdEolConverter",
         "com.gitlab.JakobDev.jdMinecraftLauncher",
         "com.gitlab.JakobDev.jdReplace",
         "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.jakobdev.jdnbtexplorer",
         "com.rtosta.zapzap",
         "io.github.hydrusnetwork.hydrus",
-        "io.gitlab.JakobDev.jdSimpleAutostart",
         "me.mitya57.ReText",
         "org.beeref.BeeRef"
+    ],
+    "6.4": [
+        "com.gitlab.JakobDev.jdAppdataEdit",
+        "com.gitlab.JakobDev.jdDiff",
+        "com.gitlab.JakobDev.jdEolConverter",
+        "io.gitlab.JakobDev.jdSimpleAutostart"
     ]
 }

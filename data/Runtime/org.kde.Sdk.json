@@ -6,16 +6,16 @@
         "org.kde.kdevelop",
         "org.octave.Octave"
     ],
-    "6.3": [
+    "6.4": [
         "com.gitlab.JakobDev.jdAppdataEdit",
+        "io.qt.Designer",
+        "io.qt.Linguist",
+        "io.qt.qdbusviewer"
+    ],
+    "6.3": [
         "com.gitlab.JakobDev.jdTextEdit"
     ],
     "5.15": [
         "io.github.dman95.SASM"
-    ],
-    "6.4": [
-        "io.qt.Designer",
-        "io.qt.Linguist",
-        "io.qt.qdbusviewer"
     ]
 }

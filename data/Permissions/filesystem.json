@@ -1116,6 +1116,7 @@
         "com.github.taiko2k.tauonmb",
         "com.google.Chrome",
         "com.ktechpit.whatsie",
+        "com.microsoft.Edge",
         "com.netease.CloudMusic",
         "com.seventhstring.Transcribe",
         "com.tracktion.Waveform",
@@ -1217,6 +1218,7 @@
         "com.heroicgameslauncher.hgl",
         "com.icons8.Lunacy",
         "com.ktechpit.whatsie",
+        "com.microsoft.Edge",
         "com.milesalan.mepo",
         "com.quixel.Bridge",
         "com.rabbit_company.passky",
@@ -2099,6 +2101,7 @@
         "com.google.Chrome",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
+        "com.microsoft.Edge",
         "com.tracktion.Waveform",
         "com.tutanota.Tutanota",
         "com.uploadedlobster.peek",
@@ -2254,6 +2257,7 @@
         "com.github.scrivanolabs.scrivano",
         "com.heroicgameslauncher.hgl",
         "com.ktechpit.whatsie",
+        "com.microsoft.Edge",
         "com.tutanota.Tutanota",
         "com.viber.Viber",
         "io.github.am2r_community_developers.AM2RLauncher",
@@ -2279,11 +2283,13 @@
         "com.brave.Browser",
         "com.google.Chrome",
         "com.google.ChromeDev",
+        "com.microsoft.Edge",
         "io.github.realmazharhussain.GdmSettings",
         "io.wavebox.Wavebox"
     ],
     "~/.local/share/applications:create": [
-        "com.brave.Browser"
+        "com.brave.Browser",
+        "com.microsoft.Edge"
     ],
     "/run/.heim_org.h5l.kcm-socket": [
         "com.brave.Browser",
@@ -2303,7 +2309,8 @@
         "se.cendio.tlclient"
     ],
     "~/.local/share/icons:create": [
-        "com.brave.Browser"
+        "com.brave.Browser",
+        "com.microsoft.Edge"
     ],
     "xdg-run/speech-dispatcher:ro": [
         "com.calibre_ebook.calibre"

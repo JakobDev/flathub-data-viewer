@@ -396,7 +396,6 @@
     "org.kde.PlatformTheme.QtSNI",
     "org.kde.Sdk",
     "org.kde.WaylandDecoration.QGnomePlatform-decoration",
-    "org.kicad.KiCad.Library.Footprints",
     "org.libreoffice.LibreOffice.BundledExtension.Voikko",
     "org.qutebrowser.qutebrowser.Userscripts",
     "org.videolan.VLC.Plugin.bdj",
