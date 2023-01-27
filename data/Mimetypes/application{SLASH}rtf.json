@@ -1,5 +1,6 @@
 [
     "com.abisource.AbiWord",
+    "io.gitlab.coolreader_ng.crqt-ng",
     "org.gottcode.FocusWriter",
     "org.onlyoffice.desktopeditors"
 ]

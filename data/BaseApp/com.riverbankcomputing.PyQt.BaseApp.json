@@ -20,21 +20,21 @@
         "org.pymol.PyMOL",
         "se.sjoerd.GIScan"
     ],
-    "6.3": [
+    "6.4": [
         "com.gitlab.JakobDev.jdAnimatedImageEditor",
-        "com.gitlab.JakobDev.jdMinecraftLauncher",
+        "com.gitlab.JakobDev.jdAppdataEdit",
+        "com.gitlab.JakobDev.jdDiff",
+        "com.gitlab.JakobDev.jdEolConverter",
         "com.gitlab.JakobDev.jdReplace",
         "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.jakobdev.jdnbtexplorer",
+        "io.gitlab.JakobDev.jdSimpleAutostart"
+    ],
+    "6.3": [
+        "com.gitlab.JakobDev.jdMinecraftLauncher",
         "com.rtosta.zapzap",
         "io.github.hydrusnetwork.hydrus",
         "me.mitya57.ReText",
         "org.beeref.BeeRef"
-    ],
-    "6.4": [
-        "com.gitlab.JakobDev.jdAppdataEdit",
-        "com.gitlab.JakobDev.jdDiff",
-        "com.gitlab.JakobDev.jdEolConverter",
-        "io.gitlab.JakobDev.jdSimpleAutostart"
     ]
 }

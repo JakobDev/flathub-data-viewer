@@ -8,12 +8,10 @@
     ],
     "6.4": [
         "com.gitlab.JakobDev.jdAppdataEdit",
+        "com.gitlab.JakobDev.jdTextEdit",
         "io.qt.Designer",
         "io.qt.Linguist",
         "io.qt.qdbusviewer"
-    ],
-    "6.3": [
-        "com.gitlab.JakobDev.jdTextEdit"
     ],
     "5.15": [
         "io.github.dman95.SASM"

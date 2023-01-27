@@ -1,6 +1,7 @@
 [
     "com.elsevier.MendeleyDesktop",
     "info.bibletime.BibleTime",
+    "io.gitlab.coolreader_ng.crqt-ng",
     "org.gnome.World.Citations",
     "org.kde.kbibtex",
     "rocks.koreader.KOReader",
