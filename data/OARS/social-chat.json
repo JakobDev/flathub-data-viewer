@@ -342,6 +342,7 @@
         "org.ferdium.Ferdium",
         "org.firestormviewer.FirestormViewer",
         "org.flightgear.FlightGear",
+        "org.freeciv.gtk322",
         "org.freeorion.FreeOrion",
         "org.gajim.Gajim",
         "org.gnome.Evolution",

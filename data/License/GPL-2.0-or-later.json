@@ -1,6 +1,7 @@
 [
     "cat.xtec.clic.JClic",
     "com.abisource.AbiWord",
+    "com.diffingo.fwbackups",
     "com.github.afrantzis.Bless",
     "com.sweethome3d.Sweethome3d",
     "eu.vcmi.VCMI",
@@ -33,6 +34,7 @@
     "org.artsoft.rocksndiamonds",
     "org.desmume.DeSmuME",
     "org.filezillaproject.Filezilla",
+    "org.freeciv.gtk322",
     "org.freedesktop.Piper",
     "org.freeplane.App",
     "org.gnome.Contacts",

@@ -72,6 +72,7 @@
     "com.gitlab.j0chn.nextcloud_password_client",
     "com.gitlab.zehkira.Myuzi",
     "com.gluonhq.SceneBuilder",
+    "com.helix_editor.Helix",
     "com.heroicgameslauncher.hgl",
     "com.inochi2d.inochi-creator",
     "com.ktechpit.whatsie",
@@ -254,6 +255,7 @@
     "org.freac.freac",
     "org.free_astro.siril",
     "org.freecadweb.FreeCAD",
+    "org.freeciv.gtk322",
     "org.freefilesync.FreeFileSync",
     "org.freeorion.FreeOrion",
     "org.gabmus.gfeeds",
@@ -537,5 +539,6 @@
     "tv.kodi.Kodi",
     "tw.ddnet.ddnet",
     "ua.org.brezblock.q4wine",
-    "work.openpaper.Paperwork"
+    "work.openpaper.Paperwork",
+    "org.videolan.VLC.Plugin.pause_click"
 ]

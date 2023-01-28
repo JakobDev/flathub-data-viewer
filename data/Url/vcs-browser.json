@@ -7,6 +7,7 @@
     "com.gitlab.JakobDev.jdDiff",
     "com.gitlab.JakobDev.jdMinecraftLauncher",
     "com.gitlab.JakobDev.jdTextEdit",
+    "com.helix_editor.Helix",
     "com.heroicgameslauncher.hgl",
     "com.inochi2d.inochi-creator",
     "com.redis.RedisInsight",
@@ -15,6 +16,7 @@
     "com.usebottles.bottles",
     "de.mediathekview.MediathekView",
     "dev.linwood.butterfly",
+    "dev.slimevr.SlimeVR",
     "io.beekeeperstudio.Studio",
     "io.github.betaflight.BetaflightConfigurator",
     "io.github.bothlab.pomidaq",
@@ -65,5 +67,6 @@
     "so.onekey.Wallet",
     "tv.kodi.Kodi",
     "org.blackfennec.app.extensions.base",
-    "org.blackfennec.app.extensions.core"
+    "org.blackfennec.app.extensions.core",
+    "org.videolan.VLC.Plugin.pause_click"
 ]

@@ -1,9 +1,11 @@
 {
-    "intense": [
+    "moderate": [
         "app.drey.Damask",
-        "io.github.hakuneko.HakuNeko",
-        "org.firestormviewer.FirestormViewer",
-        "org.phoenicis.playonlinux"
+        "dev.hdos.HDOS",
+        "net.brinkervii.grapejuice",
+        "net.runelite.RuneLite",
+        "org._2009scape.Launcher",
+        "vet.rsc.OpenRSC.Launcher"
     ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",
@@ -245,11 +247,9 @@
         "org.naev.Naev",
         "uk.jnthn.backgammony"
     ],
-    "moderate": [
-        "dev.hdos.HDOS",
-        "net.brinkervii.grapejuice",
-        "net.runelite.RuneLite",
-        "org._2009scape.Launcher",
-        "vet.rsc.OpenRSC.Launcher"
+    "intense": [
+        "io.github.hakuneko.HakuNeko",
+        "org.firestormviewer.FirestormViewer",
+        "org.phoenicis.playonlinux"
     ]
 }

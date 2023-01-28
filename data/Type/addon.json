@@ -304,6 +304,7 @@
     "org.videolan.VLC.Plugin.bdj",
     "org.videolan.VLC.Plugin.fdkaac",
     "org.videolan.VLC.Plugin.makemkv",
+    "org.videolan.VLC.Plugin.pause_click",
     "org.winehq.Wine.DLLs.dxvk",
     "org.winehq.Wine.gecko",
     "org.winehq.Wine.mono",

@@ -72,5 +72,6 @@
     "ru.sview.sView",
     "tv.kodi.Kodi",
     "tv.plex.PlexDesktop",
-    "tv.plex.PlexHTPC"
+    "tv.plex.PlexHTPC",
+    "org.videolan.VLC.Plugin.pause_click"
 ]

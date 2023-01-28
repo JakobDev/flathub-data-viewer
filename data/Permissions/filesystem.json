@@ -115,7 +115,6 @@
         "com.openwall.John",
         "com.orama_interactive.Pixelorama",
         "com.polyphone_soundfonts.polyphone",
-        "com.powerball253.eternalmodmanager",
         "com.poweriso.PowerISO",
         "com.prusa3d.PrusaSlicer",
         "com.rafaelmardojai.WebfontKitGenerator",
@@ -1305,7 +1304,6 @@
         "com.github.ransome1.sleek",
         "com.github.weclaw1.ImageRoll",
         "com.itopia.client",
-        "com.powerball253.eternalmodmanager",
         "com.prusa3d.PrusaSlicer",
         "com.sleepfiles.OSCAR",
         "com.thincast.client",
@@ -1368,7 +1366,6 @@
         "com.github.weclaw1.ImageRoll",
         "com.heroicgameslauncher.hgl",
         "com.itopia.client",
-        "com.powerball253.eternalmodmanager",
         "com.prusa3d.PrusaSlicer",
         "com.sleepfiles.OSCAR",
         "com.thincast.client",
@@ -1745,6 +1742,7 @@
         "com.calibre_ebook.calibre",
         "com.darhon.syncbackup",
         "com.dec05eba.gpu_screen_recorder",
+        "com.diffingo.fwbackups",
         "com.georgefb.mangareader",
         "com.georgefb.quickaccess",
         "com.github.ADBeveridge.Raider",
@@ -2236,7 +2234,6 @@
         "com.github.qarmin.szyszka",
         "com.github.ransome1.sleek",
         "com.github.weclaw1.ImageRoll",
-        "com.powerball253.eternalmodmanager",
         "io.github.bothlab.pomidaq",
         "md.obsidian.Obsidian",
         "org.clementine_player.Clementine",
@@ -3200,6 +3197,9 @@
     ],
     "~/.firestorm_x64:create": [
         "org.firestormviewer.FirestormViewer"
+    ],
+    "~/.freeciv:create": [
+        "org.freeciv.gtk322"
     ],
     "~/.local/share/flatpak:ro": [
         "org.freedesktop.appstream-glib",

@@ -40,6 +40,7 @@
     "com.wps.Office",
     "com.yacreader.YACReader",
     "de.tumexam.cli",
+    "dev.slimevr.SlimeVR",
     "dev.vieb.Vieb",
     "edu.berkeley.BOINC",
     "eu.betterbird.Betterbird",
@@ -95,6 +96,7 @@
     "org.fdroid.Repomaker",
     "org.filezillaproject.Filezilla",
     "org.flycast.Flycast",
+    "org.freeciv.gtk322",
     "org.freefilesync.FreeFileSync",
     "org.freeorion.FreeOrion",
     "org.freeplane.App",
@@ -153,5 +155,6 @@
     "sh.ppy.osu",
     "so.onekey.Wallet",
     "tv.kodi.Kodi",
-    "org.gimp.GIMP.Plugin.Resynthesizer"
+    "org.gimp.GIMP.Plugin.Resynthesizer",
+    "org.videolan.VLC.Plugin.pause_click"
 ]

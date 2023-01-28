@@ -1,6 +1,7 @@
 [
     "app.drey.EarTag",
     "app.ywallet.Ywallet",
+    "cc.craftos_pc.CraftOS-PC",
     "cc.nift.nsm",
     "ch.imatt.ClipQR",
     "chat.rocket.RocketChat",

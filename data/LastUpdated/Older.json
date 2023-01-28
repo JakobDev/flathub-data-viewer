@@ -292,6 +292,7 @@
     "io.github.hermitdemschoenenleben.linien",
     "io.github.igaldino.CoyoteTM",
     "io.github.igorlogius.scr2ppm",
+    "io.github.ilius.pyglossary",
     "io.github.jhaygood86.mauborgne",
     "io.github.jliljebl.Flowblade",
     "io.github.kaschpal.timetable",
@@ -748,5 +749,6 @@
     "org.gtk.Gtk3theme.Yaru-Yellow-light",
     "org.gtk.Gtk3theme.Yaru-remix-dark",
     "org.gtk.Gtk3theme.Yaru-remix-light",
-    "org.gtk.Gtk3theme.Yaru-remix"
+    "org.gtk.Gtk3theme.Yaru-remix",
+    "org.videolan.VLC.Plugin.pause_click"
 ]

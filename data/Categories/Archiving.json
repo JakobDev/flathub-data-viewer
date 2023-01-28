@@ -1,5 +1,6 @@
 [
     "com.borgbase.Vorta",
+    "com.diffingo.fwbackups",
     "com.github.birros.WebArchives",
     "io.github.peazip.PeaZip",
     "org.cubocore.CoreArchiver",

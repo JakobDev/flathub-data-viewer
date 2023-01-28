@@ -54,5 +54,6 @@
     "org.telesculptor.TeleSculptor",
     "org.videolan.VLC",
     "tv.kodi.Kodi",
-    "vn.hoabinh.quan.CoBang"
+    "vn.hoabinh.quan.CoBang",
+    "org.videolan.VLC.Plugin.pause_click"
 ]

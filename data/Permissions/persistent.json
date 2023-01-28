@@ -416,9 +416,6 @@
     ".fgfs": [
         "org.flightgear.FlightGear"
     ],
-    ".freeciv": [
-        "org.freeciv.Freeciv"
-    ],
     ".frozen-bubble": [
         "org.frozen_bubble.frozen-bubble"
     ],
