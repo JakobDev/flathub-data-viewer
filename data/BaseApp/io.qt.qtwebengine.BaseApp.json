@@ -3,7 +3,6 @@
         "ch.theologeek.Manuskript",
         "com.github.iwalton3.jellyfin-media-player",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
-        "com.ktechpit.whatsie",
         "com.nextcloud.desktopclient.nextcloud",
         "com.stremio.Stremio",
         "de.shorsh.discord-screenaudio",
@@ -32,6 +31,15 @@
         "io.github.martinrotter.rssguard",
         "io.mrarm.mcpelauncher"
     ],
+    "5.15-22.08": [
+        "com.ktechpit.whatsie",
+        "io.sourceforge.chart_geany.chart-geany",
+        "net.sonic_pi.SonicPi",
+        "org.freecadweb.FreeCAD",
+        "org.musescore.MuseScore",
+        "org.paraview.ParaView",
+        "org.sdrangel.SDRangel"
+    ],
     "5.15": [
         "com.wiz.Note",
         "io.github.maurycyliebner.enve",
@@ -40,13 +48,5 @@
     "6.2": [
         "dev.lukebriggs.pepys",
         "org.jaspstats.JASP"
-    ],
-    "5.15-22.08": [
-        "io.sourceforge.chart_geany.chart-geany",
-        "net.sonic_pi.SonicPi",
-        "org.freecadweb.FreeCAD",
-        "org.musescore.MuseScore",
-        "org.paraview.ParaView",
-        "org.sdrangel.SDRangel"
     ]
 }
