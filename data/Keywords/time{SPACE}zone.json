@@ -1,3 +1,4 @@
 [
-    "org.gnome.clocks"
+    "org.gnome.clocks",
+    "org.kde.kclock"
 ]

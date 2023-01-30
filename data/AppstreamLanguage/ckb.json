@@ -1,5 +1,6 @@
 [
     "com.usebottles.bottles",
+    "org.freedesktop.appstream.cli",
     "org.gnome.Calendar",
     "org.gnome.Characters",
     "org.gnome.Cheese",
