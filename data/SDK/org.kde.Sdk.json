@@ -109,6 +109,7 @@
         "org.openshot.OpenShot",
         "org.paraview.ParaView",
         "org.pegasus_frontend.Pegasus",
+        "org.photoqt.PhotoQt",
         "org.prismlauncher.PrismLauncher",
         "org.purei.Play",
         "org.pymol.PyMOL",
@@ -173,7 +174,8 @@
         "org.opentransactions.metier",
         "org.rncbc.qpwgraph",
         "org.rncbc.qsynth",
-        "org.rncbc.qtractor"
+        "org.rncbc.qtractor",
+        "org.strawberrymusicplayer.strawberry"
     ],
     "5.15-21.08": [
         "app.resp.RESP",
@@ -451,7 +453,6 @@
         "org.openhantek.OpenHantek6022",
         "org.openmw.OpenMW",
         "org.openscad.OpenSCAD",
-        "org.photoqt.PhotoQt",
         "org.plomgrading.PlomClient",
         "org.polymc.PolyMC",
         "org.qbittorrent.qBittorrent",
@@ -539,9 +540,9 @@
         "org.cznic.Datovka",
         "org.gottcode.Hexalate",
         "org.gottcode.Kapow",
+        "org.jaspstats.JASP",
         "org.mattbas.Glaxnimate",
         "org.profex_xrd.Profex",
-        "org.strawberrymusicplayer.strawberry",
         "uk.org.zint.zint-qt"
     ],
     "6.2": [
@@ -551,7 +552,6 @@
         "dev.lukebriggs.pepys",
         "eu.skribisto.skribisto",
         "org.coolero.Coolero",
-        "org.jaspstats.JASP",
         "org.linux_hardware.hw-probe"
     ],
     "5.12": [

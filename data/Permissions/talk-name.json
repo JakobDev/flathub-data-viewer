@@ -1771,6 +1771,7 @@
         "com.musixmatch.Musixmatch",
         "com.nextcloud.desktopclient.nextcloud",
         "com.nordpass.NordPass",
+        "com.notesnook.Notesnook",
         "com.obsproject.Studio",
         "com.opera.Opera",
         "com.ownrwallet.wallet",
@@ -2461,6 +2462,7 @@
     "com.canonical.unity.launcherentry": [
         "com.discordapp.Discord",
         "com.github.gabutakut.gabutdm",
+        "com.notesnook.Notesnook",
         "com.ozmartians.VidCutter",
         "de.manuel_kehl.go-for-it",
         "gg.guilded.Guilded",

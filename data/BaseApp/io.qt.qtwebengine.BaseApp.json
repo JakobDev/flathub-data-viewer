@@ -29,7 +29,8 @@
     "6.3": [
         "com.github.jmlich.geotagging",
         "io.github.martinrotter.rssguard",
-        "io.mrarm.mcpelauncher"
+        "io.mrarm.mcpelauncher",
+        "org.jaspstats.JASP"
     ],
     "5.15-22.08": [
         "com.ktechpit.whatsie",
@@ -46,7 +47,6 @@
         "org.mobsya.ThymioSuite"
     ],
     "6.2": [
-        "dev.lukebriggs.pepys",
-        "org.jaspstats.JASP"
+        "dev.lukebriggs.pepys"
     ]
 }
