@@ -312,9 +312,6 @@
     ".config/KVIrc": [
         "net.kvirc.KVIrc"
     ],
-    ".minetest": [
-        "net.minetest.Minetest"
-    ],
     ".openra": [
         "net.openra.OpenRA"
     ],
