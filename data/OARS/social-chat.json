@@ -315,6 +315,7 @@
         "net.drawpile.drawpile",
         "net.gaijin.WarThunder",
         "net.goatattack.goatattack",
+        "net.gradator.gtkatlantic",
         "net.jami.Jami",
         "net.jammr.jammr",
         "net.kvirc.KVIrc",
@@ -383,6 +384,7 @@
         "tw.ddnet.ddnet",
         "us.zoom.Zoom",
         "ws.openarena.OpenArena",
+        "xyz.diamondb.gtkcord4",
         "xyz.mx_moment.moment"
     ],
     "moderate": [

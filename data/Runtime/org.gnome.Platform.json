@@ -119,6 +119,7 @@
         "io.github.Pithos",
         "io.github.Snaggly.PS2_Pnacher",
         "io.github.achetagames.epic_asset_manager",
+        "io.github.alexkdeveloper.gomoku",
         "io.github.alexkdeveloper.radio",
         "io.github.arunsivaramanneo.GPUViewer",
         "io.github.brunoherbelin.Vimix",
@@ -151,10 +152,12 @@
         "it.mijorus.smile",
         "lv.martinsz.millionaire",
         "me.dusansimic.DynamicWallpaper",
+        "me.hergert.Schemes",
         "me.kozec.syncthingtk",
         "me.sanchezrodriguez.passes",
         "ml.mdwalters.EightBall",
         "net.danigm.timetrack",
+        "net.giuspen.cherrytree",
         "net.launchpad.gmult",
         "net.lutris.Lutris",
         "net.oz9aec.Gpredict",
@@ -270,7 +273,8 @@
         "uk.co.ibboard.cawbird",
         "uk.org.greenend.chiark.sgtatham.putty",
         "vn.hoabinh.quan.CoBang",
-        "work.openpaper.Paperwork"
+        "work.openpaper.Paperwork",
+        "xyz.diamondb.gtkcord4"
     ],
     "42": [
         "app.drey.Blurble",
@@ -415,7 +419,6 @@
         "net.daase.journable",
         "net.devolutions.RDM",
         "net.devolutions.RDMFree",
-        "net.giuspen.cherrytree",
         "net.gwyddion.Gwyddion",
         "net.jenyay.Outwiker",
         "net.lugsole.bible_gui",

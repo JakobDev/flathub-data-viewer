@@ -138,6 +138,7 @@
     "io.otsaloma.nfoview",
     "io.posidon.Paper",
     "io.sourceforge.pysolfc.PySolFC",
+    "me.hergert.Schemes",
     "me.kozec.syncthingtk",
     "net.ankiweb.Anki",
     "net.bartkessels.getit",

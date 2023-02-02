@@ -78,6 +78,7 @@
     "io.gitlab.theevilskeleton.Upscaler",
     "io.liri.Calculator",
     "io.liri.Text",
+    "me.hergert.Schemes",
     "me.kozec.syncthingtk",
     "ml.prevete.Daty",
     "net.ankiweb.Anki",

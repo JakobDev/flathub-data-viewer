@@ -280,6 +280,7 @@
         "org.telegram",
         "social.whalebird.WhalebirdDesktop",
         "us.zoom.Zoom",
+        "xyz.diamondb.gtkcord4",
         "xyz.mx_moment.moment"
     ],
     "moderate": [

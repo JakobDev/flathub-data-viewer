@@ -260,7 +260,8 @@
         "org.phoenicis.playonlinux",
         "org.telegram",
         "org.vergecurrency.verge-qt",
-        "so.onekey.Wallet"
+        "so.onekey.Wallet",
+        "xyz.diamondb.gtkcord4"
     ],
     "mild": [
         "com.avocode.Avocode",

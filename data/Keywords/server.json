@@ -1,5 +1,6 @@
 [
     "com.github.bcedu.valasimplehttpserver",
+    "net.gradator.gtkatlantic",
     "org.armagetronad.ArmagetronAdvanced",
     "org.gabmus.unifydmin"
 ]

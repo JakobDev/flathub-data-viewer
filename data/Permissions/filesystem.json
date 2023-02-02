@@ -542,6 +542,7 @@
         "io.github.gillesdegottex.FMIT",
         "io.github.gitahead.GitAhead",
         "io.github.hermitdemschoenenleben.linien",
+        "io.github.huderlem.porymap",
         "io.github.hydrusnetwork.hydrus",
         "io.github.janbar.noson",
         "io.github.jonmagon.kdiskmark",
@@ -1127,6 +1128,7 @@
         "io.github.cmus.cmus",
         "io.github.jacalz.rymdport",
         "io.github.janbar.noson",
+        "io.github.listen1.Listen1",
         "io.github.pragha_music_player.pragha",
         "io.github.qtox.qTox",
         "io.github.swanux.hbud",
@@ -2024,7 +2026,8 @@
         "org.gnome.Builder",
         "org.gnome.gitg",
         "org.standardnotes.standardnotes",
-        "org.tabos.roger"
+        "org.tabos.roger",
+        "xyz.diamondb.gtkcord4"
     ],
     "xdg-pictures": [
         "chat.quadrix.Quadrix",

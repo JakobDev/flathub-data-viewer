@@ -248,6 +248,7 @@
     ],
     "moderate": [
         "com.github.needleandthread.vocal",
+        "io.github.listen1.Listen1",
         "org.unitystation.StationHub"
     ]
 }

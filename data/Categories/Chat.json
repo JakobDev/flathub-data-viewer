@@ -31,5 +31,6 @@
     "org.signal.Signal",
     "org.syphon.Syphon",
     "org.telegram",
+    "xyz.diamondb.gtkcord4",
     "xyz.mx_moment.moment"
 ]

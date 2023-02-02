@@ -169,6 +169,7 @@
     "io.liri.Text",
     "io.sourceforge.pysolfc.PySolFC",
     "it.mijorus.smile",
+    "me.hergert.Schemes",
     "me.leucoso.Grock",
     "me.sanchezrodriguez.passes",
     "me.simakis.dropboxignore",

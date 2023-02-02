@@ -272,6 +272,7 @@
         "org.signal.Signal",
         "org.syphon.Syphon",
         "org.telegram",
-        "se.manyver.Manyverse"
+        "se.manyver.Manyverse",
+        "xyz.diamondb.gtkcord4"
     ]
 }
