@@ -1,6 +1,7 @@
 [
     "com.boxy_svg.BoxySVG",
     "im.riot.Riot",
+    "io.github.dubstar_04.design",
     "org.inkscape.Inkscape",
     "org.pencil2d.Pencil2D"
 ]

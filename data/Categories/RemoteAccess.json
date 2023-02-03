@@ -10,6 +10,7 @@
     "org.cockpit_project.CockpitClient",
     "org.gnome.Connections",
     "org.kde.krdc",
+    "org.tigervnc.vncviewer",
     "se.cendio.tlclient",
     "uk.org.greenend.chiark.sgtatham.putty"
 ]

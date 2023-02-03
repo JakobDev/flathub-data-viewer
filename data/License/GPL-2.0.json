@@ -102,6 +102,7 @@
     "org.yamagi.YamagiQ2",
     "studio.kx.carla",
     "uk.co.parallelrealities.games.edgar",
+    "com.obsproject.Studio.Plugin.GStreamerVaapi",
     "com.obsproject.Studio.Plugin.Gstreamer",
     "com.obsproject.Studio.Plugin.InputOverlay",
     "com.obsproject.Studio.Plugin.MoveTransition",

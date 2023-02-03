@@ -76,6 +76,7 @@
     "org.kde.dolphin",
     "org.kde.kcolorchooser",
     "org.kde.kfind",
+    "org.kde.kwalletmanager5",
     "org.kde.kwrite",
     "org.kde.lokalize",
     "org.kde.okular",

@@ -86,8 +86,8 @@
     "org.tomviz.Tomviz",
     "org.viking.Viking",
     "pl.nieto.fityk",
-    "se.sjoerd.DatMan",
     "se.sjoerd.GIScan",
+    "se.sjoerd.Graphs",
     "space.fips.Fips",
     "space.nouspiro.tenmon"
 ]

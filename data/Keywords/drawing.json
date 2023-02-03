@@ -1,5 +1,6 @@
 [
     "com.github.PintaProject.Pinta",
+    "io.github.dubstar_04.design",
     "org.inkscape.Inkscape",
     "org.pencil2d.Pencil2D"
 ]

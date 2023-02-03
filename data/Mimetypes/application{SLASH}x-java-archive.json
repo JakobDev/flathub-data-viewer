@@ -1,4 +1,5 @@
 [
+    "io.github.java_decompiler.jd-gui",
     "io.github.peazip.PeaZip",
     "org.gnome.FileRoller",
     "org.kde.ark"

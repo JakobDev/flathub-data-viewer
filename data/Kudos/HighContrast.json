@@ -99,6 +99,7 @@
     "io.github.celluloid_player.Celluloid",
     "io.github.davidoc26.wallpaper_selector",
     "io.github.diegoivan.GaticTacToe",
+    "io.github.dubstar_04.design",
     "io.github.fabrialberio.pinapp",
     "io.github.fsobolev.TimeSwitch",
     "io.github.gillesdegottex.FMIT",
@@ -249,6 +250,6 @@
     "re.sonny.Workbench",
     "ro.fxdata.taskmonitor.viewer",
     "ro.hume.cosmin.ShoppingList",
-    "se.sjoerd.DatMan",
-    "se.sjoerd.GIScan"
+    "se.sjoerd.GIScan",
+    "se.sjoerd.Graphs"
 ]

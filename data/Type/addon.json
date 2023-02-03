@@ -170,6 +170,7 @@
     "com.github.wwmm.pulseeffects.plugin.lsp-plugins",
     "com.hack_computer.Clippy.Extension",
     "com.jetbrains.PyCharm.Extensions.Python2-7",
+    "com.obsproject.Studio.Plugin.GStreamerVaapi",
     "com.obsproject.Studio.Plugin.Gstreamer",
     "com.obsproject.Studio.Plugin.InputOverlay",
     "com.obsproject.Studio.Plugin.MoveTransition",

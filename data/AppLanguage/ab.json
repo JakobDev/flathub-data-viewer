@@ -1,4 +1,5 @@
 [
+    "org.gnome.Builder",
     "org.gnome.Calendar",
     "org.gnome.Calls",
     "org.gnome.Characters",

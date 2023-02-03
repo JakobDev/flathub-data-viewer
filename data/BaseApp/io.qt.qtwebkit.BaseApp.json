@@ -1,6 +1,18 @@
 {
-    "5.15-21.08": [
+    "5.15-22.08": [
         "ch.openboard.OpenBoard",
+        "com.github.fontmatrix.Fontmatrix",
+        "com.icanblink.blink",
+        "org.goldendict.GoldenDict",
+        "org.openshot.OpenShot"
+    ],
+    "5.15": [
+        "com.codemouse92.timecard"
+    ],
+    "5.14": [
+        "com.ktechpit.wonderwall"
+    ],
+    "5.15-21.08": [
         "com.notepadqq.Notepadqq",
         "com.sourcepole.kadas",
         "info.smplayer.SMPlayer",
@@ -11,17 +23,5 @@
         "org.qgis.qgis",
         "org.subsurface_divelog.Subsurface",
         "org.zealdocs.Zeal"
-    ],
-    "5.15": [
-        "com.codemouse92.timecard"
-    ],
-    "5.15-22.08": [
-        "com.github.fontmatrix.Fontmatrix",
-        "com.icanblink.blink",
-        "org.goldendict.GoldenDict",
-        "org.openshot.OpenShot"
-    ],
-    "5.14": [
-        "com.ktechpit.wonderwall"
     ]
 }
