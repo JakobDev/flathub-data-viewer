@@ -1,6 +1,5 @@
 [
     "org.gimp.GIMP",
-    "org.glimpse_editor.Glimpse",
     "org.gnome.Evince",
     "org.gnome.FileRoller",
     "org.gnome.SimpleScan",

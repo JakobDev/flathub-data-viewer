@@ -53,6 +53,7 @@
     "org.jreleaser.cli",
     "org.kde.okteta",
     "org.keepassxc.KeePassXC",
+    "org.localsend.localsend_app",
     "org.love2d.love2d",
     "org.mapeditor.Tiled",
     "org.mozilla.Thunderbird",

@@ -3,7 +3,6 @@
     "io.gitlab.adhami3310.Converter",
     "org.darktable.Darktable",
     "org.gimp.GIMP",
-    "org.glimpse_editor.Glimpse",
     "org.libvips.vipsdisp",
     "org.photoqt.PhotoQt"
 ]

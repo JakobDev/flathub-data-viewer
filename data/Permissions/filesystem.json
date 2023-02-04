@@ -132,6 +132,7 @@
         "com.sweetscape.ZeroOneZeroEditor",
         "com.synology.CloudStationBackup",
         "com.synology.SynologyDrive",
+        "com.syntevo.SmartSynchronize",
         "com.thincast.client",
         "com.ultimaker.cura",
         "com.uploadedlobster.peek",
@@ -168,7 +169,6 @@
         "io.botfather.Botfather",
         "io.conduktor.Conduktor",
         "io.dbeaver.DBeaverCommunity",
-        "io.designer.GravitDesigner",
         "io.gdevelop.ide",
         "io.github.Cockatrice.cockatrice",
         "io.github.JaGoLi.ytdl_gui",
@@ -185,7 +185,6 @@
         "io.github.dummerle.rare",
         "io.github.f3d_app.f3d",
         "io.github.garglk.Gargoyle",
-        "io.github.gitahead.GitAhead",
         "io.github.gtkwave.GTKWave",
         "io.github.hakuneko.HakuNeko",
         "io.github.kevinsmia1939.PySimpleCV",
@@ -542,7 +541,6 @@
         "io.github.garglk.Gargoyle",
         "io.github.giantpinkrobots.bootqt",
         "io.github.gillesdegottex.FMIT",
-        "io.github.gitahead.GitAhead",
         "io.github.hermitdemschoenenleben.linien",
         "io.github.huderlem.porymap",
         "io.github.hydrusnetwork.hydrus",
@@ -1660,6 +1658,7 @@
         "org.wireshark.Wireshark",
         "org.yuzu_emu.yuzu",
         "ro.fxdata.taskmonitor.viewer",
+        "rocks.koreader.KOReader",
         "se.manyver.Manyverse",
         "uk.org.zint.zint-qt",
         "vn.hoabinh.quan.CoBang"
@@ -1805,7 +1804,6 @@
         "com.sublimemerge.App",
         "com.sublimetext.three",
         "com.syntevo.SmartGit",
-        "com.syntevo.SmartSynchronize",
         "com.toggl.TogglDesktop",
         "com.transmissionbt.Transmission",
         "com.unity.UnityHub",
@@ -1920,7 +1918,6 @@
         "org.geeqie.Geeqie",
         "org.getzola.zola",
         "org.gimp.GIMP",
-        "org.glimpse_editor.Glimpse",
         "org.gnome.Boxes",
         "org.gnome.Builder",
         "org.gnome.DejaDup",
@@ -1999,7 +1996,6 @@
         "org.xfce.mousepad",
         "org.xfce.ristretto",
         "org.zaproxy.ZAP",
-        "rocks.koreader.KOReader",
         "se.cendio.tlclient",
         "space.nouspiro.tenmon",
         "work.openpaper.Paperwork"
@@ -2024,7 +2020,6 @@
         "com.syntevo.SmartGit",
         "im.riot.Riot",
         "in.cinny.Cinny",
-        "io.github.gitahead.GitAhead",
         "io.github.shiftey.Desktop",
         "org.apache.netbeans",
         "org.gnome.Builder",
@@ -2632,7 +2627,8 @@
         "net.openra.OpenRA",
         "org.atheme.audacious",
         "org.gnome.Evince",
-        "org.purei.Play"
+        "org.purei.Play",
+        "rocks.koreader.KOReader"
     ],
     "/run/media:ro": [
         "com.github.rhyme_player.rhyme",
@@ -2642,7 +2638,8 @@
         "org.cubocore.CoreFM",
         "org.gnome.Evince",
         "org.purei.Play",
-        "org.yuzu_emu.yuzu"
+        "org.yuzu_emu.yuzu",
+        "rocks.koreader.KOReader"
     ],
     "xdg-run/podman/podman.sock": [
         "com.github.sdv43.whaler"

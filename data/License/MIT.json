@@ -1,5 +1,6 @@
 [
     "app.drey.EarTag",
+    "app.gummi.gummi",
     "app.ywallet.Ywallet",
     "cc.craftos_pc.CraftOS-PC",
     "cc.nift.nsm",
@@ -85,7 +86,6 @@
     "io.github.dbchoco.muezzin",
     "io.github.fsobolev.Cavalier",
     "io.github.fsobolev.TimeSwitch",
-    "io.github.gitahead.GitAhead",
     "io.github.hvdwofl.jExifToolGUI",
     "io.github.igorlogius.scr2ppm",
     "io.github.libvibrant.vibrantLinux",
@@ -143,6 +143,7 @@
     "org.lamport.tla.toolbox",
     "org.learningequality.Kolibri",
     "org.libvips.vipsdisp",
+    "org.localsend.localsend_app",
     "org.netsurf_browser.NetSurf",
     "org.racket_lang.Racket",
     "org.ryujinx.Ryujinx",

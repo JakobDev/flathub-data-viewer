@@ -2,6 +2,5 @@
     "com.riverbankcomputing.PyQt.BaseApp",
     "io.github.pragha_music_player.pragha",
     "io.qt.qtwebengine.BaseApp",
-    "io.qt.qtwebkit.BaseApp",
-    "rocks.koreader.KOReader"
+    "io.qt.qtwebkit.BaseApp"
 ]
