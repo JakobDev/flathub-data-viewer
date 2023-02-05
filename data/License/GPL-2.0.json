@@ -110,6 +110,7 @@
     "com.obsproject.Studio.Plugin.ScaleToSound",
     "com.obsproject.Studio.Plugin.SceneSwitcher",
     "com.obsproject.Studio.Plugin.TransitionTable",
+    "com.obsproject.Studio.Plugin.VerticalCanvas",
     "com.obsproject.Studio.Plugin.WebSocket",
     "com.valvesoftware.Steam.CompatibilityTool.Boxtron",
     "io.dbeaver.DBeaverCommunity.Client.mariadb",

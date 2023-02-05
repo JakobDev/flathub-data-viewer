@@ -1,5 +1,6 @@
 [
     "edu.berkeley.BOINC",
+    "io.github.TheThirdOne.rars",
     "org.kde.kturtle",
     "org.lamport.tla.toolbox",
     "org.mmass.mMass",

@@ -1345,6 +1345,8 @@
         "text{SLASH}vtt",
         "text{SLASH}x-abiword",
         "text{SLASH}x-arduino",
+        "text{SLASH}x-asm",
+        "text{SLASH}x-asm+riscv",
         "text{SLASH}x-ass",
         "text{SLASH}x-bash",
         "text{SLASH}x-bibtex",

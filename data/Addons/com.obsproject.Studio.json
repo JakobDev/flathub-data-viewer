@@ -8,6 +8,7 @@
     "com.obsproject.Studio.Plugin.ScaleToSound",
     "com.obsproject.Studio.Plugin.SceneSwitcher",
     "com.obsproject.Studio.Plugin.TransitionTable",
+    "com.obsproject.Studio.Plugin.VerticalCanvas",
     "com.obsproject.Studio.Plugin.WebSocket",
     "com.obsproject.Studio.Plugin.waveform"
 ]

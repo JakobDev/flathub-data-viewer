@@ -72,6 +72,7 @@
     "rocks.koreader.KOReader",
     "so.onekey.Wallet",
     "tv.kodi.Kodi",
+    "com.obsproject.Studio.Plugin.VerticalCanvas",
     "org.blackfennec.app.extensions.base",
     "org.blackfennec.app.extensions.core",
     "org.videolan.VLC.Plugin.pause_click"
