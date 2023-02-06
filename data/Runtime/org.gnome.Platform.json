@@ -1,6 +1,7 @@
 {
     "43": [
         "app.bluebubbles.BlueBubbles",
+        "app.drey.Blurble",
         "app.drey.Damask",
         "app.drey.Dialect",
         "app.drey.EarTag",
@@ -113,6 +114,7 @@
         "im.bernard.Nostalgia",
         "im.pidgin.Pidgin",
         "info.febvre.Komikku",
+        "info.portfolio_performance.PortfolioPerformance",
         "io.bassi.Amberol",
         "io.dbeaver.DBeaverCommunity",
         "io.github.Foldex.AdwSteamGtk",
@@ -136,9 +138,11 @@
         "io.github.jorchube.monitorets",
         "io.github.leolost2605.gradebook",
         "io.github.limads.Queries",
+        "io.github.manisandro.gImageReader",
         "io.github.mideb.digitales_register",
         "io.github.mpobaschnig.Vaults",
         "io.github.realmazharhussain.GdmSettings",
+        "io.github.salaniLeo.flake",
         "io.github.santiagocezar.maniatic-launcher",
         "io.github.seadve.Kooha",
         "io.github.sharkwouter.Minigalaxy",
@@ -282,7 +286,6 @@
         "xyz.diamondb.gtkcord4"
     ],
     "42": [
-        "app.drey.Blurble",
         "app.rednotebook.RedNotebook",
         "app.riftshare.RiftShare",
         "ar.xjuan.Cambalache",
@@ -380,7 +383,6 @@
         "in.bharatkalluri.splash",
         "in.cinny.Cinny",
         "info.olasagasti.revelation",
-        "info.portfolio_performance.PortfolioPerformance",
         "io.github.Hexchat",
         "io.github.Qalculate",
         "io.github.Soundux",

@@ -1,5 +1,6 @@
 [
     "com.github.unrud.djpdf",
+    "io.github.manisandro.gImageReader",
     "org.gnome.OCRFeeder",
     "work.openpaper.Paperwork",
     "xyz.rescribe.rescribe"

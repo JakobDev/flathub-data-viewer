@@ -28,7 +28,8 @@
         "com.gitlab.JakobDev.jdReplace",
         "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.jakobdev.jdnbtexplorer",
-        "io.gitlab.JakobDev.jdSimpleAutostart"
+        "io.gitlab.JakobDev.jdSimpleAutostart",
+        "page.codeberg.JakobDev.jdDesktopEntryEdit"
     ],
     "6.3": [
         "com.gitlab.JakobDev.jdMinecraftLauncher",

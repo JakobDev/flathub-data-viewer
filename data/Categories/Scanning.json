@@ -5,6 +5,7 @@
     "com.github.unrud.djpdf",
     "com.github.utsushi.Utsushi",
     "com.hamrick.VueScan",
+    "io.github.manisandro.gImageReader",
     "net.epson.epsonscan2",
     "org.gnome.OCRFeeder",
     "org.gnome.SimpleScan",

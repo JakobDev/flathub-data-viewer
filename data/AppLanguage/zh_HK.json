@@ -1,6 +1,7 @@
 [
     "com.github.PintaProject.Pinta",
     "com.github.xournalpp.xournalpp",
+    "io.github.manisandro.gImageReader",
     "io.liri.Text",
     "net.supertuxkart.SuperTuxKart",
     "org.gimp.GIMP",

@@ -63,7 +63,6 @@
         "net.xmind.XMind",
         "org.jamovi.jamovi",
         "org.sugarlabs.MusicBlocks",
-        "org.twinery.Twine",
         "rest.insomnia.Insomnia",
         "ro.go.hmlendea.DL-Desktop",
         "se.manyver.Manyverse"
@@ -142,6 +141,7 @@
         "org.signal.Signal",
         "org.standardnotes.standardnotes",
         "org.turbowarp.TurboWarp",
+        "org.twinery.Twine",
         "org.zulip.Zulip",
         "sh.cider.Cider",
         "so.onekey.Wallet",

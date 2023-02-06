@@ -5,6 +5,7 @@
     "com.github.libresprite.LibreSprite",
     "com.github.weclaw1.ImageRoll",
     "com.interversehq.qView",
+    "io.github.manisandro.gImageReader",
     "io.photoflare.photoflare",
     "org.cubocore.CoreImage",
     "org.cubocore.CorePaint",

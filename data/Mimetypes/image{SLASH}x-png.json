@@ -3,6 +3,7 @@
     "com.github.PintaProject.Pinta",
     "com.github.jeromerobert.pdfarranger",
     "com.github.weclaw1.ImageRoll",
+    "io.github.manisandro.gImageReader",
     "io.photoflare.photoflare",
     "org.cubocore.CoreImage",
     "org.cubocore.CorePaint",

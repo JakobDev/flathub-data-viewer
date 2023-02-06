@@ -1,5 +1,6 @@
 [
     "com.gitlab.JakobDev.jdMinecraftLauncher",
+    "dev.mrquantumoff.mcmodpackmanager",
     "io.github.mrquantumoff.mcmodpackmanager",
     "org.polymc.PolyMC",
     "org.prismlauncher.PrismLauncher"

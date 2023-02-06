@@ -224,6 +224,9 @@
     "org.mpris.mediaplayer2.kotatogram": [
         "io.github.kotatogram"
     ],
+    "org.gnome.gimagereader.*": [
+        "io.github.manisandro.gImageReader"
+    ],
     "org.mpris.mediaplayer2.yesplaymusic": [
         "io.github.qier222.YesPlayMusic"
     ],

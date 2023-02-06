@@ -1,4 +1,5 @@
 [
+    "io.github.manisandro.gImageReader",
     "org.geeqie.Geeqie",
     "org.gnome.gThumb"
 ]

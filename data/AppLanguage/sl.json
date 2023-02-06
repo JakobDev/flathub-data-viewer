@@ -18,6 +18,7 @@
     "io.github.Qalculate.qalculate-qt",
     "io.github.Qalculate",
     "io.github.celluloid_player.Celluloid",
+    "io.github.manisandro.gImageReader",
     "net.minetest.Minetest",
     "net.poedit.Poedit",
     "net.supertuxkart.SuperTuxKart",

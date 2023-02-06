@@ -112,6 +112,7 @@
         "org.paraview.ParaView",
         "org.pegasus_frontend.Pegasus",
         "org.photoqt.PhotoQt",
+        "org.polymc.PolyMC",
         "org.prismlauncher.PrismLauncher",
         "org.purei.Play",
         "org.pymol.PyMOL",
@@ -172,7 +173,8 @@
         "org.rncbc.qsynth",
         "org.rncbc.qtractor",
         "org.strawberrymusicplayer.strawberry",
-        "org.texstudio.TeXstudio"
+        "org.texstudio.TeXstudio",
+        "page.codeberg.JakobDev.jdDesktopEntryEdit"
     ],
     "5.15-21.08": [
         "app.resp.RESP",
@@ -444,7 +446,6 @@
         "org.openmw.OpenMW",
         "org.openscad.OpenSCAD",
         "org.plomgrading.PlomClient",
-        "org.polymc.PolyMC",
         "org.qbittorrent.qBittorrent",
         "org.qelectrotech.QElectroTech",
         "org.qgis.qgis",
