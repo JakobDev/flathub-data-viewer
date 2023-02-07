@@ -1595,6 +1595,7 @@
         "x-scheme-handler{SLASH}i8-lunacy",
         "x-scheme-handler{SLASH}icy",
         "x-scheme-handler{SLASH}icyx",
+        "x-scheme-handler{SLASH}infinote",
         "x-scheme-handler{SLASH}insomnia",
         "x-scheme-handler{SLASH}ipfs",
         "x-scheme-handler{SLASH}ipns",

@@ -1,6 +1,7 @@
 [
     "io.github.lainsce.Colorway",
     "io.github.lainsce.Emulsion",
+    "io.github.nate_xyz.Paleta",
     "org.gabmus.swatch",
     "org.kryogenix.Pick"
 ]

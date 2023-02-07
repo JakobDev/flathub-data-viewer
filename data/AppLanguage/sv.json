@@ -55,6 +55,7 @@
     "io.github.quodlibet.ExFalso",
     "io.github.quodlibet.QuodLibet",
     "io.github.seadve.Kooha",
+    "io.gitlab.adhami3310.Converter",
     "io.neovim.nvim",
     "io.otsaloma.nfoview",
     "net.launchpad.gmult",

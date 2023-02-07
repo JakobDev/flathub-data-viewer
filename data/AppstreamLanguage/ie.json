@@ -6,6 +6,7 @@
     "io.github.celluloid_player.Celluloid",
     "io.otsaloma.gaupol",
     "org.gnome.Evolution",
+    "org.gnome.Gnote",
     "org.gnome.Lollypop",
     "org.gnome.TextEditor",
     "org.gnome.World.Secrets",
