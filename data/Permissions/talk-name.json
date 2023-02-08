@@ -196,6 +196,7 @@
         "com.gitlab.jakobdev.jdnbtexplorer",
         "com.gitlab.librebob.Athenaeum",
         "com.gitlab.tipp10.tipp10",
+        "com.hunterwittenborn.Celeste",
         "com.icanblink.blink",
         "com.interversehq.qView",
         "com.itopia.client",
@@ -672,6 +673,7 @@
         "org.sdrangel.SDRangel",
         "org.shadowsocks.qt5client",
         "org.shotcut.Shotcut",
+        "org.signal.Signal",
         "org.solarus_games.solarus.Launcher",
         "org.speedcrunch.SpeedCrunch",
         "org.sqlitebrowser.sqlitebrowser",
@@ -1549,6 +1551,7 @@
         "com.gitlab.bitseater.meteo",
         "com.googleplaymusicdesktopplayer.GPMDP",
         "com.greyrook.siptop",
+        "com.hunterwittenborn.Celeste",
         "com.icanblink.blink",
         "com.ktechpit.whatsie",
         "com.leinardi.gkraken",
@@ -1999,6 +2002,7 @@
         "io.github.mimbrero.WhatsAppDesktop",
         "org.freedownloadmanager.Manager",
         "org.remmina.Remmina",
+        "org.signal.Signal",
         "org.sparkleshare.SparkleShare",
         "org.zim_wiki.Zim",
         "social.whalebird.WhalebirdDesktop"
@@ -2012,7 +2016,8 @@
         "com.toggl.TogglDesktop",
         "io.github.kotatogram",
         "io.github.mimbrero.WhatsAppDesktop",
-        "org.remmina.Remmina"
+        "org.remmina.Remmina",
+        "org.signal.Signal"
     ],
     "org.freedesktop.portal.fcitx": [
         "app.lith.Lith",
@@ -2639,6 +2644,11 @@
         "com.hack_computer.OperatingSystemApp",
         "com.hack_computer.Sidetrack"
     ],
+    "org.kde.statusnotifieritem": [
+        "com.hunterwittenborn.Celeste",
+        "com.rtosta.zapzap",
+        "net.hovancik.Stretchly"
+    ],
     "org.gnome.keyring.systemprompter": [
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
@@ -2653,7 +2663,8 @@
         "com.toggl.TogglDesktop",
         "io.github.kotatogram",
         "org.gajim.Gajim",
-        "org.gnome.BreakTimer"
+        "org.gnome.BreakTimer",
+        "org.signal.Signal"
     ],
     "org.gnome.shell.extensions": [
         "com.mattjakeman.ExtensionManager",
@@ -2681,10 +2692,6 @@
     ],
     "com.prusa3d.prusaslicer.instancecheck.*": [
         "com.prusa3d.PrusaSlicer"
-    ],
-    "org.kde.statusnotifieritem": [
-        "com.rtosta.zapzap",
-        "net.hovancik.Stretchly"
     ],
     "com.canonical.unity": [
         "com.rtosta.zapzap",

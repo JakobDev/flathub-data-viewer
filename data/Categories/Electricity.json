@@ -1,4 +1,5 @@
 [
+    "io.github.carterbox.Electricity_Clock",
     "org.kicad.KiCad",
     "org.qelectrotech.QElectroTech"
 ]

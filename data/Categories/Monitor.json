@@ -1,6 +1,7 @@
 [
     "de.ifw_dresden.nagstamon",
     "edu.berkeley.BOINC",
+    "io.github.carterbox.Electricity_Clock",
     "org.gnome.Logs",
     "org.gnome.PowerStats",
     "org.kde.ktimetracker",

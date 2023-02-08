@@ -1,4 +1,5 @@
 [
+    "io.github.carterbox.Electricity_Clock",
     "net.danigm.timetrack",
     "org.gnome.clocks"
 ]

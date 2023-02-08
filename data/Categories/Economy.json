@@ -2,5 +2,6 @@
     "com.bitstower.Markets",
     "com.ekonomikas.merkato",
     "com.github.horaciodrs.tradesim",
-    "com.github.matfantinel.moneta"
+    "com.github.matfantinel.moneta",
+    "io.github.carterbox.Electricity_Clock"
 ]
