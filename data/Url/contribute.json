@@ -16,6 +16,7 @@
     "io.qt.Linguist",
     "io.qt.qdbusviewer",
     "io.sourceforge.pysolfc.PySolFC",
+    "it.mijorus.whisper",
     "net.minetest.Minetest",
     "net.supertuxkart.SuperTuxKart",
     "org.apache.jmeter",

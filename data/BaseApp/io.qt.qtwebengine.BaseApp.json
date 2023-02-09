@@ -11,7 +11,6 @@
         "net.retrodeck.retrodeck",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.xm1math.Texmaker",
-        "org.kde.akregator",
         "org.kde.angelfish",
         "org.kde.cantor",
         "org.kde.digikam",
@@ -37,6 +36,7 @@
         "io.sourceforge.chart_geany.chart-geany",
         "net.sonic_pi.SonicPi",
         "org.freecadweb.FreeCAD",
+        "org.kde.akregator",
         "org.musescore.MuseScore",
         "org.paraview.ParaView",
         "org.sdrangel.SDRangel"
