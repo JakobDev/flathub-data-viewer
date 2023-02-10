@@ -2422,6 +2422,17 @@
     "~/.librewolf": [
         "com.github.GradienceTeam.Gradience"
     ],
+    "xdg-download:ro": [
+        "com.github.GradienceTeam.Gradience",
+        "com.github.neithern.g4music",
+        "com.github.optyfr.JRomManager",
+        "com.mojang.Minecraft",
+        "io.bassi.Amberol",
+        "io.github.Soundux",
+        "org.opensurge2d.OpenSurge",
+        "org.polymc.PolyMC",
+        "org.prismlauncher.PrismLauncher"
+    ],
     "~/.var/app/org.mozilla.firefox/.mozilla/firefox": [
         "com.github.GradienceTeam.Gradience"
     ],
@@ -2585,16 +2596,6 @@
     ],
     "xdg-data/vocal:create": [
         "com.github.needleandthread.vocal"
-    ],
-    "xdg-download:ro": [
-        "com.github.neithern.g4music",
-        "com.github.optyfr.JRomManager",
-        "com.mojang.Minecraft",
-        "io.bassi.Amberol",
-        "io.github.Soundux",
-        "org.opensurge2d.OpenSurge",
-        "org.polymc.PolyMC",
-        "org.prismlauncher.PrismLauncher"
     ],
     "xdg-music:ro": [
         "com.github.neithern.g4music",

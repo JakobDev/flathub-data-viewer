@@ -61,5 +61,6 @@
     "org.gnumeric.Gnumeric",
     "org.midori_browser.Midori",
     "org.stellarium.Stellarium",
+    "org.xfce.mousepad",
     "org.xfce.ristretto"
 ]
