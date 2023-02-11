@@ -1,5 +1,6 @@
 [
     "com.bitstower.Markets",
     "com.ekonomikas.merkato",
-    "fr.free.Homebank"
+    "fr.free.Homebank",
+    "org.nickvision.money"
 ]

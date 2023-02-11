@@ -146,6 +146,7 @@
     "org.libvips.vipsdisp",
     "org.localsend.localsend_app",
     "org.netsurf_browser.NetSurf",
+    "org.nickvision.money",
     "org.racket_lang.Racket",
     "org.ryujinx.Ryujinx",
     "org.sdrangel.SDRangel",

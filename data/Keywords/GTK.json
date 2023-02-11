@@ -29,5 +29,6 @@
     "org.gnome.design.IconLibrary",
     "org.gnome.design.SymbolicPreview",
     "org.gnome.design.VectorSlicer",
+    "org.nickvision.money",
     "org.nicotine_plus.Nicotine"
 ]
