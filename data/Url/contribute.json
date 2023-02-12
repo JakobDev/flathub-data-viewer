@@ -24,6 +24,7 @@
     "org.bionus.Grabber",
     "org.citra_emu.citra",
     "org.expresslrs.ExpressLRSConfigurator",
+    "org.gnunet.Messenger",
     "org.inkscape.Inkscape",
     "org.kde.okteta",
     "org.keepassxc.KeePassXC",

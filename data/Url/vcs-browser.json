@@ -51,6 +51,7 @@
     "org.getoutline.OutlineClient",
     "org.getoutline.OutlineManager",
     "org.gnome.SimpleScan",
+    "org.gnunet.Messenger",
     "org.horizon_eda.HorizonEDA",
     "org.inkscape.Inkscape",
     "org.jreleaser.cli",

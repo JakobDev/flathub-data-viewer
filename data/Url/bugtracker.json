@@ -998,6 +998,7 @@
     "org.gnu.pspp",
     "org.gnucash.GnuCash",
     "org.gnumeric.Gnumeric",
+    "org.gnunet.Messenger",
     "org.godotengine.Godot",
     "org.goldcoinproject.goldcoin-qt",
     "org.gottcode.Connectagram",

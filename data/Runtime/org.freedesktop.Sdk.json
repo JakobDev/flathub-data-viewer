@@ -22,6 +22,7 @@
         "dev.lapce.lapce",
         "fr.natron.Natron",
         "io.atom.Atom",
+        "io.gdevs.GDLauncher",
         "io.neovim.nvim",
         "net.blix.BlueMail",
         "org.codeblocks.codeblocks",
@@ -45,7 +46,6 @@
         "com.synology.CloudStationBackup",
         "com.synology.SynologyAssistant",
         "com.unity.UnityHub",
-        "io.gdevs.GDLauncher",
         "io.stoplight.studio",
         "org.apache.netbeans"
     ],

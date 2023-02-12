@@ -6,6 +6,7 @@
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
+    "com.feaneron.Boatswain",
     "com.github.ADBeveridge.Raider",
     "com.github.PintaProject.Pinta",
     "com.github.cassidyjames.dippi",
