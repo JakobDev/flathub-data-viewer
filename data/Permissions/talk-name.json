@@ -1821,6 +1821,7 @@
         "de.bund.ausweisapp.ausweisapp2",
         "de.ifw_dresden.nagstamon",
         "de.mediathekview.MediathekView",
+        "de.shorsh.discord-screenaudio",
         "de.willuhn.Jameica",
         "dev.hdos.HDOS",
         "dev.vieb.Vieb",
@@ -2719,6 +2720,11 @@
         "io.stoplight.studio",
         "org.pyzo.pyzo"
     ],
+    "org.kde.kglobalaccel": [
+        "de.shorsh.discord-screenaudio",
+        "org.kde.akregator",
+        "org.kde.kontact"
+    ],
     "org.gnome.shell.screenshot": [
         "edu.stanford.Almond",
         "org.gimp.GIMP",
@@ -2910,10 +2916,6 @@
     "org.kde.kded5": [
         "org.kde.akregator",
         "org.kde.dolphin",
-        "org.kde.kontact"
-    ],
-    "org.kde.kglobalaccel": [
-        "org.kde.akregator",
         "org.kde.kontact"
     ],
     "org.kde.knotify": [

@@ -1,5 +1,6 @@
 [
     "net.sourceforge.OpenLieroX",
     "org.kde.kuiviewer",
+    "org.kicad.KiCad.ODBCDriver.psqlodbc",
     "org.telegram.desktop.webview"
 ]

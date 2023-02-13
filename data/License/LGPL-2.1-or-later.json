@@ -4,5 +4,6 @@
     "org.cockpit_project.CockpitClient",
     "org.kde.marble",
     "org.midori_browser.Midori",
+    "org.kicad.KiCad.ODBCDriver.mariadb-connector-odbc",
     "org.videolan.VLC.Plugin.pause_click"
 ]

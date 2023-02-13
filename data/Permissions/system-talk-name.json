@@ -54,6 +54,7 @@
         "org.gnome.Music",
         "org.gnome.OfficeRunner",
         "org.gnome.Todo",
+        "org.qbittorrent.qBittorrent",
         "tv.kodi.Kodi"
     ],
     "org.gtk.vfs.*": [
@@ -163,6 +164,7 @@
         "org.kde.kaffeine",
         "org.mixxx.Mixxx",
         "org.musescore.MuseScore",
+        "org.qbittorrent.qBittorrent",
         "org.quetoo.Quetoo",
         "org.qutebrowser.qutebrowser",
         "sh.cider.Cider",

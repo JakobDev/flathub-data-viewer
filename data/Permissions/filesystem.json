@@ -1000,6 +1000,7 @@
         "com.wps.Office",
         "com.xunlei.Thunder",
         "de.schmidhuberj.tubefeeder",
+        "de.shorsh.discord-screenaudio",
         "dev.vieb.Vieb",
         "eu.betterbird.Betterbird",
         "fi.skyjake.Lagrange",
@@ -1100,6 +1101,7 @@
         "com.slack.Slack",
         "com.spotify.Client",
         "com.valvesoftware.Steam",
+        "de.shorsh.discord-screenaudio",
         "gg.guilded.Guilded",
         "org.gnunet.Messenger",
         "sh.ppy.osu"
@@ -1827,7 +1829,6 @@
         "de.lernsoftware_filius.Filius",
         "de.rwth_aachen.ient.RDPlot",
         "de.rwth_aachen.ient.YUView",
-        "de.shorsh.discord-screenaudio",
         "dev.ares.ares",
         "dev.lapce.lapce",
         "edu.stanford.Almond",
@@ -2169,6 +2170,7 @@
         "com.sindresorhus.Caprine",
         "com.skype.Client",
         "com.slack.Slack",
+        "de.shorsh.discord-screenaudio",
         "gg.guilded.Guilded",
         "org.gnunet.Messenger",
         "sh.ppy.osu"
