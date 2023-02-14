@@ -324,6 +324,9 @@
     ".pekka-kana-2": [
         "net.pistegamez.PekkaKana2"
     ],
+    "qsstv": [
+        "net.qsl.QSSTV"
+    ],
     ".redeclipse": [
         "net.redeclipse.RedEclipse"
     ],

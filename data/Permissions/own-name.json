@@ -93,6 +93,9 @@
     "com.gitee.gmg137.neteasecloudmusicgtk4": [
         "com.github.gmg137.netease-cloud-music-gtk"
     ],
+    "org.mpris.mediaplayer2.mpv": [
+        "com.github.iwalton3.jellyfin-media-player"
+    ],
     "org.mpris.mediaplayer2.tuner": [
         "com.github.louis77.tuner"
     ],

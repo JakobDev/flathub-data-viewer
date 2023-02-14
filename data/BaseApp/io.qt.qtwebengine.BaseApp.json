@@ -1,7 +1,6 @@
 {
     "5.15-21.08": [
         "ch.theologeek.Manuskript",
-        "com.github.iwalton3.jellyfin-media-player",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.nextcloud.desktopclient.nextcloud",
         "com.stremio.Stremio",
@@ -18,13 +17,8 @@
         "org.kde.kphotoalbum",
         "org.kde.tellico"
     ],
-    "6.3": [
-        "com.github.jmlich.geotagging",
-        "io.github.martinrotter.rssguard",
-        "io.mrarm.mcpelauncher",
-        "org.jaspstats.JASP"
-    ],
     "5.15-22.08": [
+        "com.github.iwalton3.jellyfin-media-player",
         "com.ktechpit.whatsie",
         "de.shorsh.discord-screenaudio",
         "io.sourceforge.chart_geany.chart-geany",
@@ -40,6 +34,12 @@
         "org.musescore.MuseScore",
         "org.paraview.ParaView",
         "org.sdrangel.SDRangel"
+    ],
+    "6.3": [
+        "com.github.jmlich.geotagging",
+        "io.github.martinrotter.rssguard",
+        "io.mrarm.mcpelauncher",
+        "org.jaspstats.JASP"
     ],
     "5.15": [
         "com.wiz.Note",
