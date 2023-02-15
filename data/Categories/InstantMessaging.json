@@ -8,6 +8,7 @@
     "chat.rocket.RocketChat",
     "chat.schildi.desktop",
     "chat.tandem.Client",
+    "com.alovoa.alovoa-electron",
     "com.chatterino.chatterino",
     "com.discordapp.Discord",
     "com.github.quaternion",

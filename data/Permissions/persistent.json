@@ -58,6 +58,9 @@
     "diylc": [
         "com.diy_fever.DIYLayoutCreator"
     ],
+    ".gnukem": [
+        "com.djoffe.gnukem"
+    ],
     ".dosbox": [
         "com.dosbox.DOSBox"
     ],
@@ -330,7 +333,7 @@
     ".redeclipse": [
         "net.redeclipse.RedEclipse"
     ],
-    "jagexcache": [
+    ".runelite": [
         "net.runelite.RuneLite"
     ],
     ".etr": [

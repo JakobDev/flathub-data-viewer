@@ -8,6 +8,7 @@
         "ch.protonmail.protonmail-import-export-app",
         "cn.ottercorp.xivlaunchercn",
         "codes.loers.Karlender",
+        "com.alovoa.alovoa-electron",
         "com.axosoft.GitKraken",
         "com.belmoussaoui.Authenticator",
         "com.belmoussaoui.ReadItLater",
@@ -63,6 +64,7 @@
         "dev.Cogitri.Health",
         "dev.alextren.Spot",
         "dev.goats.xivlauncher",
+        "dev.pulsar_edit.Pulsar",
         "edu.stanford.Almond",
         "gg.guilded.Guilded",
         "im.srain.Srain",
@@ -127,6 +129,7 @@
         "cc.retroshare.retroshare-gui",
         "ch.openboard.OpenBoard",
         "ch.theologeek.Manuskript",
+        "com.alovoa.alovoa-electron",
         "com.borgbase.Vorta",
         "com.calibre_ebook.calibre",
         "com.chatterino.chatterino",
@@ -1528,6 +1531,7 @@
         "chat.revolt.RevoltDesktop",
         "chat.rocket.RocketChat",
         "chat.schildi.desktop",
+        "com.alovoa.alovoa-electron",
         "com.authy.Authy",
         "com.calibre_ebook.calibre",
         "com.chmouel.gnomeNextMeetingApplet",
@@ -1705,6 +1709,7 @@
         "chat.schildi.desktop",
         "co.headsetapp.headset",
         "codes.loers.Karlender",
+        "com.alovoa.alovoa-electron",
         "com.authy.Authy",
         "com.axosoft.GitKraken",
         "com.biglybt.BiglyBT",
@@ -1824,6 +1829,7 @@
         "de.shorsh.discord-screenaudio",
         "de.willuhn.Jameica",
         "dev.hdos.HDOS",
+        "dev.pulsar_edit.Pulsar",
         "dev.vieb.Vieb",
         "edu.mit.Scratch",
         "edu.stanford.Almond",
@@ -1992,6 +1998,7 @@
     ],
     "com.canonical.indicator.application": [
         "app.lith.Lith",
+        "com.alovoa.alovoa-electron",
         "com.chmouel.gnomeNextMeetingApplet",
         "com.codemouse92.timecard",
         "com.discordapp.Discord",
@@ -2015,6 +2022,7 @@
     ],
     "org.ayatana.indicator.application": [
         "app.lith.Lith",
+        "com.alovoa.alovoa-electron",
         "com.codemouse92.timecard",
         "com.github.inercia.k3x",
         "com.ktechpit.whatsie",
@@ -2108,6 +2116,7 @@
         "com.zettlr.Zettlr",
         "cz.zeropage.Formiko",
         "de.create3000.titania",
+        "dev.pulsar_edit.Pulsar",
         "edu.stanford.Almond",
         "fr.handbrake.ghb",
         "fr.masson_informatique.WhosWho",
@@ -2392,6 +2401,13 @@
         "com.tutanota.Tutanota",
         "gg.guilded.Guilded",
         "org.signal.Signal"
+    ],
+    "com.canonical.appmenu.registrar.*": [
+        "com.alovoa.alovoa-electron",
+        "com.visualstudio.code",
+        "io.atom.Atom",
+        "io.stoplight.studio",
+        "org.pyzo.pyzo"
     ],
     "org.freedesktop.flatpak.*": [
         "com.borgbase.Vorta",
@@ -2713,12 +2729,6 @@
         "io.brackets.Brackets",
         "io.github.betaflight.BetaflightConfigurator",
         "org.xiphos.Xiphos"
-    ],
-    "com.canonical.appmenu.registrar.*": [
-        "com.visualstudio.code",
-        "io.atom.Atom",
-        "io.stoplight.studio",
-        "org.pyzo.pyzo"
     ],
     "org.kde.kglobalaccel": [
         "de.shorsh.discord-screenaudio",

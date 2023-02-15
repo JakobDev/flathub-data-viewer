@@ -22,6 +22,7 @@
         "cn.ottercorp.xivlaunchercn",
         "codes.loers.Karlender",
         "com.abisource.AbiWord",
+        "com.alovoa.alovoa-electron",
         "com.anydesk.Anydesk",
         "com.avocode.Avocode",
         "com.axosoft.GitKraken",
@@ -144,6 +145,7 @@
         "com.xnview.XnSketch",
         "com.xnview.XnViewMP",
         "com.yacreader.YACReader",
+        "com.zerobrane.studio",
         "cz.zeropage.Formiko",
         "de.bund.ausweisapp.ausweisapp2",
         "de.create3000.titania",
@@ -157,6 +159,7 @@
         "dev.lukebriggs.pepys",
         "dev.mrquantumoff.mcmodpackmanager",
         "dev.paullee.scraterpreter.Scrapec",
+        "dev.pulsar_edit.Pulsar",
         "dev.tchx84.Portfolio",
         "edu.mit.Scratch",
         "eu.ad5001.LogarithmPlotter",
@@ -386,6 +389,7 @@
         "cc.retroshare.retroshare-gui",
         "ch.openboard.OpenBoard",
         "ch.theologeek.Manuskript",
+        "com.alovoa.alovoa-electron",
         "com.borgbase.Vorta",
         "com.calibre_ebook.calibre",
         "com.chatterino.chatterino",
@@ -1444,6 +1448,7 @@
         "com.valvesoftware.Steam",
         "dev.hdos.HDOS",
         "io.github.hmlendea.geforcenow-electron",
+        "io.github.randovania.Randovania",
         "io.github.shiiion.primehack",
         "md.obsidian.Obsidian",
         "moe.karaokes.mugen",
@@ -2011,6 +2016,7 @@
     "xdg-run/keyring": [
         "cc.arduino.IDE2",
         "chat.schildi.desktop",
+        "com.alovoa.alovoa-electron",
         "com.github.Murmele.Gittyup",
         "com.github.marktext.marktext",
         "com.github.vladimiry.ElectronMail",
@@ -2706,9 +2712,6 @@
     "~/.inendi": [
         "com.gitlab.inendi.Inspector"
     ],
-    "xdg-music/myuzi:create": [
-        "com.gitlab.zehkira.Myuzi"
-    ],
     "~/.config/kioslaverc": [
         "com.google.Chrome",
         "com.google.ChromeDev"
@@ -3057,6 +3060,9 @@
     "xdg-documents/O20:create": [
         "io.gitlab.o20.word"
     ],
+    "xdg-music/monophony:create": [
+        "io.gitlab.zehkira.Monophony"
+    ],
     "~/.minikube:ro": [
         "io.kinvolk.Headlamp"
     ],
@@ -3141,9 +3147,6 @@
     ],
     "xdg-run/app/com.discordapp.DiscordCanary:ro": [
         "net.openra.OpenRA"
-    ],
-    "~/.runelite:create": [
-        "net.runelite.RuneLite"
     ],
     "/run/ikedi": [
         "net.shrew.ike.qikea"
