@@ -237,6 +237,7 @@
     "org.freedesktop.Piper",
     "org.freedesktop.Tuhi",
     "org.freedesktop.appstream-glib",
+    "org.freedownloadmanager.Manager",
     "org.freeplane.App",
     "org.frescobaldi.Frescobaldi",
     "org.gabmus.giara",

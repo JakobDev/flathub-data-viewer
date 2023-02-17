@@ -256,6 +256,9 @@
     "io.gitlab.librewolf.*": [
         "io.gitlab.librewolf-community"
     ],
+    "org.mpris.mediaplayer2.monophony": [
+        "io.gitlab.zehkira.Monophony"
+    ],
     "io.howl.*": [
         "io.howl.Editor"
     ],

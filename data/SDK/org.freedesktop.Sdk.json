@@ -294,7 +294,6 @@
         "uk.co.powdertoy.tpt",
         "xyz.eclipium.Hieroctive",
         "xyz.eclipium.TetraSwap",
-        "xyz.kusma.aurora",
         "xyz.ljoonal.neospeeps",
         "xyz.xclicker.xclicker"
     ],
@@ -810,6 +809,7 @@
         "us.zoom.Zoom",
         "vet.rsc.OpenRSC.Launcher",
         "ws.openarena.OpenArena",
+        "xyz.kusma.aurora",
         "xyz.rescribe.rescribe",
         "xyz.safeworlds.midiconn",
         "xyz.stuerz.BilligSweeper"

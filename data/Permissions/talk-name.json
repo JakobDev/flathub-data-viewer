@@ -2114,6 +2114,7 @@
         "com.transmissionbt.Transmission",
         "com.vysp3r.ProtonPlus",
         "com.zettlr.Zettlr",
+        "com.zhqli.wikit",
         "cz.zeropage.Formiko",
         "de.create3000.titania",
         "dev.pulsar_edit.Pulsar",
@@ -2444,6 +2445,7 @@
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
         "io.gitlab.librewolf-community",
+        "io.gitlab.zehkira.Monophony",
         "io.lbry.lbry-app",
         "io.mpv.Mpv",
         "io.wavebox.Wavebox",
@@ -2699,6 +2701,7 @@
     "org.a11y.bus": [
         "com.obsproject.Studio",
         "com.vicr123.thebeat",
+        "com.zhqli.wikit",
         "eu.betterbird.Betterbird",
         "io.github.manisandro.gImageReader",
         "io.gitlab.librewolf-community",
