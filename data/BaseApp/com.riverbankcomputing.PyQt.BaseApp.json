@@ -1,7 +1,6 @@
 {
     "5.15-21.08": [
         "com.borgbase.Vorta",
-        "io.github.giantpinkrobots.bootqt",
         "org.frescobaldi.Frescobaldi",
         "org.plomgrading.PlomClient",
         "org.qutebrowser.qutebrowser"
@@ -12,6 +11,7 @@
         "com.sigil_ebook.Sigil",
         "io.github.bothlab.syntalos",
         "io.github.ciromattia.kcc",
+        "io.github.giantpinkrobots.bootqt",
         "io.github.jordanl2.ModularCalculator",
         "io.github.parnassius.SysDVR-Qt",
         "io.github.veusz.Veusz",
