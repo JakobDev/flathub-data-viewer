@@ -297,7 +297,6 @@
         "org.gnome.Fractal",
         "org.gnome.gThumb",
         "org.jitsi.jitsi-meet",
-        "org.kde.ruqola",
-        "uk.co.ibboard.cawbird"
+        "org.kde.ruqola"
     ]
 }

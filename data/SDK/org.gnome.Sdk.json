@@ -276,6 +276,7 @@
         "org.nickvision.tagger",
         "org.nickvision.tubeconverter",
         "org.nicotine_plus.Nicotine",
+        "org.parlatype.Parlatype",
         "org.pipewire.Helvum",
         "org.remmina.Remmina",
         "org.skytemple.Randomizer",
@@ -300,7 +301,6 @@
         "ro.fxdata.taskmonitor.viewer",
         "ro.hume.cosmin.ShoppingList",
         "se.sjoerd.Graphs",
-        "uk.co.ibboard.cawbird",
         "uk.org.greenend.chiark.sgtatham.putty",
         "vn.hoabinh.quan.CoBang",
         "work.openpaper.Paperwork",
@@ -630,7 +630,6 @@
         "net.sourceforge.electrip.Electrip",
         "org.gnome.Eolie",
         "org.gnome.OfficeRunner",
-        "org.parlatype.Parlatype",
         "org.sugarlabs.Physics",
         "org.sugarlabs.Pippy",
         "org.upnproutercontrol.UPnPRouterControl"

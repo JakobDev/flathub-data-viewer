@@ -340,6 +340,5 @@
     "re.sonny.Commit",
     "re.sonny.Junction",
     "re.sonny.Tangram",
-    "re.sonny.Workbench",
-    "uk.co.ibboard.cawbird"
+    "re.sonny.Workbench"
 ]

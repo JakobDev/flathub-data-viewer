@@ -55,6 +55,5 @@
     "org.gnome.seahorse.Application",
     "org.inkscape.Inkscape",
     "org.pitivi.Pitivi",
-    "org.tuxpaint.Tuxpaint",
-    "uk.co.ibboard.cawbird"
+    "org.tuxpaint.Tuxpaint"
 ]

@@ -141,6 +141,5 @@
     "org.zim_wiki.Zim",
     "org.zrythm.Zrythm",
     "re.sonny.Commit",
-    "re.sonny.Junction",
-    "uk.co.ibboard.cawbird"
+    "re.sonny.Junction"
 ]
