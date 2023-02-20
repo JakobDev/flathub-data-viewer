@@ -851,7 +851,6 @@
         "io.photoflare.photoflare",
         "io.qt.QtCreator",
         "io.sourceforge.chart_geany.chart-geany",
-        "io.sourceforge.pentobi",
         "io.sourceforge.qoobar.Qoobar",
         "net._86box._86Box",
         "net.codeindustry.MasterPDFEditor",
@@ -2579,7 +2578,6 @@
     "org.gtk.vfs": [
         "com.github.calo001.fondo",
         "com.lettier.movie-monad",
-        "org.gnome.World.PikaBackup",
         "org.sparkleshare.SparkleShare"
     ],
     "org.a11y.*": [

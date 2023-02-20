@@ -355,7 +355,6 @@
         "io.jamulus.Jamulus",
         "io.lmms.LMMS",
         "io.qt.QtCreator",
-        "io.sourceforge.pentobi",
         "io.sourceforge.qoobar.Qoobar",
         "net.dengine.Doomsday",
         "net.drawpile.drawpile",
@@ -552,6 +551,7 @@
         "cz.cvut.edu.comparch.qtrvsim",
         "dev.lukebriggs.pepys",
         "eu.skribisto.skribisto",
+        "io.sourceforge.pentobi",
         "org.coolero.Coolero",
         "org.linux_hardware.hw-probe"
     ],
