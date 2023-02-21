@@ -54,6 +54,7 @@
     "org.kde.dolphin",
     "org.kde.index",
     "org.kde.kwalletmanager5",
+    "org.kde.qmlkonsole",
     "org.linux_hardware.hw-probe",
     "org.wezfurlong.wezterm",
     "org.worldpossible.ScriptLauncher",

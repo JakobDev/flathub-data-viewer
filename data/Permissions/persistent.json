@@ -236,6 +236,9 @@
     ".nagstamon": [
         "de.ifw_dresden.nagstamon"
     ],
+    ".k8slens": [
+        "dev.k8slens.OpenLens"
+    ],
     ".BOINC": [
         "edu.berkeley.BOINC"
     ],

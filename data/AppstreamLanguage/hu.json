@@ -198,6 +198,8 @@
     "org.kde.okteta",
     "org.kde.okular",
     "org.kde.picmi",
+    "org.kde.plasmatube",
+    "org.kde.qmlkonsole",
     "org.kde.tellico",
     "org.kde.tokodon",
     "org.kde.umbrello",

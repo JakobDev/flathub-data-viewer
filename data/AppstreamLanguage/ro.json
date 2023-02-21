@@ -163,6 +163,8 @@
     "org.kde.minuet",
     "org.kde.okteta",
     "org.kde.okular",
+    "org.kde.plasmatube",
+    "org.kde.qmlkonsole",
     "org.kde.vvave",
     "org.midori_browser.Midori",
     "org.pitivi.Pitivi",

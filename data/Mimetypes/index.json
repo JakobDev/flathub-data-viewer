@@ -1621,6 +1621,7 @@
         "x-scheme-handler{SLASH}km",
         "x-scheme-handler{SLASH}kolibri",
         "x-scheme-handler{SLASH}lbry",
+        "x-scheme-handler{SLASH}lens",
         "x-scheme-handler{SLASH}lightning",
         "x-scheme-handler{SLASH}logseq",
         "x-scheme-handler{SLASH}lutris",

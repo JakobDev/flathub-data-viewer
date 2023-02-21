@@ -276,6 +276,8 @@
     "org.kde.parley",
     "org.kde.picmi",
     "org.kde.pix",
+    "org.kde.plasmatube",
+    "org.kde.qmlkonsole",
     "org.kde.rocs",
     "org.kde.ruqola",
     "org.kde.tellico",

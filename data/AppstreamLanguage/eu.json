@@ -238,6 +238,8 @@
     "org.kde.parley",
     "org.kde.picmi",
     "org.kde.pix",
+    "org.kde.plasmatube",
+    "org.kde.qmlkonsole",
     "org.kde.tellico",
     "org.kde.umbrello",
     "org.kde.vvave",

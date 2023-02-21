@@ -58,6 +58,7 @@
     "org.kde.kmplayer",
     "org.kde.ktrip",
     "org.kde.kweather",
+    "org.kde.qmlkonsole",
     "org.kde.rocs",
     "org.kde.telly-skout",
     "org.mamedev.MAME",

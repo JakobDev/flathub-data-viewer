@@ -1,4 +1,5 @@
 [
+    "org.kde.qmlkonsole",
     "org.ppsspp.PPSSPP",
     "uk.org.greenend.chiark.sgtatham.putty"
 ]

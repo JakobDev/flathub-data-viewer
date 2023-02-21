@@ -67,6 +67,8 @@
     "org.kde.kwrite",
     "org.kde.okular",
     "org.kde.pix",
+    "org.kde.plasmatube",
+    "org.kde.qmlkonsole",
     "org.kde.vvave",
     "org.midori_browser.Midori",
     "org.squeakland.Etoys",

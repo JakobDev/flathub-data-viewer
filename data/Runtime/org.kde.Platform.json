@@ -177,6 +177,8 @@
         "org.kde.palapeli",
         "org.kde.parley",
         "org.kde.picmi",
+        "org.kde.plasmatube",
+        "org.kde.qmlkonsole",
         "org.kde.rocs",
         "org.kde.telly-skout",
         "org.keepassxc.KeePassXC",

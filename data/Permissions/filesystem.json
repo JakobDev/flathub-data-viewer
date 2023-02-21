@@ -138,6 +138,8 @@
         "com.ultimaker.cura",
         "com.uploadedlobster.peek",
         "com.vicr123.thebeat",
+        "com.voxdsp.Borg",
+        "com.voxdsp.Borg0",
         "com.wings3d.WINGS",
         "com.wire.WireDesktop",
         "com.xnview.XnConvert",
@@ -841,6 +843,8 @@
         "org.kde.parley",
         "org.kde.picmi",
         "org.kde.pix",
+        "org.kde.plasmatube",
+        "org.kde.qmlkonsole",
         "org.kde.rocs",
         "org.kde.ruqola",
         "org.kde.skrooge",
@@ -2906,6 +2910,14 @@
     "~/hdos:create": [
         "dev.hdos.HDOS"
     ],
+    "~/.minikube:ro": [
+        "dev.k8slens.OpenLens",
+        "io.kinvolk.Headlamp"
+    ],
+    "~/.kube/config:ro": [
+        "dev.k8slens.OpenLens",
+        "io.kinvolk.Headlamp"
+    ],
     "~/.wallpaperdownloader:create": [
         "es.estoes.wallpaperDownloader"
     ],
@@ -3062,12 +3074,6 @@
     ],
     "xdg-music/monophony:create": [
         "io.gitlab.zehkira.Monophony"
-    ],
-    "~/.minikube:ro": [
-        "io.kinvolk.Headlamp"
-    ],
-    "~/.kube/config:ro": [
-        "io.kinvolk.Headlamp"
     ],
     "~/.config/Headlamp:ro": [
         "io.kinvolk.Headlamp"

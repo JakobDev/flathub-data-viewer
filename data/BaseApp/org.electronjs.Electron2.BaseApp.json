@@ -101,6 +101,7 @@
         "com.wire.WireDesktop",
         "com.zoho.Notebook",
         "de.breitbandmessung.Breitbandmessung",
+        "dev.k8slens.OpenLens",
         "dev.pulsar_edit.Pulsar",
         "dev.vieb.Vieb",
         "gg.guilded.Guilded",
