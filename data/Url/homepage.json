@@ -2625,6 +2625,7 @@
     "org.kicad.KiCad.ODBCDriver.mariadb-connector-odbc",
     "org.kicad.KiCad.ODBCDriver.psqlodbc",
     "org.kicad.KiCad.ODBCDriver.sqliteodbc",
+    "org.learningequality.Kolibri.Plugin.kolibri-dynamic-collections-plugin",
     "org.libreoffice.LibreOffice.BundledExtension.Voikko",
     "org.telegram.desktop.webview",
     "org.videolan.VLC.Plugin.bdj",

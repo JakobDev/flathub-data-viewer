@@ -1579,5 +1579,6 @@
     "org.gimp.GIMP.Plugin.Resynthesizer",
     "org.gnome.Games.LibretroPlugin.PicoDrive",
     "org.gtk.Gtk3theme.Mojave-light",
+    "org.learningequality.Kolibri.Plugin.kolibri-dynamic-collections-plugin",
     "org.videolan.VLC.Plugin.pause_click"
 ]

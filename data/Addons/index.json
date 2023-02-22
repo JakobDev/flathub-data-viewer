@@ -34,6 +34,7 @@
         "org.guitarix.Guitarix",
         "org.kde.Platform",
         "org.kicad.KiCad",
+        "org.learningequality.Kolibri",
         "org.libreoffice.LibreOffice",
         "org.qutebrowser.qutebrowser",
         "org.stochas.Stochas",
