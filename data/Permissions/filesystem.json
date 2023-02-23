@@ -2875,33 +2875,37 @@
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet"
     ],
-    "~/.steam/root/compatibilitytools.d": [
-        "com.vysp3r.ProtonPlus"
+    "~/.local/share/lutris/runners": [
+        "com.vysp3r.ProtonPlus",
+        "net.davidotek.pupgui2"
     ],
     "~/.local/share/bottles/runners": [
         "com.vysp3r.ProtonPlus"
     ],
-    "~/.var/app/net.lutris.Lutris/data/lutris": [
-        "com.vysp3r.ProtonPlus"
+    "~/.local/share/Steam": [
+        "com.vysp3r.ProtonPlus",
+        "net.davidotek.pupgui2"
     ],
-    "~/.local/share/Steam/compatibilitytools.d": [
-        "com.vysp3r.ProtonPlus"
-    ],
-    "~/.var/app/com.valvesoftware.Steam/data/Steam/compatibilitytools.d": [
-        "com.vysp3r.ProtonPlus"
+    "~/.var/app/net.lutris.Lutris/data/lutris/runners": [
+        "com.vysp3r.ProtonPlus",
+        "net.davidotek.pupgui2"
     ],
     "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/tools": [
         "com.vysp3r.ProtonPlus",
         "net.davidotek.pupgui2"
     ],
-    "~/.local/share/lutris": [
+    "~/.config/heroic/tools": [
         "com.vysp3r.ProtonPlus"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/data/Steam": [
+        "com.vysp3r.ProtonPlus",
+        "net.davidotek.pupgui2"
     ],
     "~/.var/app/com.usebottles.bottles/data/bottles/runners": [
         "com.vysp3r.ProtonPlus",
         "net.davidotek.pupgui2"
     ],
-    "~/.config/heroic/tools": [
+    "~/.steam/root": [
         "com.vysp3r.ProtonPlus"
     ],
     "xdg-data/tubefeeder:create": [
@@ -3108,12 +3112,6 @@
     "~/KaraokeMugen:create": [
         "moe.karaokes.mugen"
     ],
-    "~/.var/app/net.lutris.Lutris/data/lutris/runners": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.local/share/lutris/runners": [
-        "net.davidotek.pupgui2"
-    ],
     "~/.var/app/net.lutris.Lutris/data/lutris/runtime/dxvk": [
         "net.davidotek.pupgui2"
     ],
@@ -3123,9 +3121,6 @@
     "~/.kshrc": [
         "net.davidotek.pupgui2"
     ],
-    "~/.var/app/com.valvesoftware.Steam/data/Steam": [
-        "net.davidotek.pupgui2"
-    ],
     "~/stl:create": [
         "net.davidotek.pupgui2"
     ],
@@ -3133,9 +3128,6 @@
         "net.davidotek.pupgui2"
     ],
     "~/.zshrc": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.local/share/Steam": [
         "net.davidotek.pupgui2"
     ],
     "~/.bashrc": [

@@ -2970,10 +2970,10 @@
     "com.canonical.unity.session": [
         "org.keepassxc.KeePassXC"
     ],
-    "org.gnome.sessionmanager.presence": [
+    "org.freedesktop.login1.session": [
         "org.keepassxc.KeePassXC"
     ],
-    "org.freedesktop.login1.session": [
+    "org.gnome.sessionmanager.presence": [
         "org.keepassxc.KeePassXC"
     ],
     "org.freedesktop.portal.screenshot": [

@@ -481,6 +481,9 @@
     "org.mpris.mediaplayer2.vvave": [
         "org.kde.vvave"
     ],
+    "org.freedesktop.secrets": [
+        "org.keepassxc.KeePassXC"
+    ],
     "org.libreoffice.libreofficeipc0": [
         "org.libreoffice.LibreOffice"
     ],
