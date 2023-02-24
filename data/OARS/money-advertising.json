@@ -8,6 +8,7 @@
     "mild": [
         "com.github.HypatiaProject.hypatia",
         "com.github.corna.Vivado",
+        "io.itch.itch",
         "org.gnome.Lollypop"
     ],
     "intense": [

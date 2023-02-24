@@ -1,4 +1,5 @@
 [
+    "app.drey.Elastic",
     "org.blender.Blender",
     "org.pencil2d.Pencil2D",
     "org.processing.processingide"

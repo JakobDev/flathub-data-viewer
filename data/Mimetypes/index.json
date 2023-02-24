@@ -1610,6 +1610,8 @@
         "x-scheme-handler{SLASH}irc",
         "x-scheme-handler{SLASH}ircs",
         "x-scheme-handler{SLASH}irdp",
+        "x-scheme-handler{SLASH}itch",
+        "x-scheme-handler{SLASH}itchio",
         "x-scheme-handler{SLASH}itms",
         "x-scheme-handler{SLASH}itmss",
         "x-scheme-handler{SLASH}itpc",

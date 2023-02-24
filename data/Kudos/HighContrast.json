@@ -3,6 +3,7 @@
     "app.drey.Damask",
     "app.drey.Dialect",
     "app.drey.EarTag",
+    "app.drey.Elastic",
     "app.drey.KeyRack",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",

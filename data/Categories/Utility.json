@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.drey.Elastic",
     "app.drey.KeyRack",
     "app.drey.Warp",
     "app.moosync.moosync",

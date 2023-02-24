@@ -1,6 +1,7 @@
 [
     "com.usebottles.bottles",
     "io.github.sharkwouter.Minigalaxy",
+    "io.itch.itch",
     "net.lutris.Lutris",
     "ua.org.brezblock.q4wine"
 ]

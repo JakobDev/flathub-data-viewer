@@ -294,6 +294,13 @@
     ".librewolf": [
         "io.gitlab.librewolf-community"
     ],
+    ".wine": [
+        "io.itch.itch",
+        "ua.org.brezblock.q4wine"
+    ],
+    ".wine64": [
+        "io.itch.itch"
+    ],
     ".PySolFC": [
         "io.sourceforge.pysolfc.PySolFC"
     ],
@@ -568,9 +575,6 @@
     ],
     ".local/state": [
         "space.crankshaft.Crankshaft"
-    ],
-    ".wine": [
-        "ua.org.brezblock.q4wine"
     ],
     ".putty": [
         "uk.org.greenend.chiark.sgtatham.putty"
