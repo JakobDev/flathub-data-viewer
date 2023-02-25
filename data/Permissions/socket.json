@@ -5384,7 +5384,6 @@
     ],
     "system-bus": [
         "io.brackets.Brackets",
-        "io.github.betaflight.BetaflightConfigurator",
         "io.github.bothlab.syntalos",
         "io.jamulus.Jamulus",
         "io.qt.qdbusviewer",
