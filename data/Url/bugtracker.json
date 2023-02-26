@@ -592,6 +592,7 @@
     "io.github.mpobaschnig.Vaults",
     "io.github.naikari.Naikari",
     "io.github.narunlifescience.AlphaPlot",
+    "io.github.nate_xyz.Conjure",
     "io.github.nate_xyz.Paleta",
     "io.github.neil_morrison44.pocket-sync",
     "io.github.noxworld_dev.OpenNox",
@@ -1582,5 +1583,6 @@
     "org.gnome.Games.LibretroPlugin.PicoDrive",
     "org.gtk.Gtk3theme.Mojave-light",
     "org.learningequality.Kolibri.Plugin.kolibri-dynamic-collections-plugin",
+    "org.learningequality.Kolibri.Plugin.kolibri-zim-plugin",
     "org.videolan.VLC.Plugin.pause_click"
 ]

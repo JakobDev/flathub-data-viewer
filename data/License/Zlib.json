@@ -1,6 +1,7 @@
 [
     "com.bixense.PasswordCalculator",
     "dk.tangramgames.mrrescue",
+    "io.github.rocket.editor",
     "net.sourceforge.tomatoes.IHaveNoTomatoes",
     "org.love2d.love2d",
     "org.sauerbraten.Sauerbraten",

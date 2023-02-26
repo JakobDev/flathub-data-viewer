@@ -193,5 +193,6 @@
     "org.freedesktop.Sdk.Extension.node18",
     "org.freedesktop.Sdk.Extension.ziglang",
     "org.freedesktop.Sdk",
-    "org.learningequality.Kolibri.Plugin.kolibri-dynamic-collections-plugin"
+    "org.learningequality.Kolibri.Plugin.kolibri-dynamic-collections-plugin",
+    "org.learningequality.Kolibri.Plugin.kolibri-zim-plugin"
 ]

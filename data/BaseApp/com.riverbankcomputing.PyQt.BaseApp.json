@@ -2,7 +2,6 @@
     "5.15-21.08": [
         "com.borgbase.Vorta",
         "org.frescobaldi.Frescobaldi",
-        "org.plomgrading.PlomClient",
         "org.qutebrowser.qutebrowser"
     ],
     "5.15-22.08": [
@@ -17,6 +16,7 @@
         "io.github.veusz.Veusz",
         "net.sourceforge.scidavis",
         "org.opennumismat.OpenNumismat",
+        "org.plomgrading.PlomClient",
         "org.pymol.PyMOL",
         "se.sjoerd.GIScan"
     ],
