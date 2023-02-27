@@ -2275,6 +2275,7 @@
         "com.brave.Browser",
         "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
+        "com.github.cfcurtis.pdfstitcher",
         "com.github.corna.Vivado",
         "com.github.eneshecan.WhatsAppForLinux",
         "com.github.flxzt.rnote",
@@ -2537,10 +2538,6 @@
         "com.github.tchx84.Flatseal",
         "com.hack_computer.Clubhouse",
         "io.github.shiftey.Desktop"
-    ],
-    "xdg-cache": [
-        "com.github.cfcurtis.pdfstitcher",
-        "org.gnome.gThumb"
     ],
     "~/.Xilinx:create": [
         "com.github.corna.Vivado"
@@ -3325,6 +3322,9 @@
     ],
     "xdg-run/pika-backup:create": [
         "org.gnome.World.PikaBackup"
+    ],
+    "xdg-cache": [
+        "org.gnome.gThumb"
     ],
     "~/.ssh:create": [
         "org.gnome.seahorse.Application"
