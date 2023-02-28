@@ -1,6 +1,5 @@
 [
     "app.authpass.AuthPass",
-    "app.drey.Blurble",
     "app.gummi.gummi",
     "app.resp.RESP",
     "app.riftshare.RiftShare",
@@ -139,7 +138,6 @@
     "io.github.celluloid_player.Celluloid",
     "io.github.cges30901.hmtimer",
     "io.github.cmus.cmus",
-    "io.github.congard.qnvsm",
     "io.github.dbchoco.Salawat",
     "io.github.diegoivanme.flowtime",
     "io.github.helpseeker.Gyre",
@@ -232,6 +230,7 @@
     "org.emilien.Password",
     "org.emilien.SpaceLaunch",
     "org.exaile.Exaile",
+    "org.fcitx.Fcitx5",
     "org.flameshot.Flameshot",
     "org.freecol.FreeCol",
     "org.freedesktop.Piper",

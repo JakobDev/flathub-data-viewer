@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.drey.Blurble",
     "app.drey.Damask",
     "app.drey.Dialect",
     "app.organicmaps",

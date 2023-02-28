@@ -1,4 +1,5 @@
 [
+    "app.drey.Blurble",
     "app.drey.Dialect",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
@@ -86,7 +87,6 @@
     "org.bunkus.mkvtoolnix-gui",
     "org.darktable.Darktable",
     "org.fontforge.FontForge",
-    "org.free_astro.siril",
     "org.freedesktop.Piper",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",
