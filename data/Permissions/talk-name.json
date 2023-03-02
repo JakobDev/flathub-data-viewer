@@ -2200,6 +2200,7 @@
     "ca.desrt.dconf": [
         "ca._0ldsk00l.Nestopia",
         "ca.desrt.dconf-editor",
+        "com.brave.Browser",
         "com.georgefb.mangareader",
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.Qv2ray",
@@ -2435,10 +2436,6 @@
     "org.freedesktop.dbus.*": [
         "com.borgbase.Vorta"
     ],
-    "org.gnome.mutter.idlemonitor.*": [
-        "com.brave.Browser",
-        "com.microsoft.Edge"
-    ],
     "org.gnome.sessionmanager": [
         "com.brave.Browser",
         "com.github.Eloston.UngoogledChromium",
@@ -2477,6 +2474,10 @@
         "org.keepassxc.KeePassXC",
         "org.mozilla.firefox",
         "org.qbittorrent.qBittorrent"
+    ],
+    "org.gnome.mutter.idlemonitor.*": [
+        "com.brave.Browser",
+        "com.microsoft.Edge"
     ],
     "org.gnome.evolution.dataserver.*": [
         "com.chmouel.gnomeNextMeetingApplet",

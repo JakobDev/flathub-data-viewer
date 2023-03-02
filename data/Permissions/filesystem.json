@@ -1672,6 +1672,7 @@
     "xdg-run/dconf": [
         "ca._0ldsk00l.Nestopia",
         "ca.desrt.dconf-editor",
+        "com.brave.Browser",
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.Qv2ray",
         "com.github.calo001.fondo",
@@ -1710,6 +1711,7 @@
     ],
     "~/.config/dconf:ro": [
         "ca._0ldsk00l.Nestopia",
+        "com.brave.Browser",
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.Qv2ray",
         "com.github.calo001.fondo",
@@ -2038,6 +2040,7 @@
         "chat.quadrix.Quadrix",
         "chat.rocket.RocketChat",
         "com.boxy_svg.BoxySVG",
+        "com.brave.Browser",
         "com.diy_fever.DIYLayoutCreator",
         "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
@@ -2272,7 +2275,6 @@
     ],
     "xdg-desktop": [
         "com.boxy_svg.BoxySVG",
-        "com.brave.Browser",
         "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
         "com.github.cfcurtis.pdfstitcher",
@@ -2337,6 +2339,11 @@
     "~/.local/share/icons:create": [
         "com.brave.Browser",
         "com.microsoft.Edge"
+    ],
+    "~/.config/kioslaverc": [
+        "com.brave.Browser",
+        "com.google.Chrome",
+        "com.google.ChromeDev"
     ],
     "xdg-run/speech-dispatcher:ro": [
         "com.calibre_ebook.calibre"
@@ -2716,10 +2723,6 @@
     ],
     "~/.inendi": [
         "com.gitlab.inendi.Inspector"
-    ],
-    "~/.config/kioslaverc": [
-        "com.google.Chrome",
-        "com.google.ChromeDev"
     ],
     "xdg-run/discord:create": [
         "com.googleplaymusicdesktopplayer.GPMDP"
