@@ -1,5 +1,6 @@
 [
     "com.hunterwittenborn.Celeste",
+    "io.github.daviddesimone.opencloudsaves",
     "io.github.liberodark.OpenDrive",
     "nz.mega.MEGAsync"
 ]

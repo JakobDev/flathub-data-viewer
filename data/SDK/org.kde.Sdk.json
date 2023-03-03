@@ -192,6 +192,7 @@
         "org.libretro.RetroArch",
         "org.mamedev.MAME",
         "org.musescore.MuseScore",
+        "org.octave.Octave",
         "org.opennumismat.OpenNumismat",
         "org.openrgb.OpenRGB",
         "org.openshot.OpenShot",
@@ -271,7 +272,6 @@
         "page.codeberg.JakobDev.jdDesktopEntryEdit"
     ],
     "5.15-21.08": [
-        "app.resp.RESP",
         "art.taunoerik.tauno-serial-plotter",
         "at.priv.toastfreeware.ConfClerk",
         "ch.theologeek.Manuskript",
@@ -453,7 +453,6 @@
         "org.munadi.Munadi",
         "org.musicbrainz.Picard",
         "org.nomacs.ImageLounge",
-        "org.octave.Octave",
         "org.olivevideoeditor.Olive",
         "org.onionshare.OnionShare",
         "org.openchemistry.Avogadro2",

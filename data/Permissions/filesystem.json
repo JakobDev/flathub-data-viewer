@@ -386,7 +386,6 @@
     "xdg-config/kdeglobals:ro": [
         "app.cantara.Cantara",
         "app.lith.Lith",
-        "app.resp.RESP",
         "art.taunoerik.tauno-serial-plotter",
         "at.priv.toastfreeware.ConfClerk",
         "ca.parallel_launcher.ParallelLauncher",
@@ -1014,7 +1013,6 @@
         "com.ktechpit.wonderwall",
         "com.meetfranz.Franz",
         "com.microsoft.Edge",
-        "com.microsoft.Teams",
         "com.opera.Opera",
         "com.qq.QQ",
         "com.rabbit_company.passky",
@@ -1412,16 +1410,6 @@
         "org.zim_wiki.Zim",
         "tv.kodi.Kodi"
     ],
-    "~/.rdm:create": [
-        "app.resp.RESP",
-        "net.devolutions.RDM",
-        "net.devolutions.RDMFree"
-    ],
-    "~/.ssh:ro": [
-        "app.resp.RESP",
-        "com.github.alecaddd.sequeler",
-        "org.gabmus.unifydmin"
-    ],
     "xdg-run/app/com.discordapp.Discord:create": [
         "app.vup.Vup",
         "app.ytmdesktop.ytmdesktop",
@@ -1794,6 +1782,7 @@
         "com.jetbrains.Rider",
         "com.jetbrains.RubyMine",
         "com.jetbrains.WebStorm",
+        "com.kavilgroup.gelectrical",
         "com.kristianduske.TrenchBroom",
         "com.lettier.movie-monad",
         "com.makemkv.MakeMKV",
@@ -1843,6 +1832,7 @@
         "io.github.bothlab.syntalos",
         "io.github.brunoherbelin.Vimix",
         "io.github.cboxdoerfer.FSearch",
+        "io.github.daviddesimone.opencloudsaves",
         "io.github.dfandrich.gpscorrelate",
         "io.github.giantpinkrobots.bootqt",
         "io.github.guillaumechereau.Goxel",
@@ -2525,6 +2515,10 @@
     "xdg-run/discord-ipc-6": [
         "com.github.Rosalie241.RMG"
     ],
+    "~/.ssh:ro": [
+        "com.github.alecaddd.sequeler",
+        "org.gabmus.unifydmin"
+    ],
     "~/.local/share/applications": [
         "com.github.alexkdeveloper.desktop-files-creator",
         "com.github.ryonakano.pinit",
@@ -2879,37 +2873,33 @@
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet"
     ],
-    "~/.local/share/lutris/runners": [
-        "com.vysp3r.ProtonPlus",
-        "net.davidotek.pupgui2"
-    ],
-    "~/.local/share/bottles/runners": [
+    "~/.var/app/com.usebottles.bottles/data/bottles": [
         "com.vysp3r.ProtonPlus"
     ],
     "~/.local/share/Steam": [
         "com.vysp3r.ProtonPlus",
         "net.davidotek.pupgui2"
     ],
-    "~/.var/app/net.lutris.Lutris/data/lutris/runners": [
-        "com.vysp3r.ProtonPlus",
-        "net.davidotek.pupgui2"
+    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic": [
+        "com.vysp3r.ProtonPlus"
     ],
-    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/tools": [
-        "com.vysp3r.ProtonPlus",
-        "net.davidotek.pupgui2"
+    "~/.config/heroic": [
+        "com.vysp3r.ProtonPlus"
     ],
-    "~/.config/heroic/tools": [
+    "~/.local/share/bottles": [
+        "com.vysp3r.ProtonPlus"
+    ],
+    "~/.local/share/lutris": [
         "com.vysp3r.ProtonPlus"
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam": [
         "com.vysp3r.ProtonPlus",
         "net.davidotek.pupgui2"
     ],
-    "~/.var/app/com.usebottles.bottles/data/bottles/runners": [
-        "com.vysp3r.ProtonPlus",
-        "net.davidotek.pupgui2"
-    ],
     "~/.steam/root": [
+        "com.vysp3r.ProtonPlus"
+    ],
+    "~/.var/app/net.lutris.Lutris/data/lutris": [
         "com.vysp3r.ProtonPlus"
     ],
     "xdg-data/tubefeeder:create": [
@@ -3116,7 +3106,19 @@
     "~/KaraokeMugen:create": [
         "moe.karaokes.mugen"
     ],
+    "~/.var/app/net.lutris.Lutris/data/lutris/runners": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.local/share/lutris/runners": [
+        "net.davidotek.pupgui2"
+    ],
     "~/.var/app/net.lutris.Lutris/data/lutris/runtime/dxvk": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/tools": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.var/app/com.usebottles.bottles/data/bottles/runners": [
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/net.lutris.Lutris/config/lutris:ro": [
@@ -3142,6 +3144,10 @@
     ],
     "~/.var/app/net.lutris.Lutris/data/lutris/pga.db:ro": [
         "net.davidotek.pupgui2"
+    ],
+    "~/.rdm:create": [
+        "net.devolutions.RDM",
+        "net.devolutions.RDMFree"
     ],
     "xdg-run/app/com.discordapp.Discord:ro": [
         "net.openra.OpenRA",

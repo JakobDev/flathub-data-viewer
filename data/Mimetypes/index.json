@@ -45,6 +45,7 @@
         "application{SLASH}font-woff",
         "application{SLASH}geo+json",
         "application{SLASH}geopackage+sqlite3",
+        "application{SLASH}gepro",
         "application{SLASH}gml+xml",
         "application{SLASH}gpx+xml",
         "application{SLASH}gzip",
