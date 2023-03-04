@@ -51,7 +51,6 @@
         "org.apache.netbeans"
     ],
     "19.08": [
-        "io.brackets.Brackets",
         "org.aliflang.lang"
     ]
 }

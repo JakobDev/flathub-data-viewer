@@ -2,6 +2,7 @@
     "com.amazon.Workspaces",
     "com.freerdp.FreeRDP",
     "com.github.debauchee.barrier",
+    "com.github.marhkb.Pods",
     "com.github.muriloventuroso.easyssh",
     "com.github.unrud.RemoteTouchpad",
     "com.itopia.client",

@@ -76,7 +76,6 @@
         "io.github.mideb.digitales_register",
         "io.github.shiftey.Desktop",
         "io.github.spacingbat3.webcord",
-        "io.gitlab.caveman250.headlines",
         "io.lbry.lbry-app",
         "io.stoplight.studio",
         "io.wavebox.Wavebox",
@@ -1855,7 +1854,6 @@
         "io.atom.Atom",
         "io.beekeeperstudio.Studio",
         "io.botfather.Botfather",
-        "io.brackets.Brackets",
         "io.conduktor.Conduktor",
         "io.crow_translate.CrowTranslate",
         "io.dbeaver.DBeaverCommunity",
@@ -2132,7 +2130,6 @@
         "fr.handbrake.ghb",
         "fr.masson_informatique.WhosWho",
         "io.atom.Atom",
-        "io.brackets.Brackets",
         "io.github.TransmissionRemoteGtk",
         "io.github.brunoherbelin.Vimix",
         "io.github.celluloid_player.Celluloid",
@@ -2740,7 +2737,6 @@
     ],
     "org.gnome.gconf": [
         "com.skype.Client",
-        "io.brackets.Brackets",
         "io.github.betaflight.BetaflightConfigurator",
         "org.xiphos.Xiphos"
     ],

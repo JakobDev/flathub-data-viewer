@@ -62,6 +62,7 @@
     "org.gnumeric.Gnumeric",
     "org.hdfgroup.HDFView",
     "org.jamovi.jamovi",
+    "org.jupyter.JupyterLab",
     "org.kde.cantor",
     "org.kde.kalgebra",
     "org.kde.kalzium",

@@ -139,6 +139,7 @@
         "org.getoutline.OutlineManager",
         "org.jitsi.jitsi-meet",
         "org.js.nuclear.Nuclear",
+        "org.jupyter.JupyterLab",
         "org.nanuc.Axolotl",
         "org.onlyoffice.desktopeditors",
         "org.signal.Signal",

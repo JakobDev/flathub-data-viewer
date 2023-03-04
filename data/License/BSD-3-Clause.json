@@ -17,6 +17,7 @@
     "net.sourceforge.QtSpim",
     "org.getmonero.Monero",
     "org.gnode.NixView",
+    "org.jupyter.JupyterLab",
     "org.openchemistry.Avogadro2",
     "org.paraview.ParaView",
     "org.telesculptor.TeleSculptor",
