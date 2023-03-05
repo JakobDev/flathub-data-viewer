@@ -4,6 +4,7 @@
         "com.github.fontmatrix.Fontmatrix",
         "com.icanblink.blink",
         "org.goldendict.GoldenDict",
+        "org.kde.umbrello",
         "org.openshot.OpenShot"
     ],
     "5.15": [
@@ -19,7 +20,6 @@
         "io.github.cloose.CuteMarkEd",
         "org.fcitx.Fcitx5",
         "org.kde.skrooge",
-        "org.kde.umbrello",
         "org.qgis.qgis",
         "org.subsurface_divelog.Subsurface",
         "org.zealdocs.Zeal"

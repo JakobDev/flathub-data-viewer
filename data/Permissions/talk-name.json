@@ -330,6 +330,7 @@
         "io.github.shiftey.Desktop",
         "io.github.shiiion.primehack",
         "io.github.simple64.simple64",
+        "io.github.sithlord48.blackchocobo",
         "io.github.tcobbs.LDView",
         "io.github.technic.e2designer",
         "io.github.torrent_file_editor.Torrent-file-editor",
@@ -1409,6 +1410,7 @@
         "org.kde.kweather",
         "org.kde.kwordquiz",
         "org.kde.kwrite",
+        "org.kde.kxstitch",
         "org.kde.labplot2",
         "org.kde.lokalize",
         "org.kde.lskat",
@@ -2832,7 +2834,6 @@
     ],
     "org.freedesktop.login1.manager": [
         "net.retrodeck.retrodeck",
-        "org.keepassxc.KeePassXC",
         "org.yuzu_emu.yuzu"
     ],
     "org.mate.screensaver": [
@@ -2966,9 +2967,6 @@
         "org.kde.ksudoku"
     ],
     "com.canonical.unity.session": [
-        "org.keepassxc.KeePassXC"
-    ],
-    "org.freedesktop.login1.session": [
         "org.keepassxc.KeePassXC"
     ],
     "org.gnome.sessionmanager.presence": [

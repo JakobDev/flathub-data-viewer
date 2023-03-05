@@ -425,6 +425,8 @@
         "application{SLASH}x-fds-disk",
         "application{SLASH}x-femtoscan-spm",
         "application{SLASH}x-femtoscan-txt",
+        "application{SLASH}x-ff7PCSave",
+        "application{SLASH}x-ff7SwitchSave",
         "application{SLASH}x-fictionbook+xml",
         "application{SLASH}x-finance-activity",
         "application{SLASH}x-fityk",

@@ -12,6 +12,7 @@
     "cc.arduino.IDE2",
     "cc.arduino.arduinoide",
     "ch.openboard.OpenBoard",
+    "ch.theologeek.Manuskript",
     "ch.tlaun.TL",
     "chat.delta",
     "chat.revolt.RevoltDesktop",

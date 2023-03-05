@@ -56,6 +56,7 @@
         "org.gnome.Music",
         "org.gnome.OfficeRunner",
         "org.gnome.Todo",
+        "org.keepassxc.KeePassXC",
         "org.qbittorrent.qBittorrent",
         "tv.kodi.Kodi"
     ],

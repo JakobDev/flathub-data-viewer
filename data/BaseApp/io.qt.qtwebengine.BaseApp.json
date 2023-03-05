@@ -12,9 +12,7 @@
         "org.kde.digikam",
         "org.kde.falkon",
         "org.kde.kgeotag",
-        "org.kde.kontact",
-        "org.kde.kphotoalbum",
-        "org.kde.tellico"
+        "org.kde.kontact"
     ],
     "5.15-22.08": [
         "com.github.iwalton3.jellyfin-media-player",
@@ -28,9 +26,11 @@
         "org.kde.cantor",
         "org.kde.kalgebra",
         "org.kde.kdevelop",
+        "org.kde.kphotoalbum",
         "org.kde.labplot2",
         "org.kde.marble",
         "org.kde.parley",
+        "org.kde.tellico",
         "org.musescore.MuseScore",
         "org.paraview.ParaView",
         "org.sdrangel.SDRangel"

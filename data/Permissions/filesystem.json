@@ -575,6 +575,7 @@
         "io.github.rocket.editor",
         "io.github.shiiion.primehack",
         "io.github.simple64.simple64",
+        "io.github.sithlord48.blackchocobo",
         "io.github.tcobbs.LDView",
         "io.github.technic.e2designer",
         "io.github.torrent_file_editor.Torrent-file-editor",
@@ -1847,6 +1848,7 @@
         "io.github.quodlibet.QuodLibet",
         "io.github.rinigus.OSMScoutServer",
         "io.github.shiftey.Desktop",
+        "io.github.sithlord48.blackchocobo",
         "io.gitlab.Turtlico",
         "io.howl.Editor",
         "io.kopia.KopiaUI",
@@ -2264,6 +2266,7 @@
     ],
     "xdg-desktop": [
         "com.boxy_svg.BoxySVG",
+        "com.brave.Browser",
         "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
         "com.github.cfcurtis.pdfstitcher",
