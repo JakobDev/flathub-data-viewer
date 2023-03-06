@@ -48,6 +48,7 @@
     "org.gnome.eog",
     "org.gnome.font-viewer",
     "org.gnome.gedit",
+    "org.gnome.seahorse.Application",
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands"
 ]
