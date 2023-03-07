@@ -253,6 +253,7 @@
         "app.lith.Lith",
         "com.github.Rosalie241.RMG",
         "com.github.dynobo.normcap",
+        "com.github.unrud.djpdf",
         "com.gitlab.JakobDev.jdAnimatedImageEditor",
         "com.gitlab.JakobDev.jdDiff",
         "com.gitlab.JakobDev.jdEolConverter",
@@ -267,6 +268,7 @@
         "io.github.simple64.simple64",
         "io.github.sithlord48.blackchocobo",
         "io.gitlab.JakobDev.jdSimpleAutostart",
+        "io.sourceforge.pentobi",
         "net.davidotek.pupgui2",
         "net.jami.Jami",
         "net.pcsx2.PCSX2",
@@ -517,7 +519,6 @@
     "6.3": [
         "com.github.LongSoft.UEFITool",
         "com.github.jmlich.geotagging",
-        "com.github.unrud.djpdf",
         "com.gitlab.JakobDev.jdMinecraftLauncher",
         "com.rtosta.zapzap",
         "io.github.hydrusnetwork.hydrus",
@@ -544,7 +545,6 @@
         "cz.cvut.edu.comparch.qtrvsim",
         "dev.lukebriggs.pepys",
         "eu.skribisto.skribisto",
-        "io.sourceforge.pentobi",
         "org.coolero.Coolero",
         "org.linux_hardware.hw-probe"
     ],

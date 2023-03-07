@@ -1,5 +1,7 @@
 [
+    "com.github.unrud.djpdf",
     "eu.betterbird.Betterbird",
+    "org.hedgewars.Hedgewars",
     "org.kde.umbrello",
     "org.mozilla.Thunderbird"
 ]
