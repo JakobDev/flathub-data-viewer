@@ -15,6 +15,7 @@
     "io.github.jhaygood86.mauborgne",
     "org.cryptomator.Cryptomator",
     "org.gnome.seahorse.Application",
+    "org.gnupg.GPA",
     "org.gtkhash.gtkhash",
     "org.kde.kwalletmanager5",
     "org.keepassxc.KeePassXC",

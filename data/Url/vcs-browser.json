@@ -1,6 +1,7 @@
 [
     "app.cantara.Cantara",
     "ch.theologeek.Manuskript",
+    "com.chowdsp.BYOD",
     "com.endlessm.photos",
     "com.github.finefindus.eyedropper",
     "com.github.vikdevelop.photopea_app",
@@ -81,8 +82,10 @@
     "rocks.koreader.KOReader",
     "so.onekey.Wallet",
     "tv.kodi.Kodi",
+    "xyz.hyperplay.HyperPlay",
     "com.obsproject.Studio.Plugin.VerticalCanvas",
     "org.blackfennec.app.extensions.base",
     "org.blackfennec.app.extensions.core",
+    "org.freedesktop.LinuxAudio.Plugins.BYOD",
     "org.videolan.VLC.Plugin.pause_click"
 ]

@@ -42,7 +42,6 @@
     "com.github.kalibari.audok",
     "com.github.kmwallio.thiefmd",
     "com.github.marinm.songrec",
-    "com.github.marktext.marktext",
     "com.github.nihui.waifu2x-ncnn-vulkan",
     "com.github.opentyrian.OpenTyrian",
     "com.github.rafostar.Clapper",
@@ -220,7 +219,6 @@
     "org.cubocore.CoreTime",
     "org.cvfosammmm.Setzer",
     "org.darkdimension.rue",
-    "org.dash.electrum.electrum_dash",
     "org.deluge_torrent.deluge",
     "org.denemo.Denemo",
     "org.dhewm3.Dhewm3",
@@ -300,7 +298,6 @@
     "re.sonny.Commit",
     "ro.go.hmlendea.DL-Desktop",
     "ro.go.hmlendea.SokoGrump",
-    "se.cendio.tlclient",
     "uk.org.zint.zint-qt",
     "vet.rsc.OpenRSC.Launcher",
     "xyz.eclipium.Hieroctive",
@@ -324,6 +321,5 @@
     "org.freedesktop.Sdk.Extension.mono6",
     "org.freedesktop.Sdk.Extension.node12",
     "org.freedesktop.Sdk.Extension.vala",
-    "org.videolan.VLC.Plugin.makemkv",
     "org.winehq.Wine.DLLs.dxvk"
 ]

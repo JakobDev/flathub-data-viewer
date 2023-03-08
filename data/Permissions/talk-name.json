@@ -248,7 +248,6 @@
         "com.zandronum.Zandronum",
         "community.pathofbuilding.PathOfBuilding",
         "cz.cvut.edu.comparch.qtrvsim",
-        "de.akaflieg_freiburg.enroute",
         "de.bund.ausweisapp.ausweisapp2",
         "de.halaszovich.PMbrowser",
         "de.ifw_dresden.nagstamon",
@@ -364,6 +363,7 @@
         "io.stoplight.studio",
         "io.trustable.stpadocumentationtool",
         "io.typora.Typora",
+        "it.cuteworks.pacmanlogviewer",
         "me.aandrew.ytdownloader",
         "me.ahola.aphototoollibre",
         "me.mitya57.ReText",
@@ -783,7 +783,6 @@
         "com.yacreader.YACReader",
         "com.zandronum.Zandronum",
         "community.pathofbuilding.PathOfBuilding",
-        "de.akaflieg_freiburg.enroute",
         "de.klayout.KLayout",
         "de.rwth_aachen.ient.YUView",
         "de.shorsh.discord-screenaudio",
@@ -854,6 +853,7 @@
         "io.qt.QtCreator",
         "io.sourceforge.chart_geany.chart-geany",
         "io.sourceforge.qoobar.Qoobar",
+        "it.cuteworks.pacmanlogviewer",
         "me.ahola.aphototoollibre",
         "net._86box._86Box",
         "net.codeindustry.MasterPDFEditor",
@@ -1183,7 +1183,6 @@
         "com.yacreader.YACReader",
         "com.zandronum.Zandronum",
         "community.pathofbuilding.PathOfBuilding",
-        "de.akaflieg_freiburg.enroute",
         "de.klayout.KLayout",
         "de.shorsh.discord-screenaudio",
         "de.syping.gta5view",
@@ -1238,6 +1237,7 @@
         "io.photoflare.photoflare",
         "io.qt.QtCreator",
         "io.sourceforge.chart_geany.chart-geany",
+        "it.cuteworks.pacmanlogviewer",
         "me.ahola.aphototoollibre",
         "net._86box._86Box",
         "net.codeindustry.MasterPDFEditor",
@@ -1542,6 +1542,7 @@
         "chat.schildi.desktop",
         "com.alovoa.alovoa-electron",
         "com.authy.Authy",
+        "com.baidu.NetDisk",
         "com.calibre_ebook.calibre",
         "com.chmouel.gnomeNextMeetingApplet",
         "com.codemouse92.timecard",
@@ -1721,6 +1722,7 @@
         "com.alovoa.alovoa-electron",
         "com.authy.Authy",
         "com.axosoft.GitKraken",
+        "com.baidu.NetDisk",
         "com.biglybt.BiglyBT",
         "com.bitwig.BitwigStudio",
         "com.bluejeans.BlueJeans",
@@ -1836,6 +1838,7 @@
         "de.mediathekview.MediathekView",
         "de.shorsh.discord-screenaudio",
         "de.willuhn.Jameica",
+        "dev.deedles.Trayscale",
         "dev.hdos.HDOS",
         "dev.k8slens.OpenLens",
         "dev.pulsar_edit.Pulsar",
@@ -2004,6 +2007,7 @@
         "ua.org.brezblock.q4wine",
         "work.openpaper.Paperwork",
         "xyz.diamondb.gtkcord4",
+        "xyz.hyperplay.HyperPlay",
         "xyz.mx_moment.moment"
     ],
     "com.canonical.indicator.application": [
@@ -2452,6 +2456,7 @@
         "io.github.listen1.Listen1",
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
+        "io.github.vikdevelop.SaveDesktop",
         "io.gitlab.librewolf-community",
         "io.lbry.lbry-app",
         "io.mpv.Mpv",
@@ -2624,7 +2629,8 @@
         "io.github.quodlibet.QuodLibet"
     ],
     "org.xfce.sessionmanager": [
-        "com.github.needleandthread.vocal"
+        "com.github.needleandthread.vocal",
+        "io.github.vikdevelop.SaveDesktop"
     ],
     "org.gnome.shell": [
         "com.github.rafostar.Clapper",
@@ -2760,6 +2766,9 @@
         "org.gnome.BreakTimer",
         "org.gnome.Totem",
         "org.keepassxc.KeePassXC"
+    ],
+    "org.gnome.notifications": [
+        "fr.henri2h.minestrix"
     ],
     "org.freedesktop.networkmanager": [
         "ga.rpmtw.rpmlauncher"

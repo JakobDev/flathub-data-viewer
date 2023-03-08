@@ -55,7 +55,8 @@
         "org.srb2.SRB2Kart",
         "org.widelands.Widelands",
         "tw.ddnet.ddnet",
-        "vet.rsc.OpenRSC.Launcher"
+        "vet.rsc.OpenRSC.Launcher",
+        "xyz.hyperplay.HyperPlay"
     ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",

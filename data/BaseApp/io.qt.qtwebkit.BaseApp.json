@@ -5,7 +5,8 @@
         "com.icanblink.blink",
         "org.goldendict.GoldenDict",
         "org.kde.umbrello",
-        "org.openshot.OpenShot"
+        "org.openshot.OpenShot",
+        "org.subsurface_divelog.Subsurface"
     ],
     "5.15": [
         "com.codemouse92.timecard"
@@ -21,7 +22,6 @@
         "org.fcitx.Fcitx5",
         "org.kde.skrooge",
         "org.qgis.qgis",
-        "org.subsurface_divelog.Subsurface",
         "org.zealdocs.Zeal"
     ]
 }

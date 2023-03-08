@@ -30,6 +30,9 @@
     ".nexuiz": [
         "com.alientrap.nexuiz-classic"
     ],
+    ".config/baidunetdisk": [
+        "com.baidu.NetDisk"
+    ],
     ".biglybt": [
         "com.biglybt.BiglyBT"
     ],

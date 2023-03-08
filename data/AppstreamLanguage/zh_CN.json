@@ -2,6 +2,7 @@
     "app.drey.Dialect",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
+    "com.baidu.NetDisk",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",

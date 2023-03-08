@@ -4,6 +4,7 @@
     ],
     "22.08": [
         "com.axosoft.GitKraken",
+        "com.gitfiend.GitFiend",
         "com.google.AndroidStudio",
         "com.helix_editor.Helix",
         "com.jetbrains.CLion",

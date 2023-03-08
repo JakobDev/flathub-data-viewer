@@ -264,7 +264,8 @@
         "org.telegram",
         "org.vergecurrency.verge-qt",
         "so.onekey.Wallet",
-        "xyz.diamondb.gtkcord4"
+        "xyz.diamondb.gtkcord4",
+        "xyz.hyperplay.HyperPlay"
     ],
     "mild": [
         "com.avocode.Avocode",

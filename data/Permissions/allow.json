@@ -25,7 +25,8 @@
         "org.kde.kdevelop",
         "pm.mirko.Atoms",
         "re.rizin.cutter",
-        "ua.org.brezblock.q4wine"
+        "ua.org.brezblock.q4wine",
+        "xyz.hyperplay.HyperPlay"
     ],
     "multiarch": [
         "com.bitwig.BitwigStudio",
@@ -56,7 +57,8 @@
         "org.firestormviewer.FirestormViewer",
         "org.libretro.RetroArch",
         "org.phoenicis.playonlinux",
-        "ua.org.brezblock.q4wine"
+        "ua.org.brezblock.q4wine",
+        "xyz.hyperplay.HyperPlay"
     ],
     "bluetooth": [
         "com.github.Matoking.protontricks",

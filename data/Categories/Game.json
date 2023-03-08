@@ -144,6 +144,8 @@
     "io.github.Cockatrice.cockatrice",
     "io.github.Foldex.AdwSteamGtk",
     "io.github.Foldex.r2mod",
+    "io.github.Rangi42.polished-map-plusplus",
+    "io.github.Rangi42.polished-map",
     "io.github.achetagames.epic_asset_manager",
     "io.github.alexkdeveloper.gomoku",
     "io.github.am2r_community_developers.AM2RLauncher",
@@ -464,6 +466,7 @@
     "ws.openarena.OpenArena",
     "xyz.eclipium.Hieroctive",
     "xyz.eclipium.TetraSwap",
+    "xyz.hyperplay.HyperPlay",
     "xyz.ljoonal.neospeeps",
     "xyz.stuerz.BilligSweeper",
     "com.valvesoftware.Steam.Utility.steamtinkerlaunch"

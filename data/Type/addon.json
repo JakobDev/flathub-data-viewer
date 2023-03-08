@@ -212,6 +212,7 @@
     "org.freedesktop.LinuxAudio.Plugins.AVLDrums",
     "org.freedesktop.LinuxAudio.Plugins.Airwindows",
     "org.freedesktop.LinuxAudio.Plugins.ArtyFX",
+    "org.freedesktop.LinuxAudio.Plugins.BYOD",
     "org.freedesktop.LinuxAudio.Plugins.CAPS",
     "org.freedesktop.LinuxAudio.Plugins.CMT",
     "org.freedesktop.LinuxAudio.Plugins.Calf",

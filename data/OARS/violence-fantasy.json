@@ -67,7 +67,8 @@
         "org.wesnoth.Wesnoth",
         "org.xonotic.Xonotic",
         "vet.rsc.OpenRSC.Launcher",
-        "ws.openarena.OpenArena"
+        "ws.openarena.OpenArena",
+        "xyz.hyperplay.HyperPlay"
     ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",

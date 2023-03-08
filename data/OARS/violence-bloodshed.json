@@ -24,7 +24,8 @@
         "net.sourceforge.DuneLegacy",
         "org.firestormviewer.FirestormViewer",
         "org.yamagi.YamagiQ2",
-        "org.zdoom.GZDoom"
+        "org.zdoom.GZDoom",
+        "xyz.hyperplay.HyperPlay"
     ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",

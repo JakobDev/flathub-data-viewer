@@ -41,7 +41,8 @@
         "org.zulip.Zulip",
         "re.chiaki.Chiaki",
         "si.tano.Vremenar",
-        "us.zoom.Zoom"
+        "us.zoom.Zoom",
+        "xyz.hyperplay.HyperPlay"
     ],
     "org.mpris.mediaplayer2.moosync": [
         "app.moosync.moosync"

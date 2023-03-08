@@ -40,6 +40,7 @@
         "com.getpostman.Postman",
         "com.giadamusic.Giada",
         "com.gigitux.youp",
+        "com.gitfiend.GitFiend",
         "com.github.Alcaro.Flips",
         "com.github.AlizaMedicalImaging.AlizaMS",
         "com.github.AmatCoder.mednaffe",
@@ -499,7 +500,6 @@
         "com.zandronum.Zandronum",
         "community.pathofbuilding.PathOfBuilding",
         "cz.cvut.edu.comparch.qtrvsim",
-        "de.akaflieg_freiburg.enroute",
         "de.bund.ausweisapp.ausweisapp2",
         "de.halaszovich.PMbrowser",
         "de.ifw_dresden.nagstamon",
@@ -607,6 +607,7 @@
         "io.sourceforge.pentobi",
         "io.sourceforge.qoobar.Qoobar",
         "io.trustable.stpadocumentationtool",
+        "it.cuteworks.pacmanlogviewer",
         "me.ahola.aphototoollibre",
         "me.mitya57.ReText",
         "net._86box._86Box",
@@ -975,6 +976,7 @@
         "chat.tandem.Client",
         "co.luoja.Telyn",
         "com.atlauncher.ATLauncher",
+        "com.baidu.NetDisk",
         "com.boxy_svg.BoxySVG",
         "com.brave.Browser",
         "com.darhon.drfinance",
@@ -1035,6 +1037,7 @@
         "dev.vieb.Vieb",
         "eu.betterbird.Betterbird",
         "fi.skyjake.Lagrange",
+        "fr.henri2h.minestrix",
         "gg.guilded.Guilded",
         "im.fluffychat.Fluffychat",
         "im.pidgin.Pidgin",
@@ -1221,7 +1224,8 @@
         "org.zotero.Zotero",
         "org.zulip.Zulip",
         "ua.org.brezblock.q4wine",
-        "uk.org.zint.zint-qt"
+        "uk.org.zint.zint-qt",
+        "xyz.hyperplay.HyperPlay"
     ],
     "xdg-music": [
         "app.moosync.moosync",
@@ -1409,7 +1413,8 @@
         "org.thonny.Thonny",
         "org.virtualxt.VirtualXT",
         "org.zim_wiki.Zim",
-        "tv.kodi.Kodi"
+        "tv.kodi.Kodi",
+        "xyz.hyperplay.HyperPlay"
     ],
     "xdg-run/app/com.discordapp.Discord:create": [
         "app.vup.Vup",
@@ -1444,7 +1449,8 @@
         "org.skytemple.SkyTemple",
         "org.srb2.SRB2Kart",
         "sh.cider.Cider",
-        "sh.ppy.osu"
+        "sh.ppy.osu",
+        "xyz.hyperplay.HyperPlay"
     ],
     "host:ro": [
         "app.xemu.xemu",
@@ -1491,6 +1497,7 @@
         "chat.schildi.desktop",
         "com.bitwig.BitwigStudio",
         "com.brave.Browser",
+        "com.chowdsp.BYOD",
         "com.giadamusic.Giada",
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.powertab.powertabeditor",
@@ -1829,6 +1836,8 @@
         "info.smplayer.SMPlayer",
         "io.atom.Atom",
         "io.github.OpenToonz",
+        "io.github.Rangi42.polished-map-plusplus",
+        "io.github.Rangi42.polished-map",
         "io.github.achetagames.epic_asset_manager",
         "io.github.bothlab.syntalos",
         "io.github.brunoherbelin.Vimix",
@@ -1933,6 +1942,7 @@
         "org.gnome.meld",
         "org.gnu.emacs",
         "org.gnucash.GnuCash",
+        "org.gnupg.GPA",
         "org.godotengine.Godot",
         "org.greenfoot.Greenfoot",
         "org.gtkhash.gtkhash",
@@ -2143,6 +2153,7 @@
     ],
     "xdg-documents:ro": [
         "chat.revolt.RevoltDesktop",
+        "com.baidu.NetDisk",
         "com.greyrook.siptop",
         "com.meetfranz.Franz",
         "com.sindresorhus.Caprine",
@@ -2155,6 +2166,7 @@
     "xdg-pictures:ro": [
         "chat.revolt.RevoltDesktop",
         "chat.tandem.Client",
+        "com.baidu.NetDisk",
         "com.discordapp.Discord",
         "com.greyrook.siptop",
         "com.meetfranz.Franz",
@@ -2171,6 +2183,7 @@
     "xdg-videos:ro": [
         "chat.revolt.RevoltDesktop",
         "chat.tandem.Client",
+        "com.baidu.NetDisk",
         "com.discordapp.Discord",
         "com.greyrook.siptop",
         "com.meetfranz.Franz",
@@ -2262,6 +2275,23 @@
         "org.strawberrymusicplayer.strawberry",
         "tv.kodi.Kodi"
     ],
+    "xdg-desktop:ro": [
+        "com.baidu.NetDisk",
+        "org.gnunet.Messenger"
+    ],
+    "xdg-music:ro": [
+        "com.baidu.NetDisk",
+        "com.github.neithern.g4music",
+        "com.greyrook.siptop",
+        "com.skype.Client",
+        "com.slack.Slack",
+        "com.spotify.Client",
+        "com.valvesoftware.Steam",
+        "io.bassi.Amberol",
+        "io.github.Soundux",
+        "org.gnunet.Messenger",
+        "sh.ppy.osu"
+    ],
     "xdg-download/BiglyBT Downloads:create": [
         "com.biglybt.BiglyBT"
     ],
@@ -2294,7 +2324,8 @@
         "org.firestormviewer.FirestormViewer",
         "org.signal.Signal",
         "org.zotero.Zotero",
-        "ua.org.brezblock.q4wine"
+        "ua.org.brezblock.q4wine",
+        "xyz.hyperplay.HyperPlay"
     ],
     "xdg-templates": [
         "com.boxy_svg.BoxySVG",
@@ -2381,6 +2412,7 @@
         "org.gimp.GIMP",
         "org.gnome.Geary",
         "org.gnu.emacs",
+        "org.gnupg.GPA",
         "org.kde.labplot2",
         "org.keepassxc.KeePassXC",
         "org.ksnip.ksnip",
@@ -2400,7 +2432,8 @@
         "com.heroicgameslauncher.hgl",
         "com.steamgriddb.SGDBoop",
         "io.github.philipk.boilr",
-        "space.crankshaft.Crankshaft"
+        "space.crankshaft.Crankshaft",
+        "xyz.hyperplay.HyperPlay"
     ],
     "xdg-data/Steam": [
         "com.eduke32.EDuke32",
@@ -2408,7 +2441,8 @@
         "com.github.theCalcaholic.StreamDeck",
         "com.heroicgameslauncher.hgl",
         "io.github.philipk.boilr",
-        "space.crankshaft.Crankshaft"
+        "space.crankshaft.Crankshaft",
+        "xyz.hyperplay.HyperPlay"
     ],
     "xdg-documents/EDuke32:create": [
         "com.eduke32.EDuke32"
@@ -2421,7 +2455,23 @@
         "com.steamdeckrepo.manager",
         "io.github.philipk.boilr",
         "net.davidotek.pupgui2",
-        "space.crankshaft.Crankshaft"
+        "space.crankshaft.Crankshaft",
+        "xyz.hyperplay.HyperPlay"
+    ],
+    "xdg-run/gnupg:ro": [
+        "com.gitfiend.GitFiend",
+        "com.jetbrains.GoLand",
+        "com.jetbrains.IntelliJ-IDEA-Community",
+        "com.jetbrains.IntelliJ-IDEA-Ultimate",
+        "com.sublimemerge.App",
+        "com.syntevo.SmartGit",
+        "com.vscodium.codium",
+        "eu.betterbird.Betterbird",
+        "org.claws_mail.Claws-Mail",
+        "org.gnome.Keysign",
+        "org.kde.kleopatra",
+        "org.kde.kontact",
+        "org.mozilla.Thunderbird"
     ],
     "xdg-run/app/com.discordapp.DiscordCanary:create": [
         "com.github.Anuken.Mindustry",
@@ -2612,18 +2662,6 @@
     "xdg-data/vocal:create": [
         "com.github.needleandthread.vocal"
     ],
-    "xdg-music:ro": [
-        "com.github.neithern.g4music",
-        "com.greyrook.siptop",
-        "com.skype.Client",
-        "com.slack.Slack",
-        "com.spotify.Client",
-        "com.valvesoftware.Steam",
-        "io.bassi.Amberol",
-        "io.github.Soundux",
-        "org.gnunet.Messenger",
-        "sh.ppy.osu"
-    ],
     "~/.var/app/com.valvesoftware.Steam:ro": [
         "com.github.petebuffon.yafc",
         "io.github.santiagocezar.maniatic-launcher",
@@ -2683,7 +2721,8 @@
         "io.github.betaflight.BetaflightConfigurator",
         "io.github.punesemu.puNES",
         "one.flipperzero.qFlipper",
-        "org.expresslrs.ExpressLRSConfigurator"
+        "org.expresslrs.ExpressLRSConfigurator",
+        "xyz.hyperplay.HyperPlay"
     ],
     "~/.var/app/org.mozilla.firefox": [
         "com.github.theCalcaholic.StreamDeck"
@@ -2741,13 +2780,15 @@
     ],
     "xdg-data/applications": [
         "com.heroicgameslauncher.hgl",
-        "io.github.fabrialberio.pinapp"
+        "io.github.fabrialberio.pinapp",
+        "xyz.hyperplay.HyperPlay"
     ],
     "~/Games/Heroic:create": [
         "com.heroicgameslauncher.hgl"
     ],
     "xdg-data/lutris": [
-        "com.heroicgameslauncher.hgl"
+        "com.heroicgameslauncher.hgl",
+        "xyz.hyperplay.HyperPlay"
     ],
     "xdg-config/fontconfig:ro": [
         "com.icons8.Lunacy",
@@ -2757,20 +2798,6 @@
     ],
     "~/Inform:create": [
         "com.inform7.IDE"
-    ],
-    "xdg-run/gnupg:ro": [
-        "com.jetbrains.GoLand",
-        "com.jetbrains.IntelliJ-IDEA-Community",
-        "com.jetbrains.IntelliJ-IDEA-Ultimate",
-        "com.sublimemerge.App",
-        "com.syntevo.SmartGit",
-        "com.vscodium.codium",
-        "eu.betterbird.Betterbird",
-        "org.claws_mail.Claws-Mail",
-        "org.gnome.Keysign",
-        "org.kde.kleopatra",
-        "org.kde.kontact",
-        "org.mozilla.Thunderbird"
     ],
     "/sys:ro": [
         "com.leinardi.gst",
@@ -2908,6 +2935,9 @@
     "xdg-data/tubefeeder:create": [
         "de.schmidhuberj.tubefeeder"
     ],
+    "/run/tailscale:ro": [
+        "dev.deedles.Trayscale"
+    ],
     "~/hdos:create": [
         "dev.hdos.HDOS"
     ],
@@ -2942,6 +2972,12 @@
     ],
     "~/RPMLauncher:create": [
         "ga.rpmtw.rpmlauncher"
+    ],
+    "~/.minecraft": [
+        "io.blockloader.BlockLoader"
+    ],
+    "~/.var": [
+        "io.blockloader.BlockLoader"
     ],
     "~/.steam/steam/steamapps/compatdata/359320/pfx/drive_c/users/steamuser/Saved Games/Frontier Developments/Elite Dangerous": [
         "io.edcd.EDMarketConnector"
@@ -3067,6 +3103,60 @@
     "~/Nextcloud/Notes": [
         "io.github.vegad.vnotes"
     ],
+    "~/.local/share/icons": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.config/nemo": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.config/gnome-control-center": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.xfce4": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.local/share/gnome-shell": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.icons": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.config/budgie-extras": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.themes": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.config/Thunar": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.config/pop-shell": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.local/share/gnome-background-properties": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.local/share/cinnamon": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.config/xfce4": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.cinnamon": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.config/dconf": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.config/budgie-desktop": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.local/share/backgrounds": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "xdg-download/SaveDesktop:create": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
     "host-etc:ro": [
         "io.gitlab.JakobDev.jdSimpleAutostart"
     ],
@@ -3099,6 +3189,9 @@
     ],
     "~/Projects": [
         "io.stoplight.studio"
+    ],
+    "/var/log/pacman.log:ro": [
+        "it.cuteworks.pacmanlogviewer"
     ],
     "xdg-data/backgrounds:create": [
         "me.dusansimic.DynamicWallpaper"
@@ -3352,9 +3445,6 @@
     "xdg-public-share:ro": [
         "org.gnunet.Messenger"
     ],
-    "xdg-desktop:ro": [
-        "org.gnunet.Messenger"
-    ],
     "~/gPodder": [
         "org.gpodder.gpodder-adaptive"
     ],
@@ -3462,5 +3552,8 @@
     ],
     "~/.zoom:create": [
         "us.zoom.Zoom"
+    ],
+    "~/Games/HyperPlay:create": [
+        "xyz.hyperplay.HyperPlay"
     ]
 }

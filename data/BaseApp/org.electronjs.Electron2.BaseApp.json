@@ -74,9 +74,11 @@
         "com.alovoa.alovoa-electron",
         "com.avocode.Avocode",
         "com.axosoft.GitKraken",
+        "com.baidu.NetDisk",
         "com.discordapp.Discord",
         "com.fightcade.Fightcade",
         "com.getpostman.Postman",
+        "com.gitfiend.GitFiend",
         "com.github.vikdevelop.photopea_app",
         "com.github.vladimiry.ElectronMail",
         "com.heroicgameslauncher.hgl",
@@ -107,6 +109,7 @@
         "info.beyondallreason.bar",
         "io.atom.Atom",
         "io.beekeeperstudio.Studio",
+        "io.blockloader.BlockLoader",
         "io.exodus.Exodus",
         "io.gdevs.GDLauncher",
         "io.github.Fndroid.clash_for_windows",
@@ -151,6 +154,7 @@
         "so.onekey.Wallet",
         "social.whalebird.WhalebirdDesktop",
         "tech.feliciano.pocket-casts",
-        "us.zoom.Zoom"
+        "us.zoom.Zoom",
+        "xyz.hyperplay.HyperPlay"
     ]
 }

@@ -1,6 +1,7 @@
 {
     "description": "Shows all Aaddons of the given App",
     "data": [
+        "com.chowdsp.BYOD",
         "com.fightcade.Fightcade",
         "com.github.unrud.djpdf",
         "com.github.wwmm.pulseeffects",
