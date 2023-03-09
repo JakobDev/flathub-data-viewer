@@ -948,6 +948,7 @@
         "app.drey.KeyRack",
         "com.borgbase.Vorta",
         "com.github.qarmin.czkawka",
+        "io.blockloader.BlockLoader",
         "org.gnome.DejaDup",
         "org.gnome.World.PikaBackup",
         "org.gnome.baobab"
@@ -1054,6 +1055,7 @@
         "io.github.openWMail.openWMail",
         "io.github.qnapi",
         "io.github.qtox.qTox",
+        "io.github.vikdevelop.SaveDesktop",
         "io.gitlab.librewolf-community",
         "io.sourceforge.qoobar.Qoobar",
         "io.trustable.stpadocumentationtool",
@@ -1703,8 +1705,7 @@
         "org.gnome.Gtranslator",
         "org.gnome.Shotwell",
         "org.laptop.TurtleArtActivity",
-        "org.pitivi.Pitivi",
-        "org.rolisteam.rolisteam"
+        "org.pitivi.Pitivi"
     ],
     "~/.config/dconf:ro": [
         "ca._0ldsk00l.Nestopia",
@@ -1740,8 +1741,7 @@
         "org.gnome.Gtranslator",
         "org.gnome.Shotwell",
         "org.laptop.TurtleArtActivity",
-        "org.pitivi.Pitivi",
-        "org.rolisteam.rolisteam"
+        "org.pitivi.Pitivi"
     ],
     "host": [
         "ca.parallel_launcher.ParallelLauncher",
@@ -2970,13 +2970,13 @@
     "/usr/spool/mail": [
         "eu.betterbird.Betterbird"
     ],
+    "~/.java/.userPrefs/PortMidi:ro": [
+        "eu.usdx.UltraStarDeluxe"
+    ],
     "~/RPMLauncher:create": [
         "ga.rpmtw.rpmlauncher"
     ],
     "~/.minecraft": [
-        "io.blockloader.BlockLoader"
-    ],
-    "~/.var": [
         "io.blockloader.BlockLoader"
     ],
     "~/.steam/steam/steamapps/compatdata/359320/pfx/drive_c/users/steamuser/Saved Games/Frontier Developments/Elite Dangerous": [
@@ -3112,6 +3112,9 @@
     "~/.config/gnome-control-center": [
         "io.github.vikdevelop.SaveDesktop"
     ],
+    "xdg-download/SaveDesktop:create": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
     "~/.xfce4": [
         "io.github.vikdevelop.SaveDesktop"
     ],
@@ -3152,9 +3155,6 @@
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.local/share/backgrounds": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "xdg-download/SaveDesktop:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "host-etc:ro": [

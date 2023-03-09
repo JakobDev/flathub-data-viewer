@@ -95,6 +95,7 @@
         "com.parsecgaming.parsec",
         "com.tonikelope.MegaBasterd",
         "com.valvesoftware.Steam",
+        "de.billardgl.Billardgl",
         "edu.berkeley.BOINC",
         "io.github.santiagocezar.maniatic-launcher",
         "net.sourceforge.lgames.LPairs2"
@@ -249,6 +250,9 @@
     ".thunderbird": [
         "eu.betterbird.Betterbird",
         "org.mozilla.Thunderbird"
+    ],
+    ".ultrastardx": [
+        "eu.usdx.UltraStarDeluxe"
     ],
     ".config/ravkavonline": [
         "il.co.ravkavonline.RavKavOnline"

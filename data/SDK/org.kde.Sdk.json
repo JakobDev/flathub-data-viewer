@@ -239,6 +239,7 @@
         "org.quassel_irc.QuasselClient",
         "org.radare.iaito",
         "org.raspberrypi.rpi-imager",
+        "org.rolisteam.rolisteam",
         "org.sdrangel.SDRangel",
         "org.speedcrunch.SpeedCrunch",
         "org.subsurface_divelog.Subsurface",
@@ -564,8 +565,7 @@
         "de.rwth_aachen.ient.RDPlot",
         "io.botfather.Botfather",
         "io.liri.Calculator",
-        "io.liri.Text",
-        "org.rolisteam.rolisteam"
+        "io.liri.Text"
     ],
     "5.9": [
         "io.qt.qtwebkit.BaseApp"

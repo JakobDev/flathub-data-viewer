@@ -33,6 +33,7 @@
         "org.kde.tellico",
         "org.musescore.MuseScore",
         "org.paraview.ParaView",
+        "org.rolisteam.rolisteam",
         "org.sdrangel.SDRangel"
     ],
     "6.3": [

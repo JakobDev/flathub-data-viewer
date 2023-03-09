@@ -282,7 +282,8 @@
         "org.musicbrainz.Picard",
         "org.skytemple.Randomizer",
         "org.skytemple.SkyTemple",
-        "sh.ppy.osu"
+        "sh.ppy.osu",
+        "uk.co._69_studios.kublit"
     ],
     "moderate": [
         "com.icanblink.blink",
