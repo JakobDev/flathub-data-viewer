@@ -5,7 +5,6 @@
         "org.freedesktop.Sdk.Debug",
         "org.freedesktop.Sdk.Docs",
         "org.freedesktop.Sdk.Extension.dmd",
-        "org.freedesktop.Sdk.Extension.dotnet",
         "org.freedesktop.Sdk.Extension.dotnet6",
         "org.freedesktop.Sdk.Extension.dotnet7",
         "org.freedesktop.Sdk.Extension.freepascal",

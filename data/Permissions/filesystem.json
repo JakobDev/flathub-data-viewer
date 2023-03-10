@@ -991,7 +991,6 @@
         "com.github.PintaProject.Pinta",
         "com.github.ahrm.sioyek",
         "com.github.arminstraub.krop",
-        "com.github.cfcurtis.pdfstitcher",
         "com.github.corna.Vivado",
         "com.github.coslyk.MoonPlayer",
         "com.github.dimkr.gplaces",
@@ -1142,7 +1141,6 @@
         "com.github.PintaProject.Pinta",
         "com.github.ahrm.sioyek",
         "com.github.arminstraub.krop",
-        "com.github.cfcurtis.pdfstitcher",
         "com.github.corna.Vivado",
         "com.github.eneshecan.WhatsAppForLinux",
         "com.github.flxzt.rnote",
@@ -1300,7 +1298,6 @@
         "com.github.ahrm.sioyek",
         "com.github.arminstraub.krop",
         "com.github.artemanufrij.playmyvideos",
-        "com.github.cfcurtis.pdfstitcher",
         "com.github.kagami.boram",
         "com.github.makhber.Makhber",
         "com.github.mtkennerly.ludusavi",
@@ -1363,7 +1360,6 @@
         "com.github.ahrm.sioyek",
         "com.github.arminstraub.krop",
         "com.github.artemanufrij.playmyvideos",
-        "com.github.cfcurtis.pdfstitcher",
         "com.github.kagami.boram",
         "com.github.makhber.Makhber",
         "com.github.mtkennerly.ludusavi",
@@ -1762,6 +1758,7 @@
         "com.github.artemanufrij.playmymusic",
         "com.github.bajoja.indicator-kdeconnect",
         "com.github.calo001.fondo",
+        "com.github.cfcurtis.pdfstitcher",
         "com.github.devalien.workspaces",
         "com.github.geigi.cozy",
         "com.github.ilai_deutel.kibi",
@@ -2046,7 +2043,6 @@
         "com.diy_fever.DIYLayoutCreator",
         "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
-        "com.github.cfcurtis.pdfstitcher",
         "com.github.coslyk.MoonPlayer",
         "com.github.eneshecan.WhatsAppForLinux",
         "com.github.flxzt.rnote",
@@ -2300,7 +2296,6 @@
         "com.brave.Browser",
         "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
-        "com.github.cfcurtis.pdfstitcher",
         "com.github.corna.Vivado",
         "com.github.eneshecan.WhatsAppForLinux",
         "com.github.flxzt.rnote",
@@ -3115,6 +3110,9 @@
     "xdg-download/SaveDesktop:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
+    "~/.config/marlin": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
     "~/.xfce4": [
         "io.github.vikdevelop.SaveDesktop"
     ],
@@ -3122,6 +3120,9 @@
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.icons": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.config/plank": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.config/budgie-extras": [

@@ -346,7 +346,6 @@
         "org.seul.pingus",
         "org.squeakland.Etoys",
         "org.tuxfamily.XMoto",
-        "org.unitystation.StationHub",
         "radio.k0swe.Kel_Agent",
         "si.tano.Vremenar",
         "uk.me.doof.Lander"
@@ -793,6 +792,7 @@
         "org.tuxfamily.StuntRally",
         "org.tuxfamily.hatari",
         "org.twinery.Twine",
+        "org.unitystation.StationHub",
         "org.verapdf.veraPDF",
         "org.vertcoin.vertcoin-qt",
         "org.vim.Vim",
