@@ -2387,6 +2387,7 @@
         "com.github.neithern.g4music",
         "com.gitlab.inendi.Inspector",
         "com.helix_editor.Helix",
+        "com.qq.QQ",
         "com.rawtherapee.RawTherapee",
         "com.zettlr.Zettlr",
         "io.github.brunoherbelin.Vimix",
@@ -3102,6 +3103,9 @@
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.config/nemo": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.config/caja": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.config/gnome-control-center": [

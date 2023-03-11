@@ -1059,6 +1059,7 @@
         "org.kde.vvave",
         "org.keepassxc.KeePassXC",
         "org.ksnip.ksnip",
+        "org.leocad.LeoCAD",
         "org.librecad.librecad",
         "org.librepcb.LibrePCB",
         "org.libretro.RetroArch",
@@ -1438,6 +1439,7 @@
         "org.kde.vvave",
         "org.keepassxc.KeePassXC",
         "org.ksnip.ksnip",
+        "org.leocad.LeoCAD",
         "org.librecad.librecad",
         "org.librepcb.LibrePCB",
         "org.libretro.RetroArch",
@@ -2572,6 +2574,7 @@
     ],
     "org.gnome.shell.screencast": [
         "com.github.amikha1lov.RecApp",
+        "com.qq.QQ",
         "com.uploadedlobster.peek",
         "sa.sy.bluerecorder"
     ],

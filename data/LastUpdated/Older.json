@@ -346,6 +346,7 @@
     "io.gitlab.ballz.Ballz",
     "io.gitlab.construo.construo",
     "io.gitlab.evtest_qt.evtest_qt",
+    "io.gitlab.floodlight.Presenter",
     "io.gitlab.o20.word",
     "io.gitlab.sdl_jstest.sdl2_jstest",
     "io.gitlab.sdl_jstest.sdl_jstest",
