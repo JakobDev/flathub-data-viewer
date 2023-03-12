@@ -377,6 +377,7 @@
         "org.zim_wiki.Zim",
         "org.zotero.Zotero",
         "org.zrythm.Zrythm",
+        "pro.vpup.vpuppr",
         "re.rizin.cutter",
         "sa.sy.bluerecorder",
         "se.sjoerd.GIScan",
@@ -3228,22 +3229,28 @@
     "~/.kshrc": [
         "net.davidotek.pupgui2"
     ],
-    "~/stl:create": [
+    "~/.local/share/lutris/pga.db:ro": [
         "net.davidotek.pupgui2"
     ],
-    "~/.local/share/lutris/pga.db:ro": [
+    "~/stl:create": [
         "net.davidotek.pupgui2"
     ],
     "~/.zshrc": [
         "net.davidotek.pupgui2"
     ],
-    "~/.bashrc": [
+    "~/.local/share/lutris/runtime/vkd3d": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.var/app/net.lutris.Lutris/data/lutris/runtime/vkd3d": [
         "net.davidotek.pupgui2"
     ],
     "~/.local/share/lutris/runtime/dxvk": [
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/net.lutris.Lutris/data/lutris/pga.db:ro": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.bashrc": [
         "net.davidotek.pupgui2"
     ],
     "~/.rdm:create": [
