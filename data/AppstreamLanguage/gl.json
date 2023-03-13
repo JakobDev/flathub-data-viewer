@@ -5,6 +5,7 @@
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
+    "com.belmoussaoui.ReadItLater",
     "com.github.arshubham.cipher",
     "com.github.geigi.cozy",
     "com.github.hugolabe.Wike",

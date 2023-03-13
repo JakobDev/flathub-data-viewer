@@ -6,6 +6,7 @@
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
+    "com.belmoussaoui.ReadItLater",
     "com.github.artemanufrij.playmymusic",
     "com.github.muriloventuroso.easyssh",
     "com.github.robertsanseries.ciano",

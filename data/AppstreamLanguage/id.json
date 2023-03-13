@@ -6,6 +6,7 @@
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
+    "com.belmoussaoui.ReadItLater",
     "com.dropbox.Client",
     "com.endlessm.photos",
     "com.github.GradienceTeam.Gradience",

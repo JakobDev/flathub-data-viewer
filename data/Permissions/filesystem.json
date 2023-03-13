@@ -2725,10 +2725,12 @@
         "com.github.theCalcaholic.StreamDeck"
     ],
     "~/.themes:create": [
-        "com.github.themix_project.Oomox"
+        "com.github.themix_project.Oomox",
+        "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.icons:create": [
-        "com.github.themix_project.Oomox"
+        "com.github.themix_project.Oomox",
+        "io.github.vikdevelop.SaveDesktop"
     ],
     "xdg-download/VideoDownloader:create": [
         "com.github.unrud.VideoDownloader"
@@ -3118,22 +3120,16 @@
     "~/.config/marlin": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "~/.xfce4": [
+    "~/.xfce4:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.local/share/gnome-shell": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.icons": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.config/plank": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.config/budgie-extras": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.themes": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.config/Thunar": [
@@ -3151,7 +3147,7 @@
     "~/.config/xfce4": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "~/.cinnamon": [
+    "~/.cinnamon:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.config/dconf": [

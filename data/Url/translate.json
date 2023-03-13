@@ -20,6 +20,7 @@
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
+    "com.belmoussaoui.ReadItLater",
     "com.bladecoder.adventure-editor",
     "com.borgbase.Vorta",
     "com.cuperino.qprompt",

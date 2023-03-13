@@ -20,6 +20,7 @@
     "io.qt.Designer",
     "io.qt.Linguist",
     "io.qt.qdbusviewer",
+    "io.sourceforge.pentobi",
     "io.sourceforge.pysolfc.PySolFC",
     "it.mijorus.whisper",
     "me.iepure.devtoolbox",

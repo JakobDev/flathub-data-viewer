@@ -4,6 +4,7 @@
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
+    "com.belmoussaoui.ReadItLater",
     "com.endlessm.photos",
     "com.github.PintaProject.Pinta",
     "com.github.debauchee.barrier",

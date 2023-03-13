@@ -84,6 +84,7 @@
         "org.avidemux.Avidemux",
         "org.bionus.Grabber",
         "org.citra_emu.citra",
+        "org.cloudcompare.CloudCompare",
         "org.codeberg.dimkard.glossaico",
         "org.cubocore.CoreAction",
         "org.cubocore.CoreArchiver",
@@ -302,6 +303,7 @@
         "org.gottcode.Tanglet",
         "org.gottcode.Tetzle",
         "org.opentransactions.metier",
+        "org.profex_xrd.Profex",
         "org.rncbc.qpwgraph",
         "org.rncbc.qsynth",
         "org.rncbc.qtractor",
@@ -415,7 +417,6 @@
         "nz.mega.MEGAsync",
         "org.bitbucket.mystery_keeper.VapourSynthEditor",
         "org.clementine_player.Clementine",
-        "org.cloudcompare.CloudCompare",
         "org.contourterminal.Contour",
         "org.dash.electrum.electrum_dash",
         "org.easycoding.TunedSwitcher",
@@ -548,7 +549,6 @@
         "org.gottcode.Kapow",
         "org.jaspstats.JASP",
         "org.mattbas.Glaxnimate",
-        "org.profex_xrd.Profex",
         "uk.org.zint.zint-qt"
     ],
     "6.2": [
