@@ -251,6 +251,7 @@
     "moderate": [
         "com.github.needleandthread.vocal",
         "io.github.listen1.Listen1",
+        "io.github.troyeguo.koodo-reader",
         "org.unitystation.StationHub"
     ]
 }

@@ -104,6 +104,7 @@
         "com.github.theironrobin.siglo",
         "com.skype.Client",
         "edu.stanford.Almond",
+        "io.emeric.toolblex",
         "io.emeric.watchflower",
         "io.github.betaflight.BetaflightConfigurator",
         "io.github.wh201906.serialtest",

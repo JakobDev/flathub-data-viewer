@@ -5,7 +5,8 @@
         "console-application",
         "desktop",
         "generic",
-        "runtime"
+        "runtime",
+        "webapp"
     ],
     "dataNames": {}
 }

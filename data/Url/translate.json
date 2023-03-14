@@ -118,6 +118,7 @@
     "info.smplayer.SMPlayer",
     "io.crow_translate.CrowTranslate",
     "io.edcd.EDMarketConnector",
+    "io.emeric.toolblex",
     "io.emeric.watchflower",
     "io.freetubeapp.FreeTube",
     "io.github.Bollos00.LibreMines",
@@ -125,6 +126,7 @@
     "io.github.Pithos",
     "io.github.Qalculate.qalculate-qt",
     "io.github.Qalculate",
+    "io.github.aandrew_me.ytdn",
     "io.github.cboxdoerfer.FSearch",
     "io.github.celluloid_player.Celluloid",
     "io.github.dbchoco.Salawat",
@@ -156,6 +158,7 @@
     "io.github.seadve.Kooha",
     "io.github.seadve.Mousai",
     "io.github.spacingbat3.webcord",
+    "io.github.troyeguo.koodo-reader",
     "io.github.vikdevelop.SaveDesktop",
     "io.github.yairm210.unciv",
     "io.gitlab.Goodvibes",
@@ -170,7 +173,6 @@
     "io.sourceforge.pentobi",
     "jp.yvt.OpenSpades",
     "md.obsidian.Obsidian",
-    "me.aandrew.ytdownloader",
     "me.hergert.Schemes",
     "me.hyliu.fluentreader",
     "me.kozec.syncthingtk",
@@ -350,5 +352,6 @@
     "sh.ppy.osu",
     "tv.kodi.Kodi",
     "ua.org.brezblock.q4wine",
+    "xyz.armcord.ArmCord",
     "xyz.z3ntu.razergenie"
 ]

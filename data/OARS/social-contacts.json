@@ -277,6 +277,7 @@
         "org.syphon.Syphon",
         "org.telegram",
         "se.manyver.Manyverse",
+        "xyz.armcord.ArmCord",
         "xyz.diamondb.gtkcord4"
     ]
 }

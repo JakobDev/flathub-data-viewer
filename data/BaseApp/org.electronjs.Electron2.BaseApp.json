@@ -2,7 +2,6 @@
     "20.08": [
         "app.midterm.MidtermDesktop",
         "com.endlessm.HatchPreviewer",
-        "io.github.Figma_Linux.figma_linux",
         "io.github.liberodark.OpenDrive"
     ],
     "21.08": [
@@ -112,21 +111,24 @@
         "io.blockloader.BlockLoader",
         "io.exodus.Exodus",
         "io.gdevs.GDLauncher",
+        "io.github.Figma_Linux.figma_linux",
         "io.github.Fndroid.clash_for_windows",
+        "io.github.aandrew_me.ytdn",
         "io.github.betaflight.BetaflightConfigurator",
         "io.github.letslearn_app.letslearn",
         "io.github.listen1.Listen1",
         "io.github.lunarequest.NightPDF",
+        "io.github.mandruis7.xbox-cloud-gaming-electron",
         "io.github.mimbrero.WhatsAppDesktop",
         "io.github.qier222.YesPlayMusic",
         "io.github.shiftey.Desktop",
         "io.github.spacingbat3.webcord",
+        "io.github.troyeguo.koodo-reader",
         "io.kinvolk.Headlamp",
         "io.podman_desktop.PodmanDesktop",
         "io.typora.Typora",
         "io.webtorrent.WebTorrent",
         "md.obsidian.Obsidian",
-        "me.aandrew.ytdownloader",
         "me.acristoffers.Lachesis",
         "moe.karaokes.mugen",
         "net.agalwood.Motrix",
@@ -155,6 +157,7 @@
         "social.whalebird.WhalebirdDesktop",
         "tech.feliciano.pocket-casts",
         "us.zoom.Zoom",
+        "xyz.armcord.ArmCord",
         "xyz.hyperplay.HyperPlay"
     ]
 }

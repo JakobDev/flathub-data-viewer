@@ -58,5 +58,6 @@
     "org.telegram",
     "org.zulip.Zulip",
     "us.zoom.Zoom",
+    "xyz.armcord.ArmCord",
     "xyz.mx_moment.moment"
 ]

@@ -9,7 +9,6 @@
         "net.retrodeck.retrodeck",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.xm1math.Texmaker",
-        "org.kde.falkon",
         "org.kde.kgeotag",
         "org.kde.kontact"
     ],
@@ -24,6 +23,7 @@
         "org.kde.angelfish",
         "org.kde.cantor",
         "org.kde.digikam",
+        "org.kde.falkon",
         "org.kde.kalgebra",
         "org.kde.kdevelop",
         "org.kde.kphotoalbum",

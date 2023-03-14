@@ -221,6 +221,7 @@
     "org.telesculptor.TeleSculptor",
     "org.thentrythis.Samplebrain",
     "org.tordini.flavio.Minitube",
+    "org.tvbrowser.TVBrowser",
     "org.videolan.VLC",
     "org.zrythm.Zrythm",
     "ru.sview.sView",
@@ -232,6 +233,7 @@
     "tv.plex.PlexDesktop",
     "tv.plex.PlexHTPC",
     "vn.hoabinh.quan.CoBang",
+    "xyz.armcord.ArmCord",
     "xyz.safeworlds.midiconn",
     "org.videolan.VLC.Plugin.pause_click"
 ]

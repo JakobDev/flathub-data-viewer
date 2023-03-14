@@ -2,6 +2,7 @@
     "description": "Shows all Apps with the given ProjectGroup",
     "data": [
         "ALPINE",
+        "ArmCord",
         "Betterbird",
         "Briar",
         "Carlo{SPACE}Caione",

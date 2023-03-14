@@ -284,6 +284,7 @@
         "io.github.NhekoReborn.Nheko",
         "io.github.OpenToonz",
         "io.github.Qalculate.qalculate-qt",
+        "io.github.aandrew_me.ytdn",
         "io.github.antimicrox.antimicrox",
         "io.github.bothlab.pomidaq",
         "io.github.bothlab.syntalos",
@@ -315,6 +316,7 @@
         "io.github.maurycyliebner.enve",
         "io.github.muse_sequencer.Muse",
         "io.github.narunlifescience.AlphaPlot",
+        "io.github.nuttyartist.notes",
         "io.github.obiwankennedy.HotShots",
         "io.github.parnassius.SysDVR-Qt",
         "io.github.peazip.PeaZip",
@@ -364,7 +366,6 @@
         "io.trustable.stpadocumentationtool",
         "io.typora.Typora",
         "it.cuteworks.pacmanlogviewer",
-        "me.aandrew.ytdownloader",
         "me.ahola.aphototoollibre",
         "me.mitya57.ReText",
         "moe.karaokes.mugen",
@@ -1633,6 +1634,7 @@
         "io.github.martinrotter.rssguard",
         "io.github.martinrotter.rssguardlite",
         "io.github.mimbrero.WhatsAppDesktop",
+        "io.github.nuttyartist.notes",
         "io.github.peazip.PeaZip",
         "io.github.purplehorrorrus.Meridius",
         "io.github.qier222.YesPlayMusic",
@@ -1871,6 +1873,7 @@
         "io.github.Hexchat",
         "io.github.Icalingua.Icalingua",
         "io.github.NhekoReborn.Nheko",
+        "io.github.aandrew_me.ytdn",
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.ciromattia.kcc",
         "io.github.hrkfdn.ncspot",
@@ -1899,7 +1902,6 @@
         "io.stoplight.studio",
         "io.wavebox.Wavebox",
         "io.webtorrent.WebTorrent",
-        "me.aandrew.ytdownloader",
         "me.hyliu.fluentreader",
         "moe.karaokes.mugen",
         "moe.tundra.Tundra",
@@ -2010,6 +2012,7 @@
         "tw.ddnet.ddnet",
         "ua.org.brezblock.q4wine",
         "work.openpaper.Paperwork",
+        "xyz.armcord.ArmCord",
         "xyz.diamondb.gtkcord4",
         "xyz.hyperplay.HyperPlay",
         "xyz.mx_moment.moment"
@@ -3003,6 +3006,9 @@
     ],
     "org.x.statusiconmonitor.*": [
         "org.x.Warpinator"
+    ],
+    "org.kde.statusnotifieritem-3-1": [
+        "xyz.armcord.ArmCord"
     ],
     "org.razer": [
         "xyz.z3ntu.razergenie"

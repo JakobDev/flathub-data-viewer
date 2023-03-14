@@ -22,6 +22,7 @@
     "info.beyondallreason.bar",
     "io.github.letslearn_app.letslearn",
     "io.github.listen1.Listen1",
+    "io.github.mandruis7.xbox-cloud-gaming-electron",
     "io.github.martinrotter.rssguard",
     "io.github.martinrotter.rssguardlite",
     "io.github.mrmyhuang.cbetar2",
@@ -37,6 +38,5 @@
     "org.sil.Bloom",
     "org.zulip.Zulip",
     "sh.xaviers.Opentapes",
-    "social.whalebird.WhalebirdDesktop",
     "com.sublimetext.three.DevUtils"
 ]

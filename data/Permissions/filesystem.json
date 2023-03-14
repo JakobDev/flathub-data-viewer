@@ -178,6 +178,7 @@
         "io.github.Cockatrice.cockatrice",
         "io.github.JaGoLi.ytdl_gui",
         "io.github.RodZill4.Material-Maker",
+        "io.github.aandrew_me.ytdn",
         "io.github.am2r_community_developers.Atomic",
         "io.github.antimicrox.antimicrox",
         "io.github.benini.scid",
@@ -228,7 +229,6 @@
         "io.sourceforge.Pixelitor",
         "io.sourceforge.chart_geany.chart-geany",
         "md.obsidian.Obsidian",
-        "me.aandrew.ytdownloader",
         "me.ahola.aphototoollibre",
         "me.mitya57.ReText",
         "me.simakis.dropboxignore",
@@ -273,6 +273,7 @@
         "org.aliflang.lang",
         "org.ardour.Ardour",
         "org.bleachbit.BleachBit",
+        "org.buhocms.BuhoCMS",
         "org.bzdev.CVRDecode",
         "org.chromium.Chromium",
         "org.claws_mail.Claws-Mail",
@@ -564,6 +565,7 @@
         "io.github.maurycyliebner.enve",
         "io.github.muse_sequencer.Muse",
         "io.github.narunlifescience.AlphaPlot",
+        "io.github.nuttyartist.notes",
         "io.github.obiwankennedy.HotShots",
         "io.github.parnassius.SysDVR-Qt",
         "io.github.peazip.PeaZip",
@@ -1123,7 +1125,8 @@
         "org.zulip.Zulip",
         "pl.art.lach.slawek.V2BlankBrowser",
         "sh.ppy.osu",
-        "ua.org.brezblock.q4wine"
+        "ua.org.brezblock.q4wine",
+        "xyz.armcord.ArmCord"
     ],
     "xdg-documents": [
         "app.gummi.gummi",
@@ -1432,6 +1435,7 @@
         "com.valvesoftware.Steam",
         "dev.hdos.HDOS",
         "io.github.hmlendea.geforcenow-electron",
+        "io.github.mandruis7.xbox-cloud-gaming-electron",
         "io.github.randovania.Randovania",
         "io.github.shiiion.primehack",
         "io.github.simple64.simple64",
@@ -1644,6 +1648,7 @@
         "im.srain.Srain",
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.fabiangreffrath.Doom",
+        "io.github.troyeguo.koodo-reader",
         "net.rpcs3.RPCS3",
         "org.cubocore.CoreHunt",
         "org.ferdium.Ferdium",
@@ -1836,6 +1841,7 @@
         "io.github.OpenToonz",
         "io.github.Rangi42.polished-map-plusplus",
         "io.github.Rangi42.polished-map",
+        "io.github.Rangi42.tilemap-studio",
         "io.github.achetagames.epic_asset_manager",
         "io.github.bothlab.syntalos",
         "io.github.brunoherbelin.Vimix",
@@ -2175,7 +2181,8 @@
         "de.shorsh.discord-screenaudio",
         "gg.guilded.Guilded",
         "org.gnunet.Messenger",
-        "sh.ppy.osu"
+        "sh.ppy.osu",
+        "xyz.armcord.ArmCord"
     ],
     "xdg-videos:ro": [
         "chat.revolt.RevoltDesktop",
@@ -2190,7 +2197,8 @@
         "de.shorsh.discord-screenaudio",
         "gg.guilded.Guilded",
         "org.gnunet.Messenger",
-        "sh.ppy.osu"
+        "sh.ppy.osu",
+        "xyz.armcord.ArmCord"
     ],
     "xdg-run/gvfs": [
         "com.abisource.AbiWord",
@@ -2438,6 +2446,7 @@
         "com.github.theCalcaholic.StreamDeck",
         "com.heroicgameslauncher.hgl",
         "io.github.philipk.boilr",
+        "io.github.tralph3.Steam_Metadata_Editor",
         "space.crankshaft.Crankshaft",
         "xyz.hyperplay.HyperPlay"
     ],
@@ -2716,6 +2725,7 @@
         "com.heroicgameslauncher.hgl",
         "com.napster.napster-bigscreen-electron",
         "io.github.betaflight.BetaflightConfigurator",
+        "io.github.mandruis7.xbox-cloud-gaming-electron",
         "io.github.punesemu.puNES",
         "one.flipperzero.qFlipper",
         "org.expresslrs.ExpressLRSConfigurator",
@@ -3098,6 +3108,9 @@
     ],
     "/opt:ro": [
         "io.github.shiftey.Desktop"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/.local/share/Steam": [
+        "io.github.tralph3.Steam_Metadata_Editor"
     ],
     "~/Nextcloud/Notes": [
         "io.github.vegad.vnotes"
