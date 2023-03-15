@@ -3,5 +3,6 @@
     "com.github.muriloventuroso.easyssh",
     "com.github.ztefn.haguichi",
     "io.gitlab.librewolf-community",
-    "org.gnome.Polari"
+    "org.gnome.Polari",
+    "org.mozilla.firefox"
 ]

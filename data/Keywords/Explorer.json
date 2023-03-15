@@ -1,5 +1,6 @@
 [
     "io.gitlab.librewolf-community",
     "org.contourterminal.Contour",
-    "org.kde.dolphin"
+    "org.kde.dolphin",
+    "org.mozilla.firefox"
 ]

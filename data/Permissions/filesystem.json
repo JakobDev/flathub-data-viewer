@@ -204,6 +204,7 @@
         "io.github.mightycreak.Diffuse",
         "io.github.mrmyhuang.cbetar2",
         "io.github.muse_sequencer.Muse",
+        "io.github.myst6re.makoureactor",
         "io.github.narunlifescience.AlphaPlot",
         "io.github.noxworld_dev.OpenNox",
         "io.github.nroduit.Weasis",
@@ -564,6 +565,7 @@
         "io.github.martinrotter.textosaurus",
         "io.github.maurycyliebner.enve",
         "io.github.muse_sequencer.Muse",
+        "io.github.myst6re.makoureactor",
         "io.github.narunlifescience.AlphaPlot",
         "io.github.nuttyartist.notes",
         "io.github.obiwankennedy.HotShots",
@@ -924,6 +926,7 @@
         "org.stellarium.Stellarium",
         "org.strawberrymusicplayer.strawberry",
         "org.subsurface_divelog.Subsurface",
+        "org.subtitld.Subtitld",
         "org.telesculptor.TeleSculptor",
         "org.texstudio.TeXstudio",
         "org.thentrythis.Samplebrain",
@@ -1117,6 +1120,7 @@
         "org.signal.Signal",
         "org.soundconverter.SoundConverter",
         "org.standardnotes.standardnotes",
+        "org.subtitld.Subtitld",
         "org.syphon.Syphon",
         "org.tuxfamily.hatari",
         "org.twinery.Twine",
@@ -1289,6 +1293,7 @@
         "org.signal.Signal",
         "org.soundconverter.SoundConverter",
         "org.strawberrymusicplayer.strawberry",
+        "org.subtitld.Subtitld",
         "org.zotero.Zotero",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
@@ -2099,6 +2104,7 @@
         "org.kde.kphotoalbum",
         "org.qutebrowser.qutebrowser",
         "org.signal.Signal",
+        "org.subtitld.Subtitld",
         "org.zotero.Zotero",
         "org.zulip.Zulip",
         "tv.kodi.Kodi",
@@ -3290,6 +3296,9 @@
     ],
     "xdg-config/easydict:create": [
         "one.jiri.easydict-gtk"
+    ],
+    "~/2006Scape:create": [
+        "org._2006Scape.Launcher"
     ],
     "xdg-data/2009scape": [
         "org._2009scape.Launcher"

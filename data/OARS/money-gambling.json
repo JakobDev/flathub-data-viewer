@@ -2,8 +2,10 @@
     "moderate": [
         "app.drey.Damask",
         "dev.hdos.HDOS",
+        "io.github.vinegarhq.Vinegar",
         "net.brinkervii.grapejuice",
         "net.runelite.RuneLite",
+        "org._2006Scape.Launcher",
         "org._2009scape.Launcher",
         "vet.rsc.OpenRSC.Launcher"
     ],

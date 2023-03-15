@@ -13,6 +13,7 @@
     ],
     "intense": [
         "io.github.fin_ger.OvGUCanteen",
+        "io.github.vinegarhq.Vinegar",
         "net.brinkervii.grapejuice"
     ],
     "none": [

@@ -1,6 +1,7 @@
 [
     "dev.hdos.HDOS",
     "net.runelite.RuneLite",
+    "org._2006Scape.Launcher",
     "org._2009scape.Launcher",
     "vet.rsc.OpenRSC.Launcher"
 ]

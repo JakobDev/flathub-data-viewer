@@ -9,8 +9,7 @@
         "net.retrodeck.retrodeck",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.xm1math.Texmaker",
-        "org.kde.kgeotag",
-        "org.kde.kontact"
+        "org.kde.kgeotag"
     ],
     "5.15-22.08": [
         "com.github.iwalton3.jellyfin-media-player",
@@ -26,6 +25,7 @@
         "org.kde.falkon",
         "org.kde.kalgebra",
         "org.kde.kdevelop",
+        "org.kde.kontact",
         "org.kde.kphotoalbum",
         "org.kde.labplot2",
         "org.kde.marble",

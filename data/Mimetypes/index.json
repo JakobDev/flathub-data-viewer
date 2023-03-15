@@ -1760,6 +1760,7 @@
         "x-scheme-handler{SLASH}wc",
         "x-scheme-handler{SLASH}weasis",
         "x-scheme-handler{SLASH}webcal",
+        "x-scheme-handler{SLASH}wemeet",
         "x-scheme-handler{SLASH}whatsapp",
         "x-scheme-handler{SLASH}wire",
         "x-scheme-handler{SLASH}workspaces",
