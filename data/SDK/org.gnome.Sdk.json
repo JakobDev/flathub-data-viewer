@@ -223,6 +223,7 @@
         "org.flozz.calcleaner",
         "org.freedesktop.GstDebugViewer",
         "org.freedesktop.Piper",
+        "org.freedesktop.adriconf",
         "org.freedesktop.dabrain34.GstPipelineStudio",
         "org.freedesktop.fwupd",
         "org.freefilesync.FreeFileSync",

@@ -14,6 +14,7 @@
     "cc.retroshare.retroshare-gui",
     "ch.protonmail.protonmail-import-export-app",
     "ch.x29a.playitslowly",
+    "chat.tandem.Client",
     "co.luoja.Telyn",
     "codes.nora.gDiceRoller",
     "com.abagames.noiz2sa",
@@ -52,6 +53,7 @@
     "com.endlessnetwork.passage",
     "com.endlessnetwork.tankwarriors",
     "com.endlessnetwork.whitehouse",
+    "com.enjoyingfoss.Parlera",
     "com.frac_tion.teleport",
     "com.frogatto.Frogatto",
     "com.gigitux.youp",
@@ -253,7 +255,6 @@
     "de.peterge.combined",
     "de.rwth_aachen.ient.RDPlot",
     "de.rwth_aachen.ient.YUView",
-    "de.syping.gta5view",
     "de.unifreiburg.ellipticcurve",
     "de.wwwtech.ColorMate",
     "dev.atoft.Reactions",
@@ -617,7 +618,6 @@
     "org.solarus_games.solarus.Launcher",
     "org.soundconverter.SoundConverter",
     "org.sparkleshare.SparkleShare",
-    "org.speed_dreams.SpeedDreams",
     "org.speedcrunch.SpeedCrunch",
     "org.sqlitebrowser.sqlitebrowser",
     "org.squeakland.Etoys",
@@ -826,6 +826,5 @@
     "org.gtk.Gtk3theme.Yaru-remix-dark",
     "org.gtk.Gtk3theme.Yaru-remix-light",
     "org.gtk.Gtk3theme.Yaru-remix",
-    "org.videolan.VLC.Plugin.makemkv",
     "org.videolan.VLC.Plugin.pause_click"
 ]

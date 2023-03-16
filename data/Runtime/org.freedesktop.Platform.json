@@ -685,7 +685,6 @@
         "org.freac.freac",
         "org.freeciv.gtk322",
         "org.freedesktop.Bustle",
-        "org.freedesktop.adriconf",
         "org.freedesktop.appstream-glib",
         "org.freedesktop.appstream.cli",
         "org.freeorion.FreeOrion",
