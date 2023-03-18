@@ -342,7 +342,6 @@
         "org.mypaint.MyPaint",
         "org.nickvision.money",
         "org.nickvision.tagger",
-        "org.nickvision.tubeconverter",
         "org.nmap.Zenmap",
         "org.nomacs.ImageLounge",
         "org.openchemistry.Avogadro2",
@@ -1112,6 +1111,7 @@
         "org.mozilla.firefox",
         "org.nanuc.Axolotl",
         "org.netsurf_browser.NetSurf",
+        "org.nickvision.tubeconverter",
         "org.openstreetmap.josm",
         "org.phoenicis.playonlinux",
         "org.qutebrowser.qutebrowser",
@@ -1289,6 +1289,7 @@
         "org.mixxx.Mixxx",
         "org.mpdevil.mpdevil",
         "org.musicbrainz.Picard",
+        "org.nickvision.tubeconverter",
         "org.qutebrowser.qutebrowser",
         "org.signal.Signal",
         "org.soundconverter.SoundConverter",
@@ -2153,6 +2154,7 @@
         "org.gnome.frogr",
         "org.gnome.gitlab.YaLTeR.VideoTrimmer",
         "org.kde.kamoso",
+        "org.nickvision.tubeconverter",
         "org.qutebrowser.qutebrowser",
         "org.signal.Signal",
         "org.sigxcpu.Livi",
@@ -3142,7 +3144,7 @@
     "~/.xfce4:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "~/.local/share/gnome-shell": [
+    "~/.local/share/gnome-shell:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.config/plank": [
@@ -3157,7 +3159,7 @@
     "~/.config/pop-shell": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "~/.local/share/gnome-background-properties": [
+    "~/.local/share/gnome-background-properties:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.local/share/cinnamon": [
