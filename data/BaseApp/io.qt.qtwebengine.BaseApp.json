@@ -2,7 +2,6 @@
     "5.15-21.08": [
         "ch.theologeek.Manuskript",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
-        "com.nextcloud.desktopclient.nextcloud",
         "com.stremio.Stremio",
         "io.github.wereturtle.ghostwriter",
         "net.mediaarea.MediaConch",
@@ -14,6 +13,7 @@
     "5.15-22.08": [
         "com.github.iwalton3.jellyfin-media-player",
         "com.ktechpit.whatsie",
+        "com.nextcloud.desktopclient.nextcloud",
         "de.shorsh.discord-screenaudio",
         "io.sourceforge.chart_geany.chart-geany",
         "net.sonic_pi.SonicPi",
