@@ -3177,7 +3177,7 @@
     "~/.config/budgie-desktop": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "~/.local/share/backgrounds": [
+    "~/.local/share/backgrounds:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "host-etc:ro": [
