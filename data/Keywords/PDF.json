@@ -1,5 +1,6 @@
 [
     "com.github.muriloventuroso.pdftricks",
+    "io.github.diegoivan.pdf_metadata_editor",
     "org.msweet.htmldoc",
     "org.tug.texworks"
 ]
