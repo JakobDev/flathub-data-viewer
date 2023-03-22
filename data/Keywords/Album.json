@@ -1,4 +1,5 @@
 [
     "com.github.rafostar.Clapper",
-    "io.github.celluloid_player.Celluloid"
+    "io.github.celluloid_player.Celluloid",
+    "io.github.swanux.hbud"
 ]

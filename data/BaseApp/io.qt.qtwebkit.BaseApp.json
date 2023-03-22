@@ -6,6 +6,7 @@
         "org.goldendict.GoldenDict",
         "org.kde.umbrello",
         "org.openshot.OpenShot",
+        "org.qgis.qgis",
         "org.subsurface_divelog.Subsurface"
     ],
     "5.15": [
@@ -21,7 +22,6 @@
         "io.github.cloose.CuteMarkEd",
         "org.fcitx.Fcitx5",
         "org.kde.skrooge",
-        "org.qgis.qgis",
         "org.zealdocs.Zeal"
     ]
 }

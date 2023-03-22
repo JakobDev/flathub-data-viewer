@@ -246,6 +246,9 @@
     "org.gnome.upnp.mediaserver2.quodlibet": [
         "io.github.quodlibet.QuodLibet"
     ],
+    "org.mpris.mediaplayer2.hbud": [
+        "io.github.swanux.hbud"
+    ],
     "org.mpris.mediaplayer2.goodvibes": [
         "io.gitlab.Goodvibes"
     ],

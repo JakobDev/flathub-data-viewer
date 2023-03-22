@@ -1265,7 +1265,6 @@
         "io.github.listen1.Listen1",
         "io.github.pragha_music_player.pragha",
         "io.github.qtox.qTox",
-        "io.github.swanux.hbud",
         "io.sourceforge.qoobar.Qoobar",
         "io.wavebox.Wavebox",
         "net.blockbench.Blockbench",
@@ -1394,7 +1393,6 @@
         "io.github.cmus.cmus",
         "io.github.neil_morrison44.pocket-sync",
         "io.github.nroduit.Weasis",
-        "io.github.swanux.hbud",
         "io.github.zaps166.QMPlay2",
         "md.obsidian.Obsidian",
         "net.fasterland.converseen",
@@ -1595,7 +1593,6 @@
         "io.github.celluloid_player.Celluloid",
         "io.github.manisandro.gImageReader",
         "io.github.mpobaschnig.Vaults",
-        "io.github.swanux.hbud",
         "io.gitlab.jstest_gtk.jstest_gtk",
         "net.giuspen.cherrytree",
         "net.sourceforge.efaxgtk",
@@ -2140,7 +2137,6 @@
         "io.github.qnapi",
         "io.github.qtox.qTox",
         "io.github.seadve.Kooha",
-        "io.github.swanux.hbud",
         "io.github.webcamoid.Webcamoid",
         "io.mpv.Mpv",
         "io.otsaloma.gaupol",
@@ -2237,7 +2233,6 @@
         "io.github.celluloid_player.Celluloid",
         "io.github.lruzicka.Needly",
         "io.github.pragha_music_player.pragha",
-        "io.github.swanux.hbud",
         "ml.prevete.Daty",
         "net.danigm.timetrack",
         "net.giuspen.cherrytree",
@@ -3131,6 +3126,9 @@
     "~/.local/share/icons": [
         "io.github.vikdevelop.SaveDesktop"
     ],
+    "~/.local/share/backgrounds:create": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
     "~/.config/nemo": [
         "io.github.vikdevelop.SaveDesktop"
     ],
@@ -3140,10 +3138,13 @@
     "~/.config/gnome-control-center": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "xdg-download/SaveDesktop:create": [
+    "~/.config/gtk-3.0": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.config/marlin": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.local/share/nautilus-python": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.xfce4:create": [
@@ -3170,10 +3171,16 @@
     "~/.local/share/cinnamon": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "~/.config/xfce4": [
+    "~/.cinnamon:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "~/.cinnamon:create": [
+    "~/.fonts:create": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.config/gtk-4.0": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.config/xfce4": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.config/dconf": [
@@ -3182,7 +3189,7 @@
     "~/.config/budgie-desktop": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "~/.local/share/backgrounds:create": [
+    "xdg-download/SaveDesktop:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "host-etc:ro": [
