@@ -2,6 +2,7 @@
     "com.github.unrud.djpdf",
     "eu.betterbird.Betterbird",
     "org.cloudcompare.CloudCompare",
+    "org.gnome.Builder",
     "org.hedgewars.Hedgewars",
     "org.kde.umbrello",
     "org.mozilla.Thunderbird"

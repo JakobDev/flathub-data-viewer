@@ -7,8 +7,10 @@
     ],
     "43": [
         "com.github.themix_project.Oomox",
-        "org.gnome.Builder",
         "org.gnome.Devhelp",
         "re.sonny.Workbench"
+    ],
+    "44": [
+        "org.gnome.Builder"
     ]
 }

@@ -381,6 +381,7 @@
         "org.zrythm.Zrythm",
         "pro.vpup.vpuppr",
         "re.rizin.cutter",
+        "re.sonny.Commit",
         "sa.sy.bluerecorder",
         "se.sjoerd.GIScan",
         "studio.kx.carla",
@@ -1166,6 +1167,7 @@
         "com.heroicgameslauncher.hgl",
         "com.icons8.Lunacy",
         "com.ktechpit.whatsie",
+        "com.lakoliu.Furtherance",
         "com.microsoft.Edge",
         "com.milesalan.mepo",
         "com.quixel.Bridge",
@@ -2671,6 +2673,9 @@
         "com.github.marhkb.Pods"
     ],
     "/var/home": [
+        "com.github.mtkennerly.ludusavi"
+    ],
+    "~/.var/app/com.heroicgameslauncher.hgl": [
         "com.github.mtkennerly.ludusavi"
     ],
     "xdg-data/vocal:create": [

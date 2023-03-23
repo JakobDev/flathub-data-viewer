@@ -1,12 +1,9 @@
 [
-    "org.gnome.Builder",
+    "org.gnome.Calculator",
     "org.gnome.Calendar",
-    "org.gnome.Calls",
     "org.gnome.Characters",
     "org.gnome.Cheese",
     "org.gnome.Chess",
-    "org.gnome.Connections",
-    "org.gnome.Contacts",
     "org.gnome.Epiphany",
     "org.gnome.Evolution",
     "org.gnome.Logs",
@@ -14,5 +11,6 @@
     "org.gnome.Photos",
     "org.gnome.SwellFoop",
     "org.gnome.Weather",
+    "org.gnome.clocks",
     "org.gnome.eog"
 ]

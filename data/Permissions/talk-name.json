@@ -90,7 +90,6 @@
         "org.darktable.Darktable",
         "org.firestormviewer.FirestormViewer",
         "org.gajim.Gajim",
-        "org.gnome.Boxes",
         "org.gnome.Builder",
         "org.gnome.DejaDup",
         "org.gnome.Eolie",
@@ -98,7 +97,6 @@
         "org.gnome.Fractal",
         "org.gnome.Geary",
         "org.gnome.Lollypop",
-        "org.gnome.Maps",
         "org.gnome.Polari",
         "org.gnome.Shotwell",
         "org.gnome.gThumb",
@@ -2565,7 +2563,6 @@
     "org.gnome.evolution.dataserver.calendar8": [
         "com.github.alainm23.planner",
         "org.gnome.Calendar",
-        "org.gnome.Maps",
         "org.gnome.Notes",
         "org.gnome.Todo"
     ],
@@ -2574,7 +2571,6 @@
         "org.gnome.Calendar",
         "org.gnome.Calls",
         "org.gnome.Contacts",
-        "org.gnome.Maps",
         "org.gnome.Notes",
         "org.gnome.Todo",
         "org.tabos.roger"
@@ -2876,6 +2872,11 @@
         "org.gnome.Music",
         "org.gnome.Photos"
     ],
+    "org.gnome.settings": [
+        "org.gnome.Boxes",
+        "org.gnome.Calendar",
+        "org.gnome.Contacts"
+    ],
     "org.freedesktop.packagekit": [
         "org.gnome.Builder"
     ],
@@ -2883,14 +2884,9 @@
         "org.gnome.Calendar",
         "org.gnome.Calls",
         "org.gnome.Contacts",
-        "org.gnome.Maps",
         "org.gnome.Notes",
         "org.gnome.Todo",
         "org.tabos.roger"
-    ],
-    "org.gnome.settings": [
-        "org.gnome.Calendar",
-        "org.gnome.Contacts"
     ],
     "org.gnome.evolution.dataserver.addressbook9": [
         "org.gnome.Calendar",
@@ -2900,7 +2896,6 @@
     "org.gnome.evolution.dataserver.addressbook10": [
         "org.gnome.Calls",
         "org.gnome.Contacts",
-        "org.gnome.Maps",
         "org.gnome.Notes"
     ],
     "im.pidgin.purple.purpleservice": [

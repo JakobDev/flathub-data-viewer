@@ -169,5 +169,6 @@
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator",
     "org.xfce.mousepad",
-    "org.xfce.ristretto"
+    "org.xfce.ristretto",
+    "re.sonny.Commit"
 ]

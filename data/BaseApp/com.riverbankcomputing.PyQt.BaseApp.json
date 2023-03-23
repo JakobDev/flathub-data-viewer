@@ -1,10 +1,6 @@
 {
-    "5.15-21.08": [
-        "com.borgbase.Vorta",
-        "org.frescobaldi.Frescobaldi",
-        "org.qutebrowser.qutebrowser"
-    ],
     "5.15-22.08": [
+        "com.borgbase.Vorta",
         "com.github.git_cola.git-cola",
         "com.github.micahflee.torbrowser-launcher",
         "com.sigil_ebook.Sigil",
@@ -38,5 +34,9 @@
         "me.mitya57.ReText",
         "org.beeref.BeeRef",
         "org.subtitld.Subtitld"
+    ],
+    "5.15-21.08": [
+        "org.frescobaldi.Frescobaldi",
+        "org.qutebrowser.qutebrowser"
     ]
 }
