@@ -2517,7 +2517,6 @@
     "com.canonical.unity.launcherentry": [
         "com.discordapp.Discord",
         "com.github.gabutakut.gabutdm",
-        "com.notesnook.Notesnook",
         "com.ozmartians.VidCutter",
         "de.manuel_kehl.go-for-it",
         "gg.guilded.Guilded",
@@ -2722,6 +2721,15 @@
     "org.freedesktop.portal.trash": [
         "com.neatdecisions.Detwinner"
     ],
+    "org.freedesktop.statusnotifierwatcher": [
+        "com.notesnook.Notesnook",
+        "net.hovancik.Stretchly"
+    ],
+    "org.freedesktop.statusnotifieritem": [
+        "com.notesnook.Notesnook",
+        "io.github.NhekoReborn.Nheko",
+        "net.hovancik.Stretchly"
+    ],
     "org.a11y.bus": [
         "com.obsproject.Studio",
         "com.vicr123.thebeat",
@@ -2786,10 +2794,6 @@
         "org.gnome.Calendar",
         "org.gnome.Reversi"
     ],
-    "org.freedesktop.statusnotifieritem": [
-        "io.github.NhekoReborn.Nheko",
-        "net.hovancik.Stretchly"
-    ],
     "org.kde.*": [
         "io.github.NhekoReborn.Nheko"
     ],
@@ -2845,9 +2849,6 @@
     ],
     "org.gnome.settingsdaemon.power": [
         "net.displaycal.DisplayCAL"
-    ],
-    "org.freedesktop.statusnotifierwatcher": [
-        "net.hovancik.Stretchly"
     ],
     "org.freedesktop.login1.manager": [
         "net.retrodeck.retrodeck",
