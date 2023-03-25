@@ -31,6 +31,7 @@
     "org.bionus.Grabber",
     "org.citra_emu.citra",
     "org.expresslrs.ExpressLRSConfigurator",
+    "org.gnome.DejaDup",
     "org.gnunet.Messenger",
     "org.inkscape.Inkscape",
     "org.kde.okteta",

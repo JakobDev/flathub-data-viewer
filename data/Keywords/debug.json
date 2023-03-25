@@ -1,6 +1,5 @@
 [
     "org.freedesktop.Bustle",
     "org.gnome.GHex",
-    "org.gnome.Logs",
-    "org.gnome.dfeet"
+    "org.gnome.Logs"
 ]

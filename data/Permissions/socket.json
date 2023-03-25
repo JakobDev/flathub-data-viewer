@@ -1499,7 +1499,6 @@
         "org.gnome.design.SymbolicPreview",
         "org.gnome.design.Typography",
         "org.gnome.design.VectorSlicer",
-        "org.gnome.dfeet",
         "org.gnome.dspy",
         "org.gnome.eog",
         "org.gnome.five-or-more",
@@ -2995,7 +2994,6 @@
         "org.gnome.design.SymbolicPreview",
         "org.gnome.design.Typography",
         "org.gnome.design.VectorSlicer",
-        "org.gnome.dfeet",
         "org.gnome.dspy",
         "org.gnome.eog",
         "org.gnome.five-or-more",
@@ -3511,6 +3509,7 @@
         "com.github.johnfactotum.QuickLookup",
         "com.github.joseexposito.touche",
         "com.github.jpakkane.glyphtracer",
+        "com.github.junrrein.PDFSlicer",
         "com.github.juzzlin.DustRacing2D",
         "com.github.k4zmu2a.spacecadetpinball",
         "com.github.kalibari.audok",
@@ -4118,7 +4117,6 @@
         "org.gnome.design.SymbolicPreview",
         "org.gnome.design.Typography",
         "org.gnome.design.VectorSlicer",
-        "org.gnome.dfeet",
         "org.gnome.dspy",
         "org.gnome.eog",
         "org.gnome.five-or-more",
@@ -4132,6 +4130,7 @@
         "org.gnome.gitlab.cheywood.Iotas",
         "org.gnome.gitlab.johannesjh.favagtk",
         "org.gnome.gitlab.somas.Apostrophe",
+        "org.gnome.meld",
         "org.gnome.moserial",
         "org.gnome.seahorse.Application",
         "org.gnu.pspp",
@@ -5460,7 +5459,6 @@
         "org.fcitx.Fcitx5",
         "org.freedesktop.Bustle",
         "org.gnome.Builder",
-        "org.gnome.dfeet",
         "org.gnome.dspy",
         "org.xfce.ristretto",
         "re.sonny.Workbench"
@@ -5473,7 +5471,6 @@
         "org.freedesktop.Bustle",
         "org.gabmus.whatip",
         "org.gnome.Builder",
-        "org.gnome.dfeet",
         "org.gnome.dspy"
     ]
 }

@@ -324,8 +324,7 @@
         "org.squeakland.Etoys",
         "org.tuxfamily.XMoto",
         "radio.k0swe.Kel_Agent",
-        "si.tano.Vremenar",
-        "uk.me.doof.Lander"
+        "si.tano.Vremenar"
     ],
     "22.08": [
         "app.vup.Vup",
@@ -784,6 +783,7 @@
         "uk.co._69_studios.kublit",
         "uk.co.parallelrealities.games.edgar",
         "uk.co.powdertoy.tpt",
+        "uk.me.doof.Lander",
         "us.zoom.Zoom",
         "vet.rsc.OpenRSC.Launcher",
         "ws.openarena.OpenArena",

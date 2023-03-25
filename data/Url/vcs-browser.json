@@ -57,6 +57,7 @@
     "org.freedesktop.appstream.cli",
     "org.getoutline.OutlineClient",
     "org.getoutline.OutlineManager",
+    "org.gnome.DejaDup",
     "org.gnome.SimpleScan",
     "org.gnunet.Messenger",
     "org.horizon_eda.HorizonEDA",

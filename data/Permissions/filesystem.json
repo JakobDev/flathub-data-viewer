@@ -309,6 +309,7 @@
         "org.gnome.design.BannerViewer",
         "org.gnome.design.SymbolicPreview",
         "org.gnome.glabels-3",
+        "org.gnu.pspp",
         "org.gottcode.FocusWriter",
         "org.gpodder.gpodder",
         "org.gramps_project.Gramps",
@@ -2642,6 +2643,7 @@
     "~/.config": [
         "com.github.joseexposito.touche",
         "io.github.am2r_community_developers.AM2RLauncher",
+        "io.github.vikdevelop.SaveDesktop",
         "life.bolls.bolls",
         "net.davidotek.pupgui2"
     ],
@@ -3128,73 +3130,19 @@
     "~/Nextcloud/Notes": [
         "io.github.vegad.vnotes"
     ],
-    "~/.local/share/icons": [
+    "xdg-download/SaveDesktop:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "~/.local/share/backgrounds:create": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.config/nemo": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.config/caja": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.config/gnome-control-center": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.config/gtk-3.0": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.config/marlin": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.local/share/nautilus-python": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.xfce4:create": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.local/share/gnome-shell:create": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.config/plank": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.config/budgie-extras": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.config/Thunar": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.config/pop-shell": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.local/share/gnome-background-properties:create": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.local/share/cinnamon": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.cinnamon:create": [
+    "~/.local/share": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.fonts:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "~/.config/gtk-4.0": [
+    "~/.cinnamon:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "~/.config/xfce4": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.config/dconf": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.config/budgie-desktop": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "xdg-download/SaveDesktop:create": [
+    "~/.xfce4:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "host-etc:ro": [
@@ -3476,9 +3424,6 @@
     ],
     "xdg-run/pika-backup:create": [
         "org.gnome.World.PikaBackup"
-    ],
-    "xdg-cache": [
-        "org.gnome.gThumb"
     ],
     "~/.ssh:create": [
         "org.gnome.seahorse.Application"

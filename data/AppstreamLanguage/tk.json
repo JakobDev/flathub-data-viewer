@@ -1,5 +1,6 @@
 [
     "org.gnome.Calculator",
+    "org.gnome.Epiphany",
     "org.gnome.FileRoller",
     "org.gnome.eog"
 ]

@@ -2834,6 +2834,9 @@
     "org.kde.statusnotifieritem-2-1": [
         "io.github.spacingbat3.webcord"
     ],
+    "org.kde.ksmserver": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
     "org.freedesktop.portal.openuri": [
         "io.gitlab.adhami3310.Converter",
         "io.gitlab.theevilskeleton.Upscaler"
@@ -2876,7 +2879,8 @@
     "org.gnome.settings": [
         "org.gnome.Boxes",
         "org.gnome.Calendar",
-        "org.gnome.Contacts"
+        "org.gnome.Contacts",
+        "org.gnome.Music"
     ],
     "org.freedesktop.packagekit": [
         "org.gnome.Builder"
