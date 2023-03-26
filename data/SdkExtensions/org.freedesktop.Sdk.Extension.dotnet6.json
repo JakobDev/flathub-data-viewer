@@ -5,7 +5,7 @@
     "io.github.am2r_community_developers.Atomic",
     "io.github.openhv.OpenHV",
     "io.github.parnassius.SysDVR-Qt",
-    "io.github.tofudd.lanchat.terminal",
     "net.openra.OpenRA",
-    "org.unitystation.StationHub"
+    "org.unitystation.StationHub",
+    "pl.youkai.lanchat"
 ]

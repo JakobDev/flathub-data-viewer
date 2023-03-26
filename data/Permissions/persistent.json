@@ -396,6 +396,9 @@
     ".torcs": [
         "net.sourceforge.torcs"
     ],
+    ".waterfox": [
+        "net.waterfox.waterfox"
+    ],
     ".padman": [
         "net.worldofpadman.WoP"
     ],

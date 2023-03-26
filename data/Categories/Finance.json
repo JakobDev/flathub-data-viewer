@@ -8,6 +8,7 @@
     "com.tdameritrade.ThinkOrSwim",
     "de.willuhn.Jameica",
     "fr.free.Homebank",
+    "global.worldcoin.worldcoin-core",
     "info.portfolio_performance.PortfolioPerformance",
     "io.wasabiwallet.WasabiWallet",
     "net.peercoin.peercoin-qt",

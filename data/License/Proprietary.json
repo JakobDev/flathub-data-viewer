@@ -120,6 +120,7 @@
     "io.blockloader.BlockLoader",
     "io.botfather.Botfather",
     "io.conduktor.Conduktor",
+    "io.enpass.Enpass",
     "io.exodus.Exodus",
     "io.github.Fndroid.clash_for_windows",
     "io.github.purplehorrorrus.Meridius",

@@ -14,6 +14,7 @@
         "com.belmoussaoui.ReadItLater",
         "com.borgbase.Vorta",
         "com.brave.Browser",
+        "com.doycho.euterpe.gtk",
         "com.github.Eloston.UngoogledChromium",
         "com.github.Murmele.Gittyup",
         "com.github.alecaddd.sequeler",
@@ -44,6 +45,7 @@
         "com.nextcloud.desktopclient.nextcloud",
         "com.nordpass.NordPass",
         "com.opera.Opera",
+        "com.protonvpn.www",
         "com.redis.RedisInsight",
         "com.simplenote.Simplenote",
         "com.skype.Client",
@@ -275,6 +277,7 @@
         "io.botfather.Botfather",
         "io.crow_translate.CrowTranslate",
         "io.github.Andrettin.Wyrmsun",
+        "io.github.Arisotura.CoinKiller",
         "io.github.Bollos00.LibreMines",
         "io.github.Cockatrice.cockatrice",
         "io.github.Icalingua.Icalingua",
@@ -300,6 +303,7 @@
         "io.github.hermitdemschoenenleben.linien",
         "io.github.huderlem.porymap",
         "io.github.hydrusnetwork.hydrus",
+        "io.github.hypengw.Qcm",
         "io.github.janbar.noson",
         "io.github.jonmagon.kdiskmark",
         "io.github.jordanl2.ModularCalculator",
@@ -1519,6 +1523,7 @@
         "io.github.seadve.Kooha",
         "io.gitlab.librewolf-community",
         "io.wavebox.Wavebox",
+        "net.waterfox.waterfox",
         "one.ablaze.floorp",
         "org.chromium.Chromium",
         "org.cryptomator.Cryptomator",
@@ -1870,6 +1875,7 @@
         "io.conduktor.Conduktor",
         "io.crow_translate.CrowTranslate",
         "io.dbeaver.DBeaverCommunity",
+        "io.enpass.Enpass",
         "io.gdevelop.ide",
         "io.github.Fndroid.clash_for_windows",
         "io.github.Hexchat",
@@ -1879,6 +1885,7 @@
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.ciromattia.kcc",
         "io.github.hrkfdn.ncspot",
+        "io.github.hypengw.Qcm",
         "io.github.jacalz.rymdport",
         "io.github.janbar.noson",
         "io.github.kotatogram",
@@ -1919,6 +1926,7 @@
         "net.rpdev.OpenTodoList",
         "net.runelite.RuneLite",
         "net.sourceforge.liferea",
+        "net.waterfox.waterfox",
         "net.xmind.XMind",
         "network.loki.Session",
         "nl.lostboys.rollemup",
@@ -2133,6 +2141,7 @@
         "com.icons8.Lunacy",
         "com.lettier.movie-monad",
         "com.neatdecisions.Detwinner",
+        "com.protonvpn.www",
         "com.rawtherapee.RawTherapee",
         "com.transmissionbt.Transmission",
         "com.vysp3r.ProtonPlus",
@@ -2144,6 +2153,7 @@
         "edu.stanford.Almond",
         "fr.handbrake.ghb",
         "fr.masson_informatique.WhosWho",
+        "hu.kramo.Cartridges",
         "io.atom.Atom",
         "io.github.TransmissionRemoteGtk",
         "io.github.brunoherbelin.Vimix",
@@ -2289,6 +2299,7 @@
         "edu.stanford.Almond",
         "es.estoes.wallpaperDownloader",
         "eu.skribisto.skribisto",
+        "hu.kramo.Cartridges",
         "io.atom.Atom",
         "io.github.achetagames.epic_asset_manager",
         "io.github.congard.qnvsm",
@@ -2383,6 +2394,7 @@
         "net.jami.Jami",
         "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
+        "net.waterfox.waterfox",
         "one.ablaze.floorp",
         "org.DolphinEmu.dolphin-emu",
         "org.chromium.Chromium",
@@ -2794,6 +2806,9 @@
         "org.gnome.Calendar",
         "org.gnome.Reversi"
     ],
+    "com.kde.statusnotifierwatcher": [
+        "io.enpass.Enpass"
+    ],
     "org.kde.*": [
         "io.github.NhekoReborn.Nheko"
     ],
@@ -3010,9 +3025,6 @@
     ],
     "org.x.statusiconmonitor.*": [
         "org.x.Warpinator"
-    ],
-    "org.kde.statusnotifieritem-3-1": [
-        "xyz.armcord.ArmCord"
     ],
     "org.razer": [
         "xyz.z3ntu.razergenie"

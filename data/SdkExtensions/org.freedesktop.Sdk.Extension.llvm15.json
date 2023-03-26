@@ -1,4 +1,5 @@
 [
+    "com.belmoussaoui.ashpd.demo",
     "com.github.unrud.djpdf",
     "eu.betterbird.Betterbird",
     "org.cloudcompare.CloudCompare",

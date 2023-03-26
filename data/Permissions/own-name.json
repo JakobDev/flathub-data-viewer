@@ -213,14 +213,24 @@
     "org.mpris.mediaplayer2.smplayer": [
         "info.smplayer.SMPlayer"
     ],
+    "org.freedesktop.secrets": [
+        "io.enpass.Enpass",
+        "org.keepassxc.KeePassXC"
+    ],
     "org.mpris.mediaplayer2.freetube": [
         "io.freetubeapp.FreeTube"
     ],
     "org.mpris.mediaplayer2.cmus": [
         "io.github.cmus.cmus"
     ],
+    "org.mpris.mediaplayer2.*": [
+        "io.github.foxxmd.multiscrobbler"
+    ],
     "org.mpris.mediaplayer2.ncspot": [
         "io.github.hrkfdn.ncspot"
+    ],
+    "org.mpris.mediaplayer2.qcm": [
+        "io.github.hypengw.Qcm"
     ],
     "org.mpris.mediaplayer2.noson.*": [
         "io.github.janbar.noson"
@@ -288,6 +298,9 @@
     ],
     "org.mpris.mediaplayer2.girens": [
         "nl.g4d.Girens"
+    ],
+    "org.mozilla.floorp.*": [
+        "one.ablaze.floorp"
     ],
     "org.freedesktop.reservedevice1.*": [
         "org.ardour.Ardour"
@@ -485,9 +498,6 @@
     ],
     "org.mpris.mediaplayer2.vvave": [
         "org.kde.vvave"
-    ],
-    "org.freedesktop.secrets": [
-        "org.keepassxc.KeePassXC"
     ],
     "org.libreoffice.libreofficeipc0": [
         "org.libreoffice.LibreOffice"

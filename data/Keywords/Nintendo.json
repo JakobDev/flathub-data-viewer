@@ -1,4 +1,6 @@
 [
+    "info.cemu.Cemu",
+    "io.github.Arisotura.CoinKiller",
     "io.github.Rangi42.polished-map-plusplus",
     "io.github.Rangi42.polished-map",
     "io.github.Rangi42.tilemap-studio",

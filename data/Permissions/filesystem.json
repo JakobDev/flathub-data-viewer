@@ -533,6 +533,7 @@
         "io.botfather.Botfather",
         "io.crow_translate.CrowTranslate",
         "io.github.Andrettin.Wyrmsun",
+        "io.github.Arisotura.CoinKiller",
         "io.github.Bollos00.LibreMines",
         "io.github.Cockatrice.cockatrice",
         "io.github.JaGoLi.ytdl_gui",
@@ -556,6 +557,7 @@
         "io.github.hermitdemschoenenleben.linien",
         "io.github.huderlem.porymap",
         "io.github.hydrusnetwork.hydrus",
+        "io.github.hypengw.Qcm",
         "io.github.janbar.noson",
         "io.github.jonmagon.kdiskmark",
         "io.github.jordanl2.ModularCalculator",
@@ -1081,6 +1083,7 @@
         "net.sourceforge.mcomix",
         "net.sourceforge.paulstretch",
         "net.sourceforge.pdfchain",
+        "net.waterfox.waterfox",
         "net.xmind.XMind",
         "net.xmind.XMind8",
         "no.mifi.losslesscut",
@@ -1185,6 +1188,7 @@
         "dev.storyapps.starc",
         "dev.vieb.Vieb",
         "fr.free.hxc2001.HxCFloppyEmulator",
+        "io.enpass.Enpass",
         "io.github.TheThirdOne.rars",
         "io.github.chris2511.xca",
         "io.github.dman95.SASM",
@@ -1476,6 +1480,7 @@
         "com.github.joseexposito.touche",
         "com.tutanota.Tutanota",
         "com.virustotal.VirusTotalUploader",
+        "info.cemu.Cemu",
         "io.github.hakandundar34coding.system-monitoring-center",
         "io.github.jorchube.monitorets",
         "io.github.kotatogram",
@@ -1583,6 +1588,7 @@
         "com.github.xournalpp.xournalpp",
         "com.icons8.Lunacy",
         "com.neatdecisions.Detwinner",
+        "com.protonvpn.www",
         "com.rawtherapee.RawTherapee",
         "com.transmissionbt.Transmission",
         "com.vysp3r.ProtonPlus",
@@ -1592,6 +1598,7 @@
         "edu.stanford.Almond",
         "fr.handbrake.ghb",
         "fr.masson_informatique.WhosWho",
+        "hu.kramo.Cartridges",
         "io.github.TransmissionRemoteGtk",
         "io.github.celluloid_player.Celluloid",
         "io.github.manisandro.gImageReader",
@@ -2833,6 +2840,9 @@
     "xdg-documents/Notesnook:create": [
         "com.notesnook.Notesnook"
     ],
+    "~/.cert/nm-openvpn:create": [
+        "com.protonvpn.www"
+    ],
     "~/.renpy:create": [
         "com.scoutshonour.Digital",
         "com.scoutshonour.dtipbijays"
@@ -2999,6 +3009,33 @@
     ],
     "~/RPMLauncher:create": [
         "ga.rpmtw.rpmlauncher"
+    ],
+    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic:ro": [
+        "hu.kramo.Cartridges"
+    ],
+    "~/.steam/steam:ro": [
+        "hu.kramo.Cartridges"
+    ],
+    "xdg-config/heroic:ro": [
+        "hu.kramo.Cartridges"
+    ],
+    "xdg-data/bottles:ro": [
+        "hu.kramo.Cartridges"
+    ],
+    "~/.var/app/com.usebottles.bottles/data/bottles:ro": [
+        "hu.kramo.Cartridges"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/data/Steam:ro": [
+        "hu.kramo.Cartridges"
+    ],
+    "xdg-run/app/com.discordapp.Discord:ro": [
+        "info.cemu.Cemu",
+        "net.openra.OpenRA",
+        "org.yuzu_emu.yuzu"
+    ],
+    "xdg-run/app/com.discordapp.DiscordCanary:ro": [
+        "info.cemu.Cemu",
+        "net.openra.OpenRA"
     ],
     "~/.minecraft": [
         "io.blockloader.BlockLoader"
@@ -3238,13 +3275,6 @@
     "~/.rdm:create": [
         "net.devolutions.RDM",
         "net.devolutions.RDMFree"
-    ],
-    "xdg-run/app/com.discordapp.Discord:ro": [
-        "net.openra.OpenRA",
-        "org.yuzu_emu.yuzu"
-    ],
-    "xdg-run/app/com.discordapp.DiscordCanary:ro": [
-        "net.openra.OpenRA"
     ],
     "/run/ikedi": [
         "net.shrew.ike.qikea"

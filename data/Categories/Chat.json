@@ -21,7 +21,6 @@
     "io.github.kotatogram",
     "io.github.mimbrero.WhatsAppDesktop",
     "io.github.qtox.qTox",
-    "io.github.tofudd.lanchat.terminal",
     "net.jami.Jami",
     "org.briarproject.Briar",
     "org.gajim.Gajim",
@@ -33,6 +32,7 @@
     "org.signal.Signal",
     "org.syphon.Syphon",
     "org.telegram",
+    "pl.youkai.lanchat",
     "xyz.diamondb.gtkcord4",
     "xyz.mx_moment.moment"
 ]
