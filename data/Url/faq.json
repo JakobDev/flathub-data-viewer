@@ -117,6 +117,7 @@
     "org.gnucash.GnuCash",
     "org.gnunet.Messenger",
     "org.godotengine.Godot",
+    "org.godotengine.Godot3",
     "org.hdfgroup.HDFView",
     "org.hedgewars.Hedgewars",
     "org.inkscape.Inkscape",

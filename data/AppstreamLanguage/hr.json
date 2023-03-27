@@ -51,6 +51,7 @@
     "org.fedoraproject.MediaWriter",
     "org.fontforge.FontForge",
     "org.freedesktop.appstream.cli",
+    "org.gabmus.giara",
     "org.gaphor.Gaphor",
     "org.gimp.GIMP",
     "org.gnome.Aisleriot",

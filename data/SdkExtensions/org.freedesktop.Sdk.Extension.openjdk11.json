@@ -40,6 +40,7 @@
     "org.freecol.FreeCol",
     "org.freeplane.App",
     "org.godotengine.Godot",
+    "org.godotengine.Godot3",
     "org.greenfoot.Greenfoot",
     "org.libreoffice.LibreOffice",
     "org.megamek.MegaMek",

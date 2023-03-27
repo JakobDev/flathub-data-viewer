@@ -3,6 +3,7 @@
     "data": [
         "2DGraphics",
         "3DGraphics",
+        "ASCII",
         "Accessibility",
         "ActionGame",
         "Adventure",
@@ -76,6 +77,7 @@
         "Humanities",
         "IDE",
         "IRCClient",
+        "Image",
         "ImageProcessing",
         "InstantMessaging",
         "Internet",
@@ -139,6 +141,7 @@
         "Telephony",
         "TelephonyTools",
         "TerminalEmulator",
+        "Text",
         "TextEditor",
         "TextTools",
         "Translation",

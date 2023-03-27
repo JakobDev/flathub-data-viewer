@@ -377,6 +377,7 @@
     "org.gnumeric.Gnumeric",
     "org.gnunet.Messenger",
     "org.godotengine.Godot",
+    "org.godotengine.Godot3",
     "org.gottcode.Connectagram",
     "org.gottcode.CuteMaze",
     "org.gottcode.FocusWriter",

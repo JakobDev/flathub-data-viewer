@@ -2334,6 +2334,7 @@
         "org.gnome.Games",
         "org.gnome.Lollypop",
         "org.godotengine.Godot",
+        "org.godotengine.Godot3",
         "org.jabref.jabref",
         "org.kde.dolphin",
         "org.kde.kdevelop",
@@ -2853,8 +2854,7 @@
         "io.github.vikdevelop.SaveDesktop"
     ],
     "org.freedesktop.portal.openuri": [
-        "io.gitlab.adhami3310.Converter",
-        "io.gitlab.theevilskeleton.Upscaler"
+        "io.gitlab.adhami3310.Converter"
     ],
     "com.canonical.dbusmenu": [
         "moe.karaokes.mugen",

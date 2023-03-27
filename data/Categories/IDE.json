@@ -38,6 +38,7 @@
     "org.geany.Geany",
     "org.gnome.Builder",
     "org.godotengine.Godot",
+    "org.godotengine.Godot3",
     "org.kde.kdevelop",
     "org.processing.processingide",
     "org.thonny.Thonny",

@@ -280,6 +280,7 @@
     "org.gnu.pspp",
     "org.gnucash.GnuCash",
     "org.godotengine.Godot",
+    "org.godotengine.Godot3",
     "org.gottcode.Connectagram",
     "org.gottcode.CuteMaze",
     "org.gottcode.FocusWriter",

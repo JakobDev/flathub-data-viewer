@@ -147,6 +147,7 @@
     "org.gnome.HexGL",
     "org.gnome.Tau",
     "org.godotengine.Godot",
+    "org.godotengine.Godot3",
     "org.goldcoinproject.goldcoin-qt",
     "org.groestlcoin.electrum-grs",
     "org.groestlcoin.groestlcoin-qt",

@@ -149,6 +149,7 @@
     "org.gnome.meld",
     "org.gnu.emacs",
     "org.godotengine.Godot",
+    "org.godotengine.Godot3",
     "org.greenfoot.Greenfoot",
     "org.horizon_eda.HorizonEDA",
     "org.jupyter.JupyterLab",

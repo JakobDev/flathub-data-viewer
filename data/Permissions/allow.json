@@ -2,6 +2,7 @@
     "devel": [
         "cn.ottercorp.xivlaunchercn",
         "com.github.Matoking.protontricks",
+        "com.gitlab.inendi.Inspector",
         "com.heroicgameslauncher.hgl",
         "com.jetbrains.CLion",
         "com.jetbrains.GoLand",
