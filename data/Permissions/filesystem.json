@@ -1112,6 +1112,7 @@
         "org.kde.kid3",
         "org.kde.kongress",
         "org.kde.neochat",
+        "org.localsend.localsend_app",
         "org.midori_browser.Midori",
         "org.mozilla.Thunderbird",
         "org.mozilla.firefox",

@@ -210,7 +210,8 @@
     ],
     "org.freedesktop.hostname1": [
         "com.hack_computer.Clubhouse",
-        "org.gnome.baobab"
+        "org.gnome.baobab",
+        "org.localsend.localsend_app"
     ],
     "org.freedesktop.upower.*": [
         "com.ktechpit.whatsie",
