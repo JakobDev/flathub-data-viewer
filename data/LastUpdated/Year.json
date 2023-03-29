@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.drey.KeyRack",
     "app.getspace.Space",
     "app.gummi.gummi",
     "app.riftshare.RiftShare",
@@ -86,7 +87,6 @@
     "com.sleepfiles.OSCAR",
     "com.solvespace.SolveSpace",
     "com.spotify.Client",
-    "com.st.STM32CubeIDE",
     "com.steamgriddb.SGDBoop",
     "com.stremio.Stremio",
     "com.sweethome3d.Sweethome3d",
@@ -124,6 +124,7 @@
     "info.mumble.Mumble",
     "info.olasagasti.revelation",
     "info.smplayer.SMPlayer",
+    "io.github.Pithos",
     "io.github.Soundux",
     "io.github.TransmissionRemoteGtk",
     "io.github.bothlab.pomidaq",
@@ -156,6 +157,7 @@
     "io.github.quodlibet.QuodLibet",
     "io.github.santiagocezar.maniatic-launcher",
     "io.github.seadve.Breathing",
+    "io.github.sharkwouter.Minigalaxy",
     "io.github.stella_emu.Stella",
     "io.github.thiefmd.themegenerator",
     "io.github.trigg.discover_overlay",
@@ -198,7 +200,6 @@
     "org.apache.jmeter",
     "org.artsoft.rocksndiamonds",
     "org.avidemux.Avidemux",
-    "org.bluej.BlueJ",
     "org.claws_mail.Claws-Mail",
     "org.cloudcompare.CloudCompare",
     "org.cubocore.CoreAction",
@@ -279,6 +280,7 @@
     "org.mobsya.ThymioSuite",
     "org.munadi.Munadi",
     "org.nmap.Zenmap",
+    "org.nongnu.gsequencer.gsequencer",
     "org.omegat.OmegaT",
     "org.openchemistry.Avogadro2",
     "org.opencpn.OpenCPN",
@@ -328,6 +330,5 @@
     "org.freedesktop.Sdk.Extension.mingw-w64",
     "org.freedesktop.Sdk.Extension.mono6",
     "org.freedesktop.Sdk.Extension.node12",
-    "org.freedesktop.Sdk.Extension.vala",
     "org.winehq.Wine.DLLs.dxvk"
 ]

@@ -1,6 +1,7 @@
 [
     "com.gitlab.newsflash",
     "de.peterge.combined",
+    "io.github.vikdevelop.SaveDesktop",
     "net.davidotek.pupgui2",
     "org.olivevideoeditor.Olive",
     "org.wxhexeditor.wxHexEditor"

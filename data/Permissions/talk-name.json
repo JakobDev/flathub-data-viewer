@@ -2710,6 +2710,7 @@
         "net.hovancik.Stretchly"
     ],
     "org.gnome.keyring.systemprompter": [
+        "com.jetbrains.DataGrip",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.syntevo.SmartGit",
