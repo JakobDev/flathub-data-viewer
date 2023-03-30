@@ -30,5 +30,6 @@
     "org.gnome.seahorse.Application",
     "org.kde.gcompris",
     "org.stellarium.Stellarium",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.zrythm.Zrythm"
 ]

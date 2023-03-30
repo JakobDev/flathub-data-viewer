@@ -32,6 +32,7 @@
     "org.eclipse.sumo",
     "org.ghidra_sre.Ghidra",
     "org.jdownloader.JDownloader",
+    "org.libreoffice.LibreOffice",
     "org.openstreetmap.josm",
     "org.polymc.PolyMC",
     "org.prismlauncher.PrismLauncher",

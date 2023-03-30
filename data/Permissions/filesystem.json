@@ -163,6 +163,7 @@
         "dev.pulsar_edit.Pulsar",
         "dev.tchx84.Portfolio",
         "edu.mit.Scratch",
+        "edu.stanford.protege",
         "eu.ad5001.LogarithmPlotter",
         "eu.skribisto.skribisto",
         "fr.free.Homebank",
@@ -1260,6 +1261,7 @@
         "com.microsoft.Edge",
         "com.netease.CloudMusic",
         "com.seventhstring.Transcribe",
+        "com.spacestation14.Launcher",
         "com.tracktion.Waveform",
         "com.tutanota.Tutanota",
         "com.ylsoftware.qmmp.Qmmp",
@@ -1463,6 +1465,7 @@
         "org.prismlauncher.PrismLauncher",
         "org.ryujinx.Ryujinx",
         "org.skytemple.SkyTemple",
+        "org.srb2.SRB2Kart-galaxy",
         "org.srb2.SRB2Kart",
         "sh.cider.Cider",
         "sh.ppy.osu",
@@ -2591,6 +2594,7 @@
     "xdg-run/discord-ipc-0": [
         "com.github.Rosalie241.RMG",
         "com.github.taiko2k.tauonmb",
+        "org.srb2.SRB2Kart-galaxy",
         "org.srb2.SRB2Kart"
     ],
     "xdg-run/discord-ipc-6": [

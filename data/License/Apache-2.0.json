@@ -33,6 +33,7 @@
     "io.kopia.KopiaUI",
     "io.neovim.nvim",
     "io.podman_desktop.PodmanDesktop",
+    "net.studio08.xbplay",
     "one.alynx.FlipClock",
     "org.apache.directory.studio",
     "org.apache.jmeter",

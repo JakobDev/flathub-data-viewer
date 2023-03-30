@@ -12,6 +12,7 @@
         "nl.g4d.Girens",
         "org.rolisteam.rolisteam",
         "org.srb2.SRB2",
+        "org.srb2.SRB2Kart-galaxy",
         "org.srb2.SRB2Kart",
         "org.turbowarp.TurboWarp"
     ],
@@ -102,6 +103,7 @@
         "de.rwth_aachen.ient.RDPlot",
         "de.rwth_aachen.ient.YUView",
         "dev.zelikos.rollit",
+        "edu.stanford.protege",
         "eu.planete_kraus.Tarot",
         "fr.handbrake.ghb",
         "in.bharatkalluri.shortcircuit",
@@ -261,6 +263,7 @@
         "com.sindresorhus.Caprine",
         "com.skype.Client",
         "com.slack.Slack",
+        "com.spacestation14.Launcher",
         "com.springrts.SpringLobby",
         "com.tdameritrade.ThinkOrSwim",
         "com.teamspeak.TeamSpeak",
