@@ -2,7 +2,6 @@
     "ca.parallel_launcher.ParallelLauncher",
     "com.github.Rosalie241.RMG",
     "com.gitlab.JakobDev.jdAnimatedImageEditor",
-    "com.gitlab.JakobDev.jdAppdataEdit",
     "com.gitlab.JakobDev.jdDiff",
     "com.gitlab.JakobDev.jdEolConverter",
     "com.gitlab.JakobDev.jdMinecraftLauncher",
@@ -45,6 +44,7 @@
     "org.kde.klines",
     "org.kde.telly-skout",
     "org.tug.texworks",
+    "page.codeberg.JakobDev.jdAppStreamEdit",
     "page.codeberg.JakobDev.jdDesktopEntryEdit",
     "xyz.mx_moment.moment"
 ]

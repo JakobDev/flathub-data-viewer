@@ -4,7 +4,6 @@
     "com.dec05eba.gpu_screen_recorder",
     "com.github.finefindus.eyedropper",
     "com.gitlab.JakobDev.jdAnimatedImageEditor",
-    "com.gitlab.JakobDev.jdAppdataEdit",
     "com.inochi2d.inochi-creator",
     "com.notesnook.Notesnook",
     "com.revolutionarygamesstudio.ThriveLauncher",
@@ -45,6 +44,7 @@
     "org.soapui.SoapUI",
     "org.telegram",
     "org.yuzu_emu.yuzu",
+    "page.codeberg.JakobDev.jdAppStreamEdit",
     "pm.mirko.Atoms",
     "rocks.koreader.KOReader",
     "tv.kodi.Kodi"

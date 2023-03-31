@@ -5,7 +5,6 @@
         "io.qt.QtCreator"
     ],
     "6.4": [
-        "com.gitlab.JakobDev.jdAppdataEdit",
         "com.gitlab.JakobDev.jdTextEdit",
         "io.qt.Designer",
         "io.qt.Linguist",

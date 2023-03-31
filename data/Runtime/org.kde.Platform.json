@@ -296,6 +296,7 @@
         "de.marlam.qv",
         "io.github.Arisotura.CoinKiller",
         "io.github.hypengw.Qcm",
+        "io.github.martinrotter.rssguardlite",
         "io.github.myst6re.makoureactor",
         "io.github.nuttyartist.notes",
         "io.github.simple64.simple64",
@@ -328,6 +329,7 @@
         "org.strawberrymusicplayer.strawberry",
         "org.texstudio.TeXstudio",
         "org.tug.texworks",
+        "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdDesktopEntryEdit"
     ],
     "5.15-21.08": [
@@ -529,7 +531,6 @@
         "com.rtosta.zapzap",
         "io.github.hydrusnetwork.hydrus",
         "io.github.martinrotter.rssguard",
-        "io.github.martinrotter.rssguardlite",
         "io.mrarm.mcpelauncher",
         "me.mitya57.ReText",
         "net.sourceforge.VMPK",
