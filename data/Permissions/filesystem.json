@@ -1451,6 +1451,7 @@
         "dev.hdos.HDOS",
         "io.github.hmlendea.geforcenow-electron",
         "io.github.mandruis7.xbox-cloud-gaming-electron",
+        "io.github.nate_xyz.Resonance",
         "io.github.randovania.Randovania",
         "io.github.shiiion.primehack",
         "io.github.simple64.simple64",
@@ -2123,6 +2124,7 @@
         "org.kde.kamoso",
         "org.kde.kphotoalbum",
         "org.qutebrowser.qutebrowser",
+        "org.scummvm.ScummVM",
         "org.signal.Signal",
         "org.subtitld.Subtitld",
         "org.zotero.Zotero",
@@ -2319,6 +2321,7 @@
         "com.valvesoftware.Steam",
         "io.bassi.Amberol",
         "io.github.Soundux",
+        "io.github.nate_xyz.Resonance",
         "org.gnunet.Messenger",
         "sh.ppy.osu"
     ],
@@ -2526,6 +2529,7 @@
         "com.mojang.Minecraft",
         "io.bassi.Amberol",
         "io.github.Soundux",
+        "io.github.nate_xyz.Resonance",
         "org.opensurge2d.OpenSurge",
         "org.polymc.PolyMC",
         "org.prismlauncher.PrismLauncher"
@@ -2595,6 +2599,7 @@
     "xdg-run/discord-ipc-0": [
         "com.github.Rosalie241.RMG",
         "com.github.taiko2k.tauonmb",
+        "io.github.nate_xyz.Resonance",
         "org.srb2.SRB2Kart-galaxy",
         "org.srb2.SRB2Kart"
     ],

@@ -2,15 +2,15 @@
     "42": [
         "cn.navclub.ldbfx",
         "com.github.corna.Vivado",
-        "com.github.mikacousin.olc",
         "io.github.orontee.Argos"
+    ],
+    "44": [
+        "com.github.mikacousin.olc",
+        "org.gnome.Builder"
     ],
     "43": [
         "com.github.themix_project.Oomox",
         "org.gnome.Devhelp",
         "re.sonny.Workbench"
-    ],
-    "44": [
-        "org.gnome.Builder"
     ]
 }
