@@ -4,7 +4,6 @@
         "com.github.alainm23.planner",
         "com.github.arshubham.cipher",
         "com.github.artemanufrij.playmymusic",
-        "com.github.artemanufrij.playmyvideos",
         "com.github.babluboy.bookworm",
         "com.github.bcedu.valasimplehttpserver",
         "com.github.bcedu.vgrive",
@@ -36,15 +35,16 @@
         "com.github.rajsolai.response",
         "com.github.robertsanseries.ciano"
     ],
+    "juno-22.08": [
+        "com.github.artemanufrij.playmyvideos",
+        "com.github.gijsgoudzwaard.image-optimizer",
+        "com.github.muriloventuroso.pdftricks",
+        "com.github.phase1geo.minder"
+    ],
     "juno-19.08": [
         "com.github.calo001.fondo",
         "com.github.inercia.k3x",
         "com.github.matfantinel.moneta",
         "com.github.naaando.lyrics"
-    ],
-    "juno-22.08": [
-        "com.github.gijsgoudzwaard.image-optimizer",
-        "com.github.muriloventuroso.pdftricks",
-        "com.github.phase1geo.minder"
     ]
 }

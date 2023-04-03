@@ -13,5 +13,6 @@
     "org.enjoyingfoss.FOSStriangulator",
     "org.freeplane.App",
     "org.hdfgroup.HDFView",
-    "org.robocode.Robocode"
+    "org.robocode.Robocode",
+    "tr.gov.uyap.Editor"
 ]

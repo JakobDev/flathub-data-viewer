@@ -559,6 +559,7 @@
         "io.github.janbar.noson",
         "io.github.jonmagon.kdiskmark",
         "io.github.jordanl2.ModularCalculator",
+        "io.github.jtdx_project.JTDX",
         "io.github.labsquare.CutePeaks",
         "io.github.libvibrant.vibrantLinux",
         "io.github.markummitchell.Engauge_Digitizer",
@@ -702,6 +703,7 @@
         "org.eyecreate.qiflora",
         "org.eyecreate.vehiclevoyage",
         "org.fcitx.Fcitx5",
+        "org.featherwallet.Feather",
         "org.fedoraproject.MediaWriter",
         "org.filmulator.Filmulator",
         "org.flameshot.Flameshot",
@@ -1239,6 +1241,7 @@
         "org.zaproxy.ZAP",
         "org.zotero.Zotero",
         "org.zulip.Zulip",
+        "tr.gov.uyap.Editor",
         "ua.org.brezblock.q4wine",
         "uk.org.zint.zint-qt",
         "xyz.hyperplay.HyperPlay"
@@ -1849,6 +1852,7 @@
         "de.rwth_aachen.ient.RDPlot",
         "de.rwth_aachen.ient.YUView",
         "dev.ares.ares",
+        "dev.gbstudio.gb-studio",
         "dev.lapce.lapce",
         "edu.stanford.Almond",
         "eu.scarpetta.PDFMixTool",
@@ -3359,6 +3363,10 @@
     "xdg-config/fcitx5:create": [
         "org.fcitx.Fcitx5"
     ],
+    "~/Monero:create": [
+        "org.featherwallet.Feather",
+        "org.getmonero.Monero"
+    ],
     "~/.firestorm_x64:create": [
         "org.firestormviewer.FirestormViewer"
     ],
@@ -3398,9 +3406,6 @@
     ],
     "xdg-run/geany:create": [
         "org.geany.Geany"
-    ],
-    "~/Monero:create": [
-        "org.getmonero.Monero"
     ],
     "xdg-config/GIMP": [
         "org.gimp.GIMP"

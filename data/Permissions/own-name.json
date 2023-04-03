@@ -44,6 +44,7 @@
         "re.chiaki.Chiaki",
         "si.tano.Vremenar",
         "us.zoom.Zoom",
+        "xyz.armcord.ArmCord",
         "xyz.hyperplay.HyperPlay"
     ],
     "org.mpris.mediaplayer2.moosync": [

@@ -16,6 +16,7 @@
     "io.github.freedoom.Phase2",
     "io.trustable.stpadocumentationtool",
     "net.sourceforge.QtSpim",
+    "org.featherwallet.Feather",
     "org.getmonero.Monero",
     "org.gnode.NixView",
     "org.jupyter.JupyterLab",
