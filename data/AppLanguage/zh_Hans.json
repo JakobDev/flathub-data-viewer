@@ -1,6 +1,7 @@
 [
     "com.github.bajoja.indicator-kdeconnect",
     "com.github.junrrein.PDFSlicer",
+    "io.github.fsobolev.TimeSwitch",
     "io.github.gillesdegottex.FMIT",
     "io.github.seadve.Kooha",
     "org.gnome.Eolie",

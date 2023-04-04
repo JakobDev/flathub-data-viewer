@@ -68,6 +68,7 @@
     "org.entangle_photo.Manager",
     "org.fedoraproject.MediaWriter",
     "org.freedesktop.appstream.cli",
+    "org.frescobaldi.Frescobaldi",
     "org.gabmus.gfeeds",
     "org.gabmus.giara",
     "org.gabmus.whatip",

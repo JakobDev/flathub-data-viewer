@@ -1,5 +1,6 @@
 [
     "app.cantara.Cantara",
+    "app.rednotebook.RedNotebook",
     "ch.theologeek.Manuskript",
     "com.dec05eba.gpu_screen_recorder",
     "com.github.finefindus.eyedropper",

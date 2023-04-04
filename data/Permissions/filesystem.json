@@ -245,6 +245,7 @@
         "net.kuribo64.melonDS",
         "net.lutris.Lutris",
         "net.mancubus.SLADE",
+        "net.mediaarea.MediaInfo",
         "net.meshlab.MeshLab",
         "net.poedit.Poedit",
         "net.retrodeck.retrodeck",
@@ -1608,6 +1609,7 @@
         "io.github.TransmissionRemoteGtk",
         "io.github.celluloid_player.Celluloid",
         "io.github.manisandro.gImageReader",
+        "io.github.mightycreak.Diffuse",
         "io.github.mpobaschnig.Vaults",
         "io.gitlab.jstest_gtk.jstest_gtk",
         "net.giuspen.cherrytree",
@@ -3468,7 +3470,7 @@
     "~/Recordings": [
         "org.gnome.SoundRecorder"
     ],
-    "xdg-documents/Bibliography": [
+    "xdg-documents/Bibliography:create": [
         "org.gnome.World.Citations"
     ],
     "xdg-run/pika-backup:create": [
