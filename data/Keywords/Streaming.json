@@ -3,5 +3,6 @@
     "com.spotify.Client",
     "fr.romainvigier.zap",
     "io.github.hmlendea.geforcenow-electron",
-    "io.github.mandruis7.xbox-cloud-gaming-electron"
+    "io.github.mandruis7.xbox-cloud-gaming-electron",
+    "net.studio08.xbplay"
 ]

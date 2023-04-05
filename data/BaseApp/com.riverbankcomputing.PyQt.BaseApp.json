@@ -11,6 +11,7 @@
         "io.github.parnassius.SysDVR-Qt",
         "io.github.veusz.Veusz",
         "net.sourceforge.scidavis",
+        "org.frescobaldi.Frescobaldi",
         "org.opennumismat.OpenNumismat",
         "org.plomgrading.PlomClient",
         "org.pymol.PyMOL",
@@ -36,7 +37,6 @@
         "org.subtitld.Subtitld"
     ],
     "5.15-21.08": [
-        "org.frescobaldi.Frescobaldi",
         "org.qutebrowser.qutebrowser"
     ]
 }

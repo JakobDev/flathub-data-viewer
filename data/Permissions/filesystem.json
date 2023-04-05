@@ -155,6 +155,7 @@
         "de.marlam.qv",
         "de.mediathekview.MediathekView",
         "de.willuhn.Jameica",
+        "dev.bambosh.UnofficialHomestuckCollection",
         "dev.bsnes.bsnes",
         "dev.goats.xivlauncher",
         "dev.lukebriggs.pepys",
@@ -398,6 +399,7 @@
         "cc.retroshare.retroshare-gui",
         "ch.openboard.OpenBoard",
         "ch.theologeek.Manuskript",
+        "com.agateau.nanonote",
         "com.alovoa.alovoa-electron",
         "com.borgbase.Vorta",
         "com.calibre_ebook.calibre",
@@ -2769,6 +2771,7 @@
         "io.github.betaflight.BetaflightConfigurator",
         "io.github.mandruis7.xbox-cloud-gaming-electron",
         "io.github.punesemu.puNES",
+        "net.studio08.xbplay",
         "one.flipperzero.qFlipper",
         "org.expresslrs.ExpressLRSConfigurator",
         "xyz.hyperplay.HyperPlay"
