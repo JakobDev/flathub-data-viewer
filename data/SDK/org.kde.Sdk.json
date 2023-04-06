@@ -296,6 +296,7 @@
         "com.gitlab.jakobdev.jdnbtexplorer",
         "com.gitlab.tipp10.tipp10",
         "com.obsproject.Studio",
+        "community.pathofbuilding.PathOfBuilding",
         "de.bund.ausweisapp.ausweisapp2",
         "de.halaszovich.PMbrowser",
         "de.marlam.gencolormap",
@@ -341,6 +342,7 @@
         "org.strawberrymusicplayer.strawberry",
         "org.texstudio.TeXstudio",
         "org.tug.texworks",
+        "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdDesktopEntryEdit"
     ],
@@ -386,7 +388,6 @@
         "com.vesc_project.VescTool",
         "com.vicr123.thebeat",
         "com.vzhd1701.gridplayer",
-        "community.pathofbuilding.PathOfBuilding",
         "de.rwth_aachen.ient.YUView",
         "de.unifreiburg.ellipticcurve",
         "eu.ad5001.LogarithmPlotter",

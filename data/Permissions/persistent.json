@@ -182,6 +182,9 @@
     ".stepmania-5.1": [
         "com.stepmania.StepMania"
     ],
+    ".stremio-server": [
+        "com.stremio.Stremio"
+    ],
     ".thinkorswim": [
         "com.tdameritrade.ThinkOrSwim"
     ],

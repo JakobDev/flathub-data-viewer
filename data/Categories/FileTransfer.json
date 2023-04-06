@@ -1,4 +1,5 @@
 [
+    "app.vup.Vup",
     "com.biglybt.BiglyBT",
     "com.dropbox.Client",
     "com.github.gabutakut.gabutdm",

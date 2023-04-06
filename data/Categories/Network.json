@@ -4,6 +4,7 @@
     "app.lith.Lith",
     "app.moosync.moosync",
     "app.riftshare.RiftShare",
+    "app.vup.Vup",
     "at.ssh_mitm.server",
     "br.gov.fazenda.receita.irpf",
     "cc.retroshare.retroshare-gui",

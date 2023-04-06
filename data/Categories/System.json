@@ -1,4 +1,5 @@
 [
+    "app.vup.Vup",
     "br.app.pw3270.terminal",
     "ca.desrt.dconf-editor",
     "com.dosbox.DOSBox",
