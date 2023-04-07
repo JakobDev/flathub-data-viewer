@@ -11,6 +11,7 @@
     "org.cubocore.CorePaint",
     "org.geeqie.Geeqie",
     "org.gimp.GIMP",
+    "org.gnome.Loupe",
     "org.gnome.eog",
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.libvips.vipsdisp",

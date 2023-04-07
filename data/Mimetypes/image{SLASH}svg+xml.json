@@ -17,6 +17,7 @@
     "org.cubocore.CorePaint",
     "org.geeqie.Geeqie",
     "org.gimp.GIMP",
+    "org.gnome.Loupe",
     "org.gnome.design.AppIconPreview",
     "org.gnome.design.SymbolicPreview",
     "org.gnome.eog",

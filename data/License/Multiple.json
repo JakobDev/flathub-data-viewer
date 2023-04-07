@@ -85,6 +85,7 @@
     "org.laptop.TurtleArtActivity",
     "org.libsdl.Maelstrom",
     "org.mapeditor.Tiled",
+    "org.mavlink.qgroundcontrol",
     "org.megaglest.MegaGlest",
     "org.openclonk.OpenClonk",
     "org.qbittorrent.qBittorrent",

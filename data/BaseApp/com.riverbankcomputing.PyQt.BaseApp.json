@@ -27,7 +27,8 @@
         "io.gitlab.JakobDev.jdSimpleAutostart",
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdAppStreamEdit",
-        "page.codeberg.JakobDev.jdDesktopEntryEdit"
+        "page.codeberg.JakobDev.jdDesktopEntryEdit",
+        "page.codeberg.JakobDev.jdFlatpakSnapshot"
     ],
     "6.3": [
         "com.gitlab.JakobDev.jdMinecraftLauncher",

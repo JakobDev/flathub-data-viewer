@@ -322,6 +322,7 @@
         "io.github.muse_sequencer.Muse",
         "io.github.myst6re.makoureactor",
         "io.github.narunlifescience.AlphaPlot",
+        "io.github.nostar.DroidStar",
         "io.github.nuttyartist.notes",
         "io.github.obiwankennedy.HotShots",
         "io.github.parnassius.SysDVR-Qt",
@@ -338,6 +339,7 @@
         "io.github.shiiion.primehack",
         "io.github.simple64.simple64",
         "io.github.sithlord48.blackchocobo",
+        "io.github.slgobinath.SafeEyes",
         "io.github.tcobbs.LDView",
         "io.github.technic.e2designer",
         "io.github.torrent_file_editor.Torrent-file-editor",
@@ -640,6 +642,7 @@
         "org.mamedev.MAME",
         "org.mapeditor.Tiled",
         "org.mattbas.Glaxnimate",
+        "org.mavlink.qgroundcontrol",
         "org.mixxx.Mixxx",
         "org.mobsya.ThymioSuite",
         "org.munadi.Munadi",
@@ -708,6 +711,7 @@
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdDesktopEntryEdit",
+        "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
         "se.sjoerd.GIScan",
@@ -837,6 +841,7 @@
         "io.github.markummitchell.Engauge_Digitizer",
         "io.github.martinrotter.textosaurus",
         "io.github.muse_sequencer.Muse",
+        "io.github.nostar.DroidStar",
         "io.github.parnassius.SysDVR-Qt",
         "io.github.peazip.PeaZip",
         "io.github.punesemu.puNES",
@@ -1075,6 +1080,7 @@
         "org.librepcb.LibrePCB",
         "org.libretro.RetroArch",
         "org.mamedev.MAME",
+        "org.mavlink.qgroundcontrol",
         "org.mixxx.Mixxx",
         "org.munadi.Munadi",
         "org.musescore.MuseScore",
@@ -1228,6 +1234,7 @@
         "io.github.jtdx_project.JTDX",
         "io.github.labsquare.CutePeaks",
         "io.github.muse_sequencer.Muse",
+        "io.github.nostar.DroidStar",
         "io.github.parnassius.SysDVR-Qt",
         "io.github.peazip.PeaZip",
         "io.github.punesemu.puNES",
@@ -1456,6 +1463,7 @@
         "org.librepcb.LibrePCB",
         "org.libretro.RetroArch",
         "org.mamedev.MAME",
+        "org.mavlink.qgroundcontrol",
         "org.mixxx.Mixxx",
         "org.munadi.Munadi",
         "org.musescore.MuseScore",
@@ -1652,6 +1660,7 @@
         "io.github.qnapi",
         "io.github.qtox.qTox",
         "io.github.quodlibet.QuodLibet",
+        "io.github.slgobinath.SafeEyes",
         "io.github.spacingbat3.webcord",
         "io.kopia.KopiaUI",
         "io.podman_desktop.PodmanDesktop",
@@ -1994,7 +2003,6 @@
         "org.kekikakademi.ntvHaber",
         "org.ksnip.ksnip",
         "org.midori_browser.Midori",
-        "org.mozilla.Thunderbird",
         "org.mozilla.firefox",
         "org.mpdevil.mpdevil",
         "org.munadi.Munadi",
@@ -2049,6 +2057,7 @@
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.kotatogram",
         "io.github.mimbrero.WhatsAppDesktop",
+        "io.github.slgobinath.SafeEyes",
         "org.freedownloadmanager.Manager",
         "org.remmina.Remmina",
         "org.signal.Signal",
@@ -2066,6 +2075,7 @@
         "com.toggl.TogglDesktop",
         "io.github.kotatogram",
         "io.github.mimbrero.WhatsAppDesktop",
+        "io.github.slgobinath.SafeEyes",
         "org.remmina.Remmina",
         "org.signal.Signal"
     ],
@@ -2158,7 +2168,6 @@
         "edu.stanford.Almond",
         "fr.handbrake.ghb",
         "fr.masson_informatique.WhosWho",
-        "hu.kramo.Cartridges",
         "io.atom.Atom",
         "io.github.TransmissionRemoteGtk",
         "io.github.brunoherbelin.Vimix",
@@ -2185,6 +2194,7 @@
         "org.gnome.Evince",
         "org.gnome.GHex",
         "org.gnome.Lollypop",
+        "org.gnome.Loupe",
         "org.gnome.NetworkDisplays",
         "org.gnome.Notes",
         "org.gnome.OCRFeeder",
@@ -2354,6 +2364,7 @@
         "org.worldpossible.ScriptLauncher",
         "org.zim_wiki.Zim",
         "page.codeberg.JakobDev.jdAppStreamEdit",
+        "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "re.sonny.Junction",
         "space.crankshaft.Crankshaft"
     ],
@@ -2545,6 +2556,7 @@
         "com.feaneron.Boatswain",
         "com.github.muriloventuroso.givemelyrics",
         "io.github.Hexchat",
+        "io.github.slgobinath.SafeEyes",
         "io.gitlab.azymohliad.WatchMate",
         "moe.tundra.Tundra",
         "org.gajim.Gajim",
@@ -2728,6 +2740,7 @@
         "com.lakoliu.Furtherance",
         "com.toggl.TogglDesktop",
         "io.github.kotatogram",
+        "io.github.slgobinath.SafeEyes",
         "org.gajim.Gajim",
         "org.gnome.BreakTimer",
         "org.signal.Signal"
@@ -2825,6 +2838,10 @@
     "org.cinnamon.screensaver": [
         "io.github.jeffshee.Hidamari"
     ],
+    "org.freedesktop.portal.openuri": [
+        "io.github.nate_xyz.Resonance",
+        "io.gitlab.adhami3310.Converter"
+    ],
     "org.kde.plasmashell": [
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet"
@@ -2858,9 +2875,6 @@
     ],
     "org.kde.ksmserver": [
         "io.github.vikdevelop.SaveDesktop"
-    ],
-    "org.freedesktop.portal.openuri": [
-        "io.gitlab.adhami3310.Converter"
     ],
     "com.canonical.dbusmenu": [
         "moe.karaokes.mugen",

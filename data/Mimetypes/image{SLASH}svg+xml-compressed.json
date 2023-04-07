@@ -4,6 +4,7 @@
     "dev.linwood.butterfly",
     "org.cubocore.CoreImage",
     "org.cubocore.CorePaint",
+    "org.gnome.Loupe",
     "org.gnome.eog",
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gottcode.Tetzle",

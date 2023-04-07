@@ -4,6 +4,7 @@
     "io.github.arunsivaramanneo.GPUViewer",
     "net.biniou.LeBiniou",
     "org.gnome.FontManager",
+    "org.gnome.Loupe",
     "org.gnome.eog",
     "org.qelectrotech.QElectroTech"
 ]

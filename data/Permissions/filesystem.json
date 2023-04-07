@@ -573,6 +573,7 @@
         "io.github.muse_sequencer.Muse",
         "io.github.myst6re.makoureactor",
         "io.github.narunlifescience.AlphaPlot",
+        "io.github.nostar.DroidStar",
         "io.github.nuttyartist.notes",
         "io.github.obiwankennedy.HotShots",
         "io.github.parnassius.SysDVR-Qt",
@@ -881,6 +882,7 @@
         "org.mamedev.MAME",
         "org.mapeditor.Tiled",
         "org.mattbas.Glaxnimate",
+        "org.mavlink.qgroundcontrol",
         "org.mixxx.Mixxx",
         "org.mobsya.ThymioSuite",
         "org.munadi.Munadi",
@@ -947,6 +949,7 @@
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdDesktopEntryEdit",
+        "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
         "se.sjoerd.GIScan",
@@ -964,9 +967,11 @@
         "com.borgbase.Vorta",
         "com.github.qarmin.czkawka",
         "io.blockloader.BlockLoader",
+        "org.freefilesync.FreeFileSync",
         "org.gnome.DejaDup",
         "org.gnome.World.PikaBackup",
-        "org.gnome.baobab"
+        "org.gnome.baobab",
+        "page.codeberg.JakobDev.jdFlatpakSnapshot"
     ],
     "/var:ro": [
         "app.drey.KeyRack",
@@ -981,6 +986,7 @@
         "net.lutris.Lutris",
         "org.bluesabre.MenuLibre",
         "org.gnome.World.PikaBackup",
+        "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "re.sonny.Junction"
     ],
     "xdg-download": [
@@ -1066,6 +1072,7 @@
         "io.github.kotatogram",
         "io.github.martinrotter.rssguard",
         "io.github.martinrotter.rssguardlite",
+        "io.github.nostar.DroidStar",
         "io.github.openWMail.openWMail",
         "io.github.qnapi",
         "io.github.qtox.qTox",
@@ -1608,7 +1615,6 @@
         "edu.stanford.Almond",
         "fr.handbrake.ghb",
         "fr.masson_informatique.WhosWho",
-        "hu.kramo.Cartridges",
         "io.github.TransmissionRemoteGtk",
         "io.github.celluloid_player.Celluloid",
         "io.github.manisandro.gImageReader",
@@ -1630,6 +1636,7 @@
         "org.gnome.Evolution",
         "org.gnome.GHex",
         "org.gnome.Lollypop",
+        "org.gnome.Loupe",
         "org.gnome.NetworkDisplays",
         "org.gnome.OCRFeeder",
         "org.gnome.Photos",
@@ -1966,6 +1973,7 @@
         "org.gnome.DejaDup",
         "org.gnome.GHex",
         "org.gnome.Glade",
+        "org.gnome.Loupe",
         "org.gnome.TextEditor",
         "org.gnome.World.PikaBackup",
         "org.gnome.baobab",
@@ -2273,6 +2281,7 @@
         "org.gimp.GIMP",
         "org.gnome.DejaDup",
         "org.gnome.Lollypop",
+        "org.gnome.Loupe",
         "org.gnome.NetworkDisplays",
         "org.gnome.OCRFeeder",
         "org.gnome.Photos",
@@ -3034,19 +3043,36 @@
     "~/RPMLauncher:create": [
         "ga.rpmtw.rpmlauncher"
     ],
+    "~/.steam/steam:ro": [
+        "hu.kramo.Cartridges"
+    ],
+    "~/.var/app/net.lutris.Lutris:ro": [
+        "hu.kramo.Cartridges",
+        "io.github.philipk.boilr"
+    ],
+    "~/.var/app/io.itch.itch/config/itch:ro": [
+        "hu.kramo.Cartridges"
+    ],
     "~/.var/app/com.heroicgameslauncher.hgl/config/heroic:ro": [
         "hu.kramo.Cartridges"
     ],
-    "~/.steam/steam:ro": [
+    "xdg-config/itch:ro": [
+        "hu.kramo.Cartridges"
+    ],
+    "~/.var/app/com.usebottles.bottles/data/bottles:ro": [
+        "hu.kramo.Cartridges"
+    ],
+    "xdg-cache/lutris:ro": [
         "hu.kramo.Cartridges"
     ],
     "xdg-config/heroic:ro": [
         "hu.kramo.Cartridges"
     ],
-    "xdg-data/bottles:ro": [
-        "hu.kramo.Cartridges"
+    "xdg-data/lutris:ro": [
+        "hu.kramo.Cartridges",
+        "io.github.philipk.boilr"
     ],
-    "~/.var/app/com.usebottles.bottles/data/bottles:ro": [
+    "xdg-data/bottles:ro": [
         "hu.kramo.Cartridges"
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam:ro": [
@@ -3106,6 +3132,7 @@
         "org.bluesabre.MenuLibre",
         "org.freedesktop.appstream-glib",
         "org.freedesktop.appstream.cli",
+        "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "re.sonny.Junction"
     ],
     "~/coyotetm": [
@@ -3128,9 +3155,6 @@
         "org.gnome.FontManager",
         "org.gnome.font-viewer"
     ],
-    "~/.var/app/net.lutris.Lutris:ro": [
-        "io.github.philipk.boilr"
-    ],
     "~/GOG Games:ro": [
         "io.github.philipk.boilr"
     ],
@@ -3141,9 +3165,6 @@
         "io.github.philipk.boilr"
     ],
     "/run/media/mmcblk0p1:ro": [
-        "io.github.philipk.boilr"
-    ],
-    "xdg-data/lutris:ro": [
         "io.github.philipk.boilr"
     ],
     "~/Games/Heroic:ro": [
@@ -3186,6 +3207,9 @@
         "io.github.shiftey.Desktop"
     ],
     "~/.var/app/com.valvesoftware.Steam/.local/share/Steam": [
+        "io.github.tralph3.Steam_Metadata_Editor"
+    ],
+    "xdg-data/Steam-Metadata-Editor": [
         "io.github.tralph3.Steam_Metadata_Editor"
     ],
     "~/Nextcloud/Notes": [

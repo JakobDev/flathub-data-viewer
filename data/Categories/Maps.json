@@ -6,6 +6,7 @@
     "me.leucoso.Grock",
     "nl.sarine.gpx-viewer",
     "org.kde.marble",
+    "org.mavlink.qgroundcontrol",
     "org.openstreetmap.josm",
     "org.viking.Viking"
 ]

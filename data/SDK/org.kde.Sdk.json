@@ -54,6 +54,7 @@
         "io.github.jordanl2.ModularCalculator",
         "io.github.jtdx_project.JTDX",
         "io.github.muse_sequencer.Muse",
+        "io.github.nostar.DroidStar",
         "io.github.parnassius.SysDVR-Qt",
         "io.github.peazip.PeaZip",
         "io.github.punesemu.puNES",
@@ -247,6 +248,7 @@
         "org.librepcb.LibrePCB",
         "org.libretro.RetroArch",
         "org.mamedev.MAME",
+        "org.mavlink.qgroundcontrol",
         "org.musescore.MuseScore",
         "org.octave.Octave",
         "org.opennumismat.OpenNumismat",
@@ -344,7 +346,8 @@
         "org.tug.texworks",
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdAppStreamEdit",
-        "page.codeberg.JakobDev.jdDesktopEntryEdit"
+        "page.codeberg.JakobDev.jdDesktopEntryEdit",
+        "page.codeberg.JakobDev.jdFlatpakSnapshot"
     ],
     "5.15-21.08": [
         "art.taunoerik.tauno-serial-plotter",

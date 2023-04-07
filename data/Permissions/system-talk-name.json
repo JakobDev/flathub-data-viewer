@@ -236,6 +236,9 @@
         "io.appflowy.AppFlowy",
         "vn.hoabinh.quan.CoBang"
     ],
+    "org.freedesktop.statusnotifieritem.menu": [
+        "io.github.slgobinath.SafeEyes"
+    ],
     "org.freedesktop.colormanager": [
         "net.displaycal.DisplayCAL",
         "org.darktable.Darktable",
