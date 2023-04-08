@@ -1,4 +1,5 @@
 [
+    "app.organicmaps",
     "com.github.jmlich.geotagging",
     "de.akaflieg_freiburg.enroute",
     "io.github.rinigus.OSMScoutServer",

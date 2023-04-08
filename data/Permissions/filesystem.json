@@ -2828,7 +2828,8 @@
         "com.googleplaymusicdesktopplayer.GPMDP"
     ],
     "~/.local/share/flatpak/overrides": [
-        "com.hack_computer.Clubhouse"
+        "com.hack_computer.Clubhouse",
+        "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.local/share/flatpak/app:ro": [
         "com.hack_computer.Clubhouse"
@@ -3215,6 +3216,9 @@
     "~/Nextcloud/Notes": [
         "io.github.vegad.vnotes"
     ],
+    "~/.xfce4:create": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
     "xdg-download/SaveDesktop:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
@@ -3225,9 +3229,6 @@
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.cinnamon:create": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "~/.xfce4:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "host-etc:ro": [

@@ -550,6 +550,7 @@
     "org.gnome.TwentyFortyEight",
     "org.gnome.atomix",
     "org.gnome.design.BannerViewer",
+    "org.gnome.design.Palette",
     "org.gnome.design.Typography",
     "org.gnome.design.VectorSlicer",
     "org.gnome.five-or-more",
