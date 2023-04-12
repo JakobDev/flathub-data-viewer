@@ -167,6 +167,7 @@
         "edu.stanford.protege",
         "eu.ad5001.LogarithmPlotter",
         "eu.skribisto.skribisto",
+        "fm.reaper.Reaper",
         "fr.free.Homebank",
         "in.cinny.Cinny",
         "info.mumble.Mumble",
@@ -1546,6 +1547,7 @@
         "com.slack.Slack",
         "com.tracktion.Waveform",
         "de.shorsh.discord-screenaudio",
+        "fm.reaper.Reaper",
         "im.riot.Riot",
         "info.puredata.Pd-extended",
         "io.github.Soundux",
@@ -3327,6 +3329,9 @@
     ],
     "/run/ikedi": [
         "net.shrew.ike.qikea"
+    ],
+    "/home/deck/.local/share/Steam/userdata": [
+        "net.studio08.xbplay"
     ],
     "xdg-pictures/veloren:create": [
         "net.veloren.veloren"

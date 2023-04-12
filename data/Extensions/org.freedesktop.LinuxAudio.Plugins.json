@@ -6,6 +6,7 @@
     "com.obsproject.Studio",
     "com.rosegardenmusic.rosegarden",
     "com.tracktion.Waveform",
+    "fm.reaper.Reaper",
     "info.puredata.Pd-extended",
     "io.github.jliljebl.Flowblade",
     "io.github.muse_sequencer.Muse",

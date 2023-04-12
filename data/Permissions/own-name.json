@@ -270,6 +270,7 @@
     ],
     "org.mpris.mediaplayer2.firefox.*": [
         "io.gitlab.librewolf-community",
+        "one.ablaze.floorp",
         "org.mozilla.firefox"
     ],
     "io.gitlab.librewolf.*": [
