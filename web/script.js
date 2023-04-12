@@ -41,6 +41,7 @@ function getSpecialChars(text) {
     text = text.replaceAll("{DOUBLEQUOTE}", "\"")
     text = text.replaceAll("{SPACE}", " ")
     text = text.replaceAll("{ASTERISK}", "*")
+    text = text.replaceAll("{COLON}", ":")
     return text
 }
 

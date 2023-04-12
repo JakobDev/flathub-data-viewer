@@ -67,6 +67,7 @@ def clear_filename(name: str) -> str:
     name = name.replace("\"", "{DOUBLEQUOTE}")
     name = name.replace(" ", "{SPACE}")
     name = name.replace("*", "{ASTERISK}")
+    name = name.replace(":", "{COLON}")
     return name[:50]
 
 
