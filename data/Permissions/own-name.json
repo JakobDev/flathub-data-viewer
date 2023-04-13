@@ -32,6 +32,7 @@
         "org.cubocore.CoreAction",
         "org.cubocore.CoreKeyboard",
         "org.cubocore.CoreTime",
+        "org.easycoding.TunedSwitcher",
         "org.ferdium.Ferdium",
         "org.flameshot.Flameshot",
         "org.kde.neochat",
@@ -82,7 +83,6 @@
     "org.kde.statusnotifieritem-2-1": [
         "com.github.Qv2ray",
         "com.toggl.TogglDesktop",
-        "org.easycoding.TunedSwitcher",
         "ru.proninyaroslav.libretrack"
     ],
     "org.mpris.mediaplayer2.com.github.artemanufrij.playmymusic": [

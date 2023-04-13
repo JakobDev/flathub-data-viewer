@@ -4,6 +4,7 @@
         "com.github.fontmatrix.Fontmatrix",
         "com.icanblink.blink",
         "org.goldendict.GoldenDict",
+        "org.kde.skrooge",
         "org.kde.umbrello",
         "org.openshot.OpenShot",
         "org.qgis.qgis",
@@ -21,7 +22,6 @@
         "info.smplayer.SMPlayer",
         "io.github.cloose.CuteMarkEd",
         "org.fcitx.Fcitx5",
-        "org.kde.skrooge",
         "org.zealdocs.Zeal"
     ]
 }

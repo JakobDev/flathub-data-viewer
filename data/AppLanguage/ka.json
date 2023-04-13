@@ -61,6 +61,7 @@
     "org.gnome.font-viewer",
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
+    "org.kde.skrooge",
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands"
 ]
