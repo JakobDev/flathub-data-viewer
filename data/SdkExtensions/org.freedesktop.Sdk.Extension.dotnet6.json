@@ -6,6 +6,7 @@
     "io.github.openhv.OpenHV",
     "io.github.parnassius.SysDVR-Qt",
     "net.openra.OpenRA",
+    "org.jellyfin.JellyfinServer",
     "org.unitystation.StationHub",
     "pl.youkai.lanchat"
 ]

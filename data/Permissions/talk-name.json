@@ -41,6 +41,7 @@
         "com.jetbrains.RubyMine",
         "com.jetbrains.WebStorm",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.mongodb.Compass",
         "com.nextcloud.desktopclient.nextcloud",
         "com.nordpass.NordPass",
@@ -84,6 +85,7 @@
         "io.stoplight.studio",
         "io.wavebox.Wavebox",
         "net.drawpile.drawpile",
+        "net.mullvad.MullvadBrowser",
         "net.poedit.Poedit",
         "net.rpdev.OpenTodoList",
         "net.sourceforge.liferea",
@@ -116,6 +118,7 @@
         "org.tabos.banking",
         "org.tabos.roger",
         "org.videolan.VLC",
+        "ru.yandex.Browser",
         "social.whalebird.WhalebirdDesktop",
         "uk.et1.big-finish-downloader"
     ],
@@ -213,6 +216,7 @@
         "com.makemkv.MakeMKV",
         "com.mattermost.Desktop",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.moonlight_stream.Moonlight",
         "com.nextcloud.desktopclient.nextcloud",
         "com.nitrokey.nitrokey-app",
@@ -335,6 +339,7 @@
         "io.github.rafaelfassi.QLogExplorer",
         "io.github.rinigus.OSMScoutServer",
         "io.github.rinigus.PureMaps",
+        "io.github.ripose_jp.Memento",
         "io.github.rocket.editor",
         "io.github.shiftey.Desktop",
         "io.github.shiiion.primehack",
@@ -500,6 +505,7 @@
         "org.kde.akregator",
         "org.kde.alligator",
         "org.kde.angelfish",
+        "org.kde.arianna",
         "org.kde.ark",
         "org.kde.artikulate",
         "org.kde.audiotube",
@@ -715,6 +721,7 @@
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
+        "ru.yandex.Browser",
         "se.sjoerd.GIScan",
         "sh.cider.Cider",
         "social.whalebird.WhalebirdDesktop",
@@ -850,6 +857,7 @@
         "io.github.rafaelfassi.QLogExplorer",
         "io.github.rinigus.OSMScoutServer",
         "io.github.rinigus.PureMaps",
+        "io.github.ripose_jp.Memento",
         "io.github.rocket.editor",
         "io.github.shiiion.primehack",
         "io.github.tcobbs.LDView",
@@ -943,6 +951,7 @@
         "org.kde.akregator",
         "org.kde.alligator",
         "org.kde.angelfish",
+        "org.kde.arianna",
         "org.kde.ark",
         "org.kde.artikulate",
         "org.kde.audiotube",
@@ -1242,6 +1251,7 @@
         "io.github.qtox.qTox",
         "io.github.rinigus.OSMScoutServer",
         "io.github.rinigus.PureMaps",
+        "io.github.ripose_jp.Memento",
         "io.github.rocket.editor",
         "io.github.shiiion.primehack",
         "io.github.torrent_file_editor.Torrent-file-editor",
@@ -1326,6 +1336,7 @@
         "org.kde.akregator",
         "org.kde.alligator",
         "org.kde.angelfish",
+        "org.kde.arianna",
         "org.kde.ark",
         "org.kde.artikulate",
         "org.kde.audiotube",
@@ -1526,6 +1537,7 @@
         "com.google.ChromeDev",
         "com.ktechpit.wonderwall",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.mongodb.Compass",
         "com.opera.Opera",
         "com.uploadedlobster.peek",
@@ -1538,6 +1550,7 @@
         "io.github.vikdevelop.SaveDesktop",
         "io.gitlab.librewolf-community",
         "io.wavebox.Wavebox",
+        "net.mullvad.MullvadBrowser",
         "net.waterfox.waterfox",
         "one.ablaze.floorp",
         "org.chromium.Chromium",
@@ -1556,6 +1569,7 @@
         "org.mpdevil.mpdevil",
         "org.x.Warpinator",
         "org.xfce.ristretto",
+        "ru.yandex.Browser",
         "work.openpaper.Paperwork"
     ],
     "org.kde.statusnotifierwatcher": [
@@ -1572,6 +1586,7 @@
         "com.baidu.NetDisk",
         "com.calibre_ebook.calibre",
         "com.chmouel.gnomeNextMeetingApplet",
+        "com.cocoatech.deckr",
         "com.codemouse92.timecard",
         "com.discordapp.Discord",
         "com.dropbox.Client",
@@ -1675,6 +1690,7 @@
         "net.jami.Jami",
         "net.kvirc.KVIrc",
         "net.lutris.Lutris",
+        "net.mullvad.MullvadBrowser",
         "net.rpdev.OpenTodoList",
         "network.loki.Session",
         "nz.mega.MEGAsync",
@@ -1758,6 +1774,7 @@
         "com.bluejeans.BlueJeans",
         "com.borgbase.Vorta",
         "com.brave.Browser",
+        "com.cocoatech.deckr",
         "com.codemouse92.timecard",
         "com.discordapp.Discord",
         "com.dropbox.Client",
@@ -1819,6 +1836,7 @@
         "com.mattermost.Desktop",
         "com.meetfranz.Franz",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.mongodb.Compass",
         "com.musixmatch.Musixmatch",
         "com.nextcloud.desktopclient.nextcloud",
@@ -2032,6 +2050,7 @@
         "org.zulip.Zulip",
         "rocks.koreader.KOReader",
         "ru.proninyaroslav.libretrack",
+        "ru.yandex.Browser",
         "sh.cider.Cider",
         "si.tano.Vremenar",
         "so.onekey.Wallet",
@@ -2109,6 +2128,7 @@
         "com.github.Eloston.UngoogledChromium",
         "com.github.quaternion",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.opera.Opera",
         "org.chromium.Chromium",
         "org.cryptomator.Cryptomator",
@@ -2121,7 +2141,8 @@
         "org.kde.ruqola",
         "org.kde.tokodon",
         "org.remmina.Remmina",
-        "org.videolan.VLC"
+        "org.videolan.VLC",
+        "ru.yandex.Browser"
     ],
     "com.canonical.dbusmenu": [
         "app.moosync.moosync",
@@ -2188,6 +2209,7 @@
         "io.gitlab.jstest_gtk.jstest_gtk",
         "io.gitlab.librewolf-community",
         "net.giuspen.cherrytree",
+        "net.mullvad.MullvadBrowser",
         "net.sourceforge.efaxgtk",
         "one.ablaze.floorp",
         "org.bleachbit.BleachBit",
@@ -2270,7 +2292,6 @@
         "org.gnome.Boxes",
         "org.gnome.Gtranslator",
         "org.laptop.TurtleArtActivity",
-        "org.pitivi.Pitivi",
         "org.remmina.Remmina"
     ],
     "org.freedesktop.flatpak": [
@@ -2395,6 +2416,7 @@
         "com.github.philip_scott.spice-up",
         "com.google.Chrome",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.moonlight_stream.Moonlight",
         "com.opera.Opera",
         "com.skype.Client",
@@ -2419,6 +2441,7 @@
         "net.blockbench.Blockbench",
         "net.displaycal.DisplayCAL",
         "net.jami.Jami",
+        "net.mullvad.MullvadBrowser",
         "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
         "net.waterfox.waterfox",
@@ -2439,6 +2462,7 @@
         "org.tordini.flavio.Minitube",
         "org.videolan.VLC",
         "re.chiaki.Chiaki",
+        "ru.yandex.Browser",
         "tv.kodi.Kodi",
         "tv.plex.PlexDesktop",
         "tv.plex.PlexHTPC",
@@ -2494,6 +2518,7 @@
         "com.google.ChromeDev",
         "com.mattjakeman.ExtensionManager",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.opera.Opera",
         "com.spotify.Client",
         "de.willuhn.Jameica",
@@ -2511,6 +2536,7 @@
         "io.mpv.Mpv",
         "io.wavebox.Wavebox",
         "net.displaycal.DisplayCAL",
+        "net.mullvad.MullvadBrowser",
         "one.ablaze.floorp",
         "org.chromium.Chromium",
         "org.filezillaproject.Filezilla",
@@ -2520,11 +2546,13 @@
         "org.jitsi.jitsi-meet",
         "org.keepassxc.KeePassXC",
         "org.mozilla.firefox",
-        "org.qbittorrent.qBittorrent"
+        "org.qbittorrent.qBittorrent",
+        "ru.yandex.Browser"
     ],
     "org.gnome.mutter.idlemonitor.*": [
         "com.brave.Browser",
-        "com.microsoft.Edge"
+        "com.microsoft.Edge",
+        "com.microsoft.EdgeDev"
     ],
     "org.gnome.evolution.dataserver.*": [
         "com.chmouel.gnomeNextMeetingApplet",
@@ -3012,15 +3040,16 @@
         "org.kde.akregator",
         "org.kde.kontact"
     ],
+    "org.kde.baloo": [
+        "org.kde.arianna",
+        "org.kde.elisa"
+    ],
     "org.kde.kiod5": [
         "org.kde.dolphin"
     ],
     "org.kde.kpasswdserver": [
         "org.kde.dolphin",
         "org.kde.kontact"
-    ],
-    "org.kde.baloo": [
-        "org.kde.elisa"
     ],
     "org.freedesktop.portal.*": [
         "org.kde.kontact"

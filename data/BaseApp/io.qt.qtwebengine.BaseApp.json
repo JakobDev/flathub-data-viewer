@@ -6,8 +6,7 @@
         "io.github.wereturtle.ghostwriter",
         "net.retrodeck.retrodeck",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
-        "net.xm1math.Texmaker",
-        "org.kde.kgeotag"
+        "net.xm1math.Texmaker"
     ],
     "5.15-22.08": [
         "com.github.iwalton3.jellyfin-media-player",
@@ -20,11 +19,13 @@
         "org.freecadweb.FreeCAD",
         "org.kde.akregator",
         "org.kde.angelfish",
+        "org.kde.arianna",
         "org.kde.cantor",
         "org.kde.digikam",
         "org.kde.falkon",
         "org.kde.kalgebra",
         "org.kde.kdevelop",
+        "org.kde.kgeotag",
         "org.kde.kontact",
         "org.kde.kphotoalbum",
         "org.kde.labplot2",

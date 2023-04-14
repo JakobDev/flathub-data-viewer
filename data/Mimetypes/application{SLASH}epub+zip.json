@@ -4,6 +4,7 @@
     "com.github.johnfactotum.Foliate",
     "com.sigil_ebook.Sigil",
     "io.gitlab.coolreader_ng.crqt-ng",
+    "org.kde.arianna",
     "org.kde.okular",
     "rocks.koreader.KOReader"
 ]

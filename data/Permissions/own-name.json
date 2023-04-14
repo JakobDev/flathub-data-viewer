@@ -72,6 +72,7 @@
         "io.github.purplehorrorrus.Meridius",
         "io.wavebox.Wavebox",
         "org.chromium.Chromium",
+        "ru.yandex.Browser",
         "tech.feliciano.pocket-casts"
     ],
     "org.mpris.mediaplayer2.euterpe-gtk": [
@@ -140,7 +141,8 @@
         "com.mastermindzh.tidal-hifi"
     ],
     "org.mpris.mediaplayer2.edge.*": [
-        "com.microsoft.Edge"
+        "com.microsoft.Edge",
+        "com.microsoft.EdgeDev"
     ],
     "org.mpris.mediaplayer2.netease-cloud-music": [
         "com.netease.CloudMusic"
@@ -270,6 +272,7 @@
     ],
     "org.mpris.mediaplayer2.firefox.*": [
         "io.gitlab.librewolf-community",
+        "net.mullvad.MullvadBrowser",
         "one.ablaze.floorp",
         "org.mozilla.firefox"
     ],
@@ -293,6 +296,9 @@
     ],
     "org.mpris.mediaplayer2.bible": [
         "net.lugsole.bible_gui"
+    ],
+    "org.mozilla.mullvadbrowser.*": [
+        "net.mullvad.MullvadBrowser"
     ],
     "org.mpris.mediaplayer2.net.sonic_pi.sonicpi": [
         "net.sonic_pi.SonicPi"

@@ -5,7 +5,9 @@
         "com.google.Chrome",
         "com.google.ChromeDev",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.opera.Opera",
-        "org.chromium.Chromium"
+        "org.chromium.Chromium",
+        "ru.yandex.Browser"
     ]
 }

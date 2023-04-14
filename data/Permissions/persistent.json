@@ -53,10 +53,12 @@
         "com.brave.Browser",
         "com.github.Eloston.UngoogledChromium",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.netease.CloudMusic",
         "com.opera.Opera",
         "io.github.Icalingua.Icalingua",
-        "io.wavebox.Wavebox"
+        "io.wavebox.Wavebox",
+        "ru.yandex.Browser"
     ],
     "diylc": [
         "com.diy_fever.DIYLayoutCreator"
@@ -141,8 +143,10 @@
     ],
     ".renpy": [
         "com.katawa_shoujo.KatawaShoujo",
+        "games.zetsubou.AnAdventurersGallantry",
         "games.zetsubou.HumanityMustPerish",
         "games.zetsubou.MaxMassacre",
+        "games.zetsubou.SablesGrimoireDemo",
         "games.zetsubou.WanderNoMore"
     ],
     ".minecraft": [
@@ -334,6 +338,9 @@
     ],
     ".config/KVIrc": [
         "net.kvirc.KVIrc"
+    ],
+    ".mullvad": [
+        "net.mullvad.MullvadBrowser"
     ],
     ".openra": [
         "net.openra.OpenRA"

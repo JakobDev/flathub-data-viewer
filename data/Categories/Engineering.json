@@ -8,6 +8,7 @@
     "com.solvespace.SolveSpace",
     "com.sweethome3d.Sweethome3d",
     "de.klayout.KLayout",
+    "io.github.dlippok.photometric-viewer",
     "io.github.dubstar_04.design",
     "io.github.gtkwave.GTKWave",
     "io.github.trevorsandy.LPub3D",

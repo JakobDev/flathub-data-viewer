@@ -4,9 +4,11 @@
     "com.google.Chrome",
     "com.google.ChromeDev",
     "com.microsoft.Edge",
+    "com.microsoft.EdgeDev",
     "com.opera.Opera",
     "io.wavebox.Wavebox",
     "net.sourceforge.liferea",
     "org.chromium.Chromium",
-    "org.kde.akregator"
+    "org.kde.akregator",
+    "ru.yandex.Browser"
 ]

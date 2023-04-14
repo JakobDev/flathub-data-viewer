@@ -15,6 +15,7 @@
     "com.google.ChromeDev",
     "com.itextpdf.RUPS",
     "com.microsoft.Edge",
+    "com.microsoft.EdgeDev",
     "com.opera.Opera",
     "dev.linwood.butterfly",
     "eu.scarpetta.PDFMixTool",
@@ -37,5 +38,6 @@
     "org.tug.texworks",
     "org.verapdf.veraPDF",
     "rocks.koreader.KOReader",
+    "ru.yandex.Browser",
     "work.openpaper.Paperwork"
 ]

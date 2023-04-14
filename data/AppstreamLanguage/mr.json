@@ -41,5 +41,6 @@
     "org.gnucash.GnuCash",
     "org.inkscape.Inkscape",
     "org.stellarium.Stellarium",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.virt_manager.virt-viewer"
 ]

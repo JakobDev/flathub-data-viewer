@@ -223,6 +223,7 @@
         "io.github.wereturtle.ghostwriter",
         "io.github.xverizex.nem_desktop",
         "io.github.zaps166.QMPlay2",
+        "io.github.zhrexl.thisweekinmylife",
         "io.gitlab.persiangolf.voicegen",
         "io.itch.azagaya.Laigter",
         "io.lbry.lbry-app",
@@ -587,6 +588,7 @@
         "io.github.rafaelfassi.QLogExplorer",
         "io.github.rinigus.OSMScoutServer",
         "io.github.rinigus.PureMaps",
+        "io.github.ripose_jp.Memento",
         "io.github.rocket.editor",
         "io.github.shiiion.primehack",
         "io.github.simple64.simple64",
@@ -744,6 +746,7 @@
         "org.kde.akregator",
         "org.kde.alligator",
         "org.kde.angelfish",
+        "org.kde.arianna",
         "org.kde.ark",
         "org.kde.artikulate",
         "org.kde.audiotube",
@@ -1004,6 +1007,7 @@
         "com.baidu.NetDisk",
         "com.boxy_svg.BoxySVG",
         "com.brave.Browser",
+        "com.cocoatech.deckr",
         "com.darhon.drfinance",
         "com.discordapp.Discord",
         "com.diy_fever.DIYLayoutCreator",
@@ -1040,6 +1044,7 @@
         "com.ktechpit.wonderwall",
         "com.meetfranz.Franz",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.opera.Opera",
         "com.qq.QQ",
         "com.rabbit_company.passky",
@@ -1150,6 +1155,7 @@
         "org.zotero.Zotero",
         "org.zulip.Zulip",
         "pl.art.lach.slawek.V2BlankBrowser",
+        "ru.yandex.Browser",
         "sh.ppy.osu",
         "ua.org.brezblock.q4wine",
         "xyz.armcord.ArmCord"
@@ -1162,6 +1168,7 @@
         "co.luoja.Telyn",
         "com.boxy_svg.BoxySVG",
         "com.brave.Browser",
+        "com.cocoatech.deckr",
         "com.darhon.drfinance",
         "com.diy_fever.DIYLayoutCreator",
         "com.dosbox.DOSBox",
@@ -1189,6 +1196,7 @@
         "com.ktechpit.whatsie",
         "com.lakoliu.Furtherance",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.milesalan.mepo",
         "com.quixel.Bridge",
         "com.rabbit_company.passky",
@@ -1257,6 +1265,7 @@
         "org.zulip.Zulip",
         "tr.gov.uyap.Editor",
         "ua.org.brezblock.q4wine",
+        "uk.org.greenend.chiark.sgtatham.puzzles",
         "uk.org.zint.zint-qt",
         "xyz.hyperplay.HyperPlay"
     ],
@@ -1264,6 +1273,7 @@
         "app.moosync.moosync",
         "ch.x29a.playitslowly",
         "com.brave.Browser",
+        "com.cocoatech.deckr",
         "com.github.Matoking.protontricks",
         "com.github.ahrm.sioyek",
         "com.github.arminstraub.krop",
@@ -1276,6 +1286,7 @@
         "com.google.Chrome",
         "com.ktechpit.whatsie",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.netease.CloudMusic",
         "com.seventhstring.Transcribe",
         "com.spacestation14.Launcher",
@@ -1504,6 +1515,7 @@
         "io.github.hakandundar34coding.system-monitoring-center",
         "io.github.jorchube.monitorets",
         "io.github.kotatogram",
+        "io.github.ripose_jp.Memento",
         "io.github.shiiion.primehack",
         "io.gitlab.floodlight.Presenter",
         "io.mpv.Mpv",
@@ -1542,6 +1554,7 @@
         "com.github.xournalpp.xournalpp",
         "com.google.Chrome",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.obsproject.Studio",
         "com.polyphone_soundfonts.polyphone",
         "com.qq.QQ",
@@ -1562,6 +1575,7 @@
         "io.wavebox.Wavebox",
         "it.mijorus.whisper",
         "net.biniou.LeBiniou",
+        "net.mullvad.MullvadBrowser",
         "net.purrdata.PurrData",
         "net.sonic_pi.SonicPi",
         "net.sonobus.SonoBus",
@@ -1694,6 +1708,7 @@
         "org.gnode.NixView",
         "org.gnome.Evince",
         "org.gnome.NautilusPreviewer",
+        "org.kde.arianna",
         "org.nanuc.Axolotl",
         "org.nuspell.Nuspell",
         "org.parlatype.Parlatype",
@@ -1744,8 +1759,7 @@
         "org.gnome.Boxes",
         "org.gnome.Gtranslator",
         "org.gnome.Shotwell",
-        "org.laptop.TurtleArtActivity",
-        "org.pitivi.Pitivi"
+        "org.laptop.TurtleArtActivity"
     ],
     "~/.config/dconf:ro": [
         "ca._0ldsk00l.Nestopia",
@@ -1780,8 +1794,7 @@
         "org.gnome.Boxes",
         "org.gnome.Gtranslator",
         "org.gnome.Shotwell",
-        "org.laptop.TurtleArtActivity",
-        "org.pitivi.Pitivi"
+        "org.laptop.TurtleArtActivity"
     ],
     "host": [
         "ca.parallel_launcher.ParallelLauncher",
@@ -2091,6 +2104,7 @@
         "chat.rocket.RocketChat",
         "com.boxy_svg.BoxySVG",
         "com.brave.Browser",
+        "com.cocoatech.deckr",
         "com.diy_fever.DIYLayoutCreator",
         "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
@@ -2122,6 +2136,7 @@
         "io.github.jacalz.rymdport",
         "io.github.obiwankennedy.HotShots",
         "io.github.qtox.qTox",
+        "io.github.ripose_jp.Memento",
         "io.github.webcamoid.Webcamoid",
         "io.mpv.Mpv",
         "net.blockbench.Blockbench",
@@ -2156,6 +2171,7 @@
         "chat.quadrix.Quadrix",
         "com.bluejeans.BlueJeans",
         "com.brave.Browser",
+        "com.cocoatech.deckr",
         "com.github.Matoking.protontricks",
         "com.github.amikha1lov.RecApp",
         "com.github.artemanufrij.playmyvideos",
@@ -2166,6 +2182,7 @@
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.tracktion.Waveform",
         "com.tutanota.Tutanota",
         "com.uploadedlobster.peek",
@@ -2175,6 +2192,7 @@
         "io.github.jacalz.rymdport",
         "io.github.qnapi",
         "io.github.qtox.qTox",
+        "io.github.ripose_jp.Memento",
         "io.github.seadve.Kooha",
         "io.github.webcamoid.Webcamoid",
         "io.mpv.Mpv",
@@ -2352,6 +2370,7 @@
     "xdg-desktop": [
         "com.boxy_svg.BoxySVG",
         "com.brave.Browser",
+        "com.cocoatech.deckr",
         "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
         "com.github.corna.Vivado",
@@ -2361,6 +2380,7 @@
         "com.heroicgameslauncher.hgl",
         "com.ktechpit.whatsie",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.tutanota.Tutanota",
         "com.viber.Viber",
         "io.github.TheThirdOne.rars",
@@ -2389,12 +2409,15 @@
         "com.google.Chrome",
         "com.google.ChromeDev",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "io.github.realmazharhussain.GdmSettings",
         "io.wavebox.Wavebox"
     ],
     "~/.local/share/applications:create": [
         "com.brave.Browser",
-        "com.microsoft.Edge"
+        "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
+        "ru.yandex.Browser"
     ],
     "/run/.heim_org.h5l.kcm-socket": [
         "com.brave.Browser",
@@ -2402,6 +2425,7 @@
         "com.google.Chrome",
         "com.google.ChromeDev",
         "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
         "com.opera.Opera",
         "dev.vieb.Vieb",
         "eu.betterbird.Betterbird",
@@ -2411,11 +2435,14 @@
         "org.gnome.Evolution",
         "org.mozilla.Thunderbird",
         "org.qutebrowser.qutebrowser",
+        "ru.yandex.Browser",
         "se.cendio.tlclient"
     ],
     "~/.local/share/icons:create": [
         "com.brave.Browser",
-        "com.microsoft.Edge"
+        "com.microsoft.Edge",
+        "com.microsoft.EdgeDev",
+        "ru.yandex.Browser"
     ],
     "~/.config/kioslaverc": [
         "com.brave.Browser",
@@ -2454,6 +2481,7 @@
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
         "io.github.retgal.Dayon",
+        "io.github.ripose_jp.Memento",
         "io.mpv.Mpv",
         "io.neovim.nvim",
         "io.webtorrent.WebTorrent",
@@ -2698,6 +2726,7 @@
         "info.mumble.Mumble",
         "io.github.celluloid_player.Celluloid",
         "io.github.dosbox-staging",
+        "io.github.ripose_jp.Memento",
         "io.mpv.Mpv",
         "org.qutebrowser.qutebrowser"
     ],
@@ -2754,6 +2783,7 @@
         "net.openra.OpenRA",
         "org.atheme.audacious",
         "org.gnome.Evince",
+        "org.jellyfin.JellyfinServer",
         "org.purei.Play",
         "rocks.koreader.KOReader"
     ],
@@ -2764,6 +2794,7 @@
         "net.openra.OpenRA",
         "org.cubocore.CoreFM",
         "org.gnome.Evince",
+        "org.jellyfin.JellyfinServer",
         "org.purei.Play",
         "org.yuzu_emu.yuzu",
         "rocks.koreader.KOReader"
@@ -3152,7 +3183,8 @@
         "io.github.lruzicka.Needly"
     ],
     "xdg-run/libvirt": [
-        "io.github.lruzicka.Needly"
+        "io.github.lruzicka.Needly",
+        "org.virt_manager.virt-viewer"
     ],
     "xdg-data/fonts:create": [
         "io.github.mmstick.FontFinder",
@@ -3184,7 +3216,8 @@
         "io.github.prateekmedia.pstube"
     ],
     "xdg-download:create": [
-        "io.github.purplehorrorrus.Meridius"
+        "io.github.purplehorrorrus.Meridius",
+        "net.mullvad.MullvadBrowser"
     ],
     "xdg-music:create": [
         "io.github.purplehorrorrus.Meridius"
@@ -3534,6 +3567,10 @@
     "~/.local/share/fonts:create": [
         "org.gustavoperedo.FontDownloader"
     ],
+    "/mnt:ro": [
+        "org.jellyfin.JellyfinServer",
+        "org.purei.Play"
+    ],
     "~/.local/share/godot/app_userdata/libre-trainsim": [
         "org.libretrainsim.Libre-TrainSim"
     ],
@@ -3557,9 +3594,6 @@
     ],
     "~/.elc:create": [
         "org.pjbroad.EternallandsClient"
-    ],
-    "/mnt:ro": [
-        "org.purei.Play"
     ],
     "xdg-run/discord-ipc-0:create": [
         "org.skytemple.SkyTemple"

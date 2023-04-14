@@ -1,6 +1,7 @@
 [
     "com.github.rafostar.Clapper",
     "io.github.celluloid_player.Celluloid",
+    "io.github.ripose_jp.Memento",
     "io.mpv.Mpv",
     "net.mediaarea.MediaConch",
     "net.mediaarea.MediaInfo",

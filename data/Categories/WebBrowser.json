@@ -7,10 +7,12 @@
     "com.google.Chrome",
     "com.google.ChromeDev",
     "com.microsoft.Edge",
+    "com.microsoft.EdgeDev",
     "com.opera.Opera",
     "dev.vieb.Vieb",
     "io.gitlab.librewolf-community",
     "io.wavebox.Wavebox",
+    "net.mullvad.MullvadBrowser",
     "net.waterfox.waterfox",
     "one.ablaze.floorp",
     "org.chromium.Chromium",
@@ -21,5 +23,6 @@
     "org.midori_browser.Midori",
     "org.mozilla.firefox",
     "org.qutebrowser.qutebrowser",
-    "re.sonny.Tangram"
+    "re.sonny.Tangram",
+    "ru.yandex.Browser"
 ]

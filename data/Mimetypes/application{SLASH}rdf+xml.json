@@ -4,6 +4,7 @@
     "com.google.Chrome",
     "com.google.ChromeDev",
     "com.microsoft.Edge",
+    "com.microsoft.EdgeDev",
     "com.opera.Opera",
     "edu.stanford.protege",
     "io.wavebox.Wavebox",
@@ -11,5 +12,6 @@
     "org.chromium.Chromium",
     "org.kde.akregator",
     "org.qutebrowser.qutebrowser",
-    "org.zotero.Zotero"
+    "org.zotero.Zotero",
+    "ru.yandex.Browser"
 ]

@@ -8,6 +8,7 @@
     "org.gnome.Builder",
     "org.gnome.Loupe",
     "org.hedgewars.Hedgewars",
+    "org.jellyfin.JellyfinServer",
     "org.kde.umbrello",
     "org.mozilla.Thunderbird",
     "sa.sy.bluerecorder"

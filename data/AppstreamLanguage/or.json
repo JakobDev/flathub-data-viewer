@@ -30,5 +30,6 @@
     "org.gnome.font-viewer",
     "org.gnome.seahorse.Application",
     "org.inkscape.Inkscape",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.virt_manager.virt-viewer"
 ]

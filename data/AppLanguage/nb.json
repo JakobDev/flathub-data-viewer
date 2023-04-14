@@ -11,6 +11,7 @@
     "io.github.Hexchat",
     "io.github.quodlibet.ExFalso",
     "io.github.quodlibet.QuodLibet",
+    "io.github.realmazharhussain.GdmSettings",
     "io.neovim.nvim",
     "net.minetest.Minetest",
     "net.poedit.Poedit",

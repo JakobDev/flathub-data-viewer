@@ -82,6 +82,7 @@
     "net.mediaarea.MediaConch",
     "net.mediaarea.MediaInfo",
     "net.minetest.Minetest",
+    "net.mullvad.MullvadBrowser",
     "net.pioneerspacesim.Pioneer",
     "net.retrodeck.retrodeck",
     "net.shrew.ike.qikea",

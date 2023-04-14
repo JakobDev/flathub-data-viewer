@@ -5,6 +5,7 @@
     "com.google.Chrome",
     "com.google.ChromeDev",
     "com.microsoft.Edge",
+    "com.microsoft.EdgeDev",
     "com.opera.Opera",
     "edu.stanford.protege",
     "io.atom.Atom",
@@ -18,5 +19,6 @@
     "org.gnome.Builder",
     "org.netsurf_browser.NetSurf",
     "org.nongnu.gsequencer.gsequencer",
-    "org.qutebrowser.qutebrowser"
+    "org.qutebrowser.qutebrowser",
+    "ru.yandex.Browser"
 ]

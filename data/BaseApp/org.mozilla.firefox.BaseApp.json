@@ -1,5 +1,6 @@
 {
     "22.08": [
+        "net.mullvad.MullvadBrowser",
         "org.mozilla.firefox"
     ]
 }

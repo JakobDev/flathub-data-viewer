@@ -12,6 +12,7 @@
     "org.gnome.Connections",
     "org.kde.krdc",
     "org.tigervnc.vncviewer",
+    "org.virt_manager.virt-viewer",
     "se.cendio.tlclient",
     "uk.org.greenend.chiark.sgtatham.putty"
 ]

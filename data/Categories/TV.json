@@ -6,6 +6,7 @@
     "com.stremio.Stremio",
     "de.mediathekview.MediathekView",
     "io.github.celluloid_player.Celluloid",
+    "io.github.ripose_jp.Memento",
     "io.mpv.Mpv",
     "org.kde.haruna",
     "org.kde.telly-skout",

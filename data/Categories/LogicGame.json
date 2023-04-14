@@ -39,5 +39,6 @@
     "org.kde.palapeli",
     "org.kde.picmi",
     "org.nongnu.enigma",
-    "org.seul.pingus"
+    "org.seul.pingus",
+    "uk.org.greenend.chiark.sgtatham.puzzles"
 ]

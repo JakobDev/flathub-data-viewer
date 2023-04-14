@@ -5,6 +5,7 @@
     "com.google.Chrome",
     "com.google.ChromeDev",
     "com.microsoft.Edge",
+    "com.microsoft.EdgeDev",
     "com.opera.Opera",
     "dev.vieb.Vieb",
     "io.gitlab.librewolf-community",
@@ -20,5 +21,6 @@
     "org.midori_browser.Midori",
     "org.mozilla.firefox",
     "org.netsurf_browser.NetSurf",
-    "org.qutebrowser.qutebrowser"
+    "org.qutebrowser.qutebrowser",
+    "ru.yandex.Browser"
 ]

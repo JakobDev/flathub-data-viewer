@@ -99,5 +99,6 @@
     "org.kde.qmlkonsole",
     "org.kde.vvave",
     "org.stellarium.Stellarium",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.virt_manager.virt-viewer"
 ]

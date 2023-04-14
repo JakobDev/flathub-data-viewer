@@ -20,6 +20,7 @@
     "com.google.ChromeDev",
     "com.interversehq.qView",
     "com.microsoft.Edge",
+    "com.microsoft.EdgeDev",
     "com.opera.Opera",
     "com.rawtherapee.RawTherapee",
     "com.ultimaker.cura",
@@ -68,5 +69,6 @@
     "org.photoqt.PhotoQt",
     "org.qutebrowser.qutebrowser",
     "org.xfce.ristretto",
+    "ru.yandex.Browser",
     "work.openpaper.Paperwork"
 ]

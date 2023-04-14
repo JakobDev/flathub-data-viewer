@@ -63,6 +63,7 @@
     "org.kde.akregator",
     "org.kde.alligator",
     "org.kde.angelfish",
+    "org.kde.arianna",
     "org.kde.ark",
     "org.kde.artikulate",
     "org.kde.audiotube",
@@ -178,5 +179,6 @@
     "org.kde.umbrello",
     "org.kde.vvave",
     "org.stellarium.Stellarium",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.virt_manager.virt-viewer"
 ]

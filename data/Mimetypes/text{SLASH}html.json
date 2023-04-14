@@ -2,12 +2,14 @@
     "com.abisource.AbiWord",
     "com.brave.Browser",
     "com.calibre_ebook.calibre",
+    "com.cocoatech.deckr",
     "com.cuperino.qprompt",
     "com.github.Eloston.UngoogledChromium",
     "com.github.fries1234.ncsa-mosaic",
     "com.google.Chrome",
     "com.google.ChromeDev",
     "com.microsoft.Edge",
+    "com.microsoft.EdgeDev",
     "com.notepadqq.Notepadqq",
     "com.opera.Opera",
     "cz.zeropage.Formiko",
@@ -35,5 +37,6 @@
     "org.mozilla.firefox",
     "org.netsurf_browser.NetSurf",
     "org.qutebrowser.qutebrowser",
-    "org.sugarlabs.MusicBlocks"
+    "org.sugarlabs.MusicBlocks",
+    "ru.yandex.Browser"
 ]
