@@ -1,3 +1,4 @@
 [
-    "com.snes9x.Snes9x"
+    "com.snes9x.Snes9x",
+    "io.github.xyproto.zsnes"
 ]

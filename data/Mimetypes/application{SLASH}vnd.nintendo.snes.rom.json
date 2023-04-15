@@ -1,4 +1,5 @@
 [
     "com.snes9x.Snes9x",
+    "io.github.xyproto.zsnes",
     "org.gnome.Games"
 ]
