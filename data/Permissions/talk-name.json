@@ -1600,6 +1600,7 @@
         "com.github.debauchee.barrier",
         "com.github.dynobo.normcap",
         "com.github.eneshecan.WhatsAppForLinux",
+        "com.github.gabutakut.gabutdm",
         "com.github.hluk.copyq",
         "com.github.inercia.k3x",
         "com.github.quaternion",
@@ -2690,6 +2691,12 @@
         "com.github.debauchee.barrier",
         "org.raspberrypi.rpi-imager"
     ],
+    "org.kde.statusnotifieritem": [
+        "com.github.gabutakut.gabutdm",
+        "com.hunterwittenborn.Celeste",
+        "com.rtosta.zapzap",
+        "net.hovancik.Stretchly"
+    ],
     "org.freedesktop.portal.desktop": [
         "com.github.gabutakut.gabutdm"
     ],
@@ -2762,11 +2769,6 @@
     "com.hack_computer.gamestateservice": [
         "com.hack_computer.OperatingSystemApp",
         "com.hack_computer.Sidetrack"
-    ],
-    "org.kde.statusnotifieritem": [
-        "com.hunterwittenborn.Celeste",
-        "com.rtosta.zapzap",
-        "net.hovancik.Stretchly"
     ],
     "org.gnome.keyring.systemprompter": [
         "com.jetbrains.DataGrip",

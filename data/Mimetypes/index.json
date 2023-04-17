@@ -1694,7 +1694,7 @@
         "x-scheme-handler{SLASH}oo-office",
         "x-scheme-handler{SLASH}opds",
         "x-scheme-handler{SLASH}openpgp4fpr",
-        "x-scheme-handler{SLASH}openra-hv-20230212",
+        "x-scheme-handler{SLASH}openra-hv-20230416",
         "x-scheme-handler{SLASH}openra-ra-release-20230225",
         "x-scheme-handler{SLASH}org.gnunet.Messenger",
         "x-scheme-handler{SLASH}orggabmusgiaradesktop",

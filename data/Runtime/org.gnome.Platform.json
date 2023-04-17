@@ -161,7 +161,6 @@
         "org.eclipse.Java",
         "org.eclipse.Javascript",
         "org.eclipse.iot.fourdiac.Ide",
-        "org.emilien.Password",
         "org.emilien.SpaceLaunch",
         "org.flozz.calcleaner",
         "org.freedesktop.GstDebugViewer",
@@ -227,7 +226,6 @@
         "re.sonny.Tangram",
         "ro.fxdata.taskmonitor.viewer",
         "ro.hume.cosmin.ShoppingList",
-        "se.sjoerd.Graphs",
         "uk.org.greenend.chiark.sgtatham.putty",
         "vn.hoabinh.quan.CoBang",
         "work.openpaper.Paperwork",
@@ -348,6 +346,7 @@
         "net.launchpad.gmult",
         "net.lutris.Lutris",
         "org.cvfosammmm.Setzer",
+        "org.emilien.Password",
         "org.free_astro.siril",
         "org.gabmus.gfeeds",
         "org.gabmus.giara",
@@ -425,7 +424,8 @@
         "page.codeberg.tpikonen.satellite",
         "pm.mirko.Atoms",
         "re.sonny.Commit",
-        "sa.sy.bluerecorder"
+        "sa.sy.bluerecorder",
+        "se.sjoerd.Graphs"
     ],
     "42": [
         "app.riftshare.RiftShare",
@@ -526,7 +526,6 @@
         "org.gmusicbrowser.gmusicbrowser",
         "org.gnome.Aisleriot",
         "org.gnome.ColorViewer",
-        "org.gnome.Dictionary",
         "org.gnome.FontManager",
         "org.gnome.Four-in-a-row",
         "org.gnome.Games",

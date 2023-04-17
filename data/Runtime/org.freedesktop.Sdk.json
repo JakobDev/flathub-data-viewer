@@ -28,6 +28,7 @@
         "io.gdevs.GDLauncher",
         "io.neovim.nvim",
         "net.blix.BlueMail",
+        "org.apache.netbeans",
         "org.codeblocks.codeblocks",
         "org.flathub.flatpak-external-data-checker",
         "org.geany.Geany",
@@ -49,8 +50,7 @@
         "com.synology.CloudStationBackup",
         "com.synology.SynologyAssistant",
         "com.unity.UnityHub",
-        "io.stoplight.studio",
-        "org.apache.netbeans"
+        "io.stoplight.studio"
     ],
     "19.08": [
         "org.aliflang.lang"
