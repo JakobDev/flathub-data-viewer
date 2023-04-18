@@ -5618,8 +5618,7 @@
         "org.freedesktop.Bustle",
         "org.gnome.Builder",
         "org.gnome.dspy",
-        "org.xfce.ristretto",
-        "re.sonny.Workbench"
+        "org.xfce.ristretto"
     ],
     "system-bus": [
         "io.github.bothlab.syntalos",

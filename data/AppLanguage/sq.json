@@ -1,4 +1,5 @@
 [
+    "com.transmissionbt.Transmission",
     "io.github.Hexchat",
     "io.github.manisandro.gImageReader",
     "net.poedit.Poedit",

@@ -6,11 +6,11 @@
     ],
     "44": [
         "com.github.mikacousin.olc",
-        "org.gnome.Builder"
+        "org.gnome.Builder",
+        "re.sonny.Workbench"
     ],
     "43": [
         "com.github.themix_project.Oomox",
-        "org.gnome.Devhelp",
-        "re.sonny.Workbench"
+        "org.gnome.Devhelp"
     ]
 }

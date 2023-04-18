@@ -1,4 +1,5 @@
 [
     "app.vup.Vup",
-    "com.github.liferooter.textpieces"
+    "com.github.liferooter.textpieces",
+    "re.sonny.Workbench"
 ]

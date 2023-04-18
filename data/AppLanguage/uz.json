@@ -1,5 +1,6 @@
 [
     "com.github.unrud.VideoDownloader",
+    "com.transmissionbt.Transmission",
     "net.poedit.Poedit",
     "org.gnome.Epiphany",
     "org.gnome.eog",

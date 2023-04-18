@@ -1,6 +1,7 @@
 [
     "app.rednotebook.RedNotebook",
     "com.github.ztefn.haguichi",
+    "com.transmissionbt.Transmission",
     "com.tux4kids.tuxtype",
     "io.github.Hexchat",
     "net.sourceforge.liferea",

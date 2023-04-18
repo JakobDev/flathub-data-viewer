@@ -1,5 +1,6 @@
 [
     "app.rednotebook.RedNotebook",
+    "com.transmissionbt.Transmission",
     "org.gnome.Aisleriot",
     "org.gnome.Boxes",
     "org.gnome.Calculator",

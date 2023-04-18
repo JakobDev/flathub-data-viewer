@@ -2,6 +2,7 @@
     "app.rednotebook.RedNotebook",
     "com.github.PintaProject.Pinta",
     "com.github.debauchee.barrier",
+    "com.transmissionbt.Transmission",
     "org.gnome.DejaDup",
     "org.tuxpaint.Tuxpaint"
 ]
