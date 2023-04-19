@@ -1,5 +1,6 @@
 [
     "io.atom.Atom",
+    "io.github.zyedidia.micro",
     "org.cubocore.CorePad",
     "org.geany.Geany"
 ]

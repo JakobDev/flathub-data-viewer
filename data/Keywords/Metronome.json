@@ -1,3 +1,4 @@
 [
-    "net.sourceforge.kmetronome"
+    "net.sourceforge.kmetronome",
+    "org.gnome.gitlab.dqpb.GMetronome"
 ]

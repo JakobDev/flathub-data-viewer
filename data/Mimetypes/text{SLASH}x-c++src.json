@@ -1,6 +1,7 @@
 [
     "com.helix_editor.Helix",
     "io.atom.Atom",
+    "io.github.zyedidia.micro",
     "io.neovim.nvim",
     "io.qt.QtCreator",
     "org.cubocore.CorePad",

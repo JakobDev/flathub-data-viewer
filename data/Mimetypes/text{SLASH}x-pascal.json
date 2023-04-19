@@ -1,5 +1,6 @@
 [
     "com.helix_editor.Helix",
+    "io.github.zyedidia.micro",
     "io.neovim.nvim",
     "org.cubocore.CorePad",
     "org.geany.Geany",

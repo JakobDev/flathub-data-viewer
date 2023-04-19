@@ -10,6 +10,7 @@
     "edu.stanford.protege",
     "io.atom.Atom",
     "io.github.muse_sequencer.Muse",
+    "io.github.zyedidia.micro",
     "io.wavebox.Wavebox",
     "org.chromium.Chromium",
     "org.cubocore.CorePad",

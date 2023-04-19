@@ -1,6 +1,7 @@
 [
     "com.helix_editor.Helix",
     "io.atom.Atom",
+    "io.github.zyedidia.micro",
     "io.neovim.nvim",
     "nl.openoffice.bluefish",
     "org.cubocore.CorePad",

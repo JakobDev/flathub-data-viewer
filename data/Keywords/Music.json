@@ -17,5 +17,6 @@
     "net.sourceforge.kmetronome",
     "org.denemo.Denemo",
     "org.gnome.Lollypop",
-    "org.gnome.Music"
+    "org.gnome.Music",
+    "org.gnome.gitlab.dqpb.GMetronome"
 ]

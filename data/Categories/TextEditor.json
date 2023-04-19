@@ -18,6 +18,7 @@
     "io.atom.Atom",
     "io.github.cudatext.CudaText-Qt5",
     "io.github.lainsce.Quilter",
+    "io.github.zyedidia.micro",
     "io.howl.Editor",
     "io.liri.Text",
     "io.neovim.nvim",

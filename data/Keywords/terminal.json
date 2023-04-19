@@ -1,5 +1,6 @@
 [
     "com.raggesilver.BlackBox",
+    "io.github.zyedidia.micro",
     "org.contourterminal.Contour",
     "org.kde.qmlkonsole",
     "uk.org.greenend.chiark.sgtatham.putty"

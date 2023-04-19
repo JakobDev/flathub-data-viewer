@@ -1,4 +1,5 @@
 [
+    "io.github.zyedidia.micro",
     "io.gitlab.osslugaru.Lugaru",
     "io.qt.qtwebkit.BaseApp",
     "org.flathub.flatpak-external-data-checker",

@@ -1,5 +1,6 @@
 [
     "io.atom.Atom",
+    "io.github.zyedidia.micro",
     "nl.openoffice.bluefish",
     "org.cubocore.CorePad",
     "org.eclipse.Javascript",

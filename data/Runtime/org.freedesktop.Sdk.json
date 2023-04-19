@@ -26,6 +26,7 @@
         "fr.natron.Natron",
         "io.atom.Atom",
         "io.gdevs.GDLauncher",
+        "io.github.zyedidia.micro",
         "io.neovim.nvim",
         "net.blix.BlueMail",
         "org.apache.netbeans",

@@ -40,6 +40,7 @@
     "org.denemo.Denemo",
     "org.famistudio.FamiStudio",
     "org.frescobaldi.Frescobaldi",
+    "org.gnome.gitlab.dqpb.GMetronome",
     "org.js.nuclear.Nuclear",
     "org.kde.minuet",
     "org.kde.vvave",

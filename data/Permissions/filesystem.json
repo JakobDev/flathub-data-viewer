@@ -1005,6 +1005,7 @@
         "com.atlauncher.ATLauncher",
         "com.baidu.NetDisk",
         "com.boxy_svg.BoxySVG",
+        "com.brave.Browser",
         "com.cocoatech.deckr",
         "com.darhon.drfinance",
         "com.discordapp.Discord",
@@ -1165,6 +1166,7 @@
         "chat.rocket.RocketChat",
         "co.luoja.Telyn",
         "com.boxy_svg.BoxySVG",
+        "com.brave.Browser",
         "com.cocoatech.deckr",
         "com.darhon.drfinance",
         "com.diy_fever.DIYLayoutCreator",
@@ -1268,6 +1270,7 @@
     "xdg-music": [
         "app.moosync.moosync",
         "ch.x29a.playitslowly",
+        "com.brave.Browser",
         "com.cocoatech.deckr",
         "com.github.Matoking.protontricks",
         "com.github.ahrm.sioyek",
@@ -1913,6 +1916,7 @@
         "io.github.shiftey.Desktop",
         "io.github.sithlord48.blackchocobo",
         "io.github.xyproto.zsnes",
+        "io.github.zyedidia.micro",
         "io.gitlab.Turtlico",
         "io.howl.Editor",
         "io.kopia.KopiaUI",
@@ -2088,6 +2092,7 @@
         "com.syntevo.SmartGit",
         "im.riot.Riot",
         "in.cinny.Cinny",
+        "io.github.dweymouth.supersonic",
         "io.github.shiftey.Desktop",
         "org.apache.netbeans",
         "org.gnome.Builder",
@@ -2100,6 +2105,7 @@
         "chat.quadrix.Quadrix",
         "chat.rocket.RocketChat",
         "com.boxy_svg.BoxySVG",
+        "com.brave.Browser",
         "com.cocoatech.deckr",
         "com.diy_fever.DIYLayoutCreator",
         "com.github.Matoking.protontricks",
@@ -2166,6 +2172,7 @@
     "xdg-videos": [
         "chat.quadrix.Quadrix",
         "com.bluejeans.BlueJeans",
+        "com.brave.Browser",
         "com.cocoatech.deckr",
         "com.github.Matoking.protontricks",
         "com.github.amikha1lov.RecApp",
@@ -2409,11 +2416,6 @@
         "io.github.realmazharhussain.GdmSettings",
         "io.wavebox.Wavebox"
     ],
-    "~/.config/kioslaverc": [
-        "com.brave.Browser",
-        "com.google.Chrome",
-        "com.google.ChromeDev"
-    ],
     "~/.local/share/applications:create": [
         "com.brave.Browser",
         "com.microsoft.Edge",
@@ -2444,6 +2446,11 @@
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
         "ru.yandex.Browser"
+    ],
+    "~/.config/kioslaverc": [
+        "com.brave.Browser",
+        "com.google.Chrome",
+        "com.google.ChromeDev"
     ],
     "xdg-run/speech-dispatcher:ro": [
         "com.calibre_ebook.calibre"
@@ -2478,6 +2485,7 @@
         "io.github.quodlibet.QuodLibet",
         "io.github.retgal.Dayon",
         "io.github.ripose_jp.Memento",
+        "io.github.zyedidia.micro",
         "io.mpv.Mpv",
         "io.neovim.nvim",
         "io.webtorrent.WebTorrent",
@@ -2694,6 +2702,7 @@
         "com.github.ilai_deutel.kibi",
         "com.helix_editor.Helix",
         "com.itextpdf.RUPS",
+        "io.github.zyedidia.micro",
         "io.neovim.nvim",
         "org.gnu.emacs",
         "org.vim.Vim"
