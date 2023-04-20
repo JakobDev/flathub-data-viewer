@@ -1,4 +1,5 @@
 [
     "io.github.pragha_music_player.pragha",
-    "net.sourceforge.Hugin"
+    "net.sourceforge.Hugin",
+    "org.scilab.Scilab"
 ]

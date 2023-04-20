@@ -1,4 +1,5 @@
 [
     "com.github.taiko2k.tauonmb",
-    "io.github.Hexchat"
+    "io.github.Hexchat",
+    "org.scilab.Scilab"
 ]

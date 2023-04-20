@@ -1,4 +1,5 @@
 [
     "com.uploadedlobster.peek",
-    "org.freedesktop.Piper"
+    "org.freedesktop.Piper",
+    "org.scilab.Scilab"
 ]
