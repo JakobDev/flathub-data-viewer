@@ -21,6 +21,9 @@
     ".noiz2sa.prf": [
         "com.abagames.noiz2sa"
     ],
+    ".adobe": [
+        "com.adobe.Reader"
+    ],
     ".local/share/pixelwheels": [
         "com.agateau.PixelWheels"
     ],
@@ -296,8 +299,14 @@
     ".ezquake": [
         "io.github.ezQuake"
     ],
+    ".config/starfighter": [
+        "io.github.pr_starfighter.starfighter"
+    ],
     ".trackballs": [
         "io.github.trackballs.Trackballs"
+    ],
+    ".magicseteditor": [
+        "io.github.twanvl.MagicSetEditor2"
     ],
     ".qmplay2": [
         "io.github.zaps166.QMPlay2"

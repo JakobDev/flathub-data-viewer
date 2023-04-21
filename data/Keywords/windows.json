@@ -1,4 +1,5 @@
 [
     "com.usebottles.bottles",
-    "org.gnome.Connections"
+    "org.gnome.Connections",
+    "org.hlwd.sonofman"
 ]

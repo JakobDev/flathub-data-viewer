@@ -1,6 +1,5 @@
 [
     "com.github.Bleuzen.FFaudioConverter",
-    "com.gitlab.JakobDev.jdEolConverter",
     "com.rawtherapee.RawTherapee",
     "com.visualstudio.code-oss",
     "com.visualstudio.code",
@@ -22,5 +21,6 @@
     "org.kde.index",
     "org.kde.kaffeine",
     "org.kde.kid3",
-    "org.kde.pix"
+    "org.kde.pix",
+    "page.codeberg.JakobDev.jdEolConverter"
 ]

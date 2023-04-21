@@ -3,7 +3,6 @@
     "com.github.Rosalie241.RMG",
     "com.gitlab.JakobDev.jdAnimatedImageEditor",
     "com.gitlab.JakobDev.jdDiff",
-    "com.gitlab.JakobDev.jdEolConverter",
     "com.gitlab.JakobDev.jdMinecraftLauncher",
     "com.gitlab.JakobDev.jdReplace",
     "com.gitlab.JakobDev.jdTextEdit",
@@ -46,5 +45,6 @@
     "org.tug.texworks",
     "page.codeberg.JakobDev.jdAppStreamEdit",
     "page.codeberg.JakobDev.jdDesktopEntryEdit",
+    "page.codeberg.JakobDev.jdEolConverter",
     "xyz.mx_moment.moment"
 ]

@@ -98,6 +98,7 @@
     "io.github.dbchoco.Salawat",
     "io.github.dbchoco.muezzin",
     "io.github.dlippok.photometric-viewer",
+    "io.github.dtsudo.ChessCompStompWithHacks",
     "io.github.foxxmd.multiscrobbler",
     "io.github.fsobolev.Cavalier",
     "io.github.fsobolev.TimeSwitch",
@@ -210,6 +211,7 @@
     "org.freedesktop.Sdk.Extension.node18",
     "org.freedesktop.Sdk.Extension.ziglang",
     "org.freedesktop.Sdk",
+    "org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime",
     "org.learningequality.Kolibri.Plugin.kolibri-dynamic-collections-plugin",
     "org.learningequality.Kolibri.Plugin.kolibri-zim-plugin"
 ]

@@ -1,7 +1,6 @@
 [
     "com.riverbankcomputing.PyQt.BaseApp",
     "io.github.pragha_music_player.pragha",
-    "io.github.zyedidia.micro",
     "io.qt.qtwebengine.BaseApp",
     "io.qt.qtwebkit.BaseApp"
 ]

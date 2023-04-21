@@ -296,6 +296,7 @@
     "org.gnome.Games.LibretroPlugin.PicoDrive",
     "org.gnome.Totem.Videosite.YouTubeDl",
     "org.gnome.gitlab.somas.Apostrophe.Plugin.TexLive",
+    "org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime",
     "org.kde.KStyle.Kvantum",
     "org.kicad.KiCad.Library.Footprints",
     "org.kicad.KiCad.Library.Packages3D",

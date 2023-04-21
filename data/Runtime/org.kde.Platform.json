@@ -308,7 +308,6 @@
         "com.github.unrud.djpdf",
         "com.gitlab.JakobDev.jdAnimatedImageEditor",
         "com.gitlab.JakobDev.jdDiff",
-        "com.gitlab.JakobDev.jdEolConverter",
         "com.gitlab.JakobDev.jdReplace",
         "com.gitlab.jakobdev.jdnbtexplorer",
         "com.gitlab.tipp10.tipp10",
@@ -359,6 +358,7 @@
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdDesktopEntryEdit",
+        "page.codeberg.JakobDev.jdEolConverter",
         "page.codeberg.JakobDev.jdFlatpakSnapshot"
     ],
     "5.15-21.08": [

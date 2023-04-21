@@ -12,5 +12,6 @@
     "org.jellyfin.JellyfinServer",
     "org.kde.umbrello",
     "org.mozilla.Thunderbird",
-    "sa.sy.bluerecorder"
+    "sa.sy.bluerecorder",
+    "org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime"
 ]

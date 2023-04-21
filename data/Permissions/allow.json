@@ -31,6 +31,7 @@
         "xyz.hyperplay.HyperPlay"
     ],
     "multiarch": [
+        "com.adobe.Reader",
         "com.bitwig.BitwigStudio",
         "com.carpeludum.KegaFusion",
         "com.etlegacy.ETLegacy",
