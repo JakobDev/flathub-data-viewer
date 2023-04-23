@@ -209,6 +209,7 @@
         "com.jetbrains.DataGrip",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
+        "com.jetbrains.PhpStorm",
         "com.kristianduske.TrenchBroom",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
@@ -2418,6 +2419,7 @@
         "com.brave.Browser",
         "com.fightcade.Fightcade",
         "com.github.Eloston.UngoogledChromium",
+        "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.artemanufrij.playmymusic",
         "com.github.artemanufrij.playmyvideos",
         "com.github.iwalton3.jellyfin-media-player",
@@ -2780,6 +2782,7 @@
         "com.jetbrains.DataGrip",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
+        "com.jetbrains.PhpStorm",
         "com.syntevo.SmartGit",
         "io.github.dweymouth.supersonic",
         "org.gnome.Evolution"

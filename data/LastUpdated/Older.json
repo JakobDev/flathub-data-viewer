@@ -760,7 +760,6 @@
     "org.freedesktop.LinuxAudio.Plugins.ZynFusion",
     "org.freedesktop.LinuxAudio.Plugins.gmsynth",
     "org.freedesktop.LinuxAudio.Plugins.reMID-lv2",
-    "org.freedesktop.LinuxAudio.Plugins.sfizz",
     "org.freedesktop.LinuxAudio.Plugins.swh",
     "org.freedesktop.Platform.openh264",
     "org.freedesktop.Sdk.Extension.bazel",

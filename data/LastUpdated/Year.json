@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.drey.Dialect",
     "app.drey.KeyRack",
     "app.getspace.Space",
     "app.gummi.gummi",
@@ -154,6 +155,7 @@
     "io.github.wereturtle.ghostwriter",
     "io.github.xyproto.zsnes",
     "io.github.zyedidia.micro",
+    "io.gitlab.celleron56.libretile",
     "io.gitlab.jazztickets.irrlamb",
     "io.gitlab.jstest_gtk.jstest_gtk",
     "io.gitlab.leesonwai.Tactics",
@@ -315,7 +317,6 @@
     "org.freedesktop.LinuxAudio.Plugins.Guitarix",
     "org.freedesktop.LinuxAudio.Plugins.MDA",
     "org.freedesktop.LinuxAudio.Plugins.OBXd",
-    "org.freedesktop.LinuxAudio.Plugins.WhiteElephantAudio",
     "org.freedesktop.LinuxAudio.Plugins.master_me",
     "org.freedesktop.Sdk.Extension.dmd",
     "org.freedesktop.Sdk.Extension.ldc",

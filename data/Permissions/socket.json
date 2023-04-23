@@ -2069,6 +2069,7 @@
     ],
     "wayland": [
         "app.authpass.AuthPass",
+        "app.bluebubbles.BlueBubbles",
         "app.cantara.Cantara",
         "app.drey.Blurble",
         "app.drey.Damask",
@@ -3455,6 +3456,7 @@
     ],
     "fallback-x11": [
         "app.authpass.AuthPass",
+        "app.bluebubbles.BlueBubbles",
         "app.cantara.Cantara",
         "app.drey.Blurble",
         "app.drey.Damask",
