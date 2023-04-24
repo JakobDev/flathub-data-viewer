@@ -3,6 +3,7 @@
     "net.sourceforge.qtpfsgui.LuminanceHDR",
     "org.darktable.Darktable",
     "org.gimp.GIMP",
+    "org.gnome.Loupe",
     "org.kde.kolourpaint",
     "org.kde.okular",
     "org.libvips.vipsdisp",

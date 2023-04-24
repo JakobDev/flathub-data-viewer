@@ -1,6 +1,7 @@
 [
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.ashpd.demo",
+    "com.github.flxzt.rnote",
     "com.github.unrud.djpdf",
     "eu.betterbird.Betterbird",
     "io.mrarm.mcpelauncher",
@@ -10,6 +11,7 @@
     "org.gnome.Loupe",
     "org.hedgewars.Hedgewars",
     "org.jellyfin.JellyfinServer",
+    "org.kde.kdenlive",
     "org.kde.umbrello",
     "org.mozilla.Thunderbird",
     "sa.sy.bluerecorder",

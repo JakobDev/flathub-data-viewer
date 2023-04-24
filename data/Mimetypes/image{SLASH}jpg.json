@@ -8,7 +8,6 @@
     "io.photoflare.photoflare",
     "org.cubocore.CoreImage",
     "org.cubocore.CorePaint",
-    "org.gnome.Loupe",
     "org.gnome.OCRFeeder",
     "org.gnome.eog",
     "org.gnome.frogr",

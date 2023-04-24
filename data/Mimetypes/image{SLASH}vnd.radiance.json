@@ -1,4 +1,5 @@
 [
     "com.interversehq.qView",
-    "org.darktable.Darktable"
+    "org.darktable.Darktable",
+    "org.gnome.Loupe"
 ]

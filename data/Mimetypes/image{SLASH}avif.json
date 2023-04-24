@@ -3,6 +3,7 @@
     "io.gitlab.adhami3310.Converter",
     "org.darktable.Darktable",
     "org.gimp.GIMP",
+    "org.gnome.Loupe",
     "org.kde.gwenview",
     "org.kde.kolourpaint",
     "org.kde.pix",
