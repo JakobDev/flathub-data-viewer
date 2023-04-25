@@ -403,6 +403,9 @@
         "org.kde.akregator",
         "org.kde.kontact"
     ],
+    "org.mpris.mediaplayer2.audiotube": [
+        "org.kde.audiotube"
+    ],
     "org.mpris.mediaplayer2.elisa": [
         "org.kde.elisa"
     ],
