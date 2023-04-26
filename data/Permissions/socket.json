@@ -5634,7 +5634,8 @@
     "gpg-agent": [
         "com.github.hluk.copyq",
         "im.dino.Dino",
-        "io.github.shiftey.Desktop"
+        "io.github.shiftey.Desktop",
+        "org.gnome.Evolution"
     ],
     "session-bus": [
         "com.github.naaando.lyrics",
