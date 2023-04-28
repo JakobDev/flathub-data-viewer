@@ -1583,6 +1583,7 @@
         "org.audacityteam.Audacity",
         "org.d3cod3.Mosaic",
         "org.denemo.Denemo",
+        "org.gnome.Snapshot",
         "org.guitarix.Guitarix",
         "org.hydrogenmusic.Hydrogen",
         "org.jacktrip.JackTrip",
@@ -3534,6 +3535,12 @@
     ],
     "~/.local/share/TpLogger": [
         "org.gnome.Polari"
+    ],
+    "xdg-videos/Camera:create": [
+        "org.gnome.Snapshot"
+    ],
+    "xdg-pictures/Camera:create": [
+        "org.gnome.Snapshot"
     ],
     "~/Recordings": [
         "org.gnome.SoundRecorder"

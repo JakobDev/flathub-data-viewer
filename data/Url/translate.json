@@ -255,6 +255,7 @@
     "org.gnome.Recipes",
     "org.gnome.Reversi",
     "org.gnome.Robots",
+    "org.gnome.Snapshot",
     "org.gnome.SoundJuicer",
     "org.gnome.SoundRecorder",
     "org.gnome.Sudoku",
