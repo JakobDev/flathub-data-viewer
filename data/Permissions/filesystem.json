@@ -1754,7 +1754,6 @@
         "org.gahshomar.Gahshomar",
         "org.gnome.Boxes",
         "org.gnome.Gtranslator",
-        "org.gnome.Shotwell",
         "org.laptop.TurtleArtActivity"
     ],
     "~/.config/dconf:ro": [
@@ -1789,7 +1788,6 @@
         "org.gahshomar.Gahshomar",
         "org.gnome.Boxes",
         "org.gnome.Gtranslator",
-        "org.gnome.Shotwell",
         "org.laptop.TurtleArtActivity"
     ],
     "host": [
@@ -3470,6 +3468,9 @@
     ],
     "xdg-config/autostart": [
         "org.gabmus.hydrapaper"
+    ],
+    "xdg-run/gnupg": [
+        "org.gajim.Gajim"
     ],
     "xdg-run/geany:create": [
         "org.geany.Geany"

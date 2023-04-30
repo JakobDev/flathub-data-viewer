@@ -1,4 +1,5 @@
 [
+    "app.gummi.gummi",
     "app.lith.Lith",
     "app.midterm.MidtermDesktop",
     "app.ytmdesktop.ytmdesktop",
@@ -222,6 +223,7 @@
     "com.sayonara_player.Sayonara",
     "com.scoutshonour.Digital",
     "com.scoutshonour.dtipbijays",
+    "com.sevenkfans.sevenkaa",
     "com.sigmyne.crush",
     "com.simplenote.Simplenote",
     "com.snes9x.Snes9x",
@@ -588,6 +590,7 @@
     "org.gnome.gThumb",
     "org.gnome.gitg",
     "org.gnome.gitlab.Cowsay",
+    "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.glabels-3",
     "org.gnome.moserial",
     "org.gnunet.Messenger",
