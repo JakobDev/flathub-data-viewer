@@ -3307,6 +3307,9 @@
     "~/KaraokeMugen:create": [
         "moe.karaokes.mugen"
     ],
+    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/gog_store": [
+        "net.davidotek.pupgui2"
+    ],
     "~/.var/app/net.lutris.Lutris/data/lutris/runners": [
         "net.davidotek.pupgui2"
     ],
@@ -3314,6 +3317,9 @@
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/net.lutris.Lutris/data/lutris/runtime/dxvk": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.var/app/net.lutris.Lutris/data/lutris/pga.db:ro": [
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/tools": [
@@ -3337,19 +3343,22 @@
     "~/.zshrc": [
         "net.davidotek.pupgui2"
     ],
+    "~/.var/app/com.heroicgameslauncher.hgl/config/legendary": [
+        "net.davidotek.pupgui2"
+    ],
     "~/.local/share/lutris/runtime/vkd3d": [
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/net.lutris.Lutris/data/lutris/runtime/vkd3d": [
         "net.davidotek.pupgui2"
     ],
+    "~/.bashrc": [
+        "net.davidotek.pupgui2"
+    ],
     "~/.local/share/lutris/runtime/dxvk": [
         "net.davidotek.pupgui2"
     ],
-    "~/.var/app/net.lutris.Lutris/data/lutris/pga.db:ro": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/.bashrc": [
+    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/sideload_apps": [
         "net.davidotek.pupgui2"
     ],
     "~/.rdm:create": [
