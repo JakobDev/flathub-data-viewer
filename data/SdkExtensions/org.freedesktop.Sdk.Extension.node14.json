@@ -10,7 +10,6 @@
     "io.qt.QtCreator",
     "io.qt.qtwebengine.BaseApp",
     "me.hyliu.fluentreader",
-    "net.agalwood.Motrix",
     "org.jellyfin.JellyfinServer",
     "org.turbowarp.TurboWarp"
 ]

@@ -2888,7 +2888,8 @@
         "com.icons8.Lunacy",
         "com.umlet.Umlet",
         "io.github.Icalingua.Icalingua",
-        "org.fcitx.Fcitx5"
+        "org.fcitx.Fcitx5",
+        "org.libreoffice.LibreOffice"
     ],
     "~/Inform:create": [
         "com.inform7.IDE"
