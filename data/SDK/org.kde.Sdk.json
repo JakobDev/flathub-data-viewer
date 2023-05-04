@@ -68,6 +68,7 @@
         "io.github.tcobbs.LDView",
         "io.github.torrent_file_editor.Torrent-file-editor",
         "io.github.veusz.Veusz",
+        "io.github.voxelcubes.deepqt",
         "io.github.wh201906.serialtest",
         "io.gitlab.coolreader_ng.crqt-ng",
         "io.mgba.mGBA",
@@ -149,6 +150,7 @@
         "org.kde.gwenview",
         "org.kde.haruna",
         "org.kde.index",
+        "org.kde.isoimagewriter",
         "org.kde.itinerary",
         "org.kde.juk",
         "org.kde.kaffeine",
@@ -489,6 +491,7 @@
         "org.qxmledit.QXmlEdit",
         "org.solarus_games.solarus.Launcher",
         "org.stellarium.Stellarium",
+        "org.tordini.flavio.Minitube",
         "org.zealdocs.Zeal",
         "space.fips.Fips",
         "website.i2pd.i2pd",
@@ -526,8 +529,7 @@
         "org.pencil2d.Pencil2D",
         "org.pyzo.pyzo",
         "org.shadowsocks.qt5client",
-        "org.tomviz.Tomviz",
-        "org.tordini.flavio.Minitube"
+        "org.tomviz.Tomviz"
     ],
     "5.14": [
         "com.dhsdevelopments.Climaxima",

@@ -26,6 +26,7 @@
     "org.nickvision.money",
     "org.opentransactions.metier",
     "org.tryton.Tryton-66",
+    "org.tryton.Tryton-68",
     "org.vergecurrency.verge-qt",
     "org.vertcoin.vertcoin-qt"
 ]

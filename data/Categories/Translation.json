@@ -1,4 +1,5 @@
 [
+    "io.github.voxelcubes.deepqt",
     "io.qt.Linguist",
     "net.poedit.Poedit",
     "org.gnome.Gtranslator",

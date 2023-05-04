@@ -15,5 +15,6 @@
     "org.cubocore.CoreFM",
     "org.kde.dolphin",
     "org.kde.index",
+    "org.openandroidinstaller.OpenAndroidInstaller",
     "org.radare.iaito"
 ]

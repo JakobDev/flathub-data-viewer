@@ -221,6 +221,7 @@
         "io.github.torrent_file_editor.Torrent-file-editor",
         "io.github.trevorsandy.LPub3D",
         "io.github.twanvl.MagicSetEditor2",
+        "io.github.voxelcubes.deepqt",
         "io.github.wereturtle.ghostwriter",
         "io.github.xverizex.nem_desktop",
         "io.github.zaps166.QMPlay2",
@@ -377,6 +378,7 @@
         "org.thonny.Thonny",
         "org.tomviz.Tomviz",
         "org.tryton.Tryton-66",
+        "org.tryton.Tryton-68",
         "org.turbowarp.TurboWarp",
         "org.verapdf.veraPDF",
         "org.virtualxt.VirtualXT",
@@ -597,6 +599,7 @@
         "io.github.torrent_file_editor.Torrent-file-editor",
         "io.github.trevorsandy.LPub3D",
         "io.github.veusz.Veusz",
+        "io.github.voxelcubes.deepqt",
         "io.github.webcamoid.Webcamoid",
         "io.github.wereturtle.ghostwriter",
         "io.github.wh201906.serialtest",
@@ -764,6 +767,7 @@
         "org.kde.gwenview",
         "org.kde.haruna",
         "org.kde.index",
+        "org.kde.isoimagewriter",
         "org.kde.itinerary",
         "org.kde.juk",
         "org.kde.kaffeine",
@@ -2010,6 +2014,7 @@
         "org.kde.gwenview",
         "org.kde.haruna",
         "org.kde.index",
+        "org.kde.isoimagewriter",
         "org.kde.kcachegrind",
         "org.kde.kdenlive",
         "org.kde.kdevelop",
@@ -3271,6 +3276,9 @@
     ],
     "xdg-music/monophony:create": [
         "io.gitlab.zehkira.Monophony"
+    ],
+    "xdg-documents/TabletopClub:create": [
+        "io.itch.drwhut.TabletopClub"
     ],
     "~/.config/Headlamp:ro": [
         "io.kinvolk.Headlamp"

@@ -6,6 +6,7 @@
     "3.5": [
         "com.orama_interactive.Pixelorama",
         "io.github.RodZill4.Material-Maker",
-        "io.github.pastthepixels.InfiniteShooter"
+        "io.github.pastthepixels.InfiniteShooter",
+        "page.codeberg.yeldham.Librerama"
     ]
 }

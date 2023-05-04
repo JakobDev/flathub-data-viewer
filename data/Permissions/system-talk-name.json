@@ -94,6 +94,7 @@
         "org.kde.digikam",
         "org.kde.dolphin",
         "org.kde.elisa",
+        "org.kde.isoimagewriter",
         "org.kde.kaffeine",
         "org.kde.kdenlive",
         "org.kde.kmplayer",
