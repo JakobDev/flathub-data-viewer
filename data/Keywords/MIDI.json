@@ -1,4 +1,5 @@
 [
+    "io.github.dagargo.Elektroid",
     "net.sourceforge.kmetronome",
     "org.denemo.Denemo",
     "org.musescore.MuseScore",

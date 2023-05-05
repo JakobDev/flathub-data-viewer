@@ -3,5 +3,6 @@
     "org.freedesktop.Sdk.Extension.llvm12",
     "org.freedesktop.Sdk.Extension.llvm13",
     "org.freedesktop.Sdk.Extension.llvm14",
-    "org.freedesktop.Sdk.Extension.llvm15"
+    "org.freedesktop.Sdk.Extension.llvm15",
+    "org.freedesktop.Sdk.Extension.llvm16"
 ]

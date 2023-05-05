@@ -23,6 +23,7 @@
     "org.pitivi.Pitivi",
     "org.rncbc.qtractor",
     "org.shotcut.Shotcut",
+    "org.tenacityaudio.Tenacity",
     "org.zrythm.Zrythm",
     "studio.kx.carla"
 ]

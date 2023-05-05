@@ -19,5 +19,6 @@
     "org.kde.vvave",
     "org.musicbrainz.Picard",
     "org.shotcut.Shotcut",
+    "org.tenacityaudio.Tenacity",
     "org.videolan.VLC"
 ]

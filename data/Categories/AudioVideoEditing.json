@@ -31,5 +31,6 @@
     "org.openshot.OpenShot",
     "org.pitivi.Pitivi",
     "org.shotcut.Shotcut",
-    "org.soundconverter.SoundConverter"
+    "org.soundconverter.SoundConverter",
+    "org.tenacityaudio.Tenacity"
 ]

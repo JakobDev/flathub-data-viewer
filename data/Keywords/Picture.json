@@ -3,5 +3,6 @@
     "org.flozz.yoga-image-optimizer",
     "org.gnome.Loupe",
     "org.gnome.eog",
-    "org.gnome.frogr"
+    "org.gnome.frogr",
+    "page.codeberg.Imaginer.Imaginer"
 ]

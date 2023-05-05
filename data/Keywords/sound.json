@@ -8,5 +8,6 @@
     "net.sourceforge.paulstretch",
     "net.sourceforge.projectM",
     "org.audacityteam.Audacity",
-    "org.hydrogenmusic.Hydrogen"
+    "org.hydrogenmusic.Hydrogen",
+    "org.tenacityaudio.Tenacity"
 ]

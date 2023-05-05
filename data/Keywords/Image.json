@@ -8,5 +8,6 @@
     "com.xnview.XnViewMP",
     "org.flozz.yoga-image-optimizer",
     "org.gnome.frogr",
-    "org.gnome.gThumb"
+    "org.gnome.gThumb",
+    "page.codeberg.Imaginer.Imaginer"
 ]

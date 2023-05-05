@@ -1,4 +1,5 @@
 [
     "io.github.Bavarder.Bavarder",
-    "org.robocode.Robocode"
+    "org.robocode.Robocode",
+    "page.codeberg.Imaginer.Imaginer"
 ]

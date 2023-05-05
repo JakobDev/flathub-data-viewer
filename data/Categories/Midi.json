@@ -20,5 +20,6 @@
     "org.rncbc.qsynth",
     "org.rncbc.qtractor",
     "org.stochas.Stochas",
+    "org.tenacityaudio.Tenacity",
     "org.zrythm.Zrythm"
 ]

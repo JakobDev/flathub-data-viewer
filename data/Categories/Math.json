@@ -24,5 +24,6 @@
     "org.kde.rocs",
     "org.mersenne.mprime",
     "org.octave.Octave",
-    "org.scilab.Scilab"
+    "org.scilab.Scilab",
+    "org.xnec2c.Xnec2c"
 ]

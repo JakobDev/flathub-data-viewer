@@ -15,6 +15,7 @@
     "io.gitlab.sdl_jstest.sdl2_jstest",
     "io.gitlab.sdl_jstest.sdl_jstest",
     "me.simakis.dropboxignore",
+    "net.launchpad.Gnuclad",
     "net.sourceforge.fspclient",
     "network.koesling.shm-modbus",
     "org.eu.wabarc.wayback",

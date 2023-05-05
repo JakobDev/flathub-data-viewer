@@ -13,5 +13,6 @@
     "org.horizon_eda.HorizonEDA",
     "org.kicad.KiCad",
     "org.librepcb.LibrePCB",
-    "org.openhantek.OpenHantek6022"
+    "org.openhantek.OpenHantek6022",
+    "org.xnec2c.Xnec2c"
 ]
