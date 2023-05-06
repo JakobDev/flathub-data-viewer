@@ -1,14 +1,14 @@
 {
     ".receitanet": [
-        "br.gov.fazenda.receita.irpf",
+        "br.gov.fazenda.receita.irpf2022",
         "br.gov.fazenda.receita.irpf2023"
     ],
     ".rfb": [
-        "br.gov.fazenda.receita.irpf",
+        "br.gov.fazenda.receita.irpf2022",
         "br.gov.fazenda.receita.irpf2023"
     ],
     ".java": [
-        "br.gov.fazenda.receita.irpf",
+        "br.gov.fazenda.receita.irpf2022",
         "br.gov.fazenda.receita.irpf2023",
         "com.bitwig.BitwigStudio",
         "com.github.mgropp.PdfJumbler",

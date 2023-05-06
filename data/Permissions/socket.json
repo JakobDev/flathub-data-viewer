@@ -31,7 +31,7 @@
         "br.app.pw3270.terminal",
         "br.com.gualandi.Xjump",
         "br.gov.cti.invesalius",
-        "br.gov.fazenda.receita.irpf",
+        "br.gov.fazenda.receita.irpf2022",
         "br.gov.fazenda.receita.irpf2023",
         "ca._0ldsk00l.Nestopia",
         "ca.desrt.dconf-editor",
@@ -3151,7 +3151,6 @@
         "org.hedgewars.Hedgewars",
         "org.homelinuxserver.vance.biblereader",
         "org.horizon_eda.HorizonEDA",
-        "org.hydrogenmusic.Hydrogen",
         "org.icculus.tennix",
         "org.inkscape.Inkscape",
         "org.jaspstats.JASP",
@@ -3636,6 +3635,7 @@
         "com.github.jeromerobert.pdfarranger",
         "com.github.jkotra.eovpn",
         "com.github.jkotra.unlockr",
+        "com.github.jmlich.geotagging",
         "com.github.jms55.Sandbox",
         "com.github.johnfactotum.Foliate",
         "com.github.johnfactotum.QuickLookup",
@@ -5561,6 +5561,7 @@
         "xyz.xclicker.xclicker"
     ],
     "cups": [
+        "br.gov.fazenda.receita.irpf2022",
         "br.gov.fazenda.receita.irpf2023",
         "com.brave.Browser",
         "com.freerdp.FreeRDP",
