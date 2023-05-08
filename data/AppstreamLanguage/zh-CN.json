@@ -1,5 +1,6 @@
 [
     "com.github.coslyk.MoonPlayer",
+    "im.kaidan.kaidan",
     "org.freedesktop.appstream.cli",
     "org.kde.akregator",
     "org.kde.alligator",
