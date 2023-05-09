@@ -31,6 +31,7 @@
     "org.atheme.audacious",
     "org.blender.Blender",
     "org.d3cod3.Mosaic",
+    "org.freedesktop.appstream.generator",
     "org.freedownloadmanager.Manager",
     "org.gabmus.giara",
     "org.gnome.Fractal",

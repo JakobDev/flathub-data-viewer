@@ -1,4 +1,5 @@
 [
     "com.inochi2d.inochi-creator",
+    "org.freedesktop.appstream.generator",
     "org.freedesktop.Sdk.Extension.dmd"
 ]

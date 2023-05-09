@@ -109,6 +109,7 @@
     "org.filezillaproject.Filezilla",
     "org.flycast.Flycast",
     "org.freeciv.gtk322",
+    "org.freeciv.qt",
     "org.freefilesync.FreeFileSync",
     "org.freeorion.FreeOrion",
     "org.freeplane.App",

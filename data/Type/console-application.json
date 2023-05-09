@@ -22,6 +22,7 @@
     "org.flathub.flatpak-external-data-checker",
     "org.freedesktop.appstream-glib",
     "org.freedesktop.appstream.cli",
+    "org.freedesktop.appstream.generator",
     "org.freedesktop.fwupd",
     "org.getzola.zola",
     "org.gnome.Pinpoint",

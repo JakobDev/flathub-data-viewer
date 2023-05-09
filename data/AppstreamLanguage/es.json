@@ -186,7 +186,6 @@
     "org.gnome.Fractal",
     "org.gnome.GHex",
     "org.gnome.GTG",
-    "org.gnome.Games",
     "org.gnome.Geary",
     "org.gnome.Glade",
     "org.gnome.Gnote",
@@ -437,8 +436,6 @@
     "re.sonny.Workbench",
     "ua.org.brezblock.q4wine",
     "com.valvesoftware.Steam.CompatibilityTool.Boxtron",
-    "com.valvesoftware.Steam.CompatibilityTool.Proton-Exp",
     "com.valvesoftware.Steam.CompatibilityTool.Proton",
-    "org.freedesktop.Platform.VulkanLayer.MangoHud",
-    "org.gnome.Games.LibretroPlugin.PicoDrive"
+    "org.freedesktop.Platform.VulkanLayer.MangoHud"
 ]

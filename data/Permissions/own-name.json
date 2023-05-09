@@ -107,6 +107,9 @@
     "org.mpris.mediaplayer2.tuner": [
         "com.github.louis77.tuner"
     ],
+    "org.mpris.mediaplayer2.g4music": [
+        "com.github.neithern.g4music"
+    ],
     "com.github.philip-scott.notes-up": [
         "com.github.philip_scott.notes-up"
     ],

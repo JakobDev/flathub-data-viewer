@@ -1,5 +1,6 @@
 [
     "io.github.bothlab.pomidaq",
+    "org.freedesktop.appstream.generator",
     "org.nuspell.Nuspell",
     "space.fips.Fips"
 ]

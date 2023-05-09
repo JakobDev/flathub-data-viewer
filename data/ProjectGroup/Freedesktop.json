@@ -1,3 +1,4 @@
 [
-    "org.freedesktop.appstream.cli"
+    "org.freedesktop.appstream.cli",
+    "org.freedesktop.appstream.generator"
 ]

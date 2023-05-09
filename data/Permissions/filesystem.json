@@ -169,6 +169,7 @@
         "edu.stanford.protege",
         "eu.ad5001.LogarithmPlotter",
         "eu.skribisto.skribisto",
+        "fm.helio.Workstation",
         "fm.reaper.Reaper",
         "fr.free.Homebank",
         "in.cinny.Cinny",
@@ -459,8 +460,6 @@
         "com.github.vkohaupt.vokoscreenNG",
         "com.github.zocker_160.SyncThingy",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
-        "com.gitlab.JakobDev.jdAnimatedImageEditor",
-        "com.gitlab.JakobDev.jdDiff",
         "com.gitlab.JakobDev.jdMinecraftLauncher",
         "com.gitlab.JakobDev.jdReplace",
         "com.gitlab.JakobDev.jdTextEdit",
@@ -607,7 +606,6 @@
         "io.github.wh201906.serialtest",
         "io.github.xaos_project.XaoS",
         "io.github.zaps166.QMPlay2",
-        "io.gitlab.JakobDev.jdSimpleAutostart",
         "io.gitlab.coolreader_ng.crqt-ng",
         "io.gitlab.evtest_qt.evtest_qt",
         "io.gitlab.o20.word",
@@ -653,6 +651,7 @@
         "net.meijn.onvifviewer",
         "net.meshlab.MeshLab",
         "net.pcsx2.PCSX2",
+        "net.puddletag.puddletag",
         "net.qsl.QSSTV",
         "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
@@ -723,6 +722,7 @@
         "org.flatpak.qtdemo",
         "org.flightgear.FlightGear",
         "org.freecadweb.FreeCAD",
+        "org.freeciv.qt",
         "org.frescobaldi.Frescobaldi",
         "org.fritzing.Fritzing",
         "org.genivi.DLTViewer",
@@ -959,10 +959,13 @@
         "org.yuzu_emu.yuzu",
         "org.zealdocs.Zeal",
         "page.codeberg.DrRac27.Karoto",
+        "page.codeberg.JakobDev.jdAnimatedImageEditor",
         "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdDesktopEntryEdit",
+        "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdEolConverter",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.JakobDev.jdSimpleAutostart",
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
         "se.sjoerd.GIScan",
@@ -1105,6 +1108,7 @@
         "net.filebot.FileBot",
         "net.jami.Jami",
         "net.kvirc.KVIrc",
+        "net.puddletag.puddletag",
         "net.sonobus.SonoBus",
         "net.sourceforge.Pdfedit",
         "net.sourceforge.jpdftweak.jPdfTweak",
@@ -1233,6 +1237,7 @@
         "io.github.qtox.qTox",
         "io.github.tcobbs.LDView",
         "io.github.vegad.vnotes",
+        "io.github.vikdevelop.SaveDesktop",
         "io.wavebox.Wavebox",
         "net.blix.BlueMail",
         "net.blockbench.Blockbench",
@@ -1308,10 +1313,12 @@
         "io.github.listen1.Listen1",
         "io.github.pragha_music_player.pragha",
         "io.github.qtox.qTox",
+        "io.github.vikdevelop.SaveDesktop",
         "io.sourceforge.qoobar.Qoobar",
         "io.wavebox.Wavebox",
         "net.blockbench.Blockbench",
         "net.filebot.FileBot",
+        "net.puddletag.puddletag",
         "net.sonobus.SonoBus",
         "net.sourceforge.paulstretch",
         "one.ablaze.floorp",
@@ -1536,7 +1543,6 @@
         "org.flathub.flatpak-external-data-checker",
         "org.flycast.Flycast",
         "org.gnome.Devhelp",
-        "org.gnome.Games",
         "org.gnome.Notes",
         "org.kde.elisa",
         "org.linux_hardware.hw-probe",
@@ -1568,6 +1574,7 @@
         "com.slack.Slack",
         "com.tracktion.Waveform",
         "de.shorsh.discord-screenaudio",
+        "fm.helio.Workstation",
         "fm.reaper.Reaper",
         "im.riot.Riot",
         "info.puredata.Pd-extended",
@@ -1914,6 +1921,7 @@
         "org.freedesktop.adriconf",
         "org.freedesktop.appstream-glib",
         "org.freedesktop.appstream.cli",
+        "org.freedesktop.appstream.generator",
         "org.freefilesync.FreeFileSync",
         "org.gaphor.Gaphor",
         "org.geany.Geany",
@@ -2075,6 +2083,7 @@
         "io.github.obiwankennedy.HotShots",
         "io.github.qtox.qTox",
         "io.github.ripose_jp.Memento",
+        "io.github.vikdevelop.SaveDesktop",
         "io.github.webcamoid.Webcamoid",
         "io.mpv.Mpv",
         "net.blockbench.Blockbench",
@@ -2130,6 +2139,7 @@
         "io.github.qtox.qTox",
         "io.github.ripose_jp.Memento",
         "io.github.seadve.Kooha",
+        "io.github.vikdevelop.SaveDesktop",
         "io.github.webcamoid.Webcamoid",
         "io.mpv.Mpv",
         "io.otsaloma.gaupol",
@@ -2400,6 +2410,7 @@
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.jacalz.rymdport",
         "io.github.qtox.qTox",
+        "io.github.vikdevelop.SaveDesktop",
         "io.wavebox.Wavebox",
         "net.blockbench.Blockbench",
         "net.epson.epsonscan2",
@@ -2481,7 +2492,6 @@
         "com.github.ahrm.sioyek",
         "com.github.ilai_deutel.kibi",
         "com.github.marktext.marktext",
-        "com.github.neithern.g4music",
         "com.gitlab.inendi.Inspector",
         "com.helix_editor.Helix",
         "com.qq.QQ",
@@ -2627,6 +2637,7 @@
         "com.github.jmlich.geotagging",
         "com.tutanota.Tutanota",
         "eu.ithz.umftpd",
+        "io.github.vikdevelop.SaveDesktop",
         "net.blockbench.Blockbench",
         "no.mifi.losslesscut",
         "org.gnome.gThumb",
@@ -2682,7 +2693,7 @@
     "xdg-config/autostart:create": [
         "com.github.bluesabre.darkbar",
         "com.github.matfantinel.reminduck",
-        "io.gitlab.JakobDev.jdSimpleAutostart"
+        "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "xdg-data/flatpak/app:ro": [
         "com.github.bluesabre.darkbar",
@@ -2774,7 +2785,6 @@
         "com.github.petebuffon.yafc",
         "io.github.santiagocezar.maniatic-launcher",
         "net.lutris.Lutris",
-        "org.gnome.Games",
         "org.pegasus_frontend.Pegasus"
     ],
     "~/.steam/steam/steamapps/common/Factorio/data:ro": [
@@ -3273,13 +3283,10 @@
     "~/Nextcloud/Notes": [
         "io.github.vegad.vnotes"
     ],
-    "~/.xfce4:create": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
-    "xdg-download/SaveDesktop:create": [
-        "io.github.vikdevelop.SaveDesktop"
-    ],
     "~/.local/share": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "~/.xfce4:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.fonts:create": [
@@ -3287,9 +3294,6 @@
     ],
     "~/.cinnamon:create": [
         "io.github.vikdevelop.SaveDesktop"
-    ],
-    "host-etc:ro": [
-        "io.gitlab.JakobDev.jdSimpleAutostart"
     ],
     "xdg-documents/O20:create": [
         "io.gitlab.o20.word"
@@ -3474,7 +3478,8 @@
         "org.firestormviewer.FirestormViewer"
     ],
     "~/.freeciv:create": [
-        "org.freeciv.gtk322"
+        "org.freeciv.gtk322",
+        "org.freeciv.qt"
     ],
     "~/.local/share/flatpak:ro": [
         "org.freedesktop.appstream-glib",
@@ -3676,10 +3681,16 @@
     "xdg-run/app/org.mozilla.Firefox.BaseApp:create": [
         "org.zaproxy.ZAP"
     ],
+    "host-etc:ro": [
+        "page.codeberg.JakobDev.jdSimpleAutostart"
+    ],
     "xdg-documents/geobug-tracks:create": [
         "page.codeberg.tpikonen.geobug"
     ],
     "xdg-documents/satellite-tracks:create": [
+        "page.codeberg.tpikonen.satellite"
+    ],
+    "/run/gnss-share.sock:ro": [
         "page.codeberg.tpikonen.satellite"
     ],
     "~/.local/share/godot/app_userdata/SuperTuxParty": [

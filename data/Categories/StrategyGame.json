@@ -26,6 +26,7 @@
     "net.unvanquished.Unvanquished",
     "net.wz2100.wz2100",
     "org.freeciv.gtk322",
+    "org.freeciv.qt",
     "org.freecol.FreeCol",
     "org.freeorion.FreeOrion",
     "org.hedgewars.Hedgewars",

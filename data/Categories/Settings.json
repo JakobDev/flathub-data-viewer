@@ -5,12 +5,13 @@
     "com.ktechpit.wonderwall",
     "hu.irl.cameractrls",
     "io.github.realmazharhussain.GdmSettings",
-    "io.gitlab.JakobDev.jdSimpleAutostart",
+    "net.sourceforge.roccat.roccat-tools",
     "org.bluesabre.MenuLibre",
     "org.freedesktop.adriconf",
     "org.freedesktop.dabrain34.GstPipelineStudio",
     "org.pipewire.Helvum",
     "org.pulseaudio.pavucontrol",
+    "page.codeberg.JakobDev.jdSimpleAutostart",
     "re.sonny.Junction",
     "xyz.z3ntu.razergenie"
 ]

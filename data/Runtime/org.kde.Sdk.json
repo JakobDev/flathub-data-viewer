@@ -16,6 +16,7 @@
     "5.15-22.08": [
         "org.kde.kcachegrind",
         "org.kde.kdevelop",
-        "org.octave.Octave"
+        "org.octave.Octave",
+        "org.paraview.ParaView"
     ]
 }

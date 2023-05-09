@@ -1,6 +1,5 @@
 [
     "ca.parallel_launcher.ParallelLauncher",
     "com.github.Rosalie241.RMG",
-    "io.github.simple64.simple64",
-    "org.gnome.Games"
+    "io.github.simple64.simple64"
 ]

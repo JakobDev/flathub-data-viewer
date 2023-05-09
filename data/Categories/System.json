@@ -35,7 +35,6 @@
     "io.github.jorchube.monitorets",
     "io.github.paledega.alpine-rootfs",
     "io.github.realmazharhussain.GdmSettings",
-    "io.gitlab.JakobDev.jdSimpleAutostart",
     "io.gitlab.evtest_qt.evtest_qt",
     "io.gitlab.jstest_gtk.jstest_gtk",
     "it.cuteworks.pacmanlogviewer",
@@ -64,6 +63,7 @@
     "org.wezfurlong.wezterm",
     "org.worldpossible.ScriptLauncher",
     "org.zaproxy.ZAP",
+    "page.codeberg.JakobDev.jdSimpleAutostart",
     "re.sonny.Junction",
     "ua.org.brezblock.q4wine"
 ]

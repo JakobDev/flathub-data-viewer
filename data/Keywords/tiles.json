@@ -1,5 +1,6 @@
 [
     "net.sourceforge.lgames.LGeneral",
     "org.freeciv.gtk322",
+    "org.freeciv.qt",
     "org.gnome.LightsOff"
 ]

@@ -39,6 +39,7 @@
     "org.desmume.DeSmuME",
     "org.filezillaproject.Filezilla",
     "org.freeciv.gtk322",
+    "org.freeciv.qt",
     "org.freedesktop.Piper",
     "org.freeplane.App",
     "org.gnome.Contacts",

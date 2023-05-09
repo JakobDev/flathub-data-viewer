@@ -209,7 +209,6 @@
     "org.gnome.Fractal",
     "org.gnome.GHex",
     "org.gnome.GTG",
-    "org.gnome.Games",
     "org.gnome.Geary",
     "org.gnome.Glade",
     "org.gnome.Gnote",
@@ -462,6 +461,5 @@
     "work.openpaper.Paperwork",
     "xyz.eclipium.Hieroctive",
     "xyz.eclipium.TetraSwap",
-    "org.fcitx.Fcitx5.Addon.Unikey",
-    "org.gnome.Games.LibretroPlugin.PicoDrive"
+    "org.fcitx.Fcitx5.Addon.Unikey"
 ]
