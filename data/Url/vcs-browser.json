@@ -57,6 +57,7 @@
     "net.minetest.Minetest",
     "net.mullvad.MullvadBrowser",
     "net.supertuxkart.SuperTuxKart",
+    "org.altaqwaa.Altaqwaa",
     "org.apache.jmeter",
     "org.bionus.Grabber",
     "org.blackfennec.app",

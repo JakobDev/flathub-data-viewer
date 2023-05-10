@@ -279,7 +279,6 @@
         "net.sourceforge.wavbreaker",
         "net.xmind.XMind",
         "network.loki.Session",
-        "nl.openoffice.bluefish",
         "nl.sarine.gpx-viewer",
         "one.mixin.messenger",
         "org.aliflang.lang",
@@ -1885,6 +1884,7 @@
         "net.scribus.Scribus",
         "net.sourceforge.Lifeograph",
         "net.werwolv.ImHex",
+        "nl.openoffice.bluefish",
         "org.apache.netbeans",
         "org.audacityteam.Audacity",
         "org.avidemux.Avidemux",
@@ -2494,6 +2494,7 @@
         "com.github.marktext.marktext",
         "com.gitlab.inendi.Inspector",
         "com.helix_editor.Helix",
+        "com.outerwildsmods.owmods_gui",
         "com.qq.QQ",
         "com.rawtherapee.RawTherapee",
         "com.zettlr.Zettlr",
@@ -2934,6 +2935,12 @@
     ],
     "xdg-documents/Notesnook:create": [
         "com.notesnook.Notesnook"
+    ],
+    "~/.steam/steam/steamapps/common/Outer Wilds": [
+        "com.outerwildsmods.owmods_gui"
+    ],
+    "~/.local/share/OuterWildsModManager": [
+        "com.outerwildsmods.owmods_gui"
     ],
     "~/.cert/nm-openvpn:create": [
         "com.protonvpn.www"

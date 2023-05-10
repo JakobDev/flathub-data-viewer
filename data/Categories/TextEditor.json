@@ -23,6 +23,7 @@
     "io.liri.Text",
     "io.neovim.nvim",
     "io.posidon.Paper",
+    "nl.openoffice.bluefish",
     "org.blackfennec.app",
     "org.cubocore.CorePad",
     "org.frescobaldi.Frescobaldi",
