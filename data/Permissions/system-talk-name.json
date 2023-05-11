@@ -137,6 +137,7 @@
         "io.wavebox.Wavebox",
         "net.cozic.joplin_desktop",
         "net.drawpile.drawpile",
+        "net.epson.epsonscan2",
         "org.chromium.Chromium",
         "org.clementine_player.Clementine",
         "org.gnome.Builder",
