@@ -1,4 +1,5 @@
 [
+    "app.drey.MultiplicationPuzzle",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -23,7 +24,6 @@
     "io.bassi.Amberol",
     "io.github.Hexchat",
     "io.github.cboxdoerfer.FSearch",
-    "net.launchpad.gmult",
     "net.oz9aec.Gpredict",
     "net.poedit.Poedit",
     "nl.hjdskes.gcolor3",

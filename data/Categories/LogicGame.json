@@ -1,4 +1,5 @@
 [
+    "app.drey.MultiplicationPuzzle",
     "com.adilhanney.timing",
     "com.agatanawrot.karambola",
     "com.github.avojak.warble",
@@ -12,7 +13,6 @@
     "io.gitlab.construo.construo",
     "io.sourceforge.zaz",
     "io.thp.numptyphysics",
-    "net.launchpad.gmult",
     "net.sourceforge.Fillets",
     "org.gnome.Crosswords",
     "org.gnome.Four-in-a-row",

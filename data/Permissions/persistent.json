@@ -560,7 +560,8 @@
         "org.squeakland.Etoys"
     ],
     ".srb2": [
-        "org.srb2.SRB2"
+        "org.srb2.SRB2",
+        "org.srb2.SRB2Persona"
     ],
     ".srb2kart": [
         "org.srb2.SRB2Kart-galaxy",

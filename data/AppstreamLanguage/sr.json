@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -27,7 +28,6 @@
     "io.otsaloma.nfoview",
     "me.dusansimic.DynamicWallpaper",
     "me.mitya57.ReText",
-    "net.launchpad.gmult",
     "net.supertuxkart.SuperTuxKart",
     "nl.hjdskes.gcolor3",
     "org.fedoraproject.MediaWriter",

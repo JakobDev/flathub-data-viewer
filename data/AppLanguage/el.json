@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -34,7 +35,6 @@
     "io.github.seadve.Kooha",
     "io.github.seadve.Mousai",
     "io.otsaloma.nfoview",
-    "net.launchpad.gmult",
     "net.minetest.Minetest",
     "net.poedit.Poedit",
     "net.sourceforge.liferea",

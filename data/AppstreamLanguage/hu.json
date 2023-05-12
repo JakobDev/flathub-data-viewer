@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -47,7 +48,6 @@
     "me.dusansimic.DynamicWallpaper",
     "me.mitya57.ReText",
     "net.jami.Jami",
-    "net.launchpad.gmult",
     "net.supertuxkart.SuperTuxKart",
     "nl.hjdskes.gcolor3",
     "org.darktable.Darktable",

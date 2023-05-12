@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
@@ -37,7 +38,6 @@
     "io.github.quodlibet.QuodLibet",
     "io.github.seadve.Kooha",
     "io.github.seadve.Mousai",
-    "net.launchpad.gmult",
     "net.minetest.Minetest",
     "net.poedit.Poedit",
     "net.sourceforge.Hugin",

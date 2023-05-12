@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.rednotebook.RedNotebook",
     "ca.parallel_launcher.ParallelLauncher",
     "com.endlessm.photos",
@@ -24,7 +25,6 @@
     "io.github.seadve.Mousai",
     "io.liri.Calculator",
     "io.liri.Text",
-    "net.launchpad.gmult",
     "net.poedit.Poedit",
     "net.sourceforge.liferea",
     "net.supertuxkart.SuperTuxKart",

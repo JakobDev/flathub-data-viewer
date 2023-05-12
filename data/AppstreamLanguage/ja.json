@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Obfuscate",
@@ -50,7 +51,6 @@
     "io.github.seadve.Mousai",
     "io.github.webcamoid.Webcamoid",
     "me.mitya57.ReText",
-    "net.launchpad.gmult",
     "net.supertuxkart.SuperTuxKart",
     "org.ardour.Ardour",
     "org.darktable.Darktable",

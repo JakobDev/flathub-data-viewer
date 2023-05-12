@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -94,7 +95,6 @@
     "me.iepure.devtoolbox",
     "me.mitya57.ReText",
     "net.danigm.timetrack",
-    "net.launchpad.gmult",
     "net.meijn.onvifviewer",
     "net.sourceforge.Lifeograph",
     "net.supertuxkart.SuperTuxKart",
@@ -364,6 +364,7 @@
     "org.xfce.mousepad",
     "org.xfce.ristretto",
     "org.zrythm.Zrythm",
+    "page.codeberg.Imaginer.Imaginer",
     "page.codeberg.JakobDev.jdFlatpakSnapshot",
     "re.sonny.Junction",
     "re.sonny.Tangram",

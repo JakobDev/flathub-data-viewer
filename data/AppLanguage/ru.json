@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
@@ -83,7 +84,6 @@
     "io.posidon.Paper",
     "io.sourceforge.pysolfc.PySolFC",
     "net.displaycal.DisplayCAL",
-    "net.launchpad.gmult",
     "net.meijn.onvifviewer",
     "net.minetest.Minetest",
     "net.oz9aec.Gpredict",

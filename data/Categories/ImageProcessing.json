@@ -9,5 +9,6 @@
     "io.gitlab.theevilskeleton.Upscaler",
     "net.fasterland.converseen",
     "org.free_astro.siril",
-    "org.telesculptor.TeleSculptor"
+    "org.telesculptor.TeleSculptor",
+    "org.upscayl.Upscayl"
 ]

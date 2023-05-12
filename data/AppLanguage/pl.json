@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.agatanawrot.karambola",
@@ -59,7 +60,6 @@
     "io.otsaloma.nfoview",
     "io.posidon.Paper",
     "io.sourceforge.pysolfc.PySolFC",
-    "net.launchpad.gmult",
     "net.minetest.Minetest",
     "net.poedit.Poedit",
     "net.sourceforge.Hugin",

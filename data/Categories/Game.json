@@ -1,5 +1,6 @@
 [
     "app.drey.Blurble",
+    "app.drey.MultiplicationPuzzle",
     "app.xemu.xemu",
     "ar.com.pilas_engine.App",
     "at.vintagestory.VintageStory",
@@ -255,7 +256,6 @@
     "net.gradator.gtkatlantic",
     "net.kubux.Muehle",
     "net.kuribo64.melonDS",
-    "net.launchpad.gmult",
     "net.lutris.Lutris",
     "net.minetest.Minetest",
     "net.olofson.KoboDeluxe",
@@ -447,6 +447,7 @@
     "org.srb2.SRB2",
     "org.srb2.SRB2Kart-galaxy",
     "org.srb2.SRB2Kart",
+    "org.srb2.SRB2Persona",
     "org.sugarlabs.Chess",
     "org.sugarlabs.ColorDeducto",
     "org.sugarlabs.Dimensions",

@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ar.xjuan.Cambalache",
@@ -48,7 +49,6 @@
     "io.github.seadve.Kooha",
     "io.github.seadve.Mousai",
     "io.neovim.nvim",
-    "net.launchpad.gmult",
     "net.minetest.Minetest",
     "net.poedit.Poedit",
     "net.sourceforge.liferea",

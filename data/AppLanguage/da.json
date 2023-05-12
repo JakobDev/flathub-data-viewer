@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
@@ -31,7 +32,6 @@
     "io.liri.Calculator",
     "io.liri.Text",
     "io.neovim.nvim",
-    "net.launchpad.gmult",
     "net.minetest.Minetest",
     "net.poedit.Poedit",
     "net.sourceforge.Hugin",

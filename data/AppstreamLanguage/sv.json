@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -66,7 +67,6 @@
     "io.gitlab.adhami3310.Converter",
     "io.otsaloma.nfoview",
     "me.mitya57.ReText",
-    "net.launchpad.gmult",
     "net.meijn.onvifviewer",
     "net.supertuxkart.SuperTuxKart",
     "nl.g4d.Girens",

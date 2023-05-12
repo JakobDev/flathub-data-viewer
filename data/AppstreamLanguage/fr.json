@@ -1,6 +1,7 @@
 [
     "app.drey.Damask",
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
@@ -160,7 +161,6 @@
     "me.dusansimic.DynamicWallpaper",
     "me.mitya57.ReText",
     "moe.karaokes.mugen",
-    "net.launchpad.gmult",
     "net.mediaarea.MediaInfo",
     "net.meijn.onvifviewer",
     "net.sourceforge.Lifeograph",

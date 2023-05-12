@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.rednotebook.RedNotebook",
     "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
@@ -55,7 +56,6 @@
     "io.neovim.nvim",
     "io.otsaloma.gaupol",
     "io.otsaloma.nfoview",
-    "net.launchpad.gmult",
     "net.minetest.Minetest",
     "net.oz9aec.Gpredict",
     "net.poedit.Poedit",

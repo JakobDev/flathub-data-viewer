@@ -1,4 +1,5 @@
 [
+    "app.drey.MultiplicationPuzzle",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
@@ -25,7 +26,6 @@
     "io.github.quodlibet.ExFalso",
     "io.github.quodlibet.QuodLibet",
     "io.otsaloma.nfoview",
-    "net.launchpad.gmult",
     "net.supertuxkart.SuperTuxKart",
     "nl.hjdskes.gcolor3",
     "org.freedesktop.appstream.cli",

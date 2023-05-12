@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -51,7 +52,6 @@
     "io.otsaloma.nfoview",
     "io.posidon.Paper",
     "me.mitya57.ReText",
-    "net.launchpad.gmult",
     "net.supertuxkart.SuperTuxKart",
     "nl.g4d.Girens",
     "nl.hjdskes.gcolor3",

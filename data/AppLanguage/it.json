@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ar.xjuan.Cambalache",
@@ -90,7 +91,6 @@
     "io.posidon.Paper",
     "io.sourceforge.pysolfc.PySolFC",
     "net.displaycal.DisplayCAL",
-    "net.launchpad.gmult",
     "net.meijn.onvifviewer",
     "net.minetest.Minetest",
     "net.oz9aec.Gpredict",
@@ -148,6 +148,7 @@
     "org.gnome.Klotski",
     "org.gnome.LightsOff",
     "org.gnome.Lollypop",
+    "org.gnome.Loupe",
     "org.gnome.Mahjongg",
     "org.gnome.Maps",
     "org.gnome.Mines",

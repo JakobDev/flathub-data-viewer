@@ -15,6 +15,7 @@
         "org.srb2.SRB2",
         "org.srb2.SRB2Kart-galaxy",
         "org.srb2.SRB2Kart",
+        "org.srb2.SRB2Persona",
         "org.turbowarp.TurboWarp"
     ],
     "none": [

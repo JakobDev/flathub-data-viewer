@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -48,7 +49,6 @@
     "io.github.seadve.Mousai",
     "io.gitlab.Goodvibes",
     "io.gitlab.theevilskeleton.Upscaler",
-    "net.launchpad.gmult",
     "net.supertuxkart.SuperTuxKart",
     "nl.hjdskes.gcolor3",
     "org.clementine_player.Clementine",

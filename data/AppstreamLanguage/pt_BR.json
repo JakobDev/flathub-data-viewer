@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "br.app.pw3270.terminal",
     "br.gov.fazenda.receita.irpf2022",
@@ -108,7 +109,6 @@
     "me.dusansimic.DynamicWallpaper",
     "me.iepure.devtoolbox",
     "me.mitya57.ReText",
-    "net.launchpad.gmult",
     "net.meijn.onvifviewer",
     "net.sourceforge.TuxFootball",
     "net.supertuxkart.SuperTuxKart",

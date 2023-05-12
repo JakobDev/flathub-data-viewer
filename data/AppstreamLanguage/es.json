@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ar.com.softwareperonista.Rockarrolla",
     "ar.xjuan.Cambalache",
@@ -135,7 +136,6 @@
     "me.mitya57.ReText",
     "me.sanchezrodriguez.passes",
     "net.danigm.timetrack",
-    "net.launchpad.gmult",
     "net.sourceforge.TuxFootball",
     "net.supertuxkart.SuperTuxKart",
     "nl.g4d.Girens",

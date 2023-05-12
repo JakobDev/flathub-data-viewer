@@ -382,6 +382,7 @@
         "org.tryton.Tryton-66",
         "org.tryton.Tryton-68",
         "org.turbowarp.TurboWarp",
+        "org.upscayl.Upscayl",
         "org.verapdf.veraPDF",
         "org.virtualxt.VirtualXT",
         "org.wxhexeditor.wxHexEditor",
@@ -2139,6 +2140,7 @@
         "io.github.qtox.qTox",
         "io.github.ripose_jp.Memento",
         "io.github.seadve.Kooha",
+        "io.github.thaunknown.miru",
         "io.github.vikdevelop.SaveDesktop",
         "io.github.webcamoid.Webcamoid",
         "io.mpv.Mpv",
@@ -2592,7 +2594,8 @@
         "com.github.GradienceTeam.Gradience"
     ],
     "xdg-config/gtk-4.0": [
-        "com.github.GradienceTeam.Gradience"
+        "com.github.GradienceTeam.Gradience",
+        "io.github.Bavarder.Bavarder"
     ],
     "~/.librewolf": [
         "com.github.GradienceTeam.Gradience"
@@ -3280,6 +3283,9 @@
     ],
     "/opt:ro": [
         "io.github.shiftey.Desktop"
+    ],
+    "xdg-run/discord-ipc-0:ro": [
+        "io.github.thaunknown.miru"
     ],
     "~/.var/app/com.valvesoftware.Steam/.local/share/Steam": [
         "io.github.tralph3.Steam_Metadata_Editor"

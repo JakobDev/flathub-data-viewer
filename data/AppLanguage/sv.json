@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
@@ -62,7 +63,6 @@
     "io.gitlab.adhami3310.Converter",
     "io.neovim.nvim",
     "io.otsaloma.nfoview",
-    "net.launchpad.gmult",
     "net.meijn.onvifviewer",
     "net.minetest.Minetest",
     "net.poedit.Poedit",

@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
@@ -57,7 +58,6 @@
     "io.github.seadve.Kooha",
     "io.github.seadve.Mousai",
     "me.mitya57.ReText",
-    "net.launchpad.gmult",
     "net.supertuxkart.SuperTuxKart",
     "nl.hjdskes.gcolor3",
     "org.darktable.Darktable",

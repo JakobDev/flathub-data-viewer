@@ -1627,6 +1627,7 @@
         "x-scheme-handler{SLASH}me.blueone.linux",
         "x-scheme-handler{SLASH}memo",
         "x-scheme-handler{SLASH}microsoftsqlserver",
+        "x-scheme-handler{SLASH}miru",
         "x-scheme-handler{SLASH}mixin",
         "x-scheme-handler{SLASH}mms",
         "x-scheme-handler{SLASH}mmsh",

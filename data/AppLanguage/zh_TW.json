@@ -1,4 +1,5 @@
 [
+    "app.drey.MultiplicationPuzzle",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -20,7 +21,6 @@
     "io.github.celluloid_player.Celluloid",
     "io.github.manisandro.gImageReader",
     "io.liri.Text",
-    "net.launchpad.gmult",
     "net.minetest.Minetest",
     "net.poedit.Poedit",
     "net.sourceforge.Hugin",

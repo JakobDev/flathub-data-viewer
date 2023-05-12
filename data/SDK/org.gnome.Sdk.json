@@ -207,6 +207,7 @@
     "44": [
         "app.drey.EarTag",
         "app.drey.Elastic",
+        "app.drey.MultiplicationPuzzle",
         "app.drey.Warp",
         "app.gummi.gummi",
         "app.rednotebook.RedNotebook",
@@ -350,7 +351,6 @@
         "me.hergert.Schemes",
         "moe.tundra.Tundra",
         "net.gwyddion.Gwyddion",
-        "net.launchpad.gmult",
         "net.lutris.Lutris",
         "net.natesales.Aviator",
         "nl.openoffice.bluefish",

@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "br.app.pw3270.terminal",
@@ -81,7 +82,6 @@
     "io.otsaloma.nfoview",
     "io.posidon.Paper",
     "io.sourceforge.pysolfc.PySolFC",
-    "net.launchpad.gmult",
     "net.meijn.onvifviewer",
     "net.minetest.Minetest",
     "net.poedit.Poedit",
