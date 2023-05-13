@@ -3,6 +3,7 @@
     "app.drey.Dialect",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
+    "com.adrienplazas.Metronome",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",

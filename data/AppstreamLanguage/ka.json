@@ -3,6 +3,7 @@
     "app.drey.Dialect",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
+    "com.adrienplazas.Metronome",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
@@ -181,7 +182,6 @@
     "org.kde.tokodon",
     "org.kde.umbrello",
     "org.kde.vvave",
-    "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
     "org.virt_manager.virt-viewer"
 ]

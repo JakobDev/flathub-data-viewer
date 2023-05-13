@@ -22,6 +22,5 @@
     "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.font-viewer",
-    "org.gustavoperedo.FontDownloader",
-    "org.stellarium.Stellarium"
+    "org.gustavoperedo.FontDownloader"
 ]

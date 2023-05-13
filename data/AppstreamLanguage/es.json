@@ -8,6 +8,7 @@
     "ca.parallel_launcher.ParallelLauncher",
     "cat.xtec.clic.JClic",
     "ch.openboard.OpenBoard",
+    "com.adrienplazas.Metronome",
     "com.anydesk.Anydesk",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",

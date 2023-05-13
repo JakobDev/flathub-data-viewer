@@ -49,6 +49,7 @@
     "org.prismlauncher.PrismLauncher",
     "org.scilab.Scilab",
     "org.soapui.SoapUI",
+    "org.stellarium.Stellarium",
     "org.telegram",
     "org.tenacityaudio.Tenacity",
     "org.yuzu_emu.yuzu",

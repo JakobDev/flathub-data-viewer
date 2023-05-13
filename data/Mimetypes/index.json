@@ -1547,6 +1547,7 @@
         "x-scheme-handler{SLASH}cloudkit-7adb8cc6tf.in.sine",
         "x-scheme-handler{SLASH}cockroach",
         "x-scheme-handler{SLASH}cockroachdb",
+        "x-scheme-handler{SLASH}colorwall",
         "x-scheme-handler{SLASH}com.epicgames.launcher",
         "x-scheme-handler{SLASH}com.googleusercontent.apps.",
         "x-scheme-handler{SLASH}com.todoist",

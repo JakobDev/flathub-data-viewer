@@ -1,4 +1,5 @@
 [
     "com.ozmartians.VidCutter",
-    "io.github.celluloid_player.Celluloid"
+    "io.github.celluloid_player.Celluloid",
+    "org.photoqt.PhotoQt"
 ]

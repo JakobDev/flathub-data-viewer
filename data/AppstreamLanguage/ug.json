@@ -30,6 +30,5 @@
     "org.gnome.five-or-more",
     "org.gnome.font-viewer",
     "org.gnome.seahorse.Application",
-    "org.midori_browser.Midori",
-    "org.stellarium.Stellarium"
+    "org.midori_browser.Midori"
 ]

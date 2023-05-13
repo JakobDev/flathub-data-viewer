@@ -1,5 +1,6 @@
 [
     "ca.desrt.dconf-editor",
+    "com.adrienplazas.Metronome",
     "com.transmissionbt.Transmission",
     "de.haeckerfelix.Fragments",
     "im.dino.Dino",
@@ -52,7 +53,6 @@
     "org.gnome.seahorse.Application",
     "org.gramps_project.Gramps",
     "org.inkscape.Inkscape",
-    "org.stellarium.Stellarium",
     "org.sugarlabs.FotoToon",
     "org.sugarlabs.Measure",
     "org.sugarlabs.Paint",
