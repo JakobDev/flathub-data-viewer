@@ -2,6 +2,7 @@
     "com.irccloud",
     "im.srain.Srain",
     "io.github.Hexchat",
+    "net.kvirc.KVIrc",
     "org.gnome.Polari",
     "org.kde.konversation"
 ]

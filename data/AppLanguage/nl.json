@@ -111,6 +111,7 @@
     "org.entangle_photo.Manager",
     "org.freedesktop.Piper",
     "org.freedesktop.appstream.cli",
+    "org.freedesktop.fwupd",
     "org.fritzing.Fritzing",
     "org.geany.Geany",
     "org.geeqie.Geeqie",

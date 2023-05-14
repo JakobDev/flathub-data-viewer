@@ -5,6 +5,7 @@
     "im.srain.Srain",
     "io.github.Bavarder.Bavarder",
     "io.github.Hexchat",
+    "net.kvirc.KVIrc",
     "org.gnome.Polari",
     "org.syphon.Syphon"
 ]
