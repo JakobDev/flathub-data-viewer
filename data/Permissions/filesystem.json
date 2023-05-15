@@ -107,7 +107,6 @@
         "com.itopia.client",
         "com.jaquadro.NBTExplorer",
         "com.jetbrains.PhpStorm",
-        "com.jetpackduba.Gitnuro",
         "com.jpexs.decompiler.flash",
         "com.logseq.Logseq",
         "com.mattermost.Desktop",
@@ -473,6 +472,7 @@
         "com.interversehq.qView",
         "com.itopia.client",
         "com.kristianduske.TrenchBroom",
+        "com.ktechpit.colorwall",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.ktechpit.wonderwall",
@@ -1049,6 +1049,7 @@
         "com.google.ChromeDev",
         "com.greyrook.siptop",
         "com.icons8.Lunacy",
+        "com.ktechpit.colorwall",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.ktechpit.wonderwall",
@@ -1786,6 +1787,7 @@
         "com.jetbrains.Rider",
         "com.jetbrains.RubyMine",
         "com.jetbrains.WebStorm",
+        "com.jetpackduba.Gitnuro",
         "com.kavilgroup.gelectrical",
         "com.kristianduske.TrenchBroom",
         "com.lettier.movie-monad",
@@ -2066,6 +2068,7 @@
         "com.google.Chrome",
         "com.hamrick.VueScan",
         "com.kolor.AutopanoPro",
+        "com.ktechpit.colorwall",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.tracktion.Waveform",
@@ -2233,6 +2236,7 @@
         "com.github.rafostar.Clapper",
         "com.github.xournalpp.xournalpp",
         "com.icons8.Lunacy",
+        "com.ktechpit.colorwall",
         "com.neatdecisions.Detwinner",
         "com.protonvpn.www",
         "com.rawtherapee.RawTherapee",
@@ -2929,6 +2933,10 @@
     "~/Inform:create": [
         "com.inform7.IDE"
     ],
+    "xdg-run/gnupg": [
+        "com.jetpackduba.Gitnuro",
+        "org.gajim.Gajim"
+    ],
     "/sys:ro": [
         "com.leinardi.gst",
         "org.linux_hardware.hw-probe"
@@ -3524,9 +3532,6 @@
     ],
     "xdg-config/autostart": [
         "org.gabmus.hydrapaper"
-    ],
-    "xdg-run/gnupg": [
-        "org.gajim.Gajim"
     ],
     "xdg-run/geany:create": [
         "org.geany.Geany"

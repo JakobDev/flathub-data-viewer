@@ -179,6 +179,7 @@
     "org.kde.gcompris",
     "org.kde.granatier",
     "org.kde.gwenview",
+    "org.kde.haruna",
     "org.kde.index",
     "org.kde.isoimagewriter",
     "org.kde.itinerary",
@@ -301,5 +302,6 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",
+    "page.codeberg.Imaginer.Imaginer",
     "re.sonny.Tangram"
 ]
