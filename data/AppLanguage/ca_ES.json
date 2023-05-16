@@ -1,5 +1,6 @@
 [
     "io.github.pragha_music_player.pragha",
     "net.sourceforge.Hugin",
+    "org.arrl.trustedqsl",
     "org.scilab.Scilab"
 ]

@@ -164,6 +164,7 @@
     ],
     ".config/gzdoom": [
         "com.moddb.TotalChaos",
+        "com.moddb.TotalChaosRetro",
         "com.realm667.Wolfenstein_Blade_of_Agony",
         "io.github.freedoom.FreeDM",
         "io.github.freedoom.Phase1",

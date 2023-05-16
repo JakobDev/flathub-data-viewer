@@ -57,6 +57,7 @@
     "net.minetest.Minetest",
     "net.sourceforge.liferea",
     "net.supertuxkart.SuperTuxKart",
+    "org.arrl.trustedqsl",
     "org.bluesabre.MenuLibre",
     "org.bunkus.mkvtoolnix-gui",
     "org.freedesktop.appstream.cli",
