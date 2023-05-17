@@ -1,7 +1,6 @@
 {
     "43": [
         "app.bluebubbles.BlueBubbles",
-        "app.drey.Blurble",
         "app.drey.Damask",
         "app.drey.Dialect",
         "app.drey.KeyRack",
@@ -72,7 +71,6 @@
         "dev.boxi.Boxi",
         "dev.edfloreshz.Done",
         "dev.tchx84.Portfolio",
-        "edu.berkeley.BOINC",
         "fr.handbrake.ghb",
         "fr.henri2h.minestrix",
         "fr.romainvigier.zap",
@@ -203,6 +201,7 @@
         "xyz.diamondb.gtkcord4"
     ],
     "44": [
+        "app.drey.Blurble",
         "app.drey.EarTag",
         "app.drey.Elastic",
         "app.drey.MultiplicationPuzzle",
@@ -221,6 +220,7 @@
         "com.clarahobbs.chessclock",
         "com.cocoatech.deckr",
         "com.dropbox.Client",
+        "com.endlessm.photos",
         "com.github.GradienceTeam.Gradience",
         "com.github.PintaProject.Pinta",
         "com.github.afrantzis.Bless",
@@ -301,6 +301,7 @@
         "dev.jamiethalacker.window_painter",
         "dev.salaniLeo.immagini",
         "dev.zelikos.rollit",
+        "edu.berkeley.BOINC",
         "eu.ithz.umftpd",
         "fr.masson_informatique.WhosWho",
         "fr.romainvigier.MetadataCleaner",
@@ -470,7 +471,6 @@
         "br.gov.cti.invesalius",
         "cn.navclub.ldbfx",
         "com.amazon.Workspaces",
-        "com.endlessm.photos",
         "com.frac_tion.teleport",
         "com.github.Alcaro.Flips",
         "com.github.HypatiaProject.hypatia",

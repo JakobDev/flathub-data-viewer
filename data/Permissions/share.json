@@ -2,7 +2,6 @@
     "network": [
         "app.authpass.AuthPass",
         "app.bluebubbles.BlueBubbles",
-        "app.drey.Blurble",
         "app.drey.Damask",
         "app.drey.Dialect",
         "app.drey.Warp",
@@ -1153,6 +1152,7 @@
         "org.openstreetmap.josm",
         "org.opentransactions.metier",
         "org.openttd.OpenTTD",
+        "org.otfried.Ipe",
         "org.paraview.ParaView",
         "org.pegasus_frontend.Pegasus",
         "org.pencil2d.Pencil2D",
