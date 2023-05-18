@@ -267,6 +267,9 @@
     ".ultrastardx": [
         "eu.usdx.UltraStarDeluxe"
     ],
+    ".minion": [
+        "gg.minion.Minion"
+    ],
     ".config/ravkavonline": [
         "il.co.ravkavonline.RavKavOnline"
     ],

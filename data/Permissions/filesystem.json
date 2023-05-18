@@ -134,6 +134,7 @@
         "com.synology.SynologyDrive",
         "com.syntevo.SmartSynchronize",
         "com.thincast.client",
+        "com.tic80.TIC_80",
         "com.ultimaker.cura",
         "com.uploadedlobster.peek",
         "com.vicr123.thebeat",
@@ -2546,6 +2547,7 @@
         "com.github.theCalcaholic.StreamDeck",
         "com.heroicgameslauncher.hgl",
         "com.steamgriddb.SGDBoop",
+        "gg.minion.Minion",
         "io.github.philipk.boilr",
         "space.crankshaft.Crankshaft",
         "xyz.hyperplay.HyperPlay"
@@ -2569,6 +2571,7 @@
         "com.github.theCalcaholic.StreamDeck",
         "com.heroicgameslauncher.hgl",
         "com.steamdeckrepo.manager",
+        "gg.minion.Minion",
         "io.github.philipk.boilr",
         "net.davidotek.pupgui2",
         "space.crankshaft.Crankshaft",
@@ -3057,6 +3060,7 @@
     ],
     "~/.local/share/Steam": [
         "com.vysp3r.ProtonPlus",
+        "gg.minion.Minion",
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/com.heroicgameslauncher.hgl/config/heroic": [
@@ -3124,6 +3128,9 @@
     ],
     "~/RPMLauncher:create": [
         "ga.rpmtw.rpmlauncher"
+    ],
+    "~/Games": [
+        "gg.minion.Minion"
     ],
     "~/.steam/steam:ro": [
         "hu.kramo.Cartridges"

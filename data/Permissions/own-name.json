@@ -60,8 +60,13 @@
     "org.mpris.mediaplayer2.headset": [
         "co.headsetapp.headset"
     ],
+    "org.mpris.mediaplayer2.brave.*": [
+        "com.brave.Browser"
+    ],
+    "org.mpris.mediaplayer2.euterpe-gtk": [
+        "com.doycho.euterpe.gtk"
+    ],
     "org.mpris.mediaplayer2.chromium.*": [
-        "com.brave.Browser",
         "com.github.Eloston.UngoogledChromium",
         "com.github.rhyme_player.rhyme",
         "com.google.Chrome",
@@ -76,9 +81,6 @@
         "org.chromium.Chromium",
         "ru.yandex.Browser",
         "tech.feliciano.pocket-casts"
-    ],
-    "org.mpris.mediaplayer2.euterpe-gtk": [
-        "com.doycho.euterpe.gtk"
     ],
     "org.mpris.mediaplayer2.spotube": [
         "com.github.KRTirtho.Spotube"
