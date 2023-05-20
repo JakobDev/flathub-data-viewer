@@ -1624,6 +1624,9 @@
         "org.zrythm.Zrythm",
         "studio.kx.carla"
     ],
+    "xdg-pictures/Vintagestory:create": [
+        "at.vintagestory.VintageStory"
+    ],
     "~/ProgramasRFB:create": [
         "br.gov.fazenda.receita.irpf2022",
         "br.gov.fazenda.receita.irpf2023"
