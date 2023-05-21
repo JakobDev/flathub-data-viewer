@@ -1,6 +1,7 @@
 [
     "com.diffingo.fwbackups",
     "com.github.birros.WebArchives",
+    "com.github.mtkennerly.ludusavi",
     "org.gnome.World.PikaBackup",
     "org.photoqt.PhotoQt"
 ]

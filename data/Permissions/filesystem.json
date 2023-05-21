@@ -3646,6 +3646,9 @@
         "org.jellyfin.JellyfinServer",
         "org.purei.Play"
     ],
+    "~/Jellyfin Server Media:create": [
+        "org.jellyfin.JellyfinServer"
+    ],
     "~/.local/share/godot/app_userdata/libre-trainsim": [
         "org.libretrainsim.Libre-TrainSim"
     ],

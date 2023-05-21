@@ -107,6 +107,7 @@
     "org.bluez": [
         "com.avocode.Avocode",
         "com.github.theironrobin.siglo",
+        "com.google.Chrome",
         "com.skype.Client",
         "edu.stanford.Almond",
         "io.emeric.toolblex",
