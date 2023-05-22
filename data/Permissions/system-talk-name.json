@@ -119,7 +119,8 @@
         "org.eyecreate.qiflora",
         "org.freedesktop.Tuhi",
         "org.gnome.Keysign",
-        "org.subsurface_divelog.Subsurface"
+        "org.subsurface_divelog.Subsurface",
+        "ru.yandex.Browser"
     ],
     "org.freedesktop.avahi": [
         "com.brave.Browser",

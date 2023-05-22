@@ -1622,6 +1622,7 @@
         "org.surge_synth_team.surge-xt",
         "org.tenacityaudio.Tenacity",
         "org.zrythm.Zrythm",
+        "ru.yandex.Browser",
         "studio.kx.carla"
     ],
     "xdg-pictures/Vintagestory:create": [
@@ -1708,7 +1709,8 @@
         "org.gahshomar.Gahshomar",
         "org.gnome.Boxes",
         "org.gnome.Gtranslator",
-        "org.laptop.TurtleArtActivity"
+        "org.laptop.TurtleArtActivity",
+        "ru.yandex.Browser"
     ],
     "~/.config/dconf:ro": [
         "ca._0ldsk00l.Nestopia",
@@ -1742,7 +1744,8 @@
         "org.gahshomar.Gahshomar",
         "org.gnome.Boxes",
         "org.gnome.Gtranslator",
-        "org.laptop.TurtleArtActivity"
+        "org.laptop.TurtleArtActivity",
+        "ru.yandex.Browser"
     ],
     "host": [
         "ca.parallel_launcher.ParallelLauncher",
@@ -2447,12 +2450,14 @@
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
         "io.github.realmazharhussain.GdmSettings",
-        "io.wavebox.Wavebox"
+        "io.wavebox.Wavebox",
+        "ru.yandex.Browser"
     ],
     "~/.config/kioslaverc": [
         "com.brave.Browser",
         "com.google.Chrome",
-        "com.google.ChromeDev"
+        "com.google.ChromeDev",
+        "ru.yandex.Browser"
     ],
     "~/.local/share/applications:create": [
         "com.brave.Browser",
@@ -2788,6 +2793,9 @@
     ],
     "xdg-run/podman:ro": [
         "com.github.marhkb.Pods"
+    ],
+    "~/.var/app/net.lutris.Lutris": [
+        "com.github.mtkennerly.ludusavi"
     ],
     "/var/home": [
         "com.github.mtkennerly.ludusavi"

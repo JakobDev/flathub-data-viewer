@@ -916,7 +916,6 @@
         "net.sourceforge.scidavis",
         "net.xm1math.Texmaker",
         "nz.mega.MEGAsync",
-        "org.DolphinEmu.dolphin-emu",
         "org.atheme.audacious",
         "org.avidemux.Avidemux",
         "org.bionus.Grabber",
@@ -1311,7 +1310,6 @@
         "net.sourceforge.molsketch",
         "net.sourceforge.scidavis",
         "nz.mega.MEGAsync",
-        "org.DolphinEmu.dolphin-emu",
         "org.atheme.audacious",
         "org.avidemux.Avidemux",
         "org.bionus.Grabber",
@@ -2222,7 +2220,8 @@
         "org.gnome.Boxes",
         "org.gnome.Gtranslator",
         "org.laptop.TurtleArtActivity",
-        "org.remmina.Remmina"
+        "org.remmina.Remmina",
+        "ru.yandex.Browser"
     ],
     "org.freedesktop.flatpak": [
         "ca.desrt.dconf-editor",
@@ -2921,8 +2920,7 @@
         "io.github.jeffshee.Hidamari"
     ],
     "org.freedesktop.portal.openuri": [
-        "io.github.nate_xyz.Resonance",
-        "io.gitlab.adhami3310.Converter"
+        "io.github.nate_xyz.Resonance"
     ],
     "org.kde.plasmashell": [
         "io.github.quodlibet.ExFalso",
