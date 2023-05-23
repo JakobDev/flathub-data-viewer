@@ -1,5 +1,6 @@
 [
     "com.interversehq.qView",
+    "io.github.ltiber.Pwall",
     "org.gnome.Shotwell",
     "org.gnome.Snapshot"
 ]

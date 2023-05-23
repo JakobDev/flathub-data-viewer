@@ -1,6 +1,7 @@
 [
     "es.estoes.wallpaperDownloader",
     "io.github.dfandrich.gpscorrelate",
+    "io.github.ltiber.Pwall",
     "io.photoflare.photoflare",
     "net.fasterland.converseen",
     "org.gnome.Shotwell",
