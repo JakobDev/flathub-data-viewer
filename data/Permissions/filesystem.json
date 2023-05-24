@@ -13,6 +13,7 @@
         "au.edu.uq.esys.escript",
         "br.gov.cti.invesalius",
         "ca.littlesvr.asunder",
+        "ca.uwaterloo.Raven",
         "cat.xtec.clic.JClic",
         "cc.arduino.IDE2",
         "cc.arduino.arduinoide",
@@ -270,6 +271,7 @@
         "net.sourceforge.GrandOrgue",
         "net.sourceforge.Hugin",
         "net.sourceforge.VMPK",
+        "net.sourceforge.audmes.audmes",
         "net.sourceforge.dmidiplayer",
         "net.sourceforge.efaxgtk",
         "net.sourceforge.electrip.Electrip",
@@ -722,6 +724,7 @@
         "org.featherwallet.Feather",
         "org.fedoraproject.MediaWriter",
         "org.filmulator.Filmulator",
+        "org.fkoehler.KTailctl",
         "org.flameshot.Flameshot",
         "org.flatpak.qtdemo",
         "org.flightgear.FlightGear",
@@ -1529,6 +1532,7 @@
         "com.github.joseexposito.touche",
         "com.tutanota.Tutanota",
         "com.virustotal.VirusTotalUploader",
+        "hu.kramo.Cartridges",
         "info.cemu.Cemu",
         "io.github.hakandundar34coding.system-monitoring-center",
         "io.github.jorchube.monitorets",
@@ -3101,7 +3105,8 @@
         "de.schmidhuberj.tubefeeder"
     ],
     "/run/tailscale:ro": [
-        "dev.deedles.Trayscale"
+        "dev.deedles.Trayscale",
+        "org.fkoehler.KTailctl"
     ],
     "~/hdos:create": [
         "dev.hdos.HDOS"
@@ -3144,39 +3149,20 @@
     "~/Games": [
         "gg.minion.Minion"
     ],
-    "~/.steam/steam:ro": [
-        "hu.kramo.Cartridges"
-    ],
     "~/.var/app/net.lutris.Lutris:ro": [
         "hu.kramo.Cartridges",
         "io.github.philipk.boilr"
     ],
-    "~/.var/app/io.itch.itch/config/itch:ro": [
-        "hu.kramo.Cartridges"
-    ],
     "~/.var/app/com.heroicgameslauncher.hgl/config/heroic:ro": [
         "hu.kramo.Cartridges"
     ],
-    "xdg-config/itch:ro": [
+    "~/.var/app/com.valvesoftware.Steam/data/Steam:ro": [
         "hu.kramo.Cartridges"
     ],
     "~/.var/app/com.usebottles.bottles/data/bottles:ro": [
         "hu.kramo.Cartridges"
     ],
-    "xdg-cache/lutris:ro": [
-        "hu.kramo.Cartridges"
-    ],
-    "xdg-config/heroic:ro": [
-        "hu.kramo.Cartridges"
-    ],
-    "xdg-data/lutris:ro": [
-        "hu.kramo.Cartridges",
-        "io.github.philipk.boilr"
-    ],
-    "xdg-data/bottles:ro": [
-        "hu.kramo.Cartridges"
-    ],
-    "~/.var/app/com.valvesoftware.Steam/data/Steam:ro": [
+    "~/.var/app/io.itch.itch/config/itch:ro": [
         "hu.kramo.Cartridges"
     ],
     "xdg-run/app/com.discordapp.Discord:ro": [
@@ -3271,6 +3257,9 @@
         "io.github.philipk.boilr"
     ],
     "/run/media/mmcblk0p1:ro": [
+        "io.github.philipk.boilr"
+    ],
+    "xdg-data/lutris:ro": [
         "io.github.philipk.boilr"
     ],
     "~/Games/Heroic:ro": [

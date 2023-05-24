@@ -536,6 +536,9 @@
     ".clonk": [
         "org.openclonk.OpenClonk"
     ],
+    ".ipe": [
+        "org.otfried.Ipe"
+    ],
     ".Phoenicis": [
         "org.phoenicis.playonlinux"
     ],

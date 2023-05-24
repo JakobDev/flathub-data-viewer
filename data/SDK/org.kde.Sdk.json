@@ -122,6 +122,7 @@
         "org.electrum.electrum",
         "org.equeim.Tremotesf",
         "org.filmulator.Filmulator",
+        "org.fkoehler.KTailctl",
         "org.flatpak.qtdemo",
         "org.freecadweb.FreeCAD",
         "org.freeciv.qt",

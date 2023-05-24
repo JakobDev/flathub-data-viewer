@@ -214,6 +214,7 @@
     "org.denemo.Denemo",
     "org.entangle_photo.Manager",
     "org.equeim.Tremotesf",
+    "org.fkoehler.KTailctl",
     "org.free_astro.siril",
     "org.freedesktop.GstDebugViewer",
     "org.freedesktop.dabrain34.GstPipelineStudio",

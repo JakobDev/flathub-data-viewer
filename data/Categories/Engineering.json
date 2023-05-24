@@ -1,4 +1,5 @@
 [
+    "ca.uwaterloo.Raven",
     "ch.openboard.OpenBoard",
     "com.flashforge.FlashPrint",
     "com.github.LongSoft.UEFITool",

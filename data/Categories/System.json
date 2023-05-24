@@ -48,6 +48,7 @@
     "org.cubocore.CoreFM",
     "org.fcitx.Fcitx5",
     "org.fedoraproject.MediaWriter",
+    "org.fkoehler.KTailctl",
     "org.gnome.Boxes",
     "org.gnome.ColorViewer",
     "org.gnome.Logs",

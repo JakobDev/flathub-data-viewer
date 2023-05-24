@@ -1,6 +1,7 @@
 [
     "com.github.avojak.paint-spill",
     "com.github.finefindus.eyedropper",
+    "com.ktechpit.colorwall",
     "nl.hjdskes.gcolor3",
     "org.gnome.ColorViewer",
     "org.gnome.design.Contrast"
