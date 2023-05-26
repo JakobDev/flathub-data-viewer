@@ -2562,7 +2562,6 @@
         "com.steamgriddb.SGDBoop",
         "gg.minion.Minion",
         "io.github.philipk.boilr",
-        "space.crankshaft.Crankshaft",
         "xyz.hyperplay.HyperPlay"
     ],
     "xdg-data/Steam": [
@@ -2572,7 +2571,6 @@
         "com.heroicgameslauncher.hgl",
         "io.github.philipk.boilr",
         "io.github.tralph3.Steam_Metadata_Editor",
-        "space.crankshaft.Crankshaft",
         "xyz.hyperplay.HyperPlay"
     ],
     "xdg-documents/EDuke32:create": [
@@ -2587,7 +2585,6 @@
         "gg.minion.Minion",
         "io.github.philipk.boilr",
         "net.davidotek.pupgui2",
-        "space.crankshaft.Crankshaft",
         "xyz.hyperplay.HyperPlay"
     ],
     "xdg-run/gnupg:ro": [

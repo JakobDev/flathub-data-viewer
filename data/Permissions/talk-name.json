@@ -1687,6 +1687,7 @@
         "io.github.Pithos",
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.antimicrox.antimicrox",
+        "io.github.dweymouth.supersonic",
         "io.github.jeffshee.Hidamari",
         "io.github.kotatogram",
         "io.github.liberodark.OpenDrive",
@@ -1945,6 +1946,7 @@
         "io.github.aandrew_me.ytdn",
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.ciromattia.kcc",
+        "io.github.dweymouth.supersonic",
         "io.github.helpseeker.Gyre",
         "io.github.hrkfdn.ncspot",
         "io.github.hypengw.Qcm",
@@ -2332,8 +2334,7 @@
         "org.zim_wiki.Zim",
         "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
-        "re.sonny.Junction",
-        "space.crankshaft.Crankshaft"
+        "re.sonny.Junction"
     ],
     "org.freedesktop.powermanagement.inhibit": [
         "ca.parallel_launcher.ParallelLauncher",

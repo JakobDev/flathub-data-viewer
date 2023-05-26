@@ -125,6 +125,7 @@
     "org.freedesktop.Sdk.Extension.openjdk8",
     "org.freedesktop.Sdk.Extension.php73",
     "org.freedesktop.Sdk.Extension.php74",
+    "org.freedesktop.Sdk.Extension.php82",
     "org.freedesktop.Sdk.Extension.rust-nightly",
     "org.freedesktop.Sdk.Extension.rust-stable",
     "org.winehq.Wine.gecko",

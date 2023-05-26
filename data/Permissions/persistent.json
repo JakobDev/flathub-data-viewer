@@ -617,9 +617,6 @@
     ".thinlinc": [
         "se.cendio.tlclient"
     ],
-    ".local/state": [
-        "space.crankshaft.Crankshaft"
-    ],
     ".putty": [
         "uk.org.greenend.chiark.sgtatham.putty"
     ],
