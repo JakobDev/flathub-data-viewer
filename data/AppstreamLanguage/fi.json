@@ -291,7 +291,6 @@
     "org.kicad.KiCad",
     "org.midori_browser.Midori",
     "org.musicbrainz.Picard",
-    "org.nickvision.money",
     "org.parlatype.Parlatype",
     "org.pitivi.Pitivi",
     "org.qgis.qgis",
@@ -301,6 +300,5 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",
-    "page.codeberg.Imaginer.Imaginer",
     "re.sonny.Tangram"
 ]

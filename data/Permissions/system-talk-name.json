@@ -191,7 +191,6 @@
         "tv.kodi.Kodi"
     ],
     "org.freedesktop.accounts": [
-        "com.github.benpocalypse.Huely",
         "com.github.childishgiant.mixer",
         "com.github.matfantinel.reminduck",
         "com.github.rajsolai.textsnatcher",

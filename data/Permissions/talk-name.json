@@ -2866,6 +2866,7 @@
     "com.canonical.unity": [
         "com.rtosta.zapzap",
         "io.github.kotatogram",
+        "org.nickvision.tubeconverter",
         "org.remmina.Remmina"
     ],
     "org.freedesktop.portal.filechooser": [

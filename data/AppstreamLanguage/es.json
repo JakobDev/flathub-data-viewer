@@ -411,8 +411,6 @@
     "org.lamport.tla.toolbox",
     "org.midori_browser.Midori",
     "org.musicbrainz.Picard",
-    "org.nickvision.money",
-    "org.nickvision.tubeconverter",
     "org.octave.Octave",
     "org.olivevideoeditor.Olive",
     "org.parlatype.Parlatype",
