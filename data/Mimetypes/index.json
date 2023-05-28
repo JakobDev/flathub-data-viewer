@@ -1707,6 +1707,7 @@
         "x-scheme-handler{SLASH}simplenote",
         "x-scheme-handler{SLASH}sip",
         "x-scheme-handler{SLASH}sips",
+        "x-scheme-handler{SLASH}skype",
         "x-scheme-handler{SLASH}slack",
         "x-scheme-handler{SLASH}smartgit",
         "x-scheme-handler{SLASH}sonobus",

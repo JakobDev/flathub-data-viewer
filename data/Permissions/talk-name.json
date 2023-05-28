@@ -822,7 +822,6 @@
         "de.shorsh.discord-screenaudio",
         "de.syping.gta5view",
         "edu.princeton.physics.WSJTX",
-        "eu.ad5001.LogarithmPlotter",
         "eu.scarpetta.PDFMixTool",
         "eu.vcmi.VCMI",
         "fr.free.brouits.qspeakers",
@@ -1231,7 +1230,6 @@
         "de.shorsh.discord-screenaudio",
         "de.syping.gta5view",
         "edu.princeton.physics.WSJTX",
-        "eu.ad5001.LogarithmPlotter",
         "eu.scarpetta.PDFMixTool",
         "eu.vcmi.VCMI",
         "fr.free.brouits.qspeakers",
@@ -2872,6 +2870,7 @@
     "org.freedesktop.portal.filechooser": [
         "com.rtosta.zapzap",
         "de.schmidhuberj.Flare",
+        "eu.ad5001.LogarithmPlotter",
         "io.github.vikdevelop.SaveDesktop"
     ],
     "org.gnome.gconf": [

@@ -1,6 +1,7 @@
 [
     "com.github.Matoking.protontricks",
     "com.valvesoftware.Steam",
+    "io.github.bothlab.syntalos",
     "org.gnome.Builder",
     "org.mosh.mosh"
 ]
