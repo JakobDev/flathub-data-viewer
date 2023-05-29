@@ -2911,8 +2911,7 @@
         "com.googleplaymusicdesktopplayer.GPMDP"
     ],
     "~/.local/share/flatpak/overrides": [
-        "com.hack_computer.Clubhouse",
-        "io.github.vikdevelop.SaveDesktop"
+        "com.hack_computer.Clubhouse"
     ],
     "~/.local/share/flatpak/app:ro": [
         "com.hack_computer.Clubhouse"
@@ -3214,6 +3213,7 @@
     ],
     "/var/lib/flatpak:ro": [
         "io.github.fabrialberio.pinapp",
+        "io.github.vikdevelop.SaveDesktop",
         "org.bluesabre.MenuLibre",
         "org.freedesktop.appstream-glib",
         "org.freedesktop.appstream.cli",
@@ -3308,10 +3308,10 @@
     "~/Nextcloud/Notes": [
         "io.github.vegad.vnotes"
     ],
-    "~/.local/share": [
+    "~/.xfce4:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "~/.xfce4:create": [
+    "~/.local/share": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.fonts:create": [

@@ -2466,7 +2466,6 @@
     "org.freedesktop.Sdk.Extension.vala",
     "org.freedesktop.Sdk.Extension.ziglang",
     "org.freedesktop.Sdk",
-    "org.gajim.Gajim.Plugin.omemo",
     "org.gajim.Gajim.Plugin.openpgp",
     "org.gajim.Gajim.Plugin.pgp",
     "org.gimp.GIMP.Manual",

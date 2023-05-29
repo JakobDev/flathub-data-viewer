@@ -279,7 +279,6 @@
     "org.freedesktop.Sdk.Extension.php82",
     "org.freedesktop.Sdk.Extension.rust-stable",
     "org.freedesktop.Sdk.Extension.vala",
-    "org.gajim.Gajim.Plugin.omemo",
     "org.gajim.Gajim.Plugin.openpgp",
     "org.gajim.Gajim.Plugin.pgp",
     "org.gimp.GIMP.Manual",

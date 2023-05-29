@@ -1,5 +1,4 @@
 [
-    "org.gajim.Gajim.Plugin.omemo",
     "org.gajim.Gajim.Plugin.openpgp",
     "org.gajim.Gajim.Plugin.pgp"
 ]
