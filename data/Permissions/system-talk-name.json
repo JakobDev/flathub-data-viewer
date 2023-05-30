@@ -62,6 +62,7 @@
         "org.gnome.Todo",
         "org.keepassxc.KeePassXC",
         "org.qbittorrent.qBittorrent",
+        "org.sabnzbd.sabnzbd",
         "tv.kodi.Kodi"
     ],
     "org.gtk.vfs.*": [
@@ -186,6 +187,7 @@
         "org.qbittorrent.qBittorrent",
         "org.quetoo.Quetoo",
         "org.qutebrowser.qutebrowser",
+        "org.sabnzbd.sabnzbd",
         "ru.yandex.Browser",
         "sh.cider.Cider",
         "sh.ppy.osu",

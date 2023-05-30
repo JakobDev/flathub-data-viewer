@@ -548,6 +548,9 @@
     ".raceintospace": [
         "org.raceintospace.Raceintospace"
     ],
+    ".sabnzbd": [
+        "org.sabnzbd.sabnzbd"
+    ],
     ".sauerbraten": [
         "org.sauerbraten.Sauerbraten"
     ],

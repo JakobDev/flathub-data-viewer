@@ -317,7 +317,6 @@
         "com.github.dynobo.normcap",
         "com.github.unrud.djpdf",
         "com.gitlab.JakobDev.jdReplace",
-        "com.gitlab.jakobdev.jdnbtexplorer",
         "com.gitlab.tipp10.tipp10",
         "com.obsproject.Studio",
         "community.pathofbuilding.PathOfBuilding",
@@ -327,6 +326,7 @@
         "de.marlam.qv",
         "eu.ad5001.LogarithmPlotter",
         "io.github.Arisotura.CoinKiller",
+        "io.github.ctlcltd.e2se",
         "io.github.hypengw.Qcm",
         "io.github.martinrotter.rssguardlite",
         "io.github.myst6re.makoureactor",
@@ -375,6 +375,7 @@
         "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdEolConverter",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.JakobDev.jdNBTExplorer",
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "5.15-21.08": [

@@ -198,7 +198,6 @@
         "com.gitlab.Murmele.UDPLogger",
         "com.gitlab.coringao.JAG",
         "com.gitlab.cutecom.cutecom",
-        "com.gitlab.jakobdev.jdnbtexplorer",
         "com.gitlab.librebob.Athenaeum",
         "com.gitlab.tipp10.tipp10",
         "com.hunterwittenborn.Celeste",
@@ -302,6 +301,7 @@
         "io.github.ciromattia.kcc",
         "io.github.cloose.CuteMarkEd",
         "io.github.congard.qnvsm",
+        "io.github.ctlcltd.e2se",
         "io.github.cudatext.CudaText-Qt5",
         "io.github.dman95.SASM",
         "io.github.dummerle.rare",
@@ -728,6 +728,7 @@
         "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdEolConverter",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.JakobDev.jdNBTExplorer",
         "page.codeberg.JakobDev.jdSimpleAutostart",
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
@@ -1763,6 +1764,7 @@
         "org.qutebrowser.qutebrowser",
         "org.remmina.Remmina",
         "org.rncbc.qpwgraph",
+        "org.sabnzbd.sabnzbd",
         "org.signal.Signal",
         "org.sparkleshare.SparkleShare",
         "org.strawberrymusicplayer.strawberry",
@@ -2068,6 +2070,7 @@
         "org.raspberrypi.rpi-imager",
         "org.remmina.Remmina",
         "org.rncbc.qpwgraph",
+        "org.sabnzbd.sabnzbd",
         "org.signal.Signal",
         "org.sparkleshare.SparkleShare",
         "org.standardnotes.standardnotes",
@@ -2582,6 +2585,7 @@
         "org.keepassxc.KeePassXC",
         "org.mozilla.firefox",
         "org.qbittorrent.qBittorrent",
+        "org.sabnzbd.sabnzbd",
         "ru.yandex.Browser"
     ],
     "org.gnome.mutter.idlemonitor.*": [
@@ -2654,6 +2658,7 @@
         "org.filezillaproject.Filezilla",
         "org.jitsi.jitsi-meet",
         "org.qbittorrent.qBittorrent",
+        "org.sabnzbd.sabnzbd",
         "tv.plex.PlexHTPC"
     ],
     "org.gnome.settingsdaemon.mediakeys": [

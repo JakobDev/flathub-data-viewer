@@ -32,5 +32,6 @@
     "org.nicotine_plus.Nicotine",
     "org.onionshare.OnionShare",
     "org.qbittorrent.qBittorrent",
+    "org.sabnzbd.sabnzbd",
     "org.sparkleshare.SparkleShare"
 ]
