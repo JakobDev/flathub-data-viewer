@@ -313,6 +313,7 @@
     ],
     "6.4": [
         "app.lith.Lith",
+        "com.github.AlizaMedicalImaging.AlizaMS",
         "com.github.Rosalie241.RMG",
         "com.github.dynobo.normcap",
         "com.github.unrud.djpdf",
@@ -325,7 +326,6 @@
         "de.marlam.gencolormap",
         "de.marlam.qv",
         "eu.ad5001.LogarithmPlotter",
-        "io.github.Arisotura.CoinKiller",
         "io.github.ctlcltd.e2se",
         "io.github.hypengw.Qcm",
         "io.github.martinrotter.rssguardlite",
@@ -387,7 +387,6 @@
         "com.darhon.syncbackup",
         "com.eminfedar.vaktisalah",
         "com.georgefb.quickaccess",
-        "com.github.AlizaMedicalImaging.AlizaMS",
         "com.github.Flacon",
         "com.github.Murmele.Gittyup",
         "com.github.chipmuenk.pyfda",
@@ -576,6 +575,9 @@
         "io.botfather.Botfather",
         "io.liri.Calculator",
         "io.liri.Text"
+    ],
+    "6.5": [
+        "io.github.Arisotura.CoinKiller"
     ],
     "5.9": [
         "io.qt.qtwebkit.BaseApp"

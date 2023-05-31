@@ -1,4 +1,5 @@
 [
     "net.rpcs3.RPCS3",
-    "org.jellyfin.JellyfinServer"
+    "org.jellyfin.JellyfinServer",
+    "org.pipewire.Helvum"
 ]
