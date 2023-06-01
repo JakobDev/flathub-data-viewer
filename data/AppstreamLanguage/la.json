@@ -1,5 +1,6 @@
 [
     "org.stellarium.Stellarium",
     "org.widelands.Widelands",
-    "org.x.Warpinator"
+    "org.x.Warpinator",
+    "sm.puri.Chatty"
 ]

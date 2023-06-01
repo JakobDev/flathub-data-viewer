@@ -321,7 +321,6 @@
         "com.github.Rosalie241.RMG",
         "com.github.dynobo.normcap",
         "com.github.unrud.djpdf",
-        "com.gitlab.JakobDev.jdReplace",
         "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.tipp10.tipp10",
         "com.obsproject.Studio",
@@ -336,7 +335,6 @@
         "io.github.martinrotter.rssguardlite",
         "io.github.myst6re.makoureactor",
         "io.github.nuttyartist.notes",
-        "io.github.simple64.simple64",
         "io.github.sithlord48.blackchocobo",
         "io.sourceforge.pentobi",
         "net.davidotek.pupgui2",
@@ -366,7 +364,6 @@
         "org.otfried.Ipe",
         "org.profex_xrd.Profex",
         "org.rncbc.qpwgraph",
-        "org.rncbc.qsynth",
         "org.rncbc.qtractor",
         "org.shotcut.Shotcut",
         "org.stellarium.Stellarium",
@@ -381,6 +378,7 @@
         "page.codeberg.JakobDev.jdEolConverter",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "page.codeberg.JakobDev.jdNBTExplorer",
+        "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "5.15-21.08": [
@@ -587,9 +585,11 @@
     ],
     "6.5": [
         "io.github.Arisotura.CoinKiller",
+        "io.github.simple64.simple64",
         "io.qt.Designer",
         "io.qt.Linguist",
-        "io.qt.qdbusviewer"
+        "io.qt.qdbusviewer",
+        "org.rncbc.qsynth"
     ],
     "5.9": [
         "io.qt.qtwebkit.BaseApp"

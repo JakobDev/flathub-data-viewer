@@ -1714,6 +1714,7 @@
         "x-scheme-handler{SLASH}skype",
         "x-scheme-handler{SLASH}slack",
         "x-scheme-handler{SLASH}smartgit",
+        "x-scheme-handler{SLASH}sms",
         "x-scheme-handler{SLASH}sonobus",
         "x-scheme-handler{SLASH}sourcetree",
         "x-scheme-handler{SLASH}spartan",

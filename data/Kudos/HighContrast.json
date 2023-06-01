@@ -31,6 +31,7 @@
     "com.github.PintaProject.Pinta",
     "com.github.alecaddd.sequeler",
     "com.github.alexhuntley.Plots",
+    "com.github.alexkdeveloper.goldsearch",
     "com.github.cassidyjames.clairvoyant",
     "com.github.cassidyjames.dippi",
     "com.github.edenalencar.identifications",
@@ -273,5 +274,6 @@
     "ro.fxdata.taskmonitor.viewer",
     "ro.hume.cosmin.ShoppingList",
     "se.sjoerd.GIScan",
-    "se.sjoerd.Graphs"
+    "se.sjoerd.Graphs",
+    "sm.puri.Chatty"
 ]

@@ -59,7 +59,6 @@
     "com.github.unrud.VideoDownloader",
     "com.github.wwmm.easyeffects",
     "com.github.ztefn.haguichi",
-    "com.gitlab.JakobDev.jdReplace",
     "com.gitlab.bitseater.meteo",
     "com.gitlab.davem.ClamTk",
     "com.gitlab.guillermop.MasterKey",
@@ -396,6 +395,7 @@
     "org.kde.vvave",
     "org.kicad.KiCad",
     "org.midori_browser.Midori",
+    "org.moneymanagerex.MMEX",
     "org.musicbrainz.Picard",
     "org.nicotine_plus.Nicotine",
     "org.octave.Octave",
@@ -415,6 +415,7 @@
     "page.codeberg.JakobDev.jdAppStreamEdit",
     "page.codeberg.JakobDev.jdEolConverter",
     "page.codeberg.JakobDev.jdFlatpakSnapshot",
+    "page.codeberg.JakobDev.jdReplace",
     "page.codeberg.JakobDev.jdSimpleAutostart",
     "page.codeberg.yeldham.Librerama",
     "pm.mirko.Atoms",
@@ -422,5 +423,6 @@
     "re.sonny.Junction",
     "re.sonny.Tangram",
     "re.sonny.Workbench",
-    "ro.hume.cosmin.ShoppingList"
+    "ro.hume.cosmin.ShoppingList",
+    "sm.puri.Chatty"
 ]

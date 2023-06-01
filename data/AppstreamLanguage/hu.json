@@ -213,6 +213,7 @@
     "org.kde.umbrello",
     "org.kde.vvave",
     "org.midori_browser.Midori",
+    "org.moneymanagerex.MMEX",
     "org.mozilla.Thunderbird",
     "org.nicotine_plus.Nicotine",
     "org.octave.Octave",
@@ -228,5 +229,6 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.zrythm.Zrythm",
-    "page.codeberg.foreverxml.Random"
+    "page.codeberg.foreverxml.Random",
+    "sm.puri.Chatty"
 ]

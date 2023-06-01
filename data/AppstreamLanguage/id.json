@@ -292,6 +292,7 @@
     "org.kde.vvave",
     "org.kicad.KiCad",
     "org.midori_browser.Midori",
+    "org.moneymanagerex.MMEX",
     "org.olivevideoeditor.Olive",
     "org.pitivi.Pitivi",
     "org.squeakland.Etoys",
@@ -303,5 +304,6 @@
     "org.xfce.ristretto",
     "org.zrythm.Zrythm",
     "re.sonny.Junction",
-    "re.sonny.Tangram"
+    "re.sonny.Tangram",
+    "sm.puri.Chatty"
 ]

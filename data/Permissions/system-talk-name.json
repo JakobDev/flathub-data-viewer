@@ -284,7 +284,8 @@
         "org.gnome.Builder"
     ],
     "org.freedesktop.modemmanager1": [
-        "org.gnome.Calls"
+        "org.gnome.Calls",
+        "sm.puri.Chatty"
     ],
     "org.freedesktop.dbus.peer.ping": [
         "org.gnome.OCRFeeder"

@@ -27,7 +27,6 @@
         "org.subtitld.Subtitld"
     ],
     "6.4": [
-        "com.gitlab.JakobDev.jdReplace",
         "com.gitlab.JakobDev.jdTextEdit",
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
@@ -37,6 +36,7 @@
         "page.codeberg.JakobDev.jdEolConverter",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "page.codeberg.JakobDev.jdNBTExplorer",
+        "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "5.15-21.08": [

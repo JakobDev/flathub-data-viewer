@@ -172,6 +172,7 @@
     "org.kde.qmlkonsole",
     "org.kde.vvave",
     "org.midori_browser.Midori",
+    "org.moneymanagerex.MMEX",
     "org.pitivi.Pitivi",
     "org.qgis.qgis",
     "org.squeakland.Etoys",
@@ -179,5 +180,6 @@
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
-    "re.sonny.Junction"
+    "re.sonny.Junction",
+    "sm.puri.Chatty"
 ]

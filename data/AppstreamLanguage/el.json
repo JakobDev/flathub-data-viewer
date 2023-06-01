@@ -231,6 +231,7 @@
     "org.kde.vvave",
     "org.kicad.KiCad",
     "org.midori_browser.Midori",
+    "org.moneymanagerex.MMEX",
     "org.pitivi.Pitivi",
     "org.qelectrotech.QElectroTech",
     "org.speedcrunch.SpeedCrunch",
@@ -239,5 +240,6 @@
     "org.x.Warpinator",
     "org.xfce.mousepad",
     "org.xfce.ristretto",
-    "org.zrythm.Zrythm"
+    "org.zrythm.Zrythm",
+    "sm.puri.Chatty"
 ]

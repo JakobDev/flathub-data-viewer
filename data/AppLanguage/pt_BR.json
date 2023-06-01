@@ -250,5 +250,6 @@
     "org.zrythm.Zrythm",
     "re.sonny.Commit",
     "re.sonny.Junction",
-    "re.sonny.Workbench"
+    "re.sonny.Workbench",
+    "sm.puri.Chatty"
 ]

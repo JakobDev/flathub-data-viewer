@@ -301,6 +301,7 @@
     "org.kde.vvave",
     "org.kicad.KiCad",
     "org.midori_browser.Midori",
+    "org.moneymanagerex.MMEX",
     "org.nicotine_plus.Nicotine",
     "org.pitivi.Pitivi",
     "org.qelectrotech.QElectroTech",
@@ -316,5 +317,6 @@
     "re.sonny.Junction",
     "re.sonny.Tangram",
     "re.sonny.Workbench",
+    "sm.puri.Chatty",
     "ua.org.brezblock.q4wine"
 ]

@@ -18,5 +18,6 @@
     "org.gajim.Gajim",
     "org.gnome.Fractal",
     "org.gnunet.Messenger",
-    "org.telegram"
+    "org.telegram",
+    "sm.puri.Chatty"
 ]

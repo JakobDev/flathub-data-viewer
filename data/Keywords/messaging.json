@@ -6,5 +6,6 @@
     "io.github.kotatogram",
     "org.gajim.Gajim",
     "org.gnunet.Messenger",
-    "org.telegram"
+    "org.telegram",
+    "sm.puri.Chatty"
 ]

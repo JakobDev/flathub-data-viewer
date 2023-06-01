@@ -131,6 +131,7 @@
     "org.kde.gcompris",
     "org.kde.konversation",
     "org.midori_browser.Midori",
+    "org.moneymanagerex.MMEX",
     "org.musicbrainz.Picard",
     "org.parlatype.Parlatype",
     "org.pitivi.Pitivi",
@@ -141,5 +142,6 @@
     "org.xfce.ristretto",
     "org.zrythm.Zrythm",
     "re.sonny.Junction",
-    "re.sonny.Tangram"
+    "re.sonny.Tangram",
+    "sm.puri.Chatty"
 ]

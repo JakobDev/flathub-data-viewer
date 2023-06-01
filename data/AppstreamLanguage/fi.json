@@ -290,6 +290,7 @@
     "org.kde.vvave",
     "org.kicad.KiCad",
     "org.midori_browser.Midori",
+    "org.moneymanagerex.MMEX",
     "org.musicbrainz.Picard",
     "org.parlatype.Parlatype",
     "org.pitivi.Pitivi",
@@ -300,5 +301,6 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",
-    "re.sonny.Tangram"
+    "re.sonny.Tangram",
+    "sm.puri.Chatty"
 ]

@@ -183,6 +183,7 @@
     "org.kde.palapeli",
     "org.kde.picmi",
     "org.midori_browser.Midori",
+    "org.moneymanagerex.MMEX",
     "org.parlatype.Parlatype",
     "org.pitivi.Pitivi",
     "org.stellarium.Stellarium",
@@ -190,5 +191,6 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",
-    "org.xfce.ristretto"
+    "org.xfce.ristretto",
+    "sm.puri.Chatty"
 ]

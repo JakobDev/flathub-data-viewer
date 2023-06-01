@@ -160,7 +160,6 @@
         "org.gpodder.gpodder-adaptive",
         "org.gpodder.gpodder",
         "org.gramps_project.Gramps",
-        "org.inkscape.Inkscape",
         "org.libvips.vipsdisp",
         "org.mpdevil.mpdevil",
         "org.parlatype.Parlatype",
@@ -362,6 +361,7 @@
         "net.lugsole.bible_gui",
         "net.lutris.Lutris",
         "net.natesales.Aviator",
+        "net.poedit.Poedit",
         "nl.brixit.powersupply",
         "nl.openoffice.bluefish",
         "org.KekikAkademi.eFatura",
@@ -447,7 +447,9 @@
         "org.gnu.pspp",
         "org.gnunet.Messenger",
         "org.gustavoperedo.FontDownloader",
+        "org.inkscape.Inkscape",
         "org.karapulse.Karapulse",
+        "org.moneymanagerex.MMEX",
         "org.nickvision.money",
         "org.nickvision.tagger",
         "org.nickvision.tubeconverter",
@@ -472,7 +474,8 @@
         "re.sonny.Playhouse",
         "re.sonny.Tangram",
         "sa.sy.bluerecorder",
-        "se.sjoerd.Graphs"
+        "se.sjoerd.Graphs",
+        "sm.puri.Chatty"
     ],
     "42": [
         "app.riftshare.RiftShare",
@@ -543,7 +546,6 @@
         "net.devolutions.RDMFree",
         "net.jenyay.Outwiker",
         "net.mancubus.SLADE",
-        "net.poedit.Poedit",
         "net.sourceforge.Lifeograph",
         "net.sourceforge.liferea",
         "nl.brixit.wiremapper",

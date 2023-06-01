@@ -278,6 +278,7 @@
     "re.sonny.Commit",
     "re.sonny.Junction",
     "re.sonny.Workbench",
+    "sm.puri.Chatty",
     "xyz.eclipium.Hieroctive",
     "xyz.eclipium.TetraSwap"
 ]

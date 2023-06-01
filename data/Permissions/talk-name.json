@@ -194,7 +194,6 @@
         "com.github.zocker_160.SyncThingy",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.gitlab.JakobDev.jdMinecraftLauncher",
-        "com.gitlab.JakobDev.jdReplace",
         "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.Murmele.UDPLogger",
         "com.gitlab.coringao.JAG",
@@ -730,6 +729,7 @@
         "page.codeberg.JakobDev.jdEolConverter",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "page.codeberg.JakobDev.jdNBTExplorer",
+        "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
@@ -2215,7 +2215,6 @@
         "in.bharatkalluri.splash",
         "io.gitlab.Goodvibes",
         "net.christianbeier.Gromit-MPX",
-        "net.poedit.Poedit",
         "nl.g4d.Girens",
         "org.bluej.BlueJ",
         "org.freac.freac",
@@ -2693,7 +2692,8 @@
         "org.gnome.Contacts",
         "org.gnome.Notes",
         "org.gnome.Todo",
-        "org.tabos.roger"
+        "org.tabos.roger",
+        "sm.puri.Chatty"
     ],
     "org.gnome.shell.screencast": [
         "com.github.amikha1lov.RecApp",
@@ -2884,7 +2884,8 @@
     ],
     "org.sigxcpu.feedback": [
         "de.schmidhuberj.Flare",
-        "org.gnome.Calls"
+        "org.gnome.Calls",
+        "sm.puri.Chatty"
     ],
     "org.kde.kglobalaccel": [
         "de.shorsh.discord-screenaudio",
@@ -3011,7 +3012,8 @@
         "org.gnome.Contacts",
         "org.gnome.Notes",
         "org.gnome.Todo",
-        "org.tabos.roger"
+        "org.tabos.roger",
+        "sm.puri.Chatty"
     ],
     "org.gnome.evolution.dataserver.addressbook9": [
         "org.gnome.Calendar",
@@ -3021,10 +3023,12 @@
     "org.gnome.evolution.dataserver.addressbook10": [
         "org.gnome.Calls",
         "org.gnome.Contacts",
-        "org.gnome.Notes"
+        "org.gnome.Notes",
+        "sm.puri.Chatty"
     ],
     "im.pidgin.purple.purpleservice": [
-        "org.gnome.Calls"
+        "org.gnome.Calls",
+        "sm.puri.Chatty"
     ],
     "org.mobian_project.callaudio": [
         "org.gnome.Calls"
