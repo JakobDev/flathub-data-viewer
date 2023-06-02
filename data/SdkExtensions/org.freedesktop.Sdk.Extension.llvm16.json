@@ -1,5 +1,6 @@
 [
     "net.rpcs3.RPCS3",
     "org.jellyfin.JellyfinServer",
+    "org.openfodder.OpenFodder",
     "org.pipewire.Helvum"
 ]

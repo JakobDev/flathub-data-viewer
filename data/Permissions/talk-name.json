@@ -2302,7 +2302,6 @@
         "io.howl.Editor",
         "io.podman_desktop.PodmanDesktop",
         "io.stoplight.studio",
-        "net.cozic.joplin_desktop",
         "net.davidotek.pupgui2",
         "net.lutris.Lutris",
         "org.cockpit_project.CockpitClient",
@@ -2681,12 +2680,14 @@
     ],
     "org.gnome.evolution.dataserver.calendar8": [
         "com.github.alainm23.planner",
+        "io.github.alainm23.planify",
         "org.gnome.Calendar",
         "org.gnome.Notes",
         "org.gnome.Todo"
     ],
     "org.gnome.evolution.dataserver.sources5": [
         "com.github.alainm23.planner",
+        "io.github.alainm23.planify",
         "org.gnome.Calendar",
         "org.gnome.Calls",
         "org.gnome.Contacts",

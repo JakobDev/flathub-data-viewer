@@ -189,6 +189,7 @@
     "io.gitlab.cyberphantom52.sudoku_solver",
     "io.gitlab.floodlight.Presenter",
     "io.gitlab.gregorni.ASCIIImages",
+    "io.gitlab.gregorni.Calligraphy",
     "io.gitlab.leesonwai.Sums",
     "io.gitlab.leesonwai.Tactics",
     "io.gitlab.persiangolf.voicegen",

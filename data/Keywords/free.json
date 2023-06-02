@@ -1,4 +1,5 @@
 [
+    "io.github.aerocyber.sitemarker",
     "org.bleachbit.BleachBit",
     "org.freedownloadmanager.Manager"
 ]

@@ -3,5 +3,6 @@
     "com.prusa3d.PrusaSlicer",
     "io.github.benini.scid",
     "io.gitlab.adhami3310.Converter",
-    "io.gitlab.gregorni.ASCIIImages"
+    "io.gitlab.gregorni.ASCIIImages",
+    "io.gitlab.gregorni.Calligraphy"
 ]

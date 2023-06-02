@@ -9,7 +9,6 @@
         "com.github.bcedu.vgrive",
         "com.github.calo001.luna",
         "com.github.dahenson.agenda",
-        "com.github.devalien.workspaces",
         "com.github.horaciodrs.tradesim",
         "com.github.louis77.tuner",
         "com.github.matfantinel.reminduck",
@@ -36,6 +35,7 @@
     ],
     "juno-22.08": [
         "com.github.artemanufrij.playmyvideos",
+        "com.github.devalien.workspaces",
         "com.github.gijsgoudzwaard.image-optimizer",
         "com.github.muriloventuroso.pdftricks",
         "com.github.phase1geo.minder"
