@@ -26,9 +26,8 @@
         "org.beeref.BeeRef",
         "org.subtitld.Subtitld"
     ],
-    "6.4": [
+    "6.5": [
         "com.gitlab.JakobDev.jdTextEdit",
-        "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
         "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdDesktopEntryEdit",
@@ -41,5 +40,8 @@
     ],
     "5.15-21.08": [
         "org.qutebrowser.qutebrowser"
+    ],
+    "6.4": [
+        "page.codeberg.DrRac27.Karoto"
     ]
 }

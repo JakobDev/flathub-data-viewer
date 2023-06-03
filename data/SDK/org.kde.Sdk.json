@@ -318,10 +318,8 @@
     "6.4": [
         "app.lith.Lith",
         "com.github.AlizaMedicalImaging.AlizaMS",
-        "com.github.Rosalie241.RMG",
         "com.github.dynobo.normcap",
         "com.github.unrud.djpdf",
-        "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.tipp10.tipp10",
         "com.obsproject.Studio",
         "community.pathofbuilding.PathOfBuilding",
@@ -370,16 +368,7 @@
         "org.strawberrymusicplayer.strawberry",
         "org.texstudio.TeXstudio",
         "org.tug.texworks",
-        "page.codeberg.DrRac27.Karoto",
-        "page.codeberg.JakobDev.jdAnimatedImageEditor",
-        "page.codeberg.JakobDev.jdAppStreamEdit",
-        "page.codeberg.JakobDev.jdDesktopEntryEdit",
-        "page.codeberg.JakobDev.jdDiff",
-        "page.codeberg.JakobDev.jdEolConverter",
-        "page.codeberg.JakobDev.jdFlatpakSnapshot",
-        "page.codeberg.JakobDev.jdNBTExplorer",
-        "page.codeberg.JakobDev.jdReplace",
-        "page.codeberg.JakobDev.jdSimpleAutostart"
+        "page.codeberg.DrRac27.Karoto"
     ],
     "5.15-21.08": [
         "art.taunoerik.tauno-serial-plotter",
@@ -554,7 +543,6 @@
         "io.github.martinrotter.rssguard",
         "io.mrarm.mcpelauncher",
         "me.mitya57.ReText",
-        "net.sourceforge.VMPK",
         "net.sourceforge.dmidiplayer",
         "net.sourceforge.kmetronome",
         "net.sourceforge.kmidimon",
@@ -566,6 +554,26 @@
         "org.mattbas.Glaxnimate",
         "org.subtitld.Subtitld",
         "uk.org.zint.zint-qt"
+    ],
+    "6.5": [
+        "com.github.Rosalie241.RMG",
+        "com.gitlab.JakobDev.jdTextEdit",
+        "io.github.Arisotura.CoinKiller",
+        "io.github.simple64.simple64",
+        "io.qt.Designer",
+        "io.qt.Linguist",
+        "io.qt.qdbusviewer",
+        "net.sourceforge.VMPK",
+        "org.rncbc.qsynth",
+        "page.codeberg.JakobDev.jdAnimatedImageEditor",
+        "page.codeberg.JakobDev.jdAppStreamEdit",
+        "page.codeberg.JakobDev.jdDesktopEntryEdit",
+        "page.codeberg.JakobDev.jdDiff",
+        "page.codeberg.JakobDev.jdEolConverter",
+        "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.JakobDev.jdNBTExplorer",
+        "page.codeberg.JakobDev.jdReplace",
+        "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "6.2": [
         "com.github.giacomogroppi.writernote-qt",
@@ -582,14 +590,6 @@
         "io.botfather.Botfather",
         "io.liri.Calculator",
         "io.liri.Text"
-    ],
-    "6.5": [
-        "io.github.Arisotura.CoinKiller",
-        "io.github.simple64.simple64",
-        "io.qt.Designer",
-        "io.qt.Linguist",
-        "io.qt.qdbusviewer",
-        "org.rncbc.qsynth"
     ],
     "5.9": [
         "io.qt.qtwebkit.BaseApp"
