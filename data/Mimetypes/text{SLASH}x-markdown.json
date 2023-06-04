@@ -1,6 +1,7 @@
 [
     "com.calibre_ebook.calibre",
     "com.github.fabiocolacio.marker",
+    "com.github.kmwallio.thiefmd",
     "com.github.tenderowl.norka",
     "cz.zeropage.Formiko",
     "io.atom.Atom",

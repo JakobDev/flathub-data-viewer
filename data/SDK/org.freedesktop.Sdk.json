@@ -794,6 +794,7 @@
         "org.kde.krita",
         "org.kekikakademi.ntvHaber",
         "org.kicad.KiCad",
+        "org.lamport.tla.toolbox",
         "org.libreoffice.LibreOffice",
         "org.localsend.localsend_app",
         "org.love2d.love2d",
@@ -917,7 +918,6 @@
         "com.varnamproject.Varnam",
         "io.gitlab.sdl_jstest.sdl2_jstest",
         "io.gitlab.sdl_jstest.sdl_jstest",
-        "org.aliflang.lang",
-        "org.lamport.tla.toolbox"
+        "org.aliflang.lang"
     ]
 }

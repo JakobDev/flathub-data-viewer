@@ -277,7 +277,8 @@
         "il.co.ravkavonline.RavKavOnline"
     ],
     ".purple": [
-        "im.pidgin.Pidgin"
+        "im.pidgin.Pidgin",
+        "sm.puri.Chatty"
     ],
     ".android": [
         "in.srev.guiscrcpy"

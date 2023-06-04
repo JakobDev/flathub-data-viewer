@@ -750,6 +750,7 @@
         "org.jupyter.JupyterLab",
         "org.kde.krita",
         "org.kekikakademi.ntvHaber",
+        "org.lamport.tla.toolbox",
         "org.libreoffice.LibreOffice",
         "org.localsend.localsend_app",
         "org.love2d.love2d",
@@ -868,7 +869,6 @@
         "com.github.naaando.lyrics",
         "com.varnamproject.Varnam",
         "io.gitlab.sdl_jstest.sdl2_jstest",
-        "io.gitlab.sdl_jstest.sdl_jstest",
-        "org.lamport.tla.toolbox"
+        "io.gitlab.sdl_jstest.sdl_jstest"
     ]
 }

@@ -5,7 +5,6 @@
         "com.github.arshubham.cipher",
         "com.github.artemanufrij.playmymusic",
         "com.github.babluboy.bookworm",
-        "com.github.bcedu.valasimplehttpserver",
         "com.github.bcedu.vgrive",
         "com.github.calo001.luna",
         "com.github.dahenson.agenda",
@@ -18,7 +17,6 @@
         "com.github.needleandthread.vocal",
         "com.github.philip_scott.notes-up",
         "com.github.rajsolai.textsnatcher",
-        "com.github.subhadeepjasu.pebbles",
         "com.github.treagod.spectator"
     ],
     "juno-20.08": [
@@ -35,10 +33,12 @@
     ],
     "juno-22.08": [
         "com.github.artemanufrij.playmyvideos",
+        "com.github.bcedu.valasimplehttpserver",
         "com.github.devalien.workspaces",
         "com.github.gijsgoudzwaard.image-optimizer",
         "com.github.muriloventuroso.pdftricks",
-        "com.github.phase1geo.minder"
+        "com.github.phase1geo.minder",
+        "com.github.subhadeepjasu.pebbles"
     ],
     "juno-19.08": [
         "com.github.calo001.fondo",
