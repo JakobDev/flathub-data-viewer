@@ -1,5 +1,6 @@
 [
     "com.github.wwmm.easyeffects",
     "com.github.wwmm.pulseeffects",
-    "com.mattjakeman.ExtensionManager"
+    "com.mattjakeman.ExtensionManager",
+    "io.github.vikdevelop.SaveDesktop"
 ]
