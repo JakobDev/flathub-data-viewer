@@ -4,6 +4,7 @@
         "addon",
         "console-application",
         "desktop",
+        "desktop-application",
         "generic",
         "runtime"
     ],

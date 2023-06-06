@@ -25,7 +25,6 @@
     "com.feaneron.Boatswain",
     "com.frac_tion.teleport",
     "com.github.ADBeveridge.Raider",
-    "com.github.Darazaki.Spedread",
     "com.github.JannikHv.Gydl",
     "com.github.Johnn3y.Forklift",
     "com.github.PintaProject.Pinta",
@@ -135,7 +134,6 @@
     "io.github.lainsce.Emulsion",
     "io.github.lainsce.Khronos",
     "io.github.lainsce.Notejot",
-    "io.github.manisandro.gImageReader",
     "io.github.mpobaschnig.Vaults",
     "io.github.nate_xyz.Chromatic",
     "io.github.nate_xyz.Conjure",
@@ -170,7 +168,6 @@
     "net.lutris.Lutris",
     "net.meijn.onvifviewer",
     "net.minetest.Minetest",
-    "net.pcsx2.PCSX2",
     "net.poedit.Poedit",
     "net.sourceforge.Hugin",
     "net.sourceforge.electrip.Electrip",
@@ -300,7 +297,6 @@
     "org.gnome.gedit",
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
-    "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gnome.gitlab.cheywood.Iotas",
     "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.glabels-3",
@@ -378,6 +374,5 @@
     "re.sonny.Playhouse",
     "re.sonny.Tangram",
     "re.sonny.Workbench",
-    "sm.puri.Chatty",
     "work.openpaper.Paperwork"
 ]

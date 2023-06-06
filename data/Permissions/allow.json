@@ -29,6 +29,7 @@
         "org.ghidra_sre.Ghidra",
         "org.gnome.Builder",
         "org.kde.kdevelop",
+        "org.squey.Squey",
         "pm.mirko.Atoms",
         "re.rizin.cutter",
         "ua.org.brezblock.q4wine",
@@ -94,5 +95,8 @@
         "com.valvesoftware.Steam",
         "io.github.NhekoReborn.Nheko",
         "net.jami.Jami"
+    ],
+    "canbus": [
+        "org.opencpn.OpenCPN"
     ]
 }

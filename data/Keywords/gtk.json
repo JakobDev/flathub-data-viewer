@@ -1,5 +1,6 @@
 [
     "com.github.themix_project.Oomox",
     "im.srain.Srain",
+    "io.github.manisandro.gImageReader",
     "org.gnunet.Messenger"
 ]

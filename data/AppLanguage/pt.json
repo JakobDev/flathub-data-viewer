@@ -46,7 +46,6 @@
     "io.github.fsobolev.TimeSwitch",
     "io.github.gillesdegottex.FMIT",
     "io.github.jhaygood86.mauborgne",
-    "io.github.manisandro.gImageReader",
     "io.github.pragha_music_player.pragha",
     "io.github.quodlibet.ExFalso",
     "io.github.quodlibet.QuodLibet",
@@ -144,7 +143,6 @@
     "org.gnome.gbrainy",
     "org.gnome.gedit",
     "org.gnome.gitg",
-    "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.glabels-3",
     "org.gnome.meld",
@@ -200,6 +198,5 @@
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "org.zrythm.Zrythm",
-    "re.sonny.Junction",
-    "sm.puri.Chatty"
+    "re.sonny.Junction"
 ]

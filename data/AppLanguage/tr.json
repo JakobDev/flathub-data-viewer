@@ -55,7 +55,6 @@
     "io.github.celluloid_player.Celluloid",
     "io.github.davidoc26.wallpaper_selector",
     "io.github.fsobolev.TimeSwitch",
-    "io.github.manisandro.gImageReader",
     "io.github.nate_xyz.Conjure",
     "io.github.pragha_music_player.pragha",
     "io.github.quodlibet.ExFalso",
@@ -176,7 +175,6 @@
     "org.gnome.gedit",
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
-    "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gnome.gitlab.cheywood.Iotas",
     "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.glabels-3",
@@ -215,6 +213,5 @@
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "re.sonny.Junction",
-    "re.sonny.Workbench",
-    "sm.puri.Chatty"
+    "re.sonny.Workbench"
 ]

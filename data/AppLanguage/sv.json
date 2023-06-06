@@ -55,7 +55,6 @@
     "io.github.lainsce.DotMatrix",
     "io.github.lainsce.Khronos",
     "io.github.lainsce.Notejot",
-    "io.github.manisandro.gImageReader",
     "io.github.pragha_music_player.pragha",
     "io.github.quodlibet.ExFalso",
     "io.github.quodlibet.QuodLibet",
@@ -170,7 +169,6 @@
     "org.gnome.gedit",
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
-    "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.glabels-3",
     "org.gnome.meld",
@@ -220,6 +218,5 @@
     "org.xfce.mousepad",
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
-    "org.zrythm.Zrythm",
-    "sm.puri.Chatty"
+    "org.zrythm.Zrythm"
 ]

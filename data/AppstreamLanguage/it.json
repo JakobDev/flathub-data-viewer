@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.EarTag",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ar.xjuan.Cambalache",
@@ -401,5 +402,6 @@
     "re.sonny.Junction",
     "re.sonny.Tangram",
     "re.sonny.Workbench",
+    "sm.puri.Chatty",
     "ua.org.brezblock.q4wine"
 ]

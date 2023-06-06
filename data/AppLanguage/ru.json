@@ -13,7 +13,6 @@
     "com.belmoussaoui.ReadItLater",
     "com.feaneron.Boatswain",
     "com.github.ADBeveridge.Raider",
-    "com.github.Darazaki.Spedread",
     "com.github.PintaProject.Pinta",
     "com.github.artemanufrij.playmymusic",
     "com.github.debauchee.barrier",
@@ -68,7 +67,6 @@
     "io.github.gillesdegottex.FMIT",
     "io.github.jhaygood86.mauborgne",
     "io.github.lainsce.Notejot",
-    "io.github.manisandro.gImageReader",
     "io.github.nate_xyz.Paleta",
     "io.github.pragha_music_player.pragha",
     "io.github.quodlibet.ExFalso",
@@ -196,7 +194,6 @@
     "org.gnome.gedit",
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
-    "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gnome.gitlab.cheywood.Iotas",
     "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.glabels-3",
@@ -257,6 +254,5 @@
     "page.codeberg.foreverxml.Random",
     "re.sonny.Commit",
     "re.sonny.Junction",
-    "re.sonny.Workbench",
-    "sm.puri.Chatty"
+    "re.sonny.Workbench"
 ]

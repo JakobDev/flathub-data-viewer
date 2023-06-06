@@ -133,7 +133,6 @@
     "org.gnome.gbrainy",
     "org.gnome.gedit",
     "org.gnome.gitg",
-    "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.glabels-3",
     "org.gnome.meld",
@@ -175,6 +174,5 @@
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "org.zrythm.Zrythm",
-    "page.codeberg.foreverxml.Random",
-    "sm.puri.Chatty"
+    "page.codeberg.foreverxml.Random"
 ]

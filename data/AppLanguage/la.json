@@ -1,6 +1,5 @@
 [
     "net.supertuxkart.SuperTuxKart",
     "org.widelands.Widelands",
-    "org.x.Warpinator",
-    "sm.puri.Chatty"
+    "org.x.Warpinator"
 ]

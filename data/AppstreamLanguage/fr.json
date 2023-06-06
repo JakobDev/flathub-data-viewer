@@ -1,6 +1,7 @@
 [
     "app.drey.Damask",
     "app.drey.Dialect",
+    "app.drey.EarTag",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ar.xjuan.Cambalache",
@@ -112,6 +113,7 @@
     "info.febvre.Komikku",
     "info.olasagasti.revelation",
     "io.bassi.Amberol",
+    "io.github.Foldex.AdwSteamGtk",
     "io.github.Hexchat",
     "io.github.ImEditor",
     "io.github.Qalculate.qalculate-qt",

@@ -23,7 +23,6 @@
     "io.github.cboxdoerfer.FSearch",
     "io.github.celluloid_player.Celluloid",
     "io.github.dgsasha.Remembrance",
-    "io.github.manisandro.gImageReader",
     "io.github.quodlibet.ExFalso",
     "io.github.quodlibet.QuodLibet",
     "io.github.realmazharhussain.GdmSettings",
@@ -149,6 +148,5 @@
     "org.xfce.mousepad",
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
-    "org.zrythm.Zrythm",
-    "sm.puri.Chatty"
+    "org.zrythm.Zrythm"
 ]

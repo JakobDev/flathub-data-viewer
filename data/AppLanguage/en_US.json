@@ -1,5 +1,10 @@
 [
+    "com.github.Darazaki.Spedread",
+    "io.github.manisandro.gImageReader",
+    "io.gitlab.adhami3310.Impression",
     "net.bartkessels.getit",
+    "net.pcsx2.PCSX2",
+    "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gtkhash.gtkhash",
     "org.laptop.TurtleArtActivity",
     "org.sugarlabs.AbacusActivity",
@@ -23,5 +28,6 @@
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
-    "org.widelands.Widelands"
+    "org.widelands.Widelands",
+    "sm.puri.Chatty"
 ]

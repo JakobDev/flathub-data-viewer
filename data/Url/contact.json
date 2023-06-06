@@ -57,6 +57,7 @@
     "io.github.openhv.OpenHV",
     "io.github.troyeguo.koodo-reader",
     "io.gitlab.adhami3310.Converter",
+    "io.gitlab.adhami3310.Impression",
     "io.gitlab.gregorni.ASCIIImages",
     "io.gitlab.gregorni.Calligraphy",
     "io.gitlab.theevilskeleton.Upscaler",

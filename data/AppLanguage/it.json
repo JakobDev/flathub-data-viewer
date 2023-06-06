@@ -12,7 +12,6 @@
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
-    "com.github.Darazaki.Spedread",
     "com.github.PintaProject.Pinta",
     "com.github.artemanufrij.playmymusic",
     "com.github.bajoja.indicator-kdeconnect",
@@ -75,7 +74,6 @@
     "io.github.lainsce.DotMatrix",
     "io.github.lainsce.Khronos",
     "io.github.lainsce.Notejot",
-    "io.github.manisandro.gImageReader",
     "io.github.mpobaschnig.Vaults",
     "io.github.nate_xyz.Chromatic",
     "io.github.nate_xyz.Conjure",
@@ -199,7 +197,6 @@
     "org.gnome.gedit",
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
-    "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.glabels-3",
     "org.gnome.meld",
@@ -255,6 +252,5 @@
     "org.zim_wiki.Zim",
     "page.codeberg.foreverxml.Random",
     "re.sonny.Commit",
-    "re.sonny.Junction",
-    "sm.puri.Chatty"
+    "re.sonny.Junction"
 ]

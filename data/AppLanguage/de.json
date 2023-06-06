@@ -14,7 +14,6 @@
     "com.belmoussaoui.ReadItLater",
     "com.endlessm.photos",
     "com.feaneron.Boatswain",
-    "com.github.Darazaki.Spedread",
     "com.github.PintaProject.Pinta",
     "com.github.artemanufrij.playmymusic",
     "com.github.artemanufrij.regextester",
@@ -75,7 +74,6 @@
     "io.github.lainsce.Emulsion",
     "io.github.lainsce.Khronos",
     "io.github.lainsce.Notejot",
-    "io.github.manisandro.gImageReader",
     "io.github.mpobaschnig.Vaults",
     "io.github.nate_xyz.Paleta",
     "io.github.orontee.Argos",
@@ -210,7 +208,6 @@
     "org.gnome.gedit",
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
-    "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gnome.gitlab.cheywood.Iotas",
     "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.glabels-3",
@@ -278,7 +275,6 @@
     "re.sonny.Commit",
     "re.sonny.Junction",
     "re.sonny.Workbench",
-    "sm.puri.Chatty",
     "xyz.eclipium.Hieroctive",
     "xyz.eclipium.TetraSwap"
 ]

@@ -1,6 +1,5 @@
 [
     "app.drey.Dialect",
-    "app.drey.EarTag",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
@@ -191,7 +190,6 @@
     "org.gnome.gbrainy",
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
-    "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gnome.gitlab.cheywood.Iotas",
     "org.gnome.gitlab.dqpb.GMetronome",
     "org.gnome.gitlab.johannesjh.favagtk",
@@ -221,7 +219,6 @@
     "org.tabos.banking",
     "org.tabos.roger",
     "org.tabos.twofun",
-    "org.texstudio.TeXstudio",
     "org.wesnoth.Wesnoth",
     "org.zrythm.Zrythm",
     "page.codeberg.Imaginer.Imaginer",
