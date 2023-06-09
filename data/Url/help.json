@@ -1,5 +1,6 @@
 [
     "app.drey.Damask",
+    "app.getclipboard.Clipboard",
     "app.gummi.gummi",
     "app.midterm.MidtermDesktop",
     "app.rednotebook.RedNotebook",

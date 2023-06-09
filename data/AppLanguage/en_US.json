@@ -1,12 +1,22 @@
 [
+    "ar.xjuan.Cambalache",
     "com.github.Darazaki.Spedread",
+    "com.gitlab.JakobDev.jdTextEdit",
+    "io.bassi.Amberol",
+    "io.github.lainsce.DotMatrix",
     "io.github.manisandro.gImageReader",
     "io.gitlab.adhami3310.Impression",
     "net.bartkessels.getit",
     "net.pcsx2.PCSX2",
+    "org.cvfosammmm.Setzer",
+    "org.free_astro.siril",
+    "org.gnome.Evolution",
+    "org.gnome.Solanum",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gtkhash.gtkhash",
+    "org.kicad.KiCad",
     "org.laptop.TurtleArtActivity",
+    "org.remmina.Remmina",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Chart",
     "org.sugarlabs.Chess",
@@ -29,5 +39,6 @@
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
     "org.widelands.Widelands",
-    "sm.puri.Chatty"
+    "sm.puri.Chatty",
+    "work.openpaper.Paperwork"
 ]

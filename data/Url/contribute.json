@@ -1,5 +1,6 @@
 [
     "app.cantara.Cantara",
+    "app.getclipboard.Clipboard",
     "app.rednotebook.RedNotebook",
     "ch.theologeek.Manuskript",
     "com.dec05eba.gpu_screen_recorder",
@@ -59,5 +60,6 @@
     "page.codeberg.JakobDev.jdAppStreamEdit",
     "pm.mirko.Atoms",
     "rocks.koreader.KOReader",
-    "tv.kodi.Kodi"
+    "tv.kodi.Kodi",
+    "xyz.dimtpap.coppwr"
 ]

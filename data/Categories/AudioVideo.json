@@ -241,7 +241,6 @@
     "org.thentrythis.Samplebrain",
     "org.tordini.flavio.Minitube",
     "org.tvbrowser.TVBrowser",
-    "org.videolan.VLC",
     "org.zrythm.Zrythm",
     "ru.sview.sView",
     "sa.sy.bluerecorder",
@@ -253,6 +252,7 @@
     "tv.plex.PlexHTPC",
     "vn.hoabinh.quan.CoBang",
     "xyz.armcord.ArmCord",
+    "xyz.dimtpap.coppwr",
     "xyz.safeworlds.midiconn",
     "org.videolan.VLC.Plugin.pause_click"
 ]

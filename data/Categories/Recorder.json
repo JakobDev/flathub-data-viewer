@@ -12,6 +12,5 @@
     "org.gnome.Cheese",
     "org.mixxx.Mixxx",
     "org.olivevideoeditor.Olive",
-    "org.tenacityaudio.Tenacity",
-    "org.videolan.VLC"
+    "org.tenacityaudio.Tenacity"
 ]

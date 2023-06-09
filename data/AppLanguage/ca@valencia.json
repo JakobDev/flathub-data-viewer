@@ -15,7 +15,6 @@
     "org.gnome.Devhelp",
     "org.gnome.Epiphany",
     "org.gnome.Evince",
-    "org.gnome.Evolution",
     "org.gnome.FileRoller",
     "org.gnome.Four-in-a-row",
     "org.gnome.Glade",
@@ -64,6 +63,5 @@
     "org.kde.skrooge",
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
-    "org.remmina.Remmina",
     "org.tuxpaint.Tuxpaint"
 ]

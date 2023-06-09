@@ -1,4 +1,5 @@
 [
+    "app.getclipboard.Clipboard",
     "com.github.hluk.copyq",
     "org.kryogenix.utm_no"
 ]

@@ -84,6 +84,7 @@
     "io.github.seadve.Mousai",
     "io.github.swanux.hbud",
     "io.gitlab.adhami3310.Converter",
+    "io.gitlab.adhami3310.Impression",
     "io.gitlab.azymohliad.WatchMate",
     "io.gitlab.cyberphantom52.sudoku_solver",
     "io.poez.Poezio",
@@ -129,5 +130,6 @@
     "sa.sy.bluerecorder",
     "sh.xaviers.Opentapes",
     "tw.ddnet.ddnet",
+    "xyz.dimtpap.coppwr",
     "xyz.ljoonal.neospeeps"
 ]

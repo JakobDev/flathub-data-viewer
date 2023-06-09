@@ -1,6 +1,5 @@
 [
     "io.github.peazip.PeaZip",
-    "io.github.wh201906.serialtest",
     "org.shadowsocks.qt5client",
     "org.tribler.Tribler"
 ]

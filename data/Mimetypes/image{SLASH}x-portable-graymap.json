@@ -24,6 +24,5 @@
     "org.kde.okular",
     "org.kde.pix",
     "org.libvips.vipsdisp",
-    "org.nomacs.ImageLounge",
-    "work.openpaper.Paperwork"
+    "org.nomacs.ImageLounge"
 ]

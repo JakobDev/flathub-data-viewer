@@ -8,6 +8,5 @@
     "org.gnome.FileRoller",
     "org.kde.ark",
     "org.ppsspp.PPSSPP",
-    "org.shotcut.Shotcut",
-    "org.videolan.VLC"
+    "org.shotcut.Shotcut"
 ]

@@ -5,6 +5,7 @@
     "app.drey.Dialect",
     "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
+    "app.getclipboard.Clipboard",
     "app.moosync.moosync",
     "app.riftshare.RiftShare",
     "art.taunoerik.tauno-serial-plotter",

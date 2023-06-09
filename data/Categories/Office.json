@@ -1,6 +1,5 @@
 [
     "app.cantara.Cantara",
-    "app.gummi.gummi",
     "app.rednotebook.RedNotebook",
     "app.ywallet.Ywallet",
     "at.priv.toastfreeware.ConfClerk",
@@ -13,6 +12,7 @@
     "com.adilhanney.saber",
     "com.adobe.Reader",
     "com.bjareholt.johan.SimpleDiary",
+    "com.blockstream.Green",
     "com.calibre_ebook.calibre",
     "com.chmouel.gnomeNextMeetingApplet",
     "com.codemouse92.timecard",
@@ -96,7 +96,6 @@
     "io.github.martinrotter.textosaurus",
     "io.github.troyeguo.koodo-reader",
     "io.github.unicornyrainbow.secrets",
-    "io.github.vegad.vnotes",
     "io.github.wereturtle.ghostwriter",
     "io.gitlab.coolreader_ng.crqt-ng",
     "io.gitlab.o20.word",

@@ -522,9 +522,6 @@
     "org.mpris.mediaplayer2.strawberry": [
         "org.strawberrymusicplayer.strawberry"
     ],
-    "org.mpris.mediaplayer2.vlc": [
-        "org.videolan.VLC"
-    ],
     "org.x.statusicon.warpinator": [
         "org.x.Warpinator"
     ],

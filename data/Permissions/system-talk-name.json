@@ -108,6 +108,7 @@
     ],
     "org.bluez": [
         "com.avocode.Avocode",
+        "com.github.Eloston.UngoogledChromium",
         "com.github.theironrobin.siglo",
         "com.google.Chrome",
         "com.google.ChromeDev",

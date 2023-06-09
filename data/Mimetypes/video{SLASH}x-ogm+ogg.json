@@ -21,6 +21,5 @@
     "org.kde.haruna",
     "org.kde.kaffeine",
     "org.shotcut.Shotcut",
-    "org.sigxcpu.Livi",
-    "org.videolan.VLC"
+    "org.sigxcpu.Livi"
 ]

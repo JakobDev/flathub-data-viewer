@@ -5,6 +5,5 @@
     "org.kde.okular",
     "org.libvips.vipsdisp",
     "org.photoqt.PhotoQt",
-    "org.qgis.qgis",
-    "work.openpaper.Paperwork"
+    "org.qgis.qgis"
 ]

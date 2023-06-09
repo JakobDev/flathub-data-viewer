@@ -120,7 +120,6 @@
         "org.standardnotes.standardnotes",
         "org.tabos.banking",
         "org.tabos.roger",
-        "org.videolan.VLC",
         "ru.yandex.Browser",
         "social.whalebird.WhalebirdDesktop",
         "uk.et1.big-finish-downloader"
@@ -137,6 +136,7 @@
         "ch.theologeek.Manuskript",
         "com.agateau.nanonote",
         "com.alovoa.alovoa-electron",
+        "com.blockstream.Green",
         "com.borgbase.Vorta",
         "com.calibre_ebook.calibre",
         "com.chatterino.chatterino",
@@ -210,6 +210,7 @@
         "com.jetbrains.PhpStorm",
         "com.kristianduske.TrenchBroom",
         "com.ktechpit.colorwall",
+        "com.ktechpit.torrhunt",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.ktechpit.wonderwall",
@@ -716,7 +717,6 @@
         "org.tomviz.Tomviz",
         "org.tordini.flavio.Minitube",
         "org.tug.texworks",
-        "org.videolan.VLC",
         "org.wireshark.Wireshark",
         "org.yuzu_emu.yuzu",
         "org.zealdocs.Zeal",
@@ -791,7 +791,9 @@
         "com.gitlab.Murmele.UDPLogger",
         "com.gitlab.coringao.JAG",
         "com.icanblink.blink",
+        "com.interversehq.qView",
         "com.ktechpit.colorwall",
+        "com.ktechpit.torrhunt",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.makemkv.MakeMKV",
@@ -1147,7 +1149,6 @@
         "org.telesculptor.TeleSculptor",
         "org.thentrythis.Samplebrain",
         "org.tordini.flavio.Minitube",
-        "org.videolan.VLC",
         "org.wireshark.Wireshark",
         "org.yuzu_emu.yuzu",
         "org.zealdocs.Zeal",
@@ -1204,7 +1205,9 @@
         "com.gitlab.Murmele.UDPLogger",
         "com.gitlab.coringao.JAG",
         "com.icanblink.blink",
+        "com.interversehq.qView",
         "com.ktechpit.colorwall",
+        "com.ktechpit.torrhunt",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.makemkv.MakeMKV",
@@ -1533,7 +1536,6 @@
         "org.telesculptor.TeleSculptor",
         "org.thentrythis.Samplebrain",
         "org.tordini.flavio.Minitube",
-        "org.videolan.VLC",
         "org.wireshark.Wireshark",
         "org.yuzu_emu.yuzu",
         "re.chiaki.Chiaki",
@@ -1555,6 +1557,7 @@
         "com.google.Chrome",
         "com.google.ChromeDev",
         "com.ktechpit.colorwall",
+        "com.ktechpit.torrhunt",
         "com.ktechpit.wonderwall",
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
@@ -1954,6 +1957,7 @@
         "io.github.kotatogram",
         "io.github.liberodark.OpenDrive",
         "io.github.listen1.Listen1",
+        "io.github.lunarequest.NightPDF",
         "io.github.martinrotter.rssguard",
         "io.github.martinrotter.rssguardlite",
         "io.github.mimbrero.WhatsAppDesktop",
@@ -2172,7 +2176,6 @@
         "org.kde.ruqola",
         "org.kde.tokodon",
         "org.remmina.Remmina",
-        "org.videolan.VLC",
         "ru.yandex.Browser"
     ],
     "com.canonical.dbusmenu": [
@@ -2191,8 +2194,7 @@
         "io.github.janbar.noson",
         "org.clementine_player.Clementine",
         "org.kde.kaffeine",
-        "org.strawberrymusicplayer.strawberry",
-        "org.videolan.VLC"
+        "org.strawberrymusicplayer.strawberry"
     ],
     "ca.desrt.dconf": [
         "ca._0ldsk00l.Nestopia",
@@ -2399,7 +2401,6 @@
         "org.ppsspp.PPSSPP",
         "org.qutebrowser.qutebrowser",
         "org.tordini.flavio.Minitube",
-        "org.videolan.VLC",
         "re.chiaki.Chiaki",
         "ru.yandex.Browser",
         "tv.kodi.Kodi",
@@ -3124,9 +3125,6 @@
     ],
     "org.gnome.evolution.dataserver.calendar7": [
         "org.tabos.roger"
-    ],
-    "org.kde.kwalletd": [
-        "org.videolan.VLC"
     ],
     "org.x.statusiconmonitor.*": [
         "org.x.Warpinator"

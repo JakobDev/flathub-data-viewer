@@ -13,6 +13,5 @@
     "org.kde.haruna",
     "org.kde.kmplayer",
     "org.musicbrainz.Picard",
-    "org.strawberrymusicplayer.strawberry",
-    "org.videolan.VLC"
+    "org.strawberrymusicplayer.strawberry"
 ]

@@ -28,6 +28,5 @@
     "org.kde.pix",
     "org.libvips.vipsdisp",
     "org.photoqt.PhotoQt",
-    "ru.yandex.Browser",
-    "work.openpaper.Paperwork"
+    "ru.yandex.Browser"
 ]

@@ -29,6 +29,7 @@
         "org.ghidra_sre.Ghidra",
         "org.gnome.Builder",
         "org.kde.kdevelop",
+        "org.mozilla.firefox",
         "org.squey.Squey",
         "pm.mirko.Atoms",
         "re.rizin.cutter",

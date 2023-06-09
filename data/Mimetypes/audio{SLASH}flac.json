@@ -30,6 +30,5 @@
     "org.shotcut.Shotcut",
     "org.soundconverter.SoundConverter",
     "org.strawberrymusicplayer.strawberry",
-    "org.tenacityaudio.Tenacity",
-    "org.videolan.VLC"
+    "org.tenacityaudio.Tenacity"
 ]

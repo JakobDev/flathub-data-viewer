@@ -1,5 +1,6 @@
 [
     "app.cantara.Cantara",
+    "app.getclipboard.Clipboard",
     "ch.theologeek.Manuskript",
     "com.chowdsp.BYOD",
     "com.endlessm.photos",
@@ -37,6 +38,7 @@
     "io.github.listen1.Listen1",
     "io.github.naikari.Naikari",
     "io.github.troyeguo.koodo-reader",
+    "io.github.wh201906.serialtest",
     "io.gitlab.adhami3310.Converter",
     "io.gitlab.adhami3310.Impression",
     "io.gitlab.coolreader_ng.crqt-ng",
@@ -114,6 +116,7 @@
     "so.onekey.Wallet",
     "tv.kodi.Kodi",
     "xyz.armcord.ArmCord",
+    "xyz.dimtpap.coppwr",
     "xyz.hyperplay.HyperPlay",
     "com.obsproject.Studio.Plugin.VerticalCanvas",
     "org.blackfennec.app.extensions.base",

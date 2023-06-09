@@ -1,5 +1,6 @@
 [
     "com.xnview.XnViewMP",
+    "io.bassi.Amberol",
     "nl.hjdskes.gcolor3",
     "org.gnome.Boxes",
     "org.gnome.ColorViewer",
@@ -13,6 +14,7 @@
     "org.gnome.Photos",
     "org.gnome.Podcasts",
     "org.gnome.Rhythmbox3",
+    "org.gnome.Solanum",
     "org.gnome.SwellFoop",
     "org.gnome.baobab",
     "org.gnome.design.Contrast",

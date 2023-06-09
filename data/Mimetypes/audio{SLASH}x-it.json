@@ -13,6 +13,5 @@
     "org.gnome.Rhythmbox3",
     "org.kde.kaffeine",
     "org.kde.kid3",
-    "org.shotcut.Shotcut",
-    "org.videolan.VLC"
+    "org.shotcut.Shotcut"
 ]

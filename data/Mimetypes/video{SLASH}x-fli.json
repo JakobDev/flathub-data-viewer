@@ -15,6 +15,5 @@
     "org.kde.kaffeine",
     "org.kde.koko",
     "org.shotcut.Shotcut",
-    "org.sigxcpu.Livi",
-    "org.videolan.VLC"
+    "org.sigxcpu.Livi"
 ]

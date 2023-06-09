@@ -27,7 +27,6 @@
     "org.gnome.Devhelp",
     "org.gnome.Epiphany",
     "org.gnome.Evince",
-    "org.gnome.Evolution",
     "org.gnome.FileRoller",
     "org.gnome.Four-in-a-row",
     "org.gnome.Glade",
@@ -80,7 +79,6 @@
     "org.inkscape.Inkscape",
     "org.nicotine_plus.Nicotine",
     "org.pitivi.Pitivi",
-    "org.remmina.Remmina",
     "org.speedcrunch.SpeedCrunch",
     "org.tuxpaint.Tuxpaint",
     "org.xfce.ristretto"

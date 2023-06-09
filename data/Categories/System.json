@@ -1,4 +1,5 @@
 [
+    "app.getclipboard.Clipboard",
     "app.vup.Vup",
     "br.app.pw3270.terminal",
     "ca.desrt.dconf-editor",
@@ -67,5 +68,6 @@
     "org.zaproxy.ZAP",
     "page.codeberg.JakobDev.jdSimpleAutostart",
     "re.sonny.Junction",
-    "ua.org.brezblock.q4wine"
+    "ua.org.brezblock.q4wine",
+    "xyz.dimtpap.coppwr"
 ]

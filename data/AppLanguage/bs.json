@@ -19,7 +19,6 @@
     "org.gnome.EasyTAG",
     "org.gnome.Epiphany",
     "org.gnome.Evince",
-    "org.gnome.Evolution",
     "org.gnome.FileRoller",
     "org.gnome.Four-in-a-row",
     "org.gnome.Geary",
@@ -74,7 +73,6 @@
     "org.kde.skrooge",
     "org.midori_browser.Midori",
     "org.pitivi.Pitivi",
-    "org.remmina.Remmina",
     "org.sugarlabs.Speak",
     "org.tuxpaint.Tuxpaint"
 ]

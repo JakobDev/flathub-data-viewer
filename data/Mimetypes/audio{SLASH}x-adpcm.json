@@ -4,6 +4,5 @@
     "info.smplayer.SMPlayer",
     "io.github.ripose_jp.Memento",
     "io.mpv.Mpv",
-    "org.kde.haruna",
-    "org.videolan.VLC"
+    "org.kde.haruna"
 ]

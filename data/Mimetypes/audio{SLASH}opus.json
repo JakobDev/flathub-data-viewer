@@ -9,6 +9,5 @@
     "net.baseart.Glide",
     "org.kde.haruna",
     "org.kde.kid3",
-    "org.shotcut.Shotcut",
-    "org.videolan.VLC"
+    "org.shotcut.Shotcut"
 ]

@@ -27,6 +27,5 @@
     "org.kde.pix",
     "org.libvips.vipsdisp",
     "org.nomacs.ImageLounge",
-    "org.photoqt.PhotoQt",
-    "work.openpaper.Paperwork"
+    "org.photoqt.PhotoQt"
 ]

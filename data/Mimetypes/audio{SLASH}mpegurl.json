@@ -17,6 +17,5 @@
     "org.kde.kmplayer",
     "org.kde.vvave",
     "org.shotcut.Shotcut",
-    "org.strawberrymusicplayer.strawberry",
-    "org.videolan.VLC"
+    "org.strawberrymusicplayer.strawberry"
 ]

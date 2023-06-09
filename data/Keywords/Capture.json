@@ -1,5 +1,4 @@
 [
     "com.github.vkohaupt.vokoscreenNG",
-    "org.entangle_photo.Manager",
-    "org.videolan.VLC"
+    "org.entangle_photo.Manager"
 ]

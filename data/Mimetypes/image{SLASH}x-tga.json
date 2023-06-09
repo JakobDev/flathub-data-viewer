@@ -16,6 +16,5 @@
     "org.kde.gwenview",
     "org.kde.kolourpaint",
     "org.kde.okular",
-    "org.photoqt.PhotoQt",
-    "work.openpaper.Paperwork"
+    "org.photoqt.PhotoQt"
 ]
