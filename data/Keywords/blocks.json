@@ -1,5 +1,4 @@
 [
     "net.blockattack.game",
-    "net.minetest.Minetest",
-    "net.veloren.veloren"
+    "net.minetest.Minetest"
 ]

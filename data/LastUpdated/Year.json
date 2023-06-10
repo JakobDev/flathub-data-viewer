@@ -3,7 +3,6 @@
     "app.drey.Dialect",
     "app.drey.KeyRack",
     "app.getspace.Space",
-    "app.riftshare.RiftShare",
     "ar.com.softwareperonista.Rockarrolla",
     "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
@@ -251,7 +250,6 @@
     "org.libvips.vipsdisp",
     "org.linux_hardware.hw-probe",
     "org.mersenne.mprime",
-    "org.mobsya.ThymioSuite",
     "org.mosh.mosh",
     "org.musicbrainz.Picard",
     "org.nanuc.Axolotl",
@@ -280,6 +278,7 @@
     "org.widelands.Widelands",
     "org.xnec2c.Xnec2c",
     "org.xonotic.Xonotic",
+    "org.yamagi.YamagiQ2",
     "org.zaproxy.ZAP",
     "org.zdoom.GZDoom",
     "org.zim_wiki.Zim",
@@ -313,5 +312,6 @@
     "org.freedesktop.Sdk.Extension.php74",
     "org.freedesktop.Sdk.Extension.ziglang",
     "org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime",
+    "org.learningequality.Kolibri.Plugin.kolibri-zim-plugin",
     "org.winehq.Wine.DLLs.dxvk"
 ]
