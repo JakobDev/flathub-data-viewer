@@ -103,6 +103,7 @@
         "org.raspberrypi.rpi-imager",
         "org.sil.FieldWorks",
         "org.strawberrymusicplayer.strawberry",
+        "org.thonny.Thonny",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
     ],
@@ -242,7 +243,6 @@
         "net.sonobus.SonoBus",
         "net.sourceforge.GrandOrgue",
         "org.mixxx.Mixxx",
-        "org.rncbc.qtractor",
         "org.shotcut.Shotcut",
         "org.zrythm.Zrythm"
     ],

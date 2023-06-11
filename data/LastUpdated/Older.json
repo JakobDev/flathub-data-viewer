@@ -1,4 +1,5 @@
 [
+    "app.authpass.AuthPass",
     "app.gummi.gummi",
     "app.lith.Lith",
     "app.midterm.MidtermDesktop",
@@ -403,6 +404,7 @@
     "io.itch.azagaya.Laigter",
     "io.itch.itch",
     "io.itch.keyikedalube_ndang.Type-Off",
+    "io.lbry.lbry-app",
     "io.liri.Calculator",
     "io.liri.Text",
     "io.lmms.LMMS",
@@ -561,7 +563,7 @@
     "org.gnome.GTG",
     "org.gnome.Genius",
     "org.gnome.Gtranslator",
-    "org.gnome.Hamster.GUI",
+    "org.gnome.Hamster",
     "org.gnome.HexGL",
     "org.gnome.Keysign",
     "org.gnome.Klotski",

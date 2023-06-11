@@ -951,6 +951,7 @@
         "org.gnome.GHex",
         "org.gnome.Geary",
         "org.gnome.Glade",
+        "org.gnome.Hamster",
         "org.gnome.HexGL",
         "org.gnome.LightsOff",
         "org.gnome.Logs",

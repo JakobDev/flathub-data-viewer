@@ -13,6 +13,7 @@
         "com.ktechpit.whatsie",
         "com.nextcloud.desktopclient.nextcloud",
         "de.shorsh.discord-screenaudio",
+        "io.github.martinrotter.rssguard",
         "io.sourceforge.chart_geany.chart-geany",
         "net.mediaarea.MediaConch",
         "net.sonic_pi.SonicPi",
@@ -39,7 +40,6 @@
     ],
     "6.3": [
         "com.github.jmlich.geotagging",
-        "io.github.martinrotter.rssguard",
         "io.mrarm.mcpelauncher",
         "org.jaspstats.JASP"
     ],

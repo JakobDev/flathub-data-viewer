@@ -21,7 +21,6 @@
     "org.gnome.Glade",
     "org.gnome.Gnote",
     "org.gnome.Gtranslator",
-    "org.gnome.Hamster.GUI",
     "org.gnome.Klotski",
     "org.gnome.LightsOff",
     "org.gnome.Logs",
@@ -61,6 +60,5 @@
     "org.pulseaudio.pavucontrol",
     "org.sugarlabs.Maze",
     "org.sugarlabs.Paint",
-    "org.tuxpaint.Tuxpaint",
-    "org.xfce.ristretto"
+    "org.tuxpaint.Tuxpaint"
 ]

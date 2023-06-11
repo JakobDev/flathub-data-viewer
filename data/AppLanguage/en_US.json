@@ -3,6 +3,7 @@
     "com.github.Darazaki.Spedread",
     "com.github.wwmm.easyeffects",
     "com.gitlab.JakobDev.jdTextEdit",
+    "com.rocksandpaper.syndic",
     "io.bassi.Amberol",
     "io.github.lainsce.DotMatrix",
     "io.github.manisandro.gImageReader",
@@ -12,6 +13,7 @@
     "org.cvfosammmm.Setzer",
     "org.free_astro.siril",
     "org.gnome.Evolution",
+    "org.gnome.Hamster",
     "org.gnome.Solanum",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gtkhash.gtkhash",
@@ -40,6 +42,7 @@
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
     "org.widelands.Widelands",
+    "org.xfce.ristretto",
     "sm.puri.Chatty",
     "work.openpaper.Paperwork"
 ]

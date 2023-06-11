@@ -26,6 +26,5 @@
     "org.gnome.font-viewer",
     "org.gtkhash.gtkhash",
     "org.x.Warpinator",
-    "org.xfce.mousepad",
-    "org.xfce.ristretto"
+    "org.xfce.mousepad"
 ]

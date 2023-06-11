@@ -32,7 +32,6 @@
     "org.gnome.Geary",
     "org.gnome.Glade",
     "org.gnome.Gtranslator",
-    "org.gnome.Hamster.GUI",
     "org.gnome.Klotski",
     "org.gnome.LightsOff",
     "org.gnome.Mahjongg",
@@ -72,7 +71,6 @@
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator",
     "org.xfce.mousepad",
-    "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "re.sonny.Commit"
 ]

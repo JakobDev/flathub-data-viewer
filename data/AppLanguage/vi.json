@@ -43,7 +43,6 @@
     "org.gnome.Four-in-a-row",
     "org.gnome.Glade",
     "org.gnome.Gtranslator",
-    "org.gnome.Hamster.GUI",
     "org.gnome.Hitori",
     "org.gnome.Klotski",
     "org.gnome.LightsOff",
@@ -108,6 +107,5 @@
     "org.sugarlabs.ReadETexts",
     "org.sugarlabs.Speak",
     "org.sugarlabs.Words",
-    "org.tuxpaint.Tuxpaint",
-    "org.xfce.ristretto"
+    "org.tuxpaint.Tuxpaint"
 ]

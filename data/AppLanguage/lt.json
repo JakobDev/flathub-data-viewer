@@ -61,7 +61,6 @@
     "org.gnome.Glade",
     "org.gnome.Gnote",
     "org.gnome.Gtranslator",
-    "org.gnome.Hamster.GUI",
     "org.gnome.Hitori",
     "org.gnome.Klotski",
     "org.gnome.LightsOff",
@@ -134,6 +133,5 @@
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
-    "org.xfce.mousepad",
-    "org.xfce.ristretto"
+    "org.xfce.mousepad"
 ]
