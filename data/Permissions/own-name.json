@@ -260,6 +260,7 @@
     "org.mpris.mediaplayer2.firefox.*": [
         "io.gitlab.librewolf-community",
         "net.mullvad.MullvadBrowser",
+        "net.waterfox.waterfox",
         "one.ablaze.floorp",
         "org.mozilla.firefox"
     ],
@@ -292,6 +293,9 @@
     ],
     "org.cgu.progs.efax_gtk": [
         "net.sourceforge.efaxgtk"
+    ],
+    "org.mozilla.waterfox.*": [
+        "net.waterfox.waterfox"
     ],
     "org.mpris.mediaplayer2.girens": [
         "nl.g4d.Girens"

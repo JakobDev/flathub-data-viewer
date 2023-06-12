@@ -43,7 +43,6 @@
     "org.gnome.Polari",
     "org.gnome.Quadrapassel",
     "org.gnome.Recipes",
-    "org.gnome.Reversi",
     "org.gnome.Robots",
     "org.gnome.SoundJuicer",
     "org.gnome.Sudoku",
@@ -64,6 +63,5 @@
     "org.musescore.MuseScore",
     "org.parlatype.Parlatype",
     "org.pitivi.Pitivi",
-    "org.wesnoth.Wesnoth",
     "org.wxhexeditor.wxHexEditor"
 ]
