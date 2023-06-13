@@ -963,6 +963,7 @@
         "org.tomviz.Tomviz",
         "org.tordini.flavio.Minitube",
         "org.tug.texworks",
+        "org.videolan.VLC",
         "org.wireshark.Wireshark",
         "org.yuzu_emu.yuzu",
         "org.zealdocs.Zeal",
@@ -1456,6 +1457,7 @@
         "org.tenacityaudio.Tenacity",
         "org.texstudio.TeXstudio",
         "org.tug.texworks",
+        "org.videolan.VLC",
         "org.viking.Viking",
         "org.vim.Vim",
         "org.worldpossible.ScriptLauncher",
@@ -2368,6 +2370,7 @@
         "org.keepassxc.KeePassXC",
         "org.nicotine_plus.Nicotine",
         "org.onlyoffice.desktopeditors",
+        "org.videolan.VLC",
         "org.xfce.mousepad",
         "org.xfce.ristretto"
     ],

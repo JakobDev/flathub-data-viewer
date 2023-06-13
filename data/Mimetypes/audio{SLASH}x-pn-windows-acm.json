@@ -9,5 +9,6 @@
     "net.mediaarea.MediaInfo",
     "org.cubocore.CoreInfo",
     "org.shotcut.Shotcut",
+    "org.videolan.VLC",
     "ru.sview.sView"
 ]

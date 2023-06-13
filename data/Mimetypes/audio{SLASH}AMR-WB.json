@@ -4,5 +4,6 @@
     "com.vzhd1701.gridplayer",
     "io.github.swanux.hbud",
     "net.baseart.Glide",
-    "org.shotcut.Shotcut"
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC"
 ]

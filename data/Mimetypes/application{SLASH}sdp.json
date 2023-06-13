@@ -8,5 +8,6 @@
     "org.gnome.Totem",
     "org.kde.haruna",
     "org.kde.vvave",
-    "org.shotcut.Shotcut"
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC"
 ]

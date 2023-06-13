@@ -16,5 +16,6 @@
     "org.denemo.Denemo",
     "org.musescore.MuseScore",
     "org.musicbrainz.Picard",
-    "org.shotcut.Shotcut"
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC"
 ]

@@ -6,5 +6,6 @@
     "io.github.celluloid_player.Celluloid",
     "io.github.swanux.hbud",
     "net.baseart.Glide",
-    "org.shotcut.Shotcut"
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC"
 ]

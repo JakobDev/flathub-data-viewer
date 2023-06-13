@@ -10,5 +10,6 @@
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.kde.haruna",
     "org.shotcut.Shotcut",
-    "org.sigxcpu.Livi"
+    "org.sigxcpu.Livi",
+    "org.videolan.VLC"
 ]

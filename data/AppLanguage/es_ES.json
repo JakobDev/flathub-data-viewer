@@ -1,6 +1,7 @@
 [
     "com.gitlab.bitseater.meteo",
     "io.otsaloma.nfoview",
+    "org.free_astro.siril",
     "org.learningequality.Kolibri",
     "org.nicotine_plus.Nicotine",
     "org.scilab.Scilab"

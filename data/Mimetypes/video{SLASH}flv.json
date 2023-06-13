@@ -14,5 +14,6 @@
     "org.kde.haruna",
     "org.kde.kmplayer",
     "org.kde.koko",
-    "org.shotcut.Shotcut"
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC"
 ]

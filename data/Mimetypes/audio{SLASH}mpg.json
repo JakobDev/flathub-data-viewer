@@ -10,5 +10,6 @@
     "org.kde.haruna",
     "org.kde.vvave",
     "org.musicbrainz.Picard",
-    "org.shotcut.Shotcut"
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC"
 ]

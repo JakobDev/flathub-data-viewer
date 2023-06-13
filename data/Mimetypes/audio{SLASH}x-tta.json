@@ -21,5 +21,6 @@
     "org.kde.kid3",
     "org.kde.vvave",
     "org.musicbrainz.Picard",
-    "org.shotcut.Shotcut"
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC"
 ]

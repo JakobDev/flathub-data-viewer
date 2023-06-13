@@ -6,5 +6,6 @@
     "org.gnome.Totem",
     "org.kde.kaffeine",
     "org.shotcut.Shotcut",
-    "org.sigxcpu.Livi"
+    "org.sigxcpu.Livi",
+    "org.videolan.VLC"
 ]

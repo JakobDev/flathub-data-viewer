@@ -312,6 +312,7 @@
         "org.subsurface_divelog.Subsurface",
         "org.telesculptor.TeleSculptor",
         "org.thentrythis.Samplebrain",
+        "org.videolan.VLC",
         "org.wireshark.Wireshark",
         "org.yuzu_emu.yuzu",
         "re.chiaki.Chiaki",
@@ -409,7 +410,6 @@
         "com.thincast.client",
         "com.ulduzsoft.Birdtray",
         "com.vesc_project.VescTool",
-        "com.vicr123.thebeat",
         "com.vzhd1701.gridplayer",
         "de.rwth_aachen.ient.YUView",
         "de.unifreiburg.ellipticcurve",
@@ -558,6 +558,7 @@
     "6.5": [
         "com.github.Rosalie241.RMG",
         "com.gitlab.JakobDev.jdTextEdit",
+        "com.vicr123.thebeat",
         "io.github.Arisotura.CoinKiller",
         "io.github.simple64.simple64",
         "io.qt.Designer",

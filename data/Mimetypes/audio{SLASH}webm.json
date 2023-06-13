@@ -14,5 +14,6 @@
     "org.cubocore.CoreInfo",
     "org.kde.haruna",
     "org.kde.kaffeine",
-    "org.shotcut.Shotcut"
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC"
 ]

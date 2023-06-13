@@ -9,5 +9,6 @@
     "org.gnome.Totem",
     "org.kde.haruna",
     "org.shotcut.Shotcut",
-    "org.sigxcpu.Livi"
+    "org.sigxcpu.Livi",
+    "org.videolan.VLC"
 ]

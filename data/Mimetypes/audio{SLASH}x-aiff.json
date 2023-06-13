@@ -18,5 +18,6 @@
     "org.kde.kid3",
     "org.kde.kmplayer",
     "org.musicbrainz.Picard",
-    "org.shotcut.Shotcut"
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC"
 ]

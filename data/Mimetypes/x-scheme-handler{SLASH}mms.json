@@ -7,5 +7,6 @@
     "org.kde.kaffeine",
     "org.kde.kmplayer",
     "org.shotcut.Shotcut",
-    "org.sigxcpu.Livi"
+    "org.sigxcpu.Livi",
+    "org.videolan.VLC"
 ]

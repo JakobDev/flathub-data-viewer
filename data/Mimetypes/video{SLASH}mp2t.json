@@ -21,5 +21,6 @@
     "org.kde.kaffeine",
     "org.kde.subtitlecomposer",
     "org.shotcut.Shotcut",
-    "org.sigxcpu.Livi"
+    "org.sigxcpu.Livi",
+    "org.videolan.VLC"
 ]

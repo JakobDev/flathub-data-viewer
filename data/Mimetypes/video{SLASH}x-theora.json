@@ -16,5 +16,6 @@
     "org.kde.koko",
     "org.musicbrainz.Picard",
     "org.shotcut.Shotcut",
-    "org.sigxcpu.Livi"
+    "org.sigxcpu.Livi",
+    "org.videolan.VLC"
 ]

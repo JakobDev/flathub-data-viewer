@@ -3,5 +3,6 @@
     "io.github.ripose_jp.Memento",
     "io.mpv.Mpv",
     "org.kde.haruna",
-    "org.kde.kmplayer"
+    "org.kde.kmplayer",
+    "org.videolan.VLC"
 ]

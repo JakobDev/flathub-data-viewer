@@ -2,5 +2,6 @@
     "io.botfather.Botfather",
     "org.kde.kdenlive",
     "org.openshot.OpenShot",
-    "org.shotcut.Shotcut"
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC"
 ]

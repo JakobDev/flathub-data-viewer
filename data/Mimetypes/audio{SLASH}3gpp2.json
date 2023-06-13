@@ -7,5 +7,6 @@
     "io.mpv.Mpv",
     "net.baseart.Glide",
     "org.kde.haruna",
-    "org.shotcut.Shotcut"
+    "org.shotcut.Shotcut",
+    "org.videolan.VLC"
 ]
