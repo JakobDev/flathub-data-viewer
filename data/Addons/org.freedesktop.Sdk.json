@@ -17,5 +17,6 @@
     "org.freedesktop.Sdk.Extension.php74",
     "org.freedesktop.Sdk.Extension.php82",
     "org.freedesktop.Sdk.Extension.rust-stable",
+    "org.freedesktop.Sdk.Extension.typescript",
     "org.freedesktop.Sdk.Extension.vala"
 ]

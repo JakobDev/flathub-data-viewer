@@ -7,5 +7,6 @@
     "org.cubocore.CorePaint",
     "org.gnome.OCRFeeder",
     "org.gnome.eog",
-    "org.gnome.gitlab.YaLTeR.Identity"
+    "org.gnome.gitlab.YaLTeR.Identity",
+    "work.openpaper.Paperwork"
 ]

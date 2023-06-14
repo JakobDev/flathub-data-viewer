@@ -65,6 +65,7 @@
     "io.github.seadve.Mousai",
     "io.gitlab.Goodvibes",
     "io.gitlab.adhami3310.Converter",
+    "io.gitlab.adhami3310.Impression",
     "io.liri.Calculator",
     "io.liri.Text",
     "io.neovim.nvim",
@@ -205,6 +206,7 @@
     "org.nicotine_plus.Nicotine",
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
+    "org.remmina.Remmina",
     "org.speedcrunch.SpeedCrunch",
     "org.sugarlabs.MusicKeyboard",
     "org.sugarlabs.Paint",
@@ -212,7 +214,9 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",
+    "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "re.sonny.Junction",
-    "re.sonny.Workbench"
+    "re.sonny.Workbench",
+    "sm.puri.Chatty"
 ]

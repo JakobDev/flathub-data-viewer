@@ -150,5 +150,7 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",
-    "org.zim_wiki.Zim"
+    "org.xfce.ristretto",
+    "org.zim_wiki.Zim",
+    "sm.puri.Chatty"
 ]

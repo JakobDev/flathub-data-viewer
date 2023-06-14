@@ -26,6 +26,8 @@
     "org.gnome.eog",
     "org.gnome.font-viewer",
     "org.gtkhash.gtkhash",
+    "org.remmina.Remmina",
     "org.x.Warpinator",
-    "org.xfce.mousepad"
+    "org.xfce.mousepad",
+    "org.xfce.ristretto"
 ]

@@ -122,8 +122,10 @@
     "org.gnome.seahorse.Application",
     "org.musicbrainz.Picard",
     "org.pitivi.Pitivi",
+    "org.remmina.Remmina",
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator",
     "org.xfce.mousepad",
+    "org.xfce.ristretto",
     "re.sonny.Junction"
 ]

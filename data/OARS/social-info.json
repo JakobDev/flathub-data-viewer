@@ -4,6 +4,7 @@
         "com.avocode.Avocode",
         "com.basemark.BasemarkGPU",
         "com.blockstream.Green",
+        "com.expidusos.file_manager",
         "com.frogatto.Frogatto",
         "com.github.corna.Vivado",
         "com.github.mdh34.hackup",
@@ -213,6 +214,7 @@
         "io.github.mmstick.FontFinder",
         "io.github.pr_starfighter.starfighter",
         "io.github.sharkwouter.Minigalaxy",
+        "io.gitlab.idevecore.Pomodoro",
         "io.liri.Calculator",
         "io.liri.Text",
         "io.openrct2.OpenRCT2",
@@ -323,6 +325,7 @@
     "intense": [
         "chat.revolt.RevoltDesktop",
         "chat.tandem.Client",
+        "cn.lceda.LCEDAPro",
         "com.albiononline.AlbionOnline",
         "com.alovoa.alovoa-electron",
         "com.brosix.Brosix",

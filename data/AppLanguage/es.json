@@ -236,6 +236,7 @@
     "org.parlatype.Parlatype",
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
+    "org.remmina.Remmina",
     "org.speedcrunch.SpeedCrunch",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Chart",
@@ -266,12 +267,14 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",
+    "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "org.zrythm.Zrythm",
     "page.codeberg.foreverxml.Random",
     "re.sonny.Commit",
     "re.sonny.Junction",
     "re.sonny.Workbench",
+    "sm.puri.Chatty",
     "xyz.eclipium.Hieroctive",
     "xyz.eclipium.TetraSwap"
 ]

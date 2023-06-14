@@ -7,5 +7,6 @@
     "org.openmsx.openMSX",
     "org.openstreetmap.josm",
     "org.ppsspp.PPSSPP",
-    "org.prismlauncher.PrismLauncher"
+    "org.prismlauncher.PrismLauncher",
+    "sh.ppy.osu"
 ]

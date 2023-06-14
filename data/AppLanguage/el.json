@@ -148,6 +148,7 @@
     "org.midori_browser.Midori",
     "org.musicbrainz.Picard",
     "org.pitivi.Pitivi",
+    "org.remmina.Remmina",
     "org.speedcrunch.SpeedCrunch",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.ColorDeducto",
@@ -172,6 +173,7 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",
+    "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "org.zrythm.Zrythm"
 ]

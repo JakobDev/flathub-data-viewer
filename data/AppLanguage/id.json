@@ -150,6 +150,7 @@
     "org.midori_browser.Midori",
     "org.parlatype.Parlatype",
     "org.pitivi.Pitivi",
+    "org.remmina.Remmina",
     "org.speedcrunch.SpeedCrunch",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Dimensions",
@@ -168,7 +169,9 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",
+    "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "re.sonny.Junction",
-    "re.sonny.Workbench"
+    "re.sonny.Workbench",
+    "sm.puri.Chatty"
 ]

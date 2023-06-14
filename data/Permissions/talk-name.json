@@ -2315,6 +2315,7 @@
         "io.howl.Editor",
         "io.podman_desktop.PodmanDesktop",
         "io.stoplight.studio",
+        "it.mijorus.gearlever",
         "net.davidotek.pupgui2",
         "net.lutris.Lutris",
         "org.cockpit_project.CockpitClient",
@@ -2944,7 +2945,8 @@
         "io.github.jeffshee.Hidamari"
     ],
     "org.freedesktop.portal.openuri": [
-        "io.github.nate_xyz.Resonance"
+        "io.github.nate_xyz.Resonance",
+        "it.mijorus.gearlever"
     ],
     "org.kde.plasmashell": [
         "io.github.quodlibet.ExFalso",
@@ -2979,6 +2981,9 @@
     ],
     "org.kde.ksmserver": [
         "io.github.vikdevelop.SaveDesktop"
+    ],
+    "org.freedesktop.portal.openfile": [
+        "it.mijorus.gearlever"
     ],
     "org.gnome.mutter.displayconfig": [
         "net.displaycal.DisplayCAL",

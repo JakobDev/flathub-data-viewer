@@ -59,5 +59,6 @@
     "org.gnome.gedit",
     "org.gnome.gitg",
     "org.gnome.seahorse.Application",
-    "org.xfce.mousepad"
+    "org.xfce.mousepad",
+    "org.xfce.ristretto"
 ]

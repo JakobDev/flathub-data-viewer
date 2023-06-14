@@ -80,6 +80,8 @@
     "org.inkscape.Inkscape",
     "org.nicotine_plus.Nicotine",
     "org.pitivi.Pitivi",
+    "org.remmina.Remmina",
     "org.speedcrunch.SpeedCrunch",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.xfce.ristretto"
 ]

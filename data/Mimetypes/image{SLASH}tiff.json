@@ -38,5 +38,6 @@
     "org.nomacs.ImageLounge",
     "org.photoqt.PhotoQt",
     "org.qgis.qgis",
-    "org.xfce.ristretto"
+    "org.xfce.ristretto",
+    "work.openpaper.Paperwork"
 ]

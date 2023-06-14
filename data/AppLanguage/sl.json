@@ -127,6 +127,7 @@
     "org.midori_browser.Midori",
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
+    "org.remmina.Remmina",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Finance",
     "org.sugarlabs.FotoToon",
@@ -141,5 +142,6 @@
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.xfce.mousepad",
+    "org.xfce.ristretto",
     "org.zim_wiki.Zim"
 ]

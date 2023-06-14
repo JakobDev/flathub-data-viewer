@@ -66,6 +66,7 @@
     "org.gottcode.Simsu",
     "org.gottcode.Tanglet",
     "org.midori_browser.Midori",
+    "org.remmina.Remmina",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.ColorDeducto",
     "org.sugarlabs.Dimensions",
@@ -77,5 +78,6 @@
     "org.sugarlabs.Words",
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
-    "org.xfce.mousepad"
+    "org.xfce.mousepad",
+    "org.xfce.ristretto"
 ]

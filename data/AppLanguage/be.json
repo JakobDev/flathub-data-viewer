@@ -77,5 +77,6 @@
     "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator",
-    "org.xfce.mousepad"
+    "org.xfce.mousepad",
+    "org.xfce.ristretto"
 ]

@@ -33,6 +33,7 @@
     "org.quassel_irc.QuasselClient",
     "org.signal.Signal",
     "org.syphon.Syphon",
+    "org.telegram",
     "pl.youkai.lanchat",
     "sm.puri.Chatty",
     "xyz.diamondb.gtkcord4",

@@ -176,6 +176,7 @@
     "org.nicotine_plus.Nicotine",
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
+    "org.remmina.Remmina",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Chart",
     "org.sugarlabs.Chess",
@@ -201,7 +202,9 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",
+    "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "org.zrythm.Zrythm",
-    "re.sonny.Junction"
+    "re.sonny.Junction",
+    "sm.puri.Chatty"
 ]

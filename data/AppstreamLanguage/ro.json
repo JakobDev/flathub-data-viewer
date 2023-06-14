@@ -171,7 +171,6 @@
     "org.kde.plasmatube",
     "org.kde.qmlkonsole",
     "org.kde.vvave",
-    "org.kicad.KiCad",
     "org.midori_browser.Midori",
     "org.moneymanagerex.MMEX",
     "org.pitivi.Pitivi",
@@ -181,7 +180,6 @@
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
-    "org.xfce.ristretto",
     "re.sonny.Junction",
     "sm.puri.Chatty"
 ]

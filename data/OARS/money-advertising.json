@@ -1,4 +1,10 @@
 {
+    "intense": [
+        "cn.lceda.LCEDAPro",
+        "io.github.fin_ger.OvGUCanteen",
+        "io.github.vinegarhq.Vinegar",
+        "net.brinkervii.grapejuice"
+    ],
     "moderate": [
         "com.fightcade.Fightcade",
         "com.lunarclient.LunarClient",
@@ -10,11 +16,6 @@
         "com.github.corna.Vivado",
         "io.itch.itch",
         "org.gnome.Lollypop"
-    ],
-    "intense": [
-        "io.github.fin_ger.OvGUCanteen",
-        "io.github.vinegarhq.Vinegar",
-        "net.brinkervii.grapejuice"
     ],
     "none": [
         "org.kde.digikam"

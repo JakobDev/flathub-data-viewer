@@ -84,5 +84,6 @@
     "org.gnome.gitg",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
-    "org.gottcode.FocusWriter"
+    "org.gottcode.FocusWriter",
+    "sm.puri.Chatty"
 ]

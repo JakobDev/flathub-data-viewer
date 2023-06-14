@@ -1,5 +1,6 @@
 [
     "com.poweriso.PowerISO",
+    "io.gitlab.adhami3310.Impression",
     "org.fedoraproject.MediaWriter",
     "org.wxhexeditor.wxHexEditor"
 ]

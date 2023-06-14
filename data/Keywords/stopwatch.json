@@ -1,4 +1,5 @@
 [
+    "io.gitlab.idevecore.Pomodoro",
     "org.gnome.clocks",
     "org.kde.kclock"
 ]

@@ -25,5 +25,6 @@
     "org.gnome.font-viewer",
     "org.gnome.meld",
     "org.midori_browser.Midori",
-    "org.tabos.roger"
+    "org.tabos.roger",
+    "org.texstudio.TeXstudio"
 ]

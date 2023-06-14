@@ -317,6 +317,7 @@
     "org.karapulse.Karapulse",
     "org.kde.kid3",
     "org.kde.skrooge",
+    "org.kicad.KiCad",
     "org.laptop.TurtleArtActivity",
     "org.learningequality.Kolibri",
     "org.midori_browser.Midori",
@@ -326,6 +327,7 @@
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
     "org.quassel_irc.QuasselClient",
+    "org.remmina.Remmina",
     "org.scilab.Scilab",
     "org.scintilla.SciTE",
     "org.speed_dreams.SpeedDreams",
@@ -361,10 +363,12 @@
     "org.tuxpaint.Tuxpaint",
     "org.upnproutercontrol.UPnPRouterControl",
     "org.viking.Viking",
+    "org.wesnoth.Wesnoth",
     "org.widelands.Widelands",
     "org.wxhexeditor.wxHexEditor",
     "org.x.Warpinator",
     "org.xfce.mousepad",
+    "org.xfce.ristretto",
     "org.xiphos.Xiphos",
     "org.zim_wiki.Zim",
     "org.zrythm.Zrythm",
@@ -374,5 +378,7 @@
     "re.sonny.Junction",
     "re.sonny.Playhouse",
     "re.sonny.Tangram",
-    "re.sonny.Workbench"
+    "re.sonny.Workbench",
+    "sm.puri.Chatty",
+    "work.openpaper.Paperwork"
 ]

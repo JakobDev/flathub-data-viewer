@@ -146,6 +146,7 @@
     "io.gitlab.adhami3310.Impression",
     "io.gitlab.azymohliad.WatchMate",
     "io.gitlab.cyberphantom52.sudoku_solver",
+    "io.gitlab.idevecore.Pomodoro",
     "io.gitlab.leesonwai.Sums",
     "io.gitlab.leesonwai.Tactics",
     "io.gitlab.theevilskeleton.Upscaler",
@@ -153,6 +154,7 @@
     "io.mpv.Mpv",
     "io.posidon.Paper",
     "ir.imansalmani.IPlan",
+    "it.mijorus.gearlever",
     "lv.martinsz.millionaire",
     "me.dusansimic.DynamicWallpaper",
     "ml.mdwalters.EightBall",
@@ -253,6 +255,8 @@
     "org.jacktrip.JackTrip",
     "org.karapulse.Karapulse",
     "org.librehunt.Organizer",
+    "org.libreoffice.LibreOffice",
+    "org.mozilla.Thunderbird",
     "org.musescore.MuseScore",
     "org.mypaint.MyPaint",
     "org.nickvision.money",
@@ -262,6 +266,8 @@
     "org.pipewire.Helvum",
     "org.pitivi.Pitivi",
     "org.tabos.roger",
+    "org.texstudio.TeXstudio",
+    "org.wesnoth.Wesnoth",
     "re.sonny.Commit",
     "re.sonny.Junction",
     "re.sonny.OhMySVG",
@@ -272,5 +278,6 @@
     "ro.fxdata.taskmonitor.viewer",
     "ro.hume.cosmin.ShoppingList",
     "se.sjoerd.GIScan",
-    "se.sjoerd.Graphs"
+    "se.sjoerd.Graphs",
+    "sm.puri.Chatty"
 ]

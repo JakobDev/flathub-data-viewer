@@ -1,9 +1,7 @@
 [
     "net.bartkessels.getit",
     "org.gtkhash.gtkhash",
-    "org.kicad.KiCad",
     "org.laptop.TurtleArtActivity",
-    "org.remmina.Remmina",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Chart",
     "org.sugarlabs.Chess",
@@ -25,9 +23,5 @@
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
-    "org.wesnoth.Wesnoth",
-    "org.widelands.Widelands",
-    "org.xfce.ristretto",
-    "sm.puri.Chatty",
-    "work.openpaper.Paperwork"
+    "org.widelands.Widelands"
 ]

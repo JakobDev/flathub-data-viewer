@@ -36,6 +36,7 @@
         "com.dropbox.Client",
         "com.elsevier.MendeleyDesktop",
         "com.endlessm.photos",
+        "com.expidusos.file_manager",
         "com.flashforge.FlashPrint",
         "com.frac_tion.teleport",
         "com.getpostman.Postman",
@@ -239,6 +240,7 @@
         "io.podman_desktop.PodmanDesktop",
         "io.sourceforge.Pixelitor",
         "io.sourceforge.chart_geany.chart-geany",
+        "it.mijorus.gearlever",
         "md.obsidian.Obsidian",
         "me.ahola.aphototoollibre",
         "me.mitya57.ReText",
@@ -1474,6 +1476,7 @@
         "br.gov.fazenda.receita.irpf2023",
         "chat.quadrix.Quadrix",
         "chat.rocket.RocketChat",
+        "cn.lceda.LCEDAPro",
         "co.luoja.Telyn",
         "com.adobe.Reader",
         "com.boxy_svg.BoxySVG",
@@ -2940,6 +2943,7 @@
     "xdg-data/applications": [
         "com.heroicgameslauncher.hgl",
         "io.github.fabrialberio.pinapp",
+        "it.mijorus.gearlever",
         "xyz.hyperplay.HyperPlay"
     ],
     "~/Games/Heroic:create": [
@@ -3367,6 +3371,9 @@
     ],
     "/var/log/pacman.log:ro": [
         "it.cuteworks.pacmanlogviewer"
+    ],
+    "xdg-data/icons:ro": [
+        "it.mijorus.gearlever"
     ],
     "xdg-data/backgrounds:create": [
         "me.dusansimic.DynamicWallpaper"

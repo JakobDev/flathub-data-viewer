@@ -170,6 +170,7 @@
     "org.musicbrainz.Picard",
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
+    "org.remmina.Remmina",
     "org.speedcrunch.SpeedCrunch",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Chart",
@@ -196,7 +197,9 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",
+    "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "org.zrythm.Zrythm",
-    "re.sonny.Junction"
+    "re.sonny.Junction",
+    "sm.puri.Chatty"
 ]

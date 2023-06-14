@@ -55,6 +55,7 @@
     "io.github.seadve.Kooha",
     "io.github.seadve.Mousai",
     "io.gitlab.Goodvibes",
+    "io.gitlab.adhami3310.Impression",
     "io.neovim.nvim",
     "io.otsaloma.gaupol",
     "io.otsaloma.nfoview",
@@ -187,6 +188,7 @@
     "org.parlatype.Parlatype",
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
+    "org.remmina.Remmina",
     "org.speedcrunch.SpeedCrunch",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Dimensions",
@@ -207,8 +209,10 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",
+    "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "re.sonny.Commit",
     "re.sonny.Junction",
-    "re.sonny.Workbench"
+    "re.sonny.Workbench",
+    "sm.puri.Chatty"
 ]
