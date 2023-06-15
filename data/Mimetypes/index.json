@@ -338,6 +338,7 @@
         "application{SLASH}x-chess-pgn",
         "application{SLASH}x-chess-scid3",
         "application{SLASH}x-chess-scid4",
+        "application{SLASH}x-chitin-key",
         "application{SLASH}x-chm",
         "application{SLASH}x-chrome-extension",
         "application{SLASH}x-chronvox-studio-csm",

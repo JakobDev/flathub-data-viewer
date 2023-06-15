@@ -74,6 +74,7 @@
     "bluetooth": [
         "com.github.Matoking.protontricks",
         "com.github.theironrobin.siglo",
+        "com.oppzippy.OpenSCQ30",
         "com.valvesoftware.Steam",
         "io.emeric.toolblex",
         "io.emeric.watchflower",
