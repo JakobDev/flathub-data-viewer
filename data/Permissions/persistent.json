@@ -444,6 +444,9 @@
     ".ApacheDirectoryStudio": [
         "org.apache.directory.studio"
     ],
+    ".java/.userPrefs": [
+        "org.apache.jmeter"
+    ],
     ".briar": [
         "org.briarproject.Briar"
     ],

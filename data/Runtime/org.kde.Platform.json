@@ -81,6 +81,7 @@
         "io.github.voxelcubes.deepqt",
         "io.github.wh201906.serialtest",
         "io.gitlab.coolreader_ng.crqt-ng",
+        "io.liri.Text",
         "io.mgba.mGBA",
         "io.photoflare.photoflare",
         "io.sourceforge.chart_geany.chart-geany",
@@ -98,6 +99,7 @@
         "net.meshlab.MeshLab",
         "net.puddletag.puddletag",
         "net.qsl.QSSTV",
+        "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
         "net.scribus.Scribus",
         "net.seamly.seamly2d",
@@ -437,7 +439,6 @@
         "net.drawpile.drawpile",
         "net.granjow.slowmovideo",
         "net.mediaarea.DVAnalyzer",
-        "net.retrodeck.retrodeck",
         "net.sf.metronomek",
         "net.sf.nootka",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
@@ -578,8 +579,7 @@
         "de.ifw_dresden.nagstamon",
         "de.rwth_aachen.ient.RDPlot",
         "io.botfather.Botfather",
-        "io.liri.Calculator",
-        "io.liri.Text"
+        "io.liri.Calculator"
     ],
     "5.9": [
         "io.qt.qtwebkit.BaseApp"
