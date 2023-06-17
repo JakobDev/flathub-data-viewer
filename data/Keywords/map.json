@@ -1,5 +1,6 @@
 [
     "net.darkradiant.DarkRadiant",
     "org.freeplane.App",
+    "org.photoqt.PhotoQt",
     "org.qgis.qgis"
 ]

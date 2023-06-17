@@ -5,7 +5,6 @@
     "com.github.nrittsti.NTag",
     "com.github.reds.LogisimEvolution",
     "com.github.skylot.jadx",
-    "com.gitlab.JakobDev.jdMinecraftLauncher",
     "com.jetpackduba.Gitnuro",
     "com.makemkv.MakeMKV",
     "com.remnantsoftheprecursors.ROTP",
@@ -39,6 +38,7 @@
     "org.prismlauncher.PrismLauncher",
     "org.soapui.SoapUI",
     "org.texstudio.TeXstudio",
+    "page.codeberg.JakobDev.jdMinecraftLauncher",
     "tv.kodi.Kodi",
     "vet.rsc.OpenRSC.Launcher"
 ]

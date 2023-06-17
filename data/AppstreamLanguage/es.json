@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.EarTag",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ar.com.softwareperonista.Rockarrolla",
@@ -135,6 +136,7 @@
     "io.sourceforge.pentobi",
     "it.mijorus.gearlever",
     "me.dusansimic.DynamicWallpaper",
+    "me.iepure.devtoolbox",
     "me.mitya57.ReText",
     "me.sanchezrodriguez.passes",
     "net.danigm.timetrack",
@@ -415,6 +417,7 @@
     "org.midori_browser.Midori",
     "org.moneymanagerex.MMEX",
     "org.musicbrainz.Picard",
+    "org.nickvision.money",
     "org.nickvision.tubeconverter",
     "org.octave.Octave",
     "org.olivevideoeditor.Olive",

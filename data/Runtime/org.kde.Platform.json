@@ -97,6 +97,7 @@
         "net.kvirc.KVIrc",
         "net.mediaarea.MediaConch",
         "net.meshlab.MeshLab",
+        "net.mkiol.SpeechNote",
         "net.puddletag.puddletag",
         "net.qsl.QSSTV",
         "net.retrodeck.retrodeck",
@@ -522,7 +523,6 @@
     "6.3": [
         "com.github.LongSoft.UEFITool",
         "com.github.jmlich.geotagging",
-        "com.gitlab.JakobDev.jdMinecraftLauncher",
         "com.rtosta.zapzap",
         "io.github.hydrusnetwork.hydrus",
         "io.mrarm.mcpelauncher",
@@ -535,6 +535,7 @@
         "org.jaspstats.JASP",
         "org.mattbas.Glaxnimate",
         "org.subtitld.Subtitld",
+        "page.codeberg.JakobDev.jdMinecraftLauncher",
         "uk.org.zint.zint-qt"
     ],
     "6.5": [

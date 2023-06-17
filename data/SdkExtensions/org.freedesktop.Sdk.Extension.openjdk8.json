@@ -1,6 +1,5 @@
 [
     "cc.arduino.arduinoide",
-    "com.gitlab.JakobDev.jdMinecraftLauncher",
     "com.jpexs.decompiler.flash",
     "io.sourceforge.YSoccer",
     "net.xmind.XMind8",
@@ -8,5 +7,6 @@
     "org.omegat.OmegaT",
     "org.polymc.PolyMC",
     "org.prismlauncher.PrismLauncher",
+    "page.codeberg.JakobDev.jdMinecraftLauncher",
     "org.videolan.VLC.Plugin.bdj"
 ]

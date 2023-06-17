@@ -135,6 +135,9 @@
     ".scenebuilder": [
         "com.gluonhq.SceneBuilder"
     ],
+    ".googleearth": [
+        "com.google.EarthPro"
+    ],
     ".tremulous": [
         "com.grangerhub.Tremulous"
     ],

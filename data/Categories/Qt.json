@@ -1,7 +1,6 @@
 [
     "ca.parallel_launcher.ParallelLauncher",
     "com.github.Rosalie241.RMG",
-    "com.gitlab.JakobDev.jdMinecraftLauncher",
     "com.gitlab.JakobDev.jdTextEdit",
     "com.moonlight_stream.Moonlight",
     "com.nitrokey.nitrokey-app",
@@ -45,6 +44,7 @@
     "page.codeberg.JakobDev.jdDesktopEntryEdit",
     "page.codeberg.JakobDev.jdDiff",
     "page.codeberg.JakobDev.jdEolConverter",
+    "page.codeberg.JakobDev.jdMinecraftLauncher",
     "page.codeberg.JakobDev.jdNBTExplorer",
     "page.codeberg.JakobDev.jdReplace",
     "page.codeberg.JakobDev.jdSimpleAutostart",

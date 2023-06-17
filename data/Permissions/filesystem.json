@@ -470,7 +470,6 @@
         "com.github.vkohaupt.vokoscreenNG",
         "com.github.zocker_160.SyncThingy",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
-        "com.gitlab.JakobDev.jdMinecraftLauncher",
         "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.Murmele.UDPLogger",
         "com.gitlab.coringao.JAG",
@@ -661,6 +660,7 @@
         "net.mediaarea.QCTools",
         "net.meijn.onvifviewer",
         "net.meshlab.MeshLab",
+        "net.mkiol.SpeechNote",
         "net.pcsx2.PCSX2",
         "net.puddletag.puddletag",
         "net.qsl.QSSTV",
@@ -977,6 +977,7 @@
         "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdEolConverter",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.JakobDev.jdMinecraftLauncher",
         "page.codeberg.JakobDev.jdNBTExplorer",
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
@@ -1060,6 +1061,7 @@
         "com.github.z.Cumulonimbus",
         "com.google.Chrome",
         "com.google.ChromeDev",
+        "com.google.EarthPro",
         "com.greyrook.siptop",
         "com.icons8.Lunacy",
         "com.ktechpit.colorwall",
@@ -1122,6 +1124,7 @@
         "net.filebot.FileBot",
         "net.jami.Jami",
         "net.kvirc.KVIrc",
+        "net.mkiol.SpeechNote",
         "net.puddletag.puddletag",
         "net.sonobus.SonoBus",
         "net.sourceforge.Pdfedit",
@@ -1296,6 +1299,7 @@
         "io.github.ctlcltd.e2se",
         "io.github.daviddesimone.opencloudsaves",
         "io.github.dfandrich.gpscorrelate",
+        "io.github.fralonra.WgShadertoy",
         "io.github.giantpinkrobots.bootqt",
         "io.github.guillaumechereau.Goxel",
         "io.github.hydrusnetwork.hydrus",
@@ -1544,6 +1548,7 @@
         "net.blockbench.Blockbench",
         "net.danigm.timetrack",
         "net.epson.epsonscan2",
+        "net.mkiol.SpeechNote",
         "net.sourceforge.Pdfedit",
         "net.sourceforge.jpdftweak.jPdfTweak",
         "net.sourceforge.mcomix",
@@ -1620,6 +1625,7 @@
         "io.wavebox.Wavebox",
         "net.blockbench.Blockbench",
         "net.filebot.FileBot",
+        "net.mkiol.SpeechNote",
         "net.puddletag.puddletag",
         "net.sonobus.SonoBus",
         "net.sourceforge.paulstretch",
@@ -2463,6 +2469,7 @@
         "io.wavebox.Wavebox",
         "net.blockbench.Blockbench",
         "net.epson.epsonscan2",
+        "net.mkiol.SpeechNote",
         "net.sourceforge.jpdftweak.jPdfTweak",
         "net.sourceforge.mcomix",
         "net.xmind.XMind",
@@ -2753,8 +2760,8 @@
     ],
     "xdg-data/applications:create": [
         "com.github.donadigo.appeditor",
-        "com.gitlab.JakobDev.jdMinecraftLauncher",
-        "org.bluesabre.MenuLibre"
+        "org.bluesabre.MenuLibre",
+        "page.codeberg.JakobDev.jdMinecraftLauncher"
     ],
     "/dev/log": [
         "com.github.eneshecan.WhatsAppForLinux"
@@ -2907,12 +2914,6 @@
     ],
     "/var/lib/logmein-hamachi:ro": [
         "com.github.ztefn.haguichi"
-    ],
-    "~/.minecraft:create": [
-        "com.gitlab.JakobDev.jdMinecraftLauncher"
-    ],
-    "xdg-desktop:create": [
-        "com.gitlab.JakobDev.jdMinecraftLauncher"
     ],
     "xdg-config/libinput-gestures.conf.bak:create": [
         "com.gitlab.cunidev.Gestures"
@@ -3127,13 +3128,11 @@
     "~/hdos:create": [
         "dev.hdos.HDOS"
     ],
-    "~/.minikube:ro": [
-        "dev.k8slens.OpenLens",
-        "io.kinvolk.Headlamp"
+    "~/.minikube": [
+        "dev.k8slens.OpenLens"
     ],
-    "~/.kube/config:ro": [
-        "dev.k8slens.OpenLens",
-        "io.kinvolk.Headlamp"
+    "~/.kube/config": [
+        "dev.k8slens.OpenLens"
     ],
     "~/.wallpaperdownloader:create": [
         "es.estoes.wallpaperDownloader"
@@ -3348,6 +3347,12 @@
     ],
     "xdg-documents/TabletopClub:create": [
         "io.itch.drwhut.TabletopClub"
+    ],
+    "~/.minikube:ro": [
+        "io.kinvolk.Headlamp"
+    ],
+    "~/.kube/config:ro": [
+        "io.kinvolk.Headlamp"
     ],
     "~/.config/Headlamp:ro": [
         "io.kinvolk.Headlamp"
@@ -3728,6 +3733,12 @@
     ],
     "xdg-run/app/org.mozilla.Firefox.BaseApp:create": [
         "org.zaproxy.ZAP"
+    ],
+    "~/.minecraft:create": [
+        "page.codeberg.JakobDev.jdMinecraftLauncher"
+    ],
+    "xdg-desktop:create": [
+        "page.codeberg.JakobDev.jdMinecraftLauncher"
     ],
     "host-etc:ro": [
         "page.codeberg.JakobDev.jdSimpleAutostart"

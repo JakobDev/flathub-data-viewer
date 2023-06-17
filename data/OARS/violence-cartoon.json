@@ -12,7 +12,6 @@
         "com.endlessnetwork.passage",
         "com.endlessnetwork.tankwarriors",
         "com.github.varnholt.dynablaster_revenge",
-        "com.gitlab.JakobDev.jdMinecraftLauncher",
         "com.gitlab.coringao.cavestory-nx",
         "com.heroicgameslauncher.hgl",
         "com.lunarclient.LunarClient",
@@ -58,6 +57,7 @@
         "org.srb2.SRB2Kart",
         "org.srb2.SRB2Persona",
         "org.widelands.Widelands",
+        "page.codeberg.JakobDev.jdMinecraftLauncher",
         "tw.ddnet.ddnet",
         "vet.rsc.OpenRSC.Launcher",
         "xyz.hyperplay.HyperPlay"

@@ -18,14 +18,6 @@
         "org.pymol.PyMOL",
         "se.sjoerd.GIScan"
     ],
-    "6.3": [
-        "com.gitlab.JakobDev.jdMinecraftLauncher",
-        "com.rtosta.zapzap",
-        "io.github.hydrusnetwork.hydrus",
-        "me.mitya57.ReText",
-        "org.beeref.BeeRef",
-        "org.subtitld.Subtitld"
-    ],
     "6.5": [
         "com.gitlab.JakobDev.jdTextEdit",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
@@ -37,6 +29,14 @@
         "page.codeberg.JakobDev.jdNBTExplorer",
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart"
+    ],
+    "6.3": [
+        "com.rtosta.zapzap",
+        "io.github.hydrusnetwork.hydrus",
+        "me.mitya57.ReText",
+        "org.beeref.BeeRef",
+        "org.subtitld.Subtitld",
+        "page.codeberg.JakobDev.jdMinecraftLauncher"
     ],
     "5.15-21.08": [
         "org.qutebrowser.qutebrowser"

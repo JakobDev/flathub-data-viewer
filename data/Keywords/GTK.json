@@ -1,6 +1,7 @@
 [
     "app.drey.Elastic",
     "app.drey.Warp",
+    "ar.xjuan.Cambalache",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.ReadItLater",
     "com.belmoussaoui.ashpd.demo",
@@ -30,6 +31,5 @@
     "org.gnome.design.IconLibrary",
     "org.gnome.design.SymbolicPreview",
     "org.gnome.design.VectorSlicer",
-    "org.nickvision.money",
     "org.nicotine_plus.Nicotine"
 ]
