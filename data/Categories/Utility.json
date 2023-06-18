@@ -3,6 +3,7 @@
     "app.drey.Elastic",
     "app.drey.KeyRack",
     "app.drey.Warp",
+    "app.getclipboard.Clipboard",
     "app.moosync.moosync",
     "app.riftshare.RiftShare",
     "app.vup.Vup",

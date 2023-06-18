@@ -609,6 +609,9 @@
     ".tuxpaint": [
         "org.tuxpaint.Tuxpaint"
     ],
+    ".config/tvbrowser": [
+        "org.tvbrowser.TVBrowser"
+    ],
     ".widelands": [
         "org.widelands.Widelands"
     ],

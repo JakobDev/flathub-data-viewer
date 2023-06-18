@@ -1168,6 +1168,7 @@
         "image{SLASH}pjpeg",
         "image{SLASH}png",
         "image{SLASH}psd",
+        "image{SLASH}pxo",
         "image{SLASH}sgi",
         "image{SLASH}svg",
         "image{SLASH}svg+xml",
