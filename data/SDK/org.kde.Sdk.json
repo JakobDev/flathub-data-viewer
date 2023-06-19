@@ -331,7 +331,6 @@
         "com.github.AlizaMedicalImaging.AlizaMS",
         "com.github.dynobo.normcap",
         "com.github.unrud.djpdf",
-        "com.gitlab.tipp10.tipp10",
         "com.obsproject.Studio",
         "community.pathofbuilding.PathOfBuilding",
         "de.bund.ausweisapp.ausweisapp2",
@@ -547,6 +546,7 @@
     "6.5": [
         "com.github.Rosalie241.RMG",
         "com.gitlab.JakobDev.jdTextEdit",
+        "com.gitlab.tipp10.tipp10",
         "com.vicr123.thebeat",
         "io.github.Arisotura.CoinKiller",
         "io.github.simple64.simple64",

@@ -575,6 +575,7 @@
         "io.gitlab.jazztickets.emptyclip",
         "io.gitlab.jazztickets.openflap",
         "io.gitlab.librewolf-community",
+        "io.gitlab.osslugaru.Lugaru",
         "io.gitlab.stone_kingdoms.StoneKingdoms",
         "io.itch.domestique_baston.domestique_baston",
         "io.itch.drwhut.TabletopClub",
@@ -918,7 +919,6 @@
         "com.abagames.noiz2sa",
         "io.ark.Desktop",
         "io.github.openWMail.openWMail",
-        "io.gitlab.osslugaru.Lugaru",
         "org.gnome.Tomboy"
     ],
     "19.08": [
