@@ -14,6 +14,7 @@
         "net.sourceforge.scidavis",
         "org.frescobaldi.Frescobaldi",
         "org.opennumismat.OpenNumismat",
+        "org.pairinteraction.Pairinteraction",
         "org.plomgrading.PlomClient",
         "org.pymol.PyMOL",
         "se.sjoerd.GIScan"
@@ -26,6 +27,7 @@
         "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdEolConverter",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.JakobDev.jdMrpackInstaller",
         "page.codeberg.JakobDev.jdNBTExplorer",
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart"

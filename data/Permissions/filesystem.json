@@ -640,6 +640,7 @@
         "it.cuteworks.pacmanlogviewer",
         "me.ahola.aphototoollibre",
         "me.mitya57.ReText",
+        "me.timschneeberger.jdsp4linux",
         "net._86box._86Box",
         "net.codeindustry.MasterPDFEditor",
         "net.davidotek.pupgui2",
@@ -927,6 +928,7 @@
         "org.openshot.OpenShot",
         "org.opentransactions.metier",
         "org.otfried.Ipe",
+        "org.pairinteraction.Pairinteraction",
         "org.paraview.ParaView",
         "org.pegasus_frontend.Pegasus",
         "org.pencil2d.Pencil2D",
@@ -979,6 +981,7 @@
         "page.codeberg.JakobDev.jdEolConverter",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "page.codeberg.JakobDev.jdMinecraftLauncher",
+        "page.codeberg.JakobDev.jdMrpackInstaller",
         "page.codeberg.JakobDev.jdNBTExplorer",
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
@@ -2284,6 +2287,7 @@
         "fr.handbrake.ghb",
         "fr.masson_informatique.WhosWho",
         "io.github.TransmissionRemoteGtk",
+        "io.github.appoutlet.GameOutlet",
         "io.github.celluloid_player.Celluloid",
         "io.github.ilius.pyglossary",
         "io.github.manisandro.gImageReader",
@@ -2805,6 +2809,7 @@
         "io.github.dosbox-staging",
         "io.github.ripose_jp.Memento",
         "io.mpv.Mpv",
+        "me.timschneeberger.jdsp4linux",
         "org.qutebrowser.qutebrowser"
     ],
     "~/.local/share/textpieces:create": [
@@ -3736,7 +3741,8 @@
         "org.zaproxy.ZAP"
     ],
     "~/.minecraft:create": [
-        "page.codeberg.JakobDev.jdMinecraftLauncher"
+        "page.codeberg.JakobDev.jdMinecraftLauncher",
+        "page.codeberg.JakobDev.jdMrpackInstaller"
     ],
     "xdg-desktop:create": [
         "page.codeberg.JakobDev.jdMinecraftLauncher"

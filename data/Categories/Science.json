@@ -80,6 +80,7 @@
     "org.mobsya.ThymioSuite",
     "org.octave.Octave",
     "org.openchemistry.Avogadro2",
+    "org.pairinteraction.Pairinteraction",
     "org.paraview.ParaView",
     "org.profex_xrd.Profex",
     "org.pymol.PyMOL",

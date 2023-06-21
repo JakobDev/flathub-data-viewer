@@ -1,7 +1,8 @@
 {
     "23.06": [
         "org.sugarlabs.AbacusActivity",
-        "org.sugarlabs.Maze"
+        "org.sugarlabs.Maze",
+        "org.sugarlabs.Words"
     ],
     "22.06": [
         "org.sugarlabs.Chart",
@@ -23,8 +24,7 @@
         "org.sugarlabs.Speak",
         "org.sugarlabs.StoryActivity",
         "org.sugarlabs.SwiftFeet",
-        "org.sugarlabs.TurtlePondActivity",
-        "org.sugarlabs.Words"
+        "org.sugarlabs.TurtlePondActivity"
     ],
     "21.04": [
         "org.sugarlabs.Physics",

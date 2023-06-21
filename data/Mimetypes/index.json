@@ -1704,6 +1704,7 @@
         "x-scheme-handler{SLASH}qute",
         "x-scheme-handler{SLASH}qv2ray",
         "x-scheme-handler{SLASH}ravkav",
+        "x-scheme-handler{SLASH}rdm",
         "x-scheme-handler{SLASH}rdp",
         "x-scheme-handler{SLASH}redshift",
         "x-scheme-handler{SLASH}remmina",

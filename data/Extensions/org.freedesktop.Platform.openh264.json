@@ -1,4 +1,5 @@
 [
     "com.freerdp.FreeRDP",
+    "org.jdownloader.JDownloader",
     "org.remmina.Remmina"
 ]

@@ -1,4 +1,5 @@
 [
     "io.github.hakuneko.HakuNeko",
+    "com.valvesoftware.Steam.Utility.thcrap_steam_proton_wrapper",
     "org.gnome.Totem.Videosite.YouTubeDl"
 ]

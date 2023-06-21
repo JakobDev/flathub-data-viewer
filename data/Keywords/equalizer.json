@@ -1,4 +1,5 @@
 [
     "com.github.wwmm.easyeffects",
-    "com.github.wwmm.pulseeffects"
+    "com.github.wwmm.pulseeffects",
+    "me.timschneeberger.jdsp4linux"
 ]
