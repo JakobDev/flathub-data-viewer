@@ -501,6 +501,7 @@
         "org.soundconverter.SoundConverter",
         "org.sugarlabs.AbacusActivity",
         "org.sugarlabs.Maze",
+        "org.sugarlabs.TurtlePondActivity",
         "org.sugarlabs.Words",
         "org.syphon.Syphon",
         "org.tabos.banking",
@@ -633,7 +634,6 @@
         "org.sugarlabs.Speak",
         "org.sugarlabs.StoryActivity",
         "org.sugarlabs.SwiftFeet",
-        "org.sugarlabs.TurtlePondActivity",
         "org.tabos.twofun",
         "page.codeberg.foreverxml.Random",
         "uk.co.mangobrain.Infector"

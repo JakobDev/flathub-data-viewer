@@ -1,6 +1,7 @@
 [
     "app.getclipboard.Clipboard",
     "app.vup.Vup",
+    "com.expidusos.file_manager",
     "com.georgefb.quickaccess",
     "com.github.ADBeveridge.Raider",
     "com.github.qarmin.czkawka",

@@ -2,6 +2,7 @@
     "23.06": [
         "org.sugarlabs.AbacusActivity",
         "org.sugarlabs.Maze",
+        "org.sugarlabs.TurtlePondActivity",
         "org.sugarlabs.Words"
     ],
     "22.06": [
@@ -23,8 +24,7 @@
         "org.sugarlabs.SolarSystem",
         "org.sugarlabs.Speak",
         "org.sugarlabs.StoryActivity",
-        "org.sugarlabs.SwiftFeet",
-        "org.sugarlabs.TurtlePondActivity"
+        "org.sugarlabs.SwiftFeet"
     ],
     "21.04": [
         "org.sugarlabs.Physics",

@@ -1,5 +1,6 @@
 [
     "com.sigmyne.crush",
+    "org.darktable.Darktable",
     "org.free_astro.siril",
     "org.hdfgroup.HDFView",
     "org.kde.kstars",
