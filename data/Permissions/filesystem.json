@@ -1229,7 +1229,6 @@
         "com.github.zocker_160.SyncThingy",
         "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.davem.ClamTk",
-        "com.gitlab.inendi.Inspector",
         "com.gitlab.sat_metalab.Splash",
         "com.google.AndroidStudio",
         "com.hack_computer.Clubhouse",
@@ -2557,7 +2556,6 @@
         "com.github.ahrm.sioyek",
         "com.github.ilai_deutel.kibi",
         "com.github.marktext.marktext",
-        "com.gitlab.inendi.Inspector",
         "com.helix_editor.Helix",
         "com.outerwildsmods.owmods_gui",
         "com.qq.QQ",
@@ -2928,12 +2926,6 @@
     "xdg-config/libinput-gestures.conf:create": [
         "com.gitlab.cunidev.Gestures"
     ],
-    "/opt/inendi": [
-        "com.gitlab.inendi.Inspector"
-    ],
-    "~/.inendi": [
-        "com.gitlab.inendi.Inspector"
-    ],
     "xdg-run/discord:create": [
         "com.googleplaymusicdesktopplayer.GPMDP"
     ],
@@ -3134,6 +3126,12 @@
     ],
     "~/hdos:create": [
         "dev.hdos.HDOS"
+    ],
+    "~/.aws": [
+        "dev.k8slens.OpenLens"
+    ],
+    "xdg-config/gcloud": [
+        "dev.k8slens.OpenLens"
     ],
     "~/.minikube": [
         "dev.k8slens.OpenLens"
