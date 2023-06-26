@@ -1,0 +1,22 @@
+pipeline:
+    page_update:
+        image: ubuntu:22.04
+        commands:
+            - apt update
+            - apt install -y flatpak git wget python-is-python3 python3-pip python3-gi gir1.2-flatpak-1.0 gir1.2-ostree-1.0
+            - wget https://raw.githubusercontent.com/gasinvein/flatpak-remote-metadata/master/flatpak-remote-metadata.py
+            - wget https://codeberg.org/JakobDev/ci-scripts/raw/branch/main/pages/pages-deploy.py
+            - python -m pip install -r requirements.txt
+            - python flatpak-remote-metadata.py -u https://dl.flathub.org/repo flathub > repodata.json
+            - python ./update.py
+            - python ./pages-deploy.py ./web
+        secrets: [CODEBERG_API_TOKEN]
+        when:
+          - event: cron
+          - event: push
+            branch: main
+
+when:
+  - event: cron
+  - event: push
+    branch: main
