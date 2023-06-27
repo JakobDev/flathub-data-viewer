@@ -1,6 +1,7 @@
 [
     "com.github.babluboy.bookworm",
     "com.yacreader.YACReader",
+    "io.github.lunarequest.NightPDF",
     "net.sourceforge.mcomix",
     "org.photoqt.PhotoQt"
 ]

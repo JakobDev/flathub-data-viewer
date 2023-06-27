@@ -29,6 +29,7 @@
         "io.github.dweymouth.supersonic",
         "io.github.qnapi",
         "io.kopia.KopiaUI",
+        "me.timschneeberger.GalaxyBudsClient",
         "net.hovancik.Stretchly",
         "network.loki.Session",
         "nz.mega.MEGAsync",

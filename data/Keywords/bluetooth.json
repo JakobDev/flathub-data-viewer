@@ -1,5 +1,6 @@
 [
     "com.oppzippy.OpenSCQ30",
     "io.emeric.toolblex",
-    "io.emeric.watchflower"
+    "io.emeric.watchflower",
+    "me.timschneeberger.GalaxyBudsClient"
 ]

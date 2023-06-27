@@ -1,4 +1,5 @@
 [
     "io.github.sharkwouter.Minigalaxy",
+    "me.timschneeberger.GalaxyBudsClient",
     "org.freeorion.FreeOrion"
 ]

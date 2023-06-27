@@ -260,6 +260,9 @@
     "org.freedesktop.statusnotifieritem.menu": [
         "io.github.slgobinath.SafeEyes"
     ],
+    "org.bluez.*": [
+        "me.timschneeberger.GalaxyBudsClient"
+    ],
     "org.freedesktop.colormanager": [
         "net.displaycal.DisplayCAL",
         "org.darktable.Darktable",
