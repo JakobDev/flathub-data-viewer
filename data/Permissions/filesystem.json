@@ -3496,11 +3496,6 @@
         "org.freecadweb.FreeCAD",
         "org.horizon_eda.HorizonEDA"
     ],
-    "xdg-data": [
-        "org.chocolate_doom.ChocolateDoom",
-        "org.eyecreate.qiflora",
-        "org.eyecreate.vehiclevoyage"
-    ],
     "xdg-run/org.keepassxc.KeePassXC.BrowserServer": [
         "org.cryptomator.Cryptomator"
     ],
@@ -3512,6 +3507,10 @@
     ],
     "~/.crawl:create": [
         "org.develz.Crawl"
+    ],
+    "xdg-data": [
+        "org.eyecreate.qiflora",
+        "org.eyecreate.vehiclevoyage"
     ],
     "xdg-data/fcitx5:create": [
         "org.fcitx.Fcitx5"
