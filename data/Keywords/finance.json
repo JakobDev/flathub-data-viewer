@@ -1,6 +1,7 @@
 [
     "com.ekonomikas.merkato",
     "fr.free.Homebank",
+    "info.portfolio_performance.PortfolioPerformance",
     "org.moneymanagerex.MMEX",
     "org.nickvision.money"
 ]

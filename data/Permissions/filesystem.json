@@ -558,6 +558,7 @@
         "io.github.NhekoReborn.Nheko",
         "io.github.OpenToonz",
         "io.github.Qalculate.qalculate-qt",
+        "io.github._0xzer0x.qurancompanion",
         "io.github.antimicrox.antimicrox",
         "io.github.bothlab.pomidaq",
         "io.github.bothlab.syntalos",
@@ -644,6 +645,7 @@
         "me.timschneeberger.jdsp4linux",
         "net._86box._86Box",
         "net.codeindustry.MasterPDFEditor",
+        "net.corluma.Corluma",
         "net.davidotek.pupgui2",
         "net.dengine.Doomsday",
         "net.drawpile.drawpile",
@@ -1023,6 +1025,7 @@
         "org.bluesabre.MenuLibre",
         "org.gnome.World.PikaBackup",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "re.sonny.Junction"
     ],
     "xdg-download": [
@@ -1125,6 +1128,7 @@
         "net.baseart.Glide",
         "net.blix.BlueMail",
         "net.blockbench.Blockbench",
+        "net.corluma.Corluma",
         "net.filebot.FileBot",
         "net.jami.Jami",
         "net.kvirc.KVIrc",
@@ -1844,6 +1848,7 @@
         "io.github.hakandundar34coding.system-monitoring-center",
         "io.github.jorchube.monitorets",
         "io.github.kotatogram",
+        "io.github.mmarco94.tambourine",
         "io.github.ripose_jp.Memento",
         "io.github.shiiion.primehack",
         "io.gitlab.floodlight.Presenter",
@@ -1865,6 +1870,7 @@
         "org.mamedev.MAME",
         "org.pegasus_frontend.Pegasus",
         "org.ppsspp.PPSSPP",
+        "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "re.sonny.Junction",
         "ru.sview.sView",
         "space.fips.Fips",
@@ -2230,6 +2236,7 @@
         "com.spotify.Client",
         "com.valvesoftware.Steam",
         "de.shorsh.discord-screenaudio",
+        "dev.aunetx.deezer",
         "fm.cancel.Ripcord",
         "gg.guilded.Guilded",
         "org.gnunet.Messenger",
@@ -2289,6 +2296,7 @@
         "io.github.ilius.pyglossary",
         "io.github.manisandro.gImageReader",
         "io.github.mightycreak.Diffuse",
+        "io.github.mmarco94.tambourine",
         "io.github.mpobaschnig.Vaults",
         "io.gitlab.jstest_gtk.jstest_gtk",
         "net.giuspen.cherrytree",
@@ -2355,6 +2363,7 @@
         "info.olasagasti.revelation",
         "io.github.celluloid_player.Celluloid",
         "io.github.lruzicka.Needly",
+        "io.github.mmarco94.tambourine",
         "io.github.pragha_music_player.pragha",
         "ml.prevete.Daty",
         "net.danigm.timetrack",
@@ -2404,6 +2413,7 @@
         "com.github.neithern.g4music",
         "com.github.optyfr.JRomManager",
         "com.mojang.Minecraft",
+        "dev.aunetx.deezer",
         "io.bassi.Amberol",
         "io.github.Soundux",
         "io.github.nate_xyz.Resonance",
@@ -2438,6 +2448,7 @@
         "com.slack.Slack",
         "com.spotify.Client",
         "com.valvesoftware.Steam",
+        "dev.aunetx.deezer",
         "io.bassi.Amberol",
         "io.github.Soundux",
         "io.github.nate_xyz.Resonance",
@@ -2945,6 +2956,7 @@
         "com.heroicgameslauncher.hgl",
         "io.github.fabrialberio.pinapp",
         "it.mijorus.gearlever",
+        "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "xyz.hyperplay.HyperPlay"
     ],
     "~/Games/Heroic:create": [
@@ -3242,6 +3254,7 @@
         "org.freedesktop.appstream-glib",
         "org.freedesktop.appstream.cli",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "re.sonny.Junction"
     ],
     "~/coyotetm": [
@@ -3744,6 +3757,9 @@
     ],
     "host-etc:ro": [
         "page.codeberg.JakobDev.jdSimpleAutostart"
+    ],
+    "/var/lib/snapd:ro": [
+        "page.codeberg.libre_menu_editor.LibreMenuEditor"
     ],
     "xdg-documents/geobug-tracks:create": [
         "page.codeberg.tpikonen.geobug"

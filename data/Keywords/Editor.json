@@ -18,5 +18,6 @@
     "org.gnome.Gtranslator",
     "org.gnome.Tau",
     "org.gnome.gedit",
-    "org.zim_wiki.Zim"
+    "org.zim_wiki.Zim",
+    "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]

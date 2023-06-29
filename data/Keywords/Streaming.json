@@ -1,6 +1,7 @@
 [
     "com.napster.napster-bigscreen-electron",
     "com.spotify.Client",
+    "dev.aunetx.deezer",
     "fr.romainvigier.zap",
     "io.github.hmlendea.geforcenow-electron",
     "io.github.mandruis7.xbox-cloud-gaming-electron",

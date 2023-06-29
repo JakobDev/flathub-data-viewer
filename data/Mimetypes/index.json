@@ -1576,6 +1576,7 @@
         "x-scheme-handler{SLASH}dashpay",
         "x-scheme-handler{SLASH}ddnet",
         "x-scheme-handler{SLASH}deckr",
+        "x-scheme-handler{SLASH}deezer",
         "x-scheme-handler{SLASH}dict",
         "x-scheme-handler{SLASH}discord-730762985772941312",
         "x-scheme-handler{SLASH}done",

@@ -1,5 +1,6 @@
 [
     "ch.tlaun.TL",
     "com.github.devalien.workspaces",
-    "org.contourterminal.Contour"
+    "org.contourterminal.Contour",
+    "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]

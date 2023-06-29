@@ -310,6 +310,9 @@
     ".config/clash": [
         "io.github.Fndroid.clash_for_windows"
     ],
+    ".qurancompanion": [
+        "io.github._0xzer0x.qurancompanion"
+    ],
     ".ezquake": [
         "io.github.ezQuake"
     ],

@@ -9,6 +9,7 @@
         "com.helix_editor.Helix",
         "com.jetbrains.CLion",
         "com.jetbrains.DataGrip",
+        "com.jetbrains.GoLand",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetbrains.PhpStorm",
@@ -45,7 +46,6 @@
     ],
     "21.08": [
         "com.chez.GrafX2",
-        "com.jetbrains.GoLand",
         "com.okta.developer.CLI",
         "com.sublimemerge.App",
         "com.sublimetext.three",
