@@ -1667,6 +1667,7 @@
         "com.musixmatch.Musixmatch",
         "com.nextcloud.desktopclient.nextcloud",
         "com.nordpass.NordPass",
+        "com.notesnook.Notesnook",
         "com.obsproject.Studio",
         "com.ownrwallet.wallet",
         "com.qq.QQ",
@@ -2413,7 +2414,6 @@
         "net.displaycal.DisplayCAL",
         "net.jami.Jami",
         "net.mullvad.MullvadBrowser",
-        "net.pcsx2.PCSX2",
         "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
         "net.waterfox.waterfox",
@@ -2767,10 +2767,7 @@
         "org.raspberrypi.rpi-imager"
     ],
     "org.kde.statusnotifieritem": [
-        "com.github.gabutakut.gabutdm",
-        "com.hunterwittenborn.Celeste",
-        "com.rtosta.zapzap",
-        "net.hovancik.Stretchly"
+        "com.github.gabutakut.gabutdm"
     ],
     "org.freedesktop.portal.desktop": [
         "com.github.gabutakut.gabutdm"
@@ -2875,15 +2872,6 @@
     "org.freedesktop.portal.trash": [
         "com.neatdecisions.Detwinner"
     ],
-    "org.freedesktop.statusnotifierwatcher": [
-        "com.notesnook.Notesnook",
-        "net.hovancik.Stretchly"
-    ],
-    "org.freedesktop.statusnotifieritem": [
-        "com.notesnook.Notesnook",
-        "io.github.NhekoReborn.Nheko",
-        "net.hovancik.Stretchly"
-    ],
     "org.a11y.bus": [
         "com.obsproject.Studio",
         "com.zhqli.wikit",
@@ -2904,17 +2892,17 @@
     "com.prusa3d.prusaslicer.instancecheck.*": [
         "com.prusa3d.PrusaSlicer"
     ],
-    "com.canonical.unity": [
-        "com.rtosta.zapzap",
-        "io.github.kotatogram",
-        "org.nickvision.tubeconverter",
-        "org.remmina.Remmina"
-    ],
     "org.freedesktop.portal.filechooser": [
         "com.rtosta.zapzap",
         "de.schmidhuberj.Flare",
         "eu.ad5001.LogarithmPlotter",
         "io.github.vikdevelop.SaveDesktop"
+    ],
+    "com.canonical.unity": [
+        "com.rtosta.zapzap",
+        "io.github.kotatogram",
+        "org.nickvision.tubeconverter",
+        "org.remmina.Remmina"
     ],
     "org.gnome.gconf": [
         "com.skype.Client",
@@ -2959,6 +2947,9 @@
     "com.kde.statusnotifierwatcher": [
         "io.enpass.Enpass"
     ],
+    "org.freedesktop.statusnotifieritem": [
+        "io.github.NhekoReborn.Nheko"
+    ],
     "org.kde.*": [
         "io.github.NhekoReborn.Nheko"
     ],
@@ -2999,9 +2990,6 @@
     ],
     "io.github.rinigus.osmscoutserver": [
         "io.github.rinigus.PureMaps"
-    ],
-    "org.kde.statusnotifieritem-2-1": [
-        "io.github.spacingbat3.webcord"
     ],
     "org.kde.ksmserver": [
         "io.github.vikdevelop.SaveDesktop"

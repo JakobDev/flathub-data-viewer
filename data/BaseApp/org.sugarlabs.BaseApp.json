@@ -5,6 +5,7 @@
         "org.sugarlabs.Maze",
         "org.sugarlabs.MusicKeyboard",
         "org.sugarlabs.Sliderule",
+        "org.sugarlabs.StoryActivity",
         "org.sugarlabs.TurtlePondActivity",
         "org.sugarlabs.Words"
     ],
@@ -23,7 +24,6 @@
         "org.sugarlabs.ReadETexts",
         "org.sugarlabs.SolarSystem",
         "org.sugarlabs.Speak",
-        "org.sugarlabs.StoryActivity",
         "org.sugarlabs.SwiftFeet"
     ],
     "21.04": [
