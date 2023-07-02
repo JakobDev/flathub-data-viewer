@@ -19,5 +19,6 @@
     "org.denemo.Denemo",
     "org.gnome.Lollypop",
     "org.gnome.Music",
-    "org.gnome.gitlab.dqpb.GMetronome"
+    "org.gnome.gitlab.dqpb.GMetronome",
+    "org.nickvision.tagger"
 ]

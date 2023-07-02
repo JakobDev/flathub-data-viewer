@@ -1,5 +1,6 @@
 [
     "io.github.dgsasha.Remembrance",
     "io.gitlab.azymohliad.WatchMate",
-    "org.gnome.GTG"
+    "org.gnome.GTG",
+    "org.gnome.gitlab.dqpb.GMetronome"
 ]

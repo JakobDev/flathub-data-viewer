@@ -18,6 +18,7 @@
     "org.gnome.Gtranslator",
     "org.gnome.Tau",
     "org.gnome.gedit",
+    "org.nickvision.tagger",
     "org.zim_wiki.Zim",
     "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]
