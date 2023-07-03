@@ -1,5 +1,6 @@
 [
     "com.raggesilver.BlackBox",
+    "org.kde.konsole",
     "org.kde.qmlkonsole",
     "org.wezfurlong.wezterm"
 ]

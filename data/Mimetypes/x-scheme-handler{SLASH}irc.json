@@ -4,5 +4,6 @@
     "io.github.Hexchat",
     "net.kvirc.KVIrc",
     "org.gnome.Polari",
-    "org.kde.konversation"
+    "org.kde.konversation",
+    "org.squidowl.halloy"
 ]

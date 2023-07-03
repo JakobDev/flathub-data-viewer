@@ -6,6 +6,7 @@
     "dev.boxi.Boxi",
     "org.contourterminal.Contour",
     "org.gnome.moserial",
+    "org.kde.konsole",
     "org.kde.qmlkonsole",
     "org.wezfurlong.wezterm"
 ]

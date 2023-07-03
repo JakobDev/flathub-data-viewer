@@ -93,7 +93,6 @@
         "ml.mdwalters.EightBall",
         "net.baseart.Glide",
         "net.danigm.timetrack",
-        "net.oz9aec.Gpredict",
         "net.sapples.LiveCaptions",
         "nl.g4d.Girens",
         "nl.hjdskes.gcolor3",
@@ -281,6 +280,7 @@
         "de.zwarf.picplanner",
         "dev.Cogitri.Health",
         "dev.alextren.Spot",
+        "dev.bragefuglseth.Fretboard",
         "dev.deedles.Trayscale",
         "dev.geopjr.Collision",
         "dev.geopjr.Tuba",
@@ -388,6 +388,7 @@
         "net.lugsole.bible_gui",
         "net.lutris.Lutris",
         "net.natesales.Aviator",
+        "net.oz9aec.Gpredict",
         "net.poedit.Poedit",
         "nl.brixit.powersupply",
         "nl.openoffice.bluefish",
@@ -524,6 +525,7 @@
         "sa.sy.bluerecorder",
         "se.sjoerd.Graphs",
         "sm.puri.Chatty",
+        "uk.co.mangobrain.Infector",
         "uk.et1.big-finish-downloader",
         "work.openpaper.Paperwork"
     ],
@@ -634,8 +636,7 @@
         "org.sugarlabs.Speak",
         "org.sugarlabs.SwiftFeet",
         "org.tabos.twofun",
-        "page.codeberg.foreverxml.Random",
-        "uk.co.mangobrain.Infector"
+        "page.codeberg.foreverxml.Random"
     ],
     "41": [
         "co.luoja.Telyn",

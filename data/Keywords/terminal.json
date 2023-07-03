@@ -3,6 +3,7 @@
     "com.raggesilver.BlackBox",
     "io.github.zyedidia.micro",
     "org.contourterminal.Contour",
+    "org.kde.konsole",
     "org.kde.qmlkonsole",
     "uk.org.greenend.chiark.sgtatham.putty"
 ]

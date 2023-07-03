@@ -1,5 +1,6 @@
 [
     "com.github.Xenoveritas.abuse",
+    "org.kde.konsole",
     "org.kde.qmlkonsole",
     "org.opensurge2d.OpenSurge"
 ]

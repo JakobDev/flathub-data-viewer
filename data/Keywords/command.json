@@ -1,6 +1,7 @@
 [
     "com.raggesilver.BlackBox",
     "io.github.fsobolev.TimeSwitch",
+    "org.kde.konsole",
     "org.kde.qmlkonsole",
     "org.wezfurlong.wezterm"
 ]

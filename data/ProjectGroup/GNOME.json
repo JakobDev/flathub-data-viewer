@@ -173,6 +173,7 @@
     "org.gnome.Crosswords.PuzzleSets.oedipus",
     "org.gnome.Crosswords.PuzzleSets.pzzl",
     "org.gnome.Crosswords.PuzzleSets.xword-dl",
+    "org.gnome.Evolution.Extension.evolution-etesync",
     "org.gnome.Platform",
     "org.gnome.Sdk",
     "org.gtk.Gtk3theme.Adwaita-dark"

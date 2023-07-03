@@ -8,5 +8,6 @@
     "org.gnome.Polari",
     "org.kde.konversation",
     "org.mozilla.Thunderbird",
-    "org.quassel_irc.QuasselClient"
+    "org.quassel_irc.QuasselClient",
+    "org.squidowl.halloy"
 ]

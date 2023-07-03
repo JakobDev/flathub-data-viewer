@@ -1,6 +1,7 @@
 [
     "com.raggesilver.BlackBox",
     "org.contourterminal.Contour",
+    "org.kde.konsole",
     "org.kde.qmlkonsole",
     "org.wezfurlong.wezterm"
 ]

@@ -7,5 +7,6 @@
     "io.github.Hexchat",
     "net.kvirc.KVIrc",
     "org.gnome.Polari",
+    "org.squidowl.halloy",
     "org.syphon.Syphon"
 ]

@@ -246,6 +246,7 @@
     "org.signal.Signal",
     "org.sparkleshare.SparkleShare",
     "org.squey.Squey",
+    "org.squidowl.halloy",
     "org.syphon.Syphon",
     "org.tabos.banking",
     "org.tabos.maxcontrol",

@@ -58,6 +58,7 @@
     "de.wwwtech.ColorMate",
     "dev.Cogitri.Health",
     "dev.alextren.Spot",
+    "dev.bragefuglseth.Fretboard",
     "dev.edfloreshz.Done",
     "dev.lapce.lapce",
     "dev.zelikos.rollit",
@@ -130,6 +131,7 @@
     "org.sabnzbd.sabnzbd",
     "org.skytemple.Randomizer",
     "org.skytemple.SkyTemple",
+    "org.squidowl.halloy",
     "org.thonny.Thonny",
     "org.wezfurlong.wezterm",
     "org.x.Warpinator",
@@ -138,5 +140,6 @@
     "sh.xaviers.Opentapes",
     "tw.ddnet.ddnet",
     "xyz.dimtpap.coppwr",
-    "xyz.ljoonal.neospeeps"
+    "xyz.ljoonal.neospeeps",
+    "org.gnome.Evolution.Extension.evolution-etesync"
 ]

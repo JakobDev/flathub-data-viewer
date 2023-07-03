@@ -1,5 +1,6 @@
 [
     "io.qt.qtwebkit.BaseApp",
     "org.freedesktop.Sdk.Extension.vala",
+    "org.gnome.Evolution.Extension.evolution-etesync",
     "org.gtk.Gtk3theme.Breeze"
 ]

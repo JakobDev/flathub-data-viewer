@@ -1,4 +1,5 @@
 [
     "io.github.Hexchat",
-    "net.kvirc.KVIrc"
+    "net.kvirc.KVIrc",
+    "org.squidowl.halloy"
 ]
