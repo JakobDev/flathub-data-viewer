@@ -3,6 +3,7 @@
     "com.github.muriloventuroso.easyssh",
     "com.github.ztefn.haguichi",
     "io.gitlab.librewolf-community",
+    "net.mullvad.MullvadBrowser",
     "org.gnome.Polari",
     "org.mozilla.firefox"
 ]

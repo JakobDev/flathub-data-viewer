@@ -1,8 +1,12 @@
 {
     "23.06": [
         "org.sugarlabs.AbacusActivity",
+        "org.sugarlabs.Chart",
+        "org.sugarlabs.ColorDeducto",
         "org.sugarlabs.Finance",
+        "org.sugarlabs.ImplodeActivity",
         "org.sugarlabs.Maze",
+        "org.sugarlabs.Measure",
         "org.sugarlabs.MusicKeyboard",
         "org.sugarlabs.Sliderule",
         "org.sugarlabs.StoryActivity",
@@ -10,14 +14,10 @@
         "org.sugarlabs.Words"
     ],
     "22.06": [
-        "org.sugarlabs.Chart",
         "org.sugarlabs.Chess",
-        "org.sugarlabs.ColorDeducto",
         "org.sugarlabs.Dimensions",
         "org.sugarlabs.FotoToon",
         "org.sugarlabs.FractionBounce",
-        "org.sugarlabs.ImplodeActivity",
-        "org.sugarlabs.Measure",
         "org.sugarlabs.Memorize",
         "org.sugarlabs.Paint",
         "org.sugarlabs.Pukllanapac",

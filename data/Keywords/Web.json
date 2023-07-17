@@ -2,5 +2,6 @@
     "com.belmoussaoui.ReadItLater",
     "com.pinegrow.Pinegrow",
     "io.gitlab.librewolf-community",
+    "net.mullvad.MullvadBrowser",
     "org.mozilla.firefox"
 ]

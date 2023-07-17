@@ -14,7 +14,9 @@
     "mild": [
         "com.github.HypatiaProject.hypatia",
         "com.github.corna.Vivado",
+        "io.github.anirbandey1.ChatbotClient",
         "io.itch.itch",
+        "org.alienarena.alienarena",
         "org.gnome.Lollypop"
     ],
     "none": [

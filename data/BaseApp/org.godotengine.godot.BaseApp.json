@@ -5,6 +5,7 @@
     ],
     "3.5": [
         "com.orama_interactive.Pixelorama",
+        "dev.stewlab.PortaWar",
         "io.github.RodZill4.Material-Maker",
         "io.github.pastthepixels.InfiniteShooter",
         "page.codeberg.yeldham.Librerama"

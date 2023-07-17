@@ -19,6 +19,7 @@
         "com.jetbrains.RubyMine",
         "com.jetbrains.WebStorm",
         "com.pinegrow.Pinegrow",
+        "com.synology.SynologyAssistant",
         "com.synology.SynologyDrive",
         "com.visualstudio.code-oss",
         "com.visualstudio.code",
@@ -50,7 +51,6 @@
         "com.sublimemerge.App",
         "com.sublimetext.three",
         "com.synology.CloudStationBackup",
-        "com.synology.SynologyAssistant",
         "com.unity.UnityHub",
         "io.stoplight.studio"
     ],

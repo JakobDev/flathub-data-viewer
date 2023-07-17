@@ -1,5 +1,6 @@
 [
     "com.obsproject.Studio.Plugin.BackgroundRemoval",
+    "com.obsproject.Studio.Plugin.DroidCam",
     "com.obsproject.Studio.Plugin.GStreamerVaapi",
     "com.obsproject.Studio.Plugin.Gstreamer",
     "com.obsproject.Studio.Plugin.InputOverlay",

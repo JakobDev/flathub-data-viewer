@@ -34,5 +34,6 @@
     "org.texstudio.TeXstudio",
     "org.tug.texworks",
     "org.vim.Vim",
-    "org.wxhexeditor.wxHexEditor"
+    "org.wxhexeditor.wxHexEditor",
+    "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]

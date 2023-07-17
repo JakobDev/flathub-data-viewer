@@ -4,14 +4,14 @@
         "com.gitlab.cutecom.cutecom",
         "io.qt.QtCreator"
     ],
-    "6.5": [
-        "com.gitlab.JakobDev.jdTextEdit",
-        "io.qt.Designer",
-        "io.qt.Linguist",
-        "io.qt.qdbusviewer"
-    ],
     "5.15": [
         "io.github.dman95.SASM"
+    ],
+    "6.5": [
+        "io.qt.Designer",
+        "io.qt.Linguist",
+        "io.qt.qdbusviewer",
+        "page.codeberg.JakobDev.jdTextEdit"
     ],
     "5.15-22.08": [
         "org.kde.kcachegrind",

@@ -1,6 +1,7 @@
 [
     "de.create3000.titania",
     "io.gitlab.librewolf-community",
+    "net.mullvad.MullvadBrowser",
     "org.contourterminal.Contour",
     "org.mozilla.firefox",
     "org.qutebrowser.qutebrowser"

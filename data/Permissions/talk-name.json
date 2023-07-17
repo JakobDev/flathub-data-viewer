@@ -16,6 +16,7 @@
         "com.brave.Browser",
         "com.doycho.euterpe.gtk",
         "com.github.Eloston.UngoogledChromium",
+        "com.github.KRTirtho.Spotube",
         "com.github.Murmele.Gittyup",
         "com.github.alecaddd.sequeler",
         "com.github.emmanueltouzery.projectpad",
@@ -195,7 +196,6 @@
         "com.github.vkohaupt.vokoscreenNG",
         "com.github.zocker_160.SyncThingy",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
-        "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.Murmele.UDPLogger",
         "com.gitlab.coringao.JAG",
         "com.gitlab.cutecom.cutecom",
@@ -320,6 +320,7 @@
         "io.github.jonmagon.kdiskmark",
         "io.github.jordanl2.ModularCalculator",
         "io.github.jtdx_project.JTDX",
+        "io.github.kalaksi.Lightkeeper",
         "io.github.kotatogram",
         "io.github.labsquare.CutePeaks",
         "io.github.liberodark.OpenDrive",
@@ -744,6 +745,7 @@
         "page.codeberg.JakobDev.jdNBTExplorer",
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
+        "page.codeberg.JakobDev.jdTextEdit",
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
         "ru.yandex.Browser",
@@ -871,6 +873,7 @@
         "io.github.jonmagon.kdiskmark",
         "io.github.jordanl2.ModularCalculator",
         "io.github.jtdx_project.JTDX",
+        "io.github.kalaksi.Lightkeeper",
         "io.github.labsquare.CutePeaks",
         "io.github.libvibrant.vibrantLinux",
         "io.github.markummitchell.Engauge_Digitizer",
@@ -1281,6 +1284,7 @@
         "io.github.jonmagon.kdiskmark",
         "io.github.jordanl2.ModularCalculator",
         "io.github.jtdx_project.JTDX",
+        "io.github.kalaksi.Lightkeeper",
         "io.github.labsquare.CutePeaks",
         "io.github.martinrotter.rssguard",
         "io.github.martinrotter.rssguardlite",
@@ -1646,6 +1650,7 @@
         "com.getmailspring.Mailspring",
         "com.gigitux.youp",
         "com.github.IsmaelMartinez.teams_for_linux",
+        "com.github.KRTirtho.Spotube",
         "com.github.Qv2ray",
         "com.github.bajoja.indicator-kdeconnect",
         "com.github.debauchee.barrier",
@@ -1713,12 +1718,14 @@
         "io.gdevelop.ide",
         "io.github.Fndroid.clash_for_windows",
         "io.github.Icalingua.Icalingua",
+        "io.github.NhekoReborn.Nheko",
         "io.github.Pithos",
         "io.github._0xzer0x.qurancompanion",
         "io.github.aandrew_me.ytdn",
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.antimicrox.antimicrox",
         "io.github.dweymouth.supersonic",
+        "io.github.hydrusnetwork.hydrus",
         "io.github.jeffshee.Hidamari",
         "io.github.kotatogram",
         "io.github.liberodark.OpenDrive",
@@ -1955,7 +1962,6 @@
         "dev.vieb.Vieb",
         "edu.mit.Scratch",
         "edu.stanford.Almond",
-        "eu.betterbird.Betterbird",
         "gg.guilded.Guilded",
         "im.dino.Dino",
         "im.fluffychat.Fluffychat",
@@ -1995,6 +2001,7 @@
         "io.github.martinrotter.rssguard",
         "io.github.martinrotter.rssguardlite",
         "io.github.mimbrero.WhatsAppDesktop",
+        "io.github.onionware_github.onionmedia",
         "io.github.openWMail.openWMail",
         "io.github.orontee.Argos",
         "io.github.peazip.PeaZip",
@@ -2283,7 +2290,6 @@
         "com.github.liferooter.textpieces",
         "com.github.theCalcaholic.StreamDeck",
         "com.github.ztefn.haguichi",
-        "com.gitlab.JakobDev.jdTextEdit",
         "com.gitlab.cunidev.Gestures",
         "com.gitlab.librebob.Athenaeum",
         "com.google.AndroidStudio",
@@ -2339,6 +2345,7 @@
         "io.github.shiftey.Desktop",
         "io.github.zyedidia.micro",
         "io.howl.Editor",
+        "io.missioncenter.MissionCenter",
         "io.podman_desktop.PodmanDesktop",
         "io.stoplight.studio",
         "it.mijorus.gearlever",
@@ -2373,6 +2380,7 @@
         "org.zim_wiki.Zim",
         "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.JakobDev.jdTextEdit",
         "re.sonny.Junction"
     ],
     "org.freedesktop.powermanagement.inhibit": [
@@ -2421,6 +2429,7 @@
         "net.displaycal.DisplayCAL",
         "net.jami.Jami",
         "net.mullvad.MullvadBrowser",
+        "net.pcsx2.PCSX2",
         "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
         "net.waterfox.waterfox",
@@ -2874,6 +2883,7 @@
     "org.gnome.shell.extensions": [
         "com.mattjakeman.ExtensionManager",
         "io.github.jeffshee.Hidamari",
+        "it.mijorus.smile",
         "org.gnome.Extensions"
     ],
     "org.freedesktop.portal.trash": [
@@ -2954,12 +2964,6 @@
     "com.kde.statusnotifierwatcher": [
         "io.enpass.Enpass"
     ],
-    "org.freedesktop.statusnotifieritem": [
-        "io.github.NhekoReborn.Nheko"
-    ],
-    "org.kde.*": [
-        "io.github.NhekoReborn.Nheko"
-    ],
     "org.freedesktop.filemanager1.*": [
         "io.github.ihhub.Fheroes2"
     ],
@@ -3001,8 +3005,18 @@
     "org.kde.ksmserver": [
         "io.github.vikdevelop.SaveDesktop"
     ],
+    "org.gnome.settings": [
+        "io.missioncenter.MissionCenter",
+        "org.gnome.Boxes",
+        "org.gnome.Calendar",
+        "org.gnome.Contacts",
+        "org.gnome.Music"
+    ],
     "org.freedesktop.portal.openfile": [
         "it.mijorus.gearlever"
+    ],
+    "it.mijorus.smile": [
+        "it.mijorus.smile"
     ],
     "org.gnome.mutter.displayconfig": [
         "net.displaycal.DisplayCAL",
@@ -3034,12 +3048,6 @@
         "org.gnome.Geary",
         "org.gnome.Music",
         "org.gnome.Photos"
-    ],
-    "org.gnome.settings": [
-        "org.gnome.Boxes",
-        "org.gnome.Calendar",
-        "org.gnome.Contacts",
-        "org.gnome.Music"
     ],
     "org.freedesktop.packagekit": [
         "org.gnome.Builder"

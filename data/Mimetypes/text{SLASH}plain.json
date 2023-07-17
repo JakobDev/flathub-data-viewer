@@ -6,7 +6,6 @@
     "com.github.ilai_deutel.kibi",
     "com.github.liferooter.textpieces",
     "com.github.tenderowl.norka",
-    "com.gitlab.JakobDev.jdTextEdit",
     "com.helix_editor.Helix",
     "com.notepadqq.Notepadqq",
     "com.sublimemerge.App",
@@ -46,5 +45,6 @@
     "org.vim.Vim",
     "org.xfce.mousepad",
     "org.zotero.Zotero",
+    "page.codeberg.JakobDev.jdTextEdit",
     "rocks.koreader.KOReader"
 ]

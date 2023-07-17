@@ -1,4 +1,5 @@
 [
     "io.gitlab.librewolf-community",
+    "net.mullvad.MullvadBrowser",
     "org.mozilla.firefox"
 ]

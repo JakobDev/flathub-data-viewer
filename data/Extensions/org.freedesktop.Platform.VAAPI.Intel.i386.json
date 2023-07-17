@@ -2,6 +2,7 @@
     "com.heroicgameslauncher.hgl",
     "com.valvesoftware.Steam",
     "io.github.sharkwouter.Minigalaxy",
+    "org.winehq.Wine",
     "ua.org.brezblock.q4wine",
     "xyz.hyperplay.HyperPlay"
 ]

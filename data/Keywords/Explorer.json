@@ -1,5 +1,6 @@
 [
     "io.gitlab.librewolf-community",
+    "net.mullvad.MullvadBrowser",
     "org.contourterminal.Contour",
     "org.kde.dolphin",
     "org.mozilla.firefox"

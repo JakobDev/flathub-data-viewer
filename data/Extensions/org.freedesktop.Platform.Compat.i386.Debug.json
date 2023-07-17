@@ -10,5 +10,6 @@
     "io.github.noxworld_dev.OpenNox",
     "io.itch.itch",
     "org.phoenicis.playonlinux",
+    "org.winehq.Wine",
     "xyz.hyperplay.HyperPlay"
 ]

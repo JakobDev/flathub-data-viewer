@@ -5,6 +5,7 @@
     "org.freedesktop.networkmanager": [
         "app.bluebubbles.BlueBubbles",
         "com.borgbase.Vorta",
+        "com.github.KRTirtho.Spotube",
         "com.github.Matoking.protontricks",
         "com.github.gabutakut.gabutdm",
         "com.github.jkotra.eovpn",
@@ -13,6 +14,7 @@
         "de.akaflieg_freiburg.enroute",
         "io.github.prateekmedia.pstube",
         "io.gitlab.librewolf-community",
+        "io.missioncenter.MissionCenter",
         "net.mullvad.MullvadBrowser",
         "one.ablaze.floorp",
         "org.claws_mail.Claws-Mail",
@@ -22,6 +24,7 @@
         "org.localsend.localsend_app",
         "org.mozilla.firefox",
         "org.syphon.Syphon",
+        "org.winehq.Wine",
         "ru.proninyaroslav.libretrack",
         "ua.org.brezblock.q4wine"
     ],
@@ -31,7 +34,6 @@
     ],
     "org.freedesktop.login1": [
         "app.drey.Warp",
-        "com.anydesk.Anydesk",
         "com.github.iwalton3.jellyfin-media-player",
         "com.github.taiko2k.tauonmb",
         "com.github.vikdevelop.timer",
@@ -106,6 +108,7 @@
         "org.sil.FieldWorks",
         "org.strawberrymusicplayer.strawberry",
         "org.thonny.Thonny",
+        "org.winehq.Wine",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
     ],
@@ -260,6 +263,10 @@
     "org.freedesktop.statusnotifieritem.menu": [
         "io.github.slgobinath.SafeEyes"
     ],
+    "org.freedesktop.systemd1": [
+        "io.missioncenter.MissionCenter",
+        "org.easycoding.TunedSwitcher"
+    ],
     "org.bluez.*": [
         "me.timschneeberger.GalaxyBudsClient"
     ],
@@ -270,9 +277,6 @@
         "org.kde.krita"
     ],
     "com.redhat.tuned": [
-        "org.easycoding.TunedSwitcher"
-    ],
-    "org.freedesktop.systemd1": [
         "org.easycoding.TunedSwitcher"
     ],
     "org.freedesktop.ratbag1": [

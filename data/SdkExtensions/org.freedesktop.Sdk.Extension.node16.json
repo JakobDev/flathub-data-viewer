@@ -1,9 +1,7 @@
 [
     "app.moosync.moosync",
     "app.ytmdesktop.ytmdesktop",
-    "ch.threema.threema-web-desktop",
     "com.boxy_svg.BoxySVG",
-    "com.dangeredwolf.ModernDeck",
     "com.getmailspring.Mailspring",
     "com.github.Eloston.UngoogledChromium",
     "com.github.birros.WebArchives",
@@ -26,7 +24,6 @@
     "io.github.martinrotter.rssguardlite",
     "io.github.mrmyhuang.cbetar2",
     "io.github.neil_morrison44.pocket-sync",
-    "io.github.shiftey.Desktop",
     "io.github.vemonet.EmojiMart",
     "io.podman_desktop.PodmanDesktop",
     "net.biniou.LeBiniou",

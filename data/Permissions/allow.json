@@ -30,6 +30,7 @@
         "org.kde.kdevelop",
         "org.mozilla.firefox",
         "org.squey.Squey",
+        "org.winehq.Wine",
         "pm.mirko.Atoms",
         "re.rizin.cutter",
         "ua.org.brezblock.q4wine",
@@ -67,6 +68,7 @@
         "org.firestormviewer.FirestormViewer",
         "org.libretro.RetroArch",
         "org.phoenicis.playonlinux",
+        "org.winehq.Wine",
         "ua.org.brezblock.q4wine",
         "xyz.hyperplay.HyperPlay"
     ],

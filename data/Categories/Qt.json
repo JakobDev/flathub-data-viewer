@@ -1,7 +1,6 @@
 [
     "ca.parallel_launcher.ParallelLauncher",
     "com.github.Rosalie241.RMG",
-    "com.gitlab.JakobDev.jdTextEdit",
     "com.moonlight_stream.Moonlight",
     "com.nitrokey.nitrokey-app",
     "eu.ad5001.LogarithmPlotter",
@@ -49,5 +48,6 @@
     "page.codeberg.JakobDev.jdNBTExplorer",
     "page.codeberg.JakobDev.jdReplace",
     "page.codeberg.JakobDev.jdSimpleAutostart",
+    "page.codeberg.JakobDev.jdTextEdit",
     "xyz.mx_moment.moment"
 ]

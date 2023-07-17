@@ -23,7 +23,6 @@
     "org.freedesktop.Sdk.Extension.texlive",
     "org.freedesktop.Sdk.Extension.ziglang",
     "org.freedesktop.Sdk",
-    "org.gnome.Evolution.Extension.evolution-etesync",
     "org.gnome.Platform",
     "org.gnome.Sdk",
     "org.gtk.Gtk3theme.Adapta-Brila-Eta",

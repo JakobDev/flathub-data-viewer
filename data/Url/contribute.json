@@ -65,5 +65,6 @@
     "pm.mirko.Atoms",
     "rocks.koreader.KOReader",
     "tv.kodi.Kodi",
-    "xyz.dimtpap.coppwr"
+    "xyz.dimtpap.coppwr",
+    "org.radare.iaito.translations"
 ]

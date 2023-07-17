@@ -40,8 +40,7 @@
     ],
     "6.3": [
         "com.github.jmlich.geotagging",
-        "io.mrarm.mcpelauncher",
-        "org.jaspstats.JASP"
+        "io.mrarm.mcpelauncher"
     ],
     "5.15": [
         "com.wiz.Note",
@@ -50,5 +49,8 @@
     ],
     "6.2": [
         "dev.lukebriggs.pepys"
+    ],
+    "6.4": [
+        "org.jaspstats.JASP"
     ]
 }

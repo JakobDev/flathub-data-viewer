@@ -11,6 +11,7 @@
     "io.gitlab.librewolf-community",
     "io.wavebox.Wavebox",
     "ml.prevete.Daty",
+    "net.mullvad.MullvadBrowser",
     "net.waterfox.waterfox",
     "one.ablaze.floorp",
     "org.chromium.Chromium",

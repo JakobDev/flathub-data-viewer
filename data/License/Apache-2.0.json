@@ -49,7 +49,9 @@
     "org.raspberrypi.rpi-imager",
     "org.zaproxy.ZAP",
     "org.zulip.Zulip",
+    "page.codeberg.JakobDev.CCLite",
     "radio.k0swe.Kel_Agent",
     "com.visualstudio.code.tool.podman",
+    "org.apache.jmeter.Help",
     "org.freedesktop.Sdk.Extension.bazel"
 ]

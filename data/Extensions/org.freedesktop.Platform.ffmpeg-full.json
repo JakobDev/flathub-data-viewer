@@ -9,6 +9,7 @@
     "com.parsecgaming.parsec",
     "com.sayonara_player.Sayonara",
     "com.scoutshonour.dtipbijays",
+    "com.thincast.client",
     "com.usebottles.bottles",
     "com.valvesoftware.Steam",
     "de.create3000.titania",
@@ -53,6 +54,7 @@
     "org.remmina.Remmina",
     "org.ryujinx.Ryujinx",
     "org.sdrangel.SDRangel",
+    "org.winehq.Wine",
     "re.chiaki.Chiaki",
     "ru.sview.sView",
     "ua.org.brezblock.q4wine"

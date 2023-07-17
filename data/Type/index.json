@@ -6,6 +6,7 @@
         "desktop",
         "desktop-application",
         "generic",
+        "localization",
         "runtime"
     ],
     "dataNames": {}

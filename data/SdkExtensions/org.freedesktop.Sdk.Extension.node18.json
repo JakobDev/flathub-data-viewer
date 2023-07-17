@@ -1,5 +1,6 @@
 [
     "camp.nook.nookdesktop",
+    "ch.threema.threema-web-desktop",
     "chat.revolt.RevoltDesktop",
     "com.github.vikdevelop.photopea_app",
     "com.logseq.Logseq",
@@ -12,6 +13,7 @@
     "io.github.dtsudo.TuxPlanetSpeedrunAnyPercent",
     "io.github.foxxmd.multiscrobbler",
     "io.github.lunarequest.NightPDF",
+    "io.github.shiftey.Desktop",
     "io.qt.qtwebengine.BaseApp",
     "me.acristoffers.Lachesis",
     "moe.karaokes.mugen",

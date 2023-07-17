@@ -3,5 +3,6 @@
     "es.estoes.wallpaperDownloader",
     "io.botfather.Botfather",
     "io.github.webcamoid.Webcamoid",
-    "org.gnome.Connections"
+    "org.gnome.Connections",
+    "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]
