@@ -1,6 +1,7 @@
 [
     "org.freedesktop.Platform.VulkanLayer.MangoHud",
     "org.freedesktop.Platform.VulkanLayer.OBSVkCapture",
+    "org.freedesktop.Platform.VulkanLayer.gamescope",
     "org.freedesktop.Platform.VulkanLayer.vkBasalt",
     "org.freedesktop.Platform.openh264"
 ]

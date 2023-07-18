@@ -368,6 +368,12 @@
     ".config/KVIrc": [
         "net.kvirc.KVIrc"
     ],
+    ".local/share/freeciv21": [
+        "net.longturn.freeciv21"
+    ],
+    ".config/freeciv21": [
+        "net.longturn.freeciv21"
+    ],
     ".mullvad": [
         "net.mullvad.MullvadBrowser"
     ],

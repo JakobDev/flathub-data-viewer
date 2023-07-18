@@ -1588,6 +1588,7 @@
         "x-scheme-handler{SLASH}enpassstart",
         "x-scheme-handler{SLASH}et",
         "x-scheme-handler{SLASH}ethereum",
+        "x-scheme-handler{SLASH}fc21",
         "x-scheme-handler{SLASH}feed",
         "x-scheme-handler{SLASH}ferdium",
         "x-scheme-handler{SLASH}figma",
