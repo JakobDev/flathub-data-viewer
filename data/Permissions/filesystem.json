@@ -612,6 +612,7 @@
         "io.github.shiiion.primehack",
         "io.github.simple64.simple64",
         "io.github.sithlord48.blackchocobo",
+        "io.github.streetpea.Chiaki4deck",
         "io.github.tcobbs.LDView",
         "io.github.technic.e2designer",
         "io.github.torrent_file_editor.Torrent-file-editor",
@@ -1605,6 +1606,7 @@
         "ua.org.brezblock.q4wine",
         "uk.org.greenend.chiark.sgtatham.puzzles",
         "uk.org.zint.zint-qt",
+        "us.ihmc.cmap.CmapTools",
         "xyz.hyperplay.HyperPlay"
     ],
     "xdg-music": [
@@ -1918,6 +1920,7 @@
         "io.github.gillesdegottex.FMIT",
         "io.github.kotatogram",
         "io.github.muse_sequencer.Muse",
+        "io.github.streetpea.Chiaki4deck",
         "io.gitlab.librewolf-community",
         "io.jamulus.Jamulus",
         "io.lmms.LMMS",

@@ -76,6 +76,7 @@
     "org.bionus.Grabber",
     "org.blackfennec.app",
     "org.deidentifier.arx",
+    "org.diasurgical.DevilutionX",
     "org.expresslrs.ExpressLRSConfigurator",
     "org.featherwallet.Feather",
     "org.fkoehler.KTailctl",

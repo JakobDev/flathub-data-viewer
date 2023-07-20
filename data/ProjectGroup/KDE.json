@@ -6,6 +6,7 @@
     "io.github.qnapi",
     "io.qt.qtwebengine.BaseApp",
     "io.qt.qtwebkit.BaseApp",
+    "org.diasurgical.DevilutionX",
     "org.frescobaldi.Frescobaldi",
     "org.kde.Ikona",
     "org.kde.akregator",

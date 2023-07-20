@@ -275,6 +275,7 @@
         "org.syphon.Syphon",
         "org.telegram",
         "se.manyver.Manyverse",
+        "us.ihmc.cmap.CmapTools",
         "xyz.armcord.ArmCord",
         "xyz.diamondb.gtkcord4"
     ]

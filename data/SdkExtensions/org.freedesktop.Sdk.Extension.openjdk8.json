@@ -7,5 +7,6 @@
     "org.polymc.PolyMC",
     "org.prismlauncher.PrismLauncher",
     "page.codeberg.JakobDev.jdMinecraftLauncher",
+    "us.ihmc.cmap.CmapTools",
     "org.videolan.VLC.Plugin.bdj"
 ]

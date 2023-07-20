@@ -668,6 +668,7 @@
         "org.denemo.Denemo",
         "org.develz.Crawl",
         "org.dhewm3.Dhewm3",
+        "org.diasurgical.DevilutionX",
         "org.eu.wabarc.wayback",
         "org.exaile.Exaile",
         "org.expresslrs.ExpressLRSConfigurator",
@@ -691,6 +692,7 @@
         "org.getoutline.OutlineClient",
         "org.getoutline.OutlineManager",
         "org.getzola.zola",
+        "org.gnome.Tomboy",
         "org.gnupg.GPA",
         "org.godotengine.Godot",
         "org.godotengine.Godot3",
@@ -810,6 +812,7 @@
         "uk.co.powdertoy.tpt",
         "uk.me.doof.Lander",
         "uk.org.greenend.chiark.sgtatham.puzzles",
+        "us.ihmc.cmap.CmapTools",
         "us.zoom.Zoom",
         "vet.rsc.OpenRSC.Launcher",
         "ws.openarena.OpenArena",
@@ -882,8 +885,7 @@
     "18.08": [
         "au.edu.uq.esys.escript",
         "com.abagames.noiz2sa",
-        "io.github.openWMail.openWMail",
-        "org.gnome.Tomboy"
+        "io.github.openWMail.openWMail"
     ],
     "19.08": [
         "com.github.matfantinel.moneta",

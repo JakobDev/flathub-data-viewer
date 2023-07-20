@@ -648,6 +648,9 @@
     ".putty": [
         "uk.org.greenend.chiark.sgtatham.putty"
     ],
+    ".cmaptools": [
+        "us.ihmc.cmap.CmapTools"
+    ],
     ".python-eggs": [
         "work.openpaper.Paperwork"
     ],
