@@ -263,6 +263,9 @@
     ".k8slens": [
         "dev.k8slens.OpenLens"
     ],
+    ".pulsar": [
+        "dev.pulsar_edit.Pulsar"
+    ],
     "Tonbrett": [
         "dev.schlaubi.Tonbrett"
     ],
