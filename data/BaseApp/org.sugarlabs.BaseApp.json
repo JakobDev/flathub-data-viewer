@@ -2,9 +2,11 @@
     "23.06": [
         "org.sugarlabs.AbacusActivity",
         "org.sugarlabs.Chart",
+        "org.sugarlabs.Chess",
         "org.sugarlabs.ColorDeducto",
         "org.sugarlabs.Finance",
         "org.sugarlabs.FotoToon",
+        "org.sugarlabs.FractionBounce",
         "org.sugarlabs.ImplodeActivity",
         "org.sugarlabs.Maze",
         "org.sugarlabs.Measure",
@@ -16,9 +18,7 @@
         "org.sugarlabs.Words"
     ],
     "22.06": [
-        "org.sugarlabs.Chess",
         "org.sugarlabs.Dimensions",
-        "org.sugarlabs.FractionBounce",
         "org.sugarlabs.Memorize",
         "org.sugarlabs.Paint",
         "org.sugarlabs.ReadETexts",
