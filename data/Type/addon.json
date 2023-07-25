@@ -259,6 +259,7 @@
     "org.freedesktop.LinuxAudio.Plugins.sfizz",
     "org.freedesktop.LinuxAudio.Plugins.swh",
     "org.freedesktop.LinuxAudio.Plugins.x42Plugins",
+    "org.freedesktop.Platform.GStreamer.openmpt",
     "org.freedesktop.Platform.VulkanLayer.MangoHud",
     "org.freedesktop.Platform.VulkanLayer.OBSVkCapture",
     "org.freedesktop.Platform.VulkanLayer.gamescope",

@@ -24,6 +24,7 @@
         "org.fcitx.Fcitx5",
         "org.freedesktop.LinuxAudio.BaseExtension",
         "org.freedesktop.Platform",
+        "org.freedesktop.Platform.GStreamer",
         "org.freedesktop.Sdk",
         "org.gajim.Gajim",
         "org.gimp.GIMP",

@@ -23,6 +23,7 @@
     "org.goldcoinproject.goldcoin-qt",
     "org.groestlcoin.electrum-grs",
     "org.groestlcoin.groestlcoin-qt",
+    "org.kde.kmymoney",
     "org.kde.skrooge",
     "org.moneymanagerex.MMEX",
     "org.nickvision.money",

@@ -1,5 +1,6 @@
 [
     "ch.theologeek.Manuskript",
+    "io.github.brainstormtrooper.facteur",
     "net.sourceforge.osmo",
     "org.gnome.glabels-3"
 ]

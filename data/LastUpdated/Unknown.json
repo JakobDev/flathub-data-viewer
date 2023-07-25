@@ -189,6 +189,7 @@
     "org.bitbucket.mystery_keeper.VapourSynthEditor.Plugin.FFMS2",
     "org.blackfennec.app.extensions.base",
     "org.blackfennec.app.extensions.core",
+    "org.freedesktop.Platform.GStreamer.openmpt",
     "org.freedesktop.Sdk.Extension.dotnet",
     "org.freedesktop.Sdk.Extension.dotnet5",
     "org.freedesktop.Sdk.Extension.openjdk11",

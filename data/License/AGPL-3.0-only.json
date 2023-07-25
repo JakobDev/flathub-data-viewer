@@ -17,6 +17,7 @@
     "io.github.streetpea.Chiaki4deck",
     "io.github.unicornyrainbow.secrets",
     "network.bisq.Bisq",
+    "org.americanmonk.TipitakaPaliReader",
     "org.briarproject.Briar",
     "org.onlyoffice.desktopeditors",
     "org.signal.Signal",
