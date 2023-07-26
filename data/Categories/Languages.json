@@ -1,7 +1,6 @@
 [
     "app.getspace.Space",
     "io.github.ripose_jp.Memento",
-    "io.github.xiayifang.goldendict_ng",
     "net.ankiweb.Anki",
     "org.kde.artikulate",
     "org.kde.kanagram",
