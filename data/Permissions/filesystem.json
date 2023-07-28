@@ -536,6 +536,7 @@
         "de.shorsh.discord-screenaudio",
         "de.syping.gta5view",
         "de.unifreiburg.ellipticcurve",
+        "dev.levz.TinyImageFinder",
         "dev.lukebriggs.pepys",
         "edu.princeton.physics.WSJTX",
         "eu.ad5001.LogarithmPlotter",
@@ -584,6 +585,7 @@
         "io.github.jonmagon.kdiskmark",
         "io.github.jordanl2.ModularCalculator",
         "io.github.jtdx_project.JTDX",
+        "io.github.julian_hochhaus.LG4X_V2",
         "io.github.kalaksi.Lightkeeper",
         "io.github.labsquare.CutePeaks",
         "io.github.libvibrant.vibrantLinux",
@@ -622,6 +624,7 @@
         "io.github.wereturtle.ghostwriter",
         "io.github.wh201906.serialtest",
         "io.github.xaos_project.XaoS",
+        "io.github.xiaoyifang.goldendict_ng",
         "io.github.zaps166.QMPlay2",
         "io.gitlab.coolreader_ng.crqt-ng",
         "io.gitlab.evtest_qt.evtest_qt",
@@ -842,6 +845,7 @@
         "org.kde.kmines",
         "org.kde.kmplayer",
         "org.kde.kmplot",
+        "org.kde.kmymoney",
         "org.kde.knavalbattle",
         "org.kde.knetwalk",
         "org.kde.knights",
@@ -992,6 +996,7 @@
         "page.codeberg.JakobDev.jdMinecraftLauncher",
         "page.codeberg.JakobDev.jdMrpackInstaller",
         "page.codeberg.JakobDev.jdNBTExplorer",
+        "page.codeberg.JakobDev.jdPixelUpscaler",
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
         "page.codeberg.JakobDev.jdTextEdit",
@@ -1101,6 +1106,7 @@
         "com.viber.Viber",
         "com.wps.Office",
         "com.xunlei.Thunder",
+        "com.zquestclassic.ZQuest",
         "de.schmidhuberj.tubefeeder",
         "de.shorsh.discord-screenaudio",
         "dev.vieb.Vieb",
@@ -1544,6 +1550,7 @@
         "com.wiz.Note",
         "com.wps.Office",
         "com.zettlr.Zettlr",
+        "com.zquestclassic.ZQuest",
         "de.halaszovich.PMbrowser",
         "dev.storyapps.starc",
         "dev.vieb.Vieb",
@@ -1856,6 +1863,7 @@
         "com.github.joseexposito.touche",
         "com.tutanota.Tutanota",
         "com.virustotal.VirusTotalUploader",
+        "dev.levz.TinyImageFinder",
         "hu.kramo.Cartridges",
         "info.cemu.Cemu",
         "io.github.hakandundar34coding.system-monitoring-center",
@@ -3215,12 +3223,15 @@
     "~/Games": [
         "gg.minion.Minion"
     ],
+    "~/.var/app/com.heroicgameslauncher.hgl/config/legendary:ro": [
+        "hu.kramo.Cartridges"
+    ],
+    "~/.var/app/com.usebottles.bottles/data/bottles:ro": [
+        "hu.kramo.Cartridges"
+    ],
     "~/.var/app/net.lutris.Lutris:ro": [
         "hu.kramo.Cartridges",
         "io.github.philipk.boilr"
-    ],
-    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic:ro": [
-        "hu.kramo.Cartridges"
     ],
     "/var/lib/flatpak:ro": [
         "hu.kramo.Cartridges",
@@ -3232,13 +3243,13 @@
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "re.sonny.Junction"
     ],
-    "~/.var/app/com.valvesoftware.Steam/data/Steam:ro": [
-        "hu.kramo.Cartridges"
-    ],
-    "~/.var/app/com.usebottles.bottles/data/bottles:ro": [
+    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic:ro": [
         "hu.kramo.Cartridges"
     ],
     "~/.var/app/io.itch.itch/config/itch:ro": [
+        "hu.kramo.Cartridges"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/data/Steam:ro": [
         "hu.kramo.Cartridges"
     ],
     "xdg-run/app/com.discordapp.Discord:ro": [

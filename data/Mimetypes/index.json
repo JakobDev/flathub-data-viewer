@@ -415,6 +415,7 @@
         "application{SLASH}x-extension-ics",
         "application{SLASH}x-extension-m4a",
         "application{SLASH}x-extension-mp4",
+        "application{SLASH}x-fctm",
         "application{SLASH}x-femtoscan-spm",
         "application{SLASH}x-femtoscan-txt",
         "application{SLASH}x-ff7PCSave",

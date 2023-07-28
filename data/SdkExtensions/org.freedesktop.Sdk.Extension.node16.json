@@ -1,7 +1,6 @@
 [
     "app.moosync.moosync",
     "app.ytmdesktop.ytmdesktop",
-    "com.boxy_svg.BoxySVG",
     "com.getmailspring.Mailspring",
     "com.github.Eloston.UngoogledChromium",
     "com.github.birros.WebArchives",
@@ -30,7 +29,6 @@
     "org.bionus.Grabber",
     "org.chromium.Chromium",
     "org.expresslrs.ExpressLRSConfigurator",
-    "org.mozilla.Thunderbird",
     "org.sil.Bloom",
     "org.zulip.Zulip",
     "sh.xaviers.Opentapes",

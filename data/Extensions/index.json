@@ -26,6 +26,7 @@
         "org.freedesktop.Platform.Compat.i386.Debug",
         "org.freedesktop.Platform.GL",
         "org.freedesktop.Platform.GL32",
+        "org.freedesktop.Platform.GL32.Debug",
         "org.freedesktop.Platform.VAAPI.Intel.i386",
         "org.freedesktop.Platform.ffmpeg-full",
         "org.freedesktop.Platform.ffmpeg_full.i386",

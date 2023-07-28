@@ -11,20 +11,20 @@
         "org.sugarlabs.Maze",
         "org.sugarlabs.Measure",
         "org.sugarlabs.MusicKeyboard",
+        "org.sugarlabs.Paint",
         "org.sugarlabs.Pukllanapac",
         "org.sugarlabs.Sliderule",
         "org.sugarlabs.StoryActivity",
+        "org.sugarlabs.SwiftFeet",
         "org.sugarlabs.TurtlePondActivity",
         "org.sugarlabs.Words"
     ],
     "22.06": [
         "org.sugarlabs.Dimensions",
         "org.sugarlabs.Memorize",
-        "org.sugarlabs.Paint",
         "org.sugarlabs.ReadETexts",
         "org.sugarlabs.SolarSystem",
-        "org.sugarlabs.Speak",
-        "org.sugarlabs.SwiftFeet"
+        "org.sugarlabs.Speak"
     ],
     "21.04": [
         "org.sugarlabs.Physics",

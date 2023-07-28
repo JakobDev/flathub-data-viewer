@@ -1,9 +1,9 @@
 {
     "42": [
-        "cn.navclub.ldbfx",
-        "com.github.corna.Vivado"
+        "cn.navclub.ldbfx"
     ],
     "44": [
+        "com.github.corna.Vivado",
         "com.github.mikacousin.olc",
         "com.github.themix_project.Oomox",
         "org.gnome.Builder",

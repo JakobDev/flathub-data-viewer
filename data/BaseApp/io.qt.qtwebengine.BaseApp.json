@@ -27,6 +27,7 @@
         "org.kde.kalgebra",
         "org.kde.kdevelop",
         "org.kde.kgeotag",
+        "org.kde.kmymoney",
         "org.kde.kontact",
         "org.kde.kphotoalbum",
         "org.kde.labplot2",
@@ -50,6 +51,7 @@
         "dev.lukebriggs.pepys"
     ],
     "6.5": [
+        "io.github.xiaoyifang.goldendict_ng",
         "io.mrarm.mcpelauncher"
     ],
     "6.4": [
