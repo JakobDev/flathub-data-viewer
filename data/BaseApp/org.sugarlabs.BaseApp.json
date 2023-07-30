@@ -13,7 +13,9 @@
         "org.sugarlabs.MusicKeyboard",
         "org.sugarlabs.Paint",
         "org.sugarlabs.Pukllanapac",
+        "org.sugarlabs.ReadETexts",
         "org.sugarlabs.Sliderule",
+        "org.sugarlabs.SolarSystem",
         "org.sugarlabs.StoryActivity",
         "org.sugarlabs.SwiftFeet",
         "org.sugarlabs.TurtlePondActivity",
@@ -22,8 +24,6 @@
     "22.06": [
         "org.sugarlabs.Dimensions",
         "org.sugarlabs.Memorize",
-        "org.sugarlabs.ReadETexts",
-        "org.sugarlabs.SolarSystem",
         "org.sugarlabs.Speak"
     ],
     "21.04": [

@@ -1299,6 +1299,7 @@
         "de.rwth_aachen.ient.RDPlot",
         "de.rwth_aachen.ient.YUView",
         "dev.ares.ares",
+        "dev.ensoft.ecode",
         "dev.gbstudio.gb-studio",
         "dev.lapce.lapce",
         "dev.pulsar_edit.Pulsar",
@@ -2559,6 +2560,7 @@
         "dev.vieb.Vieb",
         "eu.betterbird.Betterbird",
         "io.wavebox.Wavebox",
+        "one.ablaze.floorp",
         "org.chromium.Chromium",
         "org.ferdium.Ferdium",
         "org.gnome.Evolution",
@@ -3462,9 +3464,6 @@
     ],
     "xdg-data/poezio:create": [
         "io.poez.Poezio"
-    ],
-    "~/.CommanderGenius:create": [
-        "io.sourceforge.clonekeenplus"
     ],
     "~/Projects": [
         "io.stoplight.studio"
