@@ -1,6 +1,7 @@
 {
     "description": "Shows all Apps with the given Mimetype",
     "data": [
+        "application{SLASH}SymbolEditor",
         "application{SLASH}YUView",
         "application{SLASH}arj",
         "application{SLASH}asx",

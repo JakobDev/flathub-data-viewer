@@ -772,6 +772,7 @@
         "org.jacktrip.JackTrip",
         "org.jaspstats.JASP",
         "org.kde.Ikona",
+        "org.kde.SymbolEditor",
         "org.kde.akregator",
         "org.kde.alligator",
         "org.kde.angelfish",
@@ -3278,10 +3279,6 @@
     "~/.steam/steam": [
         "io.github.Foldex.AdwSteamGtk"
     ],
-    "~/.local/share/fonts:create": [
-        "io.github.Foldex.AdwSteamGtk",
-        "org.gustavoperedo.FontDownloader"
-    ],
     "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/632360": [
         "io.github.Foldex.r2mod"
     ],
@@ -3516,6 +3513,9 @@
     "~/stl:create": [
         "net.davidotek.pupgui2"
     ],
+    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/GamesConfig": [
+        "net.davidotek.pupgui2"
+    ],
     "~/.zshrc": [
         "net.davidotek.pupgui2"
     ],
@@ -3739,6 +3739,9 @@
         "org.gpodder.gpodder-adaptive"
     ],
     "/usr/share/fonts": [
+        "org.gustavoperedo.FontDownloader"
+    ],
+    "~/.local/share/fonts:create": [
         "org.gustavoperedo.FontDownloader"
     ],
     "/mnt:ro": [

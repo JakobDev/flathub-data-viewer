@@ -3,7 +3,6 @@
         "ch.theologeek.Manuskript",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.stremio.Stremio",
-        "io.github.wereturtle.ghostwriter",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.xm1math.Texmaker"
     ],
@@ -13,6 +12,7 @@
         "com.nextcloud.desktopclient.nextcloud",
         "de.shorsh.discord-screenaudio",
         "io.github.martinrotter.rssguard",
+        "io.github.wereturtle.ghostwriter",
         "io.sourceforge.chart_geany.chart-geany",
         "net.mediaarea.MediaConch",
         "net.retrodeck.retrodeck",

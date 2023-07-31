@@ -1,6 +1,8 @@
 [
     "im.kaidan.kaidan",
+    "io.github.wereturtle.ghostwriter",
     "org.kde.Ikona",
+    "org.kde.SymbolEditor",
     "org.kde.akregator",
     "org.kde.alligator",
     "org.kde.angelfish",

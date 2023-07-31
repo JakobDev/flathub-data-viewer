@@ -98,6 +98,7 @@
         "org.exaile.Exaile",
         "org.fedoraproject.MediaWriter",
         "org.freedesktop.fwupd",
+        "org.kde.SymbolEditor",
         "org.kde.digikam",
         "org.kde.dolphin",
         "org.kde.elisa",

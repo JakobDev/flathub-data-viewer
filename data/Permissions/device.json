@@ -1063,6 +1063,7 @@
         "org.jupyter.JupyterLab",
         "org.karapulse.Karapulse",
         "org.kde.Ikona",
+        "org.kde.SymbolEditor",
         "org.kde.akregator",
         "org.kde.alligator",
         "org.kde.angelfish",

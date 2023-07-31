@@ -535,6 +535,7 @@
     "org.jacktrip.JackTrip",
     "org.jamovi.jamovi",
     "org.jellyfin.JellyfinServer",
+    "org.kde.SymbolEditor",
     "org.kde.akregator",
     "org.kde.ark",
     "org.kde.artikulate",

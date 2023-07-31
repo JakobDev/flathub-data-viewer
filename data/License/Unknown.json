@@ -3,6 +3,7 @@
     "io.github.brainstormtrooper.facteur",
     "net.sourceforge.atanks",
     "net.sourceforge.lgames.LTris",
+    "org.kde.SymbolEditor",
     "org.kde.akregator",
     "org.kde.kig",
     "org.kde.kollision",

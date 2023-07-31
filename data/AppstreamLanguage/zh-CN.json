@@ -1,7 +1,9 @@
 [
     "com.github.coslyk.MoonPlayer",
     "im.kaidan.kaidan",
+    "io.github.wereturtle.ghostwriter",
     "org.freedesktop.appstream.cli",
+    "org.kde.SymbolEditor",
     "org.kde.akregator",
     "org.kde.alligator",
     "org.kde.angelfish",
