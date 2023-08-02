@@ -7,5 +7,6 @@
     "org.openchemistry.Avogadro2",
     "org.pymol.PyMOL",
     "org.tomviz.Tomviz",
+    "org.zirael.bkchem.BKChem",
     "pl.nieto.fityk"
 ]

@@ -310,6 +310,7 @@
         "org.denemo.Denemo",
         "org.eclipse.sumo",
         "org.enjoyingfoss.FOSStriangulator",
+        "org.exbin.BinEd",
         "org.famistudio.FamiStudio",
         "org.fdroid.Repomaker",
         "org.filmulator.Filmulator",
@@ -401,6 +402,7 @@
         "org.wxhexeditor.wxHexEditor",
         "org.x.Warpinator",
         "org.zim_wiki.Zim",
+        "org.zirael.bkchem.BKChem",
         "org.zotero.Zotero",
         "org.zrythm.Zrythm",
         "pro.vpup.vpuppr",
@@ -651,6 +653,7 @@
         "me.mitya57.ReText",
         "me.timschneeberger.jdsp4linux",
         "net._86box._86Box",
+        "net.blumia.pineapple-pictures",
         "net.codeindustry.MasterPDFEditor",
         "net.corluma.Corluma",
         "net.davidotek.pupgui2",
@@ -1018,6 +1021,7 @@
         "com.borgbase.Vorta",
         "com.github.qarmin.czkawka",
         "io.blockloader.BlockLoader",
+        "io.github.giantpinkrobots.flatsweep",
         "org.freefilesync.FreeFileSync",
         "org.gnome.DejaDup",
         "org.gnome.World.PikaBackup",
@@ -1150,6 +1154,7 @@
         "net.sonobus.SonoBus",
         "net.sourceforge.Pdfedit",
         "net.sourceforge.jpdftweak.jPdfTweak",
+        "net.sourceforge.liferea",
         "net.sourceforge.mcomix",
         "net.sourceforge.paulstretch",
         "net.sourceforge.pdfchain",
@@ -1275,6 +1280,7 @@
         "com.okta.developer.CLI",
         "com.ozmartians.VidCutter",
         "com.parallax.PropellerIDE",
+        "com.playonlinux.PlayOnLinux4",
         "com.pypyrev.linuxdcpp",
         "com.raggesilver.BlackBox",
         "com.rtosta.zapzap",
@@ -1355,6 +1361,7 @@
         "io.typora.Typora",
         "me.kozec.syncthingtk",
         "media.emby.EmbyServer",
+        "net.blumia.pineapple-pictures",
         "net.darkradiant.DarkRadiant",
         "net.drawpile.drawpile",
         "net.giuspen.cherrytree",
@@ -1874,6 +1881,7 @@
         "io.github.mmarco94.tambourine",
         "io.github.ripose_jp.Memento",
         "io.github.shiiion.primehack",
+        "io.gitlab.daikhan.stable",
         "io.gitlab.floodlight.Presenter",
         "io.mpv.Mpv",
         "net.mediaarea.MediaInfo",
@@ -2434,6 +2442,7 @@
         "com.carpeludum.KegaFusion",
         "com.rawtherapee.RawTherapee",
         "com.retrodev.blastem",
+        "io.gitlab.daikhan.stable",
         "ru.sview.sView",
         "space.nouspiro.tenmon"
     ],
@@ -2821,6 +2830,7 @@
         "com.github.bluesabre.darkbar",
         "com.github.tchx84.Flatseal",
         "com.hack_computer.Clubhouse",
+        "io.github.giantpinkrobots.flatsweep",
         "io.github.shiftey.Desktop",
         "io.missioncenter.MissionCenter"
     ],
@@ -2985,7 +2995,8 @@
         "com.hack_computer.Clubhouse"
     ],
     "~/.local/share/flatpak/app:ro": [
-        "com.hack_computer.Clubhouse"
+        "com.hack_computer.Clubhouse",
+        "io.github.giantpinkrobots.flatsweep"
     ],
     "/var/lib/flatpak/exports:ro": [
         "com.hack_computer.Clubhouse"

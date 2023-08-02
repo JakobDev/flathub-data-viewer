@@ -1,6 +1,7 @@
 [
     "com.vzhd1701.gridplayer",
     "fr.handbrake.ghb",
+    "io.gitlab.daikhan.stable",
     "net.baseart.Glide",
     "org.kde.kaffeine",
     "org.shotcut.Shotcut"

@@ -8,6 +8,7 @@
     "io.github.celluloid_player.Celluloid",
     "io.github.quodlibet.QuodLibet",
     "io.github.swanux.hbud",
+    "io.gitlab.daikhan.stable",
     "net.baseart.Glide",
     "org.clementine_player.Clementine",
     "org.gnome.Lollypop",

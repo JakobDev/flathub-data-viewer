@@ -134,6 +134,7 @@
     "org.eclipse.Java",
     "org.eclipse.Javascript",
     "org.eclipse.iot.fourdiac.Ide",
+    "org.exbin.BinEd",
     "org.expresslrs.ExpressLRSConfigurator",
     "org.fdroid.Repomaker",
     "org.flatpak.qtdemo",

@@ -39,6 +39,7 @@
     "org.bionus.Grabber",
     "org.contourterminal.Contour",
     "org.deidentifier.arx",
+    "org.exbin.BinEd",
     "org.ferdium.Ferdium",
     "org.gaphor.Gaphor",
     "org.getoutline.OutlineClient",

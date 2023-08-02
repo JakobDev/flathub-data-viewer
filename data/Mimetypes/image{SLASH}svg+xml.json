@@ -14,6 +14,7 @@
     "io.github.manisandro.gImageReader",
     "io.gitlab.adhami3310.Converter",
     "io.photoflare.photoflare",
+    "net.blumia.pineapple-pictures",
     "org.cubocore.CoreImage",
     "org.cubocore.CorePaint",
     "org.geeqie.Geeqie",
@@ -33,5 +34,6 @@
     "org.midori_browser.Midori",
     "org.photoqt.PhotoQt",
     "org.xfce.ristretto",
+    "org.zirael.bkchem.BKChem",
     "re.sonny.OhMySVG"
 ]

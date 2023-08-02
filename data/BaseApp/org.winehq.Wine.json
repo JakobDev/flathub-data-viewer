@@ -1,5 +1,6 @@
 {
     "stable-22.08": [
+        "com.playonlinux.PlayOnLinux4",
         "com.usebottles.bottles",
         "io.github.sharkwouter.Minigalaxy",
         "io.itch.itch",

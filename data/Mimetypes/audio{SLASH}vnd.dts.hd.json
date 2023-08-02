@@ -3,6 +3,7 @@
     "com.vzhd1701.gridplayer",
     "io.github.celluloid_player.Celluloid",
     "io.github.ripose_jp.Memento",
+    "io.gitlab.daikhan.stable",
     "io.mpv.Mpv",
     "org.kde.haruna",
     "org.shotcut.Shotcut",

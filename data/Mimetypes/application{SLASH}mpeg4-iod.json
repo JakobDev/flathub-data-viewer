@@ -2,6 +2,7 @@
     "com.github.rafostar.Clapper",
     "com.vzhd1701.gridplayer",
     "io.github.celluloid_player.Celluloid",
+    "io.gitlab.daikhan.stable",
     "org.shotcut.Shotcut",
     "org.videolan.VLC"
 ]

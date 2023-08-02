@@ -1,5 +1,6 @@
 [
     "com.github.jeromerobert.pdfarranger",
+    "net.blumia.pineapple-pictures",
     "org.darktable.Darktable",
     "org.gimp.GIMP",
     "org.kde.okular",
