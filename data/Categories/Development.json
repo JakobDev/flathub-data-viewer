@@ -165,6 +165,7 @@
     "org.kde.kcachegrind",
     "org.kde.kdevelop",
     "org.kde.kdiff3",
+    "org.kde.kompare",
     "org.kde.kuiviewer",
     "org.kde.lokalize",
     "org.kde.massif-visualizer",

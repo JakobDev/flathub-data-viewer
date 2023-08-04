@@ -121,6 +121,7 @@
         "io.github.diegoivan.pdf_metadata_editor",
         "io.github.diegoivanme.flowtime",
         "io.github.gillesdegottex.FMIT",
+        "io.github.idevecore.CurrencyConverter",
         "io.github.igaldino.CoyoteTM",
         "io.github.janbar.noson",
         "io.github.jhaygood86.mauborgne",
@@ -247,6 +248,7 @@
         "io.github.endless_sky.endless_sky",
         "net.gaijin.WarThunder",
         "net.gradator.gtkatlantic",
+        "org.kde.atlantik",
         "org.naev.Naev",
         "uk.jnthn.backgammony"
     ],

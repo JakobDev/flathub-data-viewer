@@ -782,6 +782,7 @@
         "org.kde.arianna",
         "org.kde.ark",
         "org.kde.artikulate",
+        "org.kde.atlantik",
         "org.kde.audiotube",
         "org.kde.blinken",
         "org.kde.bomber",
@@ -822,6 +823,7 @@
         "org.kde.kcolorchooser",
         "org.kde.kdenlive",
         "org.kde.kdevelop",
+        "org.kde.kdf",
         "org.kde.kdiamond",
         "org.kde.kdiff3",
         "org.kde.keysmith",
@@ -857,6 +859,7 @@
         "org.kde.kolf",
         "org.kde.kollision",
         "org.kde.kolourpaint",
+        "org.kde.kompare",
         "org.kde.kongress",
         "org.kde.konquest",
         "org.kde.konsole",
@@ -1745,6 +1748,7 @@
         "org.kde.digikam",
         "org.kde.dolphin",
         "org.kde.kaffeine",
+        "org.kde.kdf",
         "org.moneymanagerex.MMEX",
         "org.nomacs.ImageLounge",
         "org.opennumismat.OpenNumismat",
@@ -1810,6 +1814,7 @@
         "org.kde.digikam",
         "org.kde.dolphin",
         "org.kde.kaffeine",
+        "org.kde.kdf",
         "org.moneymanagerex.MMEX",
         "org.opennumismat.OpenNumismat",
         "org.raspberrypi.rpi-imager",
@@ -1841,7 +1846,6 @@
         "io.github.hmlendea.geforcenow-electron",
         "io.github.mandruis7.xbox-cloud-gaming-electron",
         "io.github.nate_xyz.Resonance",
-        "io.github.randovania.Randovania",
         "io.github.shiiion.primehack",
         "io.github.simple64.simple64",
         "md.obsidian.Obsidian",
@@ -2588,7 +2592,8 @@
         "ru.yandex.Browser"
     ],
     "xdg-run/speech-dispatcher:ro": [
-        "com.calibre_ebook.calibre"
+        "com.calibre_ebook.calibre",
+        "org.mozilla.Thunderbird"
     ],
     "xdg-data/Trash": [
         "com.calibre_ebook.calibre",

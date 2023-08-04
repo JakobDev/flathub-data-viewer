@@ -63,6 +63,7 @@
     "org.kde.dolphin",
     "org.kde.index",
     "org.kde.isoimagewriter",
+    "org.kde.kdf",
     "org.kde.konsole",
     "org.kde.kwalletmanager5",
     "org.kde.qmlkonsole",
