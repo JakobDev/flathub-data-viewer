@@ -1,4 +1,5 @@
 [
     "com.ultimaker.cura",
-    "net.meshlab.MeshLab"
+    "net.meshlab.MeshLab",
+    "org.freecadweb.FreeCAD"
 ]

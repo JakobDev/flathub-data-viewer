@@ -359,6 +359,7 @@
         "org.librepcb.LibrePCB",
         "org.libvips.vipsdisp",
         "org.mamedev.MAME",
+        "org.mavlink.qgroundcontrol",
         "org.mmass.mMass",
         "org.mobsya.ThymioSuite",
         "org.moneymanagerex.MMEX",
@@ -1213,6 +1214,7 @@
         "org.zaproxy.ZAP",
         "org.zotero.Zotero",
         "org.zulip.Zulip",
+        "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "pl.art.lach.slawek.V2BlankBrowser",
         "ru.yandex.Browser",
         "sh.ppy.osu",
@@ -1507,7 +1509,6 @@
         "org.xfce.ristretto",
         "org.zaproxy.ZAP",
         "page.codeberg.JakobDev.jdTextEdit",
-        "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "se.cendio.tlclient",
         "space.nouspiro.tenmon",
         "work.openpaper.Paperwork"
@@ -1577,6 +1578,7 @@
         "io.github.kaschpal.timetable",
         "io.github.mideb.digitales_register",
         "io.github.obiwankennedy.HotShots",
+        "io.github.polypixeldev.Polypass",
         "io.github.qtox.qTox",
         "io.github.tcobbs.LDView",
         "io.github.vikdevelop.SaveDesktop",
@@ -1749,6 +1751,7 @@
         "org.kde.dolphin",
         "org.kde.kaffeine",
         "org.kde.kdf",
+        "org.mavlink.qgroundcontrol",
         "org.moneymanagerex.MMEX",
         "org.nomacs.ImageLounge",
         "org.opennumismat.OpenNumismat",
@@ -1905,6 +1908,7 @@
         "org.mamedev.MAME",
         "org.pegasus_frontend.Pegasus",
         "org.ppsspp.PPSSPP",
+        "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "re.sonny.Junction",
         "ru.sview.sView",
         "space.fips.Fips",
@@ -2429,6 +2433,7 @@
         "org.inkscape.Inkscape",
         "org.kde.krita",
         "org.keepassxc.KeePassXC",
+        "org.mavlink.qgroundcontrol",
         "org.nicotine_plus.Nicotine",
         "org.onlyoffice.desktopeditors",
         "org.videolan.VLC",
@@ -2472,6 +2477,7 @@
         "com.github.qarmin.szyszka",
         "com.github.ransome1.sleek",
         "com.github.weclaw1.ImageRoll",
+        "com.heroicgameslauncher.hgl",
         "io.github.bothlab.pomidaq",
         "md.obsidian.Obsidian",
         "org.clementine_player.Clementine",
@@ -2533,12 +2539,9 @@
         "org.firestormviewer.FirestormViewer",
         "org.winehq.Wine",
         "org.zotero.Zotero",
+        "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "ua.org.brezblock.q4wine",
         "xyz.hyperplay.HyperPlay"
-    ],
-    "xdg-templates": [
-        "com.boxy_svg.BoxySVG",
-        "com.github.PintaProject.Pinta"
     ],
     "host-etc": [
         "com.brave.Browser",
@@ -2618,6 +2621,7 @@
         "com.rawtherapee.RawTherapee",
         "com.zettlr.Zettlr",
         "de.bforartists.Bforartists",
+        "dev.ensoft.ecode",
         "io.github.brunoherbelin.Vimix",
         "io.github.maurycyliebner.enve",
         "io.github.nearinfinitybrowser.nearinfinity",
@@ -2762,6 +2766,9 @@
         "me.timschneeberger.jdsp4linux",
         "org.qutebrowser.qutebrowser"
     ],
+    "xdg-templates": [
+        "com.github.PintaProject.Pinta"
+    ],
     "xdg-public-share": [
         "com.github.PintaProject.Pinta",
         "com.github.jmlich.geotagging",
@@ -2857,6 +2864,7 @@
         "com.github.ilai_deutel.kibi",
         "com.helix_editor.Helix",
         "com.itextpdf.RUPS",
+        "dev.ensoft.ecode",
         "io.github.zyedidia.micro",
         "io.neovim.nvim",
         "org.gnu.emacs",
@@ -3019,12 +3027,12 @@
         "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "xyz.hyperplay.HyperPlay"
     ],
-    "~/Games/Heroic:create": [
-        "com.heroicgameslauncher.hgl"
-    ],
     "xdg-data/lutris": [
         "com.heroicgameslauncher.hgl",
         "xyz.hyperplay.HyperPlay"
+    ],
+    "~/Games/Heroic:create": [
+        "com.heroicgameslauncher.hgl"
     ],
     "xdg-config/fontconfig:ro": [
         "com.icons8.Lunacy",
@@ -3260,6 +3268,7 @@
         "org.freedesktop.appstream-glib",
         "org.freedesktop.appstream.cli",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "re.sonny.Junction"
     ],
     "~/.var/app/com.heroicgameslauncher.hgl/config/heroic:ro": [
@@ -3673,8 +3682,7 @@
         "org.gnome.Builder"
     ],
     "/var/lib/flatpak": [
-        "org.gnome.Builder",
-        "page.codeberg.libre_menu_editor.LibreMenuEditor"
+        "org.gnome.Builder"
     ],
     "~/.local/share/flatpak": [
         "org.gnome.Builder"
@@ -3843,10 +3851,10 @@
     "host-etc:ro": [
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
-    "~/.var/app:ro": [
+    "/var/lib/snapd:ro": [
         "page.codeberg.libre_menu_editor.LibreMenuEditor"
     ],
-    "/var/lib/snapd": [
+    "~/.var/app:ro": [
         "page.codeberg.libre_menu_editor.LibreMenuEditor"
     ],
     "xdg-documents/geobug-tracks:create": [

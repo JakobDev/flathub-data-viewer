@@ -1,5 +1,6 @@
 [
     "com.flashforge.FlashPrint",
     "com.prusa3d.PrusaSlicer",
-    "com.ultimaker.cura"
+    "com.ultimaker.cura",
+    "org.freecadweb.FreeCAD"
 ]

@@ -9,6 +9,7 @@
     "net.minetest.Minetest",
     "net.poedit.Poedit",
     "org.bluesabre.MenuLibre",
+    "org.exaile.Exaile",
     "org.gnome.Aisleriot",
     "org.gnome.Boxes",
     "org.gnome.Builder",

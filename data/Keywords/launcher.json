@@ -1,6 +1,5 @@
 [
     "hu.kramo.Cartridges",
     "io.github.dummerle.rare",
-    "org.polymc.PolyMC",
-    "page.codeberg.libre_menu_editor.LibreMenuEditor"
+    "org.polymc.PolyMC"
 ]

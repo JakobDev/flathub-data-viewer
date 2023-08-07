@@ -1,4 +1,5 @@
 [
+    "io.github.polypixeldev.Polypass",
     "org.gnome.seahorse.Application",
     "org.nmap.Zenmap"
 ]

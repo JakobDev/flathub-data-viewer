@@ -13,6 +13,7 @@
     "net.minetest.Minetest",
     "net.poedit.Poedit",
     "net.supertuxkart.SuperTuxKart",
+    "org.exaile.Exaile",
     "org.freedesktop.appstream.cli",
     "org.geany.Geany",
     "org.gimp.GIMP",

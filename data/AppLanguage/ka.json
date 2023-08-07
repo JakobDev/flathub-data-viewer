@@ -18,6 +18,7 @@
     "io.bassi.Amberol",
     "io.github.celluloid_player.Celluloid",
     "net.poedit.Poedit",
+    "org.exaile.Exaile",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",
     "org.gimp.GIMP",

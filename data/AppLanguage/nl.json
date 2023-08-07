@@ -112,6 +112,7 @@
     "org.emilien.Password",
     "org.emilien.SpaceLaunch",
     "org.entangle_photo.Manager",
+    "org.exaile.Exaile",
     "org.freedesktop.Piper",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",

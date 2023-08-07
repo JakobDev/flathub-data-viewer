@@ -1,4 +1,5 @@
 [
     "de.create3000.titania",
-    "net.meshlab.MeshLab"
+    "net.meshlab.MeshLab",
+    "org.freecadweb.FreeCAD"
 ]

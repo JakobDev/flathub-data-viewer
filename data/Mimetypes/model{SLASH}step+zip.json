@@ -1,3 +1,4 @@
 [
-    "com.flashforge.FlashPrint"
+    "com.flashforge.FlashPrint",
+    "org.freecadweb.FreeCAD"
 ]

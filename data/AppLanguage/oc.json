@@ -35,6 +35,7 @@
     "io.posidon.Paper",
     "net.poedit.Poedit",
     "net.supertuxkart.SuperTuxKart",
+    "org.exaile.Exaile",
     "org.freedesktop.appstream.cli",
     "org.gimp.GIMP",
     "org.gnome.Aisleriot",
