@@ -236,7 +236,6 @@
         "io.github.zhrexl.thisweekinmylife",
         "io.gitlab.persiangolf.voicegen",
         "io.itch.azagaya.Laigter",
-        "io.lbry.lbry-app",
         "io.lmms.LMMS",
         "io.osdn.simplesok",
         "io.otsaloma.gaupol",
@@ -327,7 +326,6 @@
         "org.gnome.OCRFeeder",
         "org.gnome.Pinpoint",
         "org.gnome.design.AppIconPreview",
-        "org.gnome.design.BannerViewer",
         "org.gnome.design.SymbolicPreview",
         "org.gnome.glabels-3",
         "org.gnu.pspp",
@@ -1511,7 +1509,8 @@
         "page.codeberg.JakobDev.jdTextEdit",
         "se.cendio.tlclient",
         "space.nouspiro.tenmon",
-        "work.openpaper.Paperwork"
+        "work.openpaper.Paperwork",
+        "xyz.splashmapper.Splash"
     ],
     "xdg-documents": [
         "app.gummi.gummi",

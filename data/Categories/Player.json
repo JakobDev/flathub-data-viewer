@@ -78,5 +78,6 @@
     "tv.kodi.Kodi",
     "tv.plex.PlexDesktop",
     "tv.plex.PlexHTPC",
+    "xyz.splashmapper.Splash",
     "org.videolan.VLC.Plugin.pause_click"
 ]

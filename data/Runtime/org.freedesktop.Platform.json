@@ -135,7 +135,6 @@
         "io.github.trackballs.Trackballs",
         "io.gitlab.jazztickets.irrlamb",
         "io.itch.keyikedalube_ndang.Type-Off",
-        "io.lbry.lbry-app",
         "io.poez.Poezio",
         "io.wavebox.Wavebox",
         "life.bolls.bolls",
@@ -528,6 +527,7 @@
         "io.github.qier222.YesPlayMusic",
         "io.github.randovania.Randovania",
         "io.github.retux_game.retux",
+        "io.github.searchandrescue2.sar2",
         "io.github.sharkwouter.oceanpop",
         "io.github.shiftey.Desktop",
         "io.github.slgobinath.SafeEyes",
@@ -664,6 +664,7 @@
         "org.bitcoincore.bitcoin-qt",
         "org.bitfighter.Bitfighter",
         "org.blackcoin.blackcoin-more",
+        "org.blackcoinmore.blackmore-qt",
         "org.blender.Blender",
         "org.briarproject.Briar",
         "org.buhocms.BuhoCMS",
@@ -832,6 +833,7 @@
         "xyz.kusma.aurora",
         "xyz.rescribe.rescribe",
         "xyz.safeworlds.midiconn",
+        "xyz.splashmapper.Splash",
         "xyz.stuerz.BilligSweeper"
     ],
     "20.08": [

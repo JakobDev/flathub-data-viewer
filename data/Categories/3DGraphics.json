@@ -20,5 +20,6 @@
     "org.blender.Blender",
     "org.leocad.LeoCAD",
     "org.openscad.OpenSCAD",
-    "org.telesculptor.TeleSculptor"
+    "org.telesculptor.TeleSculptor",
+    "xyz.splashmapper.Splash"
 ]

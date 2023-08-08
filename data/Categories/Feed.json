@@ -1,12 +1,12 @@
 [
     "cc.retroshare.retroshare-gui",
     "com.github.suzie97.communique",
-    "com.gitlab.newsflash",
     "com.rocksandpaper.syndic",
     "com.ulduzsoft.Birdtray",
     "eu.betterbird.Betterbird",
     "io.github.martinrotter.rssguard",
     "io.github.martinrotter.rssguardlite",
+    "io.gitlab.news_flash.NewsFlash",
     "me.hyliu.fluentreader",
     "org.gabmus.gfeeds",
     "org.kde.akregator",

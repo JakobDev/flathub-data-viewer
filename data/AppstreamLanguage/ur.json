@@ -1,7 +1,7 @@
 [
-    "com.gitlab.newsflash",
     "fr.romainvigier.MetadataCleaner",
     "io.github.realmazharhussain.GdmSettings",
+    "io.gitlab.news_flash.NewsFlash",
     "org.gnome.FileRoller",
     "org.gnucash.GnuCash",
     "org.inkscape.Inkscape",

@@ -5,7 +5,6 @@
     "com.github.finefindus.eyedropper",
     "com.github.flxzt.rnote",
     "com.github.marhkb.Pods",
-    "com.gitlab.newsflash",
     "com.rafaelmardojai.SharePreview",
     "com.ranfdev.Geopard",
     "com.ranfdev.Lobjur",
@@ -14,6 +13,7 @@
     "io.github.achetagames.epic_asset_manager",
     "io.github.davidoc26.wallpaper_selector",
     "io.github.mpobaschnig.Vaults",
+    "io.gitlab.news_flash.NewsFlash",
     "org.gnome.design.SymbolicPreview",
     "org.gnome.design.VectorSlicer"
 ]

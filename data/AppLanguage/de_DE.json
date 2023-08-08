@@ -1,6 +1,6 @@
 [
-    "com.gitlab.newsflash",
     "dev.geopjr.Tuba",
     "im.bernard.Funkcio",
+    "io.gitlab.news_flash.NewsFlash",
     "org.scilab.Scilab"
 ]
