@@ -2867,6 +2867,9 @@
     "org.freedesktop.impl.portal.permissionstore": [
         "com.github.tchx84.Flatseal"
     ],
+    "org.freedesktop.portal.settings": [
+        "com.github.zocker_160.SyncThingy"
+    ],
     "org.endlessos.onboarding": [
         "com.hack_computer.Clubhouse"
     ],
