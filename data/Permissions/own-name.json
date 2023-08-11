@@ -279,6 +279,9 @@
     "org.mpris.mediaplayer2.mpv.*": [
         "io.mpv.Mpv"
     ],
+    "org.mpris.mediaplayer2.karaokemugen.*": [
+        "moe.karaokes.mugen"
+    ],
     "cx.ring.ring": [
         "net.jami.Jami"
     ],

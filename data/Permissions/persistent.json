@@ -48,14 +48,7 @@
     "Bitwig Studio": [
         "com.bitwig.BitwigStudio"
     ],
-    ".config": [
-        "com.bluejeans.BlueJeans",
-        "com.netease.CloudMusic",
-        "org.stochas.Stochas",
-        "org.surge_synth_team.surge-xt"
-    ],
     ".pki": [
-        "com.bluejeans.BlueJeans",
         "com.brave.Browser",
         "com.github.Eloston.UngoogledChromium",
         "com.microsoft.Edge",
@@ -177,6 +170,11 @@
         "io.github.freedoom.Phase1",
         "io.github.freedoom.Phase2",
         "org.zdoom.GZDoom"
+    ],
+    ".config": [
+        "com.netease.CloudMusic",
+        "org.stochas.Stochas",
+        "org.surge_synth_team.surge-xt"
     ],
     ".cache": [
         "com.netease.CloudMusic"

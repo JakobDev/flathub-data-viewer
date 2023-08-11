@@ -30,7 +30,6 @@
         "io.atom.Atom",
         "io.gdevs.GDLauncher",
         "io.github.fralonra.WgShadertoy",
-        "io.github.zyedidia.micro",
         "io.neovim.nvim",
         "net.blix.BlueMail",
         "org.apache.netbeans",
