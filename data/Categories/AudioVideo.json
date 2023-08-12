@@ -95,6 +95,7 @@
     "fm.reaper.Reaper",
     "fr.handbrake.ghb",
     "info.puredata.Pd-extended",
+    "info.puredata.Pd",
     "info.smplayer.SMPlayer",
     "ink.scribl.Scribl",
     "io.bassi.Amberol",

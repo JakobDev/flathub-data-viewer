@@ -1,6 +1,7 @@
 [
     "app.vup.Vup",
     "com.github.liferooter.textpieces",
+    "me.ppvan.psequel",
     "org.localsend.localsend_app",
     "re.sonny.Workbench"
 ]

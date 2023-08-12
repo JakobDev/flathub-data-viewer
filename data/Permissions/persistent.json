@@ -166,6 +166,7 @@
         "com.moddb.TotalChaos",
         "com.moddb.TotalChaosRetro",
         "com.realm667.Wolfenstein_Blade_of_Agony",
+        "io.github.Youda008.DoomRunner",
         "io.github.freedoom.FreeDM",
         "io.github.freedoom.Phase1",
         "io.github.freedoom.Phase2",
@@ -178,6 +179,9 @@
     ],
     ".cache": [
         "com.netease.CloudMusic"
+    ],
+    ".Reaction": [
+        "com.rq3.Reaction"
     ],
     ".ccnet": [
         "com.seafile.Client"

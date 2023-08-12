@@ -65,6 +65,7 @@
     "fm.reaper.Reaper",
     "fr.romainvigier.zap",
     "info.puredata.Pd-extended",
+    "info.puredata.Pd",
     "info.smplayer.SMPlayer",
     "io.bassi.Amberol",
     "io.github.Soundux",
