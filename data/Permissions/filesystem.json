@@ -3152,7 +3152,9 @@
         "info.cemu.Cemu",
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
-        "io.github.slgobinath.SafeEyes"
+        "io.github.slgobinath.SafeEyes",
+        "org.ferdium.Ferdium",
+        "org.ryujinx.Ryujinx"
     ],
     "~/.var/app/com.usebottles.bottles/data/bottles": [
         "com.vysp3r.ProtonPlus"
@@ -3560,6 +3562,9 @@
     "~/.rdm:create": [
         "net.devolutions.RDM",
         "net.devolutions.RDMFree"
+    ],
+    "xdg-data/applications/RPCS3": [
+        "net.rpcs3.RPCS3"
     ],
     "/run/ikedi": [
         "net.shrew.ike.qikea"
