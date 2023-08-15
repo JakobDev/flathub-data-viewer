@@ -97,7 +97,7 @@ PERMISSON_NAMES = {
 def parse_summary_api(app_id: str, data: dict, session: requests.sessions.Session) -> None:
     r = try_request("https://flathub.org/api/v2/summary/" + app_id, session)
 
-    if r is None or "metadata" not in r:
+    if r is None or "metadata" not in r or r["metadata"] is None:
         return
 
     runtime_name, _, runtime_version = r["metadata"]["runtime"].split("/")
