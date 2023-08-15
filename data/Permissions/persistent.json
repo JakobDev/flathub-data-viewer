@@ -282,6 +282,9 @@
     ".minion": [
         "gg.minion.Minion"
     ],
+    ".tesseract": [
+        "gg.tesseract.Tesseract"
+    ],
     ".config/ravkavonline": [
         "il.co.ravkavonline.RavKavOnline"
     ],

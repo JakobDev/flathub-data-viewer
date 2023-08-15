@@ -44,5 +44,6 @@
     "org.kde.okteta",
     "org.kde.okular",
     "org.kde.palapeli",
-    "org.kde.picmi"
+    "org.kde.picmi",
+    "org.kde.yakuake"
 ]

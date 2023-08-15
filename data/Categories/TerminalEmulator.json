@@ -8,5 +8,6 @@
     "org.gnome.moserial",
     "org.kde.konsole",
     "org.kde.qmlkonsole",
+    "org.kde.yakuake",
     "org.wezfurlong.wezterm"
 ]

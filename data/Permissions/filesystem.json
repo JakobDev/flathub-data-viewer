@@ -502,6 +502,7 @@
         "com.ozmartians.VidCutter",
         "com.parallax.PropellerIDE",
         "com.polyphone_soundfonts.polyphone",
+        "com.riverbankcomputing.PyQt.BaseApp",
         "com.rocksandpaper.syndic",
         "com.rosegardenmusic.rosegarden",
         "com.rtosta.zapzap",
@@ -647,6 +648,7 @@
         "io.qt.Linguist",
         "io.qt.QtCreator",
         "io.qt.qdbusviewer",
+        "io.qt.qtwebengine.BaseApp",
         "io.sourceforge.chart_geany.chart-geany",
         "io.sourceforge.pentobi",
         "io.sourceforge.qoobar.Qoobar",
@@ -919,6 +921,7 @@
         "org.kde.tokodon",
         "org.kde.umbrello",
         "org.kde.vvave",
+        "org.kde.yakuake",
         "org.keepassxc.KeePassXC",
         "org.ksnip.ksnip",
         "org.leocad.LeoCAD",
@@ -3447,9 +3450,6 @@
     ],
     "xdg-documents/O20:create": [
         "io.gitlab.o20.word"
-    ],
-    "xdg-music/monophony:create": [
-        "io.gitlab.zehkira.Monophony"
     ],
     "xdg-documents/TabletopClub:create": [
         "io.itch.drwhut.TabletopClub"
