@@ -346,6 +346,7 @@
     ],
     "6.5": [
         "app.lith.Lith",
+        "com.github.LongSoft.UEFITool",
         "com.github.Rosalie241.RMG",
         "com.gitlab.tipp10.tipp10",
         "com.riverbankcomputing.PyQt.BaseApp",
@@ -592,16 +593,6 @@
         "org.gnode.NixView",
         "org.guerinoni.qTsConverter"
     ],
-    "6.3": [
-        "com.github.LongSoft.UEFITool",
-        "com.github.jmlich.geotagging",
-        "dev.levz.TinyImageFinder",
-        "org.beeref.BeeRef",
-        "org.cznic.Datovka",
-        "org.mattbas.Glaxnimate",
-        "org.subtitld.Subtitld",
-        "uk.org.zint.zint-qt"
-    ],
     "6.2": [
         "com.github.giacomogroppi.writernote-qt",
         "com.ylsoftware.qmmp.Qmmp",
@@ -610,6 +601,15 @@
         "eu.skribisto.skribisto",
         "org.coolero.Coolero",
         "org.linux_hardware.hw-probe"
+    ],
+    "6.3": [
+        "com.github.jmlich.geotagging",
+        "dev.levz.TinyImageFinder",
+        "org.beeref.BeeRef",
+        "org.cznic.Datovka",
+        "org.mattbas.Glaxnimate",
+        "org.subtitld.Subtitld",
+        "uk.org.zint.zint-qt"
     ],
     "5.12": [
         "de.ifw_dresden.nagstamon",
