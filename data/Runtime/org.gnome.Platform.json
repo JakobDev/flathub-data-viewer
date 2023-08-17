@@ -116,7 +116,6 @@
         "org.gnome.gitlab.johannesjh.favagtk",
         "org.gnome.seahorse.Application",
         "org.gpodder.gpodder-adaptive",
-        "org.gpodder.gpodder",
         "org.mpdevil.mpdevil",
         "org.parlatype.Parlatype",
         "org.remmina.Remmina",
@@ -499,6 +498,7 @@
         "org.gnucash.GnuCash",
         "org.gnumeric.Gnumeric",
         "org.gnunet.Messenger",
+        "org.gpodder.gpodder",
         "org.gramps_project.Gramps",
         "org.gustavoperedo.FontDownloader",
         "org.inkscape.Inkscape",
@@ -530,8 +530,10 @@
         "org.sugarlabs.ImplodeActivity",
         "org.sugarlabs.Maze",
         "org.sugarlabs.Measure",
+        "org.sugarlabs.Memorize",
         "org.sugarlabs.MusicKeyboard",
         "org.sugarlabs.Paint",
+        "org.sugarlabs.Pippy",
         "org.sugarlabs.Pukllanapac",
         "org.sugarlabs.ReadETexts",
         "org.sugarlabs.Sliderule",
@@ -650,7 +652,6 @@
         "org.librehunt.Organizer",
         "org.mypaint.MyPaint",
         "org.sil.Bloom",
-        "org.sugarlabs.Memorize",
         "org.sugarlabs.Speak",
         "org.tabos.twofun",
         "page.codeberg.foreverxml.Random"
@@ -693,8 +694,7 @@
         "net.sourceforge.electrip.Electrip",
         "org.gnome.Eolie",
         "org.gnome.OfficeRunner",
-        "org.sugarlabs.Physics",
-        "org.sugarlabs.Pippy"
+        "org.sugarlabs.Physics"
     ],
     "3.38": [
         "com.gigitux.youp",

@@ -348,6 +348,7 @@
         "com.riverbankcomputing.PyQt.BaseApp",
         "com.rtosta.zapzap",
         "com.vicr123.thebeat",
+        "cz.cvut.edu.comparch.qtrvsim",
         "de.bund.ausweisapp.ausweisapp2",
         "io.github.Arisotura.CoinKiller",
         "io.github._0xzer0x.qurancompanion",
@@ -584,7 +585,6 @@
     "6.2": [
         "com.github.giacomogroppi.writernote-qt",
         "com.ylsoftware.qmmp.Qmmp",
-        "cz.cvut.edu.comparch.qtrvsim",
         "dev.lukebriggs.pepys",
         "eu.skribisto.skribisto",
         "org.coolero.Coolero",

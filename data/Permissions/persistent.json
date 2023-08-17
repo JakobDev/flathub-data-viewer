@@ -180,6 +180,9 @@
     ".cache": [
         "com.netease.CloudMusic"
     ],
+    ".q3rally": [
+        "com.q3rally.Q3Rally"
+    ],
     ".Reaction": [
         "com.rq3.Reaction"
     ],
