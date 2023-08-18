@@ -3250,15 +3250,21 @@
     "~/Games": [
         "gg.minion.Minion"
     ],
-    "~/.var/app/com.heroicgameslauncher.hgl/config/legendary:ro": [
+    "~/.var/app/org.libretro.RetroArch/config/retroarch:ro": [
         "hu.kramo.Cartridges"
     ],
-    "~/.var/app/com.usebottles.bottles/data/bottles:ro": [
+    "~/.var/app/com.heroicgameslauncher.hgl/config/legendary:ro": [
         "hu.kramo.Cartridges"
     ],
     "~/.var/app/net.lutris.Lutris:ro": [
         "hu.kramo.Cartridges",
         "io.github.philipk.boilr"
+    ],
+    "~/.var/app/io.itch.itch/config/itch:ro": [
+        "hu.kramo.Cartridges"
+    ],
+    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic:ro": [
+        "hu.kramo.Cartridges"
     ],
     "/var/lib/flatpak:ro": [
         "hu.kramo.Cartridges",
@@ -3271,10 +3277,7 @@
         "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "re.sonny.Junction"
     ],
-    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic:ro": [
-        "hu.kramo.Cartridges"
-    ],
-    "~/.var/app/io.itch.itch/config/itch:ro": [
+    "~/.var/app/com.usebottles.bottles/data/bottles:ro": [
         "hu.kramo.Cartridges"
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam:ro": [
