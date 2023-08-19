@@ -588,6 +588,7 @@
     "org.freedesktop.Piper",
     "org.freedesktop.Tuhi",
     "org.freedesktop.appstream-glib",
+    "org.freedownloadmanager.Manager",
     "org.freeplane.App",
     "org.fritzing.Fritzing",
     "org.frozen_bubble.frozen-bubble",
