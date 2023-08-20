@@ -350,6 +350,7 @@
         "com.vicr123.thebeat",
         "cz.cvut.edu.comparch.qtrvsim",
         "de.bund.ausweisapp.ausweisapp2",
+        "eu.cichy1173.tabela",
         "io.github.Arisotura.CoinKiller",
         "io.github._0xzer0x.qurancompanion",
         "io.github.hydrusnetwork.hydrus",
@@ -385,6 +386,7 @@
         "org.rncbc.qpwgraph",
         "org.rncbc.qsynth",
         "org.strawberrymusicplayer.strawberry",
+        "org.texstudio.TeXstudio",
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
         "page.codeberg.JakobDev.jdAppStreamEdit",
@@ -565,7 +567,6 @@
         "org.rncbc.qtractor",
         "org.shotcut.Shotcut",
         "org.stellarium.Stellarium",
-        "org.texstudio.TeXstudio",
         "org.tug.texworks"
     ],
     "5.14": [

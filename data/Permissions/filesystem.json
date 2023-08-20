@@ -204,6 +204,7 @@
         "io.github.dubstar_04.design",
         "io.github.dummerle.rare",
         "io.github.f3d_app.f3d",
+        "io.github.fralonra.PpdEditor",
         "io.github.garglk.Gargoyle",
         "io.github.gtkwave.GTKWave",
         "io.github.hakuneko.HakuNeko",
@@ -545,6 +546,7 @@
         "dev.lukebriggs.pepys",
         "edu.princeton.physics.WSJTX",
         "eu.ad5001.LogarithmPlotter",
+        "eu.cichy1173.tabela",
         "eu.ototu.Quteqoin",
         "eu.scarpetta.PDFMixTool",
         "eu.skribisto.skribisto",
@@ -1570,6 +1572,7 @@
         "de.halaszovich.PMbrowser",
         "dev.storyapps.starc",
         "dev.vieb.Vieb",
+        "eu.cichy1173.tabela",
         "fr.free.hxc2001.HxCFloppyEmulator",
         "io.enpass.Enpass",
         "io.github.TheThirdOne.rars",
@@ -3545,6 +3548,9 @@
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/com.heroicgameslauncher.hgl/config/legendary": [
+        "net.davidotek.pupgui2"
+    ],
+    "~/.var/app/com.heroicgameslauncher.hgl/config/heroic/store_cache": [
         "net.davidotek.pupgui2"
     ],
     "~/.local/share/lutris/runtime/vkd3d": [
