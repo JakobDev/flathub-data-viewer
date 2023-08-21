@@ -1,5 +1,6 @@
 [
     "io.github.iSlammedMyKindle.godotGem",
+    "io.github.koromelodev.mindmate",
     "org.kicad.KiCad.Library.Footprints",
     "org.kicad.KiCad.Library.Packages3D",
     "org.kicad.KiCad.Library.Symbols",
