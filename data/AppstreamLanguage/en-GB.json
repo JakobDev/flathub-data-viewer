@@ -1,6 +1,7 @@
 [
     "org.kde.angelfish",
     "org.kde.kcolorchooser",
+    "org.kde.kommit",
     "org.kde.kontrast",
     "org.kde.labplot2",
     "org.kde.neochat"

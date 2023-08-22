@@ -109,6 +109,7 @@
         "org.kde.kdenlive",
         "org.kde.kmplayer",
         "org.kde.kmymoney",
+        "org.kde.kommit",
         "org.kde.kompare",
         "org.raspberrypi.rpi-imager",
         "org.sil.FieldWorks",

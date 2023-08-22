@@ -30,7 +30,6 @@
         "com.github.nrittsti.NTag",
         "com.github.rafostar.Clapper",
         "com.github.rogercrocker.badabib",
-        "com.github.tenderowl.frog",
         "com.gitlab.cunidev.Gestures",
         "com.gitlab.maevemi.publictransport",
         "com.hunterwittenborn.Celeste",
@@ -214,6 +213,7 @@
         "com.github.taiko2k.avvie",
         "com.github.taiko2k.tauonmb",
         "com.github.tchx84.Flatseal",
+        "com.github.tenderowl.frog",
         "com.github.tenderowl.norka",
         "com.github.theironrobin.siglo",
         "com.github.unrud.VideoDownloader",
@@ -413,6 +413,7 @@
         "org.gabmus.gfeeds",
         "org.gabmus.giara",
         "org.gabmus.whatip",
+        "org.gahshomar.Gahshomar",
         "org.gajim.Gajim",
         "org.gaphor.Gaphor",
         "org.geeqie.Geeqie",
@@ -704,7 +705,6 @@
         "com.github.labyrinth_team.labyrinth",
         "org.cvfosammmm.Porto",
         "org.gabmus.notorious",
-        "org.gahshomar.Gahshomar",
         "org.synfig.SynfigStudio"
     ],
     "3.36": [
