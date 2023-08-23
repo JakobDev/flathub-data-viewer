@@ -154,6 +154,7 @@
         "com.belmoussaoui.Obfuscate",
         "com.belmoussaoui.ReadItLater",
         "com.belmoussaoui.ashpd.demo",
+        "com.chmouel.gnomeNextMeetingApplet",
         "com.clarahobbs.chessclock",
         "com.cocoatech.deckr",
         "com.dropbox.Client",
@@ -668,7 +669,6 @@
     ],
     "41": [
         "co.luoja.Telyn",
-        "com.chmouel.gnomeNextMeetingApplet",
         "com.github.aharotias2.parapara",
         "com.github.needleandthread.vocal",
         "com.github.rajsolai.textsnatcher",

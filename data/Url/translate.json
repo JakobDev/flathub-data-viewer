@@ -186,6 +186,7 @@
     "io.liri.Calculator",
     "io.liri.Text",
     "io.lmms.LMMS",
+    "io.missioncenter.MissionCenter",
     "io.neovim.nvim",
     "io.openrct2.OpenRCT2",
     "io.otsaloma.gaupol",

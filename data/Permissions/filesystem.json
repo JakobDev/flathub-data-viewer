@@ -246,6 +246,7 @@
         "io.lmms.LMMS",
         "io.osdn.simplesok",
         "io.otsaloma.gaupol",
+        "io.otsaloma.nfoview",
         "io.photoflare.photoflare",
         "io.podman_desktop.PodmanDesktop",
         "io.sourceforge.Pixelitor",
@@ -1673,6 +1674,7 @@
         "io.github.pragha_music_player.pragha",
         "io.github.qtox.qTox",
         "io.github.vikdevelop.SaveDesktop",
+        "io.otsaloma.nfoview",
         "io.sourceforge.qoobar.Qoobar",
         "io.wavebox.Wavebox",
         "net.blockbench.Blockbench",
@@ -2240,6 +2242,7 @@
         "io.github.webcamoid.Webcamoid",
         "io.mpv.Mpv",
         "io.otsaloma.gaupol",
+        "io.otsaloma.nfoview",
         "io.wavebox.Wavebox",
         "net.baseart.Glide",
         "net.blockbench.Blockbench",
@@ -2736,7 +2739,6 @@
     "xdg-config/gtk-3.0": [
         "com.github.GradienceTeam.Gradience",
         "com.neatdecisions.Detwinner",
-        "com.visualstudio.code",
         "fr.handbrake.ghb",
         "net.giuspen.cherrytree",
         "org.gimp.GIMP",
@@ -3156,12 +3158,14 @@
         "com.viber.Viber"
     ],
     "xdg-config/gtk-3.0:ro": [
+        "com.visualstudio.code",
         "com.vscodium.codium",
         "de.willuhn.Jameica",
         "info.cemu.Cemu",
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
         "io.github.slgobinath.SafeEyes",
+        "net.retrodeck.retrodeck",
         "org.ferdium.Ferdium",
         "org.ryujinx.Ryujinx"
     ],
@@ -3473,6 +3477,9 @@
         "io.kinvolk.Headlamp"
     ],
     "xdg-data/flatpak/exports/share:ro": [
+        "io.missioncenter.MissionCenter"
+    ],
+    "/snap:ro": [
         "io.missioncenter.MissionCenter"
     ],
     "/var/lib/flatpak/exports/share:ro": [

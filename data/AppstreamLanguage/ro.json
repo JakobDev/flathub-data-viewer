@@ -27,6 +27,7 @@
     "io.github.celluloid_player.Celluloid",
     "io.github.quodlibet.ExFalso",
     "io.github.quodlibet.QuodLibet",
+    "io.missioncenter.MissionCenter",
     "io.otsaloma.nfoview",
     "net.supertuxkart.SuperTuxKart",
     "nl.hjdskes.gcolor3",

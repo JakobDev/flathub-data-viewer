@@ -2,6 +2,7 @@
     "app.rednotebook.RedNotebook",
     "com.github.flxzt.rnote",
     "com.vixalien.sticky",
+    "io.appflowy.AppFlowy",
     "io.posidon.Paper",
     "org.zim_wiki.Zim"
 ]

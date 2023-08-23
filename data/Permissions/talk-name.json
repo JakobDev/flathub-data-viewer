@@ -3084,6 +3084,9 @@
         "net.retrodeck.retrodeck",
         "org.yuzu_emu.yuzu"
     ],
+    "org.freedesktop.portal.flatpak.updatemonitor": [
+        "net.retrodeck.retrodeck"
+    ],
     "org.mate.screensaver": [
         "net.rpcs3.RPCS3"
     ],
