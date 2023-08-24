@@ -155,7 +155,8 @@
         "WebBrowser",
         "WebDevelopment",
         "WordProcessor",
-        "X-CSuite"
+        "X-CSuite",
+        "X-KDE-Utilities-File"
     ],
     "dataNames": {}
 }

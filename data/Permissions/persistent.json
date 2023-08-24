@@ -208,6 +208,9 @@
     ".stremio-server": [
         "com.stremio.Stremio"
     ],
+    ".supermodel": [
+        "com.supermodel3.Supermodel"
+    ],
     ".thinkorswim": [
         "com.tdameritrade.ThinkOrSwim"
     ],

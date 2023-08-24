@@ -2,6 +2,7 @@
     "com.ekonomikas.merkato",
     "fr.free.Homebank",
     "info.portfolio_performance.PortfolioPerformance",
+    "org.grisbi.Grisbi",
     "org.moneymanagerex.MMEX",
     "org.nickvision.money"
 ]

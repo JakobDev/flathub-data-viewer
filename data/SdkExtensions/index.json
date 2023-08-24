@@ -35,6 +35,7 @@
         "org.freedesktop.Sdk.Extension.ziglang",
         "org.freedesktop.Sdk.Locale",
         "org.gnome.Sdk.Compat.i386",
+        "org.gnome.Sdk.Locale",
         "org.kde.Sdk.Locale"
     ],
     "dataNames": {}
