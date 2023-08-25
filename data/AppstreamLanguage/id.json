@@ -46,6 +46,8 @@
     "io.github.Hexchat",
     "io.github.celluloid_player.Celluloid",
     "io.github.pragha_music_player.pragha",
+    "io.github.quodlibet.ExFalso",
+    "io.github.quodlibet.QuodLibet",
     "io.github.realmazharhussain.GdmSettings",
     "io.github.seadve.Breathing",
     "io.github.seadve.Kooha",

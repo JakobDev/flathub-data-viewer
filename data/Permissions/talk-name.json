@@ -52,6 +52,7 @@
         "com.redis.RedisInsight",
         "com.simplenote.Simplenote",
         "com.skype.Client",
+        "com.slack.Slack",
         "com.syntevo.SmartGit",
         "com.ticktick.TickTick",
         "com.todoist.Todoist",
