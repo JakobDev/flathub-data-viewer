@@ -473,9 +473,6 @@
     "org.kde.kmail": [
         "org.kde.kontact"
     ],
-    "org.kde.kalendar": [
-        "org.kde.kontact"
-    ],
     "org.freedesktop.akonadi.resource.*": [
         "org.kde.kontact"
     ],
@@ -483,6 +480,9 @@
         "org.kde.kontact"
     ],
     "org.kde.kalarm": [
+        "org.kde.kontact"
+    ],
+    "org.kde.merkuro": [
         "org.kde.kontact"
     ],
     "org.kde.kmail2": [

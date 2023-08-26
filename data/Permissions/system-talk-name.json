@@ -108,6 +108,7 @@
         "org.kde.isoimagewriter",
         "org.kde.kaffeine",
         "org.kde.kdenlive",
+        "org.kde.kimagemapeditor",
         "org.kde.kmplayer",
         "org.kde.kmymoney",
         "org.kde.kommit",
