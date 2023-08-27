@@ -3237,6 +3237,9 @@
     "~/.kube/config": [
         "dev.k8slens.OpenLens"
     ],
+    "xdg-documents/Linwood/Butterfly": [
+        "dev.linwood.butterfly"
+    ],
     "~/.wallpaperdownloader:create": [
         "es.estoes.wallpaperDownloader"
     ],
