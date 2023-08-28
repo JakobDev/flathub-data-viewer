@@ -27,7 +27,6 @@
         "org.nickvision.tagger",
         "org.nickvision.tubeconverter",
         "org.syphon.Syphon",
-        "org.winehq.Wine",
         "ru.proninyaroslav.libretrack",
         "ua.org.brezblock.q4wine"
     ],
@@ -117,7 +116,6 @@
         "org.sil.FieldWorks",
         "org.strawberrymusicplayer.strawberry",
         "org.thonny.Thonny",
-        "org.winehq.Wine",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
     ],

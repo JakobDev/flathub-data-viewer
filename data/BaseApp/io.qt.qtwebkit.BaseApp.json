@@ -3,6 +3,7 @@
         "ch.openboard.OpenBoard",
         "com.github.fontmatrix.Fontmatrix",
         "com.icanblink.blink",
+        "com.ktechpit.orion",
         "com.ktechpit.torrhunt",
         "org.goldendict.GoldenDict",
         "org.kde.skrooge",

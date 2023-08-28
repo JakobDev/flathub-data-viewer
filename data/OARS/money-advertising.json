@@ -8,6 +8,7 @@
     "moderate": [
         "com.fightcade.Fightcade",
         "com.lunarclient.LunarClient",
+        "io.github.tdesktop_x64.TDesktop",
         "nl.lostboys.rollemup",
         "org.telegram"
     ],

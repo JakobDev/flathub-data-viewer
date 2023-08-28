@@ -25,6 +25,7 @@
     "io.github.parnassius.SysDVR-Qt",
     "io.github.qtox.qTox",
     "io.github.sharkwouter.Minigalaxy",
+    "io.github.tdesktop_x64.TDesktop",
     "io.github.xiaoyifang.goldendict_ng",
     "io.gitlab.librewolf-community",
     "io.itch.itch",
@@ -55,7 +56,6 @@
     "org.remmina.Remmina",
     "org.ryujinx.Ryujinx",
     "org.sdrangel.SDRangel",
-    "org.winehq.Wine",
     "re.chiaki.Chiaki",
     "ru.sview.sView",
     "ua.org.brezblock.q4wine"

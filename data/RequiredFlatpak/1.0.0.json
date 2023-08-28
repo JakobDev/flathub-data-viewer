@@ -3,5 +3,6 @@
     "com.valvesoftware.Steam",
     "io.github.bothlab.syntalos",
     "org.gnome.Builder",
-    "org.mosh.mosh"
+    "org.mosh.mosh",
+    "xyz.tytanium.DoorKnocker"
 ]

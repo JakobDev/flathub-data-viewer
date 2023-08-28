@@ -1468,6 +1468,7 @@
         "text{SLASH}x-xsrc",
         "text{SLASH}x-zim-wiki",
         "text{SLASH}x-zsh",
+        "text{SLASH}x.beancount",
         "text{SLASH}xml",
         "text{SLASH}xml-dtd",
         "text{SLASH}yaml",

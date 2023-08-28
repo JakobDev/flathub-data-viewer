@@ -145,6 +145,10 @@
     "com.hack_computer.gamestateservice": [
         "com.hack_computer.Clubhouse"
     ],
+    "org.mpris.mediaplayer2.mpv.*": [
+        "com.ktechpit.orion",
+        "io.mpv.Mpv"
+    ],
     "org.mpris.mediaplayer2.tidal-hifi": [
         "com.mastermindzh.tidal-hifi"
     ],
@@ -276,9 +280,6 @@
     "io.howl.*": [
         "io.howl.Editor"
     ],
-    "org.mpris.mediaplayer2.mpv.*": [
-        "io.mpv.Mpv"
-    ],
     "org.mpris.mediaplayer2.karaokemugen.*": [
         "moe.karaokes.mugen"
     ],
@@ -398,6 +399,9 @@
     ],
     "org.gramps-project.gramps": [
         "org.gramps_project.Gramps"
+    ],
+    "org.gtimelog": [
+        "org.gtimelog.GTimeLog"
     ],
     "org.freedesktop.akonadi.*": [
         "org.kde.akregator",

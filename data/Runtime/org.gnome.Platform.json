@@ -112,7 +112,6 @@
         "org.gnome.gbrainy",
         "org.gnome.gedit",
         "org.gnome.gitlab.Cowsay",
-        "org.gnome.gitlab.johannesjh.favagtk",
         "org.gnome.seahorse.Application",
         "org.mpdevil.mpdevil",
         "org.parlatype.Parlatype",
@@ -299,6 +298,7 @@
         "io.github.TheWisker.Cavasik",
         "io.github.TransmissionRemoteGtk",
         "io.github.achetagames.epic_asset_manager",
+        "io.github.adrienverge.PhotoCollage",
         "io.github.aerocyber.sitemarker",
         "io.github.alainm23.planify",
         "io.github.alexkdeveloper.gomoku",
@@ -339,6 +339,7 @@
         "io.github.nokse22.inspector",
         "io.github.nokse22.minitext",
         "io.github.nokse22.teleprompter",
+        "io.github.nokse22.trivia-quiz",
         "io.github.orontee.Argos",
         "io.github.qwersyk.Newelle",
         "io.github.realmazharhussain.GdmSettings",
@@ -493,6 +494,7 @@
         "org.gnome.gitlab.bazylevnik0.Convolution",
         "org.gnome.gitlab.cheywood.Iotas",
         "org.gnome.gitlab.dqpb.GMetronome",
+        "org.gnome.gitlab.johannesjh.favagtk",
         "org.gnome.gitlab.powimod.aion-task",
         "org.gnome.gitlab.somas.Apostrophe",
         "org.gnome.glabels-3",
@@ -506,6 +508,7 @@
         "org.gpodder.gpodder",
         "org.gramps_project.Gramps",
         "org.grisbi.Grisbi",
+        "org.gtimelog.GTimeLog",
         "org.gustavoperedo.FontDownloader",
         "org.inkscape.Inkscape",
         "org.karapulse.Karapulse",
@@ -540,6 +543,7 @@
         "org.sugarlabs.Memorize",
         "org.sugarlabs.MusicKeyboard",
         "org.sugarlabs.Paint",
+        "org.sugarlabs.Physics",
         "org.sugarlabs.Pippy",
         "org.sugarlabs.Pukllanapac",
         "org.sugarlabs.ReadETexts",
@@ -560,6 +564,7 @@
         "org.zim_wiki.Zim",
         "org.zrythm.Zrythm",
         "page.codeberg.Imaginer.Imaginer",
+        "page.codeberg.foreverxml.Random",
         "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "page.codeberg.tpikonen.geobug",
         "page.codeberg.tpikonen.satellite",
@@ -574,7 +579,8 @@
         "sm.puri.Chatty",
         "uk.co.mangobrain.Infector",
         "uk.et1.big-finish-downloader",
-        "work.openpaper.Paperwork"
+        "work.openpaper.Paperwork",
+        "xyz.tytanium.DoorKnocker"
     ],
     "42": [
         "app.riftshare.RiftShare",
@@ -658,8 +664,7 @@
         "org.librehunt.Organizer",
         "org.mypaint.MyPaint",
         "org.sil.Bloom",
-        "org.tabos.twofun",
-        "page.codeberg.foreverxml.Random"
+        "org.tabos.twofun"
     ],
     "41": [
         "co.luoja.Telyn",
@@ -697,8 +702,7 @@
         "io.howl.Editor",
         "net.sourceforge.electrip.Electrip",
         "org.gnome.Eolie",
-        "org.gnome.OfficeRunner",
-        "org.sugarlabs.Physics"
+        "org.gnome.OfficeRunner"
     ],
     "3.38": [
         "com.gigitux.youp",

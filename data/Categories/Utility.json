@@ -423,6 +423,7 @@
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
     "org.gnupg.GPA",
+    "org.gtimelog.GTimeLog",
     "org.gtkhash.gtkhash",
     "org.guerinoni.qTsConverter",
     "org.gustavoperedo.FontDownloader",
@@ -495,6 +496,7 @@
     "uk.et1.big-finish-downloader",
     "uk.org.zint.zint-qt",
     "xyz.ljoonal.neospeeps",
+    "xyz.tytanium.DoorKnocker",
     "xyz.xclicker.xclicker",
     "com.sublimetext.three.DevUtils"
 ]

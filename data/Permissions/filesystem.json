@@ -195,6 +195,7 @@
         "io.github.NickKarpowicz.LightwaveExplorer",
         "io.github.RodZill4.Material-Maker",
         "io.github.aandrew_me.ytdn",
+        "io.github.adrienverge.PhotoCollage",
         "io.github.am2r_community_developers.Atomic",
         "io.github.antimicrox.antimicrox",
         "io.github.benini.scid",
@@ -496,6 +497,7 @@
         "com.js8call.JS8Call",
         "com.kristianduske.TrenchBroom",
         "com.ktechpit.colorwall",
+        "com.ktechpit.orion",
         "com.ktechpit.torrhunt",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
@@ -509,7 +511,6 @@
         "com.ozmartians.VidCutter",
         "com.parallax.PropellerIDE",
         "com.polyphone_soundfonts.polyphone",
-        "com.riverbankcomputing.PyQt.BaseApp",
         "com.rocksandpaper.syndic",
         "com.rosegardenmusic.rosegarden",
         "com.rtosta.zapzap",
@@ -658,7 +659,6 @@
         "io.qt.Linguist",
         "io.qt.QtCreator",
         "io.qt.qdbusviewer",
-        "io.qt.qtwebengine.BaseApp",
         "io.sourceforge.chart_geany.chart-geany",
         "io.sourceforge.pentobi",
         "io.sourceforge.qoobar.Qoobar",
@@ -1109,6 +1109,7 @@
         "com.google.EarthPro",
         "com.icons8.Lunacy",
         "com.ktechpit.colorwall",
+        "com.ktechpit.orion",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.ktechpit.wonderwall",
@@ -1226,7 +1227,6 @@
         "org.syphon.Syphon",
         "org.tuxfamily.hatari",
         "org.twinery.Twine",
-        "org.winehq.Wine",
         "org.zaproxy.ZAP",
         "org.zotero.Zotero",
         "org.zulip.Zulip",
@@ -1635,7 +1635,6 @@
         "org.sdrangel.SDRangel",
         "org.soapui.SoapUI",
         "org.standardnotes.standardnotes",
-        "org.winehq.Wine",
         "org.xnec2c.Xnec2c",
         "org.zaproxy.ZAP",
         "org.zotero.Zotero",
@@ -1710,7 +1709,6 @@
         "org.soundconverter.SoundConverter",
         "org.strawberrymusicplayer.strawberry",
         "org.subtitld.Subtitld",
-        "org.winehq.Wine",
         "org.zotero.Zotero",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
@@ -1962,6 +1960,7 @@
         "io.github.kotatogram",
         "io.github.muse_sequencer.Muse",
         "io.github.streetpea.Chiaki4deck",
+        "io.github.tdesktop_x64.TDesktop",
         "io.gitlab.librewolf-community",
         "io.jamulus.Jamulus",
         "io.lmms.LMMS",
@@ -2170,6 +2169,7 @@
         "com.hamrick.VueScan",
         "com.kolor.AutopanoPro",
         "com.ktechpit.colorwall",
+        "com.ktechpit.orion",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.tracktion.Waveform",
@@ -2213,7 +2213,6 @@
         "org.qutebrowser.qutebrowser",
         "org.scummvm.ScummVM",
         "org.subtitld.Subtitld",
-        "org.winehq.Wine",
         "org.zotero.Zotero",
         "org.zulip.Zulip",
         "tv.kodi.Kodi",
@@ -2229,6 +2228,7 @@
         "com.github.eneshecan.WhatsAppForLinux",
         "com.github.rafostar.Clapper",
         "com.google.Chrome",
+        "com.ktechpit.orion",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.microsoft.Edge",
@@ -2267,7 +2267,6 @@
         "org.kde.kamoso",
         "org.qutebrowser.qutebrowser",
         "org.sigxcpu.Livi",
-        "org.winehq.Wine",
         "org.zotero.Zotero",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
@@ -2334,6 +2333,7 @@
         "com.github.xournalpp.xournalpp",
         "com.icons8.Lunacy",
         "com.ktechpit.colorwall",
+        "com.ktechpit.orion",
         "com.ktechpit.torrhunt",
         "com.neatdecisions.Detwinner",
         "com.protonvpn.www",
@@ -2549,7 +2549,6 @@
         "net.xmind.XMind",
         "one.ablaze.floorp",
         "org.firestormviewer.FirestormViewer",
-        "org.winehq.Wine",
         "org.zotero.Zotero",
         "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "ua.org.brezblock.q4wine",
@@ -2628,6 +2627,7 @@
         "com.github.ilai_deutel.kibi",
         "com.github.marktext.marktext",
         "com.helix_editor.Helix",
+        "com.ktechpit.orion",
         "com.outerwildsmods.owmods_gui",
         "com.qq.QQ",
         "com.rawtherapee.RawTherapee",
@@ -2686,6 +2686,7 @@
         "com.github.Matoking.protontricks",
         "com.github.theCalcaholic.StreamDeck",
         "com.heroicgameslauncher.hgl",
+        "gg.minion.Minion",
         "io.github.philipk.boilr",
         "io.github.tralph3.Steam_Metadata_Editor",
         "xyz.hyperplay.HyperPlay"
@@ -3181,7 +3182,6 @@
     ],
     "~/.local/share/Steam": [
         "com.vysp3r.ProtonPlus",
-        "gg.minion.Minion",
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/com.heroicgameslauncher.hgl/config/heroic": [
@@ -3266,6 +3266,9 @@
     ],
     "~/RPMLauncher:create": [
         "ga.rpmtw.rpmlauncher"
+    ],
+    "xdg-documents/Elder Scrolls Online": [
+        "gg.minion.Minion"
     ],
     "~/Games": [
         "gg.minion.Minion"

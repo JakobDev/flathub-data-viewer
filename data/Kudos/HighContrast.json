@@ -292,5 +292,6 @@
     "ro.hume.cosmin.ShoppingList",
     "se.sjoerd.GIScan",
     "se.sjoerd.Graphs",
-    "sm.puri.Chatty"
+    "sm.puri.Chatty",
+    "xyz.tytanium.DoorKnocker"
 ]
