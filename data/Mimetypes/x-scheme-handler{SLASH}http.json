@@ -1,5 +1,6 @@
 [
     "com.brave.Browser",
+    "com.ghostery.browser",
     "com.github.Eloston.UngoogledChromium",
     "com.github.fries1234.ncsa-mosaic",
     "com.google.Chrome",

@@ -1,5 +1,6 @@
 [
     "com.brave.Browser",
+    "com.ghostery.browser",
     "com.github.cfcurtis.pdfstitcher",
     "com.github.theironrobin.siglo",
     "com.gitlab.kendellfab.restscope",

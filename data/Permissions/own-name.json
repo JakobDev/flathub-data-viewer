@@ -67,6 +67,14 @@
     "org.mpris.mediaplayer2.euterpe-gtk": [
         "com.doycho.euterpe.gtk"
     ],
+    "org.mpris.mediaplayer2.firefox.*": [
+        "com.ghostery.browser",
+        "io.gitlab.librewolf-community",
+        "net.mullvad.MullvadBrowser",
+        "net.waterfox.waterfox",
+        "one.ablaze.floorp",
+        "org.mozilla.firefox"
+    ],
     "org.mpris.mediaplayer2.chromium.*": [
         "com.github.Eloston.UngoogledChromium",
         "com.github.rhyme_player.rhyme",
@@ -263,13 +271,6 @@
     ],
     "com.gmail.grumbel.jstest-gtk": [
         "io.gitlab.jstest_gtk.jstest_gtk"
-    ],
-    "org.mpris.mediaplayer2.firefox.*": [
-        "io.gitlab.librewolf-community",
-        "net.mullvad.MullvadBrowser",
-        "net.waterfox.waterfox",
-        "one.ablaze.floorp",
-        "org.mozilla.firefox"
     ],
     "io.gitlab.librewolf.*": [
         "io.gitlab.librewolf-community"

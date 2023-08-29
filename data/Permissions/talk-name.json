@@ -1634,6 +1634,7 @@
         "app.drey.Warp",
         "com.brave.Browser",
         "com.frac_tion.teleport",
+        "com.ghostery.browser",
         "com.github.Eloston.UngoogledChromium",
         "com.github.calo001.fondo",
         "com.google.Chrome",
@@ -1905,6 +1906,7 @@
         "com.elsevier.MendeleyDesktop",
         "com.fightcade.Fightcade",
         "com.getmailspring.Mailspring",
+        "com.ghostery.browser",
         "com.gigitux.youp",
         "com.github.Eloston.UngoogledChromium",
         "com.github.IsmaelMartinez.teams_for_linux",
@@ -2455,6 +2457,7 @@
         "com.brave.Browser",
         "com.discordapp.Discord",
         "com.fightcade.Fightcade",
+        "com.ghostery.browser",
         "com.github.Eloston.UngoogledChromium",
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.artemanufrij.playmymusic",
@@ -2548,6 +2551,7 @@
         "com.abisource.AbiWord",
         "com.axosoft.GitKraken",
         "com.belmoussaoui.Authenticator",
+        "com.ghostery.browser",
         "com.github.PintaProject.Pinta",
         "com.github.alainm23.byte",
         "com.github.artemanufrij.playmymusic",
@@ -2658,6 +2662,7 @@
     ],
     "org.gnome.sessionmanager": [
         "com.brave.Browser",
+        "com.ghostery.browser",
         "com.github.Eloston.UngoogledChromium",
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.calo001.fondo",
@@ -2754,6 +2759,21 @@
         "moe.tundra.Tundra",
         "org.gajim.Gajim",
         "org.nicotine_plus.Nicotine"
+    ],
+    "org.a11y.bus": [
+        "com.ghostery.browser",
+        "com.obsproject.Studio",
+        "com.zhqli.wikit",
+        "eu.betterbird.Betterbird",
+        "io.github.manisandro.gImageReader",
+        "io.gitlab.librewolf-community",
+        "io.itch.azagaya.Laigter",
+        "io.sourceforge.qoobar.Qoobar",
+        "net.waterfox.waterfox",
+        "one.ablaze.floorp",
+        "org.mozilla.Thunderbird",
+        "org.mozilla.firefox",
+        "org.nomacs.ImageLounge"
     ],
     "org.gtk.notifications": [
         "com.github.IsmaelMartinez.teams_for_linux",
@@ -2956,20 +2976,6 @@
     ],
     "org.freedesktop.portal.trash": [
         "com.neatdecisions.Detwinner"
-    ],
-    "org.a11y.bus": [
-        "com.obsproject.Studio",
-        "com.zhqli.wikit",
-        "eu.betterbird.Betterbird",
-        "io.github.manisandro.gImageReader",
-        "io.gitlab.librewolf-community",
-        "io.itch.azagaya.Laigter",
-        "io.sourceforge.qoobar.Qoobar",
-        "net.waterfox.waterfox",
-        "one.ablaze.floorp",
-        "org.mozilla.Thunderbird",
-        "org.mozilla.firefox",
-        "org.nomacs.ImageLounge"
     ],
     "org.freedesktop.dbus.introspectable.*": [
         "com.prusa3d.PrusaSlicer"
