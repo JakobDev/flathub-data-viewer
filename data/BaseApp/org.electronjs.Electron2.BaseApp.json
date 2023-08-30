@@ -93,6 +93,7 @@
         "io.kopia.KopiaUI",
         "io.podman_desktop.PodmanDesktop",
         "io.typora.Typora",
+        "io.vikunja.Vikunja",
         "io.webtorrent.WebTorrent",
         "life.bolls.bolls",
         "md.obsidian.Obsidian",

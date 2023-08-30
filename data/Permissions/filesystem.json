@@ -1137,6 +1137,7 @@
         "de.schmidhuberj.tubefeeder",
         "de.shorsh.discord-screenaudio",
         "dev.vieb.Vieb",
+        "engineer.atlas.Nyxt",
         "eu.betterbird.Betterbird",
         "fi.skyjake.Lagrange",
         "fm.cancel.Ripcord",
@@ -1337,6 +1338,7 @@
         "fr.free.qccrypt.Qccrypt",
         "fr.handbrake.ghb",
         "fr.natron.Natron",
+        "hu.kramo.Cartridges",
         "info.puredata.Pd-extended",
         "info.smplayer.SMPlayer",
         "io.atom.Atom",
@@ -1584,6 +1586,7 @@
         "com.zquestclassic.ZQuest",
         "de.halaszovich.PMbrowser",
         "dev.vieb.Vieb",
+        "engineer.atlas.Nyxt",
         "eu.cichy1173.tabela",
         "fr.free.hxc2001.HxCFloppyEmulator",
         "io.enpass.Enpass",
@@ -1672,6 +1675,7 @@
         "com.ylsoftware.qmmp.Qmmp",
         "de.haeckerfelix.Shortwave",
         "dev.vieb.Vieb",
+        "engineer.atlas.Nyxt",
         "io.github.cmus.cmus",
         "io.github.jacalz.rymdport",
         "io.github.janbar.noson",
@@ -1896,7 +1900,6 @@
         "com.tutanota.Tutanota",
         "com.virustotal.VirusTotalUploader",
         "dev.levz.TinyImageFinder",
-        "hu.kramo.Cartridges",
         "info.cemu.Cemu",
         "io.github.hakandundar34coding.system-monitoring-center",
         "io.github.jorchube.monitorets",
@@ -2029,6 +2032,7 @@
         "io.github.Youda008.DoomRunner",
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.fabiangreffrath.Doom",
+        "io.github.mihnea_radulescu.imagefanreloaded",
         "io.github.troyeguo.koodo-reader",
         "io.github.unrud.RecentFilter",
         "net.rpcs3.RPCS3",
@@ -2180,6 +2184,7 @@
         "com.wps.Office",
         "de.marlam.gencolormap",
         "dev.vieb.Vieb",
+        "engineer.atlas.Nyxt",
         "eu.ngdevelopment.tsukitag",
         "in.bharatkalluri.splash",
         "info.febvre.Komikku",
@@ -2241,6 +2246,7 @@
         "com.viber.Viber",
         "com.wps.Office",
         "dev.vieb.Vieb",
+        "engineer.atlas.Nyxt",
         "io.github.jacalz.rymdport",
         "io.github.qnapi",
         "io.github.qtox.qTox",
@@ -2951,6 +2957,7 @@
         "com.github.rhyme_player.rhyme",
         "de.halaszovich.PMbrowser",
         "io.github.Soundux",
+        "io.github.mihnea_radulescu.imagefanreloaded",
         "net.openra.OpenRA",
         "org.atheme.audacious",
         "org.gnome.Evince",
@@ -3390,6 +3397,11 @@
         "io.github.lruzicka.Needly",
         "org.virt_manager.virt-viewer"
     ],
+    "/mnt:ro": [
+        "io.github.mihnea_radulescu.imagefanreloaded",
+        "org.jellyfin.JellyfinServer",
+        "org.purei.Play"
+    ],
     "xdg-data/fonts:create": [
         "io.github.mmstick.FontFinder",
         "org.gnome.font-viewer"
@@ -3800,10 +3812,6 @@
     ],
     "~/.local/share/fonts:create": [
         "org.gustavoperedo.FontDownloader"
-    ],
-    "/mnt:ro": [
-        "org.jellyfin.JellyfinServer",
-        "org.purei.Play"
     ],
     "~/Jellyfin Server Media:create": [
         "org.jellyfin.JellyfinServer"

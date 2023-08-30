@@ -19,6 +19,7 @@
     "io.github.shiftey.Desktop",
     "io.podman_desktop.PodmanDesktop",
     "io.qt.qtwebengine.BaseApp",
+    "io.vikunja.Vikunja",
     "me.acristoffers.Lachesis",
     "moe.karaokes.mugen",
     "net.agalwood.Motrix",

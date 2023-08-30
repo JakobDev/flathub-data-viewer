@@ -1592,6 +1592,7 @@
         "x-scheme-handler{SLASH}calendar",
         "x-scheme-handler{SLASH}calibre",
         "x-scheme-handler{SLASH}callto",
+        "x-scheme-handler{SLASH}chrome",
         "x-scheme-handler{SLASH}cider",
         "x-scheme-handler{SLASH}clonk",
         "x-scheme-handler{SLASH}cloudkit-7adb8cc6tf.in.sine",
