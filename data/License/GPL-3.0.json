@@ -225,6 +225,7 @@
     "org.zdoom.GZDoom",
     "page.codeberg.JakobDev.jdAnimatedImageEditor",
     "page.codeberg.JakobDev.jdAppStreamEdit",
+    "page.codeberg.JakobDev.jdDBusDebugger",
     "page.codeberg.JakobDev.jdDesktopEntryEdit",
     "page.codeberg.JakobDev.jdDiff",
     "page.codeberg.JakobDev.jdEolConverter",

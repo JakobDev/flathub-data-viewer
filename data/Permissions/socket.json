@@ -477,6 +477,7 @@
         "com.leinardi.gwe",
         "com.leinardi.gx52",
         "com.lettier.movie-monad",
+        "com.librumreader.librum",
         "com.lixgame.Lix",
         "com.locomalito.abbayedesmorts",
         "com.logseq.Logseq",
@@ -578,6 +579,7 @@
         "com.stremio.Stremio",
         "com.sublimemerge.App",
         "com.sublimetext.three",
+        "com.sudovanilla.penpot-desktop",
         "com.supermodel3.Supermodel",
         "com.sweethome3d.Sweethome3d",
         "com.sweetscape.ZeroOneZeroEditor",
@@ -1130,6 +1132,7 @@
         "io.gitlab.floodlight.Presenter",
         "io.gitlab.gregorni.ASCIIImages",
         "io.gitlab.gregorni.Calligraphy",
+        "io.gitlab.gwendalj.package-transporter",
         "io.gitlab.idevecore.Pomodoro",
         "io.gitlab.jazztickets.choria",
         "io.gitlab.jazztickets.emptyclip",
@@ -2137,6 +2140,7 @@
         "page.codeberg.JakobDev.CCLite",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
         "page.codeberg.JakobDev.jdAppStreamEdit",
+        "page.codeberg.JakobDev.jdDBusDebugger",
         "page.codeberg.JakobDev.jdDesktopEntryEdit",
         "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdEolConverter",
@@ -2563,6 +2567,7 @@
         "com.leinardi.gst",
         "com.leinardi.gx52",
         "com.lettier.movie-monad",
+        "com.librumreader.librum",
         "com.locomalito.abbayedesmorts",
         "com.logseq.Logseq",
         "com.lunarclient.LunarClient",
@@ -2973,6 +2978,7 @@
         "io.gitlab.floodlight.Presenter",
         "io.gitlab.gregorni.ASCIIImages",
         "io.gitlab.gregorni.Calligraphy",
+        "io.gitlab.gwendalj.package-transporter",
         "io.gitlab.idevecore.Pomodoro",
         "io.gitlab.jazztickets.choria",
         "io.gitlab.jazztickets.emptyclip",
@@ -3678,6 +3684,7 @@
         "page.codeberg.JakobDev.CCLite",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
         "page.codeberg.JakobDev.jdAppStreamEdit",
+        "page.codeberg.JakobDev.jdDBusDebugger",
         "page.codeberg.JakobDev.jdDesktopEntryEdit",
         "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdEolConverter",
@@ -4017,6 +4024,7 @@
         "com.leinardi.gkraken",
         "com.leinardi.gst",
         "com.leinardi.gx52",
+        "com.librumreader.librum",
         "com.maplerain.telsis_translator_flutter",
         "com.mardojai.DiccionarioLengua",
         "com.mardojai.ForgeSparks",
@@ -4353,6 +4361,7 @@
         "io.gitlab.floodlight.Presenter",
         "io.gitlab.gregorni.ASCIIImages",
         "io.gitlab.gregorni.Calligraphy",
+        "io.gitlab.gwendalj.package-transporter",
         "io.gitlab.idevecore.Pomodoro",
         "io.gitlab.jazztickets.choria",
         "io.gitlab.jazztickets.emptyclip",
@@ -4873,6 +4882,7 @@
         "page.codeberg.JakobDev.CCLite",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
         "page.codeberg.JakobDev.jdAppStreamEdit",
+        "page.codeberg.JakobDev.jdDBusDebugger",
         "page.codeberg.JakobDev.jdDesktopEntryEdit",
         "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdEolConverter",
@@ -6167,7 +6177,8 @@
         "org.freedesktop.Bustle",
         "org.gnome.Builder",
         "org.gnome.dspy",
-        "org.xfce.ristretto"
+        "org.xfce.ristretto",
+        "page.codeberg.JakobDev.jdDBusDebugger"
     ],
     "system-bus": [
         "io.github.bothlab.syntalos",
@@ -6175,6 +6186,7 @@
         "org.codeblocks.codeblocks",
         "org.freedesktop.Bustle",
         "org.gnome.Builder",
-        "org.gnome.dspy"
+        "org.gnome.dspy",
+        "page.codeberg.JakobDev.jdDBusDebugger"
     ]
 }

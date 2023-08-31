@@ -110,6 +110,7 @@
         "com.jaquadro.NBTExplorer",
         "com.jetbrains.PhpStorm",
         "com.jpexs.decompiler.flash",
+        "com.librumreader.librum",
         "com.logseq.Logseq",
         "com.mattermost.Desktop",
         "com.mongodb.Compass",
@@ -379,6 +380,7 @@
         "org.nickvision.money",
         "org.nmap.Zenmap",
         "org.nomacs.ImageLounge",
+        "org.octave.Octave",
         "org.openchemistry.Avogadro2",
         "org.opencpn.OpenCPN",
         "org.openmsx.openMSX",
@@ -402,6 +404,7 @@
         "org.stellarium.Stellarium",
         "org.sugarlabs.MusicBlocks",
         "org.telesculptor.TeleSculptor",
+        "org.texstudio.TeXstudio",
         "org.thonny.Thonny",
         "org.tomviz.Tomviz",
         "org.tryton.Tryton-66",
@@ -502,6 +505,7 @@
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.ktechpit.wonderwall",
+        "com.librumreader.librum",
         "com.makemkv.MakeMKV",
         "com.moonlight_stream.Moonlight",
         "com.nextcloud.desktopclient.nextcloud",
@@ -1013,6 +1017,7 @@
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
         "page.codeberg.JakobDev.jdAppStreamEdit",
+        "page.codeberg.JakobDev.jdDBusDebugger",
         "page.codeberg.JakobDev.jdDesktopEntryEdit",
         "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdEolConverter",
@@ -1495,7 +1500,6 @@
         "org.mattbas.Glaxnimate",
         "org.nicotine_plus.Nicotine",
         "org.nongnu.gsequencer.gsequencer",
-        "org.octave.Octave",
         "org.olivevideoeditor.Olive",
         "org.onlyoffice.desktopeditors",
         "org.openkj.OpenKJ",
@@ -1518,7 +1522,6 @@
         "org.synfig.SynfigStudio",
         "org.tabos.roger",
         "org.tenacityaudio.Tenacity",
-        "org.texstudio.TeXstudio",
         "org.tug.texworks",
         "org.videolan.VLC",
         "org.viking.Viking",
@@ -1774,11 +1777,13 @@
         "org.mavlink.qgroundcontrol",
         "org.moneymanagerex.MMEX",
         "org.nomacs.ImageLounge",
+        "org.octave.Octave",
         "org.opennumismat.OpenNumismat",
         "org.raspberrypi.rpi-imager",
         "org.sabnzbd.sabnzbd",
         "org.soundconverter.SoundConverter",
         "org.strawberrymusicplayer.strawberry",
+        "org.texstudio.TeXstudio",
         "org.thonny.Thonny",
         "org.virtualxt.VirtualXT",
         "org.zim_wiki.Zim",
@@ -1838,11 +1843,13 @@
         "org.kde.dolphin",
         "org.kde.kaffeine",
         "org.moneymanagerex.MMEX",
+        "org.octave.Octave",
         "org.opennumismat.OpenNumismat",
         "org.raspberrypi.rpi-imager",
         "org.sabnzbd.sabnzbd",
         "org.soundconverter.SoundConverter",
         "org.strawberrymusicplayer.strawberry",
+        "org.texstudio.TeXstudio",
         "org.thonny.Thonny",
         "org.virtualxt.VirtualXT",
         "org.zim_wiki.Zim",
@@ -2503,7 +2510,9 @@
         "org.clementine_player.Clementine",
         "org.libvips.vipsdisp",
         "org.moneymanagerex.MMEX",
+        "org.octave.Octave",
         "org.strawberrymusicplayer.strawberry",
+        "org.texstudio.TeXstudio",
         "tv.kodi.Kodi"
     ],
     "xdg-desktop:ro": [
@@ -2864,6 +2873,7 @@
         "com.hack_computer.Clubhouse",
         "io.github.giantpinkrobots.flatsweep",
         "io.github.shiftey.Desktop",
+        "io.gitlab.gwendalj.package-transporter",
         "io.missioncenter.MissionCenter"
     ],
     "~/.Xilinx:create": [
@@ -3487,6 +3497,10 @@
     "~/.cinnamon:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
+    "~/.var/app:ro": [
+        "io.gitlab.gwendalj.package-transporter",
+        "page.codeberg.libre_menu_editor.LibreMenuEditor"
+    ],
     "xdg-documents/O20:create": [
         "io.gitlab.o20.word"
     ],
@@ -3834,6 +3848,14 @@
     "~/.local/share/textsecure.nanuc:create": [
         "org.nanuc.Axolotl"
     ],
+    "/var/mnt": [
+        "org.octave.Octave",
+        "org.texstudio.TeXstudio"
+    ],
+    "/var/run/media": [
+        "org.octave.Octave",
+        "org.texstudio.TeXstudio"
+    ],
     "~/OnionShare:create": [
         "org.onionshare.OnionShare"
     ],
@@ -3893,9 +3915,6 @@
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "/var/lib/snapd:ro": [
-        "page.codeberg.libre_menu_editor.LibreMenuEditor"
-    ],
-    "~/.var/app:ro": [
         "page.codeberg.libre_menu_editor.LibreMenuEditor"
     ],
     "xdg-documents/geobug-tracks:create": [
