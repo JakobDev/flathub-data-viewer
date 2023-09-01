@@ -1746,6 +1746,7 @@
         "x-scheme-handler{SLASH}ravkav",
         "x-scheme-handler{SLASH}rdm",
         "x-scheme-handler{SLASH}rdp",
+        "x-scheme-handler{SLASH}redisinsight",
         "x-scheme-handler{SLASH}redshift",
         "x-scheme-handler{SLASH}remmina",
         "x-scheme-handler{SLASH}retroshare",

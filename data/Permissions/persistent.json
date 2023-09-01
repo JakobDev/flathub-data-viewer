@@ -531,9 +531,6 @@
     ".hedgewars": [
         "org.hedgewars.Hedgewars"
     ],
-    ".hikounomizu": [
-        "org.hikounomizu.HikouNoMizu"
-    ],
     ".mplayer": [
         "org.kde.kmplayer"
     ],

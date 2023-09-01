@@ -455,6 +455,7 @@
     "org.linux_hardware.hw-probe",
     "org.localsend.localsend_app",
     "org.mavlink.qgroundcontrol",
+    "org.metal3d.scoreboard",
     "org.munadi.Munadi",
     "org.nongnu.Xlog",
     "org.openandroidinstaller.OpenAndroidInstaller",

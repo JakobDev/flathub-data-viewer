@@ -380,7 +380,6 @@
         "org.nickvision.money",
         "org.nmap.Zenmap",
         "org.nomacs.ImageLounge",
-        "org.octave.Octave",
         "org.openchemistry.Avogadro2",
         "org.opencpn.OpenCPN",
         "org.openmsx.openMSX",
@@ -404,7 +403,6 @@
         "org.stellarium.Stellarium",
         "org.sugarlabs.MusicBlocks",
         "org.telesculptor.TeleSculptor",
-        "org.texstudio.TeXstudio",
         "org.thonny.Thonny",
         "org.tomviz.Tomviz",
         "org.tryton.Tryton-66",
@@ -1500,6 +1498,7 @@
         "org.mattbas.Glaxnimate",
         "org.nicotine_plus.Nicotine",
         "org.nongnu.gsequencer.gsequencer",
+        "org.octave.Octave",
         "org.olivevideoeditor.Olive",
         "org.onlyoffice.desktopeditors",
         "org.openkj.OpenKJ",
@@ -1522,6 +1521,7 @@
         "org.synfig.SynfigStudio",
         "org.tabos.roger",
         "org.tenacityaudio.Tenacity",
+        "org.texstudio.TeXstudio",
         "org.tug.texworks",
         "org.videolan.VLC",
         "org.viking.Viking",
@@ -1745,6 +1745,7 @@
         "com.ultimaker.cura",
         "com.wps.Office",
         "com.xnview.XnViewMP",
+        "com.yacreader.YACReader",
         "cz.zeropage.Formiko",
         "dev.bsnes.bsnes",
         "dev.lukebriggs.pepys",
@@ -1777,13 +1778,11 @@
         "org.mavlink.qgroundcontrol",
         "org.moneymanagerex.MMEX",
         "org.nomacs.ImageLounge",
-        "org.octave.Octave",
         "org.opennumismat.OpenNumismat",
         "org.raspberrypi.rpi-imager",
         "org.sabnzbd.sabnzbd",
         "org.soundconverter.SoundConverter",
         "org.strawberrymusicplayer.strawberry",
-        "org.texstudio.TeXstudio",
         "org.thonny.Thonny",
         "org.virtualxt.VirtualXT",
         "org.zim_wiki.Zim",
@@ -1815,6 +1814,7 @@
         "com.vicr123.thebeat",
         "com.wps.Office",
         "com.xnview.XnViewMP",
+        "com.yacreader.YACReader",
         "dev.bsnes.bsnes",
         "dev.tchx84.Portfolio",
         "io.github.cmus.cmus",
@@ -1843,13 +1843,11 @@
         "org.kde.dolphin",
         "org.kde.kaffeine",
         "org.moneymanagerex.MMEX",
-        "org.octave.Octave",
         "org.opennumismat.OpenNumismat",
         "org.raspberrypi.rpi-imager",
         "org.sabnzbd.sabnzbd",
         "org.soundconverter.SoundConverter",
         "org.strawberrymusicplayer.strawberry",
-        "org.texstudio.TeXstudio",
         "org.thonny.Thonny",
         "org.virtualxt.VirtualXT",
         "org.zim_wiki.Zim",
@@ -2505,14 +2503,13 @@
         "com.github.ransome1.sleek",
         "com.github.weclaw1.ImageRoll",
         "com.heroicgameslauncher.hgl",
+        "com.yacreader.YACReader",
         "io.github.bothlab.pomidaq",
         "md.obsidian.Obsidian",
         "org.clementine_player.Clementine",
         "org.libvips.vipsdisp",
         "org.moneymanagerex.MMEX",
-        "org.octave.Octave",
         "org.strawberrymusicplayer.strawberry",
-        "org.texstudio.TeXstudio",
         "tv.kodi.Kodi"
     ],
     "xdg-desktop:ro": [
@@ -3848,14 +3845,6 @@
     "~/.local/share/textsecure.nanuc:create": [
         "org.nanuc.Axolotl"
     ],
-    "/var/mnt": [
-        "org.octave.Octave",
-        "org.texstudio.TeXstudio"
-    ],
-    "/var/run/media": [
-        "org.octave.Octave",
-        "org.texstudio.TeXstudio"
-    ],
     "~/OnionShare:create": [
         "org.onionshare.OnionShare"
     ],
@@ -3936,6 +3925,9 @@
         "re.sonny.Junction"
     ],
     "~/.wine:ro": [
+        "sh.ppy.osu"
+    ],
+    "~/.local/share/osu-wine:ro": [
         "sh.ppy.osu"
     ],
     "~/.osu:ro": [

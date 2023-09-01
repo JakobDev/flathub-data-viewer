@@ -22,6 +22,7 @@
     "org.getmonero.Monero",
     "org.gnode.NixView",
     "org.jupyter.JupyterLab",
+    "org.metal3d.scoreboard",
     "org.openchemistry.Avogadro2",
     "org.paraview.ParaView",
     "org.telesculptor.TeleSculptor",
