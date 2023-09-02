@@ -392,6 +392,8 @@
         "org.profex_xrd.Profex",
         "org.rncbc.qpwgraph",
         "org.rncbc.qsynth",
+        "org.rncbc.qtractor",
+        "org.stellarium.Stellarium",
         "org.strawberrymusicplayer.strawberry",
         "org.texstudio.TeXstudio",
         "org.wireshark.Wireshark",
@@ -570,9 +572,7 @@
         "org.mapeditor.Tiled",
         "org.opentransactions.metier",
         "org.otfried.Ipe",
-        "org.rncbc.qtractor",
         "org.shotcut.Shotcut",
-        "org.stellarium.Stellarium",
         "org.tug.texworks"
     ],
     "5.14": [

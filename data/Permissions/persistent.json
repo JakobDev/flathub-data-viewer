@@ -105,6 +105,7 @@
         "de.billardgl.Billardgl",
         "edu.berkeley.BOINC",
         "io.github.santiagocezar.maniatic-launcher",
+        "io.github.sharkwouter.Minigalaxy",
         "net.sourceforge.lgames.LPairs2"
     ],
     ".godot": [
@@ -191,6 +192,9 @@
     ],
     ".ccnet": [
         "com.seafile.Client"
+    ],
+    ".sealone": [
+        "com.seal_one.SealOne"
     ],
     ".stmcube": [
         "com.st.STM32CubeIDE"
