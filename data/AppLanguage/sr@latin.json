@@ -1,6 +1,7 @@
 [
     "ca.desrt.dconf-editor",
     "com.github.debauchee.barrier",
+    "im.pidgin.Pidgin",
     "io.github.Hexchat",
     "io.github.celluloid_player.Celluloid",
     "io.github.lainsce.Khronos",

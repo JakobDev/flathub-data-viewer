@@ -806,6 +806,7 @@
         "org.virtualxt.VirtualXT",
         "org.wesnoth.Wesnoth",
         "org.wezfurlong.wezterm",
+        "org.winehq.Wine",
         "org.wxhexeditor.wxHexEditor",
         "org.xfce.mousepad",
         "org.xfce.ristretto",

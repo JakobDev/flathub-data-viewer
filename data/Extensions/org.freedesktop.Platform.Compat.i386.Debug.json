@@ -11,5 +11,6 @@
     "io.itch.itch",
     "net.brinkervii.grapejuice",
     "org.phoenicis.playonlinux",
+    "org.winehq.Wine",
     "xyz.hyperplay.HyperPlay"
 ]

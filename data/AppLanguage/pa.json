@@ -1,5 +1,6 @@
 [
     "com.belmoussaoui.Authenticator",
+    "im.pidgin.Pidgin",
     "io.github.Hexchat",
     "net.poedit.Poedit",
     "org.gimp.GIMP",

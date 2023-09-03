@@ -16,7 +16,6 @@
         "org.frescobaldi.Frescobaldi",
         "org.opennumismat.OpenNumismat",
         "org.pairinteraction.Pairinteraction",
-        "org.plomgrading.PlomClient",
         "org.pymol.PyMOL",
         "se.sjoerd.GIScan"
     ],
@@ -24,6 +23,7 @@
         "com.rtosta.zapzap",
         "io.github.hydrusnetwork.hydrus",
         "me.mitya57.ReText",
+        "org.plomgrading.PlomClient",
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
         "page.codeberg.JakobDev.jdAppStreamEdit",

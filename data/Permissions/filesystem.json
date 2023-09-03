@@ -353,6 +353,7 @@
         "org.js.nuclear.Nuclear",
         "org.jupyter.JupyterLab",
         "org.kde.dolphin",
+        "org.kde.haruna",
         "org.kde.kaffeine",
         "org.kde.kalzium",
         "org.kde.kile",
@@ -513,6 +514,7 @@
         "com.ozmartians.VidCutter",
         "com.parallax.PropellerIDE",
         "com.polyphone_soundfonts.polyphone",
+        "com.riverbankcomputing.PyQt.BaseApp",
         "com.rocksandpaper.syndic",
         "com.rosegardenmusic.rosegarden",
         "com.rtosta.zapzap",
@@ -578,6 +580,7 @@
         "io.github.NhekoReborn.Nheko",
         "io.github.OpenToonz",
         "io.github.Qalculate.qalculate-qt",
+        "io.github.Sunderland93.sway-input-config",
         "io.github.Youda008.DoomRunner",
         "io.github._0xzer0x.qurancompanion",
         "io.github.antimicrox.antimicrox",
@@ -661,6 +664,7 @@
         "io.qt.Linguist",
         "io.qt.QtCreator",
         "io.qt.qdbusviewer",
+        "io.qt.qtwebengine.BaseApp",
         "io.sourceforge.chart_geany.chart-geany",
         "io.sourceforge.pentobi",
         "io.sourceforge.qoobar.Qoobar",
@@ -1121,6 +1125,7 @@
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
         "com.opera.Opera",
+        "com.pikatorrent.PikaTorrent",
         "com.qq.QQ",
         "com.rabbit_company.passky",
         "com.ranfdev.Geopard",
@@ -1232,6 +1237,7 @@
         "org.syphon.Syphon",
         "org.tuxfamily.hatari",
         "org.twinery.Twine",
+        "org.winehq.Wine",
         "org.zaproxy.ZAP",
         "org.zotero.Zotero",
         "org.zulip.Zulip",
@@ -1474,7 +1480,6 @@
         "org.karapulse.Karapulse",
         "org.kde.ark",
         "org.kde.gwenview",
-        "org.kde.haruna",
         "org.kde.index",
         "org.kde.isoimagewriter",
         "org.kde.kcachegrind",
@@ -1642,6 +1647,7 @@
         "org.sdrangel.SDRangel",
         "org.soapui.SoapUI",
         "org.standardnotes.standardnotes",
+        "org.winehq.Wine",
         "org.xnec2c.Xnec2c",
         "org.zaproxy.ZAP",
         "org.zotero.Zotero",
@@ -1717,6 +1723,7 @@
         "org.soundconverter.SoundConverter",
         "org.strawberrymusicplayer.strawberry",
         "org.subtitld.Subtitld",
+        "org.winehq.Wine",
         "org.zotero.Zotero",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
@@ -1927,6 +1934,7 @@
         "org.gnome.Devhelp",
         "org.gnome.Notes",
         "org.kde.elisa",
+        "org.kde.haruna",
         "org.linux_hardware.hw-probe",
         "org.mamedev.MAME",
         "org.pegasus_frontend.Pegasus",
@@ -2225,6 +2233,7 @@
         "org.qutebrowser.qutebrowser",
         "org.scummvm.ScummVM",
         "org.subtitld.Subtitld",
+        "org.winehq.Wine",
         "org.zotero.Zotero",
         "org.zulip.Zulip",
         "tv.kodi.Kodi",
@@ -2280,6 +2289,7 @@
         "org.kde.kamoso",
         "org.qutebrowser.qutebrowser",
         "org.sigxcpu.Livi",
+        "org.winehq.Wine",
         "org.zotero.Zotero",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
@@ -2562,6 +2572,7 @@
         "net.xmind.XMind",
         "one.ablaze.floorp",
         "org.firestormviewer.FirestormViewer",
+        "org.winehq.Wine",
         "org.zotero.Zotero",
         "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "ua.org.brezblock.q4wine",
@@ -2790,6 +2801,7 @@
         "io.github.ripose_jp.Memento",
         "io.mpv.Mpv",
         "me.timschneeberger.jdsp4linux",
+        "org.kde.haruna",
         "org.qutebrowser.qutebrowser"
     ],
     "xdg-templates": [
@@ -3365,6 +3377,12 @@
     ],
     "~/.local/share/zsh/site-functions:create": [
         "io.github.Foldex.r2mod"
+    ],
+    "/run/user:ro": [
+        "io.github.Sunderland93.sway-input-config"
+    ],
+    "xdg-config/sway": [
+        "io.github.Sunderland93.sway-input-config"
     ],
     "/srv": [
         "io.github.bothlab.pomidaq",
