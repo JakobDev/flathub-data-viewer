@@ -1,4 +1,5 @@
 [
+    "app.bluebubbles.BlueBubbles",
     "app.cantara.Cantara",
     "app.getclipboard.Clipboard",
     "ch.theologeek.Manuskript",
@@ -60,6 +61,7 @@
     "io.gitlab.daikhan.stable",
     "io.gitlab.gregorni.ASCIIImages",
     "io.gitlab.gregorni.Calligraphy",
+    "io.gitlab.idevecore.Pomodoro",
     "io.gitlab.theevilskeleton.Upscaler",
     "io.itch.itch",
     "io.jor.bugdom",

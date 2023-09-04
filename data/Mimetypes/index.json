@@ -1607,6 +1607,8 @@
         "x-scheme-handler{SLASH}dash",
         "x-scheme-handler{SLASH}dash-plugin",
         "x-scheme-handler{SLASH}dashpay",
+        "x-scheme-handler{SLASH}dcaccount",
+        "x-scheme-handler{SLASH}dclogin",
         "x-scheme-handler{SLASH}ddnet",
         "x-scheme-handler{SLASH}deckr",
         "x-scheme-handler{SLASH}deezer",

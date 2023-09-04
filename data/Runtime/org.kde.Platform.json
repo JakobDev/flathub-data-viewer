@@ -350,6 +350,7 @@
         "com.github.LongSoft.UEFITool",
         "com.github.Rosalie241.RMG",
         "com.github.dynobo.normcap",
+        "com.github.unrud.djpdf",
         "com.gitlab.tipp10.tipp10",
         "com.librumreader.librum",
         "com.riverbankcomputing.PyQt.BaseApp",
@@ -551,7 +552,6 @@
     "6.4": [
         "com.blockstream.Green",
         "com.github.AlizaMedicalImaging.AlizaMS",
-        "com.github.unrud.djpdf",
         "com.obsproject.Studio",
         "community.pathofbuilding.PathOfBuilding",
         "de.halaszovich.PMbrowser",

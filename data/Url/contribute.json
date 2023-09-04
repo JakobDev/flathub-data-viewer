@@ -1,8 +1,10 @@
 [
+    "app.bluebubbles.BlueBubbles",
     "app.cantara.Cantara",
     "app.getclipboard.Clipboard",
     "app.rednotebook.RedNotebook",
     "ch.theologeek.Manuskript",
+    "chat.delta",
     "com.dec05eba.gpu_screen_recorder",
     "com.expidusos.file_manager",
     "com.github.finefindus.eyedropper",

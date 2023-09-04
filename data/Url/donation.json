@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.bluebubbles.BlueBubbles",
     "app.drey.Blurble",
     "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",

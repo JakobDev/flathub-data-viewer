@@ -394,7 +394,6 @@
     "org.kde.PlatformTheme.QtSNI",
     "org.kde.Sdk",
     "org.kde.WaylandDecoration.QGnomePlatform-decoration",
-    "org.kicad.KiCad.ODBCDriver.sqliteodbc",
     "org.libreoffice.LibreOffice.BundledExtension.Voikko",
     "org.qutebrowser.qutebrowser.Userscripts",
     "org.radare.iaito.translations",

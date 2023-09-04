@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.bluebubbles.BlueBubbles",
     "app.cantara.Cantara",
     "app.drey.Blurble",
     "app.drey.Damask",
