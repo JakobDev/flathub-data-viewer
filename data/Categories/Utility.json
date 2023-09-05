@@ -225,6 +225,7 @@
     "io.github.alainm23.planify",
     "io.github.am2r_community_developers.Atomic",
     "io.github.amit9838.weather",
+    "io.github.andreibachim.shortcut",
     "io.github.antimicrox.antimicrox",
     "io.github.appoutlet.GameOutlet",
     "io.github.betaflight.BetaflightConfigurator",
@@ -500,6 +501,7 @@
     "uk.org.zint.zint-qt",
     "xyz.ljoonal.neospeeps",
     "xyz.tytanium.DoorKnocker",
+    "xyz.woxel.Woxel",
     "xyz.xclicker.xclicker",
     "com.sublimetext.three.DevUtils"
 ]

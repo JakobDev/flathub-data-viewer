@@ -144,6 +144,7 @@
     "org.gnome.seahorse.Application",
     "org.gnucash.GnuCash",
     "org.inkscape.Inkscape",
+    "org.kde.skrooge",
     "org.midori_browser.Midori",
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",

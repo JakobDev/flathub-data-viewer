@@ -574,6 +574,7 @@
         "io.github.searchandrescue2.sar2",
         "io.github.sharkwouter.oceanpop",
         "io.github.shiftey.Desktop",
+        "io.github.signus_game.signus",
         "io.github.sil_car.SqueezeVid",
         "io.github.slgobinath.SafeEyes",
         "io.github.snesrev.Zelda3",
@@ -899,7 +900,8 @@
         "xyz.rescribe.rescribe",
         "xyz.safeworlds.midiconn",
         "xyz.splashmapper.Splash",
-        "xyz.stuerz.BilligSweeper"
+        "xyz.stuerz.BilligSweeper",
+        "xyz.woxel.Woxel"
     ],
     "20.08": [
         "app.getspace.Space",

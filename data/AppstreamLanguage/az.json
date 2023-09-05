@@ -3,6 +3,7 @@
     "com.gitlab.davem.ClamTk",
     "com.xnview.XnViewMP",
     "fr.romainvigier.MetadataCleaner",
+    "org.fedoraproject.MediaWriter",
     "org.gnome.Aisleriot",
     "org.gnome.Calculator",
     "org.gnome.Devhelp",

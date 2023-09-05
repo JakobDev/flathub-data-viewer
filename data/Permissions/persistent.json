@@ -187,6 +187,14 @@
     ".q3rally": [
         "com.q3rally.Q3Rally"
     ],
+    ".config/zandronum": [
+        "com.qzandronum.Q-Zandronum",
+        "com.zandronum.Zandronum"
+    ],
+    ".config/doomseeker": [
+        "com.qzandronum.Q-Zandronum",
+        "com.zandronum.Zandronum"
+    ],
     ".Reaction": [
         "com.rq3.Reaction"
     ],
@@ -263,12 +271,6 @@
     ],
     ".ykman": [
         "com.yubico.yubioath"
-    ],
-    ".config/zandronum": [
-        "com.zandronum.Zandronum"
-    ],
-    ".config/doomseeker": [
-        "com.zandronum.Zandronum"
     ],
     ".blobby": [
         "de.blobbyvolley.BlobbyVolley2"

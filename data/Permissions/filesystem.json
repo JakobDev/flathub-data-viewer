@@ -424,7 +424,8 @@
         "se.sjoerd.GIScan",
         "studio.kx.carla",
         "uk.et1.big-finish-downloader",
-        "xyz.rescribe.rescribe"
+        "xyz.rescribe.rescribe",
+        "xyz.woxel.Woxel"
     ],
     "xdg-config/kdeglobals:ro": [
         "app.cantara.Cantara",
@@ -514,6 +515,7 @@
         "com.ozmartians.VidCutter",
         "com.parallax.PropellerIDE",
         "com.polyphone_soundfonts.polyphone",
+        "com.qzandronum.Q-Zandronum",
         "com.riverbankcomputing.PyQt.BaseApp",
         "com.rocksandpaper.syndic",
         "com.rosegardenmusic.rosegarden",
@@ -1125,6 +1127,7 @@
         "com.microsoft.EdgeDev",
         "com.opera.Opera",
         "com.pikatorrent.PikaTorrent",
+        "com.pojtinger.felicitas.Multiplex",
         "com.qq.QQ",
         "com.rabbit_company.passky",
         "com.ranfdev.Geopard",
@@ -1355,6 +1358,7 @@
         "io.github.Rangi42.polished-map",
         "io.github.Rangi42.tilemap-studio",
         "io.github.achetagames.epic_asset_manager",
+        "io.github.andreibachim.shortcut",
         "io.github.bothlab.syntalos",
         "io.github.brunoherbelin.Vimix",
         "io.github.cboxdoerfer.FSearch",
@@ -2251,6 +2255,7 @@
         "com.ktechpit.whatsie",
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
+        "com.pojtinger.felicitas.Multiplex",
         "com.tracktion.Waveform",
         "com.tutanota.Tutanota",
         "com.uploadedlobster.peek",
@@ -2649,6 +2654,7 @@
         "com.helix_editor.Helix",
         "com.ktechpit.orion",
         "com.outerwildsmods.owmods_gui",
+        "com.pojtinger.felicitas.Multiplex",
         "com.qq.QQ",
         "com.rawtherapee.RawTherapee",
         "com.zettlr.Zettlr",
@@ -3275,13 +3281,7 @@
         "org.gnome.Evolution",
         "org.mozilla.Thunderbird"
     ],
-    "/usr/mail": [
-        "eu.betterbird.Betterbird"
-    ],
     "/var/mail": [
-        "eu.betterbird.Betterbird"
-    ],
-    "/usr/spool/mail": [
         "eu.betterbird.Betterbird"
     ],
     "~/.java/.userPrefs/PortMidi:ro": [

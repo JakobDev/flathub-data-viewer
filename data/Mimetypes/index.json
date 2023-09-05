@@ -1350,6 +1350,7 @@
         "model{SLASH}x3d+vrml",
         "model{SLASH}x3d+xml",
         "multipart{SLASH}related",
+        "text{SLASH}athn",
         "text{SLASH}calendar",
         "text{SLASH}coffeescript",
         "text{SLASH}comma-separated-values",
