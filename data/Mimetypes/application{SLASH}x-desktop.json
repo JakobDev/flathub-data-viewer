@@ -1,4 +1,5 @@
 [
+    "io.github.fabrialberio.pinapp",
     "org.gnome.Builder",
     "page.codeberg.JakobDev.jdDesktopEntryEdit",
     "page.codeberg.libre_menu_editor.LibreMenuEditor"

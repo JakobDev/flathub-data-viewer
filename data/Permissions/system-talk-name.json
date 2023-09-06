@@ -69,6 +69,7 @@
         "org.keepassxc.KeePassXC",
         "org.qbittorrent.qBittorrent",
         "org.sabnzbd.sabnzbd",
+        "org.signal.Signal",
         "tv.kodi.Kodi"
     ],
     "org.gtk.vfs.*": [

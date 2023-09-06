@@ -1178,7 +1178,6 @@
         "net.baseart.Glide",
         "net.blix.BlueMail",
         "net.blockbench.Blockbench",
-        "net.corluma.Corluma",
         "net.filebot.FileBot",
         "net.jami.Jami",
         "net.kvirc.KVIrc",
@@ -1616,6 +1615,7 @@
         "io.wavebox.Wavebox",
         "net.blix.BlueMail",
         "net.blockbench.Blockbench",
+        "net.corluma.Corluma",
         "net.danigm.timetrack",
         "net.epson.epsonscan2",
         "net.mkiol.SpeechNote",
@@ -3198,6 +3198,7 @@
         "com.visualstudio.code",
         "com.vscodium.codium",
         "de.willuhn.Jameica",
+        "dev.bsnes.bsnes",
         "info.cemu.Cemu",
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
@@ -3383,6 +3384,10 @@
     "/srv": [
         "io.github.bothlab.pomidaq",
         "org.libvips.vipsdisp"
+    ],
+    "/var/lib/snapd:ro": [
+        "io.github.fabrialberio.pinapp",
+        "page.codeberg.libre_menu_editor.LibreMenuEditor"
     ],
     "~/Documents": [
         "io.github.glitterware.Passy"
@@ -3916,9 +3921,6 @@
     ],
     "host-etc:ro": [
         "page.codeberg.JakobDev.jdSimpleAutostart"
-    ],
-    "/var/lib/snapd:ro": [
-        "page.codeberg.libre_menu_editor.LibreMenuEditor"
     ],
     "xdg-documents/geobug-tracks:create": [
         "page.codeberg.tpikonen.geobug"
