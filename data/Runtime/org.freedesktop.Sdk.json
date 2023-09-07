@@ -15,9 +15,6 @@
         "com.jetbrains.PhpStorm",
         "com.jetbrains.PyCharm-Community",
         "com.jetbrains.PyCharm-Professional",
-        "com.jetbrains.Rider",
-        "com.jetbrains.RubyMine",
-        "com.jetbrains.WebStorm",
         "com.pinegrow.Pinegrow",
         "com.synology.SynologyAssistant",
         "com.synology.SynologyDrive",
@@ -30,7 +27,6 @@
         "io.atom.Atom",
         "io.gdevs.GDLauncher",
         "io.github.fralonra.WgShadertoy",
-        "io.neovim.nvim",
         "net.blix.BlueMail",
         "org.apache.netbeans",
         "org.codeblocks.codeblocks",
@@ -52,6 +48,12 @@
         "com.synology.CloudStationBackup",
         "com.unity.UnityHub",
         "io.stoplight.studio"
+    ],
+    "23.08": [
+        "com.jetbrains.Rider",
+        "com.jetbrains.RubyMine",
+        "com.jetbrains.WebStorm",
+        "io.neovim.nvim"
     ],
     "19.08": [
         "org.aliflang.lang"

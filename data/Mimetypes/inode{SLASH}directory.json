@@ -23,6 +23,7 @@
     "org.kde.kaffeine",
     "org.kde.kid3",
     "org.kde.pix",
+    "org.nickvision.tagger",
     "page.codeberg.JakobDev.jdEolConverter",
     "page.codeberg.JakobDev.jdReplace"
 ]
