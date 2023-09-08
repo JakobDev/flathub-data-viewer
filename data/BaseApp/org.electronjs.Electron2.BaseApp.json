@@ -126,6 +126,7 @@
         "org.twinery.Twine",
         "org.upscayl.Upscayl",
         "org.zulip.Zulip",
+        "rest.insomnia.Insomnia",
         "sh.cider.Cider",
         "so.onekey.Wallet",
         "social.whalebird.WhalebirdDesktop",
@@ -168,7 +169,6 @@
         "net.xmind.XMind",
         "org.jamovi.jamovi",
         "org.sugarlabs.MusicBlocks",
-        "rest.insomnia.Insomnia",
         "ro.go.hmlendea.DL-Desktop",
         "se.manyver.Manyverse"
     ]

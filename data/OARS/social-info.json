@@ -1,6 +1,7 @@
 {
     "moderate": [
         "app.getspace.Space",
+        "com.adamcake.Bolt",
         "com.avocode.Avocode",
         "com.basemark.BasemarkGPU",
         "com.blockstream.Green",

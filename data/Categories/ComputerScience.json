@@ -1,5 +1,7 @@
 [
     "edu.berkeley.BOINC",
+    "fr.inria.corese.CoreseCommand",
+    "fr.inria.corese.CoreseGui",
     "io.github.TheThirdOne.rars",
     "org.kde.kturtle",
     "org.lamport.tla.toolbox",

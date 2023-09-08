@@ -1,5 +1,6 @@
 [
     "ch.tlaun.TL",
+    "com.adamcake.Bolt",
     "com.atlauncher.ATLauncher",
     "com.bladecoder.adventure-editor",
     "com.chroniclogic.Zatikon",
@@ -29,6 +30,7 @@
     "net.sourceforge.squirrel_sql",
     "network.bisq.Bisq",
     "org.apache.directory.studio",
+    "org.apache.jmeter",
     "org.bluej.BlueJ",
     "org.briarproject.Briar",
     "org.deidentifier.arx",

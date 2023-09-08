@@ -5,6 +5,8 @@
     "com.google.AndroidStudio",
     "com.jpexs.decompiler.flash",
     "de.sesu8642.feudaltactics",
+    "fr.inria.corese.CoreseCommand",
+    "fr.inria.corese.CoreseGui",
     "info.portfolio_performance.PortfolioPerformance",
     "io.github.java_decompiler.jd-gui",
     "io.github.nearinfinitybrowser.nearinfinity",

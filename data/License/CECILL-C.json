@@ -1,3 +1,5 @@
 [
+    "fr.inria.corese.CoreseCommand",
+    "fr.inria.corese.CoreseGui",
     "org.gimp.GIMP.Plugin.GMic"
 ]

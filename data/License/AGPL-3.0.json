@@ -2,6 +2,7 @@
     "cc.arduino.IDE2",
     "ch.threema.threema-web-desktop",
     "chat.revolt.RevoltDesktop",
+    "com.adamcake.Bolt",
     "com.github.bvschaik.julius",
     "com.github.calo001.fondo",
     "com.github.calo001.luna",
@@ -11,7 +12,6 @@
     "org.fdroid.Repomaker",
     "org.gnunet.Messenger",
     "org.kde.gcompris",
-    "org.standardnotes.standardnotes",
     "org.upscayl.Upscayl",
     "org.zotero.Zotero",
     "org.freedesktop.LinuxAudio.Plugins.Fire"

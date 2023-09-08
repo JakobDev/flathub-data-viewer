@@ -25,6 +25,8 @@
     "edu.berkeley.BOINC",
     "eu.ad5001.LogarithmPlotter",
     "fr.free.brouits.qspeakers",
+    "fr.inria.corese.CoreseCommand",
+    "fr.inria.corese.CoreseGui",
     "fr.rubet.rpn",
     "im.bernard.Funkcio",
     "io.github.NickKarpowicz.LightwaveExplorer",

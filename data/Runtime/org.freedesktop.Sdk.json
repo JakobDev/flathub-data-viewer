@@ -6,7 +6,6 @@
         "com.axosoft.GitKraken",
         "com.gitfiend.GitFiend",
         "com.google.AndroidStudio",
-        "com.helix_editor.Helix",
         "com.jetbrains.CLion",
         "com.jetbrains.DataGrip",
         "com.jetbrains.GoLand",
@@ -31,7 +30,6 @@
         "org.apache.netbeans",
         "org.codeblocks.codeblocks",
         "org.flathub.flatpak-external-data-checker",
-        "org.geany.Geany",
         "org.ghidra_sre.Ghidra",
         "org.gnu.emacs",
         "org.kicad.KiCad",
@@ -50,10 +48,12 @@
         "io.stoplight.studio"
     ],
     "23.08": [
+        "com.helix_editor.Helix",
         "com.jetbrains.Rider",
         "com.jetbrains.RubyMine",
         "com.jetbrains.WebStorm",
-        "io.neovim.nvim"
+        "io.neovim.nvim",
+        "org.geany.Geany"
     ],
     "19.08": [
         "org.aliflang.lang"

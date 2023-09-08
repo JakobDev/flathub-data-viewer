@@ -3,6 +3,8 @@
     "com.github.makhber.Makhber",
     "de.marlam.gencolormap",
     "de.marlam.qv",
+    "fr.inria.corese.CoreseCommand",
+    "fr.inria.corese.CoreseGui",
     "io.emeric.toolblex",
     "io.emeric.watchflower",
     "io.github.dlippok.photometric-viewer",

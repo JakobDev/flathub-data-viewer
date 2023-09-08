@@ -241,20 +241,8 @@
         "ws.openarena.OpenArena",
         "xyz.z3ntu.razergenie"
     ],
-    "moderate": [
-        "com.fightcade.Fightcade",
-        "com.github.needleandthread.vocal",
-        "com.github.rkoesters.xkcd-gtk",
-        "com.realm667.Wolfenstein_Blade_of_Agony",
-        "io.github.Foldex.r2mod",
-        "io.github.hurricangame.hurrican",
-        "io.github.listen1.Listen1",
-        "io.github.naikari.Naikari",
-        "io.github.pr_starfighter.starfighter",
-        "io.github.troyeguo.koodo-reader",
-        "org.kryogenix.Pick"
-    ],
     "mild": [
+        "com.adamcake.Bolt",
         "com.github.dariasteam.cowsrevenge",
         "com.gitlab.coringao.cavestory-nx",
         "com.parsecgaming.parsec",
@@ -288,5 +276,18 @@
         "org.seul.pingus",
         "org.taisei_project.Taisei",
         "vet.rsc.OpenRSC.Launcher"
+    ],
+    "moderate": [
+        "com.fightcade.Fightcade",
+        "com.github.needleandthread.vocal",
+        "com.github.rkoesters.xkcd-gtk",
+        "com.realm667.Wolfenstein_Blade_of_Agony",
+        "io.github.Foldex.r2mod",
+        "io.github.hurricangame.hurrican",
+        "io.github.listen1.Listen1",
+        "io.github.naikari.Naikari",
+        "io.github.pr_starfighter.starfighter",
+        "io.github.troyeguo.koodo-reader",
+        "org.kryogenix.Pick"
     ]
 }
