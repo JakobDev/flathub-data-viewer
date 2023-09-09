@@ -35,7 +35,6 @@
         "org.kicad.KiCad",
         "org.scilab.Scilab",
         "org.scintilla.SciTE",
-        "org.thonny.Thonny",
         "org.vim.Vim"
     ],
     "21.08": [
@@ -53,7 +52,8 @@
         "com.jetbrains.RubyMine",
         "com.jetbrains.WebStorm",
         "io.neovim.nvim",
-        "org.geany.Geany"
+        "org.geany.Geany",
+        "org.thonny.Thonny"
     ],
     "19.08": [
         "org.aliflang.lang"

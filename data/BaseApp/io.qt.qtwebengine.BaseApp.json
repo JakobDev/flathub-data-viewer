@@ -3,8 +3,7 @@
         "ch.theologeek.Manuskript",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.stremio.Stremio",
-        "net.sourceforge.qtpfsgui.LuminanceHDR",
-        "net.xm1math.Texmaker"
+        "net.sourceforge.qtpfsgui.LuminanceHDR"
     ],
     "5.15-22.08": [
         "com.github.iwalton3.jellyfin-media-player",
@@ -17,6 +16,7 @@
         "net.mediaarea.MediaConch",
         "net.retrodeck.retrodeck",
         "net.sonic_pi.SonicPi",
+        "net.xm1math.Texmaker",
         "org.freecadweb.FreeCAD",
         "org.kde.akregator",
         "org.kde.angelfish",

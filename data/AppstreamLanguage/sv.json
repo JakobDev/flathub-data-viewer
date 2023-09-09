@@ -2,6 +2,7 @@
     "app.drey.Dialect",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
+    "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
     "com.adrienplazas.Metronome",
     "com.belmoussaoui.Authenticator",

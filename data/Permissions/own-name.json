@@ -213,6 +213,9 @@
     "org.mpris.mediaplayer2.smplayer": [
         "info.smplayer.SMPlayer"
     ],
+    "io.appflowy.appflowy": [
+        "io.appflowy.AppFlowy"
+    ],
     "org.freedesktop.secrets": [
         "io.enpass.Enpass",
         "org.keepassxc.KeePassXC"

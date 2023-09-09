@@ -102,6 +102,7 @@
         "com.gitlab.Murmele.UDPLogger",
         "com.gitlab.cutecom.cutecom",
         "com.gluonhq.SceneBuilder",
+        "com.hostbuf.FinalShell",
         "com.icanblink.blink",
         "com.inform7.IDE",
         "com.inklestudios.Inky",
@@ -161,9 +162,11 @@
         "de.create3000.titania",
         "de.fabrik19.mos-Launcher",
         "de.finnik.PassVault",
+        "de.linuxguides.RechnungsAssistent",
         "de.manuel_kehl.go-for-it",
         "de.marlam.qv",
         "de.mediathekview.MediathekView",
+        "de.philippun1.turtle",
         "de.willuhn.Jameica",
         "dev.bambosh.UnofficialHomestuckCollection",
         "dev.bsnes.bsnes",
@@ -216,6 +219,7 @@
         "io.github.garglk.Gargoyle",
         "io.github.gtkwave.GTKWave",
         "io.github.hakuneko.HakuNeko",
+        "io.github.hydrusnetwork.hydrus",
         "io.github.kevinsmia1939.PySimpleCV",
         "io.github.liberodark.OpenDrive",
         "io.github.limads.Queries",
@@ -225,7 +229,6 @@
         "io.github.mgerhardy.vengi.voxedit",
         "io.github.mightycreak.Diffuse",
         "io.github.mrmyhuang.cbetar2",
-        "io.github.mrvladus.List",
         "io.github.muse_sequencer.Muse",
         "io.github.myst6re.makoureactor",
         "io.github.narunlifescience.AlphaPlot",
@@ -1371,7 +1374,6 @@
         "io.github.fralonra.WgShadertoy",
         "io.github.giantpinkrobots.bootqt",
         "io.github.guillaumechereau.Goxel",
-        "io.github.hydrusnetwork.hydrus",
         "io.github.java_decompiler.jd-gui",
         "io.github.jliljebl.Flowblade",
         "io.github.jonmagon.kdiskmark",
@@ -3089,6 +3091,12 @@
     ],
     "~/Inform:create": [
         "com.inform7.IDE"
+    ],
+    "xdg-run/docker": [
+        "com.jetbrains.IntelliJ-IDEA-Ultimate"
+    ],
+    "xdg-run/podman": [
+        "com.jetbrains.IntelliJ-IDEA-Ultimate"
     ],
     "xdg-run/gnupg": [
         "com.jetpackduba.Gitnuro",
