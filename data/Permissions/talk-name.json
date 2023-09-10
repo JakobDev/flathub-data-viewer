@@ -128,7 +128,8 @@
         "org.videolan.VLC",
         "ru.yandex.Browser",
         "social.whalebird.WhalebirdDesktop",
-        "uk.et1.big-finish-downloader"
+        "uk.et1.big-finish-downloader",
+        "xyz.diamondb.gtkcord4"
     ],
     "org.freedesktop.notifications": [
         "app.bluebubbles.BlueBubbles",
@@ -2287,7 +2288,8 @@
         "org.kde.tokodon",
         "org.remmina.Remmina",
         "org.videolan.VLC",
-        "ru.yandex.Browser"
+        "ru.yandex.Browser",
+        "xyz.diamondb.gtkcord4"
     ],
     "com.canonical.dbusmenu": [
         "app.moosync.moosync",

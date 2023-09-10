@@ -3115,6 +3115,9 @@
     "~/.steam/steam/steamapps/common/Outer Wilds": [
         "com.outerwildsmods.owmods_gui"
     ],
+    "~/Games/Heroic/OuterWilds": [
+        "com.outerwildsmods.owmods_gui"
+    ],
     "~/.local/share/OuterWildsModManager": [
         "com.outerwildsmods.owmods_gui"
     ],

@@ -7,10 +7,7 @@
         "com.gitfiend.GitFiend",
         "com.google.AndroidStudio",
         "com.jetbrains.CLion",
-        "com.jetbrains.DataGrip",
         "com.jetbrains.GoLand",
-        "com.jetbrains.IntelliJ-IDEA-Community",
-        "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetbrains.PhpStorm",
         "com.jetbrains.PyCharm-Community",
         "com.jetbrains.PyCharm-Professional",
@@ -32,7 +29,6 @@
         "org.flathub.flatpak-external-data-checker",
         "org.ghidra_sre.Ghidra",
         "org.gnu.emacs",
-        "org.kicad.KiCad",
         "org.scilab.Scilab",
         "org.scintilla.SciTE",
         "org.vim.Vim"
@@ -48,11 +44,15 @@
     ],
     "23.08": [
         "com.helix_editor.Helix",
+        "com.jetbrains.DataGrip",
+        "com.jetbrains.IntelliJ-IDEA-Community",
+        "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetbrains.Rider",
         "com.jetbrains.RubyMine",
         "com.jetbrains.WebStorm",
         "io.neovim.nvim",
         "org.geany.Geany",
+        "org.kicad.KiCad",
         "org.thonny.Thonny"
     ],
     "19.08": [
