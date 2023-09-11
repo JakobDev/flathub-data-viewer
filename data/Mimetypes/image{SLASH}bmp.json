@@ -24,6 +24,7 @@
     "net.blumia.pineapple-pictures",
     "net.sourceforge.mcomix",
     "org.cubocore.CoreImage",
+    "org.cubocore.CoreInfo",
     "org.cubocore.CorePaint",
     "org.flozz.yoga-image-optimizer",
     "org.free_astro.siril",

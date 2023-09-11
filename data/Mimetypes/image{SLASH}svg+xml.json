@@ -16,6 +16,7 @@
     "io.photoflare.photoflare",
     "net.blumia.pineapple-pictures",
     "org.cubocore.CoreImage",
+    "org.cubocore.CoreInfo",
     "org.cubocore.CorePaint",
     "org.geeqie.Geeqie",
     "org.gimp.GIMP",

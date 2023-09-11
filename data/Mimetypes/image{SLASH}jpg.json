@@ -8,6 +8,7 @@
     "io.photoflare.photoflare",
     "net.blumia.pineapple-pictures",
     "org.cubocore.CoreImage",
+    "org.cubocore.CoreInfo",
     "org.cubocore.CorePaint",
     "org.gnome.OCRFeeder",
     "org.gnome.eog",

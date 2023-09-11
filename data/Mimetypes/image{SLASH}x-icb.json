@@ -4,6 +4,7 @@
     "com.github.weclaw1.ImageRoll",
     "io.photoflare.photoflare",
     "org.cubocore.CoreImage",
+    "org.cubocore.CoreInfo",
     "org.cubocore.CorePaint",
     "org.gnome.eog",
     "org.gnome.gitlab.YaLTeR.Identity"

@@ -9,6 +9,7 @@
     "com.xnview.XnViewMP",
     "io.photoflare.photoflare",
     "org.cubocore.CoreImage",
+    "org.cubocore.CoreInfo",
     "org.cubocore.CorePaint",
     "org.geeqie.Geeqie",
     "org.gimp.GIMP",

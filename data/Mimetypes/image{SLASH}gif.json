@@ -31,6 +31,7 @@
     "net.sourceforge.mcomix",
     "org.chromium.Chromium",
     "org.cubocore.CoreImage",
+    "org.cubocore.CoreInfo",
     "org.cubocore.CorePaint",
     "org.flozz.yoga-image-optimizer",
     "org.geeqie.Geeqie",

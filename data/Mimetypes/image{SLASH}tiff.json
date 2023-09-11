@@ -17,6 +17,7 @@
     "net.sourceforge.mcomix",
     "net.sourceforge.qtpfsgui.LuminanceHDR",
     "org.cubocore.CoreImage",
+    "org.cubocore.CoreInfo",
     "org.cubocore.CorePaint",
     "org.darktable.Darktable",
     "org.flozz.yoga-image-optimizer",

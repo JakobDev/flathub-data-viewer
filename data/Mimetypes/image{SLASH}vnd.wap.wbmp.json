@@ -3,6 +3,7 @@
     "com.github.weclaw1.ImageRoll",
     "com.interversehq.qView",
     "org.cubocore.CoreImage",
+    "org.cubocore.CoreInfo",
     "org.cubocore.CorePaint",
     "org.gnome.eog",
     "org.gnome.gitlab.YaLTeR.Identity",

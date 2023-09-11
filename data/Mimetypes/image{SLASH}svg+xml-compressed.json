@@ -3,6 +3,7 @@
     "com.github.weclaw1.ImageRoll",
     "dev.linwood.butterfly",
     "org.cubocore.CoreImage",
+    "org.cubocore.CoreInfo",
     "org.cubocore.CorePaint",
     "org.gnome.Loupe",
     "org.gnome.eog",

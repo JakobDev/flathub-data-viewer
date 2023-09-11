@@ -7,6 +7,7 @@
     "io.photoflare.photoflare",
     "net.sourceforge.mcomix",
     "org.cubocore.CoreImage",
+    "org.cubocore.CoreInfo",
     "org.cubocore.CorePaint",
     "org.geeqie.Geeqie",
     "org.gnome.eog",

@@ -11,6 +11,7 @@
     "io.photoflare.photoflare",
     "net.sourceforge.mcomix",
     "org.cubocore.CoreImage",
+    "org.cubocore.CoreInfo",
     "org.cubocore.CorePaint",
     "org.darktable.Darktable",
     "org.free_astro.siril",
