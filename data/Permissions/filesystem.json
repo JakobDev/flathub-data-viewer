@@ -1982,6 +1982,7 @@
         "info.puredata.Pd-extended",
         "info.puredata.Pd",
         "io.github.Soundux",
+        "io.github.dyegoaurelio.simple-wireplumber-gui",
         "io.github.gillesdegottex.FMIT",
         "io.github.kotatogram",
         "io.github.muse_sequencer.Muse",
@@ -3399,6 +3400,9 @@
     "/srv": [
         "io.github.bothlab.pomidaq",
         "org.libvips.vipsdisp"
+    ],
+    "~/.config/wireplumber": [
+        "io.github.dyegoaurelio.simple-wireplumber-gui"
     ],
     "/var/lib/snapd:ro": [
         "io.github.fabrialberio.pinapp",

@@ -259,15 +259,6 @@
         "io.appflowy.AppFlowy",
         "vn.hoabinh.quan.CoBang"
     ],
-    "org.freedesktop.realtimekit1": [
-        "io.github.gillesdegottex.FMIT",
-        "net.mullvad.MullvadBrowser",
-        "net.purrdata.PurrData",
-        "net.sourceforge.GrandOrgue",
-        "org.mixxx.Mixxx",
-        "org.shotcut.Shotcut",
-        "org.zrythm.Zrythm"
-    ],
     "org.freedesktop.statusnotifieritem.menu": [
         "io.github.slgobinath.SafeEyes"
     ],
@@ -283,6 +274,14 @@
         "org.darktable.Darktable",
         "org.gnome.ColorViewer",
         "org.kde.krita"
+    ],
+    "org.freedesktop.realtimekit1": [
+        "net.mullvad.MullvadBrowser",
+        "net.purrdata.PurrData",
+        "net.sourceforge.GrandOrgue",
+        "org.mixxx.Mixxx",
+        "org.shotcut.Shotcut",
+        "org.zrythm.Zrythm"
     ],
     "com.redhat.tuned": [
         "org.easycoding.TunedSwitcher"

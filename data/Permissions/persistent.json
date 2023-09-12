@@ -21,9 +21,6 @@
         "org.briarproject.Briar",
         "org.verapdf.veraPDF"
     ],
-    ".noiz2sa.prf": [
-        "com.abagames.noiz2sa"
-    ],
     ".adobe": [
         "com.adobe.Reader"
     ],
