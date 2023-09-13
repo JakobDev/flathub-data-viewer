@@ -86,5 +86,9 @@
     {
         "name": "Type",
         "value": "Type"
+    },
+    {
+        "name": "Runtime EOL",
+        "value": "RuntimeEOL"
     }
 ]

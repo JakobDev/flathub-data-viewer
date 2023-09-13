@@ -12,7 +12,6 @@
     "com.mousepawmedia.omission",
     "de.peterge.combined",
     "io.github.Bollos00.LibreMines",
-    "io.gitlab.construo.construo",
     "io.osdn.simplesok",
     "io.sourceforge.zaz",
     "io.thp.numptyphysics",
@@ -42,6 +41,5 @@
     "org.kde.palapeli",
     "org.kde.picmi",
     "org.nongnu.enigma",
-    "org.seul.pingus",
     "uk.org.greenend.chiark.sgtatham.puzzles"
 ]

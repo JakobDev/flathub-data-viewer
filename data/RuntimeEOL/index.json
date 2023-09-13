@@ -1,0 +1,8 @@
+{
+    "description": "Shows all Apps with a Runtime that is EOL/not EOL",
+    "data": [
+        "No",
+        "Yes"
+    ],
+    "dataNames": {}
+}
