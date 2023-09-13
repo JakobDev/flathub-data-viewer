@@ -75,6 +75,7 @@
         "Graphics;2DGraphics;",
         "HamRadio",
         "HardwareSettings",
+        "Health",
         "HexEditor",
         "Humanities",
         "IDE",
@@ -157,6 +158,7 @@
         "Web Browser",
         "WebBrowser",
         "WebDevelopment",
+        "Wellness",
         "WordProcessor",
         "X-CSuite",
         "X-KDE-Utilities-File"

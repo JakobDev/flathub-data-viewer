@@ -320,6 +320,7 @@
     "io.kopia.KopiaUI",
     "io.liri.Calculator",
     "io.liri.Text",
+    "io.naox.InnerBreeze",
     "io.neovim.nvim",
     "io.otsaloma.nfoview",
     "io.podman_desktop.PodmanDesktop",

@@ -1,8 +1,7 @@
 {
     "20.08": [
         "app.midterm.MidtermDesktop",
-        "com.endlessm.HatchPreviewer",
-        "io.github.liberodark.OpenDrive"
+        "com.endlessm.HatchPreviewer"
     ],
     "22.08": [
         "app.moosync.moosync",
