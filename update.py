@@ -141,6 +141,11 @@ def parse_summary_api(app_id: str, data: dict, session: requests.sessions.Sessio
     if "required-flatpak" in r["metadata"]:
         add_simple_to_data(data, "required_flatpak", r["metadata"]["required-flatpak"], app_id)
 
+    if r["metadata"].get("runtimeIsEol", False):
+        add_simple_to_data(data, "runtime_eol", "Yes", app_id)
+    else:
+        add_simple_to_data(data, "runtime_eol", "No", app_id)
+
 
 def parse_appstream(app_id: str, data: dict, component: appstream_python.AppstreamComponent) -> None:
     for i in list(component.urls.keys()):
@@ -267,6 +272,7 @@ def main() -> None:
     data["last_updated"] = {"Week": [], "Month": [], "HalfYear": [], "Year": [], "Older": [], "Unknown": []}
     data["addons"] = {}
     data["type"] = {}
+    data["runtime_eol"] = {}
 
     appstream_collection = get_appstream_data()
     manifest_data = load_manifests()
@@ -313,6 +319,7 @@ def main() -> None:
     write_data(os.path.join(data_path, "LastUpdated"), data["last_updated"], "Shows all Apps that are last updated in the given range", data_names={"Week": "In the last Week", "Month": "In the last Month", "HalfYear": "In the last half Year", "Year": "In the last Year"}, sort_alphabetically=False)
     write_data(os.path.join(data_path, "Addons"), data["addons"], "Shows all Aaddons of the given App")
     write_data(os.path.join(data_path, "Type"), data["type"], "Shows all Apps with the given Type")
+    write_data(os.path.join(data_path, "RuntimeEOL"), data["runtime_eol"], "Shows all Apps with a Runtime that is EOL/not EOL")
 
     with open(os.path.join(data_path, "types.json"), "w", encoding="utf-8") as f:
         json.dump([
@@ -337,7 +344,8 @@ def main() -> None:
             {"name": "Appstream Language", "value": "AppstreamLanguage"},
             {"name": "Last Updated", "value": "LastUpdated"},
             {"name": "Addons", "value": "Addons"},
-            {"name": "Type", "value": "Type"}
+            {"name": "Type", "value": "Type"},
+            {"name": "Runtime EOL", "value": "RuntimeEOL"}
         ], f, ensure_ascii=False, indent=4)
 
     with open(os.path.join(data_path, "appcount.json"), "w", encoding="utf-8") as f:
