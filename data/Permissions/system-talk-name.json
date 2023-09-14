@@ -142,6 +142,7 @@
         "org.freedesktop.Tuhi",
         "org.gnome.Keysign",
         "org.subsurface_divelog.Subsurface",
+        "page.codeberg.lazyt.ubpm",
         "ru.yandex.Browser"
     ],
     "org.freedesktop.avahi": [

@@ -28,6 +28,7 @@
         "org.ghidra_sre.Ghidra",
         "org.gnome.Builder",
         "org.kde.kdevelop",
+        "org.mozilla.Thunderbird",
         "org.mozilla.firefox",
         "org.squey.Squey",
         "org.winehq.Wine",
@@ -93,6 +94,7 @@
         "org.eyecreate.qiflora",
         "org.gnome.Keysign",
         "org.mamedev.MAME",
+        "page.codeberg.lazyt.ubpm",
         "re.chiaki.Chiaki",
         "tv.kodi.Kodi"
     ],

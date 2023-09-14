@@ -32,6 +32,7 @@
         "network.loki.Session",
         "nz.mega.MEGAsync",
         "org.altaqwaa.Altaqwaa",
+        "org.cryptomator.Cryptomator",
         "org.cubocore.CoreAction",
         "org.cubocore.CoreKeyboard",
         "org.cubocore.CoreTime",

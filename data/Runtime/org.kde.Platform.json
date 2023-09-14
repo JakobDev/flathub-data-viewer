@@ -424,7 +424,8 @@
         "page.codeberg.JakobDev.jdNBTExplorer",
         "page.codeberg.JakobDev.jdPixelUpscaler",
         "page.codeberg.JakobDev.jdReplace",
-        "page.codeberg.JakobDev.jdSimpleAutostart"
+        "page.codeberg.JakobDev.jdSimpleAutostart",
+        "page.codeberg.lazyt.ubpm"
     ],
     "5.15-21.08": [
         "art.taunoerik.tauno-serial-plotter",

@@ -1091,6 +1091,7 @@
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
         "page.codeberg.JakobDev.jdTextEdit",
+        "page.codeberg.lazyt.ubpm",
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
         "ru.yandex.Browser",
@@ -2192,6 +2193,7 @@
         "org.briarproject.Briar",
         "org.clementine_player.Clementine",
         "org.coolero.Coolero",
+        "org.cryptomator.Cryptomator",
         "org.cubocore.CoreAction",
         "org.cubocore.CoreKeyboard",
         "org.cubocore.CoreTime",
@@ -3129,6 +3131,9 @@
     "org.wiimotedev.deviceevents": [
         "org.clementine_player.Clementine",
         "org.strawberrymusicplayer.strawberry"
+    ],
+    "org.ayatana": [
+        "org.cryptomator.Cryptomator"
     ],
     "org.kde.kwin.screenshot": [
         "org.gimp.GIMP"

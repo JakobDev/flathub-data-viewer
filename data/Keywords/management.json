@@ -1,4 +1,5 @@
 [
     "net.danigm.timetrack",
-    "net.sourceforge.osmo"
+    "net.sourceforge.osmo",
+    "page.codeberg.lazyt.ubpm"
 ]

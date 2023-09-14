@@ -1,4 +1,5 @@
 [
     "io.github.veusz.Veusz",
-    "net.gwyddion.Gwyddion"
+    "net.gwyddion.Gwyddion",
+    "page.codeberg.lazyt.ubpm"
 ]

@@ -108,6 +108,7 @@
         "org.tribler.Tribler",
         "org.turbowarp.TurboWarp",
         "org.unitystation.StationHub",
+        "page.codeberg.lazyt.ubpm",
         "radio.k0swe.Kel_Agent",
         "se.cendio.tlclient",
         "xyz.eclipium.Hieroctive",

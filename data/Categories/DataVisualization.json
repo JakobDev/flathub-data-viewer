@@ -21,5 +21,6 @@
     "org.paraview.ParaView",
     "org.radare.iaito",
     "org.telesculptor.TeleSculptor",
+    "page.codeberg.lazyt.ubpm",
     "pl.nieto.fityk"
 ]
