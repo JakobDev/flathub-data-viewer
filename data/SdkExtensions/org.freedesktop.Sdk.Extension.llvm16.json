@@ -5,6 +5,7 @@
     "io.github.sameboy.SameBoy",
     "net.pcsx2.PCSX2",
     "net.rpcs3.RPCS3",
+    "org.d3cod3.Mosaic",
     "org.duckstation.DuckStation",
     "org.jellyfin.JellyfinServer",
     "org.openfodder.OpenFodder",

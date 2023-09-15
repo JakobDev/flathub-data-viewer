@@ -28,7 +28,6 @@
     "org.chromium.Chromium",
     "org.expresslrs.ExpressLRSConfigurator",
     "org.sil.Bloom",
-    "org.zulip.Zulip",
     "sh.xaviers.Opentapes",
     "com.sublimetext.three.DevUtils"
 ]
