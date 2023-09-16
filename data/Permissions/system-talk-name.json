@@ -287,6 +287,9 @@
     "com.redhat.tuned": [
         "org.easycoding.TunedSwitcher"
     ],
+    "org.endlessos.key.daemon": [
+        "org.endlessos.Key"
+    ],
     "org.freedesktop.ratbag1": [
         "org.freedesktop.Piper"
     ],

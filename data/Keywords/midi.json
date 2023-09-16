@@ -1,6 +1,7 @@
 [
     "com.bitwig.BitwigStudio",
     "com.giadamusic.Giada",
+    "io.github.muse_sequencer.Muse",
     "org.nongnu.gsequencer.gsequencer",
     "org.zrythm.Zrythm"
 ]

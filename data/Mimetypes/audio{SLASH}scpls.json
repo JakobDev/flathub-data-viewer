@@ -10,6 +10,7 @@
     "net.baseart.Glide",
     "org.kde.haruna",
     "org.kde.vvave",
+    "org.nickvision.tagger",
     "org.shotcut.Shotcut",
     "org.videolan.VLC"
 ]

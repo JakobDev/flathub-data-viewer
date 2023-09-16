@@ -160,6 +160,7 @@
     "org.dash.electrum.electrum_dash",
     "org.dust3d.dust3d",
     "org.electrum.electrum",
+    "org.endlessos.Key",
     "org.famistudio.FamiStudio",
     "org.getzola.zola",
     "org.gnome.HexGL",
