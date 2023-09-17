@@ -105,6 +105,7 @@
     "org.gnunet.Messenger",
     "org.horizon_eda.HorizonEDA",
     "org.inkscape.Inkscape",
+    "org.ioquake3.ioquake3",
     "org.jreleaser.cli",
     "org.jupyter.JupyterLab",
     "org.kde.okteta",

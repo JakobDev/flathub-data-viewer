@@ -2830,40 +2830,6 @@
     "xdg-pictures/RMG:create": [
         "com.github.Rosalie241.RMG"
     ],
-    "xdg-run/discord-ipc-5": [
-        "com.github.Rosalie241.RMG"
-    ],
-    "xdg-run/discord-ipc-4": [
-        "com.github.Rosalie241.RMG"
-    ],
-    "xdg-run/discord-ipc-3": [
-        "com.github.Rosalie241.RMG"
-    ],
-    "xdg-run/discord-ipc-9": [
-        "com.github.Rosalie241.RMG"
-    ],
-    "xdg-run/discord-ipc-2": [
-        "com.github.Rosalie241.RMG"
-    ],
-    "xdg-run/discord-ipc-8": [
-        "com.github.Rosalie241.RMG"
-    ],
-    "xdg-run/discord-ipc-1": [
-        "com.github.Rosalie241.RMG"
-    ],
-    "xdg-run/discord-ipc-7": [
-        "com.github.Rosalie241.RMG"
-    ],
-    "xdg-run/discord-ipc-0": [
-        "com.github.Rosalie241.RMG",
-        "com.github.taiko2k.tauonmb",
-        "io.github.nate_xyz.Resonance",
-        "org.srb2.SRB2Kart-galaxy",
-        "org.srb2.SRB2Kart"
-    ],
-    "xdg-run/discord-ipc-6": [
-        "com.github.Rosalie241.RMG"
-    ],
     "~/.ssh:ro": [
         "com.github.alecaddd.sequeler",
         "org.gabmus.unifydmin"
@@ -3013,6 +2979,12 @@
     ],
     "xdg-run/docker.sock": [
         "com.github.sdv43.whaler"
+    ],
+    "xdg-run/discord-ipc-0": [
+        "com.github.taiko2k.tauonmb",
+        "io.github.nate_xyz.Resonance",
+        "org.srb2.SRB2Kart-galaxy",
+        "org.srb2.SRB2Kart"
     ],
     "/run/udev:ro": [
         "com.github.theCalcaholic.StreamDeck",

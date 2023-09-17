@@ -1743,6 +1743,7 @@
         "x-scheme-handler{SLASH}psql",
         "x-scheme-handler{SLASH}ptsave",
         "x-scheme-handler{SLASH}quake2",
+        "x-scheme-handler{SLASH}quake3",
         "x-scheme-handler{SLASH}quodlibet",
         "x-scheme-handler{SLASH}qute",
         "x-scheme-handler{SLASH}qv2ray",

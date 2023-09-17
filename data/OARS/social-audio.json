@@ -274,6 +274,7 @@
         "org.ferdium.Ferdium",
         "org.firestormviewer.FirestormViewer",
         "org.gajim.Gajim",
+        "org.ioquake3.ioquake3",
         "org.jacktrip.JackTrip",
         "org.phoenicis.playonlinux",
         "org.signal.Signal",

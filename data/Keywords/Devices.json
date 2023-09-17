@@ -1,4 +1,5 @@
 [
+    "io.github.dyegoaurelio.simple-wireplumber-gui",
     "io.github.nokse22.inspector",
     "org.pulseaudio.pavucontrol"
 ]
