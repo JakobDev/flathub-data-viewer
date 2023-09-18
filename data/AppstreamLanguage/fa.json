@@ -93,6 +93,7 @@
     "org.gnome.design.Emblem",
     "org.gnome.design.Lorem",
     "org.gnome.design.Palette",
+    "org.gnome.dspy",
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.font-viewer",

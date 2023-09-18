@@ -108,6 +108,7 @@
     "org.gnome.design.Contrast",
     "org.gnome.design.IconLibrary",
     "org.gnome.design.Palette",
+    "org.gnome.dspy",
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.font-viewer",

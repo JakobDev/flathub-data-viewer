@@ -341,7 +341,6 @@
         "com.teamspeak.TeamSpeak",
         "com.teeworlds.Teeworlds",
         "com.tencent.wemeet",
-        "com.thebrokenrail.MCPIReborn",
         "com.todoist.Todoist",
         "com.tutanota.Tutanota",
         "com.tuxpusher.TuxPusher",
@@ -596,7 +595,6 @@
         "net.sourceforge.fspclient",
         "net.sourceforge.lgames.LBreakoutHD",
         "net.sourceforge.lgames.LTris",
-        "net.sourceforge.mcomix",
         "net.sourceforge.osmo",
         "net.sourceforge.paulstretch",
         "net.sourceforge.pdfchain",
@@ -878,6 +876,7 @@
         "com.sigmyne.crush",
         "com.steamgriddb.SGDBoop",
         "com.synology.SynologyDrive",
+        "com.thebrokenrail.MCPIReborn",
         "com.tic80.TIC_80",
         "com.tonikelope.MegaBasterd",
         "com.valvesoftware.Steam",
@@ -928,6 +927,7 @@
         "net.sonobus.SonoBus",
         "net.sourceforge.Fillets",
         "net.sourceforge.Ri-li",
+        "net.sourceforge.mcomix",
         "net.stabyourself.nottetris2",
         "net.supertuxkart.SuperTuxKart",
         "net.veloren.veloren",
@@ -969,7 +969,8 @@
         "org.yamagi.YamagiQ2",
         "org.zaproxy.ZAP",
         "page.codeberg.JakobDev.CCLite",
-        "se.cendio.tlclient"
+        "se.cendio.tlclient",
+        "uk.org.greenend.chiark.sgtatham.putty"
     ],
     "18.08": [
         "au.edu.uq.esys.escript"
