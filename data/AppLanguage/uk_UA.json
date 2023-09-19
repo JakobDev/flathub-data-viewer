@@ -1,5 +1,6 @@
 [
     "com.uploadedlobster.peek",
+    "io.github.loot.loot",
     "org.freedesktop.Piper",
     "org.scilab.Scilab"
 ]

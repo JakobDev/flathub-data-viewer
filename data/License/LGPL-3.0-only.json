@@ -1,4 +1,5 @@
 [
+    "io.github.JakubMelka.Pdf4qt",
     "io.github.peazip.PeaZip",
     "org.shadowsocks.qt5client",
     "org.tribler.Tribler"

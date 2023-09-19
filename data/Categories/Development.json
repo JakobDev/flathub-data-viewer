@@ -111,6 +111,7 @@
     "io.github.zyedidia.micro",
     "io.gitlab.Turtlico",
     "io.howl.Editor",
+    "io.podman_desktop.PodmanDesktop",
     "io.qt.Designer",
     "io.qt.Linguist",
     "io.qt.QtCreator",

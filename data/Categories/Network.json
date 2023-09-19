@@ -257,6 +257,7 @@
     "org.tabos.banking",
     "org.tabos.maxcontrol",
     "org.tabos.roger",
+    "org.tabos.saldo",
     "org.telegram",
     "org.tigervnc.vncviewer",
     "org.tribler.Tribler",

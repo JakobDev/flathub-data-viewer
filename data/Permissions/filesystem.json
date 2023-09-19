@@ -588,6 +588,7 @@
         "io.github.Bollos00.LibreMines",
         "io.github.Cockatrice.cockatrice",
         "io.github.JaGoLi.ytdl_gui",
+        "io.github.JakubMelka.Pdf4qt",
         "io.github.NhekoReborn.Nheko",
         "io.github.OpenToonz",
         "io.github.Qalculate.qalculate-qt",
@@ -622,6 +623,7 @@
         "io.github.koromelodev.mindmate",
         "io.github.labsquare.CutePeaks",
         "io.github.libvibrant.vibrantLinux",
+        "io.github.loot.loot",
         "io.github.markummitchell.Engauge_Digitizer",
         "io.github.martinrotter.rssguard",
         "io.github.martinrotter.rssguardlite",
@@ -1169,6 +1171,7 @@
         "io.github.Hexchat",
         "io.github.Icalingua.Icalingua",
         "io.github.TransmissionRemoteGtk",
+        "io.github.aggalex.Wineglass",
         "io.github.hvdwofl.jExifToolGUI",
         "io.github.jacalz.rymdport",
         "io.github.kotatogram",
@@ -1605,6 +1608,7 @@
         "fr.free.hxc2001.HxCFloppyEmulator",
         "io.enpass.Enpass",
         "io.github.TheThirdOne.rars",
+        "io.github.aggalex.Wineglass",
         "io.github.chris2511.xca",
         "io.github.dman95.SASM",
         "io.github.glitterware.Passy",
@@ -1691,6 +1695,7 @@
         "com.ylsoftware.qmmp.Qmmp",
         "de.haeckerfelix.Shortwave",
         "dev.vieb.Vieb",
+        "io.github.aggalex.Wineglass",
         "io.github.cmus.cmus",
         "io.github.jacalz.rymdport",
         "io.github.janbar.noson",
@@ -1831,6 +1836,7 @@
         "dev.bsnes.bsnes",
         "dev.tchx84.Portfolio",
         "io.github.cmus.cmus",
+        "io.github.loot.loot",
         "io.github.neil_morrison44.pocket-sync",
         "io.github.nroduit.Weasis",
         "io.github.zaps166.QMPlay2",
@@ -2209,6 +2215,7 @@
         "in.bharatkalluri.splash",
         "info.febvre.Komikku",
         "io.github.Figma_Linux.figma_linux",
+        "io.github.aggalex.Wineglass",
         "io.github.celluloid_player.Celluloid",
         "io.github.hvdwofl.jExifToolGUI",
         "io.github.jacalz.rymdport",
@@ -2270,6 +2277,7 @@
         "com.viber.Viber",
         "com.wps.Office",
         "dev.vieb.Vieb",
+        "io.github.aggalex.Wineglass",
         "io.github.jacalz.rymdport",
         "io.github.qnapi",
         "io.github.qtox.qTox",
@@ -2617,6 +2625,7 @@
         "com.tutanota.Tutanota",
         "com.viber.Viber",
         "io.github.TheThirdOne.rars",
+        "io.github.aggalex.Wineglass",
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.jacalz.rymdport",
         "io.github.qtox.qTox",
@@ -3298,7 +3307,8 @@
         "hu.kramo.Cartridges"
     ],
     "~/.var/app/com.heroicgameslauncher.hgl/config/heroic:ro": [
-        "hu.kramo.Cartridges"
+        "hu.kramo.Cartridges",
+        "io.github.loot.loot"
     ],
     "/var/lib/flatpak:ro": [
         "hu.kramo.Cartridges",
@@ -3406,6 +3416,31 @@
     "xdg-videos/Hidamari:create": [
         "io.github.jeffshee.Hidamari"
     ],
+    "xdg-data/Steam:ro": [
+        "io.github.loot.loot",
+        "io.github.santiagocezar.maniatic-launcher"
+    ],
+    "xdg-data/Steam/steamapps/compatdata": [
+        "io.github.loot.loot"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata": [
+        "io.github.loot.loot"
+    ],
+    "xdg-data/Steam/steamapps/common": [
+        "io.github.loot.loot"
+    ],
+    "~/Games/Heroic": [
+        "io.github.loot.loot"
+    ],
+    "xdg-config/heroic:ro": [
+        "io.github.loot.loot"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/.local/share/Steam:ro": [
+        "io.github.loot.loot"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common": [
+        "io.github.loot.loot"
+    ],
     "/run/libvirt": [
         "io.github.lruzicka.Needly"
     ],
@@ -3464,9 +3499,6 @@
     ],
     "xdg-config/monitors.xml:ro": [
         "io.github.realmazharhussain.GdmSettings"
-    ],
-    "xdg-data/Steam:ro": [
-        "io.github.santiagocezar.maniatic-launcher"
     ],
     "~/.steam:ro": [
         "io.github.santiagocezar.maniatic-launcher"

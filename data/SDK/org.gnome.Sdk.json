@@ -453,6 +453,7 @@
         "org.sugarlabs.Words",
         "org.syphon.Syphon",
         "org.tabos.banking",
+        "org.tabos.saldo",
         "org.tryton.Tryton-68",
         "org.upnproutercontrol.UPnPRouterControl",
         "org.virt_manager.virt-viewer",

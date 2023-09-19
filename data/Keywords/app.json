@@ -1,5 +1,6 @@
 [
     "com.github.bcedu.valasimplehttpserver",
     "com.github.bcedu.vgrive",
+    "io.github.aggalex.Wineglass",
     "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]

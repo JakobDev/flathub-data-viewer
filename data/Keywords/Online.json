@@ -1,5 +1,6 @@
 [
     "com.spotify.Client",
     "dev.aunetx.deezer",
-    "org.tabos.banking"
+    "org.tabos.banking",
+    "org.tabos.saldo"
 ]

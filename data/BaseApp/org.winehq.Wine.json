@@ -1,6 +1,7 @@
 {
     "stable-23.08": [
-        "com.playonlinux.PlayOnLinux4"
+        "com.playonlinux.PlayOnLinux4",
+        "io.github.aggalex.Wineglass"
     ],
     "stable-22.08": [
         "com.usebottles.bottles",

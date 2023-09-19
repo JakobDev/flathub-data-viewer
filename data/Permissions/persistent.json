@@ -331,6 +331,9 @@
     ".config/clash": [
         "io.github.Fndroid.clash_for_windows"
     ],
+    ".wineprefixes": [
+        "io.github.aggalex.Wineglass"
+    ],
     ".ezquake": [
         "io.github.ezQuake"
     ],
