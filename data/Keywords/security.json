@@ -1,4 +1,5 @@
 [
+    "at.ssh_mitm.server",
     "io.github.polypixeldev.Polypass",
     "org.gnome.seahorse.Application",
     "org.nmap.Zenmap"

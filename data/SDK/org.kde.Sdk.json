@@ -369,6 +369,7 @@
         "com.ylsoftware.qmmp.Qmmp",
         "cz.cvut.edu.comparch.qtrvsim",
         "de.bund.ausweisapp.ausweisapp2",
+        "de.halaszovich.PMbrowser",
         "eu.cichy1173.tabela",
         "io.github.Arisotura.CoinKiller",
         "io.github.Cockatrice.cockatrice",
@@ -601,7 +602,6 @@
     "6.4": [
         "com.obsproject.Studio",
         "community.pathofbuilding.PathOfBuilding",
-        "de.halaszovich.PMbrowser",
         "de.marlam.gencolormap",
         "de.marlam.qv",
         "eu.ad5001.LogarithmPlotter",

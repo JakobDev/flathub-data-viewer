@@ -10,6 +10,7 @@
         "ar.com.pilas_engine.App",
         "ar.com.tuxguitar.TuxGuitar",
         "ar.xjuan.Cambalache",
+        "at.ssh_mitm.server",
         "au.edu.uq.esys.escript",
         "br.gov.cti.invesalius",
         "ca.littlesvr.asunder",
@@ -2957,7 +2958,6 @@
     ],
     "/media:ro": [
         "com.github.rhyme_player.rhyme",
-        "de.halaszovich.PMbrowser",
         "io.github.Soundux",
         "io.github.mihnea_radulescu.imagefanreloaded",
         "net.openra.OpenRA",
@@ -2970,7 +2970,6 @@
     ],
     "/run/media:ro": [
         "com.github.rhyme_player.rhyme",
-        "de.halaszovich.PMbrowser",
         "io.github.Soundux",
         "net.openra.OpenRA",
         "org.cubocore.CoreFM",
