@@ -1,6 +1,7 @@
 [
     "app.drey.Dialect",
     "app.drey.EarTag",
+    "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ar.com.softwareperonista.Rockarrolla",
@@ -141,6 +142,7 @@
     "io.gitlab.adhami3310.Converter",
     "io.gitlab.adhami3310.Footage",
     "io.gitlab.adhami3310.Impression",
+    "io.gitlab.gregorni.Letterpress",
     "io.gitlab.news_flash.NewsFlash",
     "io.missioncenter.MissionCenter",
     "io.otsaloma.gaupol",
@@ -259,6 +261,7 @@
     "org.gnome.design.Contrast",
     "org.gnome.design.Emblem",
     "org.gnome.design.IconLibrary",
+    "org.gnome.design.Lorem",
     "org.gnome.design.Palette",
     "org.gnome.design.SymbolicPreview",
     "org.gnome.dspy",
@@ -467,6 +470,7 @@
     "re.sonny.Workbench",
     "sm.puri.Chatty",
     "ua.org.brezblock.q4wine",
+    "xyz.slothlife.Jogger",
     "com.valvesoftware.Steam.CompatibilityTool.Boxtron",
     "com.valvesoftware.Steam.CompatibilityTool.Proton",
     "org.freedesktop.Platform.VulkanLayer.MangoHud"

@@ -16,6 +16,7 @@
         "com.itextpdf.RUPS",
         "com.lunarclient.LunarClient",
         "com.st.STM32CubeIDE",
+        "io.github.ktgw0316.LightZone",
         "io.sourceforge.Pixelitor",
         "net.sourceforge.pdfchain",
         "org.briarproject.Briar",
@@ -336,6 +337,9 @@
     ],
     ".ezquake": [
         "io.github.ezQuake"
+    ],
+    ".lzncache": [
+        "io.github.ktgw0316.LightZone"
     ],
     ".config/starfighter": [
         "io.github.pr_starfighter.starfighter"

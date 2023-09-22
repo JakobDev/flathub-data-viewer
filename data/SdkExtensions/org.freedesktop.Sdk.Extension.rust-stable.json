@@ -71,6 +71,7 @@
     "io.bassi.Amberol",
     "io.github.achetagames.epic_asset_manager",
     "io.github.andreibachim.shortcut",
+    "io.github.btpf.alexandria",
     "io.github.davidoc26.wallpaper_selector",
     "io.github.eminfedar.vaktisalah-gtk-rs",
     "io.github.fin_ger.OvGUCanteen",
@@ -99,6 +100,7 @@
     "io.gitlab.daikhan.stable",
     "io.gitlab.news_flash.NewsFlash",
     "io.poez.Poezio",
+    "io.unobserved.espansoGUI",
     "ir.imansalmani.IPlan",
     "me.kozec.syncthingtk",
     "moe.tundra.Tundra",
@@ -146,5 +148,6 @@
     "tw.ddnet.ddnet",
     "xyz.dimtpap.coppwr",
     "xyz.ljoonal.neospeeps",
+    "xyz.slothlife.Jogger",
     "org.gnome.Evolution.Extension.evolution-etesync"
 ]

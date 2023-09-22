@@ -1763,6 +1763,7 @@
         "x-scheme-handler{SLASH}rtsp",
         "x-scheme-handler{SLASH}rtspt",
         "x-scheme-handler{SLASH}rtspu",
+        "x-scheme-handler{SLASH}s3drive",
         "x-scheme-handler{SLASH}secondlife",
         "x-scheme-handler{SLASH}sftp",
         "x-scheme-handler{SLASH}sgdb",

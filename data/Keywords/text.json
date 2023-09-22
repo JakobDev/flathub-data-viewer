@@ -7,6 +7,8 @@
     "io.github.zyedidia.micro",
     "io.gitlab.gregorni.ASCIIImages",
     "io.gitlab.gregorni.Calligraphy",
+    "io.gitlab.gregorni.Letterpress",
+    "io.unobserved.espansoGUI",
     "org.gnome.gitlab.somas.Apostrophe",
     "org.kde.kwrite"
 ]

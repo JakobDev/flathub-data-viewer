@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.Elastic",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.adrienplazas.Metronome",

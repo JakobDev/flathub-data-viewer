@@ -1,7 +1,10 @@
 [
+    "app.drey.Elastic",
     "app.vup.Vup",
     "com.github.liferooter.textpieces",
+    "io.kapsa.drive",
     "me.ppvan.psequel",
+    "org.gnome.Contacts",
     "org.localsend.localsend_app",
     "re.sonny.Workbench"
 ]

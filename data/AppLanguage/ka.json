@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.Elastic",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
@@ -41,6 +42,7 @@
     "org.gnome.FileRoller",
     "org.gnome.Firmware",
     "org.gnome.Glade",
+    "org.gnome.Gtranslator",
     "org.gnome.Hitori",
     "org.gnome.Loupe",
     "org.gnome.Maps",
@@ -67,6 +69,7 @@
     "org.gnome.clocks",
     "org.gnome.design.AppIconPreview",
     "org.gnome.design.Contrast",
+    "org.gnome.design.Emblem",
     "org.gnome.design.IconLibrary",
     "org.gnome.design.Lorem",
     "org.gnome.eog",

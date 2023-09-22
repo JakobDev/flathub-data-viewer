@@ -246,6 +246,7 @@
     "io.liri.Text",
     "io.neovim.nvim",
     "io.sourceforge.pentobi",
+    "io.unobserved.espansoGUI",
     "io.webtorrent.WebTorrent",
     "it.cuteworks.pacmanlogviewer",
     "it.mijorus.gearlever",

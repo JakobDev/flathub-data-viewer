@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "app.rednotebook.RedNotebook",
@@ -24,6 +25,7 @@
     "com.github.unrud.VideoDownloader",
     "com.github.ztefn.haguichi",
     "com.gitlab.bitseater.meteo",
+    "com.mardojai.ForgeSparks",
     "com.mattjakeman.ExtensionManager",
     "com.rafaelmardojai.Blanket",
     "com.rafaelmardojai.SharePreview",

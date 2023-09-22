@@ -3,6 +3,7 @@
     "app.drey.Damask",
     "app.drey.Dialect",
     "app.drey.EarTag",
+    "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ar.xjuan.Cambalache",
@@ -146,6 +147,7 @@
     "io.gitlab.adhami3310.Converter",
     "io.gitlab.adhami3310.Impression",
     "io.gitlab.gregorni.ASCIIImages",
+    "io.gitlab.gregorni.Letterpress",
     "io.gitlab.theevilskeleton.Upscaler",
     "io.gitlab.zehkira.Monophony",
     "io.missioncenter.MissionCenter",
@@ -506,6 +508,7 @@
     "re.sonny.Workbench",
     "ro.hume.cosmin.ShoppingList",
     "ua.org.brezblock.q4wine",
+    "xyz.slothlife.Jogger",
     "com.valvesoftware.Steam.CompatibilityTool.Proton",
     "org.fcitx.Fcitx5.Addon.Unikey"
 ]

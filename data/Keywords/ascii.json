@@ -1,5 +1,6 @@
 [
     "io.gitlab.gregorni.ASCIIImages",
     "io.gitlab.gregorni.Calligraphy",
+    "io.gitlab.gregorni.Letterpress",
     "org.gnome.gitlab.Cowsay"
 ]

@@ -1,5 +1,6 @@
 [
     "com.yacreader.YACReader",
     "info.febvre.Komikku",
+    "io.github.btpf.alexandria",
     "org.gabmus.gfeeds"
 ]

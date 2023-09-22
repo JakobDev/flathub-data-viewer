@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.Elastic",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.adrienplazas.Metronome",
@@ -36,6 +37,7 @@
     "org.gnome.Evince",
     "org.gnome.Extensions",
     "org.gnome.Firmware",
+    "org.gnome.Gtranslator",
     "org.gnome.Hitori",
     "org.gnome.Logs",
     "org.gnome.Loupe",
@@ -64,6 +66,7 @@
     "org.gnome.clocks",
     "org.gnome.design.AppIconPreview",
     "org.gnome.design.Contrast",
+    "org.gnome.design.Emblem",
     "org.gnome.design.IconLibrary",
     "org.gnome.design.Lorem",
     "org.gnome.dspy",

@@ -1183,6 +1183,7 @@
         "io.github.qtox.qTox",
         "io.github.vikdevelop.SaveDesktop",
         "io.gitlab.librewolf-community",
+        "io.kapsa.drive",
         "io.sourceforge.qoobar.Qoobar",
         "io.trustable.stpadocumentationtool",
         "io.wavebox.Wavebox",
@@ -2060,6 +2061,7 @@
         "im.srain.Srain",
         "io.github.Youda008.DoomRunner",
         "io.github.am2r_community_developers.AM2RLauncher",
+        "io.github.btpf.alexandria",
         "io.github.fabiangreffrath.Doom",
         "io.github.mihnea_radulescu.imagefanreloaded",
         "io.github.troyeguo.koodo-reader",
@@ -2220,6 +2222,7 @@
         "io.github.celluloid_player.Celluloid",
         "io.github.hvdwofl.jExifToolGUI",
         "io.github.jacalz.rymdport",
+        "io.github.ktgw0316.LightZone",
         "io.github.obiwankennedy.HotShots",
         "io.github.qtox.qTox",
         "io.github.ripose_jp.Memento",
@@ -2336,6 +2339,7 @@
         "dev.aunetx.deezer",
         "fm.cancel.Ripcord",
         "gg.guilded.Guilded",
+        "io.kapsa.drive",
         "org.gnunet.Messenger",
         "sh.ppy.osu",
         "xyz.armcord.ArmCord"
@@ -2351,6 +2355,7 @@
         "de.shorsh.discord-screenaudio",
         "fm.cancel.Ripcord",
         "gg.guilded.Guilded",
+        "io.kapsa.drive",
         "org.gnunet.Messenger",
         "sh.ppy.osu",
         "xyz.armcord.ArmCord"
@@ -2971,6 +2976,7 @@
     "/run/media:ro": [
         "com.github.rhyme_player.rhyme",
         "io.github.Soundux",
+        "io.github.btpf.alexandria",
         "net.openra.OpenRA",
         "org.cubocore.CoreFM",
         "org.gnome.Evince",
@@ -3579,6 +3585,9 @@
     ],
     "~/Projects": [
         "io.stoplight.studio"
+    ],
+    "xdg-config/espanso": [
+        "io.unobserved.espansoGUI"
     ],
     "/var/log/pacman.log:ro": [
         "it.cuteworks.pacmanlogviewer"

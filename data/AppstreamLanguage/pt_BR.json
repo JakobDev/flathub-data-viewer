@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "app.drey.Dialect",
+    "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "br.app.pw3270.terminal",
