@@ -34,5 +34,6 @@
     "org.gnome.design.IconLibrary",
     "org.gnome.design.SymbolicPreview",
     "org.gnome.design.VectorSlicer",
-    "org.nicotine_plus.Nicotine"
+    "org.nicotine_plus.Nicotine",
+    "re.sonny.Workbench"
 ]

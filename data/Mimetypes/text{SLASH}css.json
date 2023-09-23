@@ -5,6 +5,5 @@
     "org.cubocore.CorePad",
     "org.eclipse.Javascript",
     "org.geany.Geany",
-    "org.gnome.Builder",
-    "re.sonny.Workbench"
+    "org.gnome.Builder"
 ]

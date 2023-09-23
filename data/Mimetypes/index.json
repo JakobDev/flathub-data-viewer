@@ -1734,6 +1734,7 @@
         "x-scheme-handler{SLASH}osu",
         "x-scheme-handler{SLASH}otpauth",
         "x-scheme-handler{SLASH}owmods",
+        "x-scheme-handler{SLASH}pde",
         "x-scheme-handler{SLASH}peercoin",
         "x-scheme-handler{SLASH}pikatorrent",
         "x-scheme-handler{SLASH}pnm",

@@ -1,6 +1,7 @@
 [
     "com.mattjakeman.ExtensionManager",
     "com.rafaelmardojai.Blanket",
+    "dev.bragefuglseth.Fretboard",
     "io.github.hakandundar34coding.system-monitoring-center",
     "io.github.lainsce.Khronos",
     "io.github.vikdevelop.SaveDesktop"
