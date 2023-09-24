@@ -1,6 +1,7 @@
 [
     "com.gitlab.davem.ClamTk",
     "com.transmissionbt.Transmission",
+    "org.gnome.baobab",
     "org.tug.texworks",
     "org.tuxpaint.Tuxpaint"
 ]

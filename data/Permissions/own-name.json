@@ -326,12 +326,6 @@
     "org.freedesktop.tuhi1": [
         "org.freedesktop.Tuhi"
     ],
-    "org.gabmus.hydrapaper.daemon": [
-        "org.gabmus.hydrapaper"
-    ],
-    "org.gabmus.hydrapaper": [
-        "org.gabmus.hydrapaper"
-    ],
     "org.mpris.mediaplayer2.gmusicbrowser": [
         "org.gmusicbrowser.gmusicbrowser"
     ],

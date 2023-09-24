@@ -2022,7 +2022,6 @@
         "org.kde.kamoso",
         "org.mixxx.Mixxx",
         "org.musescore.MuseScore",
-        "org.nickvision.cavalier",
         "org.nongnu.gsequencer.gsequencer",
         "org.pipewire.Helvum",
         "org.remmina.Remmina",
@@ -2783,8 +2782,7 @@
         "com.github.GradienceTeam.Gradience"
     ],
     "xdg-config/gtk-4.0": [
-        "com.github.GradienceTeam.Gradience",
-        "io.github.Bavarder.Bavarder"
+        "com.github.GradienceTeam.Gradience"
     ],
     "~/.librewolf": [
         "com.github.GradienceTeam.Gradience"
@@ -3220,7 +3218,8 @@
         "com.vysp3r.ProtonPlus"
     ],
     "~/.config/heroic": [
-        "com.vysp3r.ProtonPlus"
+        "com.vysp3r.ProtonPlus",
+        "io.github.philipk.boilr"
     ],
     "~/.local/share/bottles": [
         "com.vysp3r.ProtonPlus"
@@ -3469,7 +3468,7 @@
     "~/.config/legendary:ro": [
         "io.github.philipk.boilr"
     ],
-    "~/.var/app/com.heroicgameslauncher.hgl:ro": [
+    "~/Games/Heroic:ro": [
         "io.github.philipk.boilr"
     ],
     "/run/media/mmcblk0p1:ro": [
@@ -3478,10 +3477,10 @@
     "xdg-data/lutris:ro": [
         "io.github.philipk.boilr"
     ],
-    "~/Games/Heroic:ro": [
+    "~/.config/itch:ro": [
         "io.github.philipk.boilr"
     ],
-    "~/.config/itch:ro": [
+    "~/.var/app/com.heroicgameslauncher.hgl:ro": [
         "io.github.philipk.boilr"
     ],
     "~/Applications:create": [
@@ -3773,19 +3772,13 @@
         "org.gabmus.gfeeds",
         "org.gnome.FontManager"
     ],
+    "/usr/share/gnome:ro": [
+        "org.gabmus.hydrapaper"
+    ],
     "~/.config/sway/config": [
         "org.gabmus.hydrapaper"
     ],
     "~/.swaylock/config": [
-        "org.gabmus.hydrapaper"
-    ],
-    "/usr/share/backgrounds": [
-        "org.gabmus.hydrapaper"
-    ],
-    "/usr/share/gnome:ro": [
-        "org.gabmus.hydrapaper"
-    ],
-    "xdg-config/autostart": [
         "org.gabmus.hydrapaper"
     ],
     "xdg-run/geany:create": [

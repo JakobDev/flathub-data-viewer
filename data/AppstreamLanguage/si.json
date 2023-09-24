@@ -2,6 +2,7 @@
     "app.drey.Dialect",
     "com.transmissionbt.Transmission",
     "io.github.TransmissionRemoteGtk",
+    "io.github.seadve.Kooha",
     "net.sourceforge.Lifeograph",
     "org.gnome.Calculator",
     "org.gnome.Evince",

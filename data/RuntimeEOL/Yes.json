@@ -265,9 +265,7 @@
     "org.freedesktop.Tuhi",
     "org.freedesktop.adriconf",
     "org.freedesktop.dabrain34.GstPipelineStudio",
-    "org.freedesktop.fwupd",
     "org.freefilesync.FreeFileSync",
-    "org.gabmus.hydrapaper",
     "org.gabmus.swatch",
     "org.gabmus.unifydmin",
     "org.gnode.NixView",
@@ -285,7 +283,6 @@
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Robots",
-    "org.gnome.SimpleScan",
     "org.gnome.SwellFoop",
     "org.gnome.Tali",
     "org.gnome.Taquin",
@@ -316,7 +313,6 @@
     "org.opentransactions.metier",
     "org.otfried.Ipe",
     "org.parlatype.Parlatype",
-    "org.pencil2d.Pencil2D",
     "org.pyzo.pyzo",
     "org.quetoo.Quetoo",
     "org.raceintospace.Raceintospace",
@@ -346,6 +342,5 @@
     "si.tano.Vremenar",
     "uk.jnthn.backgammony",
     "uk.org.zint.zint-qt",
-    "vn.hoabinh.quan.CoBang",
-    "xyz.diamondb.gtkcord4"
+    "vn.hoabinh.quan.CoBang"
 ]

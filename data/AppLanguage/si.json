@@ -2,6 +2,7 @@
     "app.drey.Dialect",
     "app.rednotebook.RedNotebook",
     "io.github.TransmissionRemoteGtk",
+    "io.github.seadve.Kooha",
     "org.bluesabre.MenuLibre",
     "org.freedesktop.fwupd",
     "org.gnome.Calculator",

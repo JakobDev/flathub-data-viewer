@@ -320,6 +320,7 @@
         "org.openshot.OpenShot",
         "org.pairinteraction.Pairinteraction",
         "org.pegasus_frontend.Pegasus",
+        "org.pencil2d.Pencil2D",
         "org.photoqt.PhotoQt",
         "org.polymc.PolyMC",
         "org.prismlauncher.PrismLauncher",
@@ -553,7 +554,6 @@
         "org.eu.encom.spectral",
         "org.mobsya.ThymioSuite",
         "org.openkj.OpenKJ",
-        "org.pencil2d.Pencil2D",
         "org.pyzo.pyzo",
         "org.shadowsocks.qt5client",
         "org.tomviz.Tomviz"

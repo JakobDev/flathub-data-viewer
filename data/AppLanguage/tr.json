@@ -50,6 +50,7 @@
     "de.schmidhuberj.Flare",
     "dev.Cogitri.Health",
     "dev.geopjr.Collision",
+    "dev.geopjr.Tuba",
     "fr.handbrake.ghb",
     "fr.romainvigier.MetadataCleaner",
     "im.dino.Dino",
@@ -226,6 +227,7 @@
     "org.xfce.mousepad",
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
+    "re.sonny.Commit",
     "re.sonny.Junction",
     "re.sonny.Workbench",
     "sm.puri.Chatty"
