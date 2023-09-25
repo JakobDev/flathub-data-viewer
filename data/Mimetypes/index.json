@@ -562,6 +562,7 @@
         "application{SLASH}x-lha",
         "application{SLASH}x-lhz",
         "application{SLASH}x-librepcb-project",
+        "application{SLASH}x-librepcb-project-archive",
         "application{SLASH}x-lifeographdiary",
         "application{SLASH}x-linguist",
         "application{SLASH}x-lmms-project",

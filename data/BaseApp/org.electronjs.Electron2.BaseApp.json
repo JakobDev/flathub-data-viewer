@@ -5,7 +5,6 @@
     "22.08": [
         "app.moosync.moosync",
         "camp.nook.nookdesktop",
-        "cc.arduino.IDE2",
         "ch.threema.threema-web-desktop",
         "chat.quadrix.Quadrix",
         "chat.revolt.RevoltDesktop",
@@ -170,5 +169,8 @@
         "org.sugarlabs.MusicBlocks",
         "ro.go.hmlendea.DL-Desktop",
         "se.manyver.Manyverse"
+    ],
+    "23.08": [
+        "cc.arduino.IDE2"
     ]
 }

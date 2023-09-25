@@ -41,6 +41,7 @@
     "mild": [
         "app.moosync.moosync",
         "ar.com.pilas_engine.App",
+        "cc.arduino.IDE2",
         "com.axosoft.GitKraken",
         "com.calibre_ebook.calibre",
         "com.cassidyjames.plausible",

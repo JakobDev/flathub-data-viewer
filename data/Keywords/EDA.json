@@ -1,5 +1,6 @@
 [
     "com.diy_fever.DIYLayoutCreator",
     "org.fritzing.Fritzing",
-    "org.kicad.KiCad"
+    "org.kicad.KiCad",
+    "org.librepcb.LibrePCB"
 ]
