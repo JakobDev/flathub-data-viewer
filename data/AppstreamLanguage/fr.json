@@ -164,6 +164,7 @@
     "io.gitlab.adhami3310.Impression",
     "io.gitlab.ballz.Ballz",
     "io.gitlab.daikhan.stable",
+    "io.gitlab.news_flash.NewsFlash",
     "io.gitlab.theevilskeleton.Upscaler",
     "io.jor.bugdom",
     "io.jor.mightymike",
@@ -503,5 +504,6 @@
     "work.openpaper.Paperwork",
     "xyz.eclipium.Hieroctive",
     "xyz.eclipium.TetraSwap",
+    "xyz.slothlife.Jogger",
     "org.fcitx.Fcitx5.Addon.Unikey"
 ]

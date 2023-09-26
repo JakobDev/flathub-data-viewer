@@ -2137,7 +2137,6 @@
         "com.xunlei.Thunder",
         "com.yubico.yubioath",
         "de.bund.ausweisapp.ausweisapp2",
-        "de.manuel_kehl.go-for-it",
         "de.shorsh.discord-screenaudio",
         "gg.guilded.Guilded",
         "im.gitter.Gitter",
@@ -2611,6 +2610,7 @@
         "io.github.mpobaschnig.Vaults",
         "io.github.shiftey.Desktop",
         "io.gitlab.librewolf-community",
+        "me.iepure.Ticketbooth",
         "net.giuspen.cherrytree",
         "net.mullvad.MullvadBrowser",
         "net.sourceforge.efaxgtk",
@@ -3017,6 +3017,9 @@
         "com.skype.Client",
         "io.github.betaflight.BetaflightConfigurator",
         "org.xiphos.Xiphos"
+    ],
+    "org.kde.*": [
+        "de.manuel_kehl.go-for-it"
     ],
     "org.sigxcpu.feedback": [
         "de.schmidhuberj.Flare",

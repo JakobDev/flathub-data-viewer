@@ -616,6 +616,7 @@
     ],
     ".srb2kart": [
         "org.srb2.SRB2Kart-galaxy",
+        "org.srb2.SRB2Kart-galaxy_azerty",
         "org.srb2.SRB2Kart"
     ],
     "Standard Notes Backups": [

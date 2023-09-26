@@ -171,6 +171,7 @@
     "io.posidon.Paper",
     "io.sourceforge.pysolfc.PySolFC",
     "me.hergert.Schemes",
+    "me.iepure.Ticketbooth",
     "me.iepure.devtoolbox",
     "me.kozec.syncthingtk",
     "net.ankiweb.Anki",

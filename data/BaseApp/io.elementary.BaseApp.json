@@ -9,7 +9,8 @@
         "com.github.muriloventuroso.pdftricks",
         "com.github.phase1geo.minder",
         "com.github.rajsolai.textsnatcher",
-        "com.github.subhadeepjasu.pebbles"
+        "com.github.subhadeepjasu.pebbles",
+        "com.github.treagod.spectator"
     ],
     "juno-21.08": [
         "com.github.alainm23.planner",
@@ -25,8 +26,7 @@
         "com.github.mdh34.quickdocs",
         "com.github.muriloventuroso.givemelyrics",
         "com.github.needleandthread.vocal",
-        "com.github.philip_scott.notes-up",
-        "com.github.treagod.spectator"
+        "com.github.philip_scott.notes-up"
     ],
     "juno-20.08": [
         "com.github.alecaddd.sequeler",

@@ -407,6 +407,7 @@
         "org.gottcode.Tanglet",
         "org.gottcode.Tetzle",
         "org.mattbas.Glaxnimate",
+        "org.otfried.Ipe",
         "org.plomgrading.PlomClient",
         "org.profex_xrd.Profex",
         "org.rncbc.qpwgraph",
@@ -605,7 +606,6 @@
         "org.jaspstats.JASP",
         "org.mapeditor.Tiled",
         "org.opentransactions.metier",
-        "org.otfried.Ipe",
         "org.shotcut.Shotcut",
         "org.tug.texworks"
     ],
