@@ -47,7 +47,8 @@
     "6.5": [
         "com.riverbankcomputing.PyQt.BaseApp",
         "io.github.xiaoyifang.goldendict_ng",
-        "io.mrarm.mcpelauncher"
+        "io.mrarm.mcpelauncher",
+        "net.jami.Jami"
     ],
     "5.15": [
         "com.wiz.Note",

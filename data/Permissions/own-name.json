@@ -1,6 +1,7 @@
 {
     "org.kde.*": [
         "app.lith.Lith",
+        "chat.rocket.RocketChat",
         "chat.schildi.desktop",
         "com.alovoa.alovoa-electron",
         "com.borgbase.Vorta",

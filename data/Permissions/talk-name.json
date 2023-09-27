@@ -219,7 +219,6 @@
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
         "com.mongodb.Compass",
-        "com.musixmatch.Musixmatch",
         "com.nextcloud.desktopclient.nextcloud",
         "com.nordpass.NordPass",
         "com.notesnook.Notesnook",
@@ -459,6 +458,7 @@
         "cc.retroshare.retroshare-gui",
         "ch.openboard.OpenBoard",
         "ch.theologeek.Manuskript",
+        "chat.rocket.RocketChat",
         "com.agateau.nanonote",
         "com.alovoa.alovoa-electron",
         "com.blockstream.Green",
@@ -597,6 +597,7 @@
         "de.unifreiburg.ellipticcurve",
         "dev.levz.TinyImageFinder",
         "dev.lukebriggs.pepys",
+        "dev.serebit.Waycheck",
         "edu.princeton.physics.WSJTX",
         "eu.ad5001.LogarithmPlotter",
         "eu.cichy1173.tabela",
@@ -2011,6 +2012,7 @@
     ],
     "com.canonical.indicator.application": [
         "app.lith.Lith",
+        "chat.rocket.RocketChat",
         "com.alovoa.alovoa-electron",
         "com.chmouel.gnomeNextMeetingApplet",
         "com.codemouse92.timecard",
@@ -2039,6 +2041,7 @@
     "org.freedesktop.portal.fcitx": [
         "app.lith.Lith",
         "chat.revolt.RevoltDesktop",
+        "chat.rocket.RocketChat",
         "chat.schildi.desktop",
         "com.github.marktext.marktext",
         "com.github.vladimiry.ElectronMail",
@@ -2256,6 +2259,7 @@
     ],
     "org.ayatana.indicator.application": [
         "app.lith.Lith",
+        "chat.rocket.RocketChat",
         "com.alovoa.alovoa-electron",
         "com.codemouse92.timecard",
         "com.github.inercia.k3x",
@@ -2546,6 +2550,27 @@
         "ch.tlaun.TL",
         "org.gnome.DejaDup"
     ],
+    "org.freedesktop.portal.background": [
+        "chat.rocket.RocketChat",
+        "codes.loers.Karlender",
+        "com.cocoatech.deckr",
+        "com.github.zocker_160.SyncThingy",
+        "com.tutanota.Tutanota",
+        "gg.guilded.Guilded",
+        "me.timschneeberger.jdsp4linux",
+        "org.signal.Signal"
+    ],
+    "org.gnome.mutter.idlemonitor": [
+        "chat.rocket.RocketChat",
+        "com.lakoliu.Furtherance",
+        "com.toggl.TogglDesktop",
+        "io.github.kotatogram",
+        "io.github.slgobinath.SafeEyes",
+        "io.github.tdesktop_x64.TDesktop",
+        "org.gajim.Gajim",
+        "org.gnome.BreakTimer",
+        "org.signal.Signal"
+    ],
     "org.gnome.settingsdaemon": [
         "chat.tandem.Client",
         "com.sublimetext.three",
@@ -2554,15 +2579,6 @@
         "org.gabmus.hydrapaper",
         "org.gabmus.unifydmin",
         "org.gnome.Photos"
-    ],
-    "org.freedesktop.portal.background": [
-        "codes.loers.Karlender",
-        "com.cocoatech.deckr",
-        "com.github.zocker_160.SyncThingy",
-        "com.tutanota.Tutanota",
-        "gg.guilded.Guilded",
-        "me.timschneeberger.jdsp4linux",
-        "org.signal.Signal"
     ],
     "org.gtk.vfs.*": [
         "com.abisource.AbiWord",
@@ -2975,16 +2991,6 @@
     ],
     "org.elementary.contractor": [
         "com.ktechpit.wonderwall"
-    ],
-    "org.gnome.mutter.idlemonitor": [
-        "com.lakoliu.Furtherance",
-        "com.toggl.TogglDesktop",
-        "io.github.kotatogram",
-        "io.github.slgobinath.SafeEyes",
-        "io.github.tdesktop_x64.TDesktop",
-        "org.gajim.Gajim",
-        "org.gnome.BreakTimer",
-        "org.signal.Signal"
     ],
     "org.gnome.shell.extensions": [
         "com.mattjakeman.ExtensionManager",

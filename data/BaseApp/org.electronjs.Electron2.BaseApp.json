@@ -8,7 +8,6 @@
         "ch.threema.threema-web-desktop",
         "chat.quadrix.Quadrix",
         "chat.revolt.RevoltDesktop",
-        "chat.rocket.RocketChat",
         "chat.schildi.desktop",
         "chat.tandem.Client",
         "cn.lceda.LCEDAPro",
@@ -46,7 +45,6 @@
         "com.sudovanilla.penpot-desktop",
         "com.todoist.Todoist",
         "com.tutanota.Tutanota",
-        "com.viber.Viber",
         "com.visualstudio.code",
         "com.vscodium.codium",
         "com.wickeditor.WickEditor",
@@ -147,7 +145,6 @@
         "com.github.z.Cumulonimbus",
         "com.github.zadam.trilium",
         "com.googleplaymusicdesktopplayer.GPMDP",
-        "com.musixmatch.Musixmatch",
         "com.napster.napster-bigscreen-electron",
         "com.ownrwallet.wallet",
         "com.plexamp.Plexamp",
@@ -171,6 +168,9 @@
     ],
     "23.08": [
         "cc.arduino.IDE2",
-        "com.boxy_svg.BoxySVG"
+        "chat.rocket.RocketChat",
+        "com.boxy_svg.BoxySVG",
+        "com.musixmatch.Musixmatch",
+        "com.viber.Viber"
     ]
 }
