@@ -59,7 +59,6 @@
         "com.napster.napster-bigscreen-electron",
         "com.netease.CloudMusic",
         "com.okta.developer.CLI",
-        "com.openwall.John",
         "com.ownrwallet.wallet",
         "com.parsecgaming.parsec",
         "com.plexamp.Plexamp",
@@ -718,7 +717,6 @@
         "org.virtualxt.VirtualXT",
         "org.wesnoth.Wesnoth",
         "org.wezfurlong.wezterm",
-        "org.winehq.Wine",
         "org.wxhexeditor.wxHexEditor",
         "org.xfce.mousepad",
         "org.xfce.ristretto",
@@ -795,7 +793,6 @@
         "org.raceintospace.Raceintospace",
         "org.squeakland.Etoys",
         "org.tuxfamily.XMoto",
-        "radio.k0swe.Kel_Agent",
         "si.tano.Vremenar"
     ],
     "23.08": [
@@ -854,6 +851,7 @@
         "com.lunarclient.LunarClient",
         "com.mojang.Minecraft",
         "com.musixmatch.Musixmatch",
+        "com.openwall.John",
         "com.playonlinux.PlayOnLinux4",
         "com.pypyrev.linuxdcpp",
         "com.revolutionarygamesstudio.ThriveLauncher",
@@ -967,6 +965,7 @@
         "org.stochas.Stochas",
         "org.surge_synth_team.surge-xt",
         "org.thonny.Thonny",
+        "org.winehq.Wine",
         "org.xnec2c.Xnec2c",
         "org.xonotic.Xonotic",
         "org.yamagi.YamagiQ2",
@@ -974,6 +973,7 @@
         "org.zdoom.GZDoom",
         "org.zotero.Zotero",
         "page.codeberg.JakobDev.CCLite",
+        "radio.k0swe.Kel_Agent",
         "se.cendio.tlclient",
         "uk.org.greenend.chiark.sgtatham.putty",
         "xyz.dimtpap.coppwr"

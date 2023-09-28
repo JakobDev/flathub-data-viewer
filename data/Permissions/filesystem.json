@@ -1582,7 +1582,6 @@
         "com.github.phase1geo.minder",
         "com.github.sakya.corechess",
         "com.github.scrivanolabs.scrivano",
-        "com.gitlab.j0chn.nextcloud_password_client",
         "com.google.Chrome",
         "com.hamrick.VueScan",
         "com.heroicgameslauncher.hgl",
@@ -3032,6 +3031,9 @@
     ],
     "xdg-config/libinput-gestures.conf:create": [
         "com.gitlab.cunidev.Gestures"
+    ],
+    "xdg-documents/nextcloud_password_client:create": [
+        "com.gitlab.j0chn.nextcloud_password_client"
     ],
     "xdg-run/discord:create": [
         "com.googleplaymusicdesktopplayer.GPMDP"

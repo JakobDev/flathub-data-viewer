@@ -1,6 +1,7 @@
 [
     "app.drey.Dialect",
     "com.belmoussaoui.Authenticator",
+    "com.github.finefindus.eyedropper",
     "com.github.hugolabe.Wike",
     "io.github.Qalculate",
     "io.github.idevecore.CurrencyConverter",

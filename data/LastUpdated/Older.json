@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.drey.KeyRack",
     "app.getspace.Space",
     "app.gummi.gummi",
     "app.lith.Lith",
@@ -348,6 +349,7 @@
     "io.github.Hexchat",
     "io.github.ImEditor",
     "io.github.JaGoLi.ytdl_gui",
+    "io.github.Pithos",
     "io.github.Rangi42.polished-map-plusplus",
     "io.github.Rangi42.polished-map",
     "io.github.Rangi42.tilemap-studio",
@@ -415,7 +417,6 @@
     "io.github.technic.e2designer",
     "io.github.thiefmd.themegenerator",
     "io.github.torrent_file_editor.Torrent-file-editor",
-    "io.github.trigg.discover_overlay",
     "io.github.trytonvanmeer.DungeonJournal",
     "io.github.twanvl.MagicSetEditor2",
     "io.github.webcamoid.Webcamoid",
