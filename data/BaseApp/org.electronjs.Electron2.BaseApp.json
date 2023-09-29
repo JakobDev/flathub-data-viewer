@@ -88,7 +88,6 @@
         "io.github.thaunknown.miru",
         "io.github.troyeguo.koodo-reader",
         "io.kinvolk.Headlamp",
-        "io.kopia.KopiaUI",
         "io.podman_desktop.PodmanDesktop",
         "io.typora.Typora",
         "io.vikunja.Vikunja",
@@ -116,7 +115,6 @@
         "org.jupyter.JupyterLab",
         "org.nanuc.Axolotl",
         "org.onlyoffice.desktopeditors",
-        "org.signal.Signal",
         "org.standardnotes.standardnotes",
         "org.turbowarp.TurboWarp",
         "org.twinery.Twine",
@@ -171,6 +169,8 @@
         "chat.rocket.RocketChat",
         "com.boxy_svg.BoxySVG",
         "com.musixmatch.Musixmatch",
-        "com.viber.Viber"
+        "com.viber.Viber",
+        "io.kopia.KopiaUI",
+        "org.signal.Signal"
     ]
 }

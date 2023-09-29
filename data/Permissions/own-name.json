@@ -1,39 +1,29 @@
 {
+    "org.mpris.mediaplayer2.moosync": [
+        "app.moosync.moosync"
+    ],
+    "org.mpris.mediaplayer2.youtubemusic": [
+        "app.ytmdesktop.ytmdesktop"
+    ],
     "org.kde.*": [
-        "app.lith.Lith",
-        "chat.rocket.RocketChat",
         "chat.schildi.desktop",
         "com.alovoa.alovoa-electron",
-        "com.borgbase.Vorta",
-        "com.calibre_ebook.calibre",
         "com.codemouse92.timecard",
         "com.discordapp.Discord",
         "com.dropbox.Client",
         "com.github.debauchee.barrier",
-        "com.github.hluk.copyq",
-        "com.github.vladimiry.ElectronMail",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
-        "com.mattermost.Desktop",
         "com.nextcloud.desktopclient.nextcloud",
         "com.qq.QQmusic",
         "com.sayonara_player.Sayonara",
-        "com.stremio.Stremio",
         "com.synology.SynologyDrive",
         "com.tutanota.Tutanota",
-        "de.bund.ausweisapp.ausweisapp2",
-        "dev.deedles.Trayscale",
-        "info.mumble.Mumble",
         "io.github.aandrew_me.ytdn",
         "io.github.antimicrox.antimicrox",
         "io.github.qnapi",
         "io.github.streetpea.Chiaki4deck",
-        "io.kopia.KopiaUI",
         "me.timschneeberger.GalaxyBudsClient",
-        "net.hovancik.Stretchly",
-        "network.loki.Session",
-        "nz.mega.MEGAsync",
         "org.altaqwaa.Altaqwaa",
-        "org.cryptomator.Cryptomator",
         "org.cubocore.CoreAction",
         "org.cubocore.CoreKeyboard",
         "org.cubocore.CoreTime",
@@ -44,21 +34,11 @@
         "org.ksnip.ksnip",
         "org.qownnotes.QOwnNotes",
         "org.qutebrowser.qutebrowser",
-        "org.signal.Signal",
-        "org.strawberrymusicplayer.strawberry",
         "org.tribler.Tribler",
-        "org.zulip.Zulip",
         "re.chiaki.Chiaki",
         "si.tano.Vremenar",
         "us.zoom.Zoom",
-        "xyz.armcord.ArmCord",
         "xyz.hyperplay.HyperPlay"
-    ],
-    "org.mpris.mediaplayer2.moosync": [
-        "app.moosync.moosync"
-    ],
-    "org.mpris.mediaplayer2.youtubemusic": [
-        "app.ytmdesktop.ytmdesktop"
     ],
     "org.mpris.mediaplayer2.headset": [
         "co.headsetapp.headset"

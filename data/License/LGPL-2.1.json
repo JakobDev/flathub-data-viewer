@@ -8,6 +8,7 @@
     "com.hack_computer.Clippy.Extension",
     "org.freedesktop.LinuxAudio.Plugins.Calf",
     "org.kde.PlatformTheme.QGnomePlatform",
+    "org.kde.WaylandDecoration.QAdwaitaDecorations",
     "org.kde.WaylandDecoration.QGnomePlatform-decoration",
     "org.videolan.VLC.Plugin.fdkaac"
 ]

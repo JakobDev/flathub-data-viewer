@@ -393,6 +393,7 @@
     "org.kde.PlatformTheme.QGnomePlatform",
     "org.kde.PlatformTheme.QtSNI",
     "org.kde.Sdk",
+    "org.kde.WaylandDecoration.QAdwaitaDecorations",
     "org.kde.WaylandDecoration.QGnomePlatform-decoration",
     "org.libreoffice.LibreOffice.BundledExtension.Voikko",
     "org.qutebrowser.qutebrowser.Userscripts",

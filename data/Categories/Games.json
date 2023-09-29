@@ -2,7 +2,6 @@
     "com.claudiocambra.brickbuster",
     "io.sourceforge.clonekeenplus",
     "org.citra_emu.citra",
-    "org.duckstation.DuckStation",
     "org.love2d.love2d",
     "org.pjbroad.EternallandsClient",
     "org.tabos.twofun"

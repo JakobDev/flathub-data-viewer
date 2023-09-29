@@ -1941,7 +1941,6 @@
         "org.cubocore.CoreAction",
         "org.cubocore.CoreImage",
         "org.cubocore.CoreStats",
-        "org.duckstation.DuckStation",
         "org.equeim.Tremotesf",
         "org.flathub.flatpak-external-data-checker",
         "org.flycast.Flycast",
