@@ -278,6 +278,7 @@
         "com.github.Anuken.Mindustry",
         "com.katawa_shoujo.KatawaShoujo",
         "edu.mit.Scratch",
-        "org.megaglest.MegaGlest"
+        "org.megaglest.MegaGlest",
+        "sh.fhs.KatawaShoujoReEngineered"
     ]
 }

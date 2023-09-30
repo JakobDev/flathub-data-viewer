@@ -278,8 +278,8 @@
         "org.syphon.Syphon",
         "org.telegram",
         "se.manyver.Manyverse",
+        "so.libdb.gtkcord4",
         "us.ihmc.cmap.CmapTools",
-        "xyz.armcord.ArmCord",
-        "xyz.diamondb.gtkcord4"
+        "xyz.armcord.ArmCord"
     ]
 }

@@ -372,8 +372,8 @@
         "org.otfried.Ipe",
         "org.sil.FieldWorks",
         "org.skytemple.SkyTemple",
+        "so.libdb.gtkcord4",
         "us.zoom.Zoom",
-        "xyz.armcord.ArmCord",
-        "xyz.diamondb.gtkcord4"
+        "xyz.armcord.ArmCord"
     ]
 }

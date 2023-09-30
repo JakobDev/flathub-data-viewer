@@ -29,6 +29,7 @@
         "org.firestormviewer.FirestormViewer",
         "org.yamagi.YamagiQ2",
         "org.zdoom.GZDoom",
+        "sh.fhs.KatawaShoujoReEngineered",
         "xyz.hyperplay.HyperPlay"
     ],
     "none": [

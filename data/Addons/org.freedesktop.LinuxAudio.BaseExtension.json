@@ -23,6 +23,7 @@
     "org.freedesktop.LinuxAudio.Plugins.KapitonovPluginsPack",
     "org.freedesktop.LinuxAudio.Plugins.LSP",
     "org.freedesktop.LinuxAudio.Plugins.MDA",
+    "org.freedesktop.LinuxAudio.Plugins.NeuralAmpModeler",
     "org.freedesktop.LinuxAudio.Plugins.Ninjas2",
     "org.freedesktop.LinuxAudio.Plugins.OBXd",
     "org.freedesktop.LinuxAudio.Plugins.SoSynthLV2",

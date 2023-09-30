@@ -291,8 +291,8 @@
         "org.telegram",
         "org.tvbrowser.TVBrowser",
         "org.vergecurrency.verge-qt",
+        "so.libdb.gtkcord4",
         "so.onekey.Wallet",
-        "xyz.diamondb.gtkcord4",
         "xyz.hyperplay.HyperPlay"
     ],
     "moderate": [

@@ -11,7 +11,8 @@
         "io.github.sharkwouter.Minigalaxy",
         "org.firestormviewer.FirestormViewer",
         "org.phoenicis.playonlinux",
-        "org.tordini.flavio.Minitube"
+        "org.tordini.flavio.Minitube",
+        "sh.fhs.KatawaShoujoReEngineered"
     ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",

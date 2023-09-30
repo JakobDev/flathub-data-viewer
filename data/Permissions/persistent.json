@@ -155,7 +155,8 @@
         "games.zetsubou.HumanityMustPerish",
         "games.zetsubou.MaxMassacre",
         "games.zetsubou.SablesGrimoireDemo",
-        "games.zetsubou.WanderNoMore"
+        "games.zetsubou.WanderNoMore",
+        "sh.fhs.KatawaShoujoReEngineered"
     ],
     ".minecraft": [
         "com.lunarclient.LunarClient",

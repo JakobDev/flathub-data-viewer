@@ -17,6 +17,7 @@
     "com.orama_interactive.Pixelorama",
     "com.protonvpn.www",
     "com.q3rally.Q3Rally",
+    "com.rafaelmardojai.SharePreview",
     "com.rafaelmardojai.WebfontKitGenerator",
     "com.redis.RedisInsight",
     "com.revolutionarygamesstudio.ThriveLauncher",
@@ -165,6 +166,7 @@
     "org.blackfennec.app.extensions.base",
     "org.blackfennec.app.extensions.core",
     "org.freedesktop.LinuxAudio.Plugins.BYOD",
+    "org.freedesktop.LinuxAudio.Plugins.NeuralAmpModeler",
     "org.radare.iaito.translations",
     "org.radare.iaito.webui",
     "org.videolan.VLC.Plugin.pause_click"

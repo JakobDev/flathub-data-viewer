@@ -6,6 +6,7 @@
     "com.adilhanney.timing",
     "com.blockstream.Green",
     "com.diy_fever.DIYLayoutCreator",
+    "com.dreamsourcelab.DSView",
     "com.expidusos.calculator",
     "com.expidusos.file_manager",
     "com.github.AlizaMedicalImaging.AlizaMS",
@@ -35,6 +36,7 @@
     "io.github.Youda008.DoomRunner",
     "io.github.dtsudo.TuxPlanetSpeedrunAnyPercent",
     "io.github.fkinoshita.Telegraph",
+    "io.github.flattool.Warehouse",
     "io.github.giantpinkrobots.bootqt",
     "io.github.gssh_linux.gssh",
     "io.github.guillaumechereau.Goxel",
@@ -95,5 +97,6 @@
     "com.valvesoftware.Steam.Utility.steamtinkerlaunch",
     "org.blackfennec.app.extensions.base",
     "org.blackfennec.app.extensions.core",
+    "org.freedesktop.LinuxAudio.Plugins.NeuralAmpModeler",
     "org.gtk.Gtk3theme.Mojave-light"
 ]

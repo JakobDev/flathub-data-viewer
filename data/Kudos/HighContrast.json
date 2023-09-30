@@ -40,7 +40,6 @@
     "com.github.finefindus.eyedropper",
     "com.github.flxzt.rnote",
     "com.github.fries1234.ncsa-mosaic",
-    "com.github.fushinari.Wordbook",
     "com.github.geigi.cozy",
     "com.github.hugolabe.Wike",
     "com.github.huluti.Curtail",
@@ -96,6 +95,7 @@
     "dev.edfloreshz.Done",
     "dev.geopjr.Collision",
     "dev.geopjr.Tuba",
+    "dev.mufeed.Wordbook",
     "dev.salaniLeo.forecast",
     "dev.salaniLeo.immagini",
     "dev.tchx84.Portfolio",
@@ -134,6 +134,7 @@
     "io.github.idevecore.CurrencyConverter",
     "io.github.igaldino.CoyoteTM",
     "io.github.jorchube.monitorets",
+    "io.github.kaii_lb.hgui",
     "io.github.kaschpal.timetable",
     "io.github.lainsce.Colorway",
     "io.github.lainsce.Countdown",
@@ -299,6 +300,7 @@
     "se.sjoerd.GIScan",
     "se.sjoerd.Graphs",
     "sm.puri.Chatty",
+    "xyz.aguno.CubeTimer",
     "xyz.ketok.Speedtest",
     "xyz.tytanium.DoorKnocker"
 ]

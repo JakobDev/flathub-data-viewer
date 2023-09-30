@@ -134,6 +134,7 @@
         "com.snes9x.Snes9x",
         "com.st.STM32CubeIDE",
         "com.steamdeckrepo.manager",
+        "com.strlen.TreeSheets",
         "com.supermodel3.Supermodel",
         "com.sweethome3d.Sweethome3d",
         "com.sweetscape.ZeroOneZeroEditor",
@@ -167,6 +168,7 @@
         "de.manuel_kehl.go-for-it",
         "de.marlam.qv",
         "de.mediathekview.MediathekView",
+        "de.philippun1.Snoop",
         "de.willuhn.Jameica",
         "dev.bambosh.UnofficialHomestuckCollection",
         "dev.bsnes.bsnes",
@@ -458,6 +460,7 @@
         "com.darhon.drfinance",
         "com.darhon.syncbackup",
         "com.dhsdevelopments.Climaxima",
+        "com.dreamsourcelab.DSView",
         "com.eminfedar.vaktisalah",
         "com.flashforge.FlashPrint",
         "com.georgefb.mangareader",
@@ -608,6 +611,7 @@
         "io.github.congard.qnvsm",
         "io.github.ctlcltd.e2se",
         "io.github.cudatext.CudaText-Qt5",
+        "io.github.ddanilov.soundscape",
         "io.github.dman95.SASM",
         "io.github.dummerle.rare",
         "io.github.garglk.Gargoyle",
@@ -1064,6 +1068,7 @@
         "com.borgbase.Vorta",
         "com.github.qarmin.czkawka",
         "io.blockloader.BlockLoader",
+        "io.github.flattool.Warehouse",
         "io.github.giantpinkrobots.flatsweep",
         "io.kopia.KopiaUI",
         "org.freefilesync.FreeFileSync",
@@ -1378,6 +1383,7 @@
         "io.github.cboxdoerfer.FSearch",
         "io.github.ctlcltd.e2se",
         "io.github.daviddesimone.opencloudsaves",
+        "io.github.ddanilov.soundscape",
         "io.github.dfandrich.gpscorrelate",
         "io.github.fralonra.WgShadertoy",
         "io.github.giantpinkrobots.bootqt",
@@ -1562,6 +1568,7 @@
         "cn.lceda.LCEDAPro",
         "co.luoja.Telyn",
         "com.adobe.Reader",
+        "com.budgetwithbuckets.Buckets",
         "com.cocoatech.deckr",
         "com.darhon.drfinance",
         "com.diy_fever.DIYLayoutCreator",
@@ -2170,6 +2177,7 @@
         "com.jetbrains.RubyMine",
         "com.jetbrains.WebStorm",
         "com.syntevo.SmartGit",
+        "com.tutanota.Tutanota",
         "im.riot.Riot",
         "in.cinny.Cinny",
         "io.github.dweymouth.supersonic",
@@ -2179,7 +2187,7 @@
         "org.gnome.gitg",
         "org.standardnotes.standardnotes",
         "org.tabos.roger",
-        "xyz.diamondb.gtkcord4"
+        "so.libdb.gtkcord4"
     ],
     "xdg-pictures": [
         "chat.quadrix.Quadrix",
@@ -2994,7 +3002,8 @@
         "io.github.nate_xyz.Resonance",
         "org.srb2.SRB2Kart-galaxy",
         "org.srb2.SRB2Kart-galaxy_azerty",
-        "org.srb2.SRB2Kart"
+        "org.srb2.SRB2Kart",
+        "sh.fhs.KatawaShoujoReEngineered"
     ],
     "/run/udev:ro": [
         "com.github.theCalcaholic.StreamDeck",
@@ -3318,6 +3327,7 @@
     "/var/lib/flatpak:ro": [
         "hu.kramo.Cartridges",
         "io.github.fabrialberio.pinapp",
+        "io.github.flattool.Warehouse",
         "io.github.vikdevelop.SaveDesktop",
         "org.bluesabre.MenuLibre",
         "org.freedesktop.appstream-glib",
@@ -3393,6 +3403,11 @@
     "/var/lib/snapd:ro": [
         "io.github.fabrialberio.pinapp",
         "page.codeberg.libre_menu_editor.LibreMenuEditor"
+    ],
+    "~/.local/share/flatpak:ro": [
+        "io.github.flattool.Warehouse",
+        "org.freedesktop.appstream-glib",
+        "org.freedesktop.appstream.cli"
     ],
     "~/Documents": [
         "io.github.glitterware.Passy"
@@ -3753,10 +3768,6 @@
     "~/.freeciv:create": [
         "org.freeciv.gtk322",
         "org.freeciv.qt"
-    ],
-    "~/.local/share/flatpak:ro": [
-        "org.freedesktop.appstream-glib",
-        "org.freedesktop.appstream.cli"
     ],
     "/sys": [
         "org.freedesktop.fwupd"

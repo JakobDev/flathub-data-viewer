@@ -237,7 +237,8 @@
         "io.github.hakuneko.HakuNeko",
         "org.firestormviewer.FirestormViewer",
         "org.phoenicis.playonlinux",
-        "org.tordini.flavio.Minitube"
+        "org.tordini.flavio.Minitube",
+        "sh.fhs.KatawaShoujoReEngineered"
     ],
     "moderate": [
         "io.github.sharkwouter.Minigalaxy"

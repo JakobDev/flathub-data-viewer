@@ -1,6 +1,7 @@
 [
     "app.ywallet.Ywallet",
     "com.blockstream.Green",
+    "com.budgetwithbuckets.Buckets",
     "com.ekonomikas.merkato",
     "com.github.horaciodrs.tradesim",
     "com.github.matfantinel.moneta",

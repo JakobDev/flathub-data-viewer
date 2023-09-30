@@ -19,5 +19,6 @@
     "org.prismlauncher.PrismLauncher",
     "org.scummvm.ScummVM",
     "org.solarus_games.solarus.Launcher",
+    "sh.fhs.KatawaShoujoReEngineered",
     "uk.co.parallelrealities.games.edgar"
 ]
