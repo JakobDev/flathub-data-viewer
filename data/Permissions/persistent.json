@@ -464,6 +464,9 @@
     ".torcs": [
         "net.sourceforge.torcs"
     ],
+    ".hexen2": [
+        "net.sourceforge.uhexen2.uhexen2"
+    ],
     ".waterfox": [
         "net.waterfox.waterfox"
     ],

@@ -26,7 +26,6 @@
         "org.apache.netbeans",
         "org.codeblocks.codeblocks",
         "org.flathub.flatpak-external-data-checker",
-        "org.ghidra_sre.Ghidra",
         "org.gnu.emacs",
         "org.scilab.Scilab",
         "org.scintilla.SciTE",
@@ -52,6 +51,7 @@
         "com.synology.SynologyDrive",
         "io.neovim.nvim",
         "org.geany.Geany",
+        "org.ghidra_sre.Ghidra",
         "org.kicad.KiCad",
         "org.thonny.Thonny"
     ],

@@ -172,6 +172,9 @@
     "org.mpris.mediaplayer2.thebeat": [
         "com.vicr123.thebeat"
     ],
+    "org.mpris.mediaplayer2.decibels": [
+        "com.vixalien.decibels"
+    ],
     "org.mpris.mediaplayer2.spot": [
         "dev.alextren.Spot"
     ],

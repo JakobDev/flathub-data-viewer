@@ -24,7 +24,6 @@
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.vikdevelop.photopea_app",
         "com.github.vladimiry.ElectronMail",
-        "com.heroicgameslauncher.hgl",
         "com.logseq.Logseq",
         "com.lunarclient.LunarClient",
         "com.mastermindzh.tidal-hifi",
@@ -117,7 +116,6 @@
         "org.turbowarp.TurboWarp",
         "org.twinery.Twine",
         "org.upscayl.Upscayl",
-        "org.zulip.Zulip",
         "rest.insomnia.Insomnia",
         "sh.cider.Cider",
         "so.onekey.Wallet",
@@ -167,11 +165,13 @@
         "chat.rocket.RocketChat",
         "com.boxy_svg.BoxySVG",
         "com.budgetwithbuckets.Buckets",
+        "com.heroicgameslauncher.hgl",
         "com.inklestudios.Inky",
         "com.musixmatch.Musixmatch",
         "com.viber.Viber",
         "im.riot.Riot",
         "io.kopia.KopiaUI",
-        "org.signal.Signal"
+        "org.signal.Signal",
+        "org.zulip.Zulip"
     ]
 }

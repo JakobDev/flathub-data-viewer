@@ -30,6 +30,7 @@
         "org.freedesktop.Sdk.Extension.rust-stable",
         "org.freedesktop.Sdk.Extension.texlive",
         "org.freedesktop.Sdk.Extension.toolchain-i386",
+        "org.freedesktop.Sdk.Extension.typescript",
         "org.freedesktop.Sdk.Extension.vala",
         "org.freedesktop.Sdk.Extension.ziglang",
         "org.freedesktop.Sdk.Locale",

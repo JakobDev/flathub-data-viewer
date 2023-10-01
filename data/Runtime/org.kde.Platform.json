@@ -381,6 +381,7 @@
         "io.github.shiiion.primehack",
         "io.github.simple64.simple64",
         "io.github.torrent_file_editor.Torrent-file-editor",
+        "io.github.xaos_project.XaoS",
         "io.github.xiaoyifang.goldendict_ng",
         "io.mrarm.mcpelauncher",
         "io.qt.qtwebengine.BaseApp",
@@ -419,6 +420,7 @@
         "org.rncbc.qpwgraph",
         "org.rncbc.qsynth",
         "org.rncbc.qtractor",
+        "org.shotcut.Shotcut",
         "org.stellarium.Stellarium",
         "org.strawberrymusicplayer.strawberry",
         "org.texstudio.TeXstudio",
@@ -492,7 +494,6 @@
         "io.github.rafaelfassi.QLogExplorer",
         "io.github.trevorsandy.LPub3D",
         "io.github.webcamoid.Webcamoid",
-        "io.github.xaos_project.XaoS",
         "io.github.zaps166.QMPlay2",
         "io.gitlab.persiangolf.voicegen",
         "io.itch.azagaya.Laigter",
@@ -609,7 +610,6 @@
         "org.jaspstats.JASP",
         "org.mapeditor.Tiled",
         "org.opentransactions.metier",
-        "org.shotcut.Shotcut",
         "org.tug.texworks"
     ],
     "5.12": [
