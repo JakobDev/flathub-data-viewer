@@ -5,11 +5,11 @@
     "44": [
         "com.github.corna.Vivado",
         "com.github.mikacousin.olc",
-        "com.github.themix_project.Oomox",
-        "org.gnome.Devhelp"
+        "com.github.themix_project.Oomox"
     ],
     "45": [
         "org.gnome.Builder",
+        "org.gnome.Devhelp",
         "re.sonny.Workbench"
     ]
 }

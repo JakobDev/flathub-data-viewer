@@ -1,6 +1,7 @@
 {
     "5.15-22.08": [
         "app.cantara.Cantara",
+        "art.taunoerik.tauno-serial-plotter",
         "ca.parallel_launcher.ParallelLauncher",
         "ch.openboard.OpenBoard",
         "com.agateau.nanonote",
@@ -452,7 +453,6 @@
         "page.codeberg.lazyt.ubpm"
     ],
     "5.15-21.08": [
-        "art.taunoerik.tauno-serial-plotter",
         "at.priv.toastfreeware.ConfClerk",
         "ch.theologeek.Manuskript",
         "com.chatterino.chatterino",

@@ -240,8 +240,6 @@
         "com.stremio.Stremio",
         "com.synology.CloudStationBackup",
         "com.synology.SynologyDrive",
-        "com.syntevo.SmartGit",
-        "com.syntevo.SmartSynchronize",
         "com.tencent.wemeet",
         "com.ticktick.TickTick",
         "com.todoist.Todoist",
@@ -254,7 +252,6 @@
         "com.visualstudio.code-oss",
         "com.visualstudio.code",
         "com.vscodium.codium",
-        "com.wire.WireDesktop",
         "com.xunlei.Thunder",
         "com.zettlr.Zettlr",
         "de.akaflieg_freiburg.enroute",
@@ -1110,6 +1107,7 @@
     ],
     "org.kde.kconfig.notify": [
         "app.cantara.Cantara",
+        "art.taunoerik.tauno-serial-plotter",
         "ca.parallel_launcher.ParallelLauncher",
         "ch.openboard.OpenBoard",
         "ch.theologeek.Manuskript",
@@ -1549,6 +1547,7 @@
     ],
     "org.kde.kglobalsettings": [
         "app.cantara.Cantara",
+        "art.taunoerik.tauno-serial-plotter",
         "ca.parallel_launcher.ParallelLauncher",
         "ch.openboard.OpenBoard",
         "ch.theologeek.Manuskript",

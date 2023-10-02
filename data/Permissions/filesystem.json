@@ -1935,7 +1935,6 @@
         "io.github.hakandundar34coding.system-monitoring-center",
         "io.github.jorchube.monitorets",
         "io.github.kotatogram",
-        "io.github.mmarco94.tambourine",
         "io.github.ripose_jp.Memento",
         "io.github.shiiion.primehack",
         "io.gitlab.floodlight.Presenter",
@@ -2404,7 +2403,6 @@
         "io.github.ilius.pyglossary",
         "io.github.manisandro.gImageReader",
         "io.github.mightycreak.Diffuse",
-        "io.github.mmarco94.tambourine",
         "io.github.mpobaschnig.Vaults",
         "me.iepure.Ticketbooth",
         "net.giuspen.cherrytree",
@@ -2470,7 +2468,6 @@
         "info.olasagasti.revelation",
         "io.github.celluloid_player.Celluloid",
         "io.github.lruzicka.Needly",
-        "io.github.mmarco94.tambourine",
         "io.github.pragha_music_player.pragha",
         "ml.prevete.Daty",
         "net.danigm.timetrack",
@@ -2564,6 +2561,7 @@
         "dev.aunetx.deezer",
         "io.bassi.Amberol",
         "io.github.Soundux",
+        "io.github.mmarco94.tambourine",
         "io.github.nate_xyz.Resonance",
         "org.gnunet.Messenger",
         "sh.ppy.osu"
@@ -3475,6 +3473,9 @@
         "io.github.mihnea_radulescu.imagefanreloaded",
         "org.jellyfin.JellyfinServer",
         "org.purei.Play"
+    ],
+    "/run:ro": [
+        "io.github.mihnea_radulescu.imagefanreloaded"
     ],
     "xdg-data/fonts:create": [
         "io.github.mmstick.FontFinder",
