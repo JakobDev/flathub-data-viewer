@@ -1810,7 +1810,8 @@
         "org.thonny.Thonny",
         "org.virtualxt.VirtualXT",
         "org.zim_wiki.Zim",
-        "tv.kodi.Kodi"
+        "tv.kodi.Kodi",
+        "xyz.hyperplay.HyperPlay"
     ],
     "/run/media": [
         "app.rednotebook.RedNotebook",
@@ -2546,7 +2547,8 @@
         "org.libvips.vipsdisp",
         "org.moneymanagerex.MMEX",
         "org.strawberrymusicplayer.strawberry",
-        "tv.kodi.Kodi"
+        "tv.kodi.Kodi",
+        "xyz.hyperplay.HyperPlay"
     ],
     "xdg-desktop:ro": [
         "com.baidu.NetDisk",
@@ -3011,6 +3013,7 @@
         "com.heroicgameslauncher.hgl",
         "com.napster.napster-bigscreen-electron",
         "io.github.betaflight.BetaflightConfigurator",
+        "io.github.hmlendea.geforcenow-electron",
         "io.github.mandruis7.xbox-cloud-gaming-electron",
         "io.github.punesemu.puNES",
         "net.studio08.xbplay",
@@ -3750,16 +3753,16 @@
     "~/.crawl:create": [
         "org.develz.Crawl"
     ],
-    "xdg-data/fcitx5:create": [
-        "org.fcitx.Fcitx5"
-    ],
     "xdg-config/ibus:create": [
         "org.fcitx.Fcitx5"
     ],
-    "xdg-config/fcitx:create": [
+    "xdg-cache/ibus:create": [
         "org.fcitx.Fcitx5"
     ],
-    "xdg-config/fcitx5:create": [
+    "xdg-config/kxkbrc": [
+        "org.fcitx.Fcitx5"
+    ],
+    "xdg-config/fcitx:create": [
         "org.fcitx.Fcitx5"
     ],
     "~/Monero:create": [
@@ -4006,6 +4009,9 @@
     ],
     "~/.zoom:create": [
         "us.zoom.Zoom"
+    ],
+    "xdg-config/heroic": [
+        "xyz.hyperplay.HyperPlay"
     ],
     "~/Games/HyperPlay:create": [
         "xyz.hyperplay.HyperPlay"

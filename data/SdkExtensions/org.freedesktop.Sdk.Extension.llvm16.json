@@ -16,6 +16,7 @@
     "org.jellyfin.JellyfinServer",
     "org.openfodder.OpenFodder",
     "org.pipewire.Helvum",
+    "re.sonny.Workbench",
     "xyz.dimtpap.coppwr",
     "xyz.slothlife.Jogger"
 ]

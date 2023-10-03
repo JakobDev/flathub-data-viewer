@@ -436,7 +436,6 @@
         "ua.org.brezblock.q4wine",
         "work.openpaper.Paperwork",
         "xyz.armcord.ArmCord",
-        "xyz.hyperplay.HyperPlay",
         "xyz.mx_moment.moment"
     ],
     "com.canonical.appmenu.registrar": [
@@ -2158,6 +2157,7 @@
         "social.whalebird.WhalebirdDesktop",
         "tech.feliciano.pocket-casts",
         "xyz.armcord.ArmCord",
+        "xyz.hyperplay.HyperPlay",
         "xyz.mx_moment.moment"
     ],
     "com.canonical.indicator.application": [

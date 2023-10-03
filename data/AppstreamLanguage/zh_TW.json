@@ -124,6 +124,7 @@
     "org.zrythm.Zrythm",
     "org.fcitx.Fcitx5.Addon.Chewing",
     "org.fcitx.Fcitx5.Addon.ChineseAddons",
+    "org.fcitx.Fcitx5.Addon.M17N",
     "org.fcitx.Fcitx5.Addon.McBopomofo",
     "org.fcitx.Fcitx5.Addon.Mozc",
     "org.fcitx.Fcitx5.Addon.Rime",

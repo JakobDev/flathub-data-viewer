@@ -71,7 +71,6 @@
         "io.github.betaflight.BetaflightConfigurator",
         "io.github.dtsudo.ChessCompStompWithHacks",
         "io.github.dtsudo.TuxPlanetSpeedrunAnyPercent",
-        "io.github.hmlendea.geforcenow-electron",
         "io.github.letslearn_app.letslearn",
         "io.github.listen1.Listen1",
         "io.github.lunarequest.NightPDF",
@@ -89,7 +88,6 @@
         "io.vikunja.Vikunja",
         "io.webtorrent.WebTorrent",
         "life.bolls.bolls",
-        "md.obsidian.Obsidian",
         "me.acristoffers.Lachesis",
         "me.hyliu.fluentreader",
         "moe.karaokes.mugen",
@@ -121,8 +119,7 @@
         "social.whalebird.WhalebirdDesktop",
         "tech.feliciano.pocket-casts",
         "us.zoom.Zoom",
-        "xyz.armcord.ArmCord",
-        "xyz.hyperplay.HyperPlay"
+        "xyz.armcord.ArmCord"
     ],
     "21.08": [
         "app.ytmdesktop.ytmdesktop",
@@ -170,8 +167,11 @@
         "com.viber.Viber",
         "com.wire.WireDesktop",
         "im.riot.Riot",
+        "io.github.hmlendea.geforcenow-electron",
         "io.kopia.KopiaUI",
+        "md.obsidian.Obsidian",
         "org.signal.Signal",
-        "org.zulip.Zulip"
+        "org.zulip.Zulip",
+        "xyz.hyperplay.HyperPlay"
     ]
 }

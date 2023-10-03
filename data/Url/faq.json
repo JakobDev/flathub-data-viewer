@@ -120,6 +120,7 @@
     "org.clementine_player.Clementine",
     "org.cryptomator.Cryptomator",
     "org.expresslrs.ExpressLRSConfigurator",
+    "org.fcitx.Fcitx5",
     "org.fdroid.Repomaker",
     "org.filezillaproject.Filezilla",
     "org.flycast.Flycast",

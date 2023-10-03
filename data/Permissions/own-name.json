@@ -13,12 +13,10 @@
         "com.dropbox.Client",
         "com.github.debauchee.barrier",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
-        "com.nextcloud.desktopclient.nextcloud",
         "com.qq.QQmusic",
         "com.sayonara_player.Sayonara",
         "com.synology.SynologyDrive",
         "io.github.aandrew_me.ytdn",
-        "io.github.antimicrox.antimicrox",
         "io.github.qnapi",
         "io.github.streetpea.Chiaki4deck",
         "me.timschneeberger.GalaxyBudsClient",
@@ -35,8 +33,7 @@
         "org.tribler.Tribler",
         "re.chiaki.Chiaki",
         "si.tano.Vremenar",
-        "us.zoom.Zoom",
-        "xyz.hyperplay.HyperPlay"
+        "us.zoom.Zoom"
     ],
     "org.mpris.mediaplayer2.headset": [
         "co.headsetapp.headset"

@@ -171,8 +171,7 @@
         "uk.co.electronstudio.ComicReaderUltimate",
         "xyz.eclipium.Hieroctive",
         "xyz.eclipium.TetraSwap",
-        "xyz.ljoonal.neospeeps",
-        "xyz.xclicker.xclicker"
+        "xyz.ljoonal.neospeeps"
     ],
     "22.08": [
         "app.getclipboard.Clipboard",
@@ -372,7 +371,6 @@
         "gg.tesseract.Tesseract",
         "global.worldcoin.worldcoin-core",
         "hu.irl.cameractrls",
-        "im.fluffychat.Fluffychat",
         "info.beyondallreason.bar",
         "info.colobot.Colobot",
         "info.puredata.Pd-extended",
@@ -419,7 +417,6 @@
         "io.github.glitterware.Passy",
         "io.github.guillaumechereau.Goxel",
         "io.github.hakandundar34coding.mini-system-monitor",
-        "io.github.hmlendea.geforcenow-electron",
         "io.github.hrkfdn.ncspot",
         "io.github.hurricangame.hurrican",
         "io.github.hvdwofl.jExifToolGUI",
@@ -497,7 +494,6 @@
         "io.webtorrent.WebTorrent",
         "jp.yvt.OpenSpades",
         "life.bolls.bolls",
-        "md.obsidian.Obsidian",
         "me.acristoffers.Lachesis",
         "me.hyliu.fluentreader",
         "me.timschneeberger.GalaxyBudsClient",
@@ -687,7 +683,6 @@
         "ru.sview.sView",
         "ru.yandex.Browser",
         "sh.cider.Cider",
-        "sh.ppy.osu",
         "so.onekey.Wallet",
         "social.whalebird.WhalebirdDesktop",
         "tech.feliciano.pocket-casts",
@@ -704,7 +699,6 @@
         "vet.rsc.OpenRSC.Launcher",
         "ws.openarena.OpenArena",
         "xyz.armcord.ArmCord",
-        "xyz.hyperplay.HyperPlay",
         "xyz.kusma.aurora",
         "xyz.rescribe.rescribe",
         "xyz.safeworlds.midiconn",
@@ -833,6 +827,7 @@
         "fm.helio.Workstation",
         "fm.reaper.Reaper",
         "fr.free.hxc2001.HxCFloppyEmulator",
+        "im.fluffychat.Fluffychat",
         "im.riot.Riot",
         "info.cemu.Cemu",
         "ink.scribl.Scribl",
@@ -848,6 +843,7 @@
         "io.github.ec_.Quake3e.OpenArena",
         "io.github.endless_sky.endless_sky",
         "io.github.gen2brain.cbconvert",
+        "io.github.hmlendea.geforcenow-electron",
         "io.github.jacalz.rymdport",
         "io.github.java_decompiler.jd-gui",
         "io.github.ktgw0316.LightZone",
@@ -867,6 +863,7 @@
         "io.naox.InnerBreeze",
         "io.openrct2.OpenRCT2",
         "io.unobserved.espansoGUI",
+        "md.obsidian.Obsidian",
         "net.blockout.BlockOutII",
         "net.brinkervii.grapejuice",
         "net.freerct.FreeRCT",
@@ -932,8 +929,11 @@
         "radio.k0swe.Kel_Agent",
         "se.cendio.tlclient",
         "sh.fhs.KatawaShoujoReEngineered",
+        "sh.ppy.osu",
         "uk.org.greenend.chiark.sgtatham.putty",
-        "xyz.dimtpap.coppwr"
+        "xyz.dimtpap.coppwr",
+        "xyz.hyperplay.HyperPlay",
+        "xyz.xclicker.xclicker"
     ],
     "18.08": [
         "au.edu.uq.esys.escript"
