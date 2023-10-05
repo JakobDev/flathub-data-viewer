@@ -1,4 +1,5 @@
 [
+    "app.bbsync.BlackboardSync",
     "app.getspace.Space",
     "app.midterm.MidtermDesktop",
     "app.organicmaps",

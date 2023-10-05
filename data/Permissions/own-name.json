@@ -38,6 +38,9 @@
     "org.mpris.mediaplayer2.headset": [
         "co.headsetapp.headset"
     ],
+    "org.qemu": [
+        "com.belmoussaoui.snowglobe"
+    ],
     "org.mpris.mediaplayer2.brave.*": [
         "com.brave.Browser"
     ],

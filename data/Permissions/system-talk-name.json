@@ -73,13 +73,8 @@
         "org.signal.Signal",
         "tv.kodi.Kodi"
     ],
-    "org.gtk.vfs.*": [
-        "cc.arduino.IDE2"
-    ],
-    "net.hadess.switcheroocontrol": [
-        "ch.tlaun.TL"
-    ],
     "org.freedesktop.udisks2": [
+        "ca.parallel_launcher.ParallelLauncher",
         "cn.ottercorp.xivlaunchercn",
         "com.calibre_ebook.calibre",
         "com.expidusos.file_manager",
@@ -123,6 +118,12 @@
         "org.winehq.Wine",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
+    ],
+    "org.gtk.vfs.*": [
+        "cc.arduino.IDE2"
+    ],
+    "net.hadess.switcheroocontrol": [
+        "ch.tlaun.TL"
     ],
     "org.bluez": [
         "com.avocode.Avocode",

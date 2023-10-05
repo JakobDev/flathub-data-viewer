@@ -503,6 +503,9 @@
     ".electrum-dash": [
         "org.dash.electrum.electrum_dash"
     ],
+    ".local/share/godot/app_userdata/BeatMatchtoPass": [
+        "org.dupot.beatmatchtopass"
+    ],
     ".local/share/godot/app_userdata/LittleAdventure": [
         "org.dupot.littleadventure"
     ],

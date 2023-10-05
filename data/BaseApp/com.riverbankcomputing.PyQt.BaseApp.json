@@ -1,5 +1,6 @@
 {
     "5.15-22.08": [
+        "app.bbsync.BlackboardSync",
         "com.borgbase.Vorta",
         "com.github.git_cola.git-cola",
         "com.github.micahflee.torbrowser-launcher",

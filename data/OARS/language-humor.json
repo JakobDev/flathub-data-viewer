@@ -298,6 +298,7 @@
         "org.srb2.SRB2Persona",
         "org.supertuxproject.SuperTux",
         "org.taisei_project.Taisei",
+        "org.tildearrow.furnace",
         "sh.ppy.osu",
         "vet.rsc.OpenRSC.Launcher"
     ]

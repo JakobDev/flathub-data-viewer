@@ -1,4 +1,5 @@
 [
+    "app.bbsync.BlackboardSync",
     "app.bluebubbles.BlueBubbles",
     "app.drey.Dialect",
     "app.lith.Lith",

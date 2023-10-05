@@ -1,4 +1,5 @@
 [
+    "app.bbsync.BlackboardSync",
     "app.drey.KeyRack",
     "app.drey.Warp",
     "app.moosync.moosync",
@@ -147,6 +148,7 @@
     "re.sonny.Workbench",
     "sa.sy.bluerecorder",
     "sh.xaviers.Opentapes",
+    "site.someones.Lonewolf",
     "tw.ddnet.ddnet",
     "xyz.dimtpap.coppwr",
     "xyz.ljoonal.neospeeps",

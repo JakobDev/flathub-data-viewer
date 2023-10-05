@@ -3,6 +3,7 @@
     "ch.threema.threema-web-desktop",
     "chat.revolt.RevoltDesktop",
     "com.boxy_svg.BoxySVG",
+    "com.getmailspring.Mailspring",
     "com.github.vikdevelop.photopea_app",
     "com.logseq.Logseq",
     "com.mongodb.Compass",
@@ -33,6 +34,7 @@
     "org.jellyfin.JellyfinServer",
     "org.nanuc.Axolotl",
     "org.zulip.Zulip",
+    "site.someones.Lonewolf",
     "social.whalebird.WhalebirdDesktop",
     "tech.feliciano.pocket-casts",
     "org.freedesktop.Sdk.Extension.typescript"
