@@ -11,11 +11,11 @@
         "chat.schildi.desktop",
         "chat.tandem.Client",
         "cn.lceda.LCEDAPro",
+        "co.headsetapp.headset",
         "com.agatanawrot.karambola",
         "com.airtame.Client",
         "com.alovoa.alovoa-electron",
         "com.avocode.Avocode",
-        "com.axosoft.GitKraken",
         "com.baidu.NetDisk",
         "com.discordapp.Discord",
         "com.fightcade.Fightcade",
@@ -125,7 +125,6 @@
     "21.08": [
         "app.ytmdesktop.ytmdesktop",
         "ar.com.pilas_engine.App",
-        "co.headsetapp.headset",
         "com.basemark.BasemarkGPU",
         "com.emqx.MQTTX",
         "com.github._0negal.Viper",
@@ -158,6 +157,7 @@
     "23.08": [
         "cc.arduino.IDE2",
         "chat.rocket.RocketChat",
+        "com.axosoft.GitKraken",
         "com.boxy_svg.BoxySVG",
         "com.budgetwithbuckets.Buckets",
         "com.getmailspring.Mailspring",

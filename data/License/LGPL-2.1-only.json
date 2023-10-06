@@ -1,5 +1,7 @@
 [
     "io.qt.qtwebkit.BaseApp",
+    "org.dupot.beatmatchtopass",
+    "org.dupot.littleadventure",
     "org.freedesktop.Sdk.Extension.vala",
     "org.gnome.Evolution.Extension.evolution-etesync",
     "org.gtk.Gtk3theme.Breeze"

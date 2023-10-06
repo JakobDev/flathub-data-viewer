@@ -149,7 +149,6 @@
         "application{SLASH}vnd.enve-project",
         "application{SLASH}vnd.fastcopy-disk-image",
         "application{SLASH}vnd.fdf",
-        "application{SLASH}vnd.flatpak.ref",
         "application{SLASH}vnd.flowblade-project",
         "application{SLASH}vnd.font-fontforge-sfd",
         "application{SLASH}vnd.geo+json",

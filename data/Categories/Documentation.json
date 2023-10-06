@@ -1,5 +1,6 @@
 [
     "com.github.mdh34.quickdocs",
     "org.flatpak.qtdemo",
-    "org.kde.Ikona"
+    "org.kde.Ikona",
+    "org.zealdocs.Zeal"
 ]

@@ -2,15 +2,39 @@
     "20.08": [
         "app.midterm.MidtermDesktop"
     ],
-    "22.08": [
+    "23.08": [
         "com.axosoft.GitKraken",
+        "com.helix_editor.Helix",
+        "com.jetbrains.DataGrip",
+        "com.jetbrains.IntelliJ-IDEA-Community",
+        "com.jetbrains.IntelliJ-IDEA-Ultimate",
+        "com.jetbrains.PyCharm-Professional",
+        "com.jetbrains.Rider",
+        "com.jetbrains.RubyMine",
+        "com.jetbrains.WebStorm",
+        "com.synology.SynologyDrive",
+        "io.neovim.nvim",
+        "org.geany.Geany",
+        "org.ghidra_sre.Ghidra",
+        "org.kicad.KiCad",
+        "org.thonny.Thonny"
+    ],
+    "21.08": [
+        "com.chez.GrafX2",
+        "com.okta.developer.CLI",
+        "com.sublimemerge.App",
+        "com.sublimetext.three",
+        "com.synology.CloudStationBackup",
+        "com.unity.UnityHub",
+        "io.stoplight.studio"
+    ],
+    "22.08": [
         "com.gitfiend.GitFiend",
         "com.google.AndroidStudio",
         "com.jetbrains.CLion",
         "com.jetbrains.GoLand",
         "com.jetbrains.PhpStorm",
         "com.jetbrains.PyCharm-Community",
-        "com.jetbrains.PyCharm-Professional",
         "com.pinegrow.Pinegrow",
         "com.synology.SynologyAssistant",
         "com.visualstudio.code-oss",
@@ -30,30 +54,6 @@
         "org.scilab.Scilab",
         "org.scintilla.SciTE",
         "org.vim.Vim"
-    ],
-    "21.08": [
-        "com.chez.GrafX2",
-        "com.okta.developer.CLI",
-        "com.sublimemerge.App",
-        "com.sublimetext.three",
-        "com.synology.CloudStationBackup",
-        "com.unity.UnityHub",
-        "io.stoplight.studio"
-    ],
-    "23.08": [
-        "com.helix_editor.Helix",
-        "com.jetbrains.DataGrip",
-        "com.jetbrains.IntelliJ-IDEA-Community",
-        "com.jetbrains.IntelliJ-IDEA-Ultimate",
-        "com.jetbrains.Rider",
-        "com.jetbrains.RubyMine",
-        "com.jetbrains.WebStorm",
-        "com.synology.SynologyDrive",
-        "io.neovim.nvim",
-        "org.geany.Geany",
-        "org.ghidra_sre.Ghidra",
-        "org.kicad.KiCad",
-        "org.thonny.Thonny"
     ],
     "19.08": [
         "org.aliflang.lang"

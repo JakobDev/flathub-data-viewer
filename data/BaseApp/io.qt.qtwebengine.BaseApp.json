@@ -39,7 +39,8 @@
         "org.musescore.MuseScore",
         "org.paraview.ParaView",
         "org.rolisteam.rolisteam",
-        "org.sdrangel.SDRangel"
+        "org.sdrangel.SDRangel",
+        "org.zealdocs.Zeal"
     ],
     "6.3": [
         "com.github.jmlich.geotagging"

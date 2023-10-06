@@ -1162,7 +1162,6 @@
         "org.openhantek.OpenHantek6022",
         "org.openkj.OpenKJ",
         "org.openmw.OpenMW",
-        "org.opennumismat.OpenNumismat",
         "org.openrgb.OpenRGB",
         "org.openscad.OpenSCAD",
         "org.openshot.OpenShot",
@@ -2787,6 +2786,32 @@
         "org.kde.kontact",
         "org.mozilla.Thunderbird"
     ],
+    "/media:ro": [
+        "com.github.AlizaMedicalImaging.AlizaMS",
+        "com.github.rhyme_player.rhyme",
+        "io.github.Soundux",
+        "io.github.mihnea_radulescu.imagefanreloaded",
+        "net.openra.OpenRA",
+        "org.atheme.audacious",
+        "org.gnome.Evince",
+        "org.jellyfin.JellyfinServer",
+        "org.purei.Play",
+        "org.x.Warpinator",
+        "rocks.koreader.KOReader"
+    ],
+    "/run/media:ro": [
+        "com.github.AlizaMedicalImaging.AlizaMS",
+        "com.github.rhyme_player.rhyme",
+        "io.github.Soundux",
+        "io.github.btpf.alexandria",
+        "net.openra.OpenRA",
+        "org.cubocore.CoreFM",
+        "org.gnome.Evince",
+        "org.jellyfin.JellyfinServer",
+        "org.purei.Play",
+        "org.yuzu_emu.yuzu",
+        "rocks.koreader.KOReader"
+    ],
     "xdg-run/app/com.discordapp.DiscordCanary:create": [
         "com.github.Anuken.Mindustry",
         "moe.karaokes.mugen",
@@ -2973,30 +2998,6 @@
     ],
     "home:create": [
         "com.github.raibtoffoletto.litteris"
-    ],
-    "/media:ro": [
-        "com.github.rhyme_player.rhyme",
-        "io.github.Soundux",
-        "io.github.mihnea_radulescu.imagefanreloaded",
-        "net.openra.OpenRA",
-        "org.atheme.audacious",
-        "org.gnome.Evince",
-        "org.jellyfin.JellyfinServer",
-        "org.purei.Play",
-        "org.x.Warpinator",
-        "rocks.koreader.KOReader"
-    ],
-    "/run/media:ro": [
-        "com.github.rhyme_player.rhyme",
-        "io.github.Soundux",
-        "io.github.btpf.alexandria",
-        "net.openra.OpenRA",
-        "org.cubocore.CoreFM",
-        "org.gnome.Evince",
-        "org.jellyfin.JellyfinServer",
-        "org.purei.Play",
-        "org.yuzu_emu.yuzu",
-        "rocks.koreader.KOReader"
     ],
     "xdg-run/podman/podman.sock": [
         "com.github.sdv43.whaler"
