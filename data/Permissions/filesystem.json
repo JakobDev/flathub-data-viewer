@@ -1574,6 +1574,7 @@
         "cn.lceda.LCEDAPro",
         "co.luoja.Telyn",
         "com.adobe.Reader",
+        "com.ampl.ide",
         "com.budgetwithbuckets.Buckets",
         "com.cocoatech.deckr",
         "com.darhon.drfinance",
@@ -2073,6 +2074,7 @@
         "io.github.btpf.alexandria",
         "io.github.fabiangreffrath.Doom",
         "io.github.mihnea_radulescu.imagefanreloaded",
+        "io.github.punesemu.puNES",
         "io.github.troyeguo.koodo-reader",
         "io.github.unrud.RecentFilter",
         "net.rpcs3.RPCS3",
@@ -2520,6 +2522,7 @@
         "com.carpeludum.KegaFusion",
         "com.rawtherapee.RawTherapee",
         "com.retrodev.blastem",
+        "io.github.punesemu.puNES",
         "ru.sview.sView",
         "space.nouspiro.tenmon"
     ],
@@ -3624,6 +3627,9 @@
     ],
     "xdg-data/icons:ro": [
         "it.mijorus.gearlever"
+    ],
+    "~/.local/share/fonts:ro": [
+        "md.obsidian.Obsidian"
     ],
     "xdg-data/backgrounds:create": [
         "me.dusansimic.DynamicWallpaper"

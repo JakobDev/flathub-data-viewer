@@ -1322,6 +1322,7 @@
         "fr.free.qccrypt.Qccrypt",
         "im.kaidan.kaidan",
         "in.srev.guiscrcpy",
+        "info.bibletime.BibleTime",
         "info.mumble.Mumble",
         "info.smplayer.SMPlayer",
         "io.crow_translate.CrowTranslate",
@@ -1968,7 +1969,6 @@
         "com.todoist.Todoist",
         "com.toggl.TogglDesktop",
         "com.transmissionbt.Transmission",
-        "com.tutanota.Tutanota",
         "com.ulduzsoft.Birdtray",
         "com.valvesoftware.Steam",
         "com.viber.Viber",
@@ -2522,7 +2522,6 @@
         "codes.loers.Karlender",
         "com.cocoatech.deckr",
         "com.github.zocker_160.SyncThingy",
-        "com.tutanota.Tutanota",
         "gg.guilded.Guilded",
         "me.timschneeberger.jdsp4linux"
     ],
