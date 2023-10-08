@@ -115,7 +115,6 @@
         "se.manyver.Manyverse",
         "sh.cider.Cider",
         "so.onekey.Wallet",
-        "social.whalebird.WhalebirdDesktop",
         "tech.feliciano.pocket-casts",
         "us.zoom.Zoom",
         "xyz.armcord.ArmCord"
@@ -172,6 +171,7 @@
         "net.cozic.joplin_desktop",
         "org.signal.Signal",
         "org.zulip.Zulip",
+        "social.whalebird.WhalebirdDesktop",
         "xyz.hyperplay.HyperPlay"
     ]
 }
