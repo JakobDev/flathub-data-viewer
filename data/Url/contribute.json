@@ -1,6 +1,7 @@
 [
     "app.bluebubbles.BlueBubbles",
     "app.cantara.Cantara",
+    "app.feeddeck.feeddeck",
     "app.getclipboard.Clipboard",
     "app.rednotebook.RedNotebook",
     "ch.theologeek.Manuskript",
@@ -59,6 +60,7 @@
     "org.gnome.Calendar",
     "org.gnome.DejaDup",
     "org.gnunet.Messenger",
+    "org.godotengine.Godot3",
     "org.inkscape.Inkscape",
     "org.kde.okteta",
     "org.keepassxc.KeePassXC",
@@ -67,6 +69,7 @@
     "org.openandroidinstaller.OpenAndroidInstaller",
     "org.ppsspp.PPSSPP",
     "org.prismlauncher.PrismLauncher",
+    "org.processing.processingide",
     "org.scilab.Scilab",
     "org.soapui.SoapUI",
     "org.squey.Squey",

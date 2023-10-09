@@ -11,6 +11,7 @@
     "app.drey.KeyRack",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
+    "app.feeddeck.feeddeck",
     "app.getclipboard.Clipboard",
     "app.getspace.Space",
     "app.gummi.gummi",

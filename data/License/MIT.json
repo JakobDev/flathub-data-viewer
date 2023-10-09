@@ -1,5 +1,6 @@
 [
     "app.drey.EarTag",
+    "app.feeddeck.feeddeck",
     "app.gummi.gummi",
     "app.ywallet.Ywallet",
     "cc.craftos_pc.CraftOS-PC-Accelerated",

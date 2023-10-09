@@ -1,6 +1,7 @@
 [
     "app.bluebubbles.BlueBubbles",
     "app.cantara.Cantara",
+    "app.feeddeck.feeddeck",
     "app.getclipboard.Clipboard",
     "ch.theologeek.Manuskript",
     "com.chowdsp.BYOD",
@@ -119,6 +120,7 @@
     "org.gnome.Polari",
     "org.gnome.SimpleScan",
     "org.gnunet.Messenger",
+    "org.godotengine.Godot3",
     "org.horizon_eda.HorizonEDA",
     "org.inkscape.Inkscape",
     "org.ioquake3.ioquake3",
@@ -135,6 +137,7 @@
     "org.openjkdf2.OpenJKDF2",
     "org.ppsspp.PPSSPP",
     "org.prismlauncher.PrismLauncher",
+    "org.processing.processingide",
     "org.radare.iaito",
     "org.sabnzbd.sabnzbd",
     "org.scilab.Scilab",

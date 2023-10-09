@@ -10,6 +10,7 @@
     "app.drey.KeyRack",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
+    "app.feeddeck.feeddeck",
     "app.getclipboard.Clipboard",
     "app.gummi.gummi",
     "app.organicmaps",
