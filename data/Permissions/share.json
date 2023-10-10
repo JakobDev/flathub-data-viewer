@@ -3670,5 +3670,8 @@
         "xyz.woxel.Woxel",
         "xyz.xclicker.xclicker",
         "xyz.z3ntu.razergenie"
+    ],
+    "!network": [
+        "com.github.paolostivanin.OTPClient"
     ]
 }

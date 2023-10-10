@@ -49,7 +49,6 @@
     "com.github.rkoesters.xkcd-gtk",
     "com.github.scrivanolabs.scrivano",
     "com.github.shonumi.gbe-plus",
-    "com.github.skullernet.q2pro",
     "com.github.themix_project.Oomox",
     "com.github.tmewett.BrogueCE",
     "com.gitlab.cunidev.Gestures",
@@ -193,7 +192,6 @@
     "io.jor.ottomatic",
     "io.osdn.simplesok",
     "io.otsaloma.gaupol",
-    "io.photoflare.photoflare",
     "io.posidon.Paper",
     "io.qt.Designer",
     "io.qt.Linguist",
@@ -256,6 +254,7 @@
     "org.gabmus.swatch",
     "org.gabmus.whatip",
     "org.gephi.Gephi",
+    "org.getmonero.Monero",
     "org.getzola.zola",
     "org.gimp.GIMP",
     "org.gnome.Cheese",
@@ -292,7 +291,6 @@
     "org.mpdevil.mpdevil",
     "org.nanuc.Axolotl",
     "org.nicotine_plus.Nicotine",
-    "org.onionshare.OnionShare",
     "org.pitivi.Pitivi",
     "org.pjbroad.EternallandsClient",
     "org.polymc.PolyMC",
@@ -366,5 +364,6 @@
     "org.gtk.Gtk3theme.Obsidian-2-Teal",
     "org.gtk.Gtk3theme.Obsidian-2",
     "org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime",
+    "org.kde.KStyle.Kvantum",
     "org.learningequality.Kolibri.Plugin.kolibri-zim-plugin"
 ]

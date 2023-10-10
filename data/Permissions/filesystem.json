@@ -3488,9 +3488,6 @@
         "org.jellyfin.JellyfinServer",
         "org.purei.Play"
     ],
-    "/run:ro": [
-        "io.github.mihnea_radulescu.imagefanreloaded"
-    ],
     "xdg-data/fonts:create": [
         "io.github.mmstick.FontFinder",
         "org.gnome.font-viewer"

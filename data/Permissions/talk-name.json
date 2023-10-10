@@ -985,6 +985,7 @@
         "net.sonic_pi.SonicPi",
         "net.sourceforge.QtSpim",
         "net.sourceforge.molsketch",
+        "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.sourceforge.scidavis",
         "net.xm1math.Texmaker",
         "nz.mega.MEGAsync",
@@ -1410,6 +1411,7 @@
         "net.sonic_pi.SonicPi",
         "net.sourceforge.QtSpim",
         "net.sourceforge.molsketch",
+        "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.sourceforge.scidavis",
         "net.xm1math.Texmaker",
         "nz.mega.MEGAsync",
@@ -3001,6 +3003,9 @@
         "io.github.jeffshee.Hidamari",
         "it.mijorus.smile",
         "org.gnome.Extensions"
+    ],
+    "com.microsoft.identity.broker1": [
+        "com.microsoft.Edge"
     ],
     "org.freedesktop.portal.trash": [
         "com.neatdecisions.Detwinner"

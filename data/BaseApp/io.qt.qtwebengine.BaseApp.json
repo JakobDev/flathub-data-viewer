@@ -1,14 +1,13 @@
 {
     "5.15-21.08": [
         "ch.theologeek.Manuskript",
-        "com.gitlab.ColinDuquesnoy.MellowPlayer",
-        "com.stremio.Stremio",
-        "net.sourceforge.qtpfsgui.LuminanceHDR"
+        "com.gitlab.ColinDuquesnoy.MellowPlayer"
     ],
     "5.15-22.08": [
         "com.github.iwalton3.jellyfin-media-player",
         "com.ktechpit.whatsie",
         "com.nextcloud.desktopclient.nextcloud",
+        "com.stremio.Stremio",
         "de.shorsh.discord-screenaudio",
         "io.github.martinrotter.rssguard",
         "io.github.wereturtle.ghostwriter",
@@ -16,6 +15,7 @@
         "net.mediaarea.MediaConch",
         "net.retrodeck.retrodeck",
         "net.sonic_pi.SonicPi",
+        "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.xm1math.Texmaker",
         "org.freecadweb.FreeCAD",
         "org.kde.akregator",
