@@ -1,6 +1,7 @@
 [
     "br.gov.cti.invesalius",
     "dev.Cogitri.Health",
+    "io.github.diegopvlk.Dosage",
     "io.github.nroduit.Weasis",
     "nl.v0yd.Capsule",
     "page.codeberg.lazyt.ubpm"

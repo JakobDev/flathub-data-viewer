@@ -75,6 +75,9 @@
     ".config/MQTTX": [
         "com.emqx.MQTTX"
     ],
+    ".ut2004": [
+        "com.epicgames.ut2004"
+    ],
     ".etlegacy": [
         "com.etlegacy.ETLegacy"
     ],

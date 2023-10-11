@@ -36,6 +36,7 @@
     "org.freedesktop.appstream.generator",
     "org.jellyfin.JellyfinServer",
     "org.nanuc.Axolotl",
+    "org.tropy.Tropy",
     "org.zulip.Zulip",
     "site.someones.Lonewolf",
     "social.whalebird.WhalebirdDesktop",
