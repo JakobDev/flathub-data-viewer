@@ -367,6 +367,7 @@
     "6.5": [
         "app.lith.Lith",
         "com.blockstream.Green",
+        "com.chatterino.chatterino",
         "com.github.AlizaMedicalImaging.AlizaMS",
         "com.github.LongSoft.UEFITool",
         "com.github.Rosalie241.RMG",
@@ -461,7 +462,6 @@
     "5.15-21.08": [
         "at.priv.toastfreeware.ConfClerk",
         "ch.theologeek.Manuskript",
-        "com.chatterino.chatterino",
         "com.eminfedar.vaktisalah",
         "com.georgefb.quickaccess",
         "com.github.Murmele.Gittyup",
