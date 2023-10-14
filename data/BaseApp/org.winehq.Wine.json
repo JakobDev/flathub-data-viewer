@@ -3,11 +3,11 @@
         "com.playonlinux.PlayOnLinux4",
         "io.github.aggalex.Wineglass",
         "io.github.sharkwouter.Minigalaxy",
-        "net.lutris.Lutris"
+        "net.lutris.Lutris",
+        "ua.org.brezblock.q4wine"
     ],
     "stable-22.08": [
         "com.usebottles.bottles",
-        "io.itch.itch",
-        "ua.org.brezblock.q4wine"
+        "io.itch.itch"
     ]
 }

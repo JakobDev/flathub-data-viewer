@@ -78,6 +78,9 @@
     ".ut2004": [
         "com.epicgames.ut2004"
     ],
+    ".utpg": [
+        "com.epicgames.ut99"
+    ],
     ".etlegacy": [
         "com.etlegacy.ETLegacy"
     ],

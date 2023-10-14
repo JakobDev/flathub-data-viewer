@@ -1522,6 +1522,7 @@
         "io.github.nearinfinitybrowser.nearinfinity",
         "io.github.onionware_github.onionmedia",
         "io.github.peazip.PeaZip",
+        "io.github.phastmike.tags",
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
         "io.github.rinigus.OSMScoutServer",
@@ -1951,6 +1952,7 @@
         "io.gitlab.floodlight.Presenter",
         "io.mpv.Mpv",
         "net.mediaarea.MediaInfo",
+        "net.nokyan.Resources",
         "net.pcsx2.PCSX2",
         "org.DolphinEmu.dolphin-emu",
         "org.bino3d.bino",
@@ -2909,7 +2911,8 @@
         "com.github.bluesabre.darkbar",
         "com.github.tchx84.Flatseal",
         "io.github.shiftey.Desktop",
-        "io.missioncenter.MissionCenter"
+        "io.missioncenter.MissionCenter",
+        "net.nokyan.Resources"
     ],
     "/var/lib/flatpak/app:ro": [
         "com.github.bluesabre.darkbar",
@@ -2918,7 +2921,8 @@
         "io.github.giantpinkrobots.flatsweep",
         "io.github.shiftey.Desktop",
         "io.gitlab.gwendalj.package-transporter",
-        "io.missioncenter.MissionCenter"
+        "io.missioncenter.MissionCenter",
+        "net.nokyan.Resources"
     ],
     "~/.Xilinx:create": [
         "com.github.corna.Vivado"
@@ -3054,12 +3058,6 @@
     ],
     "/var/lib/logmein-hamachi:ro": [
         "com.github.ztefn.haguichi"
-    ],
-    "xdg-config/libinput-gestures.conf.bak:create": [
-        "com.gitlab.cunidev.Gestures"
-    ],
-    "xdg-config/libinput-gestures.conf:create": [
-        "com.gitlab.cunidev.Gestures"
     ],
     "xdg-documents/nextcloud_password_client:create": [
         "com.gitlab.j0chn.nextcloud_password_client"
@@ -3597,13 +3595,15 @@
         "io.kinvolk.Headlamp"
     ],
     "xdg-data/flatpak/exports/share:ro": [
-        "io.missioncenter.MissionCenter"
+        "io.missioncenter.MissionCenter",
+        "net.nokyan.Resources"
     ],
     "/snap:ro": [
         "io.missioncenter.MissionCenter"
     ],
     "/var/lib/flatpak/exports/share:ro": [
-        "io.missioncenter.MissionCenter"
+        "io.missioncenter.MissionCenter",
+        "net.nokyan.Resources"
     ],
     "~/.var/app/io.mpv.Mpv/config/mpv/scripts:create": [
         "io.mpv.Mpv"

@@ -1,5 +1,6 @@
 [
     "io.github.hakandundar34coding.system-monitoring-center",
     "io.github.nokse22.inspector",
-    "io.missioncenter.MissionCenter"
+    "io.missioncenter.MissionCenter",
+    "net.nokyan.Resources"
 ]

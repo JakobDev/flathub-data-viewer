@@ -1,5 +1,6 @@
 [
     "io.github.andreibachim.shortcut",
     "io.github.fabrialberio.pinapp",
-    "io.github.philipk.boilr"
+    "io.github.philipk.boilr",
+    "org.gnome.design.IconLibrary"
 ]

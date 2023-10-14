@@ -24,7 +24,6 @@
         "com.github.git_cola.git-cola",
         "com.github.hopsan.Hopsan",
         "com.github.iwalton3.jellyfin-media-player",
-        "com.github.makhber.Makhber",
         "com.github.micahflee.torbrowser-launcher",
         "com.github.powertab.powertabeditor",
         "com.github.scrivanolabs.scrivano",
@@ -140,7 +139,6 @@
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.sourceforge.scidavis",
         "net.xm1math.Texmaker",
-        "org.atheme.audacious",
         "org.avidemux.Avidemux",
         "org.bionus.Grabber",
         "org.cloudcompare.CloudCompare",
@@ -366,8 +364,7 @@
         "re.rizin.cutter",
         "se.sjoerd.GIScan",
         "space.nouspiro.tenmon",
-        "studio.kx.carla",
-        "ua.org.brezblock.q4wine"
+        "studio.kx.carla"
     ],
     "6.5": [
         "app.lith.Lith",
@@ -549,8 +546,7 @@
         "org.tordini.flavio.Minitube",
         "space.fips.Fips",
         "website.i2pd.i2pd",
-        "xyz.mx_moment.moment",
-        "xyz.z3ntu.razergenie"
+        "xyz.mx_moment.moment"
     ],
     "5.15": [
         "cc.retroshare.retroshare-gui",
@@ -609,6 +605,12 @@
         "org.beeref.BeeRef",
         "org.subtitld.Subtitld",
         "uk.org.zint.zint-qt"
+    ],
+    "5.15-23.08": [
+        "com.github.makhber.Makhber",
+        "org.atheme.audacious",
+        "ua.org.brezblock.q4wine",
+        "xyz.z3ntu.razergenie"
     ],
     "6.4": [
         "com.obsproject.Studio",

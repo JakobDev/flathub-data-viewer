@@ -42,7 +42,6 @@
     "com.endlessnetwork.passage",
     "com.endlessnetwork.tankwarriors",
     "com.endlessnetwork.whitehouse",
-    "com.feaneron.Boatswain",
     "com.frac_tion.teleport",
     "com.georgefb.quickaccess",
     "com.github.Alcaro.Flips",
@@ -135,7 +134,6 @@
     "com.gitlab.bitseater.meteo",
     "com.gitlab.coringao.JAG",
     "com.gitlab.coringao.cavestory-nx",
-    "com.gitlab.cunidev.Gestures",
     "com.gitlab.cutecom.cutecom",
     "com.gitlab.librebob.Athenaeum",
     "com.gitlab.maevemi.publictransport",
@@ -171,7 +169,6 @@
     "com.qq.QQmusic",
     "com.rabbit_company.passky",
     "com.remnantsoftheprecursors.ROTP",
-    "com.retrodev.blastem",
     "com.roguetemple.HyperRogue",
     "com.sayonara_player.Sayonara",
     "com.scoutshonour.Digital",
@@ -531,6 +528,5 @@
     "xyz.eclipium.Hieroctive",
     "xyz.eclipium.TetraSwap",
     "xyz.ljoonal.neospeeps",
-    "xyz.mx_moment.moment",
-    "xyz.z3ntu.razergenie"
+    "xyz.mx_moment.moment"
 ]

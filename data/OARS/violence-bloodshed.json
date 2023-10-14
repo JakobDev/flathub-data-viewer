@@ -2,6 +2,7 @@
     "moderate": [
         "app.drey.Damask",
         "com.epicgames.ut2004",
+        "com.epicgames.ut99",
         "com.etlegacy.ETLegacy",
         "com.github.Xenoveritas.abuse",
         "com.github.opentyrian.OpenTyrian",
@@ -107,7 +108,6 @@
         "com.github.yucefsourani.albasheer-electronic-quran-browser",
         "com.gitlab.Murmele.UDPLogger",
         "com.gitlab.bitseater.meteo",
-        "com.gitlab.cunidev.Gestures",
         "com.googleplaymusicdesktopplayer.GPMDP",
         "com.hack_computer.OperatingSystemApp",
         "com.hack_computer.Sidetrack",

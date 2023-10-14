@@ -1,4 +1,5 @@
 [
+    "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.ashpd.demo",
     "com.github.flxzt.rnote",
     "com.librumreader.librum",
@@ -7,6 +8,7 @@
     "io.github.kaii_lb.hgui",
     "io.github.sameboy.SameBoy",
     "io.github.tdesktop_x64.TDesktop",
+    "net.nokyan.Resources",
     "net.pcsx2.PCSX2",
     "net.rpcs3.RPCS3",
     "org.d3cod3.Mosaic",

@@ -1,5 +1,6 @@
 [
     "com.epicgames.ut2004",
+    "com.epicgames.ut99",
     "com.etlegacy.ETLegacy",
     "com.frogatto.Frogatto",
     "com.github.Xenoveritas.abuse",
@@ -30,6 +31,7 @@
     "io.gitlab.jazztickets.emptyclip",
     "io.gitlab.osslugaru.Lugaru",
     "io.jor.bugdom",
+    "io.jor.bugdom2",
     "io.jor.mightymike",
     "io.jor.nanosaur",
     "io.jor.nanosaur2",
