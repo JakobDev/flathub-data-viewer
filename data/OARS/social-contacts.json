@@ -264,6 +264,7 @@
         "net.brinkervii.grapejuice",
         "net.kvirc.KVIrc",
         "network.loki.Session",
+        "org.adishatz.syncpasswd",
         "org.claws_mail.Claws-Mail",
         "org.cznic.Datovka",
         "org.ferdium.Ferdium",

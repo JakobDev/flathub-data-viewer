@@ -544,7 +544,6 @@
         "io.wavebox.Wavebox",
         "io.webtorrent.WebTorrent",
         "me.orszulak.keyring",
-        "net.baseart.Glide",
         "net.blix.BlueMail",
         "net.blockbench.Blockbench",
         "net.filebot.FileBot",
@@ -2313,7 +2312,6 @@
         "io.otsaloma.gaupol",
         "io.otsaloma.nfoview",
         "io.wavebox.Wavebox",
-        "net.baseart.Glide",
         "net.blockbench.Blockbench",
         "net.filebot.FileBot",
         "net.granjow.slowmovideo",
@@ -2375,6 +2373,7 @@
         "fm.cancel.Ripcord",
         "gg.guilded.Guilded",
         "io.kapsa.drive",
+        "net.baseart.Glide",
         "org.gnunet.Messenger",
         "sh.ppy.osu",
         "xyz.armcord.ArmCord"
@@ -2544,6 +2543,7 @@
         "io.github.Soundux",
         "io.github.nate_xyz.Resonance",
         "me.timschneeberger.GalaxyBudsClient",
+        "net.baseart.Glide",
         "org.opensurge2d.OpenSurge",
         "org.polymc.PolyMC",
         "org.prismlauncher.PrismLauncher"
@@ -2581,6 +2581,7 @@
         "io.github.Soundux",
         "io.github.mmarco94.tambourine",
         "io.github.nate_xyz.Resonance",
+        "net.baseart.Glide",
         "org.gnunet.Messenger",
         "sh.ppy.osu"
     ],
@@ -3004,6 +3005,9 @@
     ],
     "xdg-config/neothesia": [
         "com.github.polymeilex.neothesia"
+    ],
+    "xdg-config/gtk-4.0:ro": [
+        "com.github.qarmin.czkawka"
     ],
     "/home": [
         "com.github.qarmin.szyszka"

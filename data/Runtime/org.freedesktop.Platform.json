@@ -245,6 +245,11 @@
         "com.tutanota.Tutanota",
         "com.valvesoftware.Steam",
         "com.viber.Viber",
+        "com.viewizard.AstroMenace",
+        "com.voxdsp.Borg",
+        "com.voxdsp.Borg0",
+        "com.voxdsp.VoxelPaint",
+        "com.voxdsp.VoxelPaintPro",
         "com.w1hkj.fldigi",
         "com.w1hkj.flrig",
         "com.wire.WireDesktop",
@@ -310,6 +315,7 @@
         "io.naox.InnerBreeze",
         "io.openrct2.OpenRCT2",
         "io.unobserved.espansoGUI",
+        "net.ankiweb.Anki",
         "net.blockout.BlockOutII",
         "net.brinkervii.grapejuice",
         "net.cozic.joplin_desktop",
@@ -353,6 +359,7 @@
         "org.guitarix.Guitarix",
         "org.ioquake3.ioquake3",
         "org.jitsi.jitsi-meet",
+        "org.kde.krita",
         "org.love2d.love2d",
         "org.mersenne.mprime",
         "org.neverball.Neverball",
@@ -394,6 +401,7 @@
         "uk.org.greenend.chiark.sgtatham.putty",
         "xyz.dimtpap.coppwr",
         "xyz.hyperplay.HyperPlay",
+        "xyz.woxel.Woxel",
         "xyz.xclicker.xclicker"
     ],
     "20.08": [
@@ -567,11 +575,6 @@
         "com.ultimaker.cura",
         "com.umlet.Umlet",
         "com.valvesoftware.SteamLink",
-        "com.viewizard.AstroMenace",
-        "com.voxdsp.Borg",
-        "com.voxdsp.Borg0",
-        "com.voxdsp.VoxelPaint",
-        "com.voxdsp.VoxelPaintPro",
         "com.wickeditor.WickEditor",
         "com.xnview.XnConvert",
         "com.xnview.XnRetro",
@@ -747,7 +750,6 @@
         "media.emby.EmbyTheater",
         "moe.karaokes.mugen",
         "net.agalwood.Motrix",
-        "net.ankiweb.Anki",
         "net.biniou.LeBiniou",
         "net.blockattack.game",
         "net.blockbench.Blockbench",
@@ -854,7 +856,6 @@
         "org.jellyfin.JellyfinServer",
         "org.js.nuclear.Nuclear",
         "org.jupyter.JupyterLab",
-        "org.kde.krita",
         "org.kekikakademi.ntvHaber",
         "org.kosmospredanie.Yakblt",
         "org.lamport.tla.toolbox",
@@ -942,8 +943,7 @@
         "xyz.rescribe.rescribe",
         "xyz.safeworlds.midiconn",
         "xyz.splashmapper.Splash",
-        "xyz.stuerz.BilligSweeper",
-        "xyz.woxel.Woxel"
+        "xyz.stuerz.BilligSweeper"
     ],
     "18.08": [
         "au.edu.uq.esys.escript"

@@ -12,6 +12,7 @@
         "com.jetbrains.Rider",
         "com.jetbrains.RubyMine",
         "com.jetbrains.WebStorm",
+        "com.sublimemerge.App",
         "com.synology.SynologyDrive",
         "io.neovim.nvim",
         "org.geany.Geany",
@@ -22,7 +23,6 @@
     "21.08": [
         "com.chez.GrafX2",
         "com.okta.developer.CLI",
-        "com.sublimemerge.App",
         "com.sublimetext.three",
         "com.synology.CloudStationBackup",
         "com.unity.UnityHub",

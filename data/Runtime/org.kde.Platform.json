@@ -15,7 +15,6 @@
         "com.georgefb.mangareader",
         "com.github.Bleuzen.FFaudioConverter",
         "com.github.Flacon",
-        "com.github._4lex4.ScanTailor-Advanced",
         "com.github.buddhi1980.mandelbulber2",
         "com.github.cubitect.cubiomes-viewer",
         "com.github.dail8859.NotepadNext",
@@ -64,8 +63,6 @@
         "fr.free.qccrypt.Qccrypt",
         "im.kaidan.kaidan",
         "info.bibletime.BibleTime",
-        "info.mumble.Mumble",
-        "io.crow_translate.CrowTranslate",
         "io.github.Andrettin.Wyrmsun",
         "io.github.NhekoReborn.Nheko",
         "io.github.OpenToonz",
@@ -343,7 +340,6 @@
         "org.qgis.qgis",
         "org.qownnotes.QOwnNotes",
         "org.quassel_irc.QuasselClient",
-        "org.radare.iaito",
         "org.raspberrypi.rpi-imager",
         "org.rolisteam.rolisteam",
         "org.sdrangel.SDRangel",
@@ -578,6 +574,16 @@
         "org.gnode.NixView",
         "org.guerinoni.qTsConverter"
     ],
+    "5.15-23.08": [
+        "com.github._4lex4.ScanTailor-Advanced",
+        "com.github.makhber.Makhber",
+        "info.mumble.Mumble",
+        "io.crow_translate.CrowTranslate",
+        "org.atheme.audacious",
+        "org.radare.iaito",
+        "ua.org.brezblock.q4wine",
+        "xyz.z3ntu.razergenie"
+    ],
     "6.2": [
         "com.github.giacomogroppi.writernote-qt",
         "dev.lukebriggs.pepys",
@@ -591,12 +597,6 @@
         "org.beeref.BeeRef",
         "org.subtitld.Subtitld",
         "uk.org.zint.zint-qt"
-    ],
-    "5.15-23.08": [
-        "com.github.makhber.Makhber",
-        "org.atheme.audacious",
-        "ua.org.brezblock.q4wine",
-        "xyz.z3ntu.razergenie"
     ],
     "6.4": [
         "com.obsproject.Studio",

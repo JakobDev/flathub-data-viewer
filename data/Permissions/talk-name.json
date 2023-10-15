@@ -96,6 +96,7 @@
         "net.rpdev.OpenTodoList",
         "net.sourceforge.liferea",
         "nl.g4d.Girens",
+        "org.adishatz.syncpasswd",
         "org.apache.netbeans",
         "org.chromium.Chromium",
         "org.cryptomator.Cryptomator",
@@ -2258,6 +2259,7 @@
     ],
     "org.gnome.keyring": [
         "app.moosync.moosync",
+        "org.adishatz.syncpasswd",
         "org.cryptomator.Cryptomator"
     ],
     "org.mpris.mediaplayer2.player": [
