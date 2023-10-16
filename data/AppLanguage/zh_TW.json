@@ -26,6 +26,7 @@
     "io.github.quodlibet.QuodLibet",
     "io.liri.Text",
     "net.minetest.Minetest",
+    "net.nokyan.Resources",
     "net.poedit.Poedit",
     "net.sourceforge.Hugin",
     "net.supertuxkart.SuperTuxKart",

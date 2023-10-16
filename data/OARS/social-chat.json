@@ -15,7 +15,6 @@
         "net.longturn.freeciv21",
         "nl.g4d.Girens",
         "org.rolisteam.rolisteam",
-        "org.srb2.SRB2",
         "org.srb2.SRB2Kart",
         "org.srb2.SRB2Persona",
         "org.turbowarp.TurboWarp"
@@ -393,6 +392,7 @@
         "org.sauerbraten.Sauerbraten",
         "org.signal.Signal",
         "org.sonic3air.Sonic3AIR",
+        "org.srb2.SRB2",
         "org.srb2.SRB2Kart-galaxy",
         "org.srb2.SRB2Kart-galaxy_azerty",
         "org.syphon.Syphon",

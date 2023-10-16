@@ -178,6 +178,7 @@
     "org.laptop.TurtleArtActivity",
     "org.mapeditor.Tiled",
     "org.midori_browser.Midori",
+    "org.musicbrainz.Picard",
     "org.nicotine_plus.Nicotine",
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",

@@ -516,7 +516,6 @@
         "org.hedgewars.Hedgewars",
         "org.kde.atlantik",
         "org.munadi.Munadi",
-        "org.musicbrainz.Picard",
         "org.nomacs.ImageLounge",
         "org.olivevideoeditor.Olive",
         "org.onionshare.OnionShare",
@@ -580,6 +579,7 @@
         "info.mumble.Mumble",
         "io.crow_translate.CrowTranslate",
         "org.atheme.audacious",
+        "org.musicbrainz.Picard",
         "org.radare.iaito",
         "ua.org.brezblock.q4wine",
         "xyz.z3ntu.razergenie"
