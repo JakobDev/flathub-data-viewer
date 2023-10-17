@@ -1,4 +1,5 @@
 [
+    "com.inform7.IDE",
     "io.dbeaver.DBeaverCommunity",
     "org.pyzo.pyzo"
 ]
