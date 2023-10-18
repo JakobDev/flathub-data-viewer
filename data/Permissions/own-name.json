@@ -73,7 +73,7 @@
         "ru.yandex.Browser",
         "tech.feliciano.pocket-casts"
     ],
-    "org.mpris.mediaplayer2.spotube": [
+    "org.mpris.mediaplayer2.spotube.*": [
         "com.github.KRTirtho.Spotube"
     ],
     "org.kde.statusnotifieritem-2-1": [

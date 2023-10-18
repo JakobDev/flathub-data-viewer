@@ -14,7 +14,6 @@
         "net.mediaarea.MediaConch",
         "net.retrodeck.retrodeck",
         "net.sonic_pi.SonicPi",
-        "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.xm1math.Texmaker",
         "org.freecadweb.FreeCAD",
         "org.kde.akregator",
@@ -59,7 +58,8 @@
         "dev.lukebriggs.pepys"
     ],
     "5.15-23.08": [
-        "io.github.martinrotter.rssguard"
+        "io.github.martinrotter.rssguard",
+        "net.sourceforge.qtpfsgui.LuminanceHDR"
     ],
     "6.4": [
         "org.jaspstats.JASP"

@@ -236,6 +236,7 @@
         "io.github.narunlifescience.AlphaPlot",
         "io.github.noxworld_dev.OpenNox",
         "io.github.nroduit.Weasis",
+        "io.github.pd_l2ork.Pd_L2Ork",
         "io.github.rafaelfassi.QLogExplorer",
         "io.github.retgal.Dayon",
         "io.github.sameboy.SameBoy",
@@ -627,6 +628,7 @@
         "ch.theologeek.Manuskript",
         "com.agateau.nanonote",
         "com.alovoa.alovoa-electron",
+        "com.bktus.gpgfrontend",
         "com.blockstream.Green",
         "com.borgbase.Vorta",
         "com.calibre_ebook.calibre",
@@ -2010,6 +2012,7 @@
         "io.github.gillesdegottex.FMIT",
         "io.github.kotatogram",
         "io.github.muse_sequencer.Muse",
+        "io.github.pd_l2ork.Pd_L2Ork",
         "io.github.streetpea.Chiaki4deck",
         "io.github.tdesktop_x64.TDesktop",
         "io.gitlab.librewolf-community",
@@ -2587,6 +2590,13 @@
     ],
     "xdg-download/BiglyBT Downloads:create": [
         "com.biglybt.BiglyBT"
+    ],
+    "~/.gnupg": [
+        "com.bktus.gpgfrontend",
+        "eu.betterbird.Betterbird",
+        "org.gajim.Gajim",
+        "org.gnome.Evolution",
+        "org.mozilla.Thunderbird"
     ],
     "host-etc": [
         "com.brave.Browser",
@@ -3308,12 +3318,6 @@
     ],
     "/var/spool/mail": [
         "eu.betterbird.Betterbird"
-    ],
-    "~/.gnupg": [
-        "eu.betterbird.Betterbird",
-        "org.gajim.Gajim",
-        "org.gnome.Evolution",
-        "org.mozilla.Thunderbird"
     ],
     "/var/mail": [
         "eu.betterbird.Betterbird"

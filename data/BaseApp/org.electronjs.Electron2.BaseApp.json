@@ -102,7 +102,6 @@
         "org.onlyoffice.desktopeditors",
         "org.standardnotes.standardnotes",
         "org.turbowarp.TurboWarp",
-        "org.twinery.Twine",
         "org.upscayl.Upscayl",
         "rest.insomnia.Insomnia",
         "se.manyver.Manyverse",
@@ -138,7 +137,6 @@
         "io.github.dbchoco.muezzin",
         "io.github.hakuneko.HakuNeko",
         "io.github.purplehorrorrus.Meridius",
-        "net.xmind.XMind",
         "org.jamovi.jamovi",
         "org.sugarlabs.MusicBlocks",
         "ro.go.hmlendea.DL-Desktop"
@@ -168,9 +166,11 @@
         "io.github.shiftey.Desktop",
         "io.kopia.KopiaUI",
         "net.cozic.joplin_desktop",
+        "net.xmind.XMind",
         "org.jitsi.jitsi-meet",
         "org.signal.Signal",
         "org.tropy.Tropy",
+        "org.twinery.Twine",
         "org.zulip.Zulip",
         "social.whalebird.WhalebirdDesktop",
         "xyz.hyperplay.HyperPlay"

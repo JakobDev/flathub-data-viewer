@@ -1,4 +1,5 @@
 [
+    "com.bktus.gpgfrontend",
     "com.wire.WireDesktop",
     "org.gnome.World.Secrets"
 ]

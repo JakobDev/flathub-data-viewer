@@ -11,6 +11,7 @@
     "info.puredata.Pd-extended",
     "io.github.jliljebl.Flowblade",
     "io.github.muse_sequencer.Muse",
+    "io.github.pd_l2ork.Pd_L2Ork",
     "io.lmms.LMMS",
     "net.purrdata.PurrData",
     "org.ardour.Ardour",
