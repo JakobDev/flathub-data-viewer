@@ -528,6 +528,9 @@
     ".fgfs": [
         "org.flightgear.FlightGear"
     ],
+    ".local/share/godot/app_userdata/squared": [
+        "org.freedesktop.dabrain34.squared"
+    ],
     ".frozen-bubble": [
         "org.frozen_bubble.frozen-bubble"
     ],

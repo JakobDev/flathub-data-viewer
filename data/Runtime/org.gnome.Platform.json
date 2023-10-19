@@ -556,6 +556,7 @@
         "org.midori_browser.Midori",
         "org.moneymanagerex.MMEX",
         "org.mpdevil.mpdevil",
+        "org.mypaint.MyPaint",
         "org.nicotine_plus.Nicotine",
         "org.nmap.Zenmap",
         "org.pipewire.Helvum",
@@ -701,7 +702,6 @@
         "org.kryogenix.hushboard",
         "org.kryogenix.utm_no",
         "org.laptop.TurtleArtActivity",
-        "org.mypaint.MyPaint",
         "org.sil.Bloom",
         "org.tabos.twofun"
     ],

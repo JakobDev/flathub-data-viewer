@@ -133,6 +133,7 @@
         "com.github.theironrobin.siglo",
         "com.google.Chrome",
         "com.google.ChromeDev",
+        "com.microsoft.Edge",
         "com.oppzippy.OpenSCQ30",
         "com.skype.Client",
         "edu.stanford.Almond",
