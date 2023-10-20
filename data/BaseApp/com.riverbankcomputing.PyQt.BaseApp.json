@@ -2,13 +2,11 @@
     "5.15-22.08": [
         "app.bbsync.BlackboardSync",
         "com.borgbase.Vorta",
-        "com.github.git_cola.git-cola",
         "com.github.micahflee.torbrowser-launcher",
         "com.sigil_ebook.Sigil",
         "io.github.bothlab.syntalos",
         "io.github.ciromattia.kcc",
         "io.github.giantpinkrobots.bootqt",
-        "io.github.jordanl2.ModularCalculator",
         "io.github.julian_hochhaus.LG4X_V2",
         "io.github.veusz.Veusz",
         "net.puddletag.puddletag",
@@ -17,6 +15,10 @@
         "org.pairinteraction.Pairinteraction",
         "org.pymol.PyMOL",
         "se.sjoerd.GIScan"
+    ],
+    "5.15-23.08": [
+        "com.github.git_cola.git-cola",
+        "io.github.jordanl2.ModularCalculator"
     ],
     "6.5": [
         "com.rtosta.zapzap",
