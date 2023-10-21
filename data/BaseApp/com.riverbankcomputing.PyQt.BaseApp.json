@@ -5,7 +5,6 @@
         "com.github.micahflee.torbrowser-launcher",
         "com.sigil_ebook.Sigil",
         "io.github.bothlab.syntalos",
-        "io.github.ciromattia.kcc",
         "io.github.giantpinkrobots.bootqt",
         "io.github.julian_hochhaus.LG4X_V2",
         "io.github.veusz.Veusz",
@@ -18,6 +17,7 @@
     ],
     "5.15-23.08": [
         "com.github.git_cola.git-cola",
+        "io.github.ciromattia.kcc",
         "io.github.jordanl2.ModularCalculator"
     ],
     "6.5": [

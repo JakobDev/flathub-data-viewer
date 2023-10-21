@@ -1976,7 +1976,6 @@
         "com.valvesoftware.Steam",
         "com.visualstudio.code-oss",
         "com.visualstudio.code",
-        "com.vscodium.codium",
         "com.xunlei.Thunder",
         "com.zettlr.Zettlr",
         "de.akaflieg_freiburg.enroute",
@@ -3047,7 +3046,8 @@
         "de.shorsh.discord-screenaudio",
         "org.kde.akregator",
         "org.kde.kontact",
-        "org.kde.yakuake"
+        "org.kde.yakuake",
+        "org.strawberrymusicplayer.strawberry"
     ],
     "org.gnome.shell.screenshot": [
         "edu.stanford.Almond",

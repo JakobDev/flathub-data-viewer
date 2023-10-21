@@ -34,7 +34,6 @@
         "org.kde.parley",
         "org.kde.skrooge",
         "org.kde.tellico",
-        "org.musescore.MuseScore",
         "org.paraview.ParaView",
         "org.rolisteam.rolisteam",
         "org.sdrangel.SDRangel",
@@ -59,7 +58,8 @@
     ],
     "5.15-23.08": [
         "io.github.martinrotter.rssguard",
-        "net.sourceforge.qtpfsgui.LuminanceHDR"
+        "net.sourceforge.qtpfsgui.LuminanceHDR",
+        "org.musescore.MuseScore"
     ],
     "6.4": [
         "org.jaspstats.JASP"

@@ -284,7 +284,6 @@
     ],
     "org.freedesktop.realtimekit1": [
         "net.mullvad.MullvadBrowser",
-        "net.purrdata.PurrData",
         "net.sourceforge.GrandOrgue",
         "org.mixxx.Mixxx",
         "org.shotcut.Shotcut",

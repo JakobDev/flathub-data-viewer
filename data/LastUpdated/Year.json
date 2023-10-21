@@ -30,7 +30,6 @@
     "com.github.Xenoveritas.abuse",
     "com.github.ahrm.sioyek",
     "com.github.alainm23.planner",
-    "com.github.benpocalypse.Huely",
     "com.github.cubitect.cubiomes-viewer",
     "com.github.debauchee.barrier",
     "com.github.elth0r0.iqpuzzle",
@@ -145,7 +144,6 @@
     "io.github.fsobolev.TimeSwitch",
     "io.github.garglk.Gargoyle",
     "io.github.guillaumechereau.Goxel",
-    "io.github.hakandundar34coding.mini-system-monitor",
     "io.github.helpseeker.Gyre",
     "io.github.huderlem.porymap",
     "io.github.hurricangame.hurrican",
@@ -200,7 +198,6 @@
     "io.jor.nanosaur2",
     "io.jor.ottomatic",
     "io.osdn.simplesok",
-    "io.posidon.Paper",
     "io.qt.Designer",
     "io.qt.Linguist",
     "io.qt.qdbusviewer",
@@ -368,5 +365,6 @@
     "org.gtk.Gtk3theme.Obsidian-2",
     "org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime",
     "org.kde.KStyle.Kvantum",
+    "org.kicad.KiCad.ODBCDriver.mariadb-connector-odbc",
     "org.learningequality.Kolibri.Plugin.kolibri-zim-plugin"
 ]
