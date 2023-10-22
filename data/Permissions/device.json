@@ -1366,6 +1366,7 @@
         "org.quassel_irc.QuasselClient",
         "org.quetoo.Quetoo",
         "org.qutebrowser.qutebrowser",
+        "org.qxmledit.QXmlEdit",
         "org.radare.iaito",
         "org.raspberrypi.rpi-imager",
         "org.robocode.Robocode",

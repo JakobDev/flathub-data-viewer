@@ -118,6 +118,7 @@
         "org.gtimelog.GTimeLog",
         "org.kde.kasts",
         "org.kde.neochat",
+        "org.kde.tokodon",
         "org.midori_browser.Midori",
         "org.nickvision.tubeconverter",
         "org.onionshare.OnionShare",
@@ -2121,6 +2122,7 @@
         "org.kde.kongress",
         "org.kde.konversation",
         "org.kde.neochat",
+        "org.kde.tokodon",
         "org.keepassxc.KeePassXC",
         "org.kekikakademi.ntvHaber",
         "org.ksnip.ksnip",
@@ -2492,6 +2494,7 @@
         "org.mozilla.firefox",
         "org.ppsspp.PPSSPP",
         "org.qutebrowser.qutebrowser",
+        "org.signal.Signal",
         "org.tordini.flavio.Minitube",
         "org.videolan.VLC",
         "re.chiaki.Chiaki",
@@ -2746,6 +2749,7 @@
         "org.mozilla.firefox",
         "org.qbittorrent.qBittorrent",
         "org.sabnzbd.sabnzbd",
+        "org.signal.Signal",
         "ru.yandex.Browser"
     ],
     "org.gnome.mutter.idlemonitor.*": [
@@ -2836,6 +2840,7 @@
         "org.jitsi.jitsi-meet",
         "org.qbittorrent.qBittorrent",
         "org.sabnzbd.sabnzbd",
+        "org.signal.Signal",
         "tv.plex.PlexHTPC"
     ],
     "org.gnome.settingsdaemon.mediakeys": [

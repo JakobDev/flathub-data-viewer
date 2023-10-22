@@ -2,7 +2,6 @@
     "5.15-22.08": [
         "app.bbsync.BlackboardSync",
         "com.borgbase.Vorta",
-        "com.github.micahflee.torbrowser-launcher",
         "com.sigil_ebook.Sigil",
         "io.github.bothlab.syntalos",
         "io.github.giantpinkrobots.bootqt",
@@ -17,6 +16,7 @@
     ],
     "5.15-23.08": [
         "com.github.git_cola.git-cola",
+        "com.github.micahflee.torbrowser-launcher",
         "io.github.ciromattia.kcc",
         "io.github.jordanl2.ModularCalculator"
     ],

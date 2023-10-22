@@ -201,6 +201,7 @@
         "io.wavebox.Wavebox",
         "moe.karaokes.mugen",
         "net.mullvad.MullvadBrowser",
+        "net.purrdata.PurrData",
         "org.chromium.Chromium",
         "org.cubocore.CoreAction",
         "org.cubocore.CoreStats",
