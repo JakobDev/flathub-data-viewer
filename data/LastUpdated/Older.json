@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.drey.Dialect",
     "app.drey.KeyRack",
     "app.getspace.Space",
     "app.gummi.gummi",
@@ -425,6 +426,7 @@
     "io.github.zyedidia.micro",
     "io.gitlab.Turtlico",
     "io.gitlab.ballz.Ballz",
+    "io.gitlab.celleron56.libretile",
     "io.gitlab.floodlight.Presenter",
     "io.gitlab.jazztickets.irrlamb",
     "io.gitlab.o20.word",
