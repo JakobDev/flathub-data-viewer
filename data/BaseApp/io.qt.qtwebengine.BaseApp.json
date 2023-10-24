@@ -1,7 +1,6 @@
 {
     "5.15-21.08": [
-        "ch.theologeek.Manuskript",
-        "com.gitlab.ColinDuquesnoy.MellowPlayer"
+        "ch.theologeek.Manuskript"
     ],
     "5.15-22.08": [
         "com.github.iwalton3.jellyfin-media-player",
@@ -36,11 +35,17 @@
         "org.kde.tellico",
         "org.paraview.ParaView",
         "org.rolisteam.rolisteam",
-        "org.sdrangel.SDRangel",
         "org.zealdocs.Zeal"
     ],
     "6.3": [
         "com.github.jmlich.geotagging"
+    ],
+    "5.15-23.08": [
+        "com.gitlab.ColinDuquesnoy.MellowPlayer",
+        "io.github.martinrotter.rssguard",
+        "net.sourceforge.qtpfsgui.LuminanceHDR",
+        "org.musescore.MuseScore",
+        "org.sdrangel.SDRangel"
     ],
     "6.5": [
         "com.riverbankcomputing.PyQt.BaseApp",
@@ -55,11 +60,6 @@
     ],
     "6.2": [
         "dev.lukebriggs.pepys"
-    ],
-    "5.15-23.08": [
-        "io.github.martinrotter.rssguard",
-        "net.sourceforge.qtpfsgui.LuminanceHDR",
-        "org.musescore.MuseScore"
     ],
     "6.4": [
         "org.jaspstats.JASP"

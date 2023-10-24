@@ -1,6 +1,7 @@
 [
     "com.playonlinux.PlayOnLinux4",
     "com.usebottles.bottles",
+    "io.github.fastrizwaan.WineZGUI",
     "org.gnome.Connections",
     "org.hlwd.sonofman"
 ]

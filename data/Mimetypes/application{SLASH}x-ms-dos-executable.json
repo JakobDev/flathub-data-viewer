@@ -1,5 +1,6 @@
 [
     "com.usebottles.bottles",
+    "io.github.fastrizwaan.WineZGUI",
     "io.github.peazip.PeaZip",
     "org.gnome.FileRoller",
     "org.phoenicis.playonlinux",

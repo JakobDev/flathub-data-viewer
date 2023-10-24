@@ -849,9 +849,11 @@
         "com.github.varnholt.dynablaster_revenge",
         "com.github.vkohaupt.vokoscreenNG",
         "com.github.zocker_160.SyncThingy",
+        "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.gitlab.Murmele.UDPLogger",
         "com.gitlab.coringao.JAG",
         "com.icanblink.blink",
+        "com.interversehq.qView",
         "com.js8call.JS8Call",
         "com.ktechpit.colorwall",
         "com.ktechpit.orion",
@@ -1288,9 +1290,11 @@
         "com.github.varnholt.dynablaster_revenge",
         "com.github.vkohaupt.vokoscreenNG",
         "com.github.zocker_160.SyncThingy",
+        "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.gitlab.Murmele.UDPLogger",
         "com.gitlab.coringao.JAG",
         "com.icanblink.blink",
+        "com.interversehq.qView",
         "com.js8call.JS8Call",
         "com.ktechpit.colorwall",
         "com.ktechpit.orion",
@@ -2019,6 +2023,7 @@
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.ciromattia.kcc",
         "io.github.dweymouth.supersonic",
+        "io.github.fastrizwaan.WineZGUI",
         "io.github.helpseeker.Gyre",
         "io.github.hrkfdn.ncspot",
         "io.github.hypengw.Qcm",
@@ -3038,6 +3043,15 @@
         "com.skype.Client",
         "io.github.betaflight.BetaflightConfigurator",
         "org.xiphos.Xiphos"
+    ],
+    "org.gnome.totem": [
+        "de.k_bo.Televido"
+    ],
+    "io.github.celluloid_player.celluloid": [
+        "de.k_bo.Televido"
+    ],
+    "com.github.rafostar.clapper": [
+        "de.k_bo.Televido"
     ],
     "org.kde.*": [
         "de.manuel_kehl.go-for-it"

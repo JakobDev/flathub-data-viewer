@@ -955,6 +955,7 @@
         "application{SLASH}x-wii-u-rom",
         "application{SLASH}x-winamp-playlist",
         "application{SLASH}x-wine-extension-msp",
+        "application{SLASH}x-winezgui-backup-file",
         "application{SLASH}x-winstm-spm",
         "application{SLASH}x-wipfile-spm",
         "application{SLASH}x-witec-ascii-export",

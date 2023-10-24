@@ -264,6 +264,7 @@
         "it.mijorus.gearlever",
         "md.obsidian.Obsidian",
         "me.ahola.aphototoollibre",
+        "me.broken_by.PdfMetadataEditor",
         "me.mitya57.ReText",
         "me.simakis.dropboxignore",
         "net.agalwood.Motrix",
@@ -528,6 +529,7 @@
         "io.github.Icalingua.Icalingua",
         "io.github.TransmissionRemoteGtk",
         "io.github.aggalex.Wineglass",
+        "io.github.fastrizwaan.WineZGUI",
         "io.github.hvdwofl.jExifToolGUI",
         "io.github.jacalz.rymdport",
         "io.github.kotatogram",
@@ -1331,6 +1333,7 @@
         "io.github.aggalex.Wineglass",
         "io.github.chris2511.xca",
         "io.github.dman95.SASM",
+        "io.github.fastrizwaan.WineZGUI",
         "io.github.glitterware.Passy",
         "io.github.jacalz.rymdport",
         "io.github.jordanl2.ModularCalculator",
@@ -1713,6 +1716,7 @@
         "dev.vieb.Vieb",
         "io.github.aggalex.Wineglass",
         "io.github.cmus.cmus",
+        "io.github.fastrizwaan.WineZGUI",
         "io.github.jacalz.rymdport",
         "io.github.janbar.noson",
         "io.github.listen1.Listen1",
@@ -2243,6 +2247,7 @@
         "io.github.Figma_Linux.figma_linux",
         "io.github.aggalex.Wineglass",
         "io.github.celluloid_player.Celluloid",
+        "io.github.fastrizwaan.WineZGUI",
         "io.github.hvdwofl.jExifToolGUI",
         "io.github.jacalz.rymdport",
         "io.github.ktgw0316.LightZone",
@@ -2306,6 +2311,7 @@
         "com.wps.Office",
         "dev.vieb.Vieb",
         "io.github.aggalex.Wineglass",
+        "io.github.fastrizwaan.WineZGUI",
         "io.github.jacalz.rymdport",
         "io.github.qnapi",
         "io.github.qtox.qTox",
@@ -2622,6 +2628,7 @@
         "com.brave.Browser",
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
+        "io.github.fastrizwaan.WineZGUI",
         "io.github.prateekmedia.appimagepool",
         "ru.yandex.Browser"
     ],
@@ -2670,6 +2677,7 @@
         "io.github.TheThirdOne.rars",
         "io.github.aggalex.Wineglass",
         "io.github.am2r_community_developers.AM2RLauncher",
+        "io.github.fastrizwaan.WineZGUI",
         "io.github.jacalz.rymdport",
         "io.github.qtox.qTox",
         "io.github.vikdevelop.SaveDesktop",
@@ -3020,7 +3028,8 @@
         "com.github.polymeilex.neothesia"
     ],
     "xdg-config/gtk-4.0:ro": [
-        "com.github.qarmin.czkawka"
+        "com.github.qarmin.czkawka",
+        "com.vscodium.codium"
     ],
     "/home": [
         "com.github.qarmin.szyszka"

@@ -27,6 +27,7 @@
     "io.gitlab.adhami3310.Converter",
     "io.gitlab.librewolf-community",
     "io.wavebox.Wavebox",
+    "me.broken_by.PdfMetadataEditor",
     "net.codeindustry.MasterPDFEditor",
     "net.mullvad.MullvadBrowser",
     "net.sourceforge.Pdfedit",
