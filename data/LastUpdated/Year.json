@@ -1,6 +1,5 @@
 [
     "app.drey.Blurble",
-    "app.moosync.moosync",
     "app.ywallet.Ywallet",
     "ar.com.softwareperonista.Rockarrolla",
     "br.app.pw3270.terminal",
@@ -74,6 +73,7 @@
     "com.springrts.SpringLobby",
     "com.st.STM32CubeIDE",
     "com.supermodel3.Supermodel",
+    "com.synology.SynologyDrive",
     "com.transmissionbt.Transmission",
     "com.umlet.Umlet",
     "com.unity.UnityHub",

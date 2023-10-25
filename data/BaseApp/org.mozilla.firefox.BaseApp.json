@@ -1,6 +1,8 @@
 {
+    "23.08": [
+        "net.mullvad.MullvadBrowser"
+    ],
     "22.08": [
-        "net.mullvad.MullvadBrowser",
         "org.mozilla.Thunderbird",
         "org.mozilla.firefox"
     ]

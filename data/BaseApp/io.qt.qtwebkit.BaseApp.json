@@ -5,6 +5,7 @@
         "com.icanblink.blink",
         "com.ktechpit.orion",
         "com.ktechpit.torrhunt",
+        "info.smplayer.SMPlayer",
         "org.fcitx.Fcitx5",
         "org.goldendict.GoldenDict",
         "org.kde.umbrello",
@@ -21,7 +22,6 @@
     "5.15-21.08": [
         "com.notepadqq.Notepadqq",
         "com.sourcepole.kadas",
-        "info.smplayer.SMPlayer",
         "io.github.cloose.CuteMarkEd"
     ]
 }
