@@ -1882,6 +1882,7 @@
         "app.vup.Vup",
         "ca.hamaluik.Timecop",
         "chat.revolt.RevoltDesktop",
+        "chat.rocket.RocketChat",
         "chat.schildi.desktop",
         "co.headsetapp.headset",
         "codes.loers.Karlender",
@@ -2520,6 +2521,14 @@
         "ch.tlaun.TL",
         "org.gnome.DejaDup"
     ],
+    "org.freedesktop.portal.background": [
+        "chat.rocket.RocketChat",
+        "codes.loers.Karlender",
+        "com.cocoatech.deckr",
+        "com.github.zocker_160.SyncThingy",
+        "gg.guilded.Guilded",
+        "me.timschneeberger.jdsp4linux"
+    ],
     "org.gnome.mutter.idlemonitor": [
         "chat.rocket.RocketChat",
         "com.lakoliu.Furtherance",
@@ -2530,14 +2539,6 @@
         "org.gajim.Gajim",
         "org.gnome.BreakTimer",
         "org.signal.Signal"
-    ],
-    "org.freedesktop.portal.background": [
-        "chat.rocket.RocketChat",
-        "codes.loers.Karlender",
-        "com.cocoatech.deckr",
-        "com.github.zocker_160.SyncThingy",
-        "gg.guilded.Guilded",
-        "me.timschneeberger.jdsp4linux"
     ],
     "org.gnome.settingsdaemon": [
         "chat.tandem.Client",

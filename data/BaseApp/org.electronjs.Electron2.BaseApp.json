@@ -8,6 +8,7 @@
         "ch.threema.threema-web-desktop",
         "chat.quadrix.Quadrix",
         "chat.revolt.RevoltDesktop",
+        "chat.rocket.RocketChat",
         "chat.schildi.desktop",
         "chat.tandem.Client",
         "cn.lceda.LCEDAPro",
@@ -138,7 +139,6 @@
     ],
     "23.08": [
         "cc.arduino.IDE2",
-        "chat.rocket.RocketChat",
         "com.axosoft.GitKraken",
         "com.boxy_svg.BoxySVG",
         "com.budgetwithbuckets.Buckets",
