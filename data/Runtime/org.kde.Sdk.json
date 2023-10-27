@@ -16,9 +16,11 @@
     ],
     "5.15-22.08": [
         "io.github.veusz.Veusz",
-        "org.kde.kcachegrind",
-        "org.kde.kdevelop",
         "org.octave.Octave",
         "org.paraview.ParaView"
+    ],
+    "5.15-23.08": [
+        "org.kde.kcachegrind",
+        "org.kde.kdevelop"
     ]
 }

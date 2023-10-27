@@ -12,7 +12,6 @@
     "org.freecadweb.FreeCAD",
     "org.freedesktop.Bustle",
     "org.freedesktop.appstream.generator",
-    "org.kde.kdevelop",
     "re.rizin.cutter",
     "org.fcitx.Fcitx5.Addon.Mozc",
     "org.freedesktop.Sdk.Extension.dmd"
