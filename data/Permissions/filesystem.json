@@ -1335,7 +1335,6 @@
         "io.github.dman95.SASM",
         "io.github.fastrizwaan.WineZGUI",
         "io.github.glitterware.Passy",
-        "io.github.jacalz.rymdport",
         "io.github.jordanl2.ModularCalculator",
         "io.github.kaschpal.timetable",
         "io.github.mideb.digitales_register",
@@ -1717,7 +1716,6 @@
         "io.github.aggalex.Wineglass",
         "io.github.cmus.cmus",
         "io.github.fastrizwaan.WineZGUI",
-        "io.github.jacalz.rymdport",
         "io.github.janbar.noson",
         "io.github.listen1.Listen1",
         "io.github.pragha_music_player.pragha",
@@ -1916,6 +1914,7 @@
         "io.github.nate_xyz.Resonance",
         "io.github.shiiion.primehack",
         "io.github.simple64.simple64",
+        "io.github.vinegarhq.Vinegar",
         "md.obsidian.Obsidian",
         "moe.karaokes.mugen",
         "net.retrodeck.retrodeck",
@@ -2084,6 +2083,7 @@
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.btpf.alexandria",
         "io.github.fabiangreffrath.Doom",
+        "io.github.jacalz.rymdport",
         "io.github.mihnea_radulescu.imagefanreloaded",
         "io.github.punesemu.puNES",
         "io.github.troyeguo.koodo-reader",
@@ -2248,7 +2248,6 @@
         "io.github.celluloid_player.Celluloid",
         "io.github.fastrizwaan.WineZGUI",
         "io.github.hvdwofl.jExifToolGUI",
-        "io.github.jacalz.rymdport",
         "io.github.ktgw0316.LightZone",
         "io.github.najepaliya.kleaner",
         "io.github.obiwankennedy.HotShots",
@@ -2311,7 +2310,6 @@
         "dev.vieb.Vieb",
         "io.github.aggalex.Wineglass",
         "io.github.fastrizwaan.WineZGUI",
-        "io.github.jacalz.rymdport",
         "io.github.qnapi",
         "io.github.qtox.qTox",
         "io.github.ripose_jp.Memento",
@@ -2677,7 +2675,6 @@
         "io.github.aggalex.Wineglass",
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.fastrizwaan.WineZGUI",
-        "io.github.jacalz.rymdport",
         "io.github.qtox.qTox",
         "io.github.vikdevelop.SaveDesktop",
         "io.wavebox.Wavebox",
@@ -3593,6 +3590,9 @@
     ],
     "~/.cinnamon:create": [
         "io.github.vikdevelop.SaveDesktop"
+    ],
+    "xdg-run/app/com.discordapp.Discord/discord-ipc-0": [
+        "io.github.vinegarhq.Vinegar"
     ],
     "~/.var/app:ro": [
         "io.gitlab.gwendalj.package-transporter",
