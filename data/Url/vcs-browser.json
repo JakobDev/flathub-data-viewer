@@ -1,6 +1,7 @@
 [
     "app.bluebubbles.BlueBubbles",
     "app.cantara.Cantara",
+    "app.drey.EarTag",
     "app.drey.Warp",
     "app.feeddeck.feeddeck",
     "app.getclipboard.Clipboard",

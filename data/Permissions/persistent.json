@@ -342,10 +342,6 @@
     ".wineprefixes": [
         "io.github.aggalex.Wineglass"
     ],
-    ".openarena": [
-        "io.github.ec_.Quake3e.OpenArena",
-        "ws.openarena.OpenArena"
-    ],
     ".ezquake": [
         "io.github.ezQuake"
     ],
@@ -694,5 +690,8 @@
     ],
     ".python-eggs": [
         "work.openpaper.Paperwork"
+    ],
+    ".openarena": [
+        "ws.openarena.OpenArena"
     ]
 }
