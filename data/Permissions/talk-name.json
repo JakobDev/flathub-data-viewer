@@ -3054,6 +3054,9 @@
     "com.github.rafostar.clapper": [
         "de.k_bo.Televido"
     ],
+    "io.gitlab.daikhan.stable": [
+        "de.k_bo.Televido"
+    ],
     "org.kde.*": [
         "de.manuel_kehl.go-for-it"
     ],

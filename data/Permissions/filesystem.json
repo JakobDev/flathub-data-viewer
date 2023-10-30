@@ -29,7 +29,6 @@
         "com.axosoft.GitKraken",
         "com.behringer.XAirEdit",
         "com.belmoussaoui.snowglobe",
-        "com.bjareholt.johan.SimpleDiary",
         "com.bladecoder.adventure-editor",
         "com.brosix.Brosix",
         "com.chez.GrafX2",
@@ -2597,6 +2596,9 @@
     "xdg-download/BiglyBT Downloads:create": [
         "com.biglybt.BiglyBT"
     ],
+    "xdg-config/simple-diary,xdg-data/SimpleDiary": [
+        "com.bjareholt.johan.SimpleDiary"
+    ],
     "~/.gnupg": [
         "com.bktus.gpgfrontend",
         "eu.betterbird.Betterbird",
@@ -3165,9 +3167,6 @@
     ],
     "~/Seafile:create": [
         "com.seafile.Client"
-    ],
-    "xdg-config/transcribe:create": [
-        "com.seventhstring.Transcribe"
     ],
     "xdg-config/Simplenote": [
         "com.simplenote.Simplenote"
