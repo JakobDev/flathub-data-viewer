@@ -45,7 +45,8 @@
         "org.kde.kgeotag",
         "org.kde.kmymoney",
         "org.musescore.MuseScore",
-        "org.sdrangel.SDRangel"
+        "org.sdrangel.SDRangel",
+        "org.yuzu_emu.yuzu"
     ],
     "6.5": [
         "com.riverbankcomputing.PyQt.BaseApp",

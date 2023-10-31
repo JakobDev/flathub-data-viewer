@@ -6,9 +6,6 @@
     ],
     "6.5": [
         "io.github.JakubMelka.Pdf4qt",
-        "io.qt.Designer",
-        "io.qt.Linguist",
-        "io.qt.qdbusviewer",
         "page.codeberg.JakobDev.jdTextEdit"
     ],
     "5.15": [
@@ -18,6 +15,11 @@
         "io.github.veusz.Veusz",
         "org.octave.Octave",
         "org.paraview.ParaView"
+    ],
+    "6.6": [
+        "io.qt.Designer",
+        "io.qt.Linguist",
+        "io.qt.qdbusviewer"
     ],
     "5.15-23.08": [
         "org.kde.kcachegrind",

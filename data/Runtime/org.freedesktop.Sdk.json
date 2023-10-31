@@ -15,6 +15,7 @@
         "com.sublimemerge.App",
         "com.synology.SynologyDrive",
         "com.vscodium.codium",
+        "io.github.everestapi.Olympus",
         "io.neovim.nvim",
         "org.geany.Geany",
         "org.ghidra_sre.Ghidra",

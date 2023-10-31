@@ -214,6 +214,7 @@
         "io.github.dosbox-staging",
         "io.github.dubstar_04.design",
         "io.github.dummerle.rare",
+        "io.github.everestapi.Olympus",
         "io.github.f3d_app.f3d",
         "io.github.fralonra.PpdEditor",
         "io.github.garglk.Gargoyle",
@@ -604,6 +605,7 @@
         "org.syphon.Syphon",
         "org.tuxfamily.hatari",
         "org.twinery.Twine",
+        "org.v1993.NXDumpClient",
         "org.winehq.Wine",
         "org.zaproxy.ZAP",
         "org.zotero.Zotero",
@@ -1359,6 +1361,7 @@
         "net.xmind.XMind8",
         "one.ablaze.floorp",
         "org.apache.jmeter",
+        "org.audiveris.audiveris",
         "org.eu.wabarc.wayback",
         "org.firestormviewer.FirestormViewer",
         "org.fritzing.Fritzing",
@@ -1854,6 +1857,7 @@
         "dev.bsnes.bsnes",
         "dev.tchx84.Portfolio",
         "io.github.cmus.cmus",
+        "io.github.everestapi.Olympus",
         "io.github.loot.loot",
         "io.github.neil_morrison44.pocket-sync",
         "io.github.nroduit.Weasis",
@@ -2263,6 +2267,7 @@
         "net.xmind.XMind",
         "net.xmind.XMind8",
         "one.ablaze.floorp",
+        "org.audiveris.audiveris",
         "org.cubocore.CorePaint",
         "org.cubocore.CoreShot",
         "org.entangle_photo.Manager",
@@ -3434,6 +3439,9 @@
     ],
     "~/.config/wireplumber": [
         "io.github.dyegoaurelio.simple-wireplumber-gui"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Celeste": [
+        "io.github.everestapi.Olympus"
     ],
     "/var/lib/snapd:ro": [
         "io.github.fabrialberio.pinapp",
