@@ -20,6 +20,7 @@
     "io.bassi.Amberol",
     "io.github.celluloid_player.Celluloid",
     "io.otsaloma.nfoview",
+    "net.nokyan.Resources",
     "net.poedit.Poedit",
     "org.exaile.Exaile",
     "org.freedesktop.appstream.cli",

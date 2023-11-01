@@ -111,6 +111,7 @@
     "net.bartkessels.getit",
     "net.lutris.Lutris",
     "net.minetest.Minetest",
+    "net.nokyan.Resources",
     "net.poedit.Poedit",
     "net.sourceforge.Hugin",
     "net.sourceforge.liferea",

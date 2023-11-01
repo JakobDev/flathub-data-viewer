@@ -1,5 +1,6 @@
 [
     "com.github.unrud.djpdf",
+    "io.mrarm.mcpelauncher",
     "net.pcsx2.PCSX2",
     "net.rpcs3.RPCS3",
     "org.citra_emu.citra"

@@ -20,7 +20,6 @@
         "org.kde.cantor",
         "org.kde.digikam",
         "org.kde.kalgebra",
-        "org.kde.kimagemapeditor",
         "org.kde.kontact",
         "org.kde.kphotoalbum",
         "org.kde.labplot2",
@@ -43,6 +42,7 @@
         "org.kde.falkon",
         "org.kde.kdevelop",
         "org.kde.kgeotag",
+        "org.kde.kimagemapeditor",
         "org.kde.kmymoney",
         "org.musescore.MuseScore",
         "org.sdrangel.SDRangel",
@@ -51,7 +51,6 @@
     "6.5": [
         "com.riverbankcomputing.PyQt.BaseApp",
         "io.github.xiaoyifang.goldendict_ng",
-        "io.mrarm.mcpelauncher",
         "net.jami.Jami"
     ],
     "5.15": [
@@ -61,6 +60,9 @@
     ],
     "6.2": [
         "dev.lukebriggs.pepys"
+    ],
+    "6.6": [
+        "io.mrarm.mcpelauncher"
     ],
     "6.4": [
         "org.jaspstats.JASP"

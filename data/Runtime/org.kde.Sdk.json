@@ -5,8 +5,7 @@
         "io.qt.QtCreator"
     ],
     "6.5": [
-        "io.github.JakubMelka.Pdf4qt",
-        "page.codeberg.JakobDev.jdTextEdit"
+        "io.github.JakubMelka.Pdf4qt"
     ],
     "5.15": [
         "io.github.dman95.SASM"
@@ -19,7 +18,8 @@
     "6.6": [
         "io.qt.Designer",
         "io.qt.Linguist",
-        "io.qt.qdbusviewer"
+        "io.qt.qdbusviewer",
+        "page.codeberg.JakobDev.jdTextEdit"
     ],
     "5.15-23.08": [
         "org.kde.kcachegrind",
