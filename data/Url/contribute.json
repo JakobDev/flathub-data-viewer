@@ -81,6 +81,7 @@
     "org.stellarium.Stellarium",
     "org.telegram",
     "org.tenacityaudio.Tenacity",
+    "org.vim.Vim",
     "org.yuzu_emu.yuzu",
     "org.zirael.bkchem.BKChem",
     "pm.mirko.Atoms",

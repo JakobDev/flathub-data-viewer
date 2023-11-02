@@ -2559,6 +2559,7 @@
         "com.github.artemanufrij.playmymusic",
         "com.github.babluboy.bookworm",
         "com.github.calo001.fondo",
+        "com.github.flxzt.rnote",
         "com.github.geigi.cozy",
         "com.github.horaciodrs.tradesim",
         "com.github.junrrein.PDFSlicer",
@@ -2960,6 +2961,9 @@
         "org.gnome.Totem",
         "org.remmina.Remmina",
         "org.sil.FieldWorks"
+    ],
+    "org.freedesktop.filechooser": [
+        "com.github.ransome1.sleek"
     ],
     "org.gnome.software": [
         "com.github.tchx84.Flatseal",

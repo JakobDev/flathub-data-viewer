@@ -609,6 +609,7 @@
     "org.upnproutercontrol.UPnPRouterControl",
     "org.upscayl.Upscayl",
     "org.videolan.VLC",
+    "org.vim.Vim",
     "org.virtualxt.VirtualXT",
     "org.wezfurlong.wezterm",
     "org.widelands.Widelands",

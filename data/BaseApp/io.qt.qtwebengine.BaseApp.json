@@ -12,7 +12,6 @@
         "io.sourceforge.chart_geany.chart-geany",
         "net.mediaarea.MediaConch",
         "net.retrodeck.retrodeck",
-        "net.sonic_pi.SonicPi",
         "net.xm1math.Texmaker",
         "org.freecadweb.FreeCAD",
         "org.kde.akregator",
@@ -37,6 +36,7 @@
     "5.15-23.08": [
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "io.github.martinrotter.rssguard",
+        "net.sonic_pi.SonicPi",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "org.kde.angelfish",
         "org.kde.falkon",
@@ -48,10 +48,8 @@
         "org.sdrangel.SDRangel",
         "org.yuzu_emu.yuzu"
     ],
-    "6.5": [
-        "com.riverbankcomputing.PyQt.BaseApp",
-        "io.github.xiaoyifang.goldendict_ng",
-        "net.jami.Jami"
+    "6.6": [
+        "com.riverbankcomputing.PyQt.BaseApp"
     ],
     "5.15": [
         "com.wiz.Note",
@@ -61,8 +59,10 @@
     "6.2": [
         "dev.lukebriggs.pepys"
     ],
-    "6.6": [
-        "io.mrarm.mcpelauncher"
+    "6.5": [
+        "io.github.xiaoyifang.goldendict_ng",
+        "io.mrarm.mcpelauncher",
+        "net.jami.Jami"
     ],
     "6.4": [
         "org.jaspstats.JASP"
