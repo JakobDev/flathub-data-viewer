@@ -4,5 +4,6 @@
     "io.github.pragha_music_player.pragha",
     "io.qt.qtwebengine.BaseApp",
     "io.qt.qtwebkit.BaseApp",
-    "org.geeqie.Geeqie"
+    "org.geeqie.Geeqie",
+    "page.codeberg.Qwel.egui_picross"
 ]

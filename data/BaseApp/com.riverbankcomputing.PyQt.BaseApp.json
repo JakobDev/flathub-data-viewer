@@ -26,8 +26,7 @@
         "org.plomgrading.PlomClient",
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdDiff",
-        "page.codeberg.JakobDev.jdFlatpakSnapshot",
-        "page.codeberg.JakobDev.jdMinecraftLauncher"
+        "page.codeberg.JakobDev.jdFlatpakSnapshot"
     ],
     "6.6": [
         "io.github.hydrusnetwork.hydrus",
@@ -36,6 +35,7 @@
         "page.codeberg.JakobDev.jdDBusDebugger",
         "page.codeberg.JakobDev.jdDesktopEntryEdit",
         "page.codeberg.JakobDev.jdEolConverter",
+        "page.codeberg.JakobDev.jdMinecraftLauncher",
         "page.codeberg.JakobDev.jdMrpackInstaller",
         "page.codeberg.JakobDev.jdNBTExplorer",
         "page.codeberg.JakobDev.jdReplace",

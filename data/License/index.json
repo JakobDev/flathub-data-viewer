@@ -2,6 +2,7 @@
     "description": "Shows all Apps with the given License",
     "data": [
         "0BSD",
+        "AAL",
         "AGPL-1.0-or-later",
         "AGPL-3.0",
         "AGPL-3.0+",

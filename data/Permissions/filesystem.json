@@ -260,6 +260,7 @@
         "io.podman_desktop.PodmanDesktop",
         "io.sourceforge.Pixelitor",
         "io.sourceforge.chart_geany.chart-geany",
+        "it.fabiodistasio.AntaresSQL",
         "it.mijorus.gearlever",
         "md.obsidian.Obsidian",
         "me.ahola.aphototoollibre",
@@ -485,6 +486,7 @@
         "com.google.ChromeDev",
         "com.google.EarthPro",
         "com.icons8.Lunacy",
+        "com.invoiceninja.InvoiceNinja",
         "com.ktechpit.colorwall",
         "com.ktechpit.orion",
         "com.ktechpit.ultimate-media-downloader",
@@ -1308,6 +1310,7 @@
         "com.hamrick.VueScan",
         "com.heroicgameslauncher.hgl",
         "com.icons8.Lunacy",
+        "com.invoiceninja.InvoiceNinja",
         "com.ktechpit.whatsie",
         "com.lakoliu.Furtherance",
         "com.microsoft.Edge",
@@ -2228,6 +2231,7 @@
         "com.github.taiko2k.avvie",
         "com.google.Chrome",
         "com.hamrick.VueScan",
+        "com.invoiceninja.InvoiceNinja",
         "com.kolor.AutopanoPro",
         "com.ktechpit.colorwall",
         "com.ktechpit.orion",
@@ -2932,7 +2936,8 @@
         "com.github.tchx84.Flatseal",
         "io.github.shiftey.Desktop",
         "io.missioncenter.MissionCenter",
-        "net.nokyan.Resources"
+        "net.nokyan.Resources",
+        "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "/var/lib/flatpak/app:ro": [
         "com.github.bluesabre.darkbar",
@@ -2942,7 +2947,8 @@
         "io.github.shiftey.Desktop",
         "io.gitlab.gwendalj.package-transporter",
         "io.missioncenter.MissionCenter",
-        "net.nokyan.Resources"
+        "net.nokyan.Resources",
+        "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "~/.Xilinx:create": [
         "com.github.corna.Vivado"
@@ -3593,9 +3599,6 @@
     "~/.cinnamon:create": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "xdg-run/app/com.discordapp.Discord/discord-ipc-0": [
-        "io.github.vinegarhq.Vinegar"
-    ],
     "~/.var/app:ro": [
         "io.gitlab.gwendalj.package-transporter",
         "page.codeberg.libre_menu_editor.LibreMenuEditor"
@@ -4013,6 +4016,25 @@
     "host-etc:ro": [
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
+    "/var/lib/flatpak/exports/share/applications:ro": [
+        "page.codeberg.JakobDev.jdSimpleAutostart"
+    ],
+    "xdg-data/flatpak/exports/share/icons:ro": [
+        "page.codeberg.JakobDev.jdSimpleAutostart"
+    ],
+    "/var/lib/flatpak/exports/share/icons:ro": [
+        "page.codeberg.JakobDev.jdSimpleAutostart"
+    ],
+    "xdg-data/applications:ro": [
+        "page.codeberg.JakobDev.jdSimpleAutostart",
+        "re.sonny.Junction"
+    ],
+    "xdg-data/flatpak/exports/share/applications:ro": [
+        "page.codeberg.JakobDev.jdSimpleAutostart"
+    ],
+    "host-os:ro": [
+        "page.codeberg.JakobDev.jdSimpleAutostart"
+    ],
     "xdg-documents/geobug-tracks:create": [
         "page.codeberg.tpikonen.geobug"
     ],
@@ -4024,9 +4046,6 @@
     ],
     "~/.local/share/godot/app_userdata/SuperTuxParty": [
         "party.supertux.supertuxparty"
-    ],
-    "xdg-data/applications:ro": [
-        "re.sonny.Junction"
     ],
     "/var/lib/snapd/desktop:ro": [
         "re.sonny.Junction"

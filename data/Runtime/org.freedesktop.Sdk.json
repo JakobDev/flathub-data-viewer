@@ -4,6 +4,7 @@
     ],
     "23.08": [
         "com.axosoft.GitKraken",
+        "com.chez.GrafX2",
         "com.helix_editor.Helix",
         "com.jetbrains.DataGrip",
         "com.jetbrains.IntelliJ-IDEA-Community",
@@ -22,14 +23,6 @@
         "org.ghidra_sre.Ghidra",
         "org.kicad.KiCad",
         "org.thonny.Thonny"
-    ],
-    "21.08": [
-        "com.chez.GrafX2",
-        "com.okta.developer.CLI",
-        "com.sublimetext.three",
-        "com.synology.CloudStationBackup",
-        "com.unity.UnityHub",
-        "io.stoplight.studio"
     ],
     "22.08": [
         "com.gitfiend.GitFiend",
@@ -55,6 +48,13 @@
         "org.scilab.Scilab",
         "org.scintilla.SciTE",
         "org.vim.Vim"
+    ],
+    "21.08": [
+        "com.okta.developer.CLI",
+        "com.sublimetext.three",
+        "com.synology.CloudStationBackup",
+        "com.unity.UnityHub",
+        "io.stoplight.studio"
     ],
     "19.08": [
         "org.aliflang.lang"
