@@ -7,7 +7,6 @@
         "io.github.giantpinkrobots.bootqt",
         "io.github.veusz.Veusz",
         "net.puddletag.puddletag",
-        "org.frescobaldi.Frescobaldi",
         "org.pairinteraction.Pairinteraction",
         "se.sjoerd.GIScan"
     ],
@@ -18,15 +17,14 @@
         "io.github.jordanl2.ModularCalculator",
         "io.github.julian_hochhaus.LG4X_V2",
         "net.sourceforge.scidavis",
+        "org.frescobaldi.Frescobaldi",
         "org.pymol.PyMOL"
     ],
     "6.5": [
         "com.rtosta.zapzap",
         "me.mitya57.ReText",
         "org.plomgrading.PlomClient",
-        "page.codeberg.DrRac27.Karoto",
-        "page.codeberg.JakobDev.jdDiff",
-        "page.codeberg.JakobDev.jdFlatpakSnapshot"
+        "page.codeberg.DrRac27.Karoto"
     ],
     "6.6": [
         "io.github.hydrusnetwork.hydrus",
@@ -34,7 +32,9 @@
         "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdDBusDebugger",
         "page.codeberg.JakobDev.jdDesktopEntryEdit",
+        "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdEolConverter",
+        "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "page.codeberg.JakobDev.jdMinecraftLauncher",
         "page.codeberg.JakobDev.jdMrpackInstaller",
         "page.codeberg.JakobDev.jdNBTExplorer",
