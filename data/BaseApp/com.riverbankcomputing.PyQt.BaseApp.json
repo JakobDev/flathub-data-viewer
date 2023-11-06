@@ -11,6 +11,7 @@
         "se.sjoerd.GIScan"
     ],
     "5.15-23.08": [
+        "com.github.arminstraub.krop",
         "com.github.git_cola.git-cola",
         "com.github.micahflee.torbrowser-launcher",
         "io.github.ciromattia.kcc",

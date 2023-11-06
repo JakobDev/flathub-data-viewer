@@ -1,4 +1,5 @@
 [
+    "net.christianbeier.MultiVNC",
     "org.gnome.Connections",
     "org.remmina.Remmina"
 ]

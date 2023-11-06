@@ -22,6 +22,7 @@
         "org.geany.Geany",
         "org.ghidra_sre.Ghidra",
         "org.kicad.KiCad",
+        "org.scintilla.SciTE",
         "org.thonny.Thonny"
     ],
     "22.08": [
@@ -46,7 +47,6 @@
         "org.codeblocks.codeblocks",
         "org.gnu.emacs",
         "org.scilab.Scilab",
-        "org.scintilla.SciTE",
         "org.vim.Vim"
     ],
     "21.08": [
