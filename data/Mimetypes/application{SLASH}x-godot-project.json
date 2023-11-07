@@ -1,4 +1,5 @@
 [
     "org.godotengine.Godot",
-    "org.godotengine.Godot3"
+    "org.godotengine.Godot3",
+    "org.godotengine.GodotSharp"
 ]

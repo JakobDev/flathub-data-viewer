@@ -17,6 +17,7 @@
         "com.synology.SynologyDrive",
         "com.vscodium.codium",
         "io.github.everestapi.Olympus",
+        "io.github.sigmasd.IRust",
         "io.neovim.nvim",
         "org.flathub.flatpak-external-data-checker",
         "org.geany.Geany",

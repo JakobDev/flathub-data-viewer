@@ -39,6 +39,7 @@
     "org.freecol.FreeCol",
     "org.godotengine.Godot",
     "org.godotengine.Godot3",
+    "org.godotengine.GodotSharp",
     "org.greenfoot.Greenfoot",
     "org.megamek.MegaMek",
     "org.octave.Octave",

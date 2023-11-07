@@ -1,4 +1,7 @@
 {
+    "moe.craftplacer.kaiteki": [
+        "app.kaiteki.Kaiteki"
+    ],
     "org.mpris.mediaplayer2.moosync": [
         "app.moosync.moosync"
     ],
@@ -278,6 +281,9 @@
     ],
     "org.mpris.mediaplayer2.net.sonic_pi.sonicpi": [
         "net.sonic_pi.SonicPi"
+    ],
+    "org.artha.unique": [
+        "net.sourceforge.artha.Artha"
     ],
     "org.cgu.progs.efax_gtk": [
         "net.sourceforge.efaxgtk"

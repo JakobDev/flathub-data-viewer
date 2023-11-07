@@ -144,6 +144,7 @@
     "org.gnunet.Messenger",
     "org.godotengine.Godot",
     "org.godotengine.Godot3",
+    "org.godotengine.GodotSharp",
     "org.hdfgroup.HDFView",
     "org.hedgewars.Hedgewars",
     "org.hydrogenmusic.Hydrogen",

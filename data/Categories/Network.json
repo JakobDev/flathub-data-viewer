@@ -2,6 +2,7 @@
     "app.bbsync.BlackboardSync",
     "app.bluebubbles.BlueBubbles",
     "app.drey.Dialect",
+    "app.kaiteki.Kaiteki",
     "app.lith.Lith",
     "app.moosync.moosync",
     "app.riftshare.RiftShare",

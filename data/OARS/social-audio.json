@@ -1,4 +1,18 @@
 {
+    "moderate": [
+        "app.kaiteki.Kaiteki",
+        "codes.nora.gDiceRoller",
+        "dev.geopjr.Tuba",
+        "io.freetubeapp.FreeTube",
+        "io.github.sharkwouter.Minigalaxy",
+        "io.github.vinegarhq.Vinegar",
+        "net.brinkervii.grapejuice",
+        "net.gaijin.WarThunder",
+        "org.gnome.Fractal",
+        "org.gnome.gThumb",
+        "org.jitsi.jitsi-meet",
+        "org.kde.ruqola"
+    ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",
         "au.edu.uq.esys.escript",
@@ -263,6 +277,7 @@
         "io.github.ezQuake",
         "io.github.hakuneko.HakuNeko",
         "io.github.kotatogram",
+        "io.github.maddecoder.Classic-RBDOOM-3-BFG",
         "io.github.mimbrero.WhatsAppDesktop",
         "io.github.qtox.qTox",
         "io.github.spacingbat3.webcord",
@@ -289,18 +304,5 @@
         "us.zoom.Zoom",
         "xyz.armcord.ArmCord",
         "xyz.mx_moment.moment"
-    ],
-    "moderate": [
-        "codes.nora.gDiceRoller",
-        "dev.geopjr.Tuba",
-        "io.freetubeapp.FreeTube",
-        "io.github.sharkwouter.Minigalaxy",
-        "io.github.vinegarhq.Vinegar",
-        "net.brinkervii.grapejuice",
-        "net.gaijin.WarThunder",
-        "org.gnome.Fractal",
-        "org.gnome.gThumb",
-        "org.jitsi.jitsi-meet",
-        "org.kde.ruqola"
     ]
 }

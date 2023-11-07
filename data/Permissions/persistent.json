@@ -348,6 +348,9 @@
     ".lzncache": [
         "io.github.ktgw0316.LightZone"
     ],
+    ".doombfa": [
+        "io.github.maddecoder.Classic-RBDOOM-3-BFG"
+    ],
     ".config/starfighter": [
         "io.github.pr_starfighter.starfighter"
     ],
