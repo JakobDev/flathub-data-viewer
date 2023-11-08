@@ -2247,6 +2247,7 @@
         "com.github.quaternion",
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
+        "com.nextcloud.desktopclient.nextcloud",
         "com.opera.Opera",
         "org.chromium.Chromium",
         "org.cryptomator.Cryptomator",

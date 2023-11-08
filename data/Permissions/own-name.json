@@ -148,6 +148,9 @@
     "org.mpris.mediaplayer2.netease-cloud-music": [
         "com.netease.CloudMusic"
     ],
+    "com.nextcloudgmbh.nextcloud": [
+        "com.nextcloud.desktopclient.nextcloud"
+    ],
     "org.kde.statusnotifieritem-2-2": [
         "com.obsproject.Studio",
         "org.clementine_player.Clementine"

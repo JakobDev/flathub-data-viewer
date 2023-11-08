@@ -2963,12 +2963,6 @@
         "org.bluesabre.MenuLibre",
         "page.codeberg.JakobDev.jdMinecraftLauncher"
     ],
-    "/dev/log": [
-        "com.github.eneshecan.WhatsAppForLinux"
-    ],
-    "/var/run/syslog": [
-        "com.github.eneshecan.WhatsAppForLinux"
-    ],
     "/var/tmp": [
         "com.github.ilai_deutel.kibi",
         "com.helix_editor.Helix",
@@ -3971,6 +3965,9 @@
     ],
     "~/.elc:create": [
         "org.pjbroad.EternallandsClient"
+    ],
+    "~/.ftba:ro": [
+        "org.prismlauncher.PrismLauncher"
     ],
     "xdg-run/discord-ipc-0:create": [
         "org.skytemple.SkyTemple"

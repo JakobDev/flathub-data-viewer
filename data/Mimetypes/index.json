@@ -1608,6 +1608,7 @@
         "x-scheme-handler{SLASH}com.googleusercontent.apps.",
         "x-scheme-handler{SLASH}com.todoist",
         "x-scheme-handler{SLASH}communique",
+        "x-scheme-handler{SLASH}curseforge",
         "x-scheme-handler{SLASH}dash",
         "x-scheme-handler{SLASH}dash-plugin",
         "x-scheme-handler{SLASH}dashpay",
