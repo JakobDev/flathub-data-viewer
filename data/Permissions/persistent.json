@@ -639,6 +639,9 @@
         "org.srb2.SRB2Kart-galaxy_azerty",
         "org.srb2.SRB2Kart"
     ],
+    "Documents": [
+        "org.standardnotes.standardnotes"
+    ],
     "Standard Notes Backups": [
         "org.standardnotes.standardnotes"
     ],

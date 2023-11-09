@@ -1383,7 +1383,6 @@
         "org.scummvm.ScummVM",
         "org.sdrangel.SDRangel",
         "org.soapui.SoapUI",
-        "org.standardnotes.standardnotes",
         "org.winehq.Wine",
         "org.xnec2c.Xnec2c",
         "org.zaproxy.ZAP",
@@ -2213,7 +2212,6 @@
         "org.apache.netbeans",
         "org.gnome.Builder",
         "org.gnome.gitg",
-        "org.standardnotes.standardnotes",
         "org.tabos.roger",
         "so.libdb.gtkcord4"
     ],
