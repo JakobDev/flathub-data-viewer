@@ -22,6 +22,7 @@
     "moderate": [
         "app.kaiteki.Kaiteki",
         "com.dropbox.Client",
+        "com.gamestarmechanic.gamestarmechanic",
         "com.netease.CloudMusic",
         "com.wiz.Note",
         "dev.geopjr.Tuba",

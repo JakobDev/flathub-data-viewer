@@ -55,6 +55,7 @@
         "net.sourceforge.mars-game",
         "net.unvanquished.Unvanquished",
         "net.veloren.airshipper",
+        "net.wz2100.wz2100",
         "org._2006Scape.Launcher",
         "org._2009scape.Launcher",
         "org.alienarena.alienarena",
@@ -332,6 +333,7 @@
     ],
     "mild": [
         "com.coeck_studios.Dinonuggys-Journey",
+        "com.gamestarmechanic.gamestarmechanic",
         "com.github.rkoesters.xkcd-gtk",
         "com.github.tmewett.BrogueCE",
         "com.roguetemple.HyperRogue",
