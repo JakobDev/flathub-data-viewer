@@ -1,6 +1,7 @@
 [
     "com.gitlab.coringao.cavestory-nx",
     "net.redeclipse.RedEclipse",
+    "org.dupot.beatmatchtopass",
     "org.opensurge2d.OpenSurge",
     "uk.co.parallelrealities.games.edgar"
 ]

@@ -8,8 +8,6 @@
         "com.agateau.nanonote",
         "com.borgbase.Vorta",
         "com.cuperino.qprompt",
-        "com.darhon.drfinance",
-        "com.darhon.syncbackup",
         "com.flashforge.FlashPrint",
         "com.georgefb.mangareader",
         "com.github.Bleuzen.FFaudioConverter",
@@ -375,21 +373,9 @@
         "org.shadowsocks.qt5client",
         "org.tomviz.Tomviz"
     ],
-    "5.14": [
-        "com.dhsdevelopments.Climaxima",
-        "com.itopia.client",
-        "com.ktechpit.wonderwall",
-        "eu.ototu.Quteqoin",
-        "io.github.hermitdemschoenenleben.linien",
-        "io.github.qnapi",
-        "io.github.technic.e2designer",
-        "io.gitlab.o20.word",
-        "org.dust3d.dust3d",
-        "org.eyecreate.vehiclevoyage",
-        "org.gnode.NixView",
-        "org.guerinoni.qTsConverter"
-    ],
     "5.15-23.08": [
+        "com.darhon.drfinance",
+        "com.darhon.syncbackup",
         "com.dreamsourcelab.DSView",
         "com.github._4lex4.ScanTailor-Advanced",
         "com.github.arminstraub.krop",
@@ -559,6 +545,20 @@
         "ua.org.brezblock.q4wine",
         "website.i2pd.i2pd",
         "xyz.z3ntu.razergenie"
+    ],
+    "5.14": [
+        "com.dhsdevelopments.Climaxima",
+        "com.itopia.client",
+        "com.ktechpit.wonderwall",
+        "eu.ototu.Quteqoin",
+        "io.github.hermitdemschoenenleben.linien",
+        "io.github.qnapi",
+        "io.github.technic.e2designer",
+        "io.gitlab.o20.word",
+        "org.dust3d.dust3d",
+        "org.eyecreate.vehiclevoyage",
+        "org.gnode.NixView",
+        "org.guerinoni.qTsConverter"
     ],
     "6.6": [
         "com.github.Rosalie241.RMG",
