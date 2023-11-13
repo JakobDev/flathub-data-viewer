@@ -1,6 +1,7 @@
 [
     "app.bluebubbles.BlueBubbles",
     "app.cantara.Cantara",
+    "app.drey.Biblioteca",
     "app.drey.EarTag",
     "app.drey.Warp",
     "app.feeddeck.feeddeck",
@@ -22,6 +23,7 @@
     "com.heroicgameslauncher.hgl",
     "com.inform7.IDE",
     "com.inochi2d.inochi-creator",
+    "com.invoiceninja.InvoiceNinja",
     "com.orama_interactive.Pixelorama",
     "com.protonvpn.www",
     "com.q3rally.Q3Rally",
@@ -67,6 +69,7 @@
     "io.github.huderlem.porymap",
     "io.github.ihhub.Fheroes2",
     "io.github.java_decompiler.jd-gui",
+    "io.github.jorchube.monitorets",
     "io.github.lainsce.Khronos",
     "io.github.listen1.Listen1",
     "io.github.loot.loot",

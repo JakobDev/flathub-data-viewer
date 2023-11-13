@@ -1,5 +1,6 @@
 [
     "app.cantara.Cantara",
+    "app.drey.Biblioteca",
     "app.drey.Blurble",
     "app.drey.Dialect",
     "app.drey.EarTag",

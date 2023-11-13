@@ -151,10 +151,6 @@
     "com.nextcloudgmbh.nextcloud": [
         "com.nextcloud.desktopclient.nextcloud"
     ],
-    "org.kde.statusnotifieritem-2-2": [
-        "com.obsproject.Studio",
-        "org.clementine_player.Clementine"
-    ],
     "org.mpris.mediaplayer2.plexamp": [
         "com.plexamp.Plexamp"
     ],
@@ -308,6 +304,9 @@
     ],
     "org.gnome.bleachbit": [
         "org.bleachbit.BleachBit"
+    ],
+    "org.kde.statusnotifieritem-2-2": [
+        "org.clementine_player.Clementine"
     ],
     "org.mpris.mediaplayer2.clementine": [
         "org.clementine_player.Clementine"

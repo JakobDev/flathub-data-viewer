@@ -1472,6 +1472,7 @@
         "app.authpass.AuthPass",
         "app.bluebubbles.BlueBubbles",
         "app.cantara.Cantara",
+        "app.drey.Biblioteca",
         "app.drey.Blurble",
         "app.drey.Damask",
         "app.drey.Dialect",
