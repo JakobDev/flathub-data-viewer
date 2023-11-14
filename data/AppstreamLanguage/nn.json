@@ -1,6 +1,5 @@
 [
     "com.belmoussaoui.Authenticator",
-    "com.github.johnfactotum.Foliate",
     "com.mattjakeman.ExtensionManager",
     "com.transmissionbt.Transmission",
     "fr.romainvigier.MetadataCleaner",

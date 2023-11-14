@@ -2697,6 +2697,7 @@
     ],
     "xdg-run/speech-dispatcher:ro": [
         "com.calibre_ebook.calibre",
+        "com.github.johnfactotum.Foliate",
         "org.mozilla.Thunderbird"
     ],
     "xdg-data/Trash": [
@@ -3159,7 +3160,7 @@
     "~/.local/share/OuterWildsModManager": [
         "com.outerwildsmods.owmods_gui"
     ],
-    "~/.cert/nm-openvpn:create": [
+    "~/.cert/nm-openvpn": [
         "com.protonvpn.www"
     ],
     "~/.renpy:create": [
