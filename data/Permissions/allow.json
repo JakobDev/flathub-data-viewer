@@ -81,6 +81,7 @@
         "xyz.hyperplay.HyperPlay"
     ],
     "bluetooth": [
+        "com.blitterstudio.amiberry",
         "com.github.Matoking.protontricks",
         "com.github.theironrobin.siglo",
         "com.oppzippy.OpenSCQ30",
