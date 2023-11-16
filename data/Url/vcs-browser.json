@@ -140,6 +140,7 @@
     "org.getoutline.OutlineManager",
     "org.gnome.Calendar",
     "org.gnome.DejaDup",
+    "org.gnome.Loupe",
     "org.gnome.Podcasts",
     "org.gnome.Polari",
     "org.gnome.SimpleScan",

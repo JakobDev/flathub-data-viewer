@@ -5,6 +5,7 @@
     "23.08": [
         "com.axosoft.GitKraken",
         "com.chez.GrafX2",
+        "com.gitfiend.GitFiend",
         "com.helix_editor.Helix",
         "com.jetbrains.DataGrip",
         "com.jetbrains.IntelliJ-IDEA-Community",
@@ -27,7 +28,6 @@
         "org.thonny.Thonny"
     ],
     "22.08": [
-        "com.gitfiend.GitFiend",
         "com.google.AndroidStudio",
         "com.jetbrains.CLion",
         "com.jetbrains.GoLand",
