@@ -277,7 +277,6 @@
     "re.sonny.Commit",
     "re.sonny.Junction",
     "re.sonny.Tangram",
-    "re.sonny.Workbench",
     "sm.puri.Chatty",
     "com.hack_computer.Clippy.Extension",
     "com.valvesoftware.Steam.CompatibilityTool.Boxtron",

@@ -1,4 +1,5 @@
 [
     "com.gitlab.librebob.Athenaeum",
-    "com.valvesoftware.Steam"
+    "com.valvesoftware.Steam",
+    "la.ogri.strongbox"
 ]

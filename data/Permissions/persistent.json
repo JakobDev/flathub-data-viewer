@@ -340,6 +340,9 @@
     ".config/clash": [
         "io.github.Fndroid.clash_for_windows"
     ],
+    ".config/kikoplay": [
+        "io.github.KikoPlayProject.KikoPlay"
+    ],
     ".wineprefixes": [
         "io.github.aggalex.Wineglass"
     ],

@@ -458,7 +458,6 @@
     "re.sonny.Commit",
     "re.sonny.Junction",
     "re.sonny.Tangram",
-    "re.sonny.Workbench",
     "ro.hume.cosmin.ShoppingList",
     "sm.puri.Chatty",
     "xyz.ketok.Speedtest",

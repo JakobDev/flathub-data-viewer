@@ -531,6 +531,7 @@
         "io.gdevs.GDLauncher",
         "io.github.Hexchat",
         "io.github.Icalingua.Icalingua",
+        "io.github.KikoPlayProject.KikoPlay",
         "io.github.TransmissionRemoteGtk",
         "io.github.aggalex.Wineglass",
         "io.github.fastrizwaan.WineZGUI",
@@ -779,6 +780,7 @@
         "io.github.Cockatrice.cockatrice",
         "io.github.JaGoLi.ytdl_gui",
         "io.github.JakubMelka.Pdf4qt",
+        "io.github.KikoPlayProject.KikoPlay",
         "io.github.NhekoReborn.Nheko",
         "io.github.OpenToonz",
         "io.github.Qalculate.qalculate-qt",
@@ -1549,6 +1551,7 @@
         "io.posidon.Paper",
         "io.qt.QtCreator",
         "io.typora.Typora",
+        "la.ogri.strongbox",
         "me.kozec.syncthingtk",
         "media.emby.EmbyServer",
         "net.blumia.pineapple-pictures",
@@ -2318,6 +2321,7 @@
         "com.viber.Viber",
         "com.wps.Office",
         "dev.vieb.Vieb",
+        "io.github.KikoPlayProject.KikoPlay",
         "io.github.aggalex.Wineglass",
         "io.github.fastrizwaan.WineZGUI",
         "io.github.qnapi",
@@ -3267,6 +3271,9 @@
         "net.retrodeck.retrodeck",
         "org.ferdium.Ferdium",
         "org.ryujinx.Ryujinx"
+    ],
+    "xdg-pictures/Vivaldi Captures:create": [
+        "com.vivaldi.Vivaldi"
     ],
     "~/.var/app/com.usebottles.bottles/data/bottles": [
         "com.vysp3r.ProtonPlus"

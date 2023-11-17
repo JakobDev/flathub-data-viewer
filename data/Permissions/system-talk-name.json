@@ -47,6 +47,7 @@
         "com.skype.Client",
         "com.slack.Slack",
         "com.toggl.TogglDesktop",
+        "com.unity.UnityHub",
         "com.visualstudio.code",
         "com.vscodium.codium",
         "de.schmidhuberj.Flare",
