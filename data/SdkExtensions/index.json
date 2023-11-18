@@ -7,6 +7,7 @@
         "org.freedesktop.Sdk.Extension.dmd",
         "org.freedesktop.Sdk.Extension.dotnet6",
         "org.freedesktop.Sdk.Extension.dotnet7",
+        "org.freedesktop.Sdk.Extension.dotnet8",
         "org.freedesktop.Sdk.Extension.freepascal",
         "org.freedesktop.Sdk.Extension.golang",
         "org.freedesktop.Sdk.Extension.ldc",

@@ -5,8 +5,5 @@
     "com.slugchess.SlugChess",
     "com.spacestation14.Launcher",
     "org.godotengine.GodotSharp",
-    "org.nickvision.cavalier",
-    "org.nickvision.money",
-    "org.nickvision.tagger",
-    "org.nickvision.tubeconverter"
+    "org.nickvision.tagger"
 ]

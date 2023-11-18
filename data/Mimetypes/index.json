@@ -1464,6 +1464,7 @@
         "text{SLASH}x-tex",
         "text{SLASH}x-tmplayer",
         "text{SLASH}x-tmplayer+",
+        "text{SLASH}x-uri",
         "text{SLASH}x-uuencode",
         "text{SLASH}x-vala",
         "text{SLASH}x-vcard",

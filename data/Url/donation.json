@@ -314,6 +314,7 @@
     "org.apache.directory.studio",
     "org.apache.jmeter",
     "org.apache.netbeans",
+    "org.b3log.siyuan",
     "org.bionus.Grabber",
     "org.bleachbit.BleachBit",
     "org.blender.Blender",
