@@ -1,5 +1,4 @@
 [
-    "app.drey.Dialect",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -35,6 +34,7 @@
     "io.github.quodlibet.QuodLibet",
     "io.github.realmazharhussain.GdmSettings",
     "io.github.seadve.Kooha",
+    "io.github.seadve.Mousai",
     "io.github.webcamoid.Webcamoid",
     "io.gitlab.news_flash.NewsFlash",
     "io.missioncenter.MissionCenter",

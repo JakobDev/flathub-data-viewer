@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -22,6 +23,7 @@
     "im.dino.Dino",
     "im.pidgin.Pidgin",
     "io.github.NhekoReborn.Nheko",
+    "io.github.seadve.Mousai",
     "io.otsaloma.nfoview",
     "net.minetest.Minetest",
     "net.poedit.Poedit",

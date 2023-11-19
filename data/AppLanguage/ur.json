@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "fr.romainvigier.MetadataCleaner",
     "im.pidgin.Pidgin",
     "io.github.realmazharhussain.GdmSettings",
