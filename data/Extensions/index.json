@@ -15,6 +15,7 @@
         "org.freedesktop.LinuxAudio.Plugins.Guitarix",
         "org.freedesktop.LinuxAudio.Plugins.LSP",
         "org.freedesktop.LinuxAudio.Plugins.MDA",
+        "org.freedesktop.LinuxAudio.Plugins.Odin2",
         "org.freedesktop.LinuxAudio.Plugins.SonoBus",
         "org.freedesktop.LinuxAudio.Plugins.Stochas",
         "org.freedesktop.LinuxAudio.Plugins.Surge-XT",

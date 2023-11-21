@@ -241,6 +241,7 @@
     "org.freedesktop.LinuxAudio.Plugins.NeuralAmpModeler",
     "org.freedesktop.LinuxAudio.Plugins.Ninjas2",
     "org.freedesktop.LinuxAudio.Plugins.OBXd",
+    "org.freedesktop.LinuxAudio.Plugins.Odin2",
     "org.freedesktop.LinuxAudio.Plugins.SoSynthLV2",
     "org.freedesktop.LinuxAudio.Plugins.SonoBus",
     "org.freedesktop.LinuxAudio.Plugins.Sorcer",

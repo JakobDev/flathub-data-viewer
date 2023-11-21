@@ -29,6 +29,7 @@
     ],
     "5.15-23.08": [
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
+        "io.github.foldynl.QLog",
         "io.github.martinrotter.rssguard",
         "net.sonic_pi.SonicPi",
         "net.sourceforge.qtpfsgui.LuminanceHDR",

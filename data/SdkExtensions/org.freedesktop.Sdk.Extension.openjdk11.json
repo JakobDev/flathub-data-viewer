@@ -20,6 +20,7 @@
     "fr.inria.corese.CoreseCommand",
     "fr.inria.corese.CoreseGui",
     "io.conduktor.Conduktor",
+    "io.github.MakovWait.Godots",
     "io.github.am2r_community_developers.AM2RLauncher",
     "io.github.am2r_community_developers.Atomic",
     "io.github.hvdwofl.jExifToolGUI",

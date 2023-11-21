@@ -204,6 +204,7 @@
     ],
     "org.freedesktop.secrets": [
         "io.enpass.Enpass",
+        "io.github.foldynl.QLog",
         "org.keepassxc.KeePassXC"
     ],
     "org.mpris.mediaplayer2.freetube": [

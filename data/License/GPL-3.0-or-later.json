@@ -111,6 +111,7 @@
     "com.sireliah.Dragit",
     "com.solvespace.SolveSpace",
     "com.supermodel3.Supermodel",
+    "com.thewavewarden.Odin2",
     "com.tomjwatson.Emote",
     "com.vicr123.thebeat",
     "com.vysp3r.ProtonPlus",
@@ -175,6 +176,7 @@
     "io.github.fabrialberio.pinapp",
     "io.github.fastrizwaan.WineZGUI",
     "io.github.ferraridamiano.ConverterNOW",
+    "io.github.foldynl.QLog",
     "io.github.helpseeker.Gyre",
     "io.github.idevecore.CurrencyConverter",
     "io.github.jacalz.rymdport",
@@ -546,5 +548,6 @@
     "com.github.unrud.djpdf.OCR.Vie",
     "com.github.unrud.djpdf.OCR.Yid",
     "com.github.unrud.djpdf.OCR.Yor",
-    "org.freedesktop.LinuxAudio.Plugins.Cardinal"
+    "org.freedesktop.LinuxAudio.Plugins.Cardinal",
+    "org.freedesktop.LinuxAudio.Plugins.Odin2"
 ]

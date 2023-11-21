@@ -48,6 +48,7 @@
     "net.supertuxkart.SuperTuxKart",
     "nl.hjdskes.gcolor3",
     "org.ardour.Ardour",
+    "org.freedesktop.appstream.cli",
     "org.gabmus.gfeeds",
     "org.gabmus.giara",
     "org.gimp.GIMP",

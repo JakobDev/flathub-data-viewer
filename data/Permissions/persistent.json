@@ -246,6 +246,9 @@
     ".minecraft-pi": [
         "com.thebrokenrail.MCPIReborn"
     ],
+    ".local/share/odin2": [
+        "com.thewavewarden.Odin2"
+    ],
     ".tuxmath": [
         "com.tux4kids.tuxmath"
     ],

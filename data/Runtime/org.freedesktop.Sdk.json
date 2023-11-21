@@ -17,6 +17,7 @@
         "com.sublimemerge.App",
         "com.synology.SynologyDrive",
         "com.vscodium.codium",
+        "io.github.MakovWait.Godots",
         "io.github.everestapi.Olympus",
         "io.github.sigmasd.IRust",
         "io.neovim.nvim",
