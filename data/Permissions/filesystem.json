@@ -4081,6 +4081,9 @@
     "~/.osu:ro": [
         "sh.ppy.osu"
     ],
+    "~/.purple": [
+        "sm.puri.Chatty"
+    ],
     "~/.prefs:create": [
         "uk.co.electronstudio.ComicReaderUltimate"
     ],

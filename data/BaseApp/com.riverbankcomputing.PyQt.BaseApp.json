@@ -19,7 +19,8 @@
         "io.github.julian_hochhaus.LG4X_V2",
         "net.sourceforge.scidavis",
         "org.frescobaldi.Frescobaldi",
-        "org.pymol.PyMOL"
+        "org.pymol.PyMOL",
+        "org.qgis.qgis"
     ],
     "6.5": [
         "com.rtosta.zapzap",

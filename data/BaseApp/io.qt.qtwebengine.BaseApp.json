@@ -48,11 +48,8 @@
         "org.sdrangel.SDRangel",
         "org.yuzu_emu.yuzu"
     ],
-    "6.5": [
-        "com.riverbankcomputing.PyQt.BaseApp",
-        "io.github.xiaoyifang.goldendict_ng",
-        "io.mrarm.mcpelauncher",
-        "net.jami.Jami"
+    "6.6": [
+        "com.riverbankcomputing.PyQt.BaseApp"
     ],
     "5.15": [
         "com.wiz.Note",
@@ -61,6 +58,11 @@
     ],
     "6.2": [
         "dev.lukebriggs.pepys"
+    ],
+    "6.5": [
+        "io.github.xiaoyifang.goldendict_ng",
+        "io.mrarm.mcpelauncher",
+        "net.jami.Jami"
     ],
     "6.4": [
         "org.jaspstats.JASP"

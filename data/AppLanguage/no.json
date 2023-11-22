@@ -1,7 +1,6 @@
 [
     "com.github.xournalpp.xournalpp",
     "de.manuel_kehl.go-for-it",
-    "fr.handbrake.ghb",
     "io.neovim.nvim",
     "org.gottcode.Kapow",
     "org.midori_browser.Midori"

@@ -10,7 +10,6 @@
         "org.goldendict.GoldenDict",
         "org.kde.umbrello",
         "org.openshot.OpenShot",
-        "org.qgis.qgis",
         "org.subsurface_divelog.Subsurface"
     ],
     "5.15": [
