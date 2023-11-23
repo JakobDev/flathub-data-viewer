@@ -257,6 +257,7 @@
     "org.freedesktop.LinuxAudio.Plugins.ZamPlugins",
     "org.freedesktop.LinuxAudio.Plugins.ZynFusion",
     "org.freedesktop.LinuxAudio.Plugins.gmsynth",
+    "org.freedesktop.LinuxAudio.Plugins.jc303",
     "org.freedesktop.LinuxAudio.Plugins.master_me",
     "org.freedesktop.LinuxAudio.Plugins.reMID-lv2",
     "org.freedesktop.LinuxAudio.Plugins.setBfree",

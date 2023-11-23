@@ -31,6 +31,7 @@
         "com.belmoussaoui.snowglobe",
         "com.bladecoder.adventure-editor",
         "com.brosix.Brosix",
+        "com.cburch.Logisim",
         "com.chez.GrafX2",
         "com.codemouse92.timecard",
         "com.dosbox_x.DOSBox-X",
@@ -1602,7 +1603,6 @@
         "org.free_astro.siril",
         "org.freecadweb.FreeCAD",
         "org.freedesktop.Bustle",
-        "org.freedesktop.GstDebugViewer",
         "org.freedesktop.adriconf",
         "org.freedesktop.appstream-glib",
         "org.freedesktop.appstream.cli",
@@ -1758,6 +1758,7 @@
         "org.gnome.SoundJuicer",
         "org.kde.juk",
         "org.kde.kid3",
+        "org.milkytracker.MilkyTracker",
         "org.mixxx.Mixxx",
         "org.mpdevil.mpdevil",
         "org.musicbrainz.Picard",
@@ -1916,6 +1917,7 @@
         "com.github.Anuken.Mindustry",
         "com.github.taiko2k.tauonmb",
         "com.heroicgameslauncher.hgl",
+        "com.jetbrains.CLion",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.mastermindzh.tidal-hifi",
@@ -2106,6 +2108,7 @@
         "net.rpcs3.RPCS3",
         "org.cubocore.CoreHunt",
         "org.ferdium.Ferdium",
+        "org.freedesktop.GstDebugViewer",
         "org.gabmus.hydrapaper",
         "org.gnode.NixView",
         "org.gnome.Evince",
@@ -2154,7 +2157,6 @@
         "org.bluej.BlueJ",
         "org.eclipse.iot.fourdiac.Ide",
         "org.freac.freac",
-        "org.freedesktop.GstDebugViewer",
         "org.gabmus.hydrapaper",
         "org.gabmus.unifydmin",
         "org.gnome.Boxes",
@@ -2187,7 +2189,6 @@
         "nl.g4d.Girens",
         "org.bluej.BlueJ",
         "org.freac.freac",
-        "org.freedesktop.GstDebugViewer",
         "org.gabmus.hydrapaper",
         "org.gabmus.unifydmin",
         "org.gnome.Boxes",
@@ -2821,6 +2822,7 @@
     ],
     "xdg-run/gnupg:ro": [
         "com.gitfiend.GitFiend",
+        "com.jetbrains.CLion",
         "com.jetbrains.DataGrip",
         "com.jetbrains.GoLand",
         "com.jetbrains.IntelliJ-IDEA-Community",
@@ -3150,9 +3152,11 @@
         "com.inform7.IDE"
     ],
     "xdg-run/docker": [
+        "com.jetbrains.CLion",
         "com.jetbrains.IntelliJ-IDEA-Ultimate"
     ],
     "xdg-run/podman": [
+        "com.jetbrains.CLion",
         "com.jetbrains.IntelliJ-IDEA-Ultimate"
     ],
     "xdg-run/gnupg": [

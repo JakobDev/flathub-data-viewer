@@ -10,10 +10,10 @@
     "5.15": [
         "io.github.dman95.SASM"
     ],
-    "5.15-22.08": [
+    "5.15-23.08": [
         "io.github.veusz.Veusz",
-        "org.octave.Octave",
-        "org.paraview.ParaView"
+        "org.kde.kcachegrind",
+        "org.kde.kdevelop"
     ],
     "6.6": [
         "io.qt.Designer",
@@ -21,8 +21,8 @@
         "io.qt.qdbusviewer",
         "page.codeberg.JakobDev.jdTextEdit"
     ],
-    "5.15-23.08": [
-        "org.kde.kcachegrind",
-        "org.kde.kdevelop"
+    "5.15-22.08": [
+        "org.octave.Octave",
+        "org.paraview.ParaView"
     ]
 }

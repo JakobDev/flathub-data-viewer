@@ -220,6 +220,7 @@
         "com.icanblink.blink",
         "com.interversehq.qView",
         "com.itopia.client",
+        "com.jetbrains.CLion",
         "com.jetbrains.DataGrip",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
@@ -2128,7 +2129,6 @@
         "org.filezillaproject.Filezilla",
         "org.firestormviewer.FirestormViewer",
         "org.flameshot.Flameshot",
-        "org.freedesktop.GstDebugViewer",
         "org.freedownloadmanager.Manager",
         "org.gajim.Gajim",
         "org.getoutline.OutlineClient",
@@ -2325,7 +2325,6 @@
         "nl.g4d.Girens",
         "org.bluej.BlueJ",
         "org.freac.freac",
-        "org.freedesktop.GstDebugViewer",
         "org.gabmus.hydrapaper",
         "org.gabmus.unifydmin",
         "org.gnome.Boxes",
@@ -3033,6 +3032,7 @@
         "com.hack_computer.Sidetrack"
     ],
     "org.gnome.keyring.systemprompter": [
+        "com.jetbrains.CLion",
         "com.jetbrains.DataGrip",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
