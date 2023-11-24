@@ -2919,8 +2919,7 @@
     "org.gnome.shell.screencast": [
         "com.github.amikha1lov.RecApp",
         "com.qq.QQ",
-        "com.uploadedlobster.peek",
-        "sa.sy.bluerecorder"
+        "com.uploadedlobster.peek"
     ],
     "org.mpris.mediaplayer2": [
         "com.github.artemanufrij.playmymusic",
@@ -3353,6 +3352,9 @@
     ],
     "org.x.statusiconmonitor.*": [
         "org.x.Warpinator"
+    ],
+    "org.freedesktop.portal.screencast": [
+        "sa.sy.bluerecorder"
     ],
     "org.razer": [
         "xyz.z3ntu.razergenie"

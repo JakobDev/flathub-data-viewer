@@ -6,6 +6,5 @@
     "org.cloudcompare.CloudCompare",
     "org.kde.kdenlive",
     "org.kde.umbrello",
-    "sa.sy.bluerecorder",
     "org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime"
 ]
