@@ -17,6 +17,7 @@
     "org.d3cod3.Mosaic",
     "org.duckstation.DuckStation",
     "org.gnome.Builder",
+    "org.gnome.Fractal",
     "org.gnome.Loupe",
     "org.jellyfin.JellyfinServer",
     "org.kde.kdevelop",

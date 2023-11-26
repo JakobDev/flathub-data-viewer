@@ -662,6 +662,7 @@
     "io.edcd.EDMarketConnector",
     "io.emeric.toolblex",
     "io.emeric.watchflower",
+    "io.frama.tractor.carburetor",
     "io.freetubeapp.FreeTube",
     "io.github.Arisotura.CoinKiller",
     "io.github.Bavarder.Bavarder",

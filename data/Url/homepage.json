@@ -901,6 +901,7 @@
     "io.emeric.watchflower",
     "io.enpass.Enpass",
     "io.exodus.Exodus",
+    "io.frama.tractor.carburetor",
     "io.freetubeapp.FreeTube",
     "io.gdevelop.ide",
     "io.gdevs.GDLauncher",

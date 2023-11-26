@@ -8,7 +8,6 @@
         "io.github.vinegarhq.Vinegar",
         "net.brinkervii.grapejuice",
         "net.gaijin.WarThunder",
-        "org.gnome.Fractal",
         "org.gnome.gThumb",
         "org.jitsi.jitsi-meet",
         "org.kde.ruqola"
@@ -292,6 +291,7 @@
         "org.ferdium.Ferdium",
         "org.firestormviewer.FirestormViewer",
         "org.gajim.Gajim",
+        "org.gnome.Fractal",
         "org.ioquake3.ioquake3",
         "org.jacktrip.JackTrip",
         "org.phoenicis.playonlinux",

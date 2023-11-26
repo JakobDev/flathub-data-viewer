@@ -130,6 +130,7 @@
     "org.getoutline.OutlineClient",
     "org.getoutline.OutlineManager",
     "org.gnome.DejaDup",
+    "org.gnome.Fractal",
     "org.gnome.World.PikaBackup",
     "org.gnu.emacs",
     "org.gnunet.Messenger",

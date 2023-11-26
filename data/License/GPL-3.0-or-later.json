@@ -147,6 +147,7 @@
     "info.febvre.Komikku",
     "info.puredata.Pd-extended",
     "io.bassi.Amberol",
+    "io.frama.tractor.carburetor",
     "io.github.Bavarder.Bavarder",
     "io.github.FailurePoint.RandomNumberFive",
     "io.github.Foldex.AdwSteamGtk",
