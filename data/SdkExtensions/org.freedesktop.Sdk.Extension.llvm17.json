@@ -3,5 +3,6 @@
     "net.pcsx2.PCSX2",
     "net.rpcs3.RPCS3",
     "org.citra_emu.citra",
+    "org.cloudcompare.CloudCompare",
     "org.fkoehler.KTailctl"
 ]
