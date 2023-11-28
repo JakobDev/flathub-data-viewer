@@ -96,7 +96,6 @@
     ],
     "21.08": [
         "app.ytmdesktop.ytmdesktop",
-        "ar.com.pilas_engine.App",
         "com.basemark.BasemarkGPU",
         "com.emqx.MQTTX",
         "com.github._0negal.Viper",
@@ -121,6 +120,7 @@
         "ro.go.hmlendea.DL-Desktop"
     ],
     "23.08": [
+        "ar.com.pilas_engine.App",
         "cc.arduino.IDE2",
         "ch.threema.threema-web-desktop",
         "com.axosoft.GitKraken",
