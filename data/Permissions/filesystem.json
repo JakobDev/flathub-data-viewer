@@ -535,6 +535,7 @@
         "io.github.TransmissionRemoteGtk",
         "io.github.aggalex.Wineglass",
         "io.github.fastrizwaan.WineZGUI",
+        "io.github.giantpinkrobots.varia",
         "io.github.hvdwofl.jExifToolGUI",
         "io.github.jacalz.rymdport",
         "io.github.kotatogram",
@@ -964,6 +965,7 @@
         "org.dust3d.dust3d",
         "org.easycoding.TunedSwitcher",
         "org.electrum.electrum",
+        "org.emptyflow.ArdorQuery",
         "org.equeim.Tremotesf",
         "org.eu.encom.spectral",
         "org.eyecreate.qiflora",
@@ -1345,7 +1347,6 @@
         "io.github.chris2511.xca",
         "io.github.dman95.SASM",
         "io.github.fastrizwaan.WineZGUI",
-        "io.github.glitterware.Passy",
         "io.github.jordanl2.ModularCalculator",
         "io.github.kaschpal.timetable",
         "io.github.mideb.digitales_register",
@@ -1592,6 +1593,7 @@
         "org.eclipse.Java",
         "org.eclipse.Javascript",
         "org.eclipse.iot.fourdiac.Ide",
+        "org.emptyflow.ArdorQuery",
         "org.fedoraproject.MediaWriter",
         "org.filezillaproject.Filezilla",
         "org.flameshot.Flameshot",
@@ -1943,6 +1945,7 @@
         "org.srb2.SRB2Kart-galaxy",
         "org.srb2.SRB2Kart-galaxy_azerty",
         "org.srb2.SRB2Kart",
+        "org.vinegarhq.Vinegar",
         "sh.cider.Cider",
         "sh.ppy.osu",
         "xyz.hyperplay.HyperPlay"
@@ -3475,22 +3478,28 @@
         "org.freedesktop.appstream-glib",
         "org.freedesktop.appstream.cli"
     ],
-    "~/Documents": [
+    "~/Documents/Passy": [
         "io.github.glitterware.Passy"
     ],
-    "~/.mozilla/native-messaging-hosts": [
+    "~/Passy:create": [
         "io.github.glitterware.Passy"
     ],
-    "~/.config/microsoft-edge/NativeMessagingHosts": [
+    "~/.config/BraveSoftware/Brave-Browser/NativeMessagingHosts:create": [
         "io.github.glitterware.Passy"
     ],
-    "~/.config/chromium/NativeMessagingHosts": [
+    "~/.mozilla/native-messaging-hosts:create": [
         "io.github.glitterware.Passy"
     ],
-    "~/.config/google-chrome/NativeMessagingHosts": [
+    "xdg-documents/Passy:create": [
         "io.github.glitterware.Passy"
     ],
-    "~/.config/BraveSoftware/Brave-Browser/NativeMessagingHosts": [
+    "~/.config/microsoft-edge/NativeMessagingHosts:create": [
+        "io.github.glitterware.Passy"
+    ],
+    "~/.config/google-chrome/NativeMessagingHosts:create": [
+        "io.github.glitterware.Passy"
+    ],
+    "~/.config/chromium/NativeMessagingHosts:create": [
         "io.github.glitterware.Passy"
     ],
     "~/coyotetm": [

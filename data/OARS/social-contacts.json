@@ -57,6 +57,7 @@
         "org.signal.Signal",
         "org.syphon.Syphon",
         "org.telegram",
+        "org.vinegarhq.Vinegar",
         "se.manyver.Manyverse",
         "so.libdb.gtkcord4",
         "us.ihmc.cmap.CmapTools",

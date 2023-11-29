@@ -49,7 +49,8 @@
         "org.yuzu_emu.yuzu"
     ],
     "6.6": [
-        "com.riverbankcomputing.PyQt.BaseApp"
+        "com.riverbankcomputing.PyQt.BaseApp",
+        "org.jacktrip.JackTrip"
     ],
     "5.15": [
         "com.wiz.Note",

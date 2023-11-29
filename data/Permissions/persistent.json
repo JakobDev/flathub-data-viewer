@@ -342,6 +342,12 @@
     ".config/clash": [
         "io.github.Fndroid.clash_for_windows"
     ],
+    "jEveAssets_mnt": [
+        "io.github.GoldenGnu.jEveAssets"
+    ],
+    ".jeveassets": [
+        "io.github.GoldenGnu.jEveAssets"
+    ],
     ".config/kikoplay": [
         "io.github.KikoPlayProject.KikoPlay"
     ],

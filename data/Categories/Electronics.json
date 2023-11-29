@@ -9,6 +9,7 @@
     "com.gitlab.Murmele.UDPLogger",
     "de.klayout.KLayout",
     "io.github.gtkwave.GTKWave",
+    "io.github.vinser.burnfix",
     "io.github.wh201906.serialtest",
     "org.fritzing.Fritzing",
     "org.horizon_eda.HorizonEDA",

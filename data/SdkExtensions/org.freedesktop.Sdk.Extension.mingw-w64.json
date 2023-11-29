@@ -1,5 +1,6 @@
 [
     "io.github.vinegarhq.Vinegar",
+    "org.vinegarhq.Vinegar",
     "org.winehq.Wine",
     "com.fightcade.Fightcade.Wine",
     "com.valvesoftware.Steam.CompatibilityTool.Proton-GE",

@@ -10,7 +10,8 @@
         "net.gaijin.WarThunder",
         "org.gnome.gThumb",
         "org.jitsi.jitsi-meet",
-        "org.kde.ruqola"
+        "org.kde.ruqola",
+        "org.vinegarhq.Vinegar"
     ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",

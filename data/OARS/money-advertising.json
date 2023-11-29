@@ -3,7 +3,8 @@
         "cn.lceda.LCEDAPro",
         "io.github.fin_ger.OvGUCanteen",
         "io.github.vinegarhq.Vinegar",
-        "net.brinkervii.grapejuice"
+        "net.brinkervii.grapejuice",
+        "org.vinegarhq.Vinegar"
     ],
     "moderate": [
         "com.fightcade.Fightcade",

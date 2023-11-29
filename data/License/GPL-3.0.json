@@ -185,6 +185,7 @@
     "org.deluge_torrent.deluge",
     "org.dhewm3.Dhewm3",
     "org.duckstation.DuckStation",
+    "org.emptyflow.ArdorQuery",
     "org.eu.encom.spectral",
     "org.eu.wabarc.wayback",
     "org.expresslrs.ExpressLRSConfigurator",
