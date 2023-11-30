@@ -1847,6 +1847,7 @@
         "x-scheme-handler{SLASH}workspaces",
         "x-scheme-handler{SLASH}worldcoin",
         "x-scheme-handler{SLASH}wormhole-transfer",
+        "x-scheme-handler{SLASH}x-endless-key-app",
         "x-scheme-handler{SLASH}x-github-client",
         "x-scheme-handler{SLASH}x-github-desktop-auth",
         "x-scheme-handler{SLASH}x-github-desktop-dev-auth",

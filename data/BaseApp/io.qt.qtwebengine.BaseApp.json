@@ -19,7 +19,6 @@
         "org.kde.kphotoalbum",
         "org.kde.labplot2",
         "org.kde.skrooge",
-        "org.kde.tellico",
         "org.paraview.ParaView",
         "org.rolisteam.rolisteam",
         "org.zealdocs.Zeal"
@@ -44,6 +43,7 @@
         "org.kde.kmymoney",
         "org.kde.marble",
         "org.kde.parley",
+        "org.kde.tellico",
         "org.musescore.MuseScore",
         "org.sdrangel.SDRangel",
         "org.yuzu_emu.yuzu"

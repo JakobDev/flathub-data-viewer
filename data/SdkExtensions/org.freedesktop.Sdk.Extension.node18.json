@@ -42,6 +42,7 @@
     "org.freedesktop.appstream.generator",
     "org.jellyfin.JellyfinServer",
     "org.nanuc.Axolotl",
+    "org.openscopeproject.TrguiNG",
     "org.tropy.Tropy",
     "org.zulip.Zulip",
     "site.someones.Lonewolf",
