@@ -200,7 +200,6 @@
         "io.github.MakovWait.Godots",
         "io.github.NickKarpowicz.LightwaveExplorer",
         "io.github.RodZill4.Material-Maker",
-        "io.github.aandrew_me.ytdn",
         "io.github.adrienverge.PhotoCollage",
         "io.github.am2r_community_developers.Atomic",
         "io.github.antimicrox.antimicrox",
@@ -535,6 +534,7 @@
         "io.github.Icalingua.Icalingua",
         "io.github.KikoPlayProject.KikoPlay",
         "io.github.TransmissionRemoteGtk",
+        "io.github.aandrew_me.ytdn",
         "io.github.aggalex.Wineglass",
         "io.github.fastrizwaan.WineZGUI",
         "io.github.giantpinkrobots.varia",
@@ -2154,6 +2154,7 @@
         "de.rwth_aachen.ient.RDPlot",
         "in.bharatkalluri.splash",
         "io.botfather.Botfather",
+        "io.frama.tractor.carburetor",
         "io.github.vikdevelop.SaveDesktop",
         "io.liri.Calculator",
         "net.christianbeier.Gromit-MPX",
@@ -2188,6 +2189,7 @@
         "de.rwth_aachen.ient.RDPlot",
         "in.bharatkalluri.splash",
         "io.botfather.Botfather",
+        "io.frama.tractor.carburetor",
         "io.liri.Calculator",
         "net.christianbeier.Gromit-MPX",
         "nl.g4d.Girens",
@@ -2999,7 +3001,8 @@
         "io.podman_desktop.PodmanDesktop"
     ],
     "~/.cert:create": [
-        "com.github.jkotra.eovpn"
+        "com.github.jkotra.eovpn",
+        "com.protonvpn.www"
     ],
     "~/.config": [
         "com.github.joseexposito.touche",

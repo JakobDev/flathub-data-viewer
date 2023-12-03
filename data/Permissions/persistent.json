@@ -351,6 +351,9 @@
     ".config/kikoplay": [
         "io.github.KikoPlayProject.KikoPlay"
     ],
+    ".ytDownloader": [
+        "io.github.aandrew_me.ytdn"
+    ],
     ".wineprefixes": [
         "io.github.aggalex.Wineglass"
     ],
