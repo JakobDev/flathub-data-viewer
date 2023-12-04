@@ -2,6 +2,5 @@
     "app.gummi.gummi",
     "com.github.rogercrocker.badabib",
     "org.cvfosammmm.Setzer",
-    "org.jabref.jabref",
-    "org.texstudio.TeXstudio"
+    "org.jabref.jabref"
 ]
