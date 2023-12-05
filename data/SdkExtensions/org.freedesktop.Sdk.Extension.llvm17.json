@@ -4,5 +4,6 @@
     "net.rpcs3.RPCS3",
     "org.citra_emu.citra",
     "org.cloudcompare.CloudCompare",
+    "org.duckstation.DuckStation",
     "org.fkoehler.KTailctl"
 ]

@@ -1,6 +1,7 @@
 [
     "ch.protonmail.protonmail-bridge",
     "ch.protonmail.protonmail-import-export-app",
+    "com.fyralabs.SkiffDesktop",
     "com.getmailspring.Mailspring",
     "com.tutanota.Tutanota",
     "com.ulduzsoft.Birdtray",

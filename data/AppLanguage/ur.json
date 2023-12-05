@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "com.github.hugolabe.Wike",
     "fr.romainvigier.MetadataCleaner",
     "im.pidgin.Pidgin",
     "io.github.realmazharhussain.GdmSettings",

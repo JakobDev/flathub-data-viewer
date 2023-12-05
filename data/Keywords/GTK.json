@@ -37,5 +37,6 @@
     "org.gnome.design.SymbolicPreview",
     "org.gnome.design.VectorSlicer",
     "org.nicotine_plus.Nicotine",
-    "re.sonny.Workbench"
+    "re.sonny.Workbench",
+    "xyz.safeworlds.hiit"
 ]

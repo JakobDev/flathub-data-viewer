@@ -11,6 +11,7 @@
     "app.rednotebook.RedNotebook",
     "ar.xjuan.Cambalache",
     "ca.hamaluik.Timecop",
+    "cafe.avery.Delfin",
     "cn.navclub.ldbfx",
     "co.headsetapp.headset",
     "com.adrienplazas.Metronome",
@@ -28,6 +29,7 @@
     "com.feaneron.Boatswain",
     "com.felipekinoshita.Kana",
     "com.felipekinoshita.Wildcard",
+    "com.fyralabs.SkiffDesktop",
     "com.github.ADBeveridge.Raider",
     "com.github.Alcaro.Flips",
     "com.github.Darazaki.Spedread",
@@ -318,5 +320,6 @@
     "sm.puri.Chatty",
     "xyz.aguno.CubeTimer",
     "xyz.ketok.Speedtest",
+    "xyz.safeworlds.hiit",
     "xyz.tytanium.DoorKnocker"
 ]

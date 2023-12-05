@@ -16,5 +16,6 @@
     "io.github.mpobaschnig.Vaults",
     "io.gitlab.news_flash.NewsFlash",
     "org.gnome.design.SymbolicPreview",
-    "org.gnome.design.VectorSlicer"
+    "org.gnome.design.VectorSlicer",
+    "xyz.safeworlds.hiit"
 ]

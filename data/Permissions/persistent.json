@@ -360,6 +360,9 @@
     ".ezquake": [
         "io.github.ezQuake"
     ],
+    ".ja2": [
+        "io.github.ja2_stracciatella.JA2-Stracciatella"
+    ],
     ".lzncache": [
         "io.github.ktgw0316.LightZone"
     ],

@@ -1,5 +1,6 @@
 [
     "app.bluebubbles.BlueBubbles",
+    "cafe.avery.Delfin",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.ashpd.demo",
     "com.github.flxzt.rnote",
@@ -16,7 +17,6 @@
     "net.nokyan.Resources",
     "net.retrodeck.retrodeck",
     "org.d3cod3.Mosaic",
-    "org.duckstation.DuckStation",
     "org.gnome.Builder",
     "org.gnome.Fractal",
     "org.gnome.Loupe",
@@ -27,5 +27,6 @@
     "re.sonny.Workbench",
     "sa.sy.bluerecorder",
     "xyz.dimtpap.coppwr",
+    "xyz.safeworlds.hiit",
     "xyz.slothlife.Jogger"
 ]
