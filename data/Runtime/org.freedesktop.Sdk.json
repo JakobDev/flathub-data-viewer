@@ -28,7 +28,8 @@
         "org.ghidra_sre.Ghidra",
         "org.kicad.KiCad",
         "org.scintilla.SciTE",
-        "org.thonny.Thonny"
+        "org.thonny.Thonny",
+        "org.vim.Vim"
     ],
     "22.08": [
         "com.google.AndroidStudio",
@@ -49,8 +50,7 @@
         "org.apache.netbeans",
         "org.codeblocks.codeblocks",
         "org.gnu.emacs",
-        "org.scilab.Scilab",
-        "org.vim.Vim"
+        "org.scilab.Scilab"
     ],
     "21.08": [
         "com.okta.developer.CLI",

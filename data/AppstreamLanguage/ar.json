@@ -1,5 +1,6 @@
 [
     "app.drey.MultiplicationPuzzle",
+    "ca.parallel_launcher.ParallelLauncher",
     "com.belmoussaoui.Authenticator",
     "com.calibre_ebook.calibre",
     "com.dropbox.Client",
