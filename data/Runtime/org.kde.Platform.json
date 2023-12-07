@@ -205,6 +205,7 @@
         "com.github.unrud.djpdf",
         "com.gitlab.tipp10.tipp10",
         "com.riverbankcomputing.PyQt.BaseApp",
+        "community.pathofbuilding.PathOfBuilding",
         "de.halaszovich.PMbrowser",
         "eu.vcmi.VCMI",
         "io.github.Arisotura.CoinKiller",
@@ -610,8 +611,13 @@
         "org.subtitld.Subtitld",
         "uk.org.zint.zint-qt"
     ],
+    "5.12": [
+        "de.ifw_dresden.nagstamon",
+        "de.rwth_aachen.ient.RDPlot",
+        "io.botfather.Botfather",
+        "io.liri.Calculator"
+    ],
     "6.4": [
-        "community.pathofbuilding.PathOfBuilding",
         "de.marlam.gencolormap",
         "de.marlam.qv",
         "io.github.myst6re.makoureactor",
@@ -623,12 +629,6 @@
         "org.jaspstats.JASP",
         "org.opentransactions.metier",
         "org.tug.texworks"
-    ],
-    "5.12": [
-        "de.ifw_dresden.nagstamon",
-        "de.rwth_aachen.ient.RDPlot",
-        "io.botfather.Botfather",
-        "io.liri.Calculator"
     ],
     "5.9": [
         "io.qt.qtwebkit.BaseApp"

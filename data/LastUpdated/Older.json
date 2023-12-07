@@ -490,7 +490,6 @@
     "net.daase.journable",
     "net.danigm.loop",
     "net.dengine.Doomsday",
-    "net.devolutions.RDMFree",
     "net.displaycal.DisplayCAL",
     "net.drawpile.drawpile",
     "net.freerct.FreeRCT",
@@ -504,6 +503,7 @@
     "net.launchpad.Gnuclad",
     "net.lugsole.bible_gui",
     "net.mediaarea.AVIMetaEdit",
+    "net.mediaarea.BWFMetaEdit",
     "net.mediaarea.DVAnalyzer",
     "net.mediaarea.MOVMetaEdit",
     "net.mediaarea.QCTools",
@@ -974,5 +974,6 @@
     "org.gtk.Gtk3theme.Yaru-remix-dark",
     "org.gtk.Gtk3theme.Yaru-remix-light",
     "org.gtk.Gtk3theme.Yaru-remix",
+    "org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime",
     "org.videolan.VLC.Plugin.pause_click"
 ]

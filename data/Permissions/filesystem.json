@@ -94,6 +94,7 @@
         "com.github.reduz.ChibiTracker",
         "com.github.robertsanseries.ciano",
         "com.github.rogercrocker.badabib",
+        "com.github.ryonakano.reco",
         "com.github.shonumi.gbe-plus",
         "com.github.skylot.jadx",
         "com.github.tenderowl.frog",
@@ -3776,8 +3777,7 @@
         "net.davidotek.pupgui2"
     ],
     "~/.rdm:create": [
-        "net.devolutions.RDM",
-        "net.devolutions.RDMFree"
+        "net.devolutions.RDM"
     ],
     "xdg-data/applications/RPCS3": [
         "net.rpcs3.RPCS3"
@@ -3808,11 +3808,6 @@
     ],
     "xdg-data/2009scape": [
         "org._2009scape.Launcher"
-    ],
-    "/var/run/tor/control.authcookie:ro": [
-        "org.bitcoincore.bitcoin-qt",
-        "org.groestlcoin.groestlcoin-qt",
-        "org.vertcoin.vertcoin-qt"
     ],
     "/run/tor/control.authcookie:ro": [
         "org.bitcoincore.bitcoin-qt",
@@ -3977,6 +3972,10 @@
     ],
     "~/gPodder": [
         "org.gpodder.gpodder-adaptive"
+    ],
+    "/var/run/tor/control.authcookie:ro": [
+        "org.groestlcoin.groestlcoin-qt",
+        "org.vertcoin.vertcoin-qt"
     ],
     "/usr/share/fonts": [
         "org.gustavoperedo.FontDownloader"
