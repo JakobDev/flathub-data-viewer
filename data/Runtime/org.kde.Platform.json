@@ -32,7 +32,6 @@
         "com.ktechpit.orion",
         "com.ktechpit.torrhunt",
         "com.ktechpit.whatsie",
-        "com.nextcloud.desktopclient.nextcloud",
         "com.nitrokey.nitrokey-app",
         "com.polyphone_soundfonts.polyphone",
         "com.qzandronum.Q-Zandronum",
@@ -195,9 +194,7 @@
         "org.zealdocs.Zeal",
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
-        "se.sjoerd.GIScan",
-        "space.nouspiro.tenmon",
-        "studio.kx.carla"
+        "se.sjoerd.GIScan"
     ],
     "6.6": [
         "app.lith.Lith",
@@ -218,6 +215,7 @@
         "org.citra_emu.citra",
         "org.duckstation.DuckStation",
         "org.emptyflow.ArdorQuery",
+        "org.flightgear.FlightGear",
         "org.gottcode.Connectagram",
         "org.gottcode.CuteMaze",
         "org.gottcode.FocusWriter",
@@ -293,7 +291,6 @@
         "org.dash.electrum.electrum_dash",
         "org.eyecreate.qiflora",
         "org.flameshot.Flameshot",
-        "org.flightgear.FlightGear",
         "org.fritzing.Fritzing",
         "org.kde.atlantik",
         "org.munadi.Munadi",
@@ -409,6 +406,7 @@
         "com.js8call.JS8Call",
         "com.makemkv.MakeMKV",
         "com.moonlight_stream.Moonlight",
+        "com.nextcloud.desktopclient.nextcloud",
         "com.ozmartians.VidCutter",
         "com.rosegardenmusic.rosegarden",
         "com.sweetscape.ZeroOneZeroEditor",
@@ -579,6 +577,8 @@
         "org.videolan.VLC",
         "org.wfview.wfview",
         "org.yuzu_emu.yuzu",
+        "space.nouspiro.tenmon",
+        "studio.kx.carla",
         "ua.org.brezblock.q4wine",
         "website.i2pd.i2pd",
         "xyz.z3ntu.razergenie"

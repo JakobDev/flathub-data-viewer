@@ -5,7 +5,6 @@
     "5.15-22.08": [
         "com.github.iwalton3.jellyfin-media-player",
         "com.ktechpit.whatsie",
-        "com.nextcloud.desktopclient.nextcloud",
         "com.stremio.Stremio",
         "de.shorsh.discord-screenaudio",
         "io.github.wereturtle.ghostwriter",
@@ -28,6 +27,7 @@
     ],
     "5.15-23.08": [
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
+        "com.nextcloud.desktopclient.nextcloud",
         "io.github.foldynl.QLog",
         "io.github.martinrotter.rssguard",
         "net.sonic_pi.SonicPi",

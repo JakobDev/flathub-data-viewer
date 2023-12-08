@@ -2804,6 +2804,7 @@
         "com.eduke32.EDuke32",
         "com.github.Matoking.protontricks",
         "com.github._0negal.Viper",
+        "com.github.mtkennerly.ludusavi",
         "com.github.theCalcaholic.StreamDeck",
         "com.heroicgameslauncher.hgl",
         "com.steamgriddb.SGDBoop",
@@ -3039,9 +3040,6 @@
         "com.github.marhkb.Pods"
     ],
     "~/.var/app/net.lutris.Lutris": [
-        "com.github.mtkennerly.ludusavi"
-    ],
-    "/var/home": [
         "com.github.mtkennerly.ludusavi"
     ],
     "~/.var/app/com.heroicgameslauncher.hgl": [
