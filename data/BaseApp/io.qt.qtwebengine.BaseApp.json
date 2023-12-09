@@ -1,6 +1,27 @@
 {
-    "5.15-21.08": [
-        "ch.theologeek.Manuskript"
+    "5.15-23.08": [
+        "ch.theologeek.Manuskript",
+        "com.gitlab.ColinDuquesnoy.MellowPlayer",
+        "com.nextcloud.desktopclient.nextcloud",
+        "io.github.foldynl.QLog",
+        "io.github.martinrotter.rssguard",
+        "net.sonic_pi.SonicPi",
+        "net.sourceforge.qtpfsgui.LuminanceHDR",
+        "org.kde.akregator",
+        "org.kde.angelfish",
+        "org.kde.cantor",
+        "org.kde.falkon",
+        "org.kde.kalgebra",
+        "org.kde.kdevelop",
+        "org.kde.kgeotag",
+        "org.kde.kimagemapeditor",
+        "org.kde.kmymoney",
+        "org.kde.marble",
+        "org.kde.parley",
+        "org.kde.tellico",
+        "org.musescore.MuseScore",
+        "org.sdrangel.SDRangel",
+        "org.yuzu_emu.yuzu"
     ],
     "5.15-22.08": [
         "com.github.iwalton3.jellyfin-media-player",
@@ -24,29 +45,6 @@
     ],
     "6.3": [
         "com.github.jmlich.geotagging"
-    ],
-    "5.15-23.08": [
-        "com.gitlab.ColinDuquesnoy.MellowPlayer",
-        "com.nextcloud.desktopclient.nextcloud",
-        "io.github.foldynl.QLog",
-        "io.github.martinrotter.rssguard",
-        "net.sonic_pi.SonicPi",
-        "net.sourceforge.qtpfsgui.LuminanceHDR",
-        "org.kde.akregator",
-        "org.kde.angelfish",
-        "org.kde.cantor",
-        "org.kde.falkon",
-        "org.kde.kalgebra",
-        "org.kde.kdevelop",
-        "org.kde.kgeotag",
-        "org.kde.kimagemapeditor",
-        "org.kde.kmymoney",
-        "org.kde.marble",
-        "org.kde.parley",
-        "org.kde.tellico",
-        "org.musescore.MuseScore",
-        "org.sdrangel.SDRangel",
-        "org.yuzu_emu.yuzu"
     ],
     "6.6": [
         "com.riverbankcomputing.PyQt.BaseApp",

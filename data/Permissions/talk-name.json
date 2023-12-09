@@ -90,6 +90,7 @@
         "io.github.spacingbat3.webcord",
         "io.stoplight.studio",
         "io.wavebox.Wavebox",
+        "it.fabiodistasio.AntaresSQL",
         "net.christianbeier.MultiVNC",
         "net.drawpile.drawpile",
         "net.mullvad.MullvadBrowser",
@@ -860,6 +861,7 @@
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.gitlab.Murmele.UDPLogger",
         "com.gitlab.coringao.JAG",
+        "com.gitlab.cutecom.cutecom",
         "com.icanblink.blink",
         "com.interversehq.qView",
         "com.js8call.JS8Call",
@@ -1302,6 +1304,7 @@
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.gitlab.Murmele.UDPLogger",
         "com.gitlab.coringao.JAG",
+        "com.gitlab.cutecom.cutecom",
         "com.icanblink.blink",
         "com.interversehq.qView",
         "com.js8call.JS8Call",
@@ -3177,6 +3180,9 @@
     ],
     "org.kde.ksmserver": [
         "io.github.vikdevelop.SaveDesktop"
+    ],
+    "io.missioncenter.missioncenter.gatherer": [
+        "io.missioncenter.MissionCenter"
     ],
     "org.gnome.settings": [
         "io.missioncenter.MissionCenter",

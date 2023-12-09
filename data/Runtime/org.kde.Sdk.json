@@ -1,7 +1,6 @@
 {
     "5.15-21.08": [
         "com.github.Murmele.scram",
-        "com.gitlab.cutecom.cutecom",
         "io.qt.QtCreator"
     ],
     "6.5": [

@@ -884,6 +884,7 @@
         "io.sourceforge.qoobar.Qoobar",
         "io.trustable.stpadocumentationtool",
         "it.cuteworks.pacmanlogviewer",
+        "it.fabiodistasio.AntaresSQL",
         "me.ahola.aphototoollibre",
         "me.mitya57.ReText",
         "me.timschneeberger.jdsp4linux",
@@ -3293,6 +3294,7 @@
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
         "io.github.slgobinath.SafeEyes",
+        "it.fabiodistasio.AntaresSQL",
         "net.retrodeck.retrodeck",
         "org.ferdium.Ferdium",
         "org.ryujinx.Ryujinx"
