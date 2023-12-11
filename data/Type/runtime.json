@@ -1,5 +1,6 @@
 [
     "com.visualstudio.code.tool.fish",
+    "com.visualstudio.code.tool.git-lfs",
     "com.visualstudio.code.tool.podman",
     "org.freedesktop.Platform.GL.default",
     "org.freedesktop.Platform.GL32.default",

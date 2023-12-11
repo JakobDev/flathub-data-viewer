@@ -165,7 +165,6 @@
         "net.christianbeier.MultiVNC",
         "net.danigm.loop",
         "net.danigm.timetrack",
-        "net.giuspen.cherrytree",
         "net.gwyddion.Gwyddion",
         "net.kirgroup.confy",
         "net.line72.campcounselor",
@@ -271,7 +270,6 @@
         "org.sugarlabs.TurtlePondActivity",
         "org.sugarlabs.Words",
         "org.syphon.Syphon",
-        "org.tabos.banking",
         "org.tabos.saldo",
         "org.tryton.Tryton-68",
         "org.upnproutercontrol.UPnPRouterControl",
@@ -291,6 +289,7 @@
         "uk.co.mangobrain.Infector",
         "uk.et1.big-finish-downloader",
         "uk.jnthn.backgammony",
+        "vn.hoabinh.quan.CoBang",
         "work.openpaper.Paperwork"
     ],
     "45": [
@@ -421,6 +420,7 @@
         "garden.turtle.Jellybean",
         "hu.kramo.Cartridges",
         "im.bernard.Funkcio",
+        "im.srain.Srain",
         "in.bharatkalluri.shortcircuit",
         "info.febvre.Komikku",
         "io.dbeaver.DBeaverCommunity",
@@ -488,6 +488,7 @@
         "ml.mdwalters.Lemonade",
         "net.baseart.Glide",
         "net.daase.journable",
+        "net.giuspen.cherrytree",
         "net.jenyay.Outwiker",
         "net.krafting.Playlifin",
         "net.krafting.PleasureDVR",
@@ -596,6 +597,7 @@
         "org.pipewire.Helvum",
         "org.skytemple.Randomizer",
         "org.skytemple.SkyTemple",
+        "org.tabos.twofun",
         "org.tryton.Tryton-70",
         "org.v1993.NXDumpClient",
         "org.virt_manager.virt-viewer",
@@ -636,7 +638,6 @@
         "dev.boxi.Boxi",
         "fr.henri2h.minestrix",
         "fr.romainvigier.zap",
-        "im.srain.Srain",
         "io.github.brunoherbelin.Vimix",
         "io.github.daviddesimone.opencloudsaves",
         "io.github.diegoivan.GaticTacToe",
@@ -671,8 +672,7 @@
         "org.tabos.maxcontrol",
         "org.tabos.roger",
         "re.sonny.Retro",
-        "ro.hume.cosmin.ShoppingList",
-        "vn.hoabinh.quan.CoBang"
+        "ro.hume.cosmin.ShoppingList"
     ],
     "42": [
         "app.riftshare.RiftShare",
@@ -730,8 +730,7 @@
         "org.kryogenix.hushboard",
         "org.kryogenix.utm_no",
         "org.laptop.TurtleArtActivity",
-        "org.sil.Bloom",
-        "org.tabos.twofun"
+        "org.sil.Bloom"
     ],
     "40": [
         "com.arteeh.Flasher",

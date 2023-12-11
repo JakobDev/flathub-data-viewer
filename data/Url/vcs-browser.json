@@ -155,6 +155,7 @@
     "org.gnome.Podcasts",
     "org.gnome.Polari",
     "org.gnome.SimpleScan",
+    "org.gnome.Snapshot",
     "org.gnome.Solanum",
     "org.gnome.TextEditor",
     "org.gnunet.Messenger",
@@ -219,6 +220,7 @@
     "org.blackfennec.app.extensions.core",
     "org.freedesktop.LinuxAudio.Plugins.BYOD",
     "org.freedesktop.LinuxAudio.Plugins.NeuralAmpModeler",
+    "org.freedesktop.LinuxAudio.Plugins.SpectMorph",
     "org.radare.iaito.translations",
     "org.radare.iaito.webui",
     "org.videolan.VLC.Plugin.pause_click"

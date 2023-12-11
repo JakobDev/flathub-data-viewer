@@ -1,6 +1,8 @@
 {
+    "5.15": [
+        "com.codemouse92.timecard"
+    ],
     "5.15-22.08": [
-        "ch.openboard.OpenBoard",
         "com.github.fontmatrix.Fontmatrix",
         "com.icanblink.blink",
         "com.ktechpit.orion",
@@ -11,9 +13,6 @@
         "org.kde.umbrello",
         "org.openshot.OpenShot",
         "org.subsurface_divelog.Subsurface"
-    ],
-    "5.15": [
-        "com.codemouse92.timecard"
     ],
     "5.14": [
         "com.ktechpit.wonderwall"

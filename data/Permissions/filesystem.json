@@ -160,7 +160,6 @@
         "com.zerobrane.studio",
         "cz.zeropage.Formiko",
         "de.bforartists.Bforartists",
-        "de.bund.ausweisapp.ausweisapp2",
         "de.create3000.titania",
         "de.fabrik19.mos-Launcher",
         "de.finnik.PassVault",
@@ -180,7 +179,6 @@
         "dev.salaniLeo.immagini",
         "dev.storyapps.starc",
         "dev.tchx84.Portfolio",
-        "edu.mit.Scratch",
         "edu.stanford.protege",
         "eu.skribisto.skribisto",
         "fm.helio.Workstation",
@@ -1163,6 +1161,7 @@
         "org.librepcb.LibrePCB",
         "org.libretro.RetroArch",
         "org.linux_hardware.hw-probe",
+        "org.lyx.LyX",
         "org.mamedev.MAME",
         "org.mapeditor.Tiled",
         "org.mattbas.Glaxnimate",
@@ -1390,6 +1389,7 @@
         "org.gnumeric.Gnumeric",
         "org.kde.cantor",
         "org.kde.rocs",
+        "org.lyx.LyX",
         "org.msweet.htmldoc",
         "org.nongnu.Xlog",
         "org.omegat.OmegaT",
@@ -2403,6 +2403,7 @@
         "gg.guilded.Guilded",
         "io.kapsa.drive",
         "org.gnunet.Messenger",
+        "org.lyx.LyX",
         "sh.ppy.osu",
         "xyz.armcord.ArmCord"
     ],
@@ -2838,6 +2839,7 @@
         "gg.minion.Minion",
         "io.github.philipk.boilr",
         "net.davidotek.pupgui2",
+        "net.studio08.xbplay",
         "xyz.hyperplay.HyperPlay"
     ],
     "xdg-run/gnupg:ro": [
@@ -3307,7 +3309,8 @@
     ],
     "~/.local/share/Steam": [
         "com.vysp3r.ProtonPlus",
-        "net.davidotek.pupgui2"
+        "net.davidotek.pupgui2",
+        "net.studio08.xbplay"
     ],
     "~/.var/app/com.heroicgameslauncher.hgl/config/heroic": [
         "com.vysp3r.ProtonPlus"
@@ -3784,9 +3787,6 @@
     ],
     "/run/ikedi": [
         "net.shrew.ike.qikea"
-    ],
-    "/home/deck/.local/share/Steam/userdata": [
-        "net.studio08.xbplay"
     ],
     "xdg-pictures/veloren:create": [
         "net.veloren.veloren"

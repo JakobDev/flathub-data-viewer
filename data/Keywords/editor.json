@@ -28,6 +28,7 @@
     "org.kde.kbibtex",
     "org.kde.kid3",
     "org.kde.kwrite",
+    "org.lyx.LyX",
     "org.mapeditor.Tiled",
     "org.nongnu.gsequencer.gsequencer",
     "org.pitivi.Pitivi",

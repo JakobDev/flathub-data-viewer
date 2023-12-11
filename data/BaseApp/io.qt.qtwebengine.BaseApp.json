@@ -1,4 +1,9 @@
 {
+    "6.6": [
+        "ch.openboard.OpenBoard",
+        "com.riverbankcomputing.PyQt.BaseApp",
+        "org.jacktrip.JackTrip"
+    ],
     "5.15-23.08": [
         "ch.theologeek.Manuskript",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
@@ -45,10 +50,6 @@
     ],
     "6.3": [
         "com.github.jmlich.geotagging"
-    ],
-    "6.6": [
-        "com.riverbankcomputing.PyQt.BaseApp",
-        "org.jacktrip.JackTrip"
     ],
     "5.15": [
         "com.wiz.Note",
