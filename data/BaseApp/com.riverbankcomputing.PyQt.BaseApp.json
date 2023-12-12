@@ -45,11 +45,13 @@
         "page.codeberg.JakobDev.jdSimpleAutostart",
         "page.codeberg.JakobDev.jdTextEdit"
     ],
-    "6.3": [
-        "org.beeref.BeeRef",
-        "org.subtitld.Subtitld"
+    "6.4": [
+        "org.beeref.BeeRef"
     ],
     "5.15-21.08": [
         "org.qutebrowser.qutebrowser"
+    ],
+    "6.3": [
+        "org.subtitld.Subtitld"
     ]
 }

@@ -1,6 +1,7 @@
 [
     "app.drey.EarTag",
     "app.vup.Vup",
+    "cn.xfangfang.wiliwili",
     "com.ghostery.browser",
     "com.github.Johnn3y.Forklift",
     "com.github.artemanufrij.playmyvideos",
@@ -27,6 +28,7 @@
     "io.github.bothlab.pomidaq",
     "io.github.fastrizwaan.WineZGUI",
     "io.github.kotatogram",
+    "io.github.kukuruzka165.materialgram",
     "io.github.mmarco94.tambourine",
     "io.github.parnassius.SysDVR-Qt",
     "io.github.qtox.qTox",

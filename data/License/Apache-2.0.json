@@ -48,6 +48,7 @@
     "org.ghidra_sre.Ghidra",
     "org.jitsi.jitsi-meet",
     "org.jreleaser.cli",
+    "org.mfek.MFEKglif",
     "org.raspberrypi.rpi-imager",
     "org.zaproxy.ZAP",
     "org.zulip.Zulip",

@@ -36,8 +36,10 @@
     "io.frama.tractor.carburetor",
     "io.github.Cockatrice.cockatrice",
     "io.github.betaflight.BetaflightConfigurator",
+    "io.github.dimtpap.coppwr",
     "io.github.foldynl.QLog",
     "io.github.ihhub.Fheroes2",
+    "io.github.kukuruzka165.materialgram",
     "io.github.loot.loot",
     "io.github.naikari.Naikari",
     "io.github.randovania.Randovania",
@@ -98,6 +100,5 @@
     "pm.mirko.Atoms",
     "rocks.koreader.KOReader",
     "tv.kodi.Kodi",
-    "xyz.dimtpap.coppwr",
     "org.radare.iaito.translations"
 ]

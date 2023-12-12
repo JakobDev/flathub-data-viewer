@@ -183,6 +183,7 @@
         "eu.skribisto.skribisto",
         "fm.helio.Workstation",
         "fm.reaper.Reaper",
+        "fr.dwightstudio.JArmEmu",
         "fr.free.Homebank",
         "fr.inria.corese.CoreseCommand",
         "fr.inria.corese.CoreseGui",
@@ -387,6 +388,7 @@
         "org.libvips.vipsdisp",
         "org.mamedev.MAME",
         "org.mavlink.qgroundcontrol",
+        "org.mfek.MFEKglif",
         "org.mmass.mMass",
         "org.mobsya.ThymioSuite",
         "org.moneymanagerex.MMEX",
@@ -1551,6 +1553,7 @@
         "io.github.rinigus.OSMScoutServer",
         "io.github.shiftey.Desktop",
         "io.github.sithlord48.blackchocobo",
+        "io.github.streetpea.Chiaki4deck",
         "io.github.xyproto.zsnes",
         "io.github.zyedidia.micro",
         "io.gitlab.Turtlico",
@@ -2037,9 +2040,11 @@
         "info.puredata.Pd-extended",
         "info.puredata.Pd",
         "io.github.Soundux",
+        "io.github.dimtpap.coppwr",
         "io.github.dyegoaurelio.simple-wireplumber-gui",
         "io.github.gillesdegottex.FMIT",
         "io.github.kotatogram",
+        "io.github.kukuruzka165.materialgram",
         "io.github.muse_sequencer.Muse",
         "io.github.pd_l2ork.Pd_L2Ork",
         "io.github.streetpea.Chiaki4deck",
@@ -2083,8 +2088,7 @@
         "org.zrythm.Zrythm",
         "ru.yandex.Browser",
         "sa.sy.bluerecorder",
-        "studio.kx.carla",
-        "xyz.dimtpap.coppwr"
+        "studio.kx.carla"
     ],
     "xdg-pictures/Vintagestory:create": [
         "at.vintagestory.VintageStory"
@@ -2584,6 +2588,7 @@
         "com.github.optyfr.JRomManager",
         "com.mojang.Minecraft",
         "io.bassi.Amberol",
+        "io.github.Rirusha.Cassette",
         "io.github.Soundux",
         "io.github.nate_xyz.Resonance",
         "me.timschneeberger.GalaxyBudsClient",
@@ -2621,6 +2626,7 @@
         "com.valvesoftware.Steam",
         "dev.aunetx.deezer",
         "io.bassi.Amberol",
+        "io.github.Rirusha.Cassette",
         "io.github.Soundux",
         "io.github.mmarco94.tambourine",
         "io.github.nate_xyz.Resonance",
@@ -3623,6 +3629,9 @@
     ],
     "/opt:ro": [
         "io.github.shiftey.Desktop"
+    ],
+    "xdg-run/gamescope-0": [
+        "io.github.streetpea.Chiaki4deck"
     ],
     "xdg-run/discord-ipc-0:ro": [
         "io.github.thaunknown.miru"

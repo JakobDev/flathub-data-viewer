@@ -8,6 +8,7 @@
     "moderate": [
         "com.fightcade.Fightcade",
         "com.lunarclient.LunarClient",
+        "io.github.kukuruzka165.materialgram",
         "io.github.tdesktop_x64.TDesktop",
         "io.mango3d.LycheeSlicer",
         "nl.lostboys.rollemup",

@@ -75,7 +75,6 @@
         "io.github.rinigus.PureMaps",
         "io.github.ripose_jp.Memento",
         "io.github.rocket.editor",
-        "io.github.streetpea.Chiaki4deck",
         "io.github.tcobbs.LDView",
         "io.github.voxelcubes.deepqt",
         "io.github.wereturtle.ghostwriter",
@@ -373,6 +372,7 @@
         "io.github.martinrotter.textosaurus",
         "io.github.muse_sequencer.Muse",
         "io.github.obiwankennedy.HotShots",
+        "io.github.streetpea.Chiaki4deck",
         "io.github.tntwise.REAL-Video-Enhancer",
         "io.github.trevorsandy.LPub3D",
         "io.mgba.mGBA",
@@ -609,7 +609,6 @@
     "6.3": [
         "com.github.jmlich.geotagging",
         "dev.levz.TinyImageFinder",
-        "org.beeref.BeeRef",
         "org.subtitld.Subtitld",
         "uk.org.zint.zint-qt"
     ],
@@ -626,6 +625,7 @@
         "io.github.nuttyartist.notes",
         "io.github.sithlord48.blackchocobo",
         "net.rpdev.OpenTodoList",
+        "org.beeref.BeeRef",
         "org.bino3d.bino",
         "org.featherwallet.Feather",
         "org.jaspstats.JASP",

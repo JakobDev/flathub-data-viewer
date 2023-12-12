@@ -10,8 +10,10 @@
     "eu.betterbird.Betterbird",
     "eu.cichy1173.tabela",
     "fr.handbrake.ghb",
+    "io.github.dimtpap.coppwr",
     "io.github.hydrusnetwork.hydrus",
     "io.github.kaii_lb.hgui",
+    "io.github.kukuruzka165.materialgram",
     "io.github.sameboy.SameBoy",
     "io.github.tdesktop_x64.TDesktop",
     "net.nokyan.Resources",
@@ -26,7 +28,6 @@
     "org.pipewire.Helvum",
     "re.sonny.Workbench",
     "sa.sy.bluerecorder",
-    "xyz.dimtpap.coppwr",
     "xyz.safeworlds.hiit",
     "xyz.slothlife.Jogger"
 ]

@@ -173,6 +173,12 @@
     ".lunarclient": [
         "com.lunarclient.LunarClient"
     ],
+    ".IdentityService": [
+        "com.microsoft.AzureStorageExplorer"
+    ],
+    "ScriptedHost": [
+        "com.microsoft.AzureStorageExplorer"
+    ],
     ".config/gzdoom": [
         "com.moddb.TotalChaos",
         "com.moddb.TotalChaosRetro",

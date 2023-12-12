@@ -210,6 +210,9 @@
     "org.mpris.mediaplayer2.freetube": [
         "io.freetubeapp.FreeTube"
     ],
+    "org.mpris.mediaplayer2.cassette": [
+        "io.github.Rirusha.Cassette"
+    ],
     "org.mpris.mediaplayer2.cmus": [
         "io.github.cmus.cmus"
     ],

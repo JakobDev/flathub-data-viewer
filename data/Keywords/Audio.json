@@ -12,6 +12,7 @@
     "io.github.alexkdeveloper.radio",
     "io.github.dagargo.Elektroid",
     "io.github.ddanilov.soundscape",
+    "io.github.dimtpap.coppwr",
     "io.github.dyegoaurelio.simple-wireplumber-gui",
     "io.github.seadve.Mousai",
     "io.gitlab.Goodvibes",
@@ -24,6 +25,5 @@
     "org.rncbc.qsynth",
     "org.rncbc.qtractor",
     "org.strawberrymusicplayer.strawberry",
-    "org.videolan.VLC",
-    "xyz.dimtpap.coppwr"
+    "org.videolan.VLC"
 ]

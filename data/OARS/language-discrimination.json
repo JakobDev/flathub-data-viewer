@@ -4,6 +4,7 @@
         "com.fightcade.Fightcade",
         "com.unity.UnityHub",
         "dev.bambosh.UnofficialHomestuckCollection",
+        "io.github.Rirusha.Cassette",
         "io.github.endless_sky.endless_sky",
         "org.firestormviewer.FirestormViewer"
     ],
@@ -121,6 +122,7 @@
         "io.github.janbar.noson",
         "io.github.jhaygood86.mauborgne",
         "io.github.kotatogram",
+        "io.github.kukuruzka165.materialgram",
         "io.github.lainsce.Quilter",
         "io.github.markummitchell.Engauge_Digitizer",
         "io.github.martinrotter.textosaurus",

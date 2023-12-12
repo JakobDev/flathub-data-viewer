@@ -1,6 +1,7 @@
 [
     "com.kristianduske.TrenchBroom",
     "io.github.ezQuake",
+    "net.sourceforge.quakespasm.Quakespasm",
     "org.yamagi.YamagiQ2",
     "ws.openarena.OpenArena"
 ]
