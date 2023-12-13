@@ -6,7 +6,6 @@
         "io.github.bothlab.syntalos",
         "io.github.giantpinkrobots.bootqt",
         "net.puddletag.puddletag",
-        "org.pairinteraction.Pairinteraction",
         "se.sjoerd.GIScan"
     ],
     "5.15-23.08": [
@@ -20,6 +19,7 @@
         "io.github.veusz.Veusz",
         "net.sourceforge.scidavis",
         "org.frescobaldi.Frescobaldi",
+        "org.pairinteraction.Pairinteraction",
         "org.pymol.PyMOL",
         "org.qgis.qgis"
     ],

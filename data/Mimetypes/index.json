@@ -1637,6 +1637,7 @@
         "x-scheme-handler{SLASH}discord-730762985772941312",
         "x-scheme-handler{SLASH}done",
         "x-scheme-handler{SLASH}drawpile",
+        "x-scheme-handler{SLASH}eclipse+mpc",
         "x-scheme-handler{SLASH}element",
         "x-scheme-handler{SLASH}enpass",
         "x-scheme-handler{SLASH}enpassauth",

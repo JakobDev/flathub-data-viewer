@@ -3074,8 +3074,7 @@
         "com.github.polymeilex.neothesia"
     ],
     "xdg-config/gtk-4.0:ro": [
-        "com.github.qarmin.czkawka",
-        "com.vscodium.codium"
+        "com.github.qarmin.czkawka"
     ],
     "/home": [
         "com.github.qarmin.szyszka"
@@ -3295,7 +3294,6 @@
     ],
     "xdg-config/gtk-3.0:ro": [
         "com.visualstudio.code",
-        "com.vscodium.codium",
         "de.willuhn.Jameica",
         "dev.bsnes.bsnes",
         "info.cemu.Cemu",
@@ -3427,7 +3425,8 @@
         "re.sonny.Junction"
     ],
     "~/.var/app/com.usebottles.bottles/data/bottles:ro": [
-        "hu.kramo.Cartridges"
+        "hu.kramo.Cartridges",
+        "io.github.fastrizwaan.WineZGUI"
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam:ro": [
         "hu.kramo.Cartridges"
@@ -3497,6 +3496,22 @@
     "/var/lib/snapd:ro": [
         "io.github.fabrialberio.pinapp",
         "page.codeberg.libre_menu_editor.LibreMenuEditor"
+    ],
+    "~/.wine:ro": [
+        "io.github.fastrizwaan.WineZGUI",
+        "sh.ppy.osu"
+    ],
+    "~/.var/app/com.playonlinux.PlayOnLinux4/data/PlayOnLinux/wineprefix:ro": [
+        "io.github.fastrizwaan.WineZGUI"
+    ],
+    "~/.var/app/org.winehq.Wine/data/wine:ro": [
+        "io.github.fastrizwaan.WineZGUI"
+    ],
+    "~/Games:ro": [
+        "io.github.fastrizwaan.WineZGUI"
+    ],
+    "~/.var/app/org.phoenicis.playonlinux/.Phoenicis/containers/wineprefix:ro": [
+        "io.github.fastrizwaan.WineZGUI"
     ],
     "~/.local/share/flatpak:ro": [
         "io.github.flattool.Warehouse",
@@ -4107,9 +4122,6 @@
     ],
     "/var/lib/snapd/desktop:ro": [
         "re.sonny.Junction"
-    ],
-    "~/.wine:ro": [
-        "sh.ppy.osu"
     ],
     "~/.local/share/osu-wine:ro": [
         "sh.ppy.osu"
