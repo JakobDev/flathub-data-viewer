@@ -2162,7 +2162,6 @@
         "com.microsoft.Edge",
         "com.notepadqq.Notepadqq",
         "com.vivaldi.Vivaldi",
-        "com.wings3d.WINGS",
         "de.ifw_dresden.nagstamon",
         "de.rwth_aachen.ient.RDPlot",
         "in.bharatkalluri.splash",
@@ -2171,14 +2170,11 @@
         "io.github.vikdevelop.SaveDesktop",
         "io.liri.Calculator",
         "net.christianbeier.Gromit-MPX",
-        "nl.g4d.Girens",
-        "org.bluej.BlueJ",
         "org.eclipse.iot.fourdiac.Ide",
         "org.freac.freac",
         "org.gabmus.hydrapaper",
         "org.gabmus.unifydmin",
         "org.gnome.Boxes",
-        "org.gnome.Gtranslator",
         "org.laptop.TurtleArtActivity",
         "ru.yandex.Browser"
     ],
@@ -2197,7 +2193,6 @@
         "com.microsoft.Edge",
         "com.notepadqq.Notepadqq",
         "com.vivaldi.Vivaldi",
-        "com.wings3d.WINGS",
         "de.ifw_dresden.nagstamon",
         "de.rwth_aachen.ient.RDPlot",
         "in.bharatkalluri.splash",
@@ -2205,13 +2200,10 @@
         "io.frama.tractor.carburetor",
         "io.liri.Calculator",
         "net.christianbeier.Gromit-MPX",
-        "nl.g4d.Girens",
-        "org.bluej.BlueJ",
         "org.freac.freac",
         "org.gabmus.hydrapaper",
         "org.gabmus.unifydmin",
         "org.gnome.Boxes",
-        "org.gnome.Gtranslator",
         "org.laptop.TurtleArtActivity",
         "ru.yandex.Browser"
     ],
@@ -3997,10 +3989,6 @@
     "~/gPodder": [
         "org.gpodder.gpodder-adaptive"
     ],
-    "/var/run/tor/control.authcookie:ro": [
-        "org.groestlcoin.groestlcoin-qt",
-        "org.vertcoin.vertcoin-qt"
-    ],
     "/usr/share/fonts": [
         "org.gustavoperedo.FontDownloader"
     ],
@@ -4072,6 +4060,9 @@
     ],
     "xdg-documents/Twine:create": [
         "org.twinery.Twine"
+    ],
+    "/var/run/tor/control.authcookie:ro": [
+        "org.vertcoin.vertcoin-qt"
     ],
     "xdg-config/wezterm": [
         "org.wezfurlong.wezterm"
