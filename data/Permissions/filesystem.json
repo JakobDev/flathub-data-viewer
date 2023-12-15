@@ -2160,7 +2160,6 @@
         "com.ktechpit.wonderwall",
         "com.lettier.movie-monad",
         "com.microsoft.Edge",
-        "com.notepadqq.Notepadqq",
         "com.vivaldi.Vivaldi",
         "de.ifw_dresden.nagstamon",
         "de.rwth_aachen.ient.RDPlot",
@@ -2191,7 +2190,6 @@
         "com.hack_computer.Clubhouse",
         "com.ktechpit.wonderwall",
         "com.microsoft.Edge",
-        "com.notepadqq.Notepadqq",
         "com.vivaldi.Vivaldi",
         "de.ifw_dresden.nagstamon",
         "de.rwth_aachen.ient.RDPlot",
@@ -2739,7 +2737,6 @@
     ],
     "xdg-data/Trash": [
         "com.calibre_ebook.calibre",
-        "com.github.git_cola.git-cola",
         "com.zettlr.Zettlr",
         "io.github.shiftey.Desktop",
         "org.kde.gwenview"
@@ -2819,8 +2816,7 @@
         "com.heroicgameslauncher.hgl",
         "gg.minion.Minion",
         "io.github.philipk.boilr",
-        "io.github.tralph3.Steam_Metadata_Editor",
-        "xyz.hyperplay.HyperPlay"
+        "io.github.tralph3.Steam_Metadata_Editor"
     ],
     "xdg-documents/VoidSW:create": [
         "com.eduke32.EDuke32"
@@ -2837,8 +2833,7 @@
         "gg.minion.Minion",
         "io.github.philipk.boilr",
         "net.davidotek.pupgui2",
-        "net.studio08.xbplay",
-        "xyz.hyperplay.HyperPlay"
+        "net.studio08.xbplay"
     ],
     "xdg-run/gnupg:ro": [
         "com.gitfiend.GitFiend",
@@ -2934,6 +2929,7 @@
         "info.mumble.Mumble",
         "io.github.celluloid_player.Celluloid",
         "io.github.dosbox-staging",
+        "io.github.dweymouth.supersonic",
         "io.github.ripose_jp.Memento",
         "io.mpv.Mpv",
         "me.timschneeberger.jdsp4linux",
@@ -2965,7 +2961,8 @@
     "~/.local/share/applications": [
         "com.github.alexkdeveloper.desktop-files-creator",
         "com.github.ryonakano.pinit",
-        "org.kde.angelfish"
+        "org.kde.angelfish",
+        "xyz.hyperplay.HyperPlay"
     ],
     "xdg-config/autostart:create": [
         "com.github.bluesabre.darkbar",
@@ -3147,13 +3144,10 @@
     "xdg-data/applications": [
         "com.heroicgameslauncher.hgl",
         "io.github.fabrialberio.pinapp",
-        "it.mijorus.gearlever",
-        "page.codeberg.libre_menu_editor.LibreMenuEditor",
-        "xyz.hyperplay.HyperPlay"
+        "page.codeberg.libre_menu_editor.LibreMenuEditor"
     ],
     "xdg-data/lutris": [
-        "com.heroicgameslauncher.hgl",
-        "xyz.hyperplay.HyperPlay"
+        "com.heroicgameslauncher.hgl"
     ],
     "~/Games/Heroic:create": [
         "com.heroicgameslauncher.hgl"
@@ -3288,12 +3282,10 @@
         "com.visualstudio.code",
         "de.willuhn.Jameica",
         "dev.bsnes.bsnes",
-        "info.cemu.Cemu",
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
         "io.github.slgobinath.SafeEyes",
         "it.fabiodistasio.AntaresSQL",
-        "net.retrodeck.retrodeck",
         "org.ferdium.Ferdium",
         "org.ryujinx.Ryujinx"
     ],
@@ -3306,20 +3298,23 @@
     "~/.local/share/Steam": [
         "com.vysp3r.ProtonPlus",
         "net.davidotek.pupgui2",
-        "net.studio08.xbplay"
+        "net.studio08.xbplay",
+        "xyz.hyperplay.HyperPlay"
     ],
     "~/.var/app/com.heroicgameslauncher.hgl/config/heroic": [
         "com.vysp3r.ProtonPlus"
     ],
     "~/.config/heroic": [
         "com.vysp3r.ProtonPlus",
-        "io.github.philipk.boilr"
+        "io.github.philipk.boilr",
+        "xyz.hyperplay.HyperPlay"
     ],
     "~/.local/share/bottles": [
         "com.vysp3r.ProtonPlus"
     ],
     "~/.local/share/lutris": [
-        "com.vysp3r.ProtonPlus"
+        "com.vysp3r.ProtonPlus",
+        "xyz.hyperplay.HyperPlay"
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam": [
         "com.vysp3r.ProtonPlus",
@@ -3719,9 +3714,6 @@
     ],
     "/var/log/pacman.log:ro": [
         "it.cuteworks.pacmanlogviewer"
-    ],
-    "xdg-data/icons:ro": [
-        "it.mijorus.gearlever"
     ],
     "~/.local/share/fonts:ro": [
         "md.obsidian.Obsidian"
@@ -4131,9 +4123,6 @@
     ],
     "~/.zoom:create": [
         "us.zoom.Zoom"
-    ],
-    "xdg-config/heroic": [
-        "xyz.hyperplay.HyperPlay"
     ],
     "~/Games/HyperPlay:create": [
         "xyz.hyperplay.HyperPlay"

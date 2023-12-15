@@ -23,13 +23,8 @@
         "org.pymol.PyMOL",
         "org.qgis.qgis"
     ],
-    "6.5": [
-        "com.rtosta.zapzap",
-        "me.mitya57.ReText",
-        "org.plomgrading.PlomClient",
-        "page.codeberg.DrRac27.Karoto"
-    ],
     "6.6": [
+        "com.rtosta.zapzap",
         "io.github.hydrusnetwork.hydrus",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
         "page.codeberg.JakobDev.jdAppStreamEdit",
@@ -44,6 +39,11 @@
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
         "page.codeberg.JakobDev.jdTextEdit"
+    ],
+    "6.5": [
+        "me.mitya57.ReText",
+        "org.plomgrading.PlomClient",
+        "page.codeberg.DrRac27.Karoto"
     ],
     "6.4": [
         "org.beeref.BeeRef"

@@ -172,6 +172,9 @@
     "com.sublimemerge": [
         "com.sublimemerge.App"
     ],
+    "com.steampowered.*": [
+        "com.valvesoftware.Steam"
+    ],
     "org.mpris.mediaplayer2.thebeat": [
         "com.vicr123.thebeat"
     ],

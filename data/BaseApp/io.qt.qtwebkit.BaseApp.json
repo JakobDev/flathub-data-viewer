@@ -17,8 +17,10 @@
     "5.14": [
         "com.ktechpit.wonderwall"
     ],
+    "5.15-23.08": [
+        "com.notepadqq.Notepadqq"
+    ],
     "5.15-21.08": [
-        "com.notepadqq.Notepadqq",
         "com.sourcepole.kadas",
         "io.github.cloose.CuteMarkEd"
     ]
