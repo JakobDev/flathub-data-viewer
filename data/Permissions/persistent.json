@@ -166,6 +166,10 @@
         "games.zetsubou.WanderNoMore",
         "sh.fhs.KatawaShoujoReEngineered"
     ],
+    "~/.ssh": [
+        "com.logseq.Logseq",
+        "md.obsidian.Obsidian"
+    ],
     ".minecraft": [
         "com.lunarclient.LunarClient",
         "com.mojang.Minecraft"
@@ -410,9 +414,6 @@
     ],
     ".local/share/openspades": [
         "jp.yvt.OpenSpades"
-    ],
-    "~/.ssh": [
-        "md.obsidian.Obsidian"
     ],
     ".bl2": [
         "net.blockout.BlockOutII"

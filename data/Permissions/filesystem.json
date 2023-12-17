@@ -2975,6 +2975,7 @@
     "xdg-data/flatpak/app:ro": [
         "com.github.bluesabre.darkbar",
         "com.github.tchx84.Flatseal",
+        "hu.kramo.Cartridges",
         "io.github.shiftey.Desktop",
         "io.missioncenter.MissionCenter",
         "net.nokyan.Resources",
@@ -2984,6 +2985,7 @@
         "com.github.bluesabre.darkbar",
         "com.github.tchx84.Flatseal",
         "com.hack_computer.Clubhouse",
+        "hu.kramo.Cartridges",
         "io.github.giantpinkrobots.flatsweep",
         "io.github.shiftey.Desktop",
         "io.gitlab.gwendalj.package-transporter",
@@ -3136,7 +3138,8 @@
         "io.github.giantpinkrobots.flatsweep"
     ],
     "/var/lib/flatpak/exports:ro": [
-        "com.hack_computer.Clubhouse"
+        "com.hack_computer.Clubhouse",
+        "hu.kramo.Cartridges"
     ],
     "~/.local/share/flatpak/exports:ro": [
         "com.hack_computer.Clubhouse"
@@ -3402,21 +3405,12 @@
         "hu.kramo.Cartridges",
         "io.github.loot.loot"
     ],
-    "/var/lib/flatpak:ro": [
-        "hu.kramo.Cartridges",
-        "io.github.fabrialberio.pinapp",
-        "io.github.flattool.Warehouse",
-        "io.github.vikdevelop.SaveDesktop",
-        "org.bluesabre.MenuLibre",
-        "org.freedesktop.appstream-glib",
-        "org.freedesktop.appstream.cli",
-        "page.codeberg.JakobDev.jdFlatpakSnapshot",
-        "page.codeberg.libre_menu_editor.LibreMenuEditor",
-        "re.sonny.Junction"
-    ],
     "~/.var/app/com.usebottles.bottles/data/bottles:ro": [
         "hu.kramo.Cartridges",
         "io.github.fastrizwaan.WineZGUI"
+    ],
+    "xdg-data/flatpak/exports:ro": [
+        "hu.kramo.Cartridges"
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam:ro": [
         "hu.kramo.Cartridges"
@@ -3482,6 +3476,17 @@
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Celeste": [
         "io.github.everestapi.Olympus"
+    ],
+    "/var/lib/flatpak:ro": [
+        "io.github.fabrialberio.pinapp",
+        "io.github.flattool.Warehouse",
+        "io.github.vikdevelop.SaveDesktop",
+        "org.bluesabre.MenuLibre",
+        "org.freedesktop.appstream-glib",
+        "org.freedesktop.appstream.cli",
+        "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.libre_menu_editor.LibreMenuEditor",
+        "re.sonny.Junction"
     ],
     "/var/lib/snapd:ro": [
         "io.github.fabrialberio.pinapp",
@@ -3792,9 +3797,6 @@
     ],
     "~/.rdm:create": [
         "net.devolutions.RDM"
-    ],
-    "xdg-data/applications/RPCS3": [
-        "net.rpcs3.RPCS3"
     ],
     "/run/ikedi": [
         "net.shrew.ike.qikea"
