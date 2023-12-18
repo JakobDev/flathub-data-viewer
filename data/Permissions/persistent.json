@@ -232,7 +232,8 @@
     ],
     ".eclipse": [
         "com.st.STM32CubeIDE",
-        "org.apache.directory.studio"
+        "org.apache.directory.studio",
+        "org.eclipse.Java"
     ],
     ".stepmania-5.1": [
         "com.stepmania.StepMania"
