@@ -855,7 +855,6 @@
         "com.github.micahflee.torbrowser-launcher",
         "com.github.powertab.powertabeditor",
         "com.github.quaternion",
-        "com.github.scrivanolabs.scrivano",
         "com.github.shonumi.gbe-plus",
         "com.github.varnholt.dynablaster_revenge",
         "com.github.vkohaupt.vokoscreenNG",
@@ -1297,7 +1296,6 @@
         "com.github.micahflee.torbrowser-launcher",
         "com.github.powertab.powertabeditor",
         "com.github.quaternion",
-        "com.github.scrivanolabs.scrivano",
         "com.github.shonumi.gbe-plus",
         "com.github.varnholt.dynablaster_revenge",
         "com.github.vkohaupt.vokoscreenNG",
@@ -1636,6 +1634,7 @@
         "org.munadi.Munadi",
         "org.musescore.MuseScore",
         "org.musicbrainz.Picard",
+        "org.nomacs.ImageLounge",
         "org.octave.Octave",
         "org.onionshare.OnionShare",
         "org.openchemistry.Avogadro2",
@@ -2884,8 +2883,7 @@
         "net.waterfox.waterfox",
         "one.ablaze.floorp",
         "org.mozilla.Thunderbird",
-        "org.mozilla.firefox",
-        "org.nomacs.ImageLounge"
+        "org.mozilla.firefox"
     ],
     "org.gtk.notifications": [
         "com.github.IsmaelMartinez.teams_for_linux",

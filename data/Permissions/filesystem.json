@@ -1909,6 +1909,7 @@
         "org.kde.kaffeine",
         "org.moneymanagerex.MMEX",
         "org.nicotine_plus.Nicotine",
+        "org.nomacs.ImageLounge",
         "org.opennumismat.OpenNumismat",
         "org.raspberrypi.rpi-imager",
         "org.sabnzbd.sabnzbd",
@@ -3290,8 +3291,7 @@
         "io.github.quodlibet.QuodLibet",
         "io.github.slgobinath.SafeEyes",
         "it.fabiodistasio.AntaresSQL",
-        "org.ferdium.Ferdium",
-        "org.ryujinx.Ryujinx"
+        "org.ferdium.Ferdium"
     ],
     "xdg-pictures/Vivaldi Captures:create": [
         "com.vivaldi.Vivaldi"
