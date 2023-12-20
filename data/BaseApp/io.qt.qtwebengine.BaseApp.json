@@ -2,7 +2,6 @@
     "6.6": [
         "ch.openboard.OpenBoard",
         "com.github.jmlich.geotagging",
-        "com.riverbankcomputing.PyQt.BaseApp",
         "net.jami.Jami",
         "org.jacktrip.JackTrip"
     ],
@@ -50,6 +49,11 @@
         "org.rolisteam.rolisteam",
         "org.zealdocs.Zeal"
     ],
+    "6.5": [
+        "com.riverbankcomputing.PyQt.BaseApp",
+        "io.github.xiaoyifang.goldendict_ng",
+        "io.mrarm.mcpelauncher"
+    ],
     "5.15": [
         "com.wiz.Note",
         "io.github.maurycyliebner.enve",
@@ -57,10 +61,6 @@
     ],
     "6.2": [
         "dev.lukebriggs.pepys"
-    ],
-    "6.5": [
-        "io.github.xiaoyifang.goldendict_ng",
-        "io.mrarm.mcpelauncher"
     ],
     "6.4": [
         "org.jaspstats.JASP"

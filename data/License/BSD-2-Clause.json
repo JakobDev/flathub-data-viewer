@@ -13,6 +13,7 @@
     "org.linux_hardware.hw-probe",
     "org.purei.Play",
     "org.pyzo.pyzo",
+    "org.ultimatepp.TheIDE",
     "org.freedesktop.LinuxAudio.Plugins.sfizz",
     "org.freedesktop.Platform.VulkanLayer.gamescope"
 ]

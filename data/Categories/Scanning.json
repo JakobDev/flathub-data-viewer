@@ -10,6 +10,7 @@
     "org.audiveris.audiveris",
     "org.gnome.OCRFeeder",
     "org.gnome.SimpleScan",
+    "org.kde.skanpage",
     "vn.hoabinh.quan.CoBang",
     "work.openpaper.Paperwork",
     "xyz.rescribe.rescribe"

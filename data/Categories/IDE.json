@@ -45,10 +45,12 @@
     "org.gnome.Builder",
     "org.godotengine.Godot",
     "org.godotengine.Godot3",
+    "org.godotengine.Godot3Sharp",
     "org.godotengine.GodotSharp",
     "org.kde.kdevelop",
     "org.processing.processingide",
     "org.thonny.Thonny",
+    "org.ultimatepp.TheIDE",
     "re.sonny.Playhouse",
     "re.sonny.Workbench"
 ]

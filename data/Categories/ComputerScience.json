@@ -3,6 +3,7 @@
     "fr.inria.corese.CoreseCommand",
     "fr.inria.corese.CoreseGui",
     "io.github.TheThirdOne.rars",
+    "org.jflap.JFLAP",
     "org.kde.kturtle",
     "org.lamport.tla.toolbox",
     "org.mmass.mMass",

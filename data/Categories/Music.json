@@ -57,5 +57,6 @@
     "org.musescore.MuseScore",
     "org.sugarlabs.MusicBlocks",
     "org.thentrythis.Samplebrain",
-    "sh.xaviers.Opentapes"
+    "sh.xaviers.Opentapes",
+    "xyz.audiostellar.AudioStellar"
 ]

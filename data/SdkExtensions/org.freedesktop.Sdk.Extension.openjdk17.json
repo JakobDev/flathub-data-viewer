@@ -44,6 +44,7 @@
     "org.freeplane.App",
     "org.ghidra_sre.Ghidra",
     "org.jdownloader.JDownloader",
+    "org.jflap.JFLAP",
     "org.libreoffice.LibreOffice",
     "org.openstreetmap.josm",
     "org.polymc.PolyMC",

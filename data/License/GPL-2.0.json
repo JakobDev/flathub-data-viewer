@@ -116,6 +116,7 @@
     "org.zirael.bkchem.BKChem",
     "studio.kx.carla",
     "uk.co.parallelrealities.games.edgar",
+    "xyz.audiostellar.AudioStellar",
     "com.obsproject.Studio.Plugin.BackgroundRemoval",
     "com.obsproject.Studio.Plugin.DroidCam",
     "com.obsproject.Studio.Plugin.GStreamerVaapi",

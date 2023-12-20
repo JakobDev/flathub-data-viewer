@@ -7,5 +7,6 @@
     "io.github.randovania.Randovania",
     "net.lutris.Lutris",
     "org.gnome.gbrainy",
+    "org.godotengine.Godot3Sharp",
     "org.sil.Bloom"
 ]

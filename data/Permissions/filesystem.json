@@ -152,6 +152,7 @@
         "com.voxdsp.VoxelPaintPro",
         "com.wings3d.WINGS",
         "com.wire.WireDesktop",
+        "com.writerduet.writersolo",
         "com.xnview.XnConvert",
         "com.xnview.XnRetro",
         "com.xnview.XnSketch",
@@ -218,6 +219,7 @@
         "io.github.foldynl.QLog",
         "io.github.fralonra.PpdEditor",
         "io.github.garglk.Gargoyle",
+        "io.github.gerryferdinandus.bittorrent-tracker-editor",
         "io.github.gssh_linux.gssh",
         "io.github.gtkwave.GTKWave",
         "io.github.hakuneko.HakuNeko",
@@ -366,6 +368,7 @@
         "org.jabref.jabref",
         "org.jamovi.jamovi",
         "org.jaspstats.JASP",
+        "org.jflap.JFLAP",
         "org.js.nuclear.Nuclear",
         "org.jupyter.JupyterLab",
         "org.kde.dolphin",
@@ -386,6 +389,7 @@
         "org.librehunt.Organizer",
         "org.librepcb.LibrePCB",
         "org.libvips.vipsdisp",
+        "org.linuxshowplayer.LinuxShowPlayer",
         "org.mamedev.MAME",
         "org.mavlink.qgroundcontrol",
         "org.mfek.MFEKglif",
@@ -446,6 +450,7 @@
         "site.someones.Lonewolf",
         "studio.kx.carla",
         "uk.et1.big-finish-downloader",
+        "xyz.audiostellar.AudioStellar",
         "xyz.rescribe.rescribe",
         "xyz.woxel.Woxel"
     ],
@@ -809,6 +814,7 @@
         "io.github.dummerle.rare",
         "io.github.foldynl.QLog",
         "io.github.garglk.Gargoyle",
+        "io.github.gerryferdinandus.bittorrent-tracker-editor",
         "io.github.giantpinkrobots.bootqt",
         "io.github.gillesdegottex.FMIT",
         "io.github.hermitdemschoenenleben.linien",
@@ -825,6 +831,7 @@
         "io.github.labsquare.CutePeaks",
         "io.github.libvibrant.vibrantLinux",
         "io.github.loot.loot",
+        "io.github.mak448a.QTCord",
         "io.github.markummitchell.Engauge_Digitizer",
         "io.github.martinrotter.rssguard",
         "io.github.martinrotter.rssguardlite",
@@ -1143,12 +1150,14 @@
         "org.kde.okular",
         "org.kde.palapeli",
         "org.kde.parley",
+        "org.kde.peruse",
         "org.kde.picmi",
         "org.kde.pix",
         "org.kde.plasmatube",
         "org.kde.qmlkonsole",
         "org.kde.rocs",
         "org.kde.ruqola",
+        "org.kde.skanpage",
         "org.kde.skrooge",
         "org.kde.subtitlecomposer",
         "org.kde.tellico",
@@ -1164,6 +1173,7 @@
         "org.librepcb.LibrePCB",
         "org.libretro.RetroArch",
         "org.linux_hardware.hw-probe",
+        "org.linuxshowplayer.LinuxShowPlayer",
         "org.lyx.LyX",
         "org.mamedev.MAME",
         "org.mapeditor.Tiled",
@@ -1246,6 +1256,7 @@
         "page.codeberg.JakobDev.jdMrpackInstaller",
         "page.codeberg.JakobDev.jdNBTExplorer",
         "page.codeberg.JakobDev.jdPixelUpscaler",
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
         "page.codeberg.JakobDev.jdTextEdit",
@@ -1646,6 +1657,7 @@
         "org.gnupg.GPA",
         "org.godotengine.Godot",
         "org.godotengine.Godot3",
+        "org.godotengine.Godot3Sharp",
         "org.godotengine.GodotSharp",
         "org.greenfoot.Greenfoot",
         "org.gtkhash.gtkhash",
@@ -1701,6 +1713,7 @@
         "org.tenacityaudio.Tenacity",
         "org.texstudio.TeXstudio",
         "org.tug.texworks",
+        "org.ultimatepp.TheIDE",
         "org.videolan.VLC",
         "org.viking.Viking",
         "org.vim.Vim",
@@ -1850,6 +1863,7 @@
         "org.virtualxt.VirtualXT",
         "org.zim_wiki.Zim",
         "tv.kodi.Kodi",
+        "xyz.audiostellar.AudioStellar",
         "xyz.hyperplay.HyperPlay"
     ],
     "/run/media": [
@@ -1920,6 +1934,7 @@
         "org.virtualxt.VirtualXT",
         "org.zim_wiki.Zim",
         "tv.kodi.Kodi",
+        "xyz.audiostellar.AudioStellar",
         "xyz.hyperplay.HyperPlay"
     ],
     "xdg-run/app/com.discordapp.Discord:create": [
@@ -2075,6 +2090,7 @@
         "org.jacktrip.JackTrip",
         "org.kde.kamoso",
         "org.kde.kdenlive",
+        "org.linuxshowplayer.LinuxShowPlayer",
         "org.mixxx.Mixxx",
         "org.musescore.MuseScore",
         "org.nongnu.gsequencer.gsequencer",
@@ -2091,7 +2107,8 @@
         "org.zrythm.Zrythm",
         "ru.yandex.Browser",
         "sa.sy.bluerecorder",
-        "studio.kx.carla"
+        "studio.kx.carla",
+        "xyz.audiostellar.AudioStellar"
     ],
     "xdg-pictures/Vintagestory:create": [
         "at.vintagestory.VintageStory"
@@ -2558,6 +2575,12 @@
         "org.xfce.mousepad",
         "org.xfce.ristretto"
     ],
+    "xdg-run/app/com.discordapp.Discord": [
+        "com.adamcake.Bolt"
+    ],
+    "xdg-data/icons:create": [
+        "com.adamcake.Bolt"
+    ],
     "xdg-documents/Saber:create": [
         "com.adilhanney.saber"
     ],
@@ -2978,6 +3001,7 @@
         "io.github.shiftey.Desktop",
         "io.missioncenter.MissionCenter",
         "net.nokyan.Resources",
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "/var/lib/flatpak/app:ro": [
@@ -2990,6 +3014,7 @@
         "io.gitlab.gwendalj.package-transporter",
         "io.missioncenter.MissionCenter",
         "net.nokyan.Resources",
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "~/.Xilinx:create": [
@@ -3100,6 +3125,7 @@
         "io.github.hmlendea.geforcenow-electron",
         "io.github.mandruis7.xbox-cloud-gaming-electron",
         "io.github.punesemu.puNES",
+        "io.github.unknownskl.greenlight",
         "net.studio08.xbplay",
         "one.flipperzero.qFlipper",
         "org.expresslrs.ExpressLRSConfigurator",
@@ -4073,22 +4099,28 @@
         "page.codeberg.JakobDev.jdMinecraftLauncher"
     ],
     "host-etc:ro": [
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "/var/lib/flatpak/exports/share/applications:ro": [
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "xdg-data/flatpak/exports/share/icons:ro": [
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "/var/lib/flatpak/exports/share/icons:ro": [
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "xdg-data/applications:ro": [
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdSimpleAutostart",
         "re.sonny.Junction"
     ],
     "xdg-data/flatpak/exports/share/applications:ro": [
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "host-os:ro": [

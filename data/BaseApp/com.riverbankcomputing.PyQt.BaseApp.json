@@ -19,6 +19,7 @@
         "io.github.veusz.Veusz",
         "net.sourceforge.scidavis",
         "org.frescobaldi.Frescobaldi",
+        "org.linuxshowplayer.LinuxShowPlayer",
         "org.pairinteraction.Pairinteraction",
         "org.pymol.PyMOL",
         "org.qgis.qgis"
@@ -36,6 +37,7 @@
         "page.codeberg.JakobDev.jdMinecraftLauncher",
         "page.codeberg.JakobDev.jdMrpackInstaller",
         "page.codeberg.JakobDev.jdNBTExplorer",
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
         "page.codeberg.JakobDev.jdTextEdit"
