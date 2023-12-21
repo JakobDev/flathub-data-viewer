@@ -6,5 +6,6 @@
     "org.cloudcompare.CloudCompare",
     "org.duckstation.DuckStation",
     "org.fkoehler.KTailctl",
+    "org.kde.kdenlive",
     "org.ultimatepp.TheIDE"
 ]
