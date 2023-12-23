@@ -371,6 +371,9 @@
     ".ezquake": [
         "io.github.ezQuake"
     ],
+    ".datcord": [
+        "io.github.gamingdoom.Datcord"
+    ],
     ".ja2": [
         "io.github.ja2_stracciatella.JA2-Stracciatella"
     ],

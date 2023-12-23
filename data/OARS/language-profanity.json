@@ -15,7 +15,6 @@
         "org.tildearrow.furnace",
         "org.tordini.flavio.Minitube",
         "org.unitystation.StationHub",
-        "sh.fhs.KatawaShoujoReEngineered",
         "sh.xaviers.Opentapes"
     ],
     "none": [
@@ -291,6 +290,7 @@
         "io.github.naikari.Naikari",
         "io.github.pr_starfighter.starfighter",
         "io.github.troyeguo.koodo-reader",
-        "org.kryogenix.Pick"
+        "org.kryogenix.Pick",
+        "sh.fhs.KatawaShoujoReEngineered"
     ]
 }

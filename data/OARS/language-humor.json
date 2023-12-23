@@ -12,8 +12,7 @@
         "io.github.sharkwouter.Minigalaxy",
         "org.firestormviewer.FirestormViewer",
         "org.phoenicis.playonlinux",
-        "org.tordini.flavio.Minitube",
-        "sh.fhs.KatawaShoujoReEngineered"
+        "org.tordini.flavio.Minitube"
     ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",
@@ -254,7 +253,8 @@
         "io.github.troyeguo.koodo-reader",
         "org.kryogenix.Pick",
         "org.naev.Naev",
-        "org.unitystation.StationHub"
+        "org.unitystation.StationHub",
+        "sh.fhs.KatawaShoujoReEngineered"
     ],
     "mild": [
         "com.github.dariasteam.cowsrevenge",
