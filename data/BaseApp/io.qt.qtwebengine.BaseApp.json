@@ -2,6 +2,7 @@
     "6.6": [
         "ch.openboard.OpenBoard",
         "com.github.jmlich.geotagging",
+        "io.github.xiaoyifang.goldendict_ng",
         "net.jami.Jami",
         "org.jacktrip.JackTrip"
     ],
@@ -51,7 +52,6 @@
     ],
     "6.5": [
         "com.riverbankcomputing.PyQt.BaseApp",
-        "io.github.xiaoyifang.goldendict_ng",
         "io.mrarm.mcpelauncher"
     ],
     "5.15": [

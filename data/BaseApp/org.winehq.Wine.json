@@ -1,6 +1,7 @@
 {
     "stable-23.08": [
         "com.playonlinux.PlayOnLinux4",
+        "com.usebottles.bottles",
         "io.github.aggalex.Wineglass",
         "io.github.fastrizwaan.WineZGUI",
         "io.github.sharkwouter.Minigalaxy",
@@ -8,7 +9,6 @@
         "ua.org.brezblock.q4wine"
     ],
     "stable-22.08": [
-        "com.usebottles.bottles",
         "io.itch.itch"
     ]
 }
