@@ -2838,7 +2838,6 @@
         "com.eduke32.EDuke32",
         "com.github.Matoking.protontricks",
         "com.github.theCalcaholic.StreamDeck",
-        "com.heroicgameslauncher.hgl",
         "gg.minion.Minion",
         "io.github.philipk.boilr",
         "io.github.tralph3.Steam_Metadata_Editor"
@@ -2985,6 +2984,7 @@
     "~/.local/share/applications": [
         "com.github.alexkdeveloper.desktop-files-creator",
         "com.github.ryonakano.pinit",
+        "com.heroicgameslauncher.hgl",
         "org.kde.angelfish",
         "xyz.hyperplay.HyperPlay"
     ],
@@ -3170,13 +3170,14 @@
     "/var/lib/AccountsService/icons:ro": [
         "com.hack_computer.Clubhouse"
     ],
-    "xdg-data/applications": [
+    "~/.steam/steam": [
         "com.heroicgameslauncher.hgl",
-        "io.github.fabrialberio.pinapp",
-        "page.codeberg.libre_menu_editor.LibreMenuEditor"
+        "io.github.Foldex.AdwSteamGtk"
     ],
-    "xdg-data/lutris": [
-        "com.heroicgameslauncher.hgl"
+    "~/.local/share/lutris": [
+        "com.heroicgameslauncher.hgl",
+        "com.vysp3r.ProtonPlus",
+        "xyz.hyperplay.HyperPlay"
     ],
     "~/Games/Heroic:create": [
         "com.heroicgameslauncher.hgl"
@@ -3280,6 +3281,9 @@
     "~/.var/app/com.valvesoftware.Steam/data/registry.vdf:ro": [
         "com.steamgriddb.SGDBoop"
     ],
+    "xdg-documents/.terCAD:create": [
+        "com.tercad.fingrom"
+    ],
     "~/.vst:create": [
         "com.tracktion.Waveform"
     ],
@@ -3339,10 +3343,6 @@
     ],
     "~/.local/share/bottles": [
         "com.vysp3r.ProtonPlus"
-    ],
-    "~/.local/share/lutris": [
-        "com.vysp3r.ProtonPlus",
-        "xyz.hyperplay.HyperPlay"
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam": [
         "com.vysp3r.ProtonPlus",
@@ -3459,9 +3459,6 @@
     "~/.var/app/com.valvesoftware.Steam/.steam/steam": [
         "io.github.Foldex.AdwSteamGtk"
     ],
-    "~/.steam/steam": [
-        "io.github.Foldex.AdwSteamGtk"
-    ],
     "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/632360": [
         "io.github.Foldex.r2mod"
     ],
@@ -3498,6 +3495,10 @@
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Celeste": [
         "io.github.everestapi.Olympus"
+    ],
+    "xdg-data/applications": [
+        "io.github.fabrialberio.pinapp",
+        "page.codeberg.libre_menu_editor.LibreMenuEditor"
     ],
     "/var/lib/flatpak:ro": [
         "io.github.fabrialberio.pinapp",
