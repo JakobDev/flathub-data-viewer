@@ -2293,6 +2293,7 @@
         "com.nextcloud.desktopclient.nextcloud",
         "com.opera.Opera",
         "com.vivaldi.Vivaldi",
+        "com.vscodium.codium",
         "org.chromium.Chromium",
         "org.cryptomator.Cryptomator",
         "org.gajim.Gajim",
