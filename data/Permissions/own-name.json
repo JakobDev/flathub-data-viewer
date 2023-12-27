@@ -27,7 +27,6 @@
         "org.cubocore.CoreKeyboard",
         "org.cubocore.CoreTime",
         "org.easycoding.TunedSwitcher",
-        "org.flameshot.Flameshot",
         "org.ksnip.ksnip",
         "org.qutebrowser.qutebrowser",
         "org.tribler.Tribler",
