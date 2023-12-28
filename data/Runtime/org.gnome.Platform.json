@@ -61,7 +61,6 @@
         "com.raggesilver.BlackBox",
         "com.ranfdev.Geopard",
         "com.ranfdev.Lobjur",
-        "com.rawtherapee.RawTherapee",
         "com.st.STM32CubeIDE",
         "com.stremio.Service",
         "com.tomjwatson.Emote",
@@ -275,7 +274,6 @@
         "uk.co.mangobrain.Infector",
         "uk.et1.big-finish-downloader",
         "uk.jnthn.backgammony",
-        "vn.hoabinh.quan.CoBang",
         "work.openpaper.Paperwork"
     ],
     "45": [
@@ -377,6 +375,7 @@
         "com.rafaelmardojai.SharePreview",
         "com.rafaelmardojai.WebfontKitGenerator",
         "com.ranfdev.Notify",
+        "com.rawtherapee.RawTherapee",
         "com.syntevo.SmartGit",
         "com.syntevo.SmartSynchronize",
         "com.tercad.fingrom",
@@ -612,6 +611,7 @@
         "site.someones.Lonewolf",
         "sm.puri.Chatty",
         "so.libdb.gtkcord4",
+        "vn.hoabinh.quan.CoBang",
         "xyz.aguno.CubeTimer",
         "xyz.ketok.Speedtest",
         "xyz.safeworlds.hiit",
