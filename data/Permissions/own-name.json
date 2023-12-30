@@ -280,7 +280,7 @@
     "org.mpris.mediaplayer2.bible": [
         "net.lugsole.bible_gui"
     ],
-    "org.mozilla.mullvadbrowser.*": [
+    "org.mozilla.mullvad_browser.*": [
         "net.mullvad.MullvadBrowser"
     ],
     "org.mpris.mediaplayer2.net.sonic_pi.sonicpi": [
