@@ -12,7 +12,8 @@
     "5.15-23.08": [
         "io.github.veusz.Veusz",
         "org.kde.kcachegrind",
-        "org.kde.kdevelop"
+        "org.kde.kdevelop",
+        "org.octave.Octave"
     ],
     "6.6": [
         "io.qt.Designer",
@@ -21,7 +22,6 @@
         "page.codeberg.JakobDev.jdTextEdit"
     ],
     "5.15-22.08": [
-        "org.octave.Octave",
         "org.paraview.ParaView"
     ]
 }
