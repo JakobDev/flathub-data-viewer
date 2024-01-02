@@ -28,6 +28,7 @@
         "org.flathub.flatpak-external-data-checker",
         "org.geany.Geany",
         "org.ghidra_sre.Ghidra",
+        "org.godotengine.Godot",
         "org.kicad.KiCad",
         "org.scintilla.SciTE",
         "org.thonny.Thonny",

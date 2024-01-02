@@ -2339,7 +2339,6 @@
         "ca.desrt.dconf-editor",
         "com.brave.Browser",
         "com.georgefb.mangareader",
-        "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.Qv2ray",
         "com.github.calo001.fondo",
         "com.github.xournalpp.xournalpp",
@@ -2583,6 +2582,7 @@
         "chat.rocket.RocketChat",
         "codes.loers.Karlender",
         "com.cocoatech.deckr",
+        "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.zocker_160.SyncThingy",
         "gg.guilded.Guilded",
         "me.timschneeberger.jdsp4linux"

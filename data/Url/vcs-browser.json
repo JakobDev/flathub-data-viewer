@@ -132,6 +132,8 @@
     "net.mullvad.MullvadBrowser",
     "net.nokyan.Resources",
     "net.pcsx2.PCSX2",
+    "net.rpcs3.RPCS3",
+    "net.sourceforge.VMPK",
     "net.supertuxkart.SuperTuxKart",
     "online.athn.browser.gnome",
     "org.KekikAkademi.BTKSorgu",
