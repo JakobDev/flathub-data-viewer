@@ -130,6 +130,7 @@
     "org.freedesktop.Sdk.Extension.openjdk",
     "org.freedesktop.Sdk.Extension.openjdk11",
     "org.freedesktop.Sdk.Extension.openjdk17",
+    "org.freedesktop.Sdk.Extension.openjdk21",
     "org.freedesktop.Sdk.Extension.openjdk8",
     "org.freedesktop.Sdk.Extension.php73",
     "org.freedesktop.Sdk.Extension.php74",

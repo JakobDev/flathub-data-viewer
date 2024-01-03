@@ -267,6 +267,10 @@
         "com.ktechpit.whatsie",
         "org.kde.falkon"
     ],
+    "org.freedesktop.policykit1": [
+        "com.quexten.Goldwarden",
+        "org.gnome.Builder"
+    ],
     "org.fedoraproject.firewalld1": [
         "com.sireliah.Dragit",
         "org.gnome.NetworkDisplays"
@@ -317,9 +321,6 @@
         "org.gnome.Firmware"
     ],
     "org.gnome.sysprof3": [
-        "org.gnome.Builder"
-    ],
-    "org.freedesktop.policykit1": [
         "org.gnome.Builder"
     ],
     "org.freedesktop.modemmanager1": [

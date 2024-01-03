@@ -24,6 +24,7 @@
     "com.voxdsp.Snowling",
     "com.voxdsp.Spaceminer",
     "com.voxdsp.TuxScape",
+    "com.voxdsp.TuxVsDragon",
     "com.voxdsp.Tuxocide",
     "com.voxdsp.aigeneratedgame",
     "de.blobbyvolley.BlobbyVolley2",
@@ -83,6 +84,7 @@
     "org.supertuxproject.SuperTux",
     "org.taisei_project.Taisei",
     "page.codeberg.yeldham.Librerama",
+    "tk.deat.Jazz2Resurrection",
     "tw.ddnet.ddnet",
     "uk.me.doof.Lander"
 ]

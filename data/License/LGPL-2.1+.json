@@ -1,7 +1,6 @@
 [
     "com.github.bajoja.indicator-kdeconnect",
     "org.fcitx.Fcitx5",
-    "org.freedesktop.Bustle",
     "org.freedesktop.appstream.cli",
     "org.gnome.Boxes",
     "org.gnome.Geary",

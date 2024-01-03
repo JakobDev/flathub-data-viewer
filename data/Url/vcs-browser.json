@@ -154,6 +154,7 @@
     "org.expresslrs.ExpressLRSConfigurator",
     "org.featherwallet.Feather",
     "org.fkoehler.KTailctl",
+    "org.freedesktop.Bustle",
     "org.freedesktop.appstream-glib",
     "org.freedesktop.appstream.cli",
     "org.getoutline.OutlineClient",

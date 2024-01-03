@@ -433,6 +433,7 @@
         "org.signal.Signal",
         "org.sonic3air.Sonic3AIR",
         "org.srb2.SRB2",
+        "org.srb2.SRB2Kart-Saturn",
         "org.srb2.SRB2Kart-galaxy",
         "org.srb2.SRB2Kart-galaxy_azerty",
         "org.syphon.Syphon",

@@ -56,6 +56,7 @@
         "org.solarus_games.solarus.Launcher",
         "org.sonic3air.Sonic3AIR",
         "org.srb2.SRB2",
+        "org.srb2.SRB2Kart-Saturn",
         "org.srb2.SRB2Kart-galaxy",
         "org.srb2.SRB2Kart-galaxy_azerty",
         "org.srb2.SRB2Kart",
@@ -63,6 +64,7 @@
         "org.vinegarhq.Vinegar",
         "org.widelands.Widelands",
         "page.codeberg.JakobDev.jdMinecraftLauncher",
+        "tk.deat.Jazz2Resurrection",
         "tw.ddnet.ddnet",
         "vet.rsc.OpenRSC.Launcher",
         "xyz.hyperplay.HyperPlay"

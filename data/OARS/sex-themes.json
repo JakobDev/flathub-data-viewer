@@ -248,7 +248,8 @@
         "io.github.listen1.Listen1",
         "io.github.troyeguo.koodo-reader",
         "net.runelite.RuneLite",
-        "org.gnome.gitlab.Cowsay"
+        "org.gnome.gitlab.Cowsay",
+        "tk.deat.Jazz2Resurrection"
     ],
     "intense": [
         "com.eduke32.EDuke32",

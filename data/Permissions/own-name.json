@@ -137,7 +137,8 @@
     ],
     "org.mpris.mediaplayer2.mpv.*": [
         "com.ktechpit.orion",
-        "io.mpv.Mpv"
+        "io.mpv.Mpv",
+        "org.gtaf.quran"
     ],
     "org.mpris.mediaplayer2.tidal-hifi": [
         "com.mastermindzh.tidal-hifi"

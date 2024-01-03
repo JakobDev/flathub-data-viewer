@@ -865,7 +865,6 @@
         "com.github.quaternion",
         "com.github.shonumi.gbe-plus",
         "com.github.varnholt.dynablaster_revenge",
-        "com.github.vkohaupt.vokoscreenNG",
         "com.github.zocker_160.SyncThingy",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.gitlab.Murmele.UDPLogger",
@@ -1312,7 +1311,6 @@
         "com.github.quaternion",
         "com.github.shonumi.gbe-plus",
         "com.github.varnholt.dynablaster_revenge",
-        "com.github.vkohaupt.vokoscreenNG",
         "com.github.zocker_160.SyncThingy",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.gitlab.Murmele.UDPLogger",
@@ -2513,6 +2511,7 @@
         "com.microsoft.EdgeDev",
         "com.moonlight_stream.Moonlight",
         "com.opera.Opera",
+        "com.quexten.Goldwarden",
         "com.skype.Client",
         "com.stremio.Stremio",
         "com.toggl.TogglDesktop",
@@ -2653,6 +2652,7 @@
         "org.gnome.Evince",
         "org.gnome.Extensions",
         "org.gnome.Totem",
+        "org.gtaf.quran",
         "org.jitsi.jitsi-meet",
         "org.keepassxc.KeePassXC",
         "org.mozilla.firefox",
@@ -3082,6 +3082,7 @@
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetbrains.PhpStorm",
+        "com.quexten.Goldwarden",
         "com.syntevo.SmartGit",
         "io.github.dweymouth.supersonic",
         "org.gnome.Evolution"
@@ -3106,6 +3107,16 @@
     ],
     "com.prusa3d.prusaslicer.instancecheck.*": [
         "com.prusa3d.PrusaSlicer"
+    ],
+    "org.gnome.screensaver": [
+        "com.quexten.Goldwarden",
+        "edu.stanford.Almond",
+        "info.olasagasti.revelation",
+        "io.github.jeffshee.Hidamari",
+        "io.github.quodlibet.QuodLibet",
+        "org.gnome.BreakTimer",
+        "org.gnome.Totem",
+        "org.keepassxc.KeePassXC"
     ],
     "org.freedesktop.portal.filechooser": [
         "com.rtosta.zapzap",
@@ -3157,15 +3168,6 @@
         "edu.stanford.Almond",
         "org.gimp.GIMP",
         "org.ksnip.ksnip"
-    ],
-    "org.gnome.screensaver": [
-        "edu.stanford.Almond",
-        "info.olasagasti.revelation",
-        "io.github.jeffshee.Hidamari",
-        "io.github.quodlibet.QuodLibet",
-        "org.gnome.BreakTimer",
-        "org.gnome.Totem",
-        "org.keepassxc.KeePassXC"
     ],
     "org.gnome.notifications": [
         "fr.henri2h.minestrix"
