@@ -584,6 +584,7 @@
         "org.cznic.Datovka",
         "org.fedoraproject.MediaWriter",
         "org.gottcode.Gottet",
+        "org.jaspstats.JASP",
         "org.mapeditor.Tiled",
         "org.mattbas.Glaxnimate",
         "org.otfried.Ipe",
@@ -630,7 +631,6 @@
         "org.beeref.BeeRef",
         "org.bino3d.bino",
         "org.featherwallet.Feather",
-        "org.jaspstats.JASP",
         "org.opentransactions.metier",
         "org.tug.texworks"
     ],

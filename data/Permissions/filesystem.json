@@ -895,7 +895,6 @@
         "io.sourceforge.qoobar.Qoobar",
         "io.trustable.stpadocumentationtool",
         "it.cuteworks.pacmanlogviewer",
-        "it.fabiodistasio.AntaresSQL",
         "me.ahola.aphototoollibre",
         "me.mitya57.ReText",
         "me.timschneeberger.jdsp4linux",
@@ -1279,6 +1278,7 @@
     "~/.var/app": [
         "app.drey.KeyRack",
         "com.borgbase.Vorta",
+        "com.github.mtkennerly.ludusavi",
         "com.github.qarmin.czkawka",
         "io.blockloader.BlockLoader",
         "io.github.flattool.Warehouse",
@@ -2787,6 +2787,7 @@
         "dev.ensoft.ecode",
         "dev.storyapps.starc",
         "io.github.brunoherbelin.Vimix",
+        "io.github.jacalz.rymdport",
         "io.github.maurycyliebner.enve",
         "io.github.nearinfinitybrowser.nearinfinity",
         "io.github.nroduit.Weasis",
@@ -3325,7 +3326,6 @@
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
         "io.github.slgobinath.SafeEyes",
-        "it.fabiodistasio.AntaresSQL",
         "org.ferdium.Ferdium"
     ],
     "xdg-pictures/Vivaldi Captures:create": [
@@ -3750,6 +3750,12 @@
     ],
     "/var/log/pacman.log:ro": [
         "it.cuteworks.pacmanlogviewer"
+    ],
+    "~/.config/kdeglobals:ro": [
+        "it.fabiodistasio.AntaresSQL"
+    ],
+    "~/.config/gtk-3.0:ro": [
+        "it.fabiodistasio.AntaresSQL"
     ],
     "~/.local/share/fonts:ro": [
         "md.obsidian.Obsidian"
