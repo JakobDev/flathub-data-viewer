@@ -3,7 +3,6 @@
         "app.bbsync.BlackboardSync",
         "com.borgbase.Vorta",
         "com.sigil_ebook.Sigil",
-        "io.github.giantpinkrobots.bootqt",
         "net.puddletag.puddletag",
         "se.sjoerd.GIScan"
     ],
@@ -14,6 +13,7 @@
         "io.github.bothlab.syntalos",
         "io.github.ciromattia.kcc",
         "io.github.dummerle.rare",
+        "io.github.giantpinkrobots.bootqt",
         "io.github.jordanl2.ModularCalculator",
         "io.github.julian_hochhaus.LG4X_V2",
         "io.github.veusz.Veusz",

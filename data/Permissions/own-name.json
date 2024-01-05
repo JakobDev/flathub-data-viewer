@@ -24,7 +24,6 @@
         "org.altaqwaa.Altaqwaa",
         "org.cubocore.CoreAction",
         "org.cubocore.CoreKeyboard",
-        "org.cubocore.CoreTime",
         "org.easycoding.TunedSwitcher",
         "org.ksnip.ksnip",
         "org.qutebrowser.qutebrowser",

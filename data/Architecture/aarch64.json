@@ -1729,6 +1729,7 @@
     "org.libvips.vipsdisp",
     "org.linux_hardware.hw-probe",
     "org.linuxshowplayer.LinuxShowPlayer",
+    "org.localsend.localsend_app",
     "org.love2d.love2d",
     "org.lyx.LyX",
     "org.mamedev.MAME",

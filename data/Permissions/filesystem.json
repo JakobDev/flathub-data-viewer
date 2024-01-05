@@ -2926,7 +2926,6 @@
     "xdg-config/gtk-3.0": [
         "com.github.GradienceTeam.Gradience",
         "com.neatdecisions.Detwinner",
-        "fr.handbrake.ghb",
         "org.gimp.GIMP",
         "org.gnome.gThumb",
         "org.inkscape.Inkscape",
@@ -3166,7 +3165,8 @@
     ],
     "~/.local/share/flatpak/app:ro": [
         "com.hack_computer.Clubhouse",
-        "io.github.giantpinkrobots.flatsweep"
+        "io.github.giantpinkrobots.flatsweep",
+        "io.github.vikdevelop.SaveDesktop"
     ],
     "/var/lib/flatpak/exports:ro": [
         "com.hack_computer.Clubhouse",
@@ -3698,6 +3698,7 @@
         "io.github.vikdevelop.SaveDesktop"
     ],
     "~/.var/app:ro": [
+        "io.github.vikdevelop.SaveDesktop",
         "io.gitlab.gwendalj.package-transporter",
         "page.codeberg.libre_menu_editor.LibreMenuEditor"
     ],
