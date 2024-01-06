@@ -6,6 +6,7 @@
         "com.axosoft.GitKraken",
         "com.chez.GrafX2",
         "com.gitfiend.GitFiend",
+        "com.google.AndroidStudio",
         "com.helix_editor.Helix",
         "com.jetbrains.CLion",
         "com.jetbrains.DataGrip",
@@ -35,7 +36,6 @@
         "org.vim.Vim"
     ],
     "22.08": [
-        "com.google.AndroidStudio",
         "com.jetbrains.PhpStorm",
         "com.jetbrains.PyCharm-Community",
         "com.pinegrow.Pinegrow",

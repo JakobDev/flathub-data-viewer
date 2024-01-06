@@ -2,6 +2,7 @@
     "org.gnome.FontManager",
     "org.gnome.SimpleScan",
     "org.gnome.atomix",
+    "org.gnome.gThumb",
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator"
 ]

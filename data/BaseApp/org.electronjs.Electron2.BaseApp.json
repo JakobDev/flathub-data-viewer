@@ -83,7 +83,6 @@
         "se.manyver.Manyverse",
         "sh.cider.Cider",
         "tech.feliciano.pocket-casts",
-        "us.zoom.Zoom",
         "xyz.armcord.ArmCord"
     ],
     "21.08": [
@@ -182,6 +181,7 @@
         "org.zulip.Zulip",
         "so.onekey.Wallet",
         "social.whalebird.WhalebirdDesktop",
+        "us.zoom.Zoom",
         "xyz.hyperplay.HyperPlay"
     ]
 }

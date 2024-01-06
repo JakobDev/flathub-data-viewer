@@ -8,8 +8,10 @@
     "org.mpris.mediaplayer2.youtubemusic": [
         "app.ytmdesktop.ytmdesktop"
     ],
+    "org.mpris.mediaplayer2.headset": [
+        "co.headsetapp.headset"
+    ],
     "org.kde.*": [
-        "chat.schildi.desktop",
         "com.alovoa.alovoa-electron",
         "com.codemouse92.timecard",
         "com.discordapp.Discord",
@@ -22,17 +24,12 @@
         "io.github.streetpea.Chiaki4deck",
         "me.timschneeberger.GalaxyBudsClient",
         "org.altaqwaa.Altaqwaa",
-        "org.cubocore.CoreAction",
-        "org.cubocore.CoreKeyboard",
         "org.easycoding.TunedSwitcher",
         "org.ksnip.ksnip",
         "org.qutebrowser.qutebrowser",
         "org.tribler.Tribler",
         "re.chiaki.Chiaki",
         "us.zoom.Zoom"
-    ],
-    "org.mpris.mediaplayer2.headset": [
-        "co.headsetapp.headset"
     ],
     "org.qemu": [
         "com.belmoussaoui.snowglobe"

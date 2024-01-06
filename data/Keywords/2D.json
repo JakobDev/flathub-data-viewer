@@ -1,6 +1,7 @@
 [
     "com.djoffe.gnukem",
     "com.github.dariasteam.cowsrevenge",
+    "io.github.xverizex.RetroSpriteEditor",
     "net.sourceforge.mars-game",
     "org.mapeditor.Tiled",
     "org.synfig.SynfigStudio"

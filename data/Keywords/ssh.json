@@ -1,5 +1,6 @@
 [
     "at.ssh_mitm.server",
+    "com.quexten.Goldwarden",
     "org.gnome.seahorse.Application",
     "org.remmina.Remmina",
     "uk.org.greenend.chiark.sgtatham.putty"

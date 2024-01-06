@@ -324,8 +324,10 @@
         "org.cloudcompare.CloudCompare",
         "org.codeblocks.codeblocks",
         "org.cryptomator.Cryptomator",
+        "org.cubocore.CoreAction",
         "org.cubocore.CoreArchiver",
         "org.cubocore.CoreFM",
+        "org.cubocore.CoreKeyboard",
         "org.cubocore.CorePDF",
         "org.cubocore.CorePad",
         "org.cubocore.CoreRenamer",
@@ -898,6 +900,7 @@
         "me.ahola.aphototoollibre",
         "me.mitya57.ReText",
         "me.timschneeberger.jdsp4linux",
+        "moe.clover.mm3d",
         "net._86box._86Box",
         "net.blumia.pineapple-pictures",
         "net.codeindustry.MasterPDFEditor",
@@ -1585,6 +1588,7 @@
         "la.ogri.strongbox",
         "me.kozec.syncthingtk",
         "media.emby.EmbyServer",
+        "moe.clover.mm3d",
         "net.blumia.pineapple-pictures",
         "net.darkradiant.DarkRadiant",
         "net.drawpile.drawpile",
@@ -2927,7 +2931,6 @@
         "com.github.GradienceTeam.Gradience",
         "com.neatdecisions.Detwinner",
         "org.gimp.GIMP",
-        "org.gnome.gThumb",
         "org.inkscape.Inkscape",
         "org.libreoffice.LibreOffice",
         "org.onlyoffice.desktopeditors"
@@ -3870,11 +3873,9 @@
         "org.cryptomator.Cryptomator"
     ],
     "xdg-config:create": [
-        "org.cubocore.CoreAction",
         "org.cubocore.CoreHunt",
         "org.cubocore.CoreImage",
         "org.cubocore.CoreInfo",
-        "org.cubocore.CoreKeyboard",
         "org.cubocore.CorePaint",
         "org.cubocore.CoreShot",
         "org.cubocore.CoreStats"
@@ -3962,13 +3963,13 @@
     "~/.config/chrome": [
         "org.gnome.Eolie"
     ],
-    "xdg-config/pki": [
+    "~/.config/gnupg": [
         "org.gnome.Evolution"
     ],
     "~/.pki": [
         "org.gnome.Evolution"
     ],
-    "xdg-config/gnupg": [
+    "~/.config/pki": [
         "org.gnome.Evolution"
     ],
     "~/.config/geary:ro": [
