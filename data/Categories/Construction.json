@@ -2,5 +2,6 @@
     "dev.paullee.scraterpreter.Scrape",
     "dev.paullee.scraterpreter.Scrapec",
     "io.github.kaii_lb.hgui",
-    "org.eclipse.sumo"
+    "org.eclipse.sumo",
+    "org.gnome.Crosswords.Editor"
 ]

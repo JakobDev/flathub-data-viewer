@@ -1,5 +1,6 @@
 [
     "com.spacestation14.Launcher",
+    "io.github.parnassius.SysDVR-Qt",
     "org.godotengine.Godot3Sharp",
     "org.godotengine.GodotSharp",
     "org.nickvision.cavalier",

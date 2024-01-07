@@ -336,7 +336,6 @@
         "org.denemo.Denemo",
         "org.eclipse.sumo",
         "org.enjoyingfoss.FOSStriangulator",
-        "org.exbin.BinEd",
         "org.famistudio.FamiStudio",
         "org.fdroid.Repomaker",
         "org.filmulator.Filmulator",
@@ -1625,6 +1624,7 @@
         "org.eclipse.Javascript",
         "org.eclipse.iot.fourdiac.Ide",
         "org.emptyflow.ArdorQuery",
+        "org.exbin.BinEd",
         "org.fedoraproject.MediaWriter",
         "org.filezillaproject.Filezilla",
         "org.flatpak.qtdemo",
@@ -3621,6 +3621,12 @@
     "xdg-data/fonts:create": [
         "io.github.mmstick.FontFinder",
         "org.gnome.font-viewer"
+    ],
+    "xdg-videos/SysDVR:create": [
+        "io.github.parnassius.SysDVR-Qt"
+    ],
+    "xdg-pictures/SysDVR:create": [
+        "io.github.parnassius.SysDVR-Qt"
     ],
     "~/GOG Games:ro": [
         "io.github.philipk.boilr"

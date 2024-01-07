@@ -229,6 +229,8 @@
     "org.gnome.Calls",
     "org.gnome.Characters",
     "org.gnome.Chess",
+    "org.gnome.Crosswords.Editor",
+    "org.gnome.Crosswords",
     "org.gnome.DejaDup",
     "org.gnome.EasyTAG",
     "org.gnome.Evince",
