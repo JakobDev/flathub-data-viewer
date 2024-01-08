@@ -8,6 +8,7 @@
     "app.drey.Dialect",
     "app.drey.EarTag",
     "app.drey.Elastic",
+    "app.drey.KeyRack",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "app.feeddeck.feeddeck",

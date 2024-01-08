@@ -1,6 +1,5 @@
 [
     "app.authpass.AuthPass",
-    "app.drey.KeyRack",
     "app.getspace.Space",
     "app.midterm.MidtermDesktop",
     "app.riftshare.RiftShare",

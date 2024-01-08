@@ -1,6 +1,5 @@
 [
     "app.authpass.AuthPass",
-    "app.drey.KeyRack",
     "app.getspace.Space",
     "app.gummi.gummi",
     "app.midterm.MidtermDesktop",
@@ -738,6 +737,7 @@
     "org.libretrainsim.Libre-TrainSim",
     "org.libsdl.Maelstrom",
     "org.linux_hardware.hw-probe",
+    "org.lyx.LyX",
     "org.manaplus.ManaPlus",
     "org.mattdm.icebreaker",
     "org.megaglest.MegaGlest",
