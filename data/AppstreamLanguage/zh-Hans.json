@@ -1,6 +1,7 @@
 [
     "com.agatanawrot.karambola",
     "com.tencent.wemeet",
+    "io.github.Archeb.opentrace",
     "io.github.am2r_community_developers.AM2RLauncher",
     "org.qgis.qgis"
 ]

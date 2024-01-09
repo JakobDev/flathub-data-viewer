@@ -3327,8 +3327,7 @@
         "dev.bsnes.bsnes",
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
-        "io.github.slgobinath.SafeEyes",
-        "org.ferdium.Ferdium"
+        "io.github.slgobinath.SafeEyes"
     ],
     "xdg-pictures/Vivaldi Captures:create": [
         "com.vivaldi.Vivaldi"

@@ -597,6 +597,9 @@
     ".lyx": [
         "org.lyx.LyX"
     ],
+    "Rpkgs": [
+        "org.lyx.LyX"
+    ],
     ".mame": [
         "org.mamedev.MAME"
     ],

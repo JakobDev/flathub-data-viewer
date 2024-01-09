@@ -31,7 +31,6 @@
         "com.ktechpit.whatsie",
         "com.nitrokey.nitrokey-app",
         "com.polyphone_soundfonts.polyphone",
-        "com.qzandronum.Q-Zandronum",
         "com.rocksandpaper.syndic",
         "com.sayonara_player.Sayonara",
         "com.seafile.Client",
@@ -152,7 +151,6 @@
         "org.ksnip.ksnip",
         "org.librepcb.LibrePCB",
         "org.libretro.RetroArch",
-        "org.mixxx.Mixxx",
         "org.openchemistry.Avogadro2",
         "org.openmw.OpenMW",
         "org.openrgb.OpenRGB",
@@ -169,7 +167,6 @@
         "org.telesculptor.TeleSculptor",
         "org.thentrythis.Samplebrain",
         "org.zealdocs.Zeal",
-        "re.chiaki.Chiaki",
         "re.rizin.cutter",
         "se.sjoerd.GIScan"
     ],
@@ -244,7 +241,8 @@
         "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
-        "page.codeberg.JakobDev.jdTextEdit"
+        "page.codeberg.JakobDev.jdTextEdit",
+        "space.nouspiro.tenmon"
     ],
     "5.15-21.08": [
         "at.priv.toastfreeware.ConfClerk",
@@ -347,6 +345,7 @@
         "com.nextcloud.desktopclient.nextcloud",
         "com.notepadqq.Notepadqq",
         "com.ozmartians.VidCutter",
+        "com.qzandronum.Q-Zandronum",
         "com.rosegardenmusic.rosegarden",
         "com.sweetscape.ZeroOneZeroEditor",
         "com.ulduzsoft.Birdtray",
@@ -534,6 +533,7 @@
         "org.lyx.LyX",
         "org.mamedev.MAME",
         "org.mavlink.qgroundcontrol",
+        "org.mixxx.Mixxx",
         "org.munadi.Munadi",
         "org.musescore.MuseScore",
         "org.musicbrainz.Picard",
@@ -555,7 +555,7 @@
         "org.videolan.VLC",
         "org.wfview.wfview",
         "org.yuzu_emu.yuzu",
-        "space.nouspiro.tenmon",
+        "re.chiaki.Chiaki",
         "studio.kx.carla",
         "ua.org.brezblock.q4wine",
         "website.i2pd.i2pd",

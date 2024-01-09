@@ -18,8 +18,6 @@
     "org.winehq.Wine",
     "xyz.hyperplay.HyperPlay",
     "com.fightcade.Fightcade.Wine",
-    "com.valvesoftware.Steam.CompatibilityTool.Proton-GE",
-    "com.valvesoftware.Steam.CompatibilityTool.Proton",
     "io.github.peazip.PeaZip.Addon.i386",
     "org.freedesktop.Platform.VulkanLayer.MangoHud",
     "org.freedesktop.Platform.VulkanLayer.OBSVkCapture",

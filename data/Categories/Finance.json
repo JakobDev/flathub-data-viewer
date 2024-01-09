@@ -19,7 +19,6 @@
     "net.peercoin.peercoin-qt",
     "org.bitcoincore.bitcoin-qt",
     "org.blackcoin.blackcoin-more",
-    "org.blackcoinmore.blackmore-qt",
     "org.btchd.btchd-qt",
     "org.electrum.electrum",
     "org.getmonero.Monero",

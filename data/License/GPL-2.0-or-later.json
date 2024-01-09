@@ -101,5 +101,7 @@
     "org.wesnoth.Wesnoth",
     "org.worldpossible.ScriptLauncher",
     "pl.nieto.fityk",
-    "uk.co._69_studios.kublit"
+    "uk.co._69_studios.kublit",
+    "org.lyx.LyX.Plugin.LilyPond",
+    "org.lyx.LyX.Plugin.SweaveKnitr"
 ]
