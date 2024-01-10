@@ -24,6 +24,5 @@
     "org.signal.Signal",
     "org.standardnotes.standardnotes",
     "re.chiaki.Chiaki",
-    "rocks.koreader.KOReader",
-    "so.libdb.gtkcord4"
+    "rocks.koreader.KOReader"
 ]

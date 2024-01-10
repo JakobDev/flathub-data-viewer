@@ -749,7 +749,6 @@
         "com.vesc_project.VescTool",
         "com.vicr123.thebeat",
         "com.virustotal.VirusTotalUploader",
-        "com.visualstudio.code",
         "com.vscodium.codium",
         "com.vzhd1701.gridplayer",
         "com.wiz.Note",
@@ -3321,14 +3320,6 @@
     "~/.ViberPC:create": [
         "com.viber.Viber"
     ],
-    "xdg-config/gtk-3.0:ro": [
-        "com.visualstudio.code",
-        "de.willuhn.Jameica",
-        "dev.bsnes.bsnes",
-        "io.github.quodlibet.ExFalso",
-        "io.github.quodlibet.QuodLibet",
-        "io.github.slgobinath.SafeEyes"
-    ],
     "xdg-pictures/Vivaldi Captures:create": [
         "com.vivaldi.Vivaldi"
     ],
@@ -3367,6 +3358,13 @@
     ],
     "~/.prefs": [
         "de.sesu8642.feudaltactics"
+    ],
+    "xdg-config/gtk-3.0:ro": [
+        "de.willuhn.Jameica",
+        "dev.bsnes.bsnes",
+        "io.github.quodlibet.ExFalso",
+        "io.github.quodlibet.QuodLibet",
+        "io.github.slgobinath.SafeEyes"
     ],
     "/run/tailscale:ro": [
         "dev.deedles.Trayscale",
