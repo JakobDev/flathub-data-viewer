@@ -79,6 +79,7 @@
     "org.freedesktop.udisks2": [
         "ca.parallel_launcher.ParallelLauncher",
         "cn.ottercorp.xivlaunchercn",
+        "com.bambulab.BambuStudio",
         "com.calibre_ebook.calibre",
         "com.expidusos.file_manager",
         "com.github.Matoking.protontricks",

@@ -1,4 +1,5 @@
 [
     "org.qelectrotech.QElectroTech",
-    "org.scilab.Scilab"
+    "org.scilab.Scilab",
+    "se.sjoerd.Graphs"
 ]

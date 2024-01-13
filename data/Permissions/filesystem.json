@@ -27,6 +27,7 @@
         "com.anydesk.Anydesk",
         "com.avocode.Avocode",
         "com.axosoft.GitKraken",
+        "com.bambulab.BambuStudio",
         "com.behringer.XAirEdit",
         "com.belmoussaoui.snowglobe",
         "com.bladecoder.adventure-editor",
@@ -394,6 +395,7 @@
         "org.mamedev.MAME",
         "org.mavlink.qgroundcontrol",
         "org.mfek.MFEKglif",
+        "org.milkytracker.MilkyTracker",
         "org.mmass.mMass",
         "org.mobsya.ThymioSuite",
         "org.moneymanagerex.MMEX",
@@ -1787,7 +1789,6 @@
         "org.gnome.SoundJuicer",
         "org.kde.juk",
         "org.kde.kid3",
-        "org.milkytracker.MilkyTracker",
         "org.mixxx.Mixxx",
         "org.mpdevil.mpdevil",
         "org.musicbrainz.Picard",
@@ -1804,6 +1805,7 @@
         "app.rednotebook.RedNotebook",
         "br.gov.cti.invesalius",
         "com.axosoft.GitKraken",
+        "com.bambulab.BambuStudio",
         "com.darhon.drfinance",
         "com.github._0negal.Viper",
         "com.github.ahrm.sioyek",
@@ -1874,6 +1876,7 @@
         "app.rednotebook.RedNotebook",
         "br.gov.cti.invesalius",
         "com.axosoft.GitKraken",
+        "com.bambulab.BambuStudio",
         "com.darhon.drfinance",
         "com.github.PintaProject.Pinta",
         "com.github.ahrm.sioyek",
@@ -2524,6 +2527,7 @@
     "xdg-run/gvfs": [
         "com.abisource.AbiWord",
         "com.axosoft.GitKraken",
+        "com.bambulab.BambuStudio",
         "com.belmoussaoui.Authenticator",
         "com.flashforge.FlashPrint",
         "com.github.Flacon",
@@ -3191,6 +3195,10 @@
     "~/Games/Heroic:create": [
         "com.heroicgameslauncher.hgl"
     ],
+    "xdg-run/gamescope-0": [
+        "com.heroicgameslauncher.hgl",
+        "io.github.streetpea.Chiaki4deck"
+    ],
     "xdg-config/fontconfig:ro": [
         "com.icons8.Lunacy",
         "com.umlet.Umlet",
@@ -3450,6 +3458,9 @@
     "~/.minecraft": [
         "io.blockloader.BlockLoader"
     ],
+    "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/359320/pfx/drive_c/users/steamuser/Saved Games/Frontier Developments/Elite Dangerous": [
+        "io.edcd.EDMarketConnector"
+    ],
     "~/.steam/steam/steamapps/compatdata/359320/pfx/drive_c/users/steamuser/Saved Games/Frontier Developments/Elite Dangerous": [
         "io.edcd.EDMarketConnector"
     ],
@@ -3672,9 +3683,6 @@
     ],
     "/opt:ro": [
         "io.github.shiftey.Desktop"
-    ],
-    "xdg-run/gamescope-0": [
-        "io.github.streetpea.Chiaki4deck"
     ],
     "xdg-run/discord-ipc-0:ro": [
         "io.github.thaunknown.miru"
@@ -3956,8 +3964,7 @@
         "org.gnome.Contacts"
     ],
     "xdg-cache/evolution/addressbook:ro": [
-        "org.gnome.Contacts",
-        "org.gnome.Geary"
+        "org.gnome.Contacts"
     ],
     "~/.config/chromium": [
         "org.gnome.Eolie"
@@ -3973,6 +3980,9 @@
     ],
     "~/.config/pki": [
         "org.gnome.Evolution"
+    ],
+    "~/.cache/evolution/addressbook:ro": [
+        "org.gnome.Geary"
     ],
     "~/.config/geary:ro": [
         "org.gnome.Geary"

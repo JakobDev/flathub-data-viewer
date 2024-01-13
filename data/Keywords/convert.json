@@ -1,4 +1,5 @@
 [
+    "com.bambulab.BambuStudio",
     "com.github.subhadeepjasu.pebbles",
     "com.prusa3d.PrusaSlicer",
     "io.github.benini.scid",

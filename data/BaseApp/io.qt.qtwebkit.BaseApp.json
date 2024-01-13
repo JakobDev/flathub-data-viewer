@@ -2,8 +2,11 @@
     "5.15": [
         "com.codemouse92.timecard"
     ],
-    "5.15-22.08": [
+    "5.15-23.08": [
         "com.github.fontmatrix.Fontmatrix",
+        "com.notepadqq.Notepadqq"
+    ],
+    "5.15-22.08": [
         "com.icanblink.blink",
         "com.ktechpit.orion",
         "com.ktechpit.torrhunt",
@@ -16,9 +19,6 @@
     ],
     "5.14": [
         "com.ktechpit.wonderwall"
-    ],
-    "5.15-23.08": [
-        "com.notepadqq.Notepadqq"
     ],
     "5.15-21.08": [
         "com.sourcepole.kadas",

@@ -1,5 +1,6 @@
 [
     "eu.ad5001.LogarithmPlotter",
     "org.gaphor.Gaphor",
-    "org.gnome.Genius"
+    "org.gnome.Genius",
+    "se.sjoerd.Graphs"
 ]

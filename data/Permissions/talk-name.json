@@ -834,7 +834,6 @@
         "ca.parallel_launcher.ParallelLauncher",
         "ch.theologeek.Manuskript",
         "com.agateau.nanonote",
-        "com.borgbase.Vorta",
         "com.cuperino.qprompt",
         "com.darhon.drfinance",
         "com.darhon.syncbackup",
@@ -865,7 +864,6 @@
         "com.github.makhber.Makhber",
         "com.github.micahflee.torbrowser-launcher",
         "com.github.powertab.powertabeditor",
-        "com.github.quaternion",
         "com.github.shonumi.gbe-plus",
         "com.github.varnholt.dynablaster_revenge",
         "com.github.zocker_160.SyncThingy",
@@ -1282,7 +1280,6 @@
         "ca.parallel_launcher.ParallelLauncher",
         "ch.theologeek.Manuskript",
         "com.agateau.nanonote",
-        "com.borgbase.Vorta",
         "com.cuperino.qprompt",
         "com.darhon.drfinance",
         "com.darhon.syncbackup",
@@ -1311,7 +1308,6 @@
         "com.github.makhber.Makhber",
         "com.github.micahflee.torbrowser-launcher",
         "com.github.powertab.powertabeditor",
-        "com.github.quaternion",
         "com.github.shonumi.gbe-plus",
         "com.github.varnholt.dynablaster_revenge",
         "com.github.zocker_160.SyncThingy",
@@ -2798,12 +2794,15 @@
         "io.stoplight.studio",
         "org.pyzo.pyzo"
     ],
-    "org.freedesktop.flatpak.*": [
-        "com.borgbase.Vorta",
-        "org.gnome.World.PikaBackup"
+    "com.bambulab.bambustudio.instancecheck.*": [
+        "com.bambulab.BambuStudio"
     ],
     "org.freedesktop.dbus.*": [
         "com.borgbase.Vorta"
+    ],
+    "org.freedesktop.flatpak.*": [
+        "com.borgbase.Vorta",
+        "org.gnome.World.PikaBackup"
     ],
     "org.freedesktop.filemanager1": [
         "com.brave.Browser",

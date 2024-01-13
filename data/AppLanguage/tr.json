@@ -16,7 +16,9 @@
     "com.fyralabs.SkiffDesktop",
     "com.github.ADBeveridge.Raider",
     "com.github.PintaProject.Pinta",
+    "com.github.alexkdeveloper.forgetpass",
     "com.github.alexkdeveloper.recorder",
+    "com.github.alexkdeveloper.somafm",
     "com.github.cassidyjames.dippi",
     "com.github.debauchee.barrier",
     "com.github.finefindus.eyedropper",
@@ -246,5 +248,6 @@
     "org.zim_wiki.Zim",
     "re.sonny.Commit",
     "re.sonny.Junction",
-    "sm.puri.Chatty"
+    "sm.puri.Chatty",
+    "xyz.tytanium.DoorKnocker"
 ]

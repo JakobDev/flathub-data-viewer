@@ -247,9 +247,6 @@
     ".thinkorswim": [
         "com.tdameritrade.ThinkOrSwim"
     ],
-    ".ts3client": [
-        "com.teamspeak.TeamSpeak"
-    ],
     ".teeworlds": [
         "com.teeworlds.Teeworlds",
         "tw.ddnet.ddnet"

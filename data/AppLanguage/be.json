@@ -1,7 +1,9 @@
 [
     "ca.desrt.dconf-editor",
     "com.github.PintaProject.Pinta",
+    "com.github.alexkdeveloper.forgetpass",
     "com.github.alexkdeveloper.recorder",
+    "com.github.alexkdeveloper.somafm",
     "com.github.bajoja.indicator-kdeconnect",
     "com.github.unrud.VideoDownloader",
     "com.transmissionbt.Transmission",
