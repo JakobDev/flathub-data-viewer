@@ -1,5 +1,6 @@
 [
     "com.interversehq.qView",
+    "net.drawpile.drawpile",
     "org.kde.kolourpaint",
     "org.photoqt.PhotoQt"
 ]

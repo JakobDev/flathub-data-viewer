@@ -1592,7 +1592,6 @@
         "moe.clover.mm3d",
         "net.blumia.pineapple-pictures",
         "net.darkradiant.DarkRadiant",
-        "net.drawpile.drawpile",
         "net.giuspen.cherrytree",
         "net.jenyay.Outwiker",
         "net.mediaarea.AVIMetaEdit",
@@ -3097,9 +3096,6 @@
     "~/.factorio/mods:ro": [
         "com.github.petebuffon.yafc"
     ],
-    "xdg-config/neothesia": [
-        "com.github.polymeilex.neothesia"
-    ],
     "xdg-config/gtk-4.0:ro": [
         "com.github.qarmin.czkawka"
     ],
@@ -3139,6 +3135,7 @@
         "net.studio08.xbplay",
         "one.flipperzero.qFlipper",
         "org.expresslrs.ExpressLRSConfigurator",
+        "org.libretro.RetroArch",
         "org.mavlink.qgroundcontrol",
         "xyz.hyperplay.HyperPlay"
     ],
@@ -3875,6 +3872,9 @@
         "org.btchd.btchd-qt",
         "org.groestlcoin.groestlcoin-qt",
         "org.vertcoin.vertcoin-qt"
+    ],
+    "~/.gnome:create": [
+        "org.bluesabre.MenuLibre"
     ],
     "xdg-run/org.keepassxc.KeePassXC.BrowserServer": [
         "org.cryptomator.Cryptomator"

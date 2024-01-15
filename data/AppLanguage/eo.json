@@ -19,7 +19,6 @@
     "io.neovim.nvim",
     "net.minetest.Minetest",
     "net.supertuxkart.SuperTuxKart",
-    "org.bluesabre.MenuLibre",
     "org.freedesktop.appstream.cli",
     "org.gimp.GIMP",
     "org.gnome.Aisleriot",
