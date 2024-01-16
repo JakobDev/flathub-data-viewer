@@ -74,6 +74,7 @@
     "io.frama.tractor.carburetor",
     "io.github.Cockatrice.cockatrice",
     "io.github.aerocyber.sitemarker",
+    "io.github.amit9838.weather",
     "io.github.appoutlet.GameOutlet",
     "io.github.betaflight.BetaflightConfigurator",
     "io.github.bothlab.pomidaq",

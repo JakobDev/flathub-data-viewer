@@ -1,3 +1,4 @@
 [
-    "com.microsoft.AzureStorageExplorer"
+    "com.microsoft.AzureStorageExplorer",
+    "io.github.amit9838.weather"
 ]

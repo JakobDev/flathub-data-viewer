@@ -2864,6 +2864,7 @@
     "org.gnome.onlineaccounts": [
         "com.chmouel.gnomeNextMeetingApplet",
         "com.github.suzie97.communique",
+        "io.github.mrvladus.List",
         "org.gnome.Calendar",
         "org.gnome.Contacts",
         "org.gnome.Evolution",

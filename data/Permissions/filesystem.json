@@ -1304,7 +1304,6 @@
         "com.gitlab.librebob.Athenaeum",
         "io.github.fabrialberio.pinapp",
         "io.github.philipk.boilr",
-        "net.lutris.Lutris",
         "org.bluesabre.MenuLibre",
         "org.gnome.World.PikaBackup",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
@@ -3842,6 +3841,9 @@
     ],
     "~/.rdm:create": [
         "net.devolutions.RDM"
+    ],
+    "xdg-run/gamescope-0:ro": [
+        "net.lutris.Lutris"
     ],
     "/run/ikedi": [
         "net.shrew.ike.qikea"

@@ -38,6 +38,7 @@
     "io.frama.tractor.carburetor",
     "io.github.Cockatrice.cockatrice",
     "io.github.betaflight.BetaflightConfigurator",
+    "io.github.ctlcltd.e2se",
     "io.github.dimtpap.coppwr",
     "io.github.foldynl.QLog",
     "io.github.ihhub.Fheroes2",
