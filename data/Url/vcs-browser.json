@@ -167,6 +167,7 @@
     "org.freedesktop.Bustle",
     "org.freedesktop.appstream-glib",
     "org.freedesktop.appstream.cli",
+    "org.gaphor.Gaphor",
     "org.getoutline.OutlineClient",
     "org.getoutline.OutlineManager",
     "org.gnome.Calendar",

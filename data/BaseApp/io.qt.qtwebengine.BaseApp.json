@@ -3,6 +3,7 @@
         "ch.openboard.OpenBoard",
         "com.github.jmlich.geotagging",
         "com.riverbankcomputing.PyQt.BaseApp",
+        "io.github.streetpea.Chiaki4deck",
         "io.github.xiaoyifang.goldendict_ng",
         "net.jami.Jami",
         "org.jacktrip.JackTrip"

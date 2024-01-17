@@ -1727,7 +1727,6 @@
         "x-scheme-handler{SLASH}mariadb",
         "x-scheme-handler{SLASH}matrix",
         "x-scheme-handler{SLASH}mattermost",
-        "x-scheme-handler{SLASH}mcmodpackmanager",
         "x-scheme-handler{SLASH}me.blueone.linux",
         "x-scheme-handler{SLASH}memo",
         "x-scheme-handler{SLASH}microsoftsqlserver",
