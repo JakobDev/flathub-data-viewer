@@ -4,7 +4,6 @@
     "com.github.Eloston.UngoogledChromium",
     "com.github.dimkr.gplaces",
     "com.github.fries1234.ncsa-mosaic",
-    "com.github.micahflee.torbrowser-launcher",
     "com.google.Chrome",
     "com.google.ChromeDev",
     "com.microsoft.Edge",
@@ -26,6 +25,7 @@
     "org.midori_browser.Midori",
     "org.mozilla.firefox",
     "org.qutebrowser.qutebrowser",
+    "org.torproject.torbrowser-launcher",
     "re.sonny.Tangram",
     "ru.yandex.Browser"
 ]

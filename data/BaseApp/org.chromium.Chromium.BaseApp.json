@@ -8,7 +8,9 @@
         "com.microsoft.EdgeDev",
         "com.opera.Opera",
         "com.vivaldi.Vivaldi",
-        "org.chromium.Chromium",
+        "org.chromium.Chromium"
+    ],
+    "23.08": [
         "ru.yandex.Browser"
     ]
 }

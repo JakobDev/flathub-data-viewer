@@ -33,6 +33,7 @@
         "org.freedesktop.Platform.ffmpeg_full.i386",
         "org.freedesktop.Platform.openh264",
         "org.freedesktop.Sdk.Compat.i386",
+        "org.freedesktop.Sdk.Extension.llvm17",
         "org.freedesktop.Sdk.Extension.openjdk17",
         "org.freedesktop.Sdk.Extension.texlive",
         "org.gnome.Platform.Compat.i386",

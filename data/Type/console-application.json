@@ -2,6 +2,7 @@
     "at.ssh_mitm.server",
     "ca.uwaterloo.Raven",
     "cc.nift.nsm",
+    "cern.root.ROOT",
     "com.freerdp.FreeRDP",
     "com.geekbench.Geekbench6",
     "com.github.ilai_deutel.kibi",

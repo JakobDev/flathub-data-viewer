@@ -1,6 +1,8 @@
 [
     "br.gov.cti.invesalius",
     "ca.uwaterloo.Raven",
+    "cern.root.ROOT",
+    "ch.tigerjython.TigerJython2",
     "com.dhsdevelopments.Climaxima",
     "com.flashforge.FlashPrint",
     "com.github.AlizaMedicalImaging.AlizaMS",

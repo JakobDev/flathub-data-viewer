@@ -164,7 +164,9 @@
         "WordProcessor",
         "X-CSuite",
         "X-GNOME-Utilities",
+        "X-GameLevelEditor",
         "X-KDE-Utilities-File",
+        "X-LevelEditor",
         "education"
     ],
     "dataNames": {}

@@ -1,4 +1,5 @@
 [
+    "com.ugetdm.uGet",
     "net.sourceforge.OpenLieroX",
     "org.kde.kuiviewer",
     "org.kicad.KiCad.ODBCDriver.psqlodbc",

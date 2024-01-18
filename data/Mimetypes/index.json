@@ -787,6 +787,7 @@
         "application{SLASH}x-riff",
         "application{SLASH}x-robotics-spm",
         "application{SLASH}x-rocs",
+        "application{SLASH}x-root",
         "application{SLASH}x-rpm",
         "application{SLASH}x-ruby",
         "application{SLASH}x-rzip",

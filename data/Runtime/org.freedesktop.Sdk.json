@@ -3,6 +3,7 @@
         "app.midterm.MidtermDesktop"
     ],
     "23.08": [
+        "cern.root.ROOT",
         "com.axosoft.GitKraken",
         "com.chez.GrafX2",
         "com.gitfiend.GitFiend",

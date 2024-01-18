@@ -22,6 +22,21 @@
         "org.briarproject.Briar",
         "org.verapdf.veraPDF"
     ],
+    ".": [
+        "cern.root.ROOT",
+        "com.github.corna.Vivado",
+        "com.hamrick.VueScan",
+        "com.heroicgameslauncher.hgl",
+        "com.parsecgaming.parsec",
+        "com.tonikelope.MegaBasterd",
+        "com.valvesoftware.Steam",
+        "de.billardgl.Billardgl",
+        "edu.berkeley.BOINC",
+        "io.github.santiagocezar.maniatic-launcher",
+        "io.github.sharkwouter.Minigalaxy",
+        "net.sourceforge.lgames.LPairs2",
+        "xyz.hyperplay.HyperPlay"
+    ],
     ".adobe": [
         "com.adobe.Reader"
     ],
@@ -99,20 +114,6 @@
     ],
     ".pyfda": [
         "com.github.chipmuenk.pyfda"
-    ],
-    ".": [
-        "com.github.corna.Vivado",
-        "com.hamrick.VueScan",
-        "com.heroicgameslauncher.hgl",
-        "com.parsecgaming.parsec",
-        "com.tonikelope.MegaBasterd",
-        "com.valvesoftware.Steam",
-        "de.billardgl.Billardgl",
-        "edu.berkeley.BOINC",
-        "io.github.santiagocezar.maniatic-launcher",
-        "io.github.sharkwouter.Minigalaxy",
-        "net.sourceforge.lgames.LPairs2",
-        "xyz.hyperplay.HyperPlay"
     ],
     ".godot": [
         "com.github.dariasteam.cowsrevenge",

@@ -249,6 +249,7 @@
         "io.github.trevorsandy.LPub3D",
         "io.github.twanvl.MagicSetEditor2",
         "io.github.voxelcubes.deepqt",
+        "io.github.voxelcubes.panelcleaner",
         "io.github.wereturtle.ghostwriter",
         "io.github.wxmaxima_developers.wxMaxima",
         "io.github.xverizex.nem_desktop",
@@ -488,7 +489,6 @@
         "com.github.fries1234.ncsa-mosaic",
         "com.github.gabutakut.gabutdm",
         "com.github.kalibari.audok",
-        "com.github.micahflee.torbrowser-launcher",
         "com.github.nrittsti.NTag",
         "com.github.quaternion",
         "com.github.scrivanolabs.scrivano",
@@ -524,6 +524,7 @@
         "com.tonikelope.MegaBasterd",
         "com.tracktion.Waveform",
         "com.tutanota.Tutanota",
+        "com.ugetdm.uGet",
         "com.viber.Viber",
         "com.vivaldi.Vivaldi",
         "com.wps.Office",
@@ -626,6 +627,7 @@
         "org.soundconverter.SoundConverter",
         "org.subtitld.Subtitld",
         "org.syphon.Syphon",
+        "org.torproject.torbrowser-launcher",
         "org.tuxfamily.hatari",
         "org.twinery.Twine",
         "org.v1993.NXDumpClient",
@@ -696,7 +698,6 @@
         "com.github.jpakkane.glyphtracer",
         "com.github.juzzlin.DustRacing2D",
         "com.github.makhber.Makhber",
-        "com.github.micahflee.torbrowser-launcher",
         "com.github.powertab.powertabeditor",
         "com.github.quaternion",
         "com.github.scrivanolabs.scrivano",
@@ -871,6 +872,7 @@
         "io.github.trevorsandy.LPub3D",
         "io.github.veusz.Veusz",
         "io.github.voxelcubes.deepqt",
+        "io.github.voxelcubes.panelcleaner",
         "io.github.webcamoid.Webcamoid",
         "io.github.wereturtle.ghostwriter",
         "io.github.wh201906.serialtest",
@@ -878,6 +880,7 @@
         "io.github.xiaoyifang.goldendict_ng",
         "io.github.zaps166.QMPlay2",
         "io.gitlab.coolreader_ng.crqt-ng",
+        "io.gitlab.dev_nis.one-click-backup",
         "io.gitlab.o20.word",
         "io.gitlab.persiangolf.voicegen",
         "io.itch.azagaya.Laigter",
@@ -1191,6 +1194,7 @@
         "org.musescore.MuseScore",
         "org.musicbrainz.Picard",
         "org.nomacs.ImageLounge",
+        "org.nsnam.NetAnim",
         "org.octave.Octave",
         "org.olivevideoeditor.Olive",
         "org.onionshare.OnionShare",
@@ -1244,6 +1248,7 @@
         "org.thentrythis.Samplebrain",
         "org.tomviz.Tomviz",
         "org.tordini.flavio.Minitube",
+        "org.torproject.torbrowser-launcher",
         "org.tug.texworks",
         "org.videolan.VLC",
         "org.wfview.wfview",
@@ -1315,6 +1320,8 @@
         "app.gummi.gummi",
         "br.gov.fazenda.receita.irpf2022",
         "br.gov.fazenda.receita.irpf2023",
+        "cern.root.ROOT",
+        "ch.tigerjython.TigerJython2",
         "chat.quadrix.Quadrix",
         "cn.lceda.LCEDAPro",
         "co.luoja.Telyn",
@@ -1543,6 +1550,7 @@
         "io.github.Rangi42.polished-map-plusplus",
         "io.github.Rangi42.polished-map",
         "io.github.Rangi42.tilemap-studio",
+        "io.github.TTimo.GtkRadiant",
         "io.github.achetagames.epic_asset_manager",
         "io.github.andreibachim.shortcut",
         "io.github.bothlab.syntalos",
@@ -1576,6 +1584,7 @@
         "io.github.xyproto.zsnes",
         "io.github.zyedidia.micro",
         "io.gitlab.Turtlico",
+        "io.gitlab.dev_nis.one-click-backup",
         "io.howl.Editor",
         "io.kapsa.drive",
         "io.kopia.KopiaUI",
@@ -2481,6 +2490,7 @@
         "io.github.manisandro.gImageReader",
         "io.github.mightycreak.Diffuse",
         "io.github.mpobaschnig.Vaults",
+        "io.github.pwr_solaar.solaar",
         "me.iepure.Ticketbooth",
         "net.giuspen.cherrytree",
         "net.sourceforge.efaxgtk",
@@ -2690,6 +2700,7 @@
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
         "com.vivaldi.Vivaldi",
+        "info.cemu.Cemu",
         "io.github.fastrizwaan.WineZGUI",
         "io.github.prateekmedia.appimagepool",
         "ru.yandex.Browser"
@@ -2763,6 +2774,7 @@
     "xdg-run/speech-dispatcher:ro": [
         "com.calibre_ebook.calibre",
         "com.github.johnfactotum.Foliate",
+        "one.ablaze.floorp",
         "org.mozilla.Thunderbird"
     ],
     "xdg-data/Trash": [
@@ -3196,13 +3208,6 @@
         "com.heroicgameslauncher.hgl",
         "io.github.streetpea.Chiaki4deck"
     ],
-    "xdg-config/fontconfig:ro": [
-        "com.icons8.Lunacy",
-        "com.umlet.Umlet",
-        "io.github.Icalingua.Icalingua",
-        "org.fcitx.Fcitx5",
-        "org.libreoffice.LibreOffice"
-    ],
     "~/Inform:create": [
         "com.inform7.IDE"
     ],
@@ -3318,6 +3323,12 @@
     ],
     "~/.var/app/org.mozilla.Thunderbird/.thunderbird": [
         "com.ulduzsoft.Birdtray"
+    ],
+    "xdg-config/fontconfig:ro": [
+        "com.umlet.Umlet",
+        "io.github.Icalingua.Icalingua",
+        "org.fcitx.Fcitx5",
+        "org.libreoffice.LibreOffice"
     ],
     "~/.local/share/varnam": [
         "com.varnamproject.Varnam"
@@ -3842,6 +3853,9 @@
     ],
     "~/.rdm:create": [
         "net.devolutions.RDM"
+    ],
+    "~/.config/MangoHud:ro": [
+        "net.lutris.Lutris"
     ],
     "xdg-run/gamescope-0:ro": [
         "net.lutris.Lutris"

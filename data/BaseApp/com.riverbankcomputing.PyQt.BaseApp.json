@@ -27,7 +27,6 @@
     "5.15-23.08": [
         "com.github.arminstraub.krop",
         "com.github.git_cola.git-cola",
-        "com.github.micahflee.torbrowser-launcher",
         "io.github.bothlab.syntalos",
         "io.github.ciromattia.kcc",
         "io.github.dummerle.rare",
@@ -41,7 +40,8 @@
         "org.linuxshowplayer.LinuxShowPlayer",
         "org.pairinteraction.Pairinteraction",
         "org.pymol.PyMOL",
-        "org.qgis.qgis"
+        "org.qgis.qgis",
+        "org.torproject.torbrowser-launcher"
     ],
     "6.5": [
         "me.mitya57.ReText",

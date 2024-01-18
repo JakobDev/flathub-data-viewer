@@ -182,6 +182,7 @@
     "org.pitivi.Pitivi",
     "org.upnproutercontrol.UPnPRouterControl",
     "org.xiphos.Xiphos",
+    "re.sonny.Workbench",
     "sm.puri.Chatty",
     "org.freedesktop.Sdk.Extension.vala",
     "org.gnome.Crosswords.PuzzleSets.gnome",

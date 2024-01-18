@@ -1,5 +1,6 @@
 [
     "com.kristianduske.TrenchBroom",
+    "io.github.TTimo.GtkRadiant",
     "io.github.ezQuake",
     "net.sourceforge.quakespasm.Quakespasm",
     "org.yamagi.YamagiQ2",

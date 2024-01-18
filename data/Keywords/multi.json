@@ -1,4 +1,5 @@
 [
+    "io.github.TTimo.GtkRadiant",
     "net.retrodeck.retrodeck",
     "org.libretro.RetroArch"
 ]
