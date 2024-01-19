@@ -1884,6 +1884,7 @@
         "org.keepassxc.KeePassXC",
         "org.kryogenix.hushboard",
         "org.kryogenix.utm_no",
+        "org.ksnip.ksnip",
         "org.localsend.localsend_app",
         "org.mobsya.ThymioSuite",
         "org.munadi.Munadi",
@@ -2281,7 +2282,6 @@
         "md.obsidian.Obsidian",
         "net.blockbench.Blockbench",
         "org.remmina.Remmina",
-        "org.signal.Signal",
         "ru.proninyaroslav.libretrack"
     ],
     "org.kde.kwalletd5": [
@@ -2294,6 +2294,7 @@
         "com.microsoft.EdgeDev",
         "com.nextcloud.desktopclient.nextcloud",
         "com.opera.Opera",
+        "com.slack.Slack",
         "com.vivaldi.Vivaldi",
         "com.vscodium.codium",
         "org.chromium.Chromium",
@@ -2516,6 +2517,7 @@
         "com.opera.Opera",
         "com.quexten.Goldwarden",
         "com.skype.Client",
+        "com.slack.Slack",
         "com.stremio.Stremio",
         "com.toggl.TogglDesktop",
         "com.valvesoftware.Steam",
@@ -3142,6 +3144,9 @@
         "com.skype.Client",
         "io.github.betaflight.BetaflightConfigurator",
         "org.xiphos.Xiphos"
+    ],
+    "org.kde.kwalletd6": [
+        "com.slack.Slack"
     ],
     "org.gnome.totem": [
         "de.k_bo.Televido"

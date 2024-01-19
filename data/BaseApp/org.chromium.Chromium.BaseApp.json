@@ -4,13 +4,13 @@
         "com.github.Eloston.UngoogledChromium",
         "com.google.Chrome",
         "com.google.ChromeDev",
-        "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
         "com.opera.Opera",
-        "com.vivaldi.Vivaldi",
-        "org.chromium.Chromium"
+        "com.vivaldi.Vivaldi"
     ],
     "23.08": [
+        "com.microsoft.Edge",
+        "org.chromium.Chromium",
         "ru.yandex.Browser"
     ]
 }
