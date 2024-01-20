@@ -188,6 +188,7 @@
     "org.gnome.TwentyFortyEight",
     "org.gnome.Weather",
     "org.gnome.World.Citations",
+    "org.gnome.World.Iotas",
     "org.gnome.World.PikaBackup",
     "org.gnome.World.Secrets",
     "org.gnome.atomix",
@@ -210,7 +211,6 @@
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
-    "org.gnome.gitlab.cheywood.Iotas",
     "org.gnome.gitlab.ilhooq.Bookup",
     "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.glabels-3",
@@ -252,5 +252,6 @@
     "re.sonny.Commit",
     "re.sonny.Junction",
     "sm.puri.Chatty",
+    "vn.hoabinh.quan.CoBang",
     "xyz.tytanium.DoorKnocker"
 ]

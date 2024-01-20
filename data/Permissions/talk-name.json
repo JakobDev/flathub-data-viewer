@@ -117,6 +117,7 @@
         "org.gnome.Lollypop",
         "org.gnome.Polari",
         "org.gnome.Shotwell",
+        "org.gnome.World.Iotas",
         "org.gnome.gThumb",
         "org.gnome.gitg",
         "org.gnome.seahorse.Application",
@@ -305,6 +306,7 @@
         "eu.vcmi.VCMI",
         "fr.free.brouits.qspeakers",
         "fr.free.qccrypt.Qccrypt",
+        "fun.vnote.app.VNote",
         "gg.guilded.Guilded",
         "im.kaidan.kaidan",
         "in.srev.guiscrcpy",
@@ -913,6 +915,7 @@
         "eu.scarpetta.PDFMixTool",
         "fr.free.brouits.qspeakers",
         "fr.free.qccrypt.Qccrypt",
+        "fun.vnote.app.VNote",
         "im.kaidan.kaidan",
         "in.srev.guiscrcpy",
         "info.bibletime.BibleTime",
@@ -1355,6 +1358,7 @@
         "eu.scarpetta.PDFMixTool",
         "fr.free.brouits.qspeakers",
         "fr.free.qccrypt.Qccrypt",
+        "fun.vnote.app.VNote",
         "im.kaidan.kaidan",
         "in.srev.guiscrcpy",
         "info.bibletime.BibleTime",
@@ -2276,11 +2280,9 @@
         "com.sindresorhus.Caprine",
         "com.toggl.TogglDesktop",
         "com.tutanota.Tutanota",
-        "com.wire.WireDesktop",
         "gg.guilded.Guilded",
         "im.riot.Riot",
         "md.obsidian.Obsidian",
-        "net.blockbench.Blockbench",
         "org.remmina.Remmina",
         "ru.proninyaroslav.libretrack"
     ],
@@ -3131,7 +3133,6 @@
     ],
     "org.freedesktop.portal.filechooser": [
         "com.rtosta.zapzap",
-        "de.schmidhuberj.Flare",
         "eu.ad5001.LogarithmPlotter",
         "io.github.vikdevelop.SaveDesktop"
     ],
@@ -3384,9 +3385,6 @@
     ],
     "org.kde.kpasswdserver": [
         "org.kde.dolphin",
-        "org.kde.kontact"
-    ],
-    "org.freedesktop.portal.*": [
         "org.kde.kontact"
     ],
     "org.kde.kssld5": [

@@ -283,5 +283,6 @@
     "org.zim_wiki.Zim",
     "re.sonny.Commit",
     "re.sonny.Junction",
-    "sm.puri.Chatty"
+    "sm.puri.Chatty",
+    "vn.hoabinh.quan.CoBang"
 ]

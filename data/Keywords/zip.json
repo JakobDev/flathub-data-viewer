@@ -1,5 +1,6 @@
 [
     "com.github.mtkennerly.ludusavi",
     "io.github.peazip.PeaZip",
-    "org.gnome.FileRoller"
+    "org.gnome.FileRoller",
+    "org.photoqt.PhotoQt"
 ]

@@ -521,6 +521,7 @@
         "com.skype.Client",
         "com.slack.Slack",
         "com.teamspeak.TeamSpeak",
+        "com.teamspeak.TeamSpeak3",
         "com.tonikelope.MegaBasterd",
         "com.tracktion.Waveform",
         "com.tutanota.Tutanota",
@@ -784,6 +785,7 @@
         "eu.vcmi.VCMI",
         "fr.free.brouits.qspeakers",
         "fr.free.qccrypt.Qccrypt",
+        "fun.vnote.app.VNote",
         "im.kaidan.kaidan",
         "in.srev.guiscrcpy",
         "info.bibletime.BibleTime",
@@ -1375,6 +1377,7 @@
         "dev.vieb.Vieb",
         "eu.cichy1173.tabela",
         "fr.free.hxc2001.HxCFloppyEmulator",
+        "fun.vnote.app.VNote",
         "io.enpass.Enpass",
         "io.github.TheThirdOne.rars",
         "io.github.aggalex.Wineglass",
@@ -1447,6 +1450,7 @@
         "cc.nift.nsm",
         "cc.retroshare.retroshare-gui",
         "chat.schildi.desktop",
+        "com.arviceblot.eso-addon-manager",
         "com.bitwig.BitwigStudio",
         "com.blitterstudio.amiberry",
         "com.borgbase.Vorta",
@@ -2850,14 +2854,13 @@
         "io.github.philipk.boilr",
         "xyz.hyperplay.HyperPlay"
     ],
-    "xdg-data/Steam": [
-        "com.eduke32.EDuke32",
-        "com.github.theCalcaholic.StreamDeck",
-        "gg.minion.Minion",
-        "io.github.philipk.boilr",
-        "io.github.tralph3.Steam_Metadata_Editor"
+    "~/GOG Games": [
+        "com.eduke32.EDuke32"
     ],
     "xdg-documents/VoidSW:create": [
+        "com.eduke32.EDuke32"
+    ],
+    "~/.local/share/applications:ro": [
         "com.eduke32.EDuke32"
     ],
     "xdg-documents/EDuke32:create": [
@@ -2976,6 +2979,7 @@
     "~/.local/share/Steam": [
         "com.github.Matoking.protontricks",
         "com.vysp3r.ProtonPlus",
+        "gg.minion.Minion",
         "net.davidotek.pupgui2",
         "net.studio08.xbplay",
         "xyz.hyperplay.HyperPlay"
@@ -3133,6 +3137,11 @@
         "org.srb2.SRB2Kart-galaxy_azerty",
         "org.srb2.SRB2Kart",
         "sh.fhs.KatawaShoujoReEngineered"
+    ],
+    "xdg-data/Steam": [
+        "com.github.theCalcaholic.StreamDeck",
+        "io.github.philipk.boilr",
+        "io.github.tralph3.Steam_Metadata_Editor"
     ],
     "/run/udev:ro": [
         "com.github.theCalcaholic.StreamDeck",
@@ -3414,6 +3423,9 @@
     ],
     "~/.java/.userPrefs/PortMidi:ro": [
         "eu.usdx.UltraStarDeluxe"
+    ],
+    "~/.gitconfig": [
+        "fun.vnote.app.VNote"
     ],
     "~/RPMLauncher:create": [
         "ga.rpmtw.rpmlauncher"
