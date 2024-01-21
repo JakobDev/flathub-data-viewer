@@ -3334,7 +3334,6 @@
     ],
     "xdg-config/fontconfig:ro": [
         "com.umlet.Umlet",
-        "io.github.Icalingua.Icalingua",
         "org.fcitx.Fcitx5",
         "org.libreoffice.LibreOffice"
     ],
