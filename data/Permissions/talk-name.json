@@ -2272,13 +2272,11 @@
     ],
     "org.freedesktop.portal.fcitx": [
         "app.lith.Lith",
-        "chat.revolt.RevoltDesktop",
         "chat.rocket.RocketChat",
         "chat.schildi.desktop",
         "com.github.marktext.marktext",
         "com.github.vladimiry.ElectronMail",
         "com.parsecgaming.parsec",
-        "com.sindresorhus.Caprine",
         "com.toggl.TogglDesktop",
         "com.tutanota.Tutanota",
         "gg.guilded.Guilded",

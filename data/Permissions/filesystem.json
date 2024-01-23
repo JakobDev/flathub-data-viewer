@@ -3702,6 +3702,11 @@
     "/opt:ro": [
         "io.github.shiftey.Desktop"
     ],
+    "xdg-run/gamescope-0:ro": [
+        "io.github.shiiion.primehack",
+        "net.lutris.Lutris",
+        "org.libretro.RetroArch"
+    ],
     "xdg-run/discord-ipc-0:ro": [
         "io.github.thaunknown.miru"
     ],
@@ -3867,9 +3872,6 @@
     "~/.config/MangoHud:ro": [
         "net.lutris.Lutris"
     ],
-    "xdg-run/gamescope-0:ro": [
-        "net.lutris.Lutris"
-    ],
     "/run/ikedi": [
         "net.shrew.ike.qikea"
     ],
@@ -3890,9 +3892,6 @@
     ],
     "~/2006Scape:create": [
         "org._2006Scape.Launcher"
-    ],
-    "xdg-data/2009scape": [
-        "org._2009scape.Launcher"
     ],
     "/run/tor/control.authcookie:ro": [
         "org.bitcoincore.bitcoin-qt",
