@@ -3101,7 +3101,6 @@
     "~/.var/app/com.valvesoftware.Steam:ro": [
         "com.github.petebuffon.yafc",
         "io.github.maddecoder.Classic-RBDOOM-3-BFG",
-        "io.github.santiagocezar.maniatic-launcher",
         "net.lutris.Lutris",
         "org.pegasus_frontend.Pegasus"
     ],
@@ -3603,8 +3602,7 @@
         "io.github.jeffshee.Hidamari"
     ],
     "xdg-data/Steam:ro": [
-        "io.github.loot.loot",
-        "io.github.santiagocezar.maniatic-launcher"
+        "io.github.loot.loot"
     ],
     "xdg-data/Steam/steamapps/compatdata": [
         "io.github.loot.loot"
@@ -3693,7 +3691,10 @@
     "xdg-config/monitors.xml:ro": [
         "io.github.realmazharhussain.GdmSettings"
     ],
-    "~/.steam:ro": [
+    "~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Sonic Mania:ro": [
+        "io.github.santiagocezar.maniatic-launcher"
+    ],
+    "~/.local/share/Steam/steamapps/common/Sonic Mania/Data.rsdk:ro": [
         "io.github.santiagocezar.maniatic-launcher"
     ],
     "~/GOG Games:create": [
@@ -3705,6 +3706,7 @@
     "xdg-run/gamescope-0:ro": [
         "io.github.shiiion.primehack",
         "net.lutris.Lutris",
+        "org.DolphinEmu.dolphin-emu",
         "org.libretro.RetroArch"
     ],
     "xdg-run/discord-ipc-0:ro": [
