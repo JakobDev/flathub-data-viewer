@@ -131,6 +131,7 @@
     "org.flozz.yoga-image-optimizer",
     "org.freeciv.gtk322",
     "org.freeciv.qt",
+    "org.freeciv.sdl2",
     "org.getoutline.OutlineClient",
     "org.getoutline.OutlineManager",
     "org.gnome.DejaDup",

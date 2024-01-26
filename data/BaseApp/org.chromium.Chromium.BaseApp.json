@@ -3,6 +3,7 @@
         "com.brave.Browser",
         "com.github.Eloston.UngoogledChromium",
         "com.microsoft.Edge",
+        "com.vivaldi.Vivaldi",
         "org.chromium.Chromium",
         "ru.yandex.Browser"
     ],
@@ -10,7 +11,6 @@
         "com.google.Chrome",
         "com.google.ChromeDev",
         "com.microsoft.EdgeDev",
-        "com.opera.Opera",
-        "com.vivaldi.Vivaldi"
+        "com.opera.Opera"
     ]
 }

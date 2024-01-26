@@ -1,5 +1,6 @@
 [
     "net.longturn.freeciv21",
     "org.freeciv.gtk322",
-    "org.freeciv.qt"
+    "org.freeciv.qt",
+    "org.freeciv.sdl2"
 ]

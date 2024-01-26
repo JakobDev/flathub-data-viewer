@@ -189,6 +189,7 @@
     "org.gnome.seahorse.Application",
     "org.gnu.pspp",
     "org.gnucash.GnuCash",
+    "org.gnuhealth.mygnuhealth",
     "org.gnumeric.Gnumeric",
     "org.gottcode.Connectagram",
     "org.gottcode.FocusWriter",

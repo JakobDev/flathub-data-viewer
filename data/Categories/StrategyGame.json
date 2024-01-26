@@ -33,6 +33,7 @@
     "org.asc_hq.ASC",
     "org.freeciv.gtk322",
     "org.freeciv.qt",
+    "org.freeciv.sdl2",
     "org.freecol.FreeCol",
     "org.freeorion.FreeOrion",
     "org.hedgewars.Hedgewars",

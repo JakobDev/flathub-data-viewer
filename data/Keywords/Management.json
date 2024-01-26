@@ -1,6 +1,7 @@
 [
     "io.github.dgsasha.Remembrance",
     "org.gnome.GTG",
+    "org.gnuhealth.mygnuhealth",
     "org.tryton.Tryton-68",
     "org.tryton.Tryton-70"
 ]

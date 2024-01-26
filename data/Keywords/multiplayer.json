@@ -21,6 +21,7 @@
     "org.dhewm3.Dhewm3",
     "org.freeciv.gtk322",
     "org.freeciv.qt",
+    "org.freeciv.sdl2",
     "org.manaplus.ManaPlus",
     "org.openttd.OpenTTD",
     "org.srb2.SRB2Kart-Saturn",

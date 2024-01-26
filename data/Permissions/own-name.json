@@ -251,6 +251,9 @@
     "org.mpris.mediaplayer2.chromium.instance3": [
         "io.github.thaunknown.miru"
     ],
+    "org.mpris.mediaplayer2.yuki_iptv.*": [
+        "io.github.yuki_iptv.yuki-iptv"
+    ],
     "org.mpris.mediaplayer2.goodvibes": [
         "io.gitlab.Goodvibes"
     ],

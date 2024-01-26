@@ -284,6 +284,7 @@
     "org.flightgear.FlightGear",
     "org.freeciv.gtk322",
     "org.freeciv.qt",
+    "org.freeciv.sdl2",
     "org.freedesktop.fwupd",
     "org.freeplane.App",
     "org.fritzing.Fritzing",

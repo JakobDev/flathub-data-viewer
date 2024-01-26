@@ -14,6 +14,7 @@
         "com.jetbrains.GoLand",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
+        "com.jetbrains.PhpStorm",
         "com.jetbrains.PyCharm-Professional",
         "com.jetbrains.Rider",
         "com.jetbrains.RubyMine",
@@ -21,6 +22,7 @@
         "com.sublimemerge.App",
         "com.synology.SynologyDrive",
         "com.visualstudio.code",
+        "com.vscodium.codium-insiders",
         "com.vscodium.codium",
         "dev.lapce.lapce",
         "dev.pulsar_edit.Pulsar",
@@ -38,7 +40,6 @@
         "org.vim.Vim"
     ],
     "22.08": [
-        "com.jetbrains.PhpStorm",
         "com.jetbrains.PyCharm-Community",
         "com.pinegrow.Pinegrow",
         "com.synology.SynologyAssistant",

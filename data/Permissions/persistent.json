@@ -268,6 +268,7 @@
         "com.tux4kids.tuxmath"
     ],
     ".vscode-oss": [
+        "com.vscodium.codium-insiders",
         "com.vscodium.codium"
     ],
     ".fltk": [
@@ -510,6 +511,9 @@
     ],
     ".hexen2": [
         "net.sourceforge.uhexen2.uhexen2"
+    ],
+    ".uqm-megamod": [
+        "net.sourceforge.uqm_mods.UQM-MegaMod"
     ],
     ".waterfox": [
         "net.waterfox.waterfox"

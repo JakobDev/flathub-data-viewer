@@ -7,6 +7,7 @@
     "net.wz2100.wz2100",
     "org.freeciv.gtk322",
     "org.freeciv.qt",
+    "org.freeciv.sdl2",
     "org.freeorion.FreeOrion",
     "org.gnome.Chess",
     "org.gnome.Four-in-a-row",
