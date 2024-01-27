@@ -1904,6 +1904,8 @@
     "com.obsproject.Studio.Plugin.waveform",
     "com.valvesoftware.Steam.CompatibilityTool.Boxtron",
     "com.valvesoftware.Steam.Utility.steamtinkerlaunch",
+    "net.mkiol.SpeechNote.Addon.amd",
+    "net.mkiol.SpeechNote.Addon.nvidia",
     "org.blackfennec.app.extensions.base",
     "org.blackfennec.app.extensions.core",
     "org.fcitx.Fcitx5.Addon.Chewing",

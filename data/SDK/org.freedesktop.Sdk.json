@@ -138,6 +138,7 @@
         "app.feeddeck.feeddeck",
         "app.getclipboard.Clipboard",
         "app.kaiteki.Kaiteki",
+        "app.moosync.moosync",
         "app.xemu.xemu",
         "ar.com.pilas_engine.App",
         "ar.com.tuxguitar.TuxGuitar",
@@ -531,6 +532,7 @@
         "org.dupot.littleadventure",
         "org.enjoyingfoss.FOSStriangulator",
         "org.eu.getcatalyst.Catalyst",
+        "org.ferdium.Ferdium",
         "org.filezillaproject.Filezilla",
         "org.flarerpg.Flare",
         "org.flathub.flatpak-external-data-checker",
@@ -683,7 +685,6 @@
         "org.squeakland.Etoys"
     ],
     "22.08": [
-        "app.moosync.moosync",
         "app.vup.Vup",
         "app.ywallet.Ywallet",
         "at.vintagestory.VintageStory",
@@ -994,7 +995,6 @@
         "org.exbin.BinEd",
         "org.expresslrs.ExpressLRSConfigurator",
         "org.famistudio.FamiStudio",
-        "org.ferdium.Ferdium",
         "org.firestormviewer.FirestormViewer",
         "org.fontforge.FontForge",
         "org.freac.freac",

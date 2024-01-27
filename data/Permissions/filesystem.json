@@ -3718,7 +3718,8 @@
         "io.github.shiiion.primehack",
         "net.lutris.Lutris",
         "org.DolphinEmu.dolphin-emu",
-        "org.libretro.RetroArch"
+        "org.libretro.RetroArch",
+        "org.ppsspp.PPSSPP"
     ],
     "xdg-run/discord-ipc-0:ro": [
         "io.github.thaunknown.miru"
@@ -4087,9 +4088,6 @@
         "org.libretrainsim.Libre-TrainSim"
     ],
     "/var/log:ro": [
-        "org.linux_hardware.hw-probe"
-    ],
-    "/dev": [
         "org.linux_hardware.hw-probe"
     ],
     "xdg-run/mpd": [

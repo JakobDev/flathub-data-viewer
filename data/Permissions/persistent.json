@@ -267,8 +267,10 @@
     ".t4k_common": [
         "com.tux4kids.tuxmath"
     ],
+    ".vscodium-insiders": [
+        "com.vscodium.codium-insiders"
+    ],
     ".vscode-oss": [
-        "com.vscodium.codium-insiders",
         "com.vscodium.codium"
     ],
     ".fltk": [

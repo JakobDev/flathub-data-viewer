@@ -287,5 +287,7 @@
     "vn.hoabinh.quan.CoBang",
     "xyz.armcord.ArmCord",
     "xyz.safeworlds.midiconn",
+    "net.mkiol.SpeechNote.Addon.amd",
+    "net.mkiol.SpeechNote.Addon.nvidia",
     "org.videolan.VLC.Plugin.pause_click"
 ]

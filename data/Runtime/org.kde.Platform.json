@@ -621,8 +621,7 @@
         "com.github.giacomogroppi.writernote-qt",
         "dev.lukebriggs.pepys",
         "eu.skribisto.skribisto",
-        "org.coolero.Coolero",
-        "org.linux_hardware.hw-probe"
+        "org.coolero.Coolero"
     ],
     "5.12": [
         "de.ifw_dresden.nagstamon",
@@ -642,6 +641,7 @@
     ],
     "6.3": [
         "dev.levz.TinyImageFinder",
+        "org.linux_hardware.hw-probe",
         "org.subtitld.Subtitld",
         "uk.org.zint.zint-qt"
     ],

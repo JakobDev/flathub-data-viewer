@@ -1,6 +1,7 @@
 [
     "io.github.voxelcubes.deepqt",
     "io.qt.Linguist",
+    "net.mkiol.SpeechNote",
     "net.poedit.Poedit",
     "org.gnome.Gtranslator",
     "org.kde.lokalize"

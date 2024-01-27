@@ -1078,6 +1078,7 @@
         "audio{SLASH}prs.sid",
         "audio{SLASH}rn-mpeg",
         "audio{SLASH}scpls",
+        "audio{SLASH}speex",
         "audio{SLASH}tta",
         "audio{SLASH}vnd.dolby.heaac.1",
         "audio{SLASH}vnd.dolby.heaac.2",

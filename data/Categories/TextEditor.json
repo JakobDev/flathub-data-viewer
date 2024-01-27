@@ -25,6 +25,7 @@
     "io.liri.Text",
     "io.neovim.nvim",
     "io.posidon.Paper",
+    "net.mkiol.SpeechNote",
     "nl.openoffice.bluefish",
     "org.b3log.siyuan",
     "org.blackfennec.app",

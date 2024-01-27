@@ -1,4 +1,5 @@
 [
     "io.otsaloma.gaupol",
-    "net.mediaarea.MediaInfo"
+    "net.mediaarea.MediaInfo",
+    "net.mkiol.SpeechNote"
 ]
