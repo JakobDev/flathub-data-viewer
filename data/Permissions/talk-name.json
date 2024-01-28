@@ -2275,15 +2275,12 @@
     ],
     "org.freedesktop.portal.fcitx": [
         "app.lith.Lith",
-        "chat.rocket.RocketChat",
         "chat.schildi.desktop",
         "com.github.marktext.marktext",
         "com.github.vladimiry.ElectronMail",
         "com.parsecgaming.parsec",
-        "com.toggl.TogglDesktop",
         "com.tutanota.Tutanota",
         "gg.guilded.Guilded",
-        "im.riot.Riot",
         "org.remmina.Remmina",
         "ru.proninyaroslav.libretrack"
     ],
@@ -2587,15 +2584,6 @@
         "ch.tlaun.TL",
         "org.gnome.DejaDup"
     ],
-    "org.freedesktop.portal.background": [
-        "chat.rocket.RocketChat",
-        "codes.loers.Karlender",
-        "com.cocoatech.deckr",
-        "com.github.IsmaelMartinez.teams_for_linux",
-        "com.github.zocker_160.SyncThingy",
-        "gg.guilded.Guilded",
-        "me.timschneeberger.jdsp4linux"
-    ],
     "org.gnome.mutter.idlemonitor": [
         "chat.rocket.RocketChat",
         "com.lakoliu.Furtherance",
@@ -2691,6 +2679,14 @@
         "org.sabnzbd.sabnzbd",
         "org.signal.Signal",
         "tv.plex.PlexHTPC"
+    ],
+    "org.freedesktop.portal.background": [
+        "codes.loers.Karlender",
+        "com.cocoatech.deckr",
+        "com.github.IsmaelMartinez.teams_for_linux",
+        "com.github.zocker_160.SyncThingy",
+        "gg.guilded.Guilded",
+        "me.timschneeberger.jdsp4linux"
     ],
     "org.gtk.vfs.*": [
         "com.abisource.AbiWord",

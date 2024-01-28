@@ -93,6 +93,7 @@
         "com.github.reduz.ChibiTracker",
         "com.github.robertsanseries.ciano",
         "com.github.rogercrocker.badabib",
+        "com.github.ryonakano.pinit",
         "com.github.ryonakano.reco",
         "com.github.shonumi.gbe-plus",
         "com.github.skylot.jadx",
@@ -3018,7 +3019,6 @@
     ],
     "~/.local/share/applications": [
         "com.github.alexkdeveloper.desktop-files-creator",
-        "com.github.ryonakano.pinit",
         "com.heroicgameslauncher.hgl",
         "org.kde.angelfish",
         "xyz.hyperplay.HyperPlay"
