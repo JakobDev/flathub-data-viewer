@@ -2275,14 +2275,10 @@
     ],
     "org.freedesktop.portal.fcitx": [
         "app.lith.Lith",
-        "chat.schildi.desktop",
         "com.github.marktext.marktext",
-        "com.github.vladimiry.ElectronMail",
-        "com.parsecgaming.parsec",
         "com.tutanota.Tutanota",
         "gg.guilded.Guilded",
-        "org.remmina.Remmina",
-        "ru.proninyaroslav.libretrack"
+        "org.remmina.Remmina"
     ],
     "org.kde.kwalletd5": [
         "app.moosync.moosync",
@@ -2683,9 +2679,7 @@
     "org.freedesktop.portal.background": [
         "codes.loers.Karlender",
         "com.cocoatech.deckr",
-        "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.zocker_160.SyncThingy",
-        "gg.guilded.Guilded",
         "me.timschneeberger.jdsp4linux"
     ],
     "org.gtk.vfs.*": [
@@ -3130,11 +3124,6 @@
         "org.gnome.Totem",
         "org.keepassxc.KeePassXC"
     ],
-    "org.freedesktop.portal.filechooser": [
-        "com.rtosta.zapzap",
-        "eu.ad5001.LogarithmPlotter",
-        "io.github.vikdevelop.SaveDesktop"
-    ],
     "com.canonical.unity": [
         "com.rtosta.zapzap",
         "io.github.kotatogram",
@@ -3182,6 +3171,9 @@
         "edu.stanford.Almond",
         "org.gimp.GIMP",
         "org.ksnip.ksnip"
+    ],
+    "org.freedesktop.portal.filechooser": [
+        "eu.ad5001.LogarithmPlotter"
     ],
     "org.gnome.notifications": [
         "fr.henri2h.minestrix"
