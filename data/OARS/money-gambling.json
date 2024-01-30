@@ -6,8 +6,7 @@
         "net.runelite.RuneLite",
         "org._2006Scape.Launcher",
         "org._2009scape.Launcher",
-        "org.vinegarhq.Vinegar",
-        "vet.rsc.OpenRSC.Launcher"
+        "org.vinegarhq.Vinegar"
     ],
     "none": [
         "ar.com.tuxguitar.TuxGuitar",
@@ -248,7 +247,8 @@
         "net.gradator.gtkatlantic",
         "org.kde.atlantik",
         "org.naev.Naev",
-        "uk.jnthn.backgammony"
+        "uk.jnthn.backgammony",
+        "vet.rsc.OpenRSC.Launcher"
     ],
     "intense": [
         "io.github.hakuneko.HakuNeko",
