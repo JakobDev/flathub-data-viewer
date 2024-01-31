@@ -12,8 +12,19 @@
         "com.github.subhadeepjasu.pebbles",
         "com.github.treagod.spectator"
     ],
+    "juno-20.08": [
+        "com.github.alecaddd.sequeler",
+        "com.github.arshubham.gitignore",
+        "com.github.artemanufrij.graphui",
+        "com.github.artemanufrij.regextester",
+        "com.github.childishgiant.mixer",
+        "com.github.donadigo.appeditor",
+        "com.github.philip_scott.spice-up",
+        "com.github.raibtoffoletto.litteris",
+        "com.github.rajsolai.response",
+        "com.github.robertsanseries.ciano"
+    ],
     "juno-21.08": [
-        "com.github.alainm23.planner",
         "com.github.artemanufrij.playmymusic",
         "com.github.babluboy.bookworm",
         "com.github.bcedu.vgrive",
@@ -27,18 +38,6 @@
         "com.github.muriloventuroso.givemelyrics",
         "com.github.needleandthread.vocal",
         "com.github.philip_scott.notes-up"
-    ],
-    "juno-20.08": [
-        "com.github.alecaddd.sequeler",
-        "com.github.arshubham.gitignore",
-        "com.github.artemanufrij.graphui",
-        "com.github.artemanufrij.regextester",
-        "com.github.childishgiant.mixer",
-        "com.github.donadigo.appeditor",
-        "com.github.philip_scott.spice-up",
-        "com.github.raibtoffoletto.litteris",
-        "com.github.rajsolai.response",
-        "com.github.robertsanseries.ciano"
     ],
     "juno-19.08": [
         "com.github.calo001.fondo",

@@ -75,6 +75,5 @@
     "org.midori_browser.Midori",
     "org.pitivi.Pitivi",
     "org.remmina.Remmina",
-    "org.sugarlabs.Speak",
-    "org.tuxpaint.Tuxpaint"
+    "org.sugarlabs.Speak"
 ]

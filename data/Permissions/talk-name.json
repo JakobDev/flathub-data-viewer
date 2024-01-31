@@ -2949,24 +2949,6 @@
         "org.gnome.Rhythmbox3",
         "org.strawberrymusicplayer.strawberry"
     ],
-    "org.gnome.evolution.dataserver.calendar8": [
-        "com.github.alainm23.planner",
-        "io.github.alainm23.planify",
-        "org.gnome.Calendar",
-        "org.gnome.Notes",
-        "org.gnome.Todo"
-    ],
-    "org.gnome.evolution.dataserver.sources5": [
-        "com.github.alainm23.planner",
-        "io.github.alainm23.planify",
-        "org.gnome.Calendar",
-        "org.gnome.Calls",
-        "org.gnome.Contacts",
-        "org.gnome.Notes",
-        "org.gnome.Todo",
-        "org.tabos.roger",
-        "sm.puri.Chatty"
-    ],
     "org.gnome.shell.screencast": [
         "com.github.amikha1lov.RecApp",
         "com.qq.QQ",
@@ -3187,6 +3169,22 @@
     ],
     "com.kde.statusnotifierwatcher": [
         "io.enpass.Enpass"
+    ],
+    "org.gnome.evolution.dataserver.calendar8": [
+        "io.github.alainm23.planify",
+        "org.gnome.Calendar",
+        "org.gnome.Notes",
+        "org.gnome.Todo"
+    ],
+    "org.gnome.evolution.dataserver.sources5": [
+        "io.github.alainm23.planify",
+        "org.gnome.Calendar",
+        "org.gnome.Calls",
+        "org.gnome.Contacts",
+        "org.gnome.Notes",
+        "org.gnome.Todo",
+        "org.tabos.roger",
+        "sm.puri.Chatty"
     ],
     "org.freedesktop.filemanager1.*": [
         "io.github.ihhub.Fheroes2"

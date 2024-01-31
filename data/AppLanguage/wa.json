@@ -5,6 +5,5 @@
     "org.gnome.Gtranslator",
     "org.gnome.atomix",
     "org.gnome.eog",
-    "org.gnome.gedit",
-    "org.tuxpaint.Tuxpaint"
+    "org.gnome.gedit"
 ]
