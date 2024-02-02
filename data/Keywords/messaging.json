@@ -9,6 +9,7 @@
     "io.github.tdesktop_x64.TDesktop",
     "org.gajim.Gajim",
     "org.gnunet.Messenger",
+    "org.nicotine_plus.Nicotine",
     "org.telegram",
     "sm.puri.Chatty"
 ]

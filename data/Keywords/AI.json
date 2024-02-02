@@ -1,5 +1,6 @@
 [
     "io.github.Bavarder.Bavarder",
+    "io.github.voxelcubes.panelcleaner",
     "org.robocode.Robocode",
     "page.codeberg.Imaginer.Imaginer"
 ]

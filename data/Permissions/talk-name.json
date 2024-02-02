@@ -92,6 +92,7 @@
         "io.github.mrvladus.List",
         "io.github.shiftey.Desktop",
         "io.github.spacingbat3.webcord",
+        "io.kapsa.drive",
         "io.stoplight.studio",
         "io.wavebox.Wavebox",
         "it.fabiodistasio.AntaresSQL",
@@ -1837,6 +1838,7 @@
         "io.github.spacingbat3.webcord",
         "io.github.tdesktop_x64.TDesktop",
         "io.github.xiaoyifang.goldendict_ng",
+        "io.kapsa.drive",
         "io.kopia.KopiaUI",
         "io.podman_desktop.PodmanDesktop",
         "me.kozec.syncthingtk",
@@ -2107,6 +2109,7 @@
         "io.github.xiaoyifang.goldendict_ng",
         "io.gitlab.librewolf-community",
         "io.itch.itch",
+        "io.kapsa.drive",
         "io.podman_desktop.PodmanDesktop",
         "io.stoplight.studio",
         "io.wavebox.Wavebox",
@@ -2176,7 +2179,6 @@
         "org.gnome.BreakTimer",
         "org.gnome.Evolution",
         "org.gnome.Lollypop",
-        "org.gnome.Rhythmbox3",
         "org.goldendict.GoldenDict",
         "org.jamovi.jamovi",
         "org.jitsi.jitsi-meet",
@@ -2292,6 +2294,7 @@
         "com.slack.Slack",
         "com.vivaldi.Vivaldi",
         "com.vscodium.codium",
+        "io.kapsa.drive",
         "org.chromium.Chromium",
         "org.cryptomator.Cryptomator",
         "org.gajim.Gajim",
@@ -2315,6 +2318,7 @@
     ],
     "org.gnome.keyring": [
         "app.moosync.moosync",
+        "io.kapsa.drive",
         "org.adishatz.syncpasswd",
         "org.cryptomator.Cryptomator"
     ],
@@ -2440,6 +2444,7 @@
         "io.github.thetumultuousunicornofdarkness.cpu-x",
         "io.github.zyedidia.micro",
         "io.howl.Editor",
+        "io.kapsa.drive",
         "io.missioncenter.MissionCenter",
         "io.podman_desktop.PodmanDesktop",
         "io.stoplight.studio",
@@ -2729,6 +2734,7 @@
         "io.github.pwr_solaar.solaar",
         "io.github.shiftey.Desktop",
         "io.gitlab.librewolf-community",
+        "io.kapsa.drive",
         "me.iepure.Ticketbooth",
         "net.giuspen.cherrytree",
         "net.mullvad.MullvadBrowser",
@@ -2829,6 +2835,7 @@
         "io.github.quodlibet.QuodLibet",
         "io.github.vikdevelop.SaveDesktop",
         "io.gitlab.librewolf-community",
+        "io.kapsa.drive",
         "io.wavebox.Wavebox",
         "net.mullvad.MullvadBrowser",
         "net.waterfox.waterfox",
@@ -2946,7 +2953,6 @@
         "io.github.quodlibet.QuodLibet",
         "org.clementine_player.Clementine",
         "org.gnome.Evince",
-        "org.gnome.Rhythmbox3",
         "org.strawberrymusicplayer.strawberry"
     ],
     "org.gnome.shell.screencast": [
@@ -3227,6 +3233,10 @@
     "org.kde.ksmserver": [
         "io.github.vikdevelop.SaveDesktop"
     ],
+    "org.ayatana": [
+        "io.kapsa.drive",
+        "org.cryptomator.Cryptomator"
+    ],
     "io.missioncenter.missioncenter.gatherer": [
         "io.missioncenter.MissionCenter"
     ],
@@ -3264,9 +3274,6 @@
     "org.wiimotedev.deviceevents": [
         "org.clementine_player.Clementine",
         "org.strawberrymusicplayer.strawberry"
-    ],
-    "org.ayatana": [
-        "org.cryptomator.Cryptomator"
     ],
     "org.kde.kwin.screenshot": [
         "org.gimp.GIMP"
