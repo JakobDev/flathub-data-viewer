@@ -530,6 +530,7 @@
         "com.ugetdm.uGet",
         "com.viber.Viber",
         "com.vivaldi.Vivaldi",
+        "com.warlordsoftwares.formatlab",
         "com.wps.Office",
         "com.writerduet.writersolo",
         "com.xunlei.Thunder",
@@ -758,6 +759,7 @@
         "com.vscodium.codium-insiders",
         "com.vscodium.codium",
         "com.vzhd1701.gridplayer",
+        "com.warlordsoftwares.formatlab",
         "com.wiz.Note",
         "com.xnview.XnViewMP",
         "com.yacreader.YACReader",
@@ -1372,6 +1374,7 @@
         "com.tutanota.Tutanota",
         "com.umlet.Umlet",
         "com.viber.Viber",
+        "com.warlordsoftwares.formatlab",
         "com.wiz.Note",
         "com.wps.Office",
         "com.writerduet.writersolo",
@@ -1465,7 +1468,6 @@
         "com.diffingo.fwbackups",
         "com.georgefb.mangareader",
         "com.georgefb.quickaccess",
-        "com.github.ADBeveridge.Raider",
         "com.github.Bleuzen.FFaudioConverter",
         "com.github._4lex4.ScanTailor-Advanced",
         "com.github.artemanufrij.playmymusic",
@@ -2490,6 +2492,7 @@
         "com.transmissionbt.Transmission",
         "com.vixalien.decibels",
         "com.vysp3r.ProtonPlus",
+        "com.warlordsoftwares.formatlab",
         "com.zhqli.wikit",
         "cz.zeropage.Formiko",
         "de.create3000.titania",
@@ -2868,6 +2871,15 @@
     "~/GOG Games": [
         "com.eduke32.EDuke32"
     ],
+    "~/.local/share/Steam": [
+        "com.eduke32.EDuke32",
+        "com.github.Matoking.protontricks",
+        "com.vysp3r.ProtonPlus",
+        "gg.minion.Minion",
+        "net.davidotek.pupgui2",
+        "net.studio08.xbplay",
+        "xyz.hyperplay.HyperPlay"
+    ],
     "xdg-documents/VoidSW:create": [
         "com.eduke32.EDuke32"
     ],
@@ -2987,14 +2999,6 @@
         "me.timschneeberger.jdsp4linux",
         "org.kde.haruna",
         "org.qutebrowser.qutebrowser"
-    ],
-    "~/.local/share/Steam": [
-        "com.github.Matoking.protontricks",
-        "com.vysp3r.ProtonPlus",
-        "gg.minion.Minion",
-        "net.davidotek.pupgui2",
-        "net.studio08.xbplay",
-        "xyz.hyperplay.HyperPlay"
     ],
     "xdg-templates": [
         "com.github.PintaProject.Pinta"

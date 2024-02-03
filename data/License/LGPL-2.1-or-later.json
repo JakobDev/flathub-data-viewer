@@ -7,6 +7,7 @@
     "org.freedesktop.Bustle",
     "org.kde.marble",
     "org.midori_browser.Midori",
+    "com.valvesoftware.Steam.Utility.InhibitScreensaver",
     "org.kicad.KiCad.ODBCDriver.mariadb-connector-odbc",
     "org.videolan.VLC.Plugin.pause_click"
 ]
