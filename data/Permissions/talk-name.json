@@ -1010,7 +1010,6 @@
         "net.granjow.slowmovideo",
         "net.jammr.jammr",
         "net.kuribo64.melonDS",
-        "net.kvirc.KVIrc",
         "net.longturn.freeciv21",
         "net.mediaarea.MediaConch",
         "net.meshlab.MeshLab",
@@ -1444,7 +1443,6 @@
         "net.granjow.slowmovideo",
         "net.jammr.jammr",
         "net.kuribo64.melonDS",
-        "net.kvirc.KVIrc",
         "net.longturn.freeciv21",
         "net.mediaarea.MediaConch",
         "net.meshlab.MeshLab",
@@ -2686,7 +2684,6 @@
     "org.freedesktop.portal.background": [
         "codes.loers.Karlender",
         "com.cocoatech.deckr",
-        "com.github.zocker_160.SyncThingy",
         "me.timschneeberger.jdsp4linux"
     ],
     "org.gtk.vfs.*": [
@@ -3038,9 +3035,6 @@
     ],
     "org.freedesktop.impl.portal.permissionstore": [
         "com.github.tchx84.Flatseal"
-    ],
-    "org.freedesktop.portal.settings": [
-        "com.github.zocker_160.SyncThingy"
     ],
     "org.endlessos.onboarding": [
         "com.hack_computer.Clubhouse"

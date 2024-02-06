@@ -1,5 +1,4 @@
 [
-    "app.authpass.AuthPass",
     "app.getspace.Space",
     "app.midterm.MidtermDesktop",
     "app.riftshare.RiftShare",
