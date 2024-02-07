@@ -1,5 +1,6 @@
 [
     "io.jamulus.Jamulus",
     "net.sonobus.SonoBus",
-    "org.fedoraproject.MediaWriter"
+    "org.fedoraproject.MediaWriter",
+    "xyz.splashmapper.Splash"
 ]

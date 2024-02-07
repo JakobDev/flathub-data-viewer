@@ -104,6 +104,7 @@
     "net.lutris.Lutris",
     "net.meijn.onvifviewer",
     "net.minetest.Minetest",
+    "net.natesales.Aviator",
     "net.poedit.Poedit",
     "net.sourceforge.kmetronome",
     "net.sourceforge.liferea",
@@ -251,6 +252,7 @@
     "org.zim_wiki.Zim",
     "re.sonny.Commit",
     "re.sonny.Junction",
+    "se.sjoerd.Graphs",
     "sm.puri.Chatty",
     "vn.hoabinh.quan.CoBang",
     "xyz.tytanium.DoorKnocker"

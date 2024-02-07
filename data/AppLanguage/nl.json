@@ -296,6 +296,7 @@
     "org.zim_wiki.Zim",
     "re.sonny.Commit",
     "re.sonny.Junction",
+    "se.sjoerd.Graphs",
     "sm.puri.Chatty",
     "vn.hoabinh.quan.CoBang"
 ]

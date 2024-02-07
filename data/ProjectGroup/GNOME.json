@@ -185,6 +185,7 @@
     "org.upnproutercontrol.UPnPRouterControl",
     "org.xiphos.Xiphos",
     "re.sonny.Workbench",
+    "se.sjoerd.Graphs",
     "sm.puri.Chatty",
     "org.freedesktop.Sdk.Extension.vala",
     "org.gnome.Crosswords.PuzzleSets.gnome",

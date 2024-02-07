@@ -234,5 +234,6 @@
     "org.zim_wiki.Zim",
     "org.zrythm.Zrythm",
     "re.sonny.Commit",
+    "se.sjoerd.Graphs",
     "sm.puri.Chatty"
 ]

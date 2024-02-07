@@ -2164,7 +2164,6 @@
         "im.srain.Srain",
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.btpf.alexandria",
-        "io.github.fabiangreffrath.Doom",
         "io.github.jacalz.rymdport",
         "io.github.maddecoder.Classic-RBDOOM-3-BFG",
         "io.github.mihnea_radulescu.imagefanreloaded",
@@ -3414,7 +3413,7 @@
     "~/.aws": [
         "dev.k8slens.OpenLens"
     ],
-    "xdg-config/gcloud": [
+    "~/.config/gcloud": [
         "dev.k8slens.OpenLens"
     ],
     "~/.minikube": [
