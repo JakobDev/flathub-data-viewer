@@ -40,7 +40,6 @@
         "org.gnome.Platform.Compat.i386.Debug",
         "org.learningequality.Kolibri.Content",
         "org.learningequality.Kolibri.Plugin",
-        "org.ppsspp.PPSSPP.Locale",
         "org.telegram.desktop.webview",
         "org.winehq.Wine.DLLs",
         "org.winehq.Wine.gecko",

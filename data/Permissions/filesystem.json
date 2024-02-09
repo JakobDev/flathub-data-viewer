@@ -531,6 +531,7 @@
         "com.viber.Viber",
         "com.vivaldi.Vivaldi",
         "com.warlordsoftwares.formatlab",
+        "com.warlordsoftwares.youtube-downloader-4ktube",
         "com.wps.Office",
         "com.writerduet.writersolo",
         "com.xunlei.Thunder",
@@ -579,6 +580,7 @@
         "net.filebot.FileBot",
         "net.jami.Jami",
         "net.kvirc.KVIrc",
+        "net.mkiol.Jupii",
         "net.mkiol.SpeechNote",
         "net.puddletag.puddletag",
         "net.sonobus.SonoBus",
@@ -760,6 +762,7 @@
         "com.vscodium.codium",
         "com.vzhd1701.gridplayer",
         "com.warlordsoftwares.formatlab",
+        "com.warlordsoftwares.youtube-downloader-4ktube",
         "com.wiz.Note",
         "com.xnview.XnViewMP",
         "com.yacreader.YACReader",
@@ -937,6 +940,7 @@
         "net.mediaarea.QCTools",
         "net.meijn.onvifviewer",
         "net.meshlab.MeshLab",
+        "net.mkiol.Jupii",
         "net.mkiol.SpeechNote",
         "net.pcsx2.PCSX2",
         "net.puddletag.puddletag",
@@ -1375,6 +1379,7 @@
         "com.umlet.Umlet",
         "com.viber.Viber",
         "com.warlordsoftwares.formatlab",
+        "com.warlordsoftwares.youtube-downloader-4ktube",
         "com.wiz.Note",
         "com.wps.Office",
         "com.writerduet.writersolo",
@@ -1406,6 +1411,7 @@
         "net.corluma.Corluma",
         "net.danigm.timetrack",
         "net.epson.epsonscan2",
+        "net.mkiol.Jupii",
         "net.mkiol.SpeechNote",
         "net.sourceforge.Pdfedit",
         "net.sourceforge.jpdftweak.jPdfTweak",
@@ -1435,6 +1441,7 @@
         "org.otfried.Ipe",
         "org.phoenicis.playonlinux",
         "org.profex_xrd.Profex",
+        "org.pwsafe.pwsafe",
         "org.sdrangel.SDRangel",
         "org.soapui.SoapUI",
         "org.winehq.Wine",
@@ -1534,6 +1541,7 @@
         "com.visualstudio.code",
         "com.vscodium.codium-insiders",
         "com.vscodium.codium",
+        "com.vysp3r.RetroPlus",
         "com.vzhd1701.gridplayer",
         "de.akaflieg_freiburg.enroute",
         "de.haeckerfelix.Fragments",
@@ -1793,6 +1801,7 @@
         "io.wavebox.Wavebox",
         "net.blockbench.Blockbench",
         "net.filebot.FileBot",
+        "net.mkiol.Jupii",
         "net.mkiol.SpeechNote",
         "net.puddletag.puddletag",
         "net.sonobus.SonoBus",
@@ -2118,6 +2127,7 @@
         "org.guitarix.Guitarix",
         "org.hydrogenmusic.Hydrogen",
         "org.jacktrip.JackTrip",
+        "org.jjazzlab.JJazzLab",
         "org.kde.kamoso",
         "org.kde.kdenlive",
         "org.linuxshowplayer.LinuxShowPlayer",
@@ -2170,6 +2180,7 @@
         "io.github.punesemu.puNES",
         "io.github.troyeguo.koodo-reader",
         "io.github.unrud.RecentFilter",
+        "io.thenexusavenger.Nexus-LU-Launcher",
         "net.rpcs3.RPCS3",
         "org.cubocore.CoreHunt",
         "org.ferdium.Ferdium",
@@ -2400,6 +2411,7 @@
         "net.filebot.FileBot",
         "net.granjow.slowmovideo",
         "net.krafting.PleasureDVR",
+        "net.mkiol.Jupii",
         "net.mkiol.SpeechNote",
         "net.sourceforge.Kino",
         "net.xmind.XMind8",
@@ -2491,7 +2503,9 @@
         "com.transmissionbt.Transmission",
         "com.vixalien.decibels",
         "com.vysp3r.ProtonPlus",
+        "com.vysp3r.RetroPlus",
         "com.warlordsoftwares.formatlab",
+        "com.warlordsoftwares.youtube-downloader-4ktube",
         "com.zhqli.wikit",
         "cz.zeropage.Formiko",
         "de.create3000.titania",
@@ -2775,6 +2789,7 @@
         "io.wavebox.Wavebox",
         "net.blockbench.Blockbench",
         "net.epson.epsonscan2",
+        "net.mkiol.Jupii",
         "net.mkiol.SpeechNote",
         "net.sourceforge.jpdftweak.jPdfTweak",
         "net.sourceforge.mcomix",
@@ -2865,6 +2880,7 @@
         "com.steamgriddb.SGDBoop",
         "gg.minion.Minion",
         "io.github.philipk.boilr",
+        "net.retrodeck.retrodeck",
         "xyz.hyperplay.HyperPlay"
     ],
     "~/GOG Games": [
@@ -2970,8 +2986,7 @@
         "com.neatdecisions.Detwinner",
         "org.gimp.GIMP",
         "org.inkscape.Inkscape",
-        "org.libreoffice.LibreOffice",
-        "org.onlyoffice.desktopeditors"
+        "org.libreoffice.LibreOffice"
     ],
     "~/.mozilla/firefox": [
         "com.github.GradienceTeam.Gradience",
@@ -3424,6 +3439,9 @@
     ],
     "xdg-documents/Linwood/Butterfly": [
         "dev.linwood.butterfly"
+    ],
+    "~/Gameeky:create": [
+        "dev.tchx84.Gameeky"
     ],
     "~/.wallpaperdownloader:create": [
         "es.estoes.wallpaperDownloader"
@@ -4088,6 +4106,9 @@
     "~/Jellyfin Server Media:create": [
         "org.jellyfin.JellyfinServer"
     ],
+    "~/JJazzLab": [
+        "org.jjazzlab.JJazzLab"
+    ],
     "~/.local/share/godot/app_userdata/libre-trainsim": [
         "org.libretrainsim.Libre-TrainSim"
     ],
@@ -4105,6 +4126,9 @@
     ],
     "~/OnionShare:create": [
         "org.onionshare.OnionShare"
+    ],
+    "~/.local/share/gtk-3.0": [
+        "org.onlyoffice.desktopeditors"
     ],
     "~/.elc:create": [
         "org.pjbroad.EternallandsClient"

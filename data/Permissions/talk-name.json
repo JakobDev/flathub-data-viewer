@@ -280,6 +280,7 @@
         "com.vscodium.codium",
         "com.vzhd1701.gridplayer",
         "com.warlordsoftwares.formatlab",
+        "com.warlordsoftwares.youtube-downloader-4ktube",
         "com.wire.WireDesktop",
         "com.wiz.Note",
         "com.yacreader.YACReader",
@@ -472,6 +473,7 @@
         "net.mediaarea.QCTools",
         "net.meijn.onvifviewer",
         "net.meshlab.MeshLab",
+        "net.mkiol.Jupii",
         "net.mkiol.SpeechNote",
         "net.pcsx2.PCSX2",
         "net.puddletag.puddletag",
@@ -912,6 +914,7 @@
         "com.virustotal.VirusTotalUploader",
         "com.vzhd1701.gridplayer",
         "com.warlordsoftwares.formatlab",
+        "com.warlordsoftwares.youtube-downloader-4ktube",
         "com.zandronum.Zandronum",
         "de.klayout.KLayout",
         "de.rwth_aachen.ient.YUView",
@@ -1013,6 +1016,7 @@
         "net.longturn.freeciv21",
         "net.mediaarea.MediaConch",
         "net.meshlab.MeshLab",
+        "net.mkiol.Jupii",
         "net.mkiol.SpeechNote",
         "net.puddletag.puddletag",
         "net.qsl.QSSTV",
@@ -1354,6 +1358,7 @@
         "com.virustotal.VirusTotalUploader",
         "com.vzhd1701.gridplayer",
         "com.warlordsoftwares.formatlab",
+        "com.warlordsoftwares.youtube-downloader-4ktube",
         "com.zandronum.Zandronum",
         "de.klayout.KLayout",
         "de.rwth_aachen.ient.YUView",
@@ -1446,6 +1451,7 @@
         "net.longturn.freeciv21",
         "net.mediaarea.MediaConch",
         "net.meshlab.MeshLab",
+        "net.mkiol.Jupii",
         "net.mkiol.SpeechNote",
         "net.puddletag.puddletag",
         "net.qsl.QSSTV",
@@ -1852,6 +1858,7 @@
         "net.jami.Jami",
         "net.kvirc.KVIrc",
         "net.lutris.Lutris",
+        "net.mkiol.Jupii",
         "net.mkiol.SpeechNote",
         "net.mullvad.MullvadBrowser",
         "net.rpdev.OpenTodoList",
@@ -2126,6 +2133,7 @@
         "net.hovancik.Stretchly",
         "net.jami.Jami",
         "net.kirgroup.confy",
+        "net.mkiol.Jupii",
         "net.mkiol.SpeechNote",
         "net.rpdev.OpenTodoList",
         "net.runelite.RuneLite",
@@ -2279,8 +2287,7 @@
     "org.freedesktop.portal.fcitx": [
         "app.lith.Lith",
         "com.github.marktext.marktext",
-        "gg.guilded.Guilded",
-        "org.remmina.Remmina"
+        "gg.guilded.Guilded"
     ],
     "org.kde.kwalletd5": [
         "app.moosync.moosync",
@@ -2683,7 +2690,6 @@
     ],
     "org.freedesktop.portal.background": [
         "codes.loers.Karlender",
-        "com.cocoatech.deckr",
         "me.timschneeberger.jdsp4linux"
     ],
     "org.gtk.vfs.*": [
@@ -2714,6 +2720,7 @@
         "com.transmissionbt.Transmission",
         "com.vixalien.decibels",
         "com.vysp3r.ProtonPlus",
+        "com.vysp3r.RetroPlus",
         "com.zettlr.Zettlr",
         "com.zhqli.wikit",
         "cz.zeropage.Formiko",
@@ -2893,16 +2900,12 @@
         "com.mousepawmedia.omission",
         "org.openchemistry.Avogadro2"
     ],
-    "com.canonical.unity.launcherentry": [
+    "com.canonical.unity": [
         "com.discordapp.Discord",
-        "com.github.gabutakut.gabutdm",
-        "com.hunterwittenborn.Celeste",
-        "com.ozmartians.VidCutter",
-        "de.manuel_kehl.go-for-it",
-        "gg.guilded.Guilded",
-        "me.timschneeberger.GalaxyBudsClient",
-        "org.freedownloadmanager.Manager",
-        "social.whalebird.WhalebirdDesktop"
+        "com.heroicgameslauncher.hgl",
+        "com.rtosta.zapzap",
+        "io.github.kotatogram",
+        "org.remmina.Remmina"
     ],
     "org.mpris.mediaplayer2.*": [
         "com.feaneron.Boatswain",
@@ -2985,6 +2988,16 @@
     "org.a11y.*": [
         "com.github.debauchee.barrier",
         "org.raspberrypi.rpi-imager"
+    ],
+    "com.canonical.unity.launcherentry": [
+        "com.github.gabutakut.gabutdm",
+        "com.hunterwittenborn.Celeste",
+        "com.ozmartians.VidCutter",
+        "de.manuel_kehl.go-for-it",
+        "gg.guilded.Guilded",
+        "me.timschneeberger.GalaxyBudsClient",
+        "org.freedownloadmanager.Manager",
+        "social.whalebird.WhalebirdDesktop"
     ],
     "org.kde.statusnotifieritem": [
         "com.github.gabutakut.gabutdm"
@@ -3107,11 +3120,6 @@
         "org.gnome.BreakTimer",
         "org.gnome.Totem",
         "org.keepassxc.KeePassXC"
-    ],
-    "com.canonical.unity": [
-        "com.rtosta.zapzap",
-        "io.github.kotatogram",
-        "org.remmina.Remmina"
     ],
     "org.gnome.gconf": [
         "com.skype.Client",
@@ -3258,12 +3266,15 @@
     "org.gnome.settingsdaemon.power": [
         "net.displaycal.DisplayCAL"
     ],
+    "org.freedesktop.tracker1.steroids": [
+        "net.mkiol.Jupii"
+    ],
+    "org.freedesktop.tracker3.endpoint": [
+        "net.mkiol.Jupii"
+    ],
     "org.freedesktop.login1.manager": [
         "net.retrodeck.retrodeck",
         "org.yuzu_emu.yuzu"
-    ],
-    "org.freedesktop.portal.flatpak.updatemonitor": [
-        "net.retrodeck.retrodeck"
     ],
     "org.mate.screensaver": [
         "net.rpcs3.RPCS3"

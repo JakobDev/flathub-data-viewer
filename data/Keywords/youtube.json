@@ -1,7 +1,9 @@
 [
     "app.moosync.moosync",
+    "com.warlordsoftwares.youtube-downloader-4ktube",
     "de.schmidhuberj.tubefeeder",
     "net.krafting.Playlifin",
+    "net.mkiol.Jupii",
     "org.gnome.Shotwell",
     "org.nickvision.tubeconverter"
 ]
