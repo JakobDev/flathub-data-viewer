@@ -2810,7 +2810,6 @@
     ],
     "xdg-data/Trash": [
         "com.calibre_ebook.calibre",
-        "com.zettlr.Zettlr",
         "org.kde.gwenview"
     ],
     "~/.config/gnome-next-meeting-applet:ro": [
@@ -3375,7 +3374,8 @@
         "com.vivaldi.Vivaldi"
     ],
     "~/.var/app/com.usebottles.bottles/data/bottles": [
-        "com.vysp3r.ProtonPlus"
+        "com.vysp3r.ProtonPlus",
+        "io.github.fastrizwaan.WineZGUI"
     ],
     "~/.var/app/com.heroicgameslauncher.hgl/config/heroic": [
         "com.vysp3r.ProtonPlus"
@@ -3465,7 +3465,8 @@
         "gg.minion.Minion"
     ],
     "~/Games": [
-        "gg.minion.Minion"
+        "gg.minion.Minion",
+        "io.github.fastrizwaan.WineZGUI"
     ],
     "~/.var/app/org.libretro.RetroArch/config/retroarch:ro": [
         "hu.kramo.Cartridges"
@@ -3486,8 +3487,7 @@
         "io.github.loot.loot"
     ],
     "~/.var/app/com.usebottles.bottles/data/bottles:ro": [
-        "hu.kramo.Cartridges",
-        "io.github.fastrizwaan.WineZGUI"
+        "hu.kramo.Cartridges"
     ],
     "xdg-data/flatpak/exports:ro": [
         "hu.kramo.Cartridges"
@@ -3577,20 +3577,16 @@
         "net.nokyan.Resources",
         "page.codeberg.libre_menu_editor.LibreMenuEditor"
     ],
-    "~/.wine:ro": [
-        "io.github.fastrizwaan.WineZGUI",
-        "sh.ppy.osu"
-    ],
-    "~/.var/app/com.playonlinux.PlayOnLinux4/data/PlayOnLinux/wineprefix:ro": [
+    "~/.wine": [
         "io.github.fastrizwaan.WineZGUI"
     ],
-    "~/.var/app/org.winehq.Wine/data/wine:ro": [
+    "~/.var/app/com.playonlinux.PlayOnLinux4/data/PlayOnLinux/wineprefix": [
         "io.github.fastrizwaan.WineZGUI"
     ],
-    "~/Games:ro": [
+    "~/.var/app/org.winehq.Wine/data/wine": [
         "io.github.fastrizwaan.WineZGUI"
     ],
-    "~/.var/app/org.phoenicis.playonlinux/.Phoenicis/containers/wineprefix:ro": [
+    "~/.var/app/org.phoenicis.playonlinux/.Phoenicis/containers/wineprefix": [
         "io.github.fastrizwaan.WineZGUI"
     ],
     "~/.local/share/flatpak:ro": [
@@ -4230,6 +4226,9 @@
     ],
     "/var/lib/snapd/desktop:ro": [
         "re.sonny.Junction"
+    ],
+    "~/.wine:ro": [
+        "sh.ppy.osu"
     ],
     "~/.local/share/osu-wine:ro": [
         "sh.ppy.osu"
