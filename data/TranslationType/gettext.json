@@ -193,6 +193,7 @@
     "io.gitlab.idevecore.Pomodoro",
     "io.gitlab.leesonwai.Tactics",
     "io.gitlab.news_flash.NewsFlash",
+    "io.missioncenter.MissionCenter",
     "io.mpv.Mpv",
     "io.neovim.nvim",
     "io.otsaloma.gaupol",

@@ -2989,6 +2989,29 @@
         "com.github.debauchee.barrier",
         "org.raspberrypi.rpi-imager"
     ],
+    "org.gnome.shell.screenshot": [
+        "com.github.dynobo.normcap",
+        "edu.stanford.Almond",
+        "org.gimp.GIMP",
+        "org.ksnip.ksnip"
+    ],
+    "org.kde.kwin": [
+        "com.github.dynobo.normcap"
+    ],
+    "org.gnome.shell": [
+        "com.github.dynobo.normcap",
+        "com.github.neithern.g4music",
+        "com.github.rafostar.Clapper",
+        "com.hack_computer.Clubhouse",
+        "com.hack_computer.OperatingSystemApp",
+        "com.hack_computer.Sidetrack",
+        "com.uploadedlobster.peek",
+        "edu.stanford.Almond",
+        "org.gnome.BreakTimer",
+        "org.gnome.Totem",
+        "org.remmina.Remmina",
+        "org.sil.FieldWorks"
+    ],
     "com.canonical.unity.launcherentry": [
         "com.github.gabutakut.gabutdm",
         "com.hunterwittenborn.Celeste",
@@ -3022,19 +3045,6 @@
     "org.xfce.sessionmanager": [
         "com.github.needleandthread.vocal",
         "io.github.vikdevelop.SaveDesktop"
-    ],
-    "org.gnome.shell": [
-        "com.github.neithern.g4music",
-        "com.github.rafostar.Clapper",
-        "com.hack_computer.Clubhouse",
-        "com.hack_computer.OperatingSystemApp",
-        "com.hack_computer.Sidetrack",
-        "com.uploadedlobster.peek",
-        "edu.stanford.Almond",
-        "org.gnome.BreakTimer",
-        "org.gnome.Totem",
-        "org.remmina.Remmina",
-        "org.sil.FieldWorks"
     ],
     "org.freedesktop.filechooser": [
         "com.github.ransome1.sleek"
@@ -3158,11 +3168,6 @@
         "org.kde.kontact",
         "org.kde.yakuake",
         "org.strawberrymusicplayer.strawberry"
-    ],
-    "org.gnome.shell.screenshot": [
-        "edu.stanford.Almond",
-        "org.gimp.GIMP",
-        "org.ksnip.ksnip"
     ],
     "org.freedesktop.portal.filechooser": [
         "eu.ad5001.LogarithmPlotter"

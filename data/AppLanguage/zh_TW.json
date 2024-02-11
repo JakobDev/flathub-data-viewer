@@ -29,6 +29,7 @@
     "io.github.quodlibet.ExFalso",
     "io.github.quodlibet.QuodLibet",
     "io.liri.Text",
+    "io.missioncenter.MissionCenter",
     "net.minetest.Minetest",
     "net.nokyan.Resources",
     "net.poedit.Poedit",

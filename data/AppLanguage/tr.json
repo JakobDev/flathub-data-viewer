@@ -97,6 +97,7 @@
     "io.gitlab.news_flash.NewsFlash",
     "io.liri.Calculator",
     "io.liri.Text",
+    "io.missioncenter.MissionCenter",
     "io.neovim.nvim",
     "io.otsaloma.gaupol",
     "io.otsaloma.nfoview",

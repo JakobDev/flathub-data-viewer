@@ -112,6 +112,7 @@
     "io.gitlab.adhami3310.Impression",
     "io.gitlab.news_flash.NewsFlash",
     "io.liri.Text",
+    "io.missioncenter.MissionCenter",
     "io.neovim.nvim",
     "io.otsaloma.nfoview",
     "io.posidon.Paper",
