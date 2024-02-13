@@ -119,6 +119,7 @@
     "io.gitlab.adhami3310.Converter",
     "io.gitlab.adhami3310.Impression",
     "io.gitlab.idevecore.Pomodoro",
+    "io.gitlab.news_flash.NewsFlash",
     "io.missioncenter.MissionCenter",
     "io.otsaloma.gaupol",
     "io.otsaloma.nfoview",
