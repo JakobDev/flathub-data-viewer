@@ -22,6 +22,7 @@
     "net.launchpad.Gnuclad",
     "net.sourceforge.fspclient",
     "network.koesling.shm-modbus",
+    "org.asamk.SignalCli",
     "org.eu.wabarc.wayback",
     "org.flathub.flatpak-external-data-checker",
     "org.freedesktop.appstream-glib",

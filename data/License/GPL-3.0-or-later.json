@@ -574,5 +574,6 @@
     "com.github.unrud.djpdf.OCR.Yor",
     "org.freedesktop.LinuxAudio.Plugins.Cardinal",
     "org.freedesktop.LinuxAudio.Plugins.Odin2",
-    "org.freedesktop.LinuxAudio.Plugins.jc303"
+    "org.freedesktop.LinuxAudio.Plugins.jc303",
+    "org.freedesktop.Sdk.Extension.gnat13"
 ]

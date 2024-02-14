@@ -389,6 +389,7 @@
         "network.loki.Session",
         "org.adishatz.syncpasswd",
         "org.alienarena.alienarena",
+        "org.asamk.SignalCli",
         "org.bitfighter.Bitfighter",
         "org.briarproject.Briar",
         "org.bzflag.BZFlag",

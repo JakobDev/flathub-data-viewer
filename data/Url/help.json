@@ -181,6 +181,7 @@
     "com.musixmatch.Musixmatch",
     "com.napster.napster-bigscreen-electron",
     "com.nitrokey.nitrokey-app",
+    "com.nitrokey.nitrokey-app2",
     "com.nordpass.NordPass",
     "com.notepadqq.Notepadqq",
     "com.notesnook.Notesnook",
@@ -865,5 +866,6 @@
     "com.valvesoftware.Steam.CompatibilityTool.Boxtron",
     "com.valvesoftware.Steam.Utility.steamtinkerlaunch",
     "org.apache.jmeter.Help",
-    "org.freedesktop.LinuxAudio.Plugins.SonoBus"
+    "org.freedesktop.LinuxAudio.Plugins.SonoBus",
+    "org.freedesktop.Sdk.Extension.gnat13"
 ]

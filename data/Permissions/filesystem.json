@@ -11,6 +11,7 @@
         "ar.com.tuxguitar.TuxGuitar",
         "ar.xjuan.Cambalache",
         "au.edu.uq.esys.escript",
+        "br.eng.silas.qpdftools",
         "br.gov.cti.invesalius",
         "ca.littlesvr.asunder",
         "ca.uwaterloo.Raven",
@@ -320,6 +321,7 @@
         "org.aliflang.lang",
         "org.ardour.Ardour",
         "org.arrl.trustedqsl",
+        "org.asamk.SignalCli",
         "org.bleachbit.BleachBit",
         "org.bzdev.CVRDecode",
         "org.chromium.Chromium",
@@ -531,6 +533,7 @@
         "com.viber.Viber",
         "com.vivaldi.Vivaldi",
         "com.warlordsoftwares.formatlab",
+        "com.warlordsoftwares.jpeg2pdf",
         "com.warlordsoftwares.youtube-downloader-4ktube",
         "com.wps.Office",
         "com.writerduet.writersolo",
@@ -654,6 +657,7 @@
         "app.lith.Lith",
         "art.taunoerik.tauno-serial-plotter",
         "at.priv.toastfreeware.ConfClerk",
+        "br.eng.silas.qpdftools",
         "ca.parallel_launcher.ParallelLauncher",
         "cc.retroshare.retroshare-gui",
         "ch.openboard.OpenBoard",
@@ -734,6 +738,7 @@
         "com.moonlight_stream.Moonlight",
         "com.nextcloud.desktopclient.nextcloud",
         "com.nitrokey.nitrokey-app",
+        "com.nitrokey.nitrokey-app2",
         "com.notepadqq.Notepadqq",
         "com.obsproject.Studio",
         "com.ozmartians.VidCutter",
@@ -762,6 +767,7 @@
         "com.vscodium.codium",
         "com.vzhd1701.gridplayer",
         "com.warlordsoftwares.formatlab",
+        "com.warlordsoftwares.jpeg2pdf",
         "com.warlordsoftwares.youtube-downloader-4ktube",
         "com.wiz.Note",
         "com.xnview.XnViewMP",
@@ -975,6 +981,7 @@
         "org.bionus.Grabber",
         "org.bitbucket.mystery_keeper.VapourSynthEditor",
         "org.bunkus.mkvtoolnix-gui",
+        "org.chrisoft.qmidiplayer",
         "org.citra_emu.citra",
         "org.clementine_player.Clementine",
         "org.cloudcompare.CloudCompare",
@@ -1379,6 +1386,7 @@
         "com.umlet.Umlet",
         "com.viber.Viber",
         "com.warlordsoftwares.formatlab",
+        "com.warlordsoftwares.jpeg2pdf",
         "com.warlordsoftwares.youtube-downloader-4ktube",
         "com.wiz.Note",
         "com.wps.Office",
@@ -1646,8 +1654,8 @@
         "org.buhocms.BuhoCMS",
         "org.bunkus.mkvtoolnix-gui",
         "org.caione.GScope",
+        "org.chrisoft.qmidiplayer",
         "org.codeblocks.codeblocks",
-        "org.cvfosammmm.Porto",
         "org.cvfosammmm.Setzer",
         "org.d3cod3.Mosaic",
         "org.darktable.Darktable",
@@ -2506,6 +2514,7 @@
         "com.vysp3r.ProtonPlus",
         "com.vysp3r.RetroPlus",
         "com.warlordsoftwares.formatlab",
+        "com.warlordsoftwares.jpeg2pdf",
         "com.warlordsoftwares.youtube-downloader-4ktube",
         "com.zhqli.wikit",
         "cz.zeropage.Formiko",
@@ -3745,6 +3754,12 @@
     ],
     "xdg-run/discord-ipc-0:ro": [
         "io.github.thaunknown.miru"
+    ],
+    "~/.local/share/Steam/steamapps/common/Dark Forces/Game": [
+        "io.github.theforceengine.tfe"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Dark Forces/Game": [
+        "io.github.theforceengine.tfe"
     ],
     "~/.var/app/com.valvesoftware.Steam/.local/share/Steam": [
         "io.github.tralph3.Steam_Metadata_Editor"
