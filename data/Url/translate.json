@@ -293,6 +293,7 @@
     "org.freeciv.gtk322",
     "org.freeciv.qt",
     "org.freeciv.sdl2",
+    "org.freedesktop.Bustle",
     "org.freedesktop.fwupd",
     "org.freeplane.App",
     "org.fritzing.Fritzing",

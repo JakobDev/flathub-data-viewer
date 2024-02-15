@@ -213,6 +213,7 @@
     "org.fcitx.Fcitx5",
     "org.fedoraproject.MediaWriter",
     "org.fontforge.FontForge",
+    "org.freedesktop.Bustle",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.dabrain34.GstPipelineStudio",
     "org.frescobaldi.Frescobaldi",

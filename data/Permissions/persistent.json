@@ -529,6 +529,9 @@
     ".floorp": [
         "one.ablaze.floorp"
     ],
+    ".TachideskVaadinUI": [
+        "online.hatsune_miku.tachidesk-vaadinui"
+    ],
     ".ApacheDirectoryStudio": [
         "org.apache.directory.studio"
     ],
