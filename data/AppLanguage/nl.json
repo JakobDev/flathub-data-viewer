@@ -120,6 +120,7 @@
     "io.neovim.nvim",
     "io.otsaloma.gaupol",
     "io.otsaloma.nfoview",
+    "it.mijorus.collector",
     "net.bartkessels.getit",
     "net.lutris.Lutris",
     "net.minetest.Minetest",

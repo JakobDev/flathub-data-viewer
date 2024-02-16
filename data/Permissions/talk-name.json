@@ -3214,8 +3214,7 @@
         "io.github.jeffshee.Hidamari"
     ],
     "org.freedesktop.portal.openuri": [
-        "io.github.nate_xyz.Resonance",
-        "it.mijorus.gearlever"
+        "io.github.nate_xyz.Resonance"
     ],
     "org.kde.plasmashell": [
         "io.github.quodlibet.ExFalso",
@@ -3261,9 +3260,6 @@
         "org.gnome.Calendar",
         "org.gnome.Contacts",
         "org.gnome.Music"
-    ],
-    "org.freedesktop.portal.openfile": [
-        "it.mijorus.gearlever"
     ],
     "it.mijorus.smile": [
         "it.mijorus.smile"

@@ -40,6 +40,7 @@
         "io.github.veusz.Veusz",
         "io.lmms.LMMS",
         "net.sourceforge.scidavis",
+        "org.cloudcompare.CloudCompare",
         "org.electrum.electrum",
         "org.frescobaldi.Frescobaldi",
         "org.linuxshowplayer.LinuxShowPlayer",
