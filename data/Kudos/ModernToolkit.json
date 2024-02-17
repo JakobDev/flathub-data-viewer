@@ -125,7 +125,6 @@
     "org.gnome.Builder",
     "org.gnome.Calculator",
     "org.gnome.Calendar",
-    "org.gnome.Calls",
     "org.gnome.Characters",
     "org.gnome.Chess",
     "org.gnome.Contacts",
@@ -223,7 +222,6 @@
     "org.pipewire.Helvum",
     "org.pitivi.Pitivi",
     "org.plomgrading.PlomClient",
-    "org.ryujinx.Ryujinx",
     "org.tabos.roger",
     "org.tabos.saldo",
     "org.tabos.twofun",
@@ -238,6 +236,5 @@
     "re.sonny.Retro",
     "re.sonny.Tangram",
     "re.sonny.Workbench",
-    "so.libdb.gtkcord4",
     "vn.hoabinh.quan.CoBang"
 ]

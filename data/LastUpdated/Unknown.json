@@ -2,7 +2,6 @@
     "com.bktus.gpgfrontend",
     "io.qt.qtwebkit.BaseApp",
     "org.flathub.flatpak-external-data-checker",
-    "org.yuzu_emu.yuzu",
     "com.fightcade.Fightcade.Wine",
     "com.github.unrud.djpdf.OCR.Afr",
     "com.github.unrud.djpdf.OCR.Amh",

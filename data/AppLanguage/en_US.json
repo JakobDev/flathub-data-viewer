@@ -1,5 +1,9 @@
 [
+    "com.ultimaker.cura",
+    "info.febvre.Komikku",
+    "io.gitlab.news_flash.NewsFlash",
     "net.bartkessels.getit",
+    "org.gnome.Calls",
     "org.gtkhash.gtkhash",
     "org.laptop.TurtleArtActivity",
     "org.sugarlabs.AbacusActivity",
@@ -23,5 +27,6 @@
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
-    "org.widelands.Widelands"
+    "org.widelands.Widelands",
+    "so.libdb.gtkcord4"
 ]

@@ -63,7 +63,6 @@
         "io.github.voxelcubes.deepqt",
         "io.github.wereturtle.ghostwriter",
         "io.github.wh201906.serialtest",
-        "io.gitlab.coolreader_ng.crqt-ng",
         "io.jamulus.Jamulus",
         "io.liri.Text",
         "io.photoflare.photoflare",
@@ -210,6 +209,7 @@
         "org.rncbc.qtractor",
         "org.strawberrymusicplayer.strawberry",
         "org.texstudio.TeXstudio",
+        "org.tug.texworks",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
         "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdDBusDebugger",
@@ -366,6 +366,7 @@
         "io.github.tntwise.REAL-Video-Enhancer",
         "io.github.trevorsandy.LPub3D",
         "io.github.zaps166.QMPlay2",
+        "io.gitlab.coolreader_ng.crqt-ng",
         "io.lmms.LMMS",
         "io.mgba.mGBA",
         "moe.clover.mm3d",
@@ -643,8 +644,7 @@
         "org.beeref.BeeRef",
         "org.bino3d.bino",
         "org.featherwallet.Feather",
-        "org.opentransactions.metier",
-        "org.tug.texworks"
+        "org.opentransactions.metier"
     ],
     "6.3": [
         "dev.levz.TinyImageFinder",

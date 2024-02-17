@@ -1,6 +1,5 @@
 [
     "de.nicokimmel.shadowcast-electron",
     "io.github.parnassius.SysDVR-Qt",
-    "org.ryujinx.Ryujinx",
-    "org.yuzu_emu.yuzu"
+    "org.ryujinx.Ryujinx"
 ]

@@ -13,6 +13,5 @@
     "io.mgba.mGBA",
     "net.kuribo64.melonDS",
     "org.citra_emu.citra",
-    "org.ryujinx.Ryujinx",
-    "org.yuzu_emu.yuzu"
+    "org.ryujinx.Ryujinx"
 ]

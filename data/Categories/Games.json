@@ -1,7 +1,6 @@
 [
     "com.claudiocambra.brickbuster",
     "io.sourceforge.clonekeenplus",
-    "org.citra_emu.citra",
     "org.freedesktop.dabrain34.squared",
     "org.love2d.love2d",
     "org.pjbroad.EternallandsClient",

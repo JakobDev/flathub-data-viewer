@@ -6,5 +6,6 @@
     "in.cinny.Cinny",
     "io.github.NhekoReborn.Nheko",
     "net.jami.Jami",
-    "org.gnome.Fractal"
+    "org.gnome.Fractal",
+    "so.libdb.gtkcord4"
 ]

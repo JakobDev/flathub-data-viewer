@@ -1,4 +1,5 @@
 [
+    "ca.parallel_launcher.ParallelLauncher",
     "com.github.PintaProject.Pinta",
     "com.github.artemanufrij.playmymusic",
     "com.github.artemanufrij.regextester",
