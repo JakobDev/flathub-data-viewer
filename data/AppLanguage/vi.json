@@ -1,7 +1,6 @@
 [
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
-    "app.rednotebook.RedNotebook",
     "com.adrienplazas.Metronome",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
@@ -114,7 +113,6 @@
     "org.sugarlabs.ReadETexts",
     "org.sugarlabs.Speak",
     "org.sugarlabs.Words",
-    "org.tuxpaint.Tuxpaint",
     "org.xfce.ristretto",
     "vn.hoabinh.quan.CoBang"
 ]

@@ -1,5 +1,4 @@
 [
-    "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.github.PintaProject.Pinta",
@@ -111,7 +110,6 @@
     "org.speedcrunch.SpeedCrunch",
     "org.sugarlabs.Paint",
     "org.sugarlabs.ReadETexts",
-    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.xfce.mousepad",
     "org.xfce.ristretto",

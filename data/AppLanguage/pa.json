@@ -67,6 +67,5 @@
     "org.gnome.seahorse.Application",
     "org.pulseaudio.pavucontrol",
     "org.sugarlabs.Memorize",
-    "org.sugarlabs.Speak",
-    "org.tuxpaint.Tuxpaint"
+    "org.sugarlabs.Speak"
 ]

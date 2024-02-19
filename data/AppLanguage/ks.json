@@ -1,6 +1,5 @@
 [
     "org.gnome.Evince",
     "org.gnome.eog",
-    "org.gnucash.GnuCash",
-    "org.tuxpaint.Tuxpaint"
+    "org.gnucash.GnuCash"
 ]

@@ -3,7 +3,6 @@
     "app.drey.Dialect",
     "app.drey.Elastic",
     "app.drey.Warp",
-    "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.adrienplazas.Metronome",
     "com.belmoussaoui.Authenticator",
@@ -85,6 +84,5 @@
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gnome.seahorse.Application",
-    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands"
 ]

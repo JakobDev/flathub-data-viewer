@@ -47,6 +47,5 @@
     "org.pulseaudio.pavucontrol",
     "org.sugarlabs.Memorize",
     "org.sugarlabs.Speak",
-    "org.sugarlabs.Words",
-    "org.tuxpaint.Tuxpaint"
+    "org.sugarlabs.Words"
 ]

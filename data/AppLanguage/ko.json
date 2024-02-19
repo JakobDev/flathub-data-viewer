@@ -1,7 +1,6 @@
 [
     "app.drey.Dialect",
     "app.drey.Warp",
-    "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
@@ -150,7 +149,6 @@
     "org.sugarlabs.Physics",
     "org.sugarlabs.Speak",
     "org.sugarlabs.Words",
-    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",

@@ -1,5 +1,4 @@
 [
-    "app.rednotebook.RedNotebook",
     "io.github.TransmissionRemoteGtk",
     "io.github.seadve.Kooha",
     "io.github.seadve.Mousai",
@@ -29,6 +28,5 @@
     "org.sugarlabs.Pippy",
     "org.sugarlabs.ReadETexts",
     "org.sugarlabs.Words",
-    "org.tuxpaint.Tuxpaint",
     "org.zim_wiki.Zim"
 ]

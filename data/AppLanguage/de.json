@@ -5,7 +5,6 @@
     "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
-    "app.rednotebook.RedNotebook",
     "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
     "com.adrienplazas.Metronome",
@@ -68,7 +67,6 @@
     "fr.handbrake.ghb",
     "fr.romainvigier.MetadataCleaner",
     "garden.turtle.Jellybean",
-    "hu.kramo.Cartridges",
     "im.dino.Dino",
     "im.pidgin.Pidgin",
     "info.olasagasti.revelation",
@@ -135,7 +133,6 @@
     "org.bluesabre.MenuLibre",
     "org.bunkus.mkvtoolnix-gui",
     "org.cvfosammmm.Setzer",
-    "org.darktable.Darktable",
     "org.emilien.Password",
     "org.entangle_photo.Manager",
     "org.exaile.Exaile",
@@ -292,7 +289,6 @@
     "org.tabos.roger",
     "org.tabos.saldo",
     "org.tabos.twofun",
-    "org.tuxpaint.Tuxpaint",
     "org.upnproutercontrol.UPnPRouterControl",
     "org.viking.Viking",
     "org.widelands.Widelands",
@@ -306,6 +302,5 @@
     "se.sjoerd.Graphs",
     "sm.puri.Chatty",
     "xyz.eclipium.Hieroctive",
-    "xyz.eclipium.TetraSwap",
-    "xyz.tytanium.DoorKnocker"
+    "xyz.eclipium.TetraSwap"
 ]

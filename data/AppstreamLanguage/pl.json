@@ -34,6 +34,7 @@
     "com.rawtherapee.RawTherapee",
     "com.transmissionbt.Transmission",
     "com.uploadedlobster.peek",
+    "com.usebottles.bottles",
     "com.xnview.XnConvert",
     "com.xnview.XnViewMP",
     "de.akaflieg_freiburg.cavok.add_hours_and_minutes",
@@ -388,5 +389,6 @@
     "re.sonny.Commit",
     "re.sonny.Junction",
     "re.sonny.Tangram",
-    "xyz.ketok.Speedtest"
+    "xyz.ketok.Speedtest",
+    "xyz.tytanium.DoorKnocker"
 ]

@@ -1,7 +1,6 @@
 [
     "app.drey.Dialect",
     "app.drey.Warp",
-    "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.adrienplazas.Metronome",
     "com.belmoussaoui.Authenticator",
@@ -142,7 +141,6 @@
     "org.sugarlabs.Chart",
     "org.sugarlabs.Measure",
     "org.sugarlabs.Paint",
-    "org.tuxpaint.Tuxpaint",
     "org.upnproutercontrol.UPnPRouterControl",
     "org.widelands.Widelands",
     "org.xfce.mousepad",

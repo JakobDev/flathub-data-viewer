@@ -27,6 +27,5 @@
     "org.gnome.eog",
     "org.gnome.gedit",
     "org.sugarlabs.AbacusActivity",
-    "org.sugarlabs.Maze",
-    "org.tuxpaint.Tuxpaint"
+    "org.sugarlabs.Maze"
 ]

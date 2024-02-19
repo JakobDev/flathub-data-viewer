@@ -1638,7 +1638,6 @@
         "x-scheme-handler{SLASH}bloom",
         "x-scheme-handler{SLASH}bloom-collection",
         "x-scheme-handler{SLASH}bloom-join-team",
-        "x-scheme-handler{SLASH}bottles",
         "x-scheme-handler{SLASH}bruno",
         "x-scheme-handler{SLASH}btchd",
         "x-scheme-handler{SLASH}calendar",

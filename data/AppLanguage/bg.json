@@ -1,5 +1,4 @@
 [
-    "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.github.PintaProject.Pinta",
     "com.github.debauchee.barrier",
@@ -102,7 +101,6 @@
     "org.sugarlabs.Memorize",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Speak",
-    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.xfce.mousepad",
     "org.xfce.ristretto"

@@ -1,7 +1,6 @@
 [
     "app.drey.Dialect",
     "app.drey.MultiplicationPuzzle",
-    "app.rednotebook.RedNotebook",
     "com.endlessm.photos",
     "com.felipekinoshita.Wildcard",
     "com.github.PintaProject.Pinta",
@@ -19,7 +18,6 @@
     "dev.geopjr.Collision",
     "dev.geopjr.Tuba",
     "fr.romainvigier.MetadataCleaner",
-    "hu.kramo.Cartridges",
     "im.dino.Dino",
     "im.pidgin.Pidgin",
     "io.github.cboxdoerfer.FSearch",
@@ -118,7 +116,6 @@
     "org.sugarlabs.ReadETexts",
     "org.sugarlabs.Speak",
     "org.sugarlabs.Words",
-    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",

@@ -7,7 +7,6 @@
     "net.poedit.Poedit",
     "net.sourceforge.liferea",
     "net.supertuxkart.SuperTuxKart",
-    "org.darktable.Darktable",
     "org.gnome.Aisleriot",
     "org.gnome.Calculator",
     "org.gnome.Cheese",
@@ -62,7 +61,6 @@
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
-    "org.tuxpaint.Tuxpaint",
     "org.xfce.mousepad",
     "org.xfce.ristretto"
 ]

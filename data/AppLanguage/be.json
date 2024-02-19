@@ -13,7 +13,6 @@
     "de.haeckerfelix.Shortwave",
     "dev.bragefuglseth.Fretboard",
     "dev.geopjr.Collision",
-    "hu.kramo.Cartridges",
     "io.bassi.Amberol",
     "io.github.Hexchat",
     "io.github.bytezz.IPLookup",
@@ -96,7 +95,6 @@
     "org.inkscape.Inkscape",
     "org.midori_browser.Midori",
     "org.pulseaudio.pavucontrol",
-    "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator",
     "org.xfce.mousepad",
     "org.xfce.ristretto"

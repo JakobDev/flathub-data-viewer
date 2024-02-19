@@ -20,7 +20,6 @@
     "de.schmidhuberj.Flare",
     "dev.geopjr.Collision",
     "dev.geopjr.Tuba",
-    "hu.kramo.Cartridges",
     "im.dino.Dino",
     "im.pidgin.Pidgin",
     "io.bassi.Amberol",
@@ -121,7 +120,6 @@
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
-    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "re.sonny.Junction"
 ]

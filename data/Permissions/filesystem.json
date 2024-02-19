@@ -201,7 +201,6 @@
         "io.github.Cockatrice.cockatrice",
         "io.github.JaGoLi.ytdl_gui",
         "io.github.MakovWait.Godots",
-        "io.github.NickKarpowicz.LightwaveExplorer",
         "io.github.RodZill4.Material-Maker",
         "io.github.adrienverge.PhotoCollage",
         "io.github.am2r_community_developers.Atomic",
@@ -1473,7 +1472,6 @@
         "cc.nift.nsm",
         "cc.retroshare.retroshare-gui",
         "chat.schildi.desktop",
-        "com.arviceblot.eso-addon-manager",
         "com.bitwig.BitwigStudio",
         "com.blitterstudio.amiberry",
         "com.borgbase.Vorta",
@@ -1914,6 +1912,7 @@
     "/run/media": [
         "app.rednotebook.RedNotebook",
         "br.gov.cti.invesalius",
+        "com.arviceblot.eso-addon-manager",
         "com.axosoft.GitKraken",
         "com.bambulab.BambuStudio",
         "com.darhon.drfinance",
@@ -2649,6 +2648,52 @@
         "ru.sview.sView",
         "space.nouspiro.tenmon"
     ],
+    "~/.var/app/com.valvesoftware.Steam": [
+        "com.arviceblot.eso-addon-manager",
+        "com.eduke32.EDuke32",
+        "com.github.Matoking.protontricks",
+        "com.github._0negal.Viper",
+        "com.github.mtkennerly.ludusavi",
+        "com.github.theCalcaholic.StreamDeck",
+        "com.heroicgameslauncher.hgl",
+        "com.steamgriddb.SGDBoop",
+        "gg.minion.Minion",
+        "io.github.philipk.boilr",
+        "net.retrodeck.retrodeck",
+        "xyz.hyperplay.HyperPlay"
+    ],
+    "xdg-documents/Elder Scrolls Online": [
+        "com.arviceblot.eso-addon-manager",
+        "gg.minion.Minion"
+    ],
+    "~/Games": [
+        "com.arviceblot.eso-addon-manager",
+        "gg.minion.Minion",
+        "io.github.fastrizwaan.WineZGUI"
+    ],
+    "~/.steam": [
+        "com.arviceblot.eso-addon-manager",
+        "com.eduke32.EDuke32",
+        "com.github.Matoking.protontricks",
+        "com.github.theCalcaholic.StreamDeck",
+        "com.heroicgameslauncher.hgl",
+        "com.steamdeckrepo.manager",
+        "dev.vencord.Vesktop",
+        "gg.minion.Minion",
+        "io.github.philipk.boilr",
+        "net.davidotek.pupgui2",
+        "net.studio08.xbplay"
+    ],
+    "~/.local/share/Steam": [
+        "com.arviceblot.eso-addon-manager",
+        "com.eduke32.EDuke32",
+        "com.github.Matoking.protontricks",
+        "com.vysp3r.ProtonPlus",
+        "gg.minion.Minion",
+        "net.davidotek.pupgui2",
+        "net.studio08.xbplay",
+        "xyz.hyperplay.HyperPlay"
+    ],
     "xdg-download:ro": [
         "com.atlauncher.ATLauncher",
         "com.github.GradienceTeam.Gradience",
@@ -2882,30 +2927,8 @@
         "org.texstudio.TeXstudio",
         "org.vim.Vim"
     ],
-    "~/.var/app/com.valvesoftware.Steam": [
-        "com.eduke32.EDuke32",
-        "com.github.Matoking.protontricks",
-        "com.github._0negal.Viper",
-        "com.github.mtkennerly.ludusavi",
-        "com.github.theCalcaholic.StreamDeck",
-        "com.heroicgameslauncher.hgl",
-        "com.steamgriddb.SGDBoop",
-        "gg.minion.Minion",
-        "io.github.philipk.boilr",
-        "net.retrodeck.retrodeck",
-        "xyz.hyperplay.HyperPlay"
-    ],
     "~/GOG Games": [
         "com.eduke32.EDuke32"
-    ],
-    "~/.local/share/Steam": [
-        "com.eduke32.EDuke32",
-        "com.github.Matoking.protontricks",
-        "com.vysp3r.ProtonPlus",
-        "gg.minion.Minion",
-        "net.davidotek.pupgui2",
-        "net.studio08.xbplay",
-        "xyz.hyperplay.HyperPlay"
     ],
     "xdg-documents/VoidSW:create": [
         "com.eduke32.EDuke32"
@@ -2915,18 +2938,6 @@
     ],
     "xdg-documents/EDuke32:create": [
         "com.eduke32.EDuke32"
-    ],
-    "~/.steam": [
-        "com.eduke32.EDuke32",
-        "com.github.Matoking.protontricks",
-        "com.github.theCalcaholic.StreamDeck",
-        "com.heroicgameslauncher.hgl",
-        "com.steamdeckrepo.manager",
-        "dev.vencord.Vesktop",
-        "gg.minion.Minion",
-        "io.github.philipk.boilr",
-        "net.davidotek.pupgui2",
-        "net.studio08.xbplay"
     ],
     "xdg-run/gnupg:ro": [
         "com.gitfiend.GitFiend",
@@ -3413,6 +3424,7 @@
     ],
     "/run/spnav.sock:ro": [
         "de.bforartists.Bforartists",
+        "hu.irl.cameractrls",
         "org.blender.Blender",
         "org.dune3d.dune3d",
         "org.freecadweb.FreeCAD",
@@ -3473,13 +3485,6 @@
     ],
     "~/RPMLauncher:create": [
         "ga.rpmtw.rpmlauncher"
-    ],
-    "xdg-documents/Elder Scrolls Online": [
-        "gg.minion.Minion"
-    ],
-    "~/Games": [
-        "gg.minion.Minion",
-        "io.github.fastrizwaan.WineZGUI"
     ],
     "~/.var/app/org.libretro.RetroArch/config/retroarch:ro": [
         "hu.kramo.Cartridges"
@@ -3832,6 +3837,18 @@
     ],
     "~/Projects": [
         "io.stoplight.studio"
+    ],
+    "~/.local/share/Steam/userdata": [
+        "io.thenexusavenger.Nexus-LU-Launcher"
+    ],
+    "~/.local/share/Steam/logs:ro": [
+        "io.thenexusavenger.Nexus-LU-Launcher"
+    ],
+    "~/.steam/debian-installation/logs:ro": [
+        "io.thenexusavenger.Nexus-LU-Launcher"
+    ],
+    "~/.steam/debian-installation/userdata": [
+        "io.thenexusavenger.Nexus-LU-Launcher"
     ],
     "xdg-config/espanso": [
         "io.unobserved.espansoGUI"

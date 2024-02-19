@@ -37,6 +37,5 @@
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
     "org.inkscape.Inkscape",
-    "org.pulseaudio.pavucontrol",
-    "org.tuxpaint.Tuxpaint"
+    "org.pulseaudio.pavucontrol"
 ]

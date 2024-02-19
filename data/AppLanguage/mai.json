@@ -23,6 +23,5 @@
     "org.gnome.five-or-more",
     "org.gnome.gedit",
     "org.gnucash.GnuCash",
-    "org.inkscape.Inkscape",
-    "org.tuxpaint.Tuxpaint"
+    "org.inkscape.Inkscape"
 ]

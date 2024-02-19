@@ -65,6 +65,5 @@
     "org.kde.skrooge",
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
-    "org.remmina.Remmina",
-    "org.tuxpaint.Tuxpaint"
+    "org.remmina.Remmina"
 ]

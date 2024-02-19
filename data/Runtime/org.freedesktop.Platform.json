@@ -268,6 +268,7 @@
         "io.github.mihnea_radulescu.imagefanreloaded",
         "io.github.mki1967.mki3dgame",
         "io.github.mmarco94.tambourine",
+        "io.github.nroduit.Weasis",
         "io.github.paulwedeck.settlers-remake",
         "io.github.pd_l2ork.Pd_L2Ork",
         "io.github.petitlapin.Li-ri",
@@ -507,6 +508,7 @@
         "vet.rsc.OpenRSC.Launcher",
         "xyz.audiostellar.AudioStellar",
         "xyz.hyperplay.HyperPlay",
+        "xyz.rescribe.rescribe",
         "xyz.safeworlds.midiconn",
         "xyz.woxel.Woxel",
         "xyz.xclicker.xclicker"
@@ -726,7 +728,6 @@
         "io.github.naikari.Naikari",
         "io.github.nearinfinitybrowser.nearinfinity",
         "io.github.noxworld_dev.OpenNox",
-        "io.github.nroduit.Weasis",
         "io.github.onionware_github.onionmedia",
         "io.github.openhv.OpenHV",
         "io.github.philipk.boilr",
@@ -908,7 +909,6 @@
         "ws.openarena.OpenArena",
         "xyz.armcord.ArmCord",
         "xyz.kusma.aurora",
-        "xyz.rescribe.rescribe",
         "xyz.splashmapper.Splash",
         "xyz.stuerz.BilligSweeper"
     ],

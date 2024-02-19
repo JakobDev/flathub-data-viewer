@@ -1,13 +1,11 @@
 [
     "app.drey.Dialect",
-    "app.rednotebook.RedNotebook",
     "com.github.hugolabe.Wike",
     "com.mattjakeman.ExtensionManager",
     "com.rafaelmardojai.Blanket",
     "com.tux4kids.tuxtype",
     "dev.geopjr.Collision",
     "fr.romainvigier.MetadataCleaner",
-    "hu.kramo.Cartridges",
     "im.pidgin.Pidgin",
     "io.github.seadve.Kooha",
     "io.github.seadve.Mousai",
@@ -76,6 +74,5 @@
     "org.sugarlabs.Pippy",
     "org.sugarlabs.ReadETexts",
     "org.sugarlabs.Speak",
-    "org.sugarlabs.Words",
-    "org.tuxpaint.Tuxpaint"
+    "org.sugarlabs.Words"
 ]

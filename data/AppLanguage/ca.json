@@ -1,7 +1,6 @@
 [
     "app.drey.Dialect",
     "app.drey.Warp",
-    "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.adrienplazas.Metronome",
     "com.belmoussaoui.Authenticator",
@@ -31,7 +30,6 @@
     "dev.geopjr.Collision",
     "fr.handbrake.ghb",
     "fr.romainvigier.MetadataCleaner",
-    "hu.kramo.Cartridges",
     "im.dino.Dino",
     "im.pidgin.Pidgin",
     "info.olasagasti.revelation",
@@ -190,7 +188,6 @@
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
-    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",

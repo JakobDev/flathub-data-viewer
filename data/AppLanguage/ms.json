@@ -1,6 +1,5 @@
 [
     "app.drey.MultiplicationPuzzle",
-    "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.github.PintaProject.Pinta",
@@ -77,7 +76,6 @@
     "org.sugarlabs.ImplodeActivity",
     "org.sugarlabs.Maze",
     "org.sugarlabs.Words",
-    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.xfce.mousepad",
     "org.xfce.ristretto"

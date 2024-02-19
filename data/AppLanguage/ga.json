@@ -1,5 +1,4 @@
 [
-    "app.rednotebook.RedNotebook",
     "com.github.PintaProject.Pinta",
     "com.rafaelmardojai.Blanket",
     "im.pidgin.Pidgin",
@@ -33,6 +32,5 @@
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
     "org.megaglest.MegaGlest",
-    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands"
 ]

@@ -1,6 +1,5 @@
 [
     "app.drey.Dialect",
-    "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.adrienplazas.Metronome",
     "com.belmoussaoui.Authenticator",
@@ -144,7 +143,6 @@
     "org.sugarlabs.Speak",
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.Words",
-    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",

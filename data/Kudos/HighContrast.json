@@ -8,7 +8,6 @@
     "app.drey.KeyRack",
     "app.drey.Warp",
     "app.kaiteki.Kaiteki",
-    "app.rednotebook.RedNotebook",
     "ar.xjuan.Cambalache",
     "ca.hamaluik.Timecop",
     "cafe.avery.Delfin",
@@ -84,7 +83,6 @@
     "com.spotify.Client",
     "com.transmissionbt.Transmission",
     "com.ugetdm.uGet",
-    "com.usebottles.bottles",
     "com.vixalien.sticky",
     "com.vzhd1701.gridplayer",
     "cool.ldr.lfy",
@@ -115,12 +113,10 @@
     "fyi.zoey.Boop-GTK",
     "fyi.zoey.TeX-Match",
     "garden.turtle.Jellybean",
-    "hu.kramo.Cartridges",
     "im.bernard.Funkcio",
     "im.bernard.Nostalgia",
     "im.dino.Dino",
     "io.bassi.Amberol",
-    "io.frama.tractor.carburetor",
     "io.github.Bavarder.Bavarder",
     "io.github.Foldex.AdwSteamGtk",
     "io.github.Pithos",
@@ -324,6 +320,5 @@
     "sm.puri.Chatty",
     "xyz.aguno.CubeTimer",
     "xyz.ketok.Speedtest",
-    "xyz.safeworlds.hiit",
-    "xyz.tytanium.DoorKnocker"
+    "xyz.safeworlds.hiit"
 ]

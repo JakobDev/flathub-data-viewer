@@ -4,7 +4,6 @@
     "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
-    "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.adrienplazas.Metronome",
     "com.belmoussaoui.Authenticator",
@@ -65,7 +64,6 @@
     "dev.geopjr.Tuba",
     "fr.handbrake.ghb",
     "fr.romainvigier.MetadataCleaner",
-    "hu.kramo.Cartridges",
     "im.dino.Dino",
     "im.pidgin.Pidgin",
     "io.bassi.Amberol",
@@ -247,7 +245,6 @@
     "org.speedcrunch.SpeedCrunch",
     "org.sugarlabs.MusicKeyboard",
     "org.sugarlabs.Paint",
-    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",
@@ -257,6 +254,5 @@
     "re.sonny.Junction",
     "se.sjoerd.Graphs",
     "sm.puri.Chatty",
-    "vn.hoabinh.quan.CoBang",
-    "xyz.tytanium.DoorKnocker"
+    "vn.hoabinh.quan.CoBang"
 ]

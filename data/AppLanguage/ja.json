@@ -1,7 +1,6 @@
 [
     "app.drey.Dialect",
     "app.drey.MultiplicationPuzzle",
-    "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Obfuscate",
@@ -59,7 +58,6 @@
     "org.arrl.trustedqsl",
     "org.bluesabre.MenuLibre",
     "org.bunkus.mkvtoolnix-gui",
-    "org.darktable.Darktable",
     "org.entangle_photo.Manager",
     "org.exaile.Exaile",
     "org.fontforge.FontForge",
@@ -158,7 +156,6 @@
     "org.sugarlabs.Physics",
     "org.sugarlabs.ReadETexts",
     "org.sugarlabs.Words",
-    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.xfce.mousepad",

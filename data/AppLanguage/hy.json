@@ -1,5 +1,4 @@
 [
-    "app.rednotebook.RedNotebook",
     "io.github.fkinoshita.Telegraph",
     "net.poedit.Poedit",
     "org.gnome.Devhelp",
@@ -31,6 +30,5 @@
     "org.sugarlabs.Speak",
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.TurtlePondActivity",
-    "org.sugarlabs.Words",
-    "org.tuxpaint.Tuxpaint"
+    "org.sugarlabs.Words"
 ]
