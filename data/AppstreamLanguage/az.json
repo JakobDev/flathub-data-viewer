@@ -30,6 +30,7 @@
     "org.kde.kcolorchooser",
     "org.kde.kdenlive",
     "org.kde.kfind",
+    "org.kde.konsole",
     "org.kde.kontact",
     "org.kde.kuiviewer",
     "org.kde.kwalletmanager5",

@@ -1,5 +1,7 @@
 [
     "app.rednotebook.RedNotebook",
+    "com.github.quaternion",
+    "com.github.xournalpp.xournalpp",
     "com.rawtherapee.RawTherapee",
     "com.ultimaker.cura",
     "com.usebottles.bottles",
@@ -37,6 +39,7 @@
     "org.sugarlabs.Words",
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
+    "org.zrythm.Zrythm",
     "so.libdb.gtkcord4",
     "xyz.tytanium.DoorKnocker"
 ]

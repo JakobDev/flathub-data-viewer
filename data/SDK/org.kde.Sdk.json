@@ -133,7 +133,6 @@
         "org.subsurface_divelog.Subsurface",
         "org.telesculptor.TeleSculptor",
         "org.thentrythis.Samplebrain",
-        "org.zealdocs.Zeal",
         "re.rizin.cutter",
         "se.sjoerd.GIScan"
     ],
@@ -574,6 +573,7 @@
         "org.videolan.VLC",
         "org.wfview.wfview",
         "org.yuzu_emu.yuzu",
+        "org.zealdocs.Zeal",
         "re.chiaki.Chiaki",
         "studio.kx.carla",
         "ua.org.brezblock.q4wine",

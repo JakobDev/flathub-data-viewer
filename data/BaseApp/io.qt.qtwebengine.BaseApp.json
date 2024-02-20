@@ -36,7 +36,8 @@
         "org.kde.tellico",
         "org.musescore.MuseScore",
         "org.sdrangel.SDRangel",
-        "org.yuzu_emu.yuzu"
+        "org.yuzu_emu.yuzu",
+        "org.zealdocs.Zeal"
     ],
     "5.15-22.08": [
         "com.github.iwalton3.jellyfin-media-player",
@@ -48,8 +49,7 @@
         "net.mediaarea.MediaConch",
         "org.kde.skrooge",
         "org.paraview.ParaView",
-        "org.rolisteam.rolisteam",
-        "org.zealdocs.Zeal"
+        "org.rolisteam.rolisteam"
     ],
     "6.5": [
         "com.riverbankcomputing.PyQt.BaseApp",

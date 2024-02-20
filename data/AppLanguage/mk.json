@@ -39,6 +39,5 @@
     "org.gnome.gThumb",
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
-    "org.sugarlabs.Paint",
-    "org.zrythm.Zrythm"
+    "org.sugarlabs.Paint"
 ]

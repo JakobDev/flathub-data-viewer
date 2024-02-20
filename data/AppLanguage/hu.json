@@ -18,7 +18,6 @@
     "com.github.rafostar.Clapper",
     "com.github.unrud.VideoDownloader",
     "com.github.unrud.djpdf",
-    "com.github.xournalpp.xournalpp",
     "com.mattjakeman.ExtensionManager",
     "com.rafaelmardojai.Blanket",
     "com.transmissionbt.Transmission",
@@ -184,6 +183,5 @@
     "org.xfce.mousepad",
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
-    "org.zrythm.Zrythm",
     "sm.puri.Chatty"
 ]

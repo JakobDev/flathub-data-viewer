@@ -98,5 +98,6 @@
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
     "org.virt_manager.virt-viewer",
-    "org.x.Warpinator"
+    "org.x.Warpinator",
+    "org.zrythm.Zrythm"
 ]

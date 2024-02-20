@@ -13,7 +13,6 @@
     "com.github.hugolabe.Wike",
     "com.github.johnfactotum.Foliate",
     "com.github.junrrein.PDFSlicer",
-    "com.github.xournalpp.xournalpp",
     "com.mattjakeman.ExtensionManager",
     "com.remnantsoftheprecursors.ROTP",
     "com.transmissionbt.Transmission",
@@ -182,6 +181,5 @@
     "org.x.Warpinator",
     "org.xfce.mousepad",
     "org.xfce.ristretto",
-    "org.zim_wiki.Zim",
-    "org.zrythm.Zrythm"
+    "org.zim_wiki.Zim"
 ]

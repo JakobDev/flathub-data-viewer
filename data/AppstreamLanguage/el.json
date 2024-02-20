@@ -192,6 +192,7 @@
     "org.kde.klettres",
     "org.kde.klickety",
     "org.kde.klines",
+    "org.kde.kmahjongg",
     "org.kde.kmines",
     "org.kde.kmplayer",
     "org.kde.kmplot",
@@ -241,6 +242,7 @@
     "org.kde.parley",
     "org.kde.picmi",
     "org.kde.rocs",
+    "org.kde.skanpage",
     "org.kde.skrooge",
     "org.kde.tellico",
     "org.kde.umbrello",
@@ -256,5 +258,6 @@
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator",
     "org.xfce.mousepad",
-    "org.xfce.ristretto"
+    "org.xfce.ristretto",
+    "org.zrythm.Zrythm"
 ]

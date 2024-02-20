@@ -7,7 +7,6 @@
     "com.github.debauchee.barrier",
     "com.github.johnfactotum.Foliate",
     "com.github.maoschanz.drawing",
-    "com.github.xournalpp.xournalpp",
     "com.mattjakeman.ExtensionManager",
     "com.transmissionbt.Transmission",
     "com.uploadedlobster.peek",
@@ -152,6 +151,5 @@
     "org.widelands.Widelands",
     "org.xfce.mousepad",
     "org.xfce.ristretto",
-    "org.zim_wiki.Zim",
-    "org.zrythm.Zrythm"
+    "org.zim_wiki.Zim"
 ]
