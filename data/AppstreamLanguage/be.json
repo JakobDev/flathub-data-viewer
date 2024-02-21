@@ -22,6 +22,7 @@
     "io.gitlab.news_flash.NewsFlash",
     "io.missioncenter.MissionCenter",
     "net.supertuxkart.SuperTuxKart",
+    "org.aegisub.Aegisub",
     "org.gimp.GIMP",
     "org.gnome.Aisleriot",
     "org.gnome.Boxes",

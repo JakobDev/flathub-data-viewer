@@ -127,6 +127,7 @@
     "com.obsproject.Studio.Plugin.InputOverlay",
     "com.obsproject.Studio.Plugin.MoveTransition",
     "com.obsproject.Studio.Plugin.OBSVkCapture",
+    "com.obsproject.Studio.Plugin.Ocr",
     "com.obsproject.Studio.Plugin.ScaleToSound",
     "com.obsproject.Studio.Plugin.SceneSwitcher",
     "com.obsproject.Studio.Plugin.TransitionTable",

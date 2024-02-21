@@ -504,10 +504,10 @@
     "org.mozilla.thunderbird_beta.*": [
         "org.mozilla.Thunderbird"
     ],
-    "org.mozilla.firefox.*": [
+    "org.mozilla.firefox_beta.*": [
         "org.mozilla.firefox"
     ],
-    "org.mozilla.firefox_beta.*": [
+    "org.mozilla.firefox.*": [
         "org.mozilla.firefox"
     ],
     "org.mpris.mediaplayer2.mpdevil": [

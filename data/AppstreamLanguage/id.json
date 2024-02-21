@@ -60,6 +60,7 @@
     "io.missioncenter.MissionCenter",
     "net.supertuxkart.SuperTuxKart",
     "nl.hjdskes.gcolor3",
+    "org.aegisub.Aegisub",
     "org.clementine_player.Clementine",
     "org.fedoraproject.MediaWriter",
     "org.freedesktop.appstream.cli",

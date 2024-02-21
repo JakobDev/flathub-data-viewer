@@ -179,6 +179,7 @@
     "com.obsproject.Studio.Plugin.NDI",
     "com.obsproject.Studio.Plugin.OBSLivesplitOne",
     "com.obsproject.Studio.Plugin.OBSVkCapture",
+    "com.obsproject.Studio.Plugin.Ocr",
     "com.obsproject.Studio.Plugin.RewardsTheater",
     "com.obsproject.Studio.Plugin.ScaleToSound",
     "com.obsproject.Studio.Plugin.SceneSwitcher",

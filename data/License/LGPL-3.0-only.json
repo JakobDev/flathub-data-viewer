@@ -1,7 +1,12 @@
 [
     "fun.vnote.app.VNote",
     "io.github.JakubMelka.Pdf4qt",
+    "io.github.Rangi42.polished-map-plusplus",
+    "io.github.Rangi42.polished-map",
+    "io.github.Rangi42.tilemap-studio",
     "io.github.peazip.PeaZip",
+    "io.qt.Designer",
+    "io.qt.Linguist",
     "org.shadowsocks.qt5client",
     "org.tribler.Tribler"
 ]

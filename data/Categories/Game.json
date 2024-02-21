@@ -1,5 +1,6 @@
 [
     "app.drey.Blurble",
+    "app.drey.Doggo",
     "app.drey.MultiplicationPuzzle",
     "app.xemu.xemu",
     "ar.com.pilas_engine.App",
@@ -572,7 +573,6 @@
     "page.codeberg.JakobDev.jdMrpackInstaller",
     "page.codeberg.JakobDev.jdNBTExplorer",
     "page.codeberg.Qwel.egui_picross",
-    "page.codeberg.SOrg.DogGTK",
     "page.codeberg.papojari.Find_Billy",
     "page.codeberg.yeldham.Librerama",
     "party.supertux.supertuxparty",

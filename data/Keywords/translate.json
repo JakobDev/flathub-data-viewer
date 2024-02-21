@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
     "io.github.fkinoshita.Telegraph",
-    "net.poedit.Poedit"
+    "net.poedit.Poedit",
+    "org.aegisub.Aegisub"
 ]

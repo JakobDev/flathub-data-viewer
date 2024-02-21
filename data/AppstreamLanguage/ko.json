@@ -41,6 +41,7 @@
     "io.missioncenter.MissionCenter",
     "io.posidon.Paper",
     "net.supertuxkart.SuperTuxKart",
+    "org.aegisub.Aegisub",
     "org.ardour.Ardour",
     "org.fcitx.Fcitx5",
     "org.fedoraproject.MediaWriter",
