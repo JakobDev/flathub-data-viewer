@@ -1,6 +1,7 @@
 [
     "com.freerdp.FreeRDP",
     "com.thincast.client",
+    "io.github.retgal.Dayon",
     "net.christianbeier.MultiVNC",
     "org.remmina.Remmina"
 ]

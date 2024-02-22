@@ -1,7 +1,6 @@
 [
     "app.vup.Vup",
     "com.biglybt.BiglyBT",
-    "com.dropbox.Client",
     "com.github.gabutakut.gabutdm",
     "com.github.zocker_160.SyncThingy",
     "com.hunterwittenborn.Celeste",
