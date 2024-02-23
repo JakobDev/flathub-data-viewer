@@ -1,11 +1,14 @@
 {
     "3.5": [
         "com.coeck_studios.Dinonuggys-Journey",
-        "com.orama_interactive.Pixelorama",
         "dev.stewlab.PortaWar",
         "io.github.RodZill4.Material-Maker",
         "io.github.pastthepixels.InfiniteShooter",
         "page.codeberg.yeldham.Librerama"
+    ],
+    "3.5-23.08": [
+        "com.orama_interactive.Pixelorama",
+        "org.simondalvai.ball2box"
     ],
     "3.4": [
         "page.codeberg.papojari.Find_Billy"

@@ -1,6 +1,5 @@
 [
     "app.drey.Dialect",
-    "app.drey.EarTag",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
@@ -94,7 +93,6 @@
     "org.gnome.Mines",
     "org.gnome.Music",
     "org.gnome.NautilusPreviewer",
-    "org.gnome.NetworkDisplays",
     "org.gnome.Nibbles",
     "org.gnome.OfficeRunner",
     "org.gnome.Photos",

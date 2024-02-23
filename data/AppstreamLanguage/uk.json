@@ -1,5 +1,6 @@
 [
     "app.drey.Blurble",
+    "app.drey.EarTag",
     "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
@@ -78,6 +79,7 @@
     "io.gitlab.news_flash.NewsFlash",
     "io.gitlab.theevilskeleton.Upscaler",
     "io.missioncenter.MissionCenter",
+    "it.mijorus.gearlever",
     "me.mitya57.ReText",
     "net.nokyan.Resources",
     "net.supertuxkart.SuperTuxKart",

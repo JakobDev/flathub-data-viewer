@@ -1,7 +1,6 @@
 [
     "app.drey.Biblioteca",
     "app.drey.Dialect",
-    "app.drey.EarTag",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "cc.retroshare.retroshare-gui",
@@ -68,7 +67,6 @@
     "io.github.Qalculate.qalculate-qt",
     "io.github.Qalculate",
     "io.github.achetagames.epic_asset_manager",
-    "io.github.alainm23.planify",
     "io.github.bkueng.qMasterPassword",
     "io.github.davidoc26.wallpaper_selector",
     "io.github.dfandrich.gpscorrelate",
