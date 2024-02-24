@@ -63,6 +63,7 @@
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
     "org.gottcode.FocusWriter",
+    "org.kde.akregator",
     "org.kde.ark",
     "org.kde.artikulate",
     "org.kde.blinken",

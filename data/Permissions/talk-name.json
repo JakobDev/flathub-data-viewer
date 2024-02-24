@@ -3412,9 +3412,6 @@
     "org.gnome.sessionmanager.presence": [
         "org.keepassxc.KeePassXC"
     ],
-    "org.freedesktop.portal.screenshot": [
-        "org.ksnip.ksnip"
-    ],
     "net.launchpad.dockmanager": [
         "org.quassel_irc.QuasselClient"
     ],

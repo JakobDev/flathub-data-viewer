@@ -1,4 +1,5 @@
 [
+    "org.kde.akregator",
     "org.kde.angelfish",
     "org.kde.arianna",
     "org.kde.ark",
@@ -7,6 +8,7 @@
     "org.kde.blinken",
     "org.kde.bomber",
     "org.kde.cantor",
+    "org.kde.elisa",
     "org.kde.falkon",
     "org.kde.gcompris",
     "org.kde.granatier",
@@ -92,5 +94,6 @@
     "org.kde.pix",
     "org.kde.rocs",
     "org.kde.skanpage",
+    "org.kde.skrooge",
     "org.kde.yakuake"
 ]

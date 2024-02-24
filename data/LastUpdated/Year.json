@@ -1,6 +1,7 @@
 [
     "app.cantara.Cantara",
     "app.drey.Blurble",
+    "app.drey.Damask",
     "br.gov.cti.invesalius",
     "br.gov.fazenda.receita.irpf2022",
     "ca.littlesvr.asunder",
@@ -122,7 +123,6 @@
     "io.blockloader.BlockLoader",
     "io.github.Bavarder.Bavarder",
     "io.github.MakovWait.Godots",
-    "io.github.NhekoReborn.Nheko",
     "io.github.OpenToonz",
     "io.github.Pithos",
     "io.github.Sebicodes99.Prt",

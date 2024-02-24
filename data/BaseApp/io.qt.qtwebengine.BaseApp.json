@@ -33,6 +33,7 @@
         "org.kde.labplot2",
         "org.kde.marble",
         "org.kde.parley",
+        "org.kde.skrooge",
         "org.kde.tellico",
         "org.musescore.MuseScore",
         "org.sdrangel.SDRangel",
@@ -47,7 +48,6 @@
         "io.github.wereturtle.ghostwriter",
         "io.sourceforge.chart_geany.chart-geany",
         "net.mediaarea.MediaConch",
-        "org.kde.skrooge",
         "org.paraview.ParaView",
         "org.rolisteam.rolisteam"
     ],
