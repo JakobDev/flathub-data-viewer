@@ -275,8 +275,7 @@
         "org.qutebrowser.qutebrowser",
         "org.solarus_games.solarus.Launcher",
         "org.tordini.flavio.Minitube",
-        "space.fips.Fips",
-        "xyz.mx_moment.moment"
+        "space.fips.Fips"
     ],
     "5.15": [
         "cc.retroshare.retroshare-gui",
@@ -581,6 +580,7 @@
         "studio.kx.carla",
         "ua.org.brezblock.q4wine",
         "website.i2pd.i2pd",
+        "xyz.mx_moment.moment",
         "xyz.z3ntu.razergenie"
     ],
     "6.5": [

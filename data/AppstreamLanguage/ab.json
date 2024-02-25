@@ -14,5 +14,6 @@
     "org.gnome.Weather",
     "org.gnome.baobab",
     "org.gnome.clocks",
+    "org.gnome.gitg",
     "org.gnome.seahorse.Application"
 ]

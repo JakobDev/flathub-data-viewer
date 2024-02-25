@@ -13,6 +13,7 @@
     "org.gnome.NetworkDisplays",
     "org.gnome.Photos",
     "org.gnome.Shotwell",
+    "org.gnome.SimpleScan",
     "org.gnome.SwellFoop",
     "org.gnome.World.Iotas",
     "org.gnome.baobab",
@@ -20,6 +21,7 @@
     "org.gnome.design.Palette",
     "org.gnome.five-or-more",
     "org.gnome.gThumb",
+    "org.gnome.gitg",
     "org.moneymanagerex.MMEX",
     "org.tuxpaint.Tuxpaint"
 ]

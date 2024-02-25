@@ -41,7 +41,6 @@
     "org.gnome.Reversi",
     "org.gnome.Rhythmbox3",
     "org.gnome.Robots",
-    "org.gnome.SimpleScan",
     "org.gnome.SoundJuicer",
     "org.gnome.SoundRecorder",
     "org.gnome.Sudoku",
@@ -57,12 +56,10 @@
     "org.gnome.five-or-more",
     "org.gnome.gbrainy",
     "org.gnome.gedit",
-    "org.gnome.gitg",
     "org.gnome.glabels-3",
     "org.gnome.meld",
     "org.gnome.seahorse.Application",
     "org.inkscape.Inkscape",
     "org.pitivi.Pitivi",
-    "org.pulseaudio.pavucontrol",
-    "org.remmina.Remmina"
+    "org.pulseaudio.pavucontrol"
 ]

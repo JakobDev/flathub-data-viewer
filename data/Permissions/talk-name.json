@@ -2939,7 +2939,8 @@
         "net.waterfox.waterfox",
         "one.ablaze.floorp",
         "org.mozilla.Thunderbird",
-        "org.mozilla.firefox"
+        "org.mozilla.firefox",
+        "org.nicotine_plus.Nicotine"
     ],
     "org.gtk.notifications": [
         "com.github.IsmaelMartinez.teams_for_linux",

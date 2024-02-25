@@ -22,7 +22,6 @@
     "org.gnome.NautilusPreviewer",
     "org.gnome.Photos",
     "org.gnome.Rhythmbox3",
-    "org.gnome.SimpleScan",
     "org.gnome.SoundJuicer",
     "org.gnome.TextEditor",
     "org.gnome.Totem",
@@ -32,7 +31,6 @@
     "org.gnome.eog",
     "org.gnome.font-viewer",
     "org.gtkhash.gtkhash",
-    "org.remmina.Remmina",
     "org.x.Warpinator",
     "org.xfce.mousepad",
     "org.xfce.ristretto"

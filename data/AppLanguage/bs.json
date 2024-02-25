@@ -64,7 +64,6 @@
     "org.gnome.gThumb",
     "org.gnome.gbrainy",
     "org.gnome.gedit",
-    "org.gnome.gitg",
     "org.gnome.glabels-3",
     "org.gnome.meld",
     "org.gnome.moserial",
@@ -72,6 +71,5 @@
     "org.gottcode.FocusWriter",
     "org.midori_browser.Midori",
     "org.pitivi.Pitivi",
-    "org.remmina.Remmina",
     "org.sugarlabs.Speak"
 ]

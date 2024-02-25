@@ -168,7 +168,6 @@
     "edu.stanford.Almond",
     "eu.ngdevelopment.tsukitag",
     "eu.ototu.Quteqoin",
-    "eu.planete_kraus.Tarot",
     "eu.skribisto.skribisto",
     "fr.henri2h.minestrix",
     "fr.rubet.rpn",
@@ -393,6 +392,5 @@
     "uk.org.zint.zint-qt",
     "xyz.eclipium.Hieroctive",
     "xyz.eclipium.TetraSwap",
-    "xyz.ljoonal.neospeeps",
-    "xyz.mx_moment.moment"
+    "xyz.ljoonal.neospeeps"
 ]

@@ -65,7 +65,6 @@
     "org.gnome.Reversi",
     "org.gnome.Rhythmbox3",
     "org.gnome.Robots",
-    "org.gnome.SimpleScan",
     "org.gnome.Snapshot",
     "org.gnome.SoundJuicer",
     "org.gnome.SoundRecorder",
@@ -85,7 +84,6 @@
     "org.gnome.gThumb",
     "org.gnome.gbrainy",
     "org.gnome.gedit",
-    "org.gnome.gitg",
     "org.gnome.glabels-3",
     "org.gnome.meld",
     "org.gnome.seahorse.Application",
@@ -95,7 +93,6 @@
     "org.gtkhash.gtkhash",
     "org.midori_browser.Midori",
     "org.pitivi.Pitivi",
-    "org.remmina.Remmina",
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.zim_wiki.Zim"

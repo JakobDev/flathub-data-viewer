@@ -1,6 +1,5 @@
 [
     "org.gnome.Gtranslator",
-    "org.gnome.SimpleScan",
     "org.gnome.atomix",
     "org.gnome.gThumb",
     "org.sugarlabs.AbacusActivity",
