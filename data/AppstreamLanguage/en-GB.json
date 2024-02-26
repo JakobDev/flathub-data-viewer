@@ -1,4 +1,6 @@
 [
+    "org.freedesktop.appstream.cli",
+    "org.gnuhealth.mygnuhealth",
     "org.kde.akregator",
     "org.kde.angelfish",
     "org.kde.arianna",

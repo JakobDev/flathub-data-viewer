@@ -10,10 +10,8 @@
         "io.qt.qdbusviewer",
         "page.codeberg.JakobDev.jdTextEdit"
     ],
-    "5.15": [
-        "io.github.dman95.SASM"
-    ],
     "5.15-23.08": [
+        "io.github.dman95.SASM",
         "io.github.veusz.Veusz",
         "org.kde.kcachegrind",
         "org.kde.kdevelop",

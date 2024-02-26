@@ -370,7 +370,6 @@
         "org.gnu.pspp",
         "org.gottcode.FocusWriter",
         "org.gpodder.gpodder",
-        "org.gramps_project.Gramps",
         "org.grisbi.Grisbi",
         "org.guitarix.Guitarix",
         "org.horizon_eda.HorizonEDA",
@@ -621,6 +620,7 @@
         "org.gnome.Shotwell",
         "org.gnome.Totem",
         "org.gnunet.Messenger",
+        "org.gramps_project.Gramps",
         "org.gustavoperedo.FontDownloader",
         "org.jdownloader.JDownloader",
         "org.kde.angelfish",
@@ -1520,6 +1520,7 @@
         "org.gnome.moserial",
         "org.gnuhealth.mygnuhealth",
         "org.gnumeric.Gnumeric",
+        "org.gramps_project.Gramps",
         "org.kde.cantor",
         "org.kde.rocs",
         "org.lyx.LyX",
@@ -2379,6 +2380,7 @@
         "org.gnome.Totem",
         "org.gnome.frogr",
         "org.gnome.gThumb",
+        "org.gramps_project.Gramps",
         "org.kde.digikam",
         "org.kde.kamoso",
         "org.kde.kphotoalbum",
@@ -3549,7 +3551,7 @@
     "~/.steam/steam/steamapps/compatdata/359320/pfx/drive_c/users/steamuser/Saved Games/Frontier Developments/Elite Dangerous": [
         "io.edcd.EDMarketConnector"
     ],
-    "xdg-data/libremines:create": [
+    "~/.local/share/libremines:ro": [
         "io.github.Bollos00.LibreMines"
     ],
     "~/.var/app/com.valvesoftware.Steam/.steam/steam": [
@@ -3777,10 +3779,10 @@
     "xdg-run/discord-ipc-0:ro": [
         "io.github.thaunknown.miru"
     ],
-    "~/.local/share/Steam/steamapps/common/Dark Forces/Game": [
+    "~/.local/share/Steam/steamapps/common/Dark Forces/Game:ro": [
         "io.github.theforceengine.tfe"
     ],
-    "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Dark Forces/Game": [
+    "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Dark Forces/Game:ro": [
         "io.github.theforceengine.tfe"
     ],
     "~/.var/app/com.valvesoftware.Steam/.local/share/Steam": [
