@@ -207,7 +207,7 @@ def parse_appstream(app_id: str, data: dict, component: appstream_python.Appstre
     for i in component.extends:
         add_simple_to_data(data, "addons", i.removesuffix(".desktop"), app_id)
 
-    add_simple_to_data(data, "type", component.type, app_id)
+    add_simple_to_data(data, "type", component.type or "none", app_id)
 
 
 def parse_manifest(app_id: str, data: dict, manifest_data: dict) -> None:
