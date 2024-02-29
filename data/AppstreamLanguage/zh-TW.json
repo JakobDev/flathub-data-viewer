@@ -42,6 +42,7 @@
     "org.kde.kclock",
     "org.kde.kcolorchooser",
     "org.kde.kdenlive",
+    "org.kde.kdiamond",
     "org.kde.keysmith",
     "org.kde.kfind",
     "org.kde.kfourinline",
@@ -116,6 +117,7 @@
     "org.kde.ruqola",
     "org.kde.skanpage",
     "org.kde.subtitlecomposer",
+    "org.kde.umbrello",
     "org.kde.vvave",
     "org.kde.yakuake",
     "org.stellarium.Stellarium"

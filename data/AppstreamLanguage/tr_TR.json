@@ -1,6 +1,7 @@
 [
     "io.github.vikdevelop.SaveDesktop",
     "org.KekikAkademi.BTKSorgu",
+    "org.fontforge.FontForge",
     "org.kekikakademi.eFatura",
     "org.kekikakademi.ntvHaber"
 ]

@@ -1,4 +1,6 @@
 [
+    "com.github.cassidyjames.clairvoyant",
+    "com.github.cassidyjames.dippi",
     "org.gnome.Four-in-a-row",
     "org.gnome.Geary",
     "org.gnome.SwellFoop",

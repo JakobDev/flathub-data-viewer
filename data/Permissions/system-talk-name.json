@@ -81,6 +81,7 @@
     ],
     "org.freedesktop.udisks2": [
         "ca.parallel_launcher.ParallelLauncher",
+        "cc.arduino.IDE2",
         "cn.ottercorp.xivlaunchercn",
         "com.bambulab.BambuStudio",
         "com.calibre_ebook.calibre",

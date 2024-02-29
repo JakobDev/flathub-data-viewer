@@ -28,6 +28,7 @@
     "org.gnome.seahorse.Application",
     "org.kde.ark",
     "org.kde.krita",
+    "org.kde.kxstitch",
     "org.kde.plasmatube",
     "org.pitivi.Pitivi",
     "org.tuxpaint.Tuxpaint"

@@ -1,5 +1,6 @@
 [
     "com.github.alainm23.byte",
     "com.github.artemanufrij.playmymusic",
-    "org.expresslrs.ExpressLRSConfigurator"
+    "org.expresslrs.ExpressLRSConfigurator",
+    "org.svxlink.Qtel"
 ]

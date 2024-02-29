@@ -10,6 +10,7 @@
     "org.arrl.trustedqsl",
     "org.nongnu.Xlog",
     "org.sdrangel.SDRangel",
+    "org.svxlink.Qtel",
     "org.wfview.wfview",
     "radio.k0swe.Kel_Agent"
 ]

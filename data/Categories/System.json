@@ -25,7 +25,6 @@
     "com.raggesilver.BlackBox",
     "com.system76.Popsicle",
     "cz.cvut.edu.comparch.qtrvsim",
-    "de.bund.ausweisapp.ausweisapp2",
     "de.flinkebits.AvaEmailArchivar",
     "de.ifw_dresden.nagstamon",
     "dev.boxi.Boxi",
@@ -79,7 +78,6 @@
     "org.worldpossible.ScriptLauncher",
     "org.zaproxy.ZAP",
     "page.codeberg.JakobDev.jdProcessFileWatcher",
-    "page.codeberg.JakobDev.jdSimpleAutostart",
     "re.sonny.Junction",
     "ua.org.brezblock.q4wine"
 ]

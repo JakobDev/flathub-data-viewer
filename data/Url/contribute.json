@@ -72,6 +72,7 @@
     "net.minetest.Minetest",
     "net.rpcs3.RPCS3",
     "net.supertuxkart.SuperTuxKart",
+    "net.werwolv.ImHex",
     "org.apache.jmeter",
     "org.ardour.Ardour",
     "org.bionus.Grabber",

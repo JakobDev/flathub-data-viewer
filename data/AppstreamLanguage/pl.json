@@ -11,6 +11,7 @@
     "com.calibre_ebook.calibre",
     "com.github.GradienceTeam.Gradience",
     "com.github.bluesabre.darkbar",
+    "com.github.cassidyjames.clairvoyant",
     "com.github.flxzt.rnote",
     "com.github.gijsgoudzwaard.image-optimizer",
     "com.github.hugolabe.Wike",
@@ -72,6 +73,7 @@
     "io.github.seadve.Kooha",
     "io.github.seadve.Mousai",
     "io.github.tfuxu.Halftone",
+    "io.github.theforceengine.tfe",
     "io.github.wereturtle.ghostwriter",
     "io.gitlab.Goodvibes",
     "io.gitlab.idevecore.Pomodoro",
@@ -390,5 +392,6 @@
     "re.sonny.Junction",
     "re.sonny.Tangram",
     "xyz.ketok.Speedtest",
+    "xyz.slothlife.Jogger",
     "xyz.tytanium.DoorKnocker"
 ]

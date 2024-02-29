@@ -1271,6 +1271,7 @@
         "org.strawberrymusicplayer.strawberry",
         "org.subsurface_divelog.Subsurface",
         "org.subtitld.Subtitld",
+        "org.svxlink.Qtel",
         "org.telesculptor.TeleSculptor",
         "org.texstudio.TeXstudio",
         "org.thentrythis.Samplebrain",
@@ -1306,6 +1307,7 @@
         "space.fips.Fips",
         "space.nouspiro.tenmon",
         "studio.kx.carla",
+        "tr.com.ikooskar.ikoOSKAR",
         "ua.org.brezblock.q4wine",
         "uk.org.zint.zint-qt",
         "website.i2pd.i2pd",
@@ -1553,7 +1555,6 @@
         "ca.parallel_launcher.ParallelLauncher",
         "cc.nift.nsm",
         "cc.retroshare.retroshare-gui",
-        "chat.schildi.desktop",
         "com.bitwig.BitwigStudio",
         "com.blitterstudio.amiberry",
         "com.borgbase.Vorta",
@@ -2090,7 +2091,6 @@
     ],
     "xdg-run/pipewire-0": [
         "ar.com.tuxguitar.TuxGuitar",
-        "chat.schildi.desktop",
         "com.bitwig.BitwigStudio",
         "com.bladecoder.adventure-editor",
         "com.brave.Browser",
@@ -2285,7 +2285,6 @@
     ],
     "xdg-run/keyring": [
         "cc.arduino.IDE2",
-        "chat.schildi.desktop",
         "com.alovoa.alovoa-electron",
         "com.github.Murmele.Gittyup",
         "com.github.marktext.marktext",
@@ -2505,6 +2504,7 @@
         "com.abisource.AbiWord",
         "com.axosoft.GitKraken",
         "com.belmoussaoui.Authenticator",
+        "com.gitbutler.gitbutler",
         "com.github.Flacon",
         "com.github.GradienceTeam.Gradience",
         "com.github.PintaProject.Pinta",
@@ -4293,6 +4293,12 @@
     ],
     "~/.purple": [
         "sm.puri.Chatty"
+    ],
+    "xdg-documents/ikoOSKAR:create": [
+        "tr.com.ikooskar.ikoOSKAR"
+    ],
+    "/run/lirc": [
+        "tv.kodi.Kodi"
     ],
     "~/.prefs:create": [
         "uk.co.electronstudio.ComicReaderUltimate"

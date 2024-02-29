@@ -1,6 +1,9 @@
 [
+    "com.github.cassidyjames.clairvoyant",
+    "com.github.cassidyjames.dippi",
     "com.xnview.XnViewMP",
     "nl.hjdskes.gcolor3",
+    "org.fontforge.FontForge",
     "org.gnome.Boxes",
     "org.gnome.ColorViewer",
     "org.gnome.Epiphany",
@@ -23,5 +26,6 @@
     "org.gnome.gThumb",
     "org.gnome.gitg",
     "org.moneymanagerex.MMEX",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "xyz.slothlife.Jogger"
 ]
