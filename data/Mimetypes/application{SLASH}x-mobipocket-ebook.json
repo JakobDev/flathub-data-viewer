@@ -1,6 +1,7 @@
 [
     "com.calibre_ebook.calibre",
     "com.github.johnfactotum.Foliate",
+    "com.librumreader.librum",
     "io.gitlab.coolreader_ng.crqt-ng",
     "org.kde.okular"
 ]

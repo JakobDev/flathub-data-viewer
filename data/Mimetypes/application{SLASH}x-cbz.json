@@ -1,6 +1,7 @@
 [
     "com.calibre_ebook.calibre",
     "com.github.babluboy.bookworm",
+    "com.librumreader.librum",
     "com.yacreader.YACReader",
     "net.sourceforge.mcomix",
     "org.gnome.Evince",
