@@ -18,6 +18,5 @@
     "org.gnome.baobab",
     "org.gnome.eog",
     "org.gnome.font-viewer",
-    "org.gnome.gedit",
-    "org.midori_browser.Midori"
+    "org.gnome.gedit"
 ]

@@ -1,5 +1,4 @@
 [
-    "com.github.geigi.cozy",
     "com.github.muriloventuroso.givemelyrics",
     "com.transmissionbt.Transmission",
     "im.pidgin.Pidgin",
@@ -53,7 +52,6 @@
     "org.gottcode.Peg-E",
     "org.gottcode.Simsu",
     "org.inkscape.Inkscape",
-    "org.midori_browser.Midori",
     "org.pitivi.Pitivi",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",

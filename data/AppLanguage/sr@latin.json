@@ -72,11 +72,9 @@
     "org.gnome.gbrainy",
     "org.gnome.gedit",
     "org.gnome.glabels-3",
-    "org.gnome.meld",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
     "org.inkscape.Inkscape",
-    "org.midori_browser.Midori",
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
     "org.x.Warpinator"

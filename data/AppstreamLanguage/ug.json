@@ -29,6 +29,5 @@
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.font-viewer",
-    "org.gnome.seahorse.Application",
-    "org.midori_browser.Midori"
+    "org.gnome.seahorse.Application"
 ]

@@ -72,7 +72,6 @@
         "net.fasterland.converseen",
         "net.fsuae.FS-UAE",
         "net.jammr.jammr",
-        "net.kuribo64.melonDS",
         "net.longturn.freeciv21",
         "net.mediaarea.MediaConch",
         "net.meshlab.MeshLab",
@@ -175,6 +174,7 @@
         "net.corluma.Corluma",
         "net.drawpile.drawpile",
         "net.jami.Jami",
+        "net.kuribo64.melonDS",
         "net.kvirc.KVIrc",
         "net.pcsx2.PCSX2",
         "net.rpcs3.RPCS3",
@@ -190,6 +190,7 @@
         "org.citra_emu.citra",
         "org.duckstation.DuckStation",
         "org.emptyflow.ArdorQuery",
+        "org.freeciv.qt",
         "org.gottcode.Connectagram",
         "org.gottcode.CuteMaze",
         "org.gottcode.FocusWriter",
@@ -396,7 +397,6 @@
         "org.flameshot.Flameshot",
         "org.flightgear.FlightGear",
         "org.freecadweb.FreeCAD",
-        "org.freeciv.qt",
         "org.frescobaldi.Frescobaldi",
         "org.getmonero.Monero",
         "org.hedgewars.Hedgewars",
@@ -645,8 +645,7 @@
     "6.2": [
         "com.github.giacomogroppi.writernote-qt",
         "dev.lukebriggs.pepys",
-        "eu.skribisto.skribisto",
-        "org.coolero.Coolero"
+        "eu.skribisto.skribisto"
     ],
     "5.12": [
         "de.ifw_dresden.nagstamon",

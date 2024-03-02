@@ -23,8 +23,5 @@
     "org.gnome.Todo",
     "org.gnome.eog",
     "org.gnome.font-viewer",
-    "org.gnome.meld",
-    "org.midori_browser.Midori",
-    "org.tabos.roger",
-    "org.texstudio.TeXstudio"
+    "org.tabos.roger"
 ]

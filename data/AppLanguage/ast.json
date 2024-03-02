@@ -4,7 +4,6 @@
     "com.tux4kids.tuxtype",
     "im.pidgin.Pidgin",
     "io.github.Hexchat",
-    "net.sourceforge.liferea",
     "org.gimp.GIMP",
     "org.gnome.Aisleriot",
     "org.gnome.Calculator",
@@ -37,7 +36,6 @@
     "org.gnome.gbrainy",
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
-    "org.midori_browser.Midori",
     "org.pitivi.Pitivi",
     "org.xfce.mousepad",
     "org.xfce.ristretto"

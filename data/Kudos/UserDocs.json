@@ -61,14 +61,11 @@
     "org.gnome.five-or-more",
     "org.gnome.gbrainy",
     "org.gnome.gedit",
-    "org.gnome.meld",
     "org.lyx.LyX",
     "org.mapeditor.Tiled",
-    "org.midori_browser.Midori",
     "org.musescore.MuseScore",
     "org.parlatype.Parlatype",
     "org.pitivi.Pitivi",
-    "org.texstudio.TeXstudio",
     "org.wesnoth.Wesnoth",
     "org.wxhexeditor.wxHexEditor"
 ]
