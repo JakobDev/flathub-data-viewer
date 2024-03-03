@@ -42,7 +42,6 @@
     "org.gnome.NautilusPreviewer",
     "org.gnome.Nibbles",
     "org.gnome.Photos",
-    "org.gnome.Podcasts",
     "org.gnome.Polari",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
@@ -72,7 +71,6 @@
     "org.gnome.glabels-3",
     "org.gnome.seahorse.Application",
     "org.gnucash.GnuCash",
-    "org.inkscape.Inkscape",
     "org.pitivi.Pitivi",
     "org.speedcrunch.SpeedCrunch",
     "org.xfce.ristretto"

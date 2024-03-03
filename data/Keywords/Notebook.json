@@ -1,5 +1,6 @@
 [
     "app.rednotebook.RedNotebook",
+    "com.toolstack.Folio",
     "io.posidon.Paper",
     "org.zim_wiki.Zim"
 ]

@@ -1,6 +1,7 @@
 [
     "ca.parallel_launcher.ParallelLauncher",
     "com.github.Rosalie241.RMG",
+    "com.ktechpit.colorwall",
     "com.moonlight_stream.Moonlight",
     "com.nitrokey.nitrokey-app",
     "com.nitrokey.nitrokey-app2",

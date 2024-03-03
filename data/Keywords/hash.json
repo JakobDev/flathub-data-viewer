@@ -1,5 +1,6 @@
 [
     "com.github.dawidd6.checksumo",
     "dev.geopjr.Collision",
+    "io.github.zefr0x.hashes",
     "org.gtkhash.gtkhash"
 ]

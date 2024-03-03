@@ -1,6 +1,7 @@
 [
     "com.github.cassidyjames.clairvoyant",
     "com.github.cassidyjames.dippi",
+    "org.inkscape.Inkscape",
     "org.moneymanagerex.MMEX",
     "org.tuxpaint.Tuxpaint"
 ]

@@ -1,4 +1,5 @@
 [
     "com.mongodb.Compass",
+    "it.fabiodistasio.AntaresSQL",
     "org.freedesktop.appstream.generator"
 ]

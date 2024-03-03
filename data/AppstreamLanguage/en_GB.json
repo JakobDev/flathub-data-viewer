@@ -15,6 +15,7 @@
     "org.gnome.Music",
     "org.gnome.NetworkDisplays",
     "org.gnome.Photos",
+    "org.gnome.Podcasts",
     "org.gnome.Shotwell",
     "org.gnome.SimpleScan",
     "org.gnome.SwellFoop",
@@ -26,6 +27,7 @@
     "org.gnome.gThumb",
     "org.gnome.gitg",
     "org.gnome.meld",
+    "org.inkscape.Inkscape",
     "org.moneymanagerex.MMEX",
     "org.tuxpaint.Tuxpaint",
     "xyz.slothlife.Jogger"

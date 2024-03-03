@@ -1,6 +1,7 @@
 [
     "app.rednotebook.RedNotebook",
     "com.github.flxzt.rnote",
+    "com.toolstack.Folio",
     "com.vixalien.sticky",
     "io.appflowy.AppFlowy",
     "io.posidon.Paper",
