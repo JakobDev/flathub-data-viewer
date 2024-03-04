@@ -7,7 +7,6 @@
     "com.github.PintaProject.Pinta",
     "com.github.debauchee.barrier",
     "com.github.hugolabe.Wike",
-    "com.github.junrrein.PDFSlicer",
     "com.github.maoschanz.drawing",
     "com.github.rafostar.Clapper",
     "com.github.ryonakano.pinit",
@@ -147,6 +146,5 @@
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "re.sonny.Commit",
-    "re.sonny.Junction",
-    "sm.puri.Chatty"
+    "re.sonny.Junction"
 ]

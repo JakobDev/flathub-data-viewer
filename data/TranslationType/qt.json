@@ -1,6 +1,5 @@
 [
     "at.priv.toastfreeware.ConfClerk",
-    "ch.openboard.OpenBoard",
     "com.github.fontmatrix.Fontmatrix",
     "com.gitlab.tipp10.tipp10",
     "com.polyphone_soundfonts.polyphone",
@@ -29,10 +28,8 @@
     "net.sourceforge.dmidiplayer",
     "net.sourceforge.kmetronome",
     "net.sourceforge.kmidimon",
-    "org.clementine_player.Clementine",
     "org.flameshot.Flameshot",
     "org.fritzing.Fritzing",
-    "org.goldendict.GoldenDict",
     "org.gottcode.Connectagram",
     "org.gottcode.CuteMaze",
     "org.gottcode.FocusWriter",

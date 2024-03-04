@@ -8,5 +8,6 @@
     "org.gnome.FontManager",
     "org.gnome.Loupe",
     "org.gnome.eog",
+    "org.kde.koko",
     "org.qelectrotech.QElectroTech"
 ]

@@ -20,6 +20,7 @@
     "org.gnome.SimpleScan",
     "org.gnome.SwellFoop",
     "org.gnome.World.Iotas",
+    "org.gnome.World.PikaBackup",
     "org.gnome.baobab",
     "org.gnome.design.Contrast",
     "org.gnome.design.Palette",
@@ -30,5 +31,6 @@
     "org.inkscape.Inkscape",
     "org.moneymanagerex.MMEX",
     "org.tuxpaint.Tuxpaint",
+    "sm.puri.Chatty",
     "xyz.slothlife.Jogger"
 ]

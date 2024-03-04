@@ -81,7 +81,6 @@
     "de.haeckerfelix.Fragments",
     "de.haeckerfelix.Shortwave",
     "de.k_bo.Televido",
-    "de.schmidhuberj.DieBahn",
     "dev.Cogitri.Health",
     "dev.alextren.Spot",
     "dev.atoft.Reactions",
@@ -232,7 +231,6 @@
     "org.gnome.TwentyFortyEight",
     "org.gnome.Weather",
     "org.gnome.World.Citations",
-    "org.gnome.World.PikaBackup",
     "org.gnome.World.Secrets",
     "org.gnome.atomix",
     "org.gnome.baobab",
@@ -281,7 +279,6 @@
     "se.sjoerd.GIScan",
     "se.sjoerd.Graphs",
     "sh.shuriken.Eeman",
-    "sm.puri.Chatty",
     "xyz.aguno.CubeTimer",
     "xyz.ketok.Speedtest",
     "xyz.safeworlds.hiit"

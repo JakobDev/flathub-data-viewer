@@ -35,7 +35,6 @@
     "de.haeckerfelix.Fragments",
     "de.haeckerfelix.Shortwave",
     "de.manuel_kehl.go-for-it",
-    "de.schmidhuberj.DieBahn",
     "dev.Cogitri.Health",
     "dev.geopjr.Collision",
     "dev.geopjr.Tuba",
@@ -146,7 +145,6 @@
     "org.gnome.TwentyFortyEight",
     "org.gnome.Weather",
     "org.gnome.World.Citations",
-    "org.gnome.World.PikaBackup",
     "org.gnome.World.Secrets",
     "org.gnome.atomix",
     "org.gnome.baobab",
@@ -211,6 +209,5 @@
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "re.sonny.Commit",
-    "se.sjoerd.Graphs",
-    "sm.puri.Chatty"
+    "se.sjoerd.Graphs"
 ]

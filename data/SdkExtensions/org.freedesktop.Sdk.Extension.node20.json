@@ -1,5 +1,6 @@
 [
     "com.mongodb.Compass",
+    "info.beyondallreason.bar",
     "it.fabiodistasio.AntaresSQL",
     "org.freedesktop.appstream.generator"
 ]

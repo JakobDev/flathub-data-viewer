@@ -29,7 +29,6 @@
     "com.github.hugolabe.Wike",
     "com.github.huluti.Curtail",
     "com.github.johnfactotum.Foliate",
-    "com.github.junrrein.PDFSlicer",
     "com.github.maoschanz.DynamicWallpaperEditor",
     "com.github.maoschanz.drawing",
     "com.github.marhkb.Pods",
@@ -56,7 +55,6 @@
     "de.haeckerfelix.Fragments",
     "de.haeckerfelix.Shortwave",
     "de.manuel_kehl.go-for-it",
-    "de.schmidhuberj.DieBahn",
     "dev.Cogitri.Health",
     "dev.geopjr.Collision",
     "dev.geopjr.Tuba",
@@ -191,7 +189,6 @@
     "org.gnome.TwentyFortyEight",
     "org.gnome.Weather",
     "org.gnome.World.Citations",
-    "org.gnome.World.PikaBackup",
     "org.gnome.World.Secrets",
     "org.gnome.atomix",
     "org.gnome.baobab",
@@ -268,7 +265,6 @@
     "re.sonny.Commit",
     "re.sonny.Junction",
     "se.sjoerd.Graphs",
-    "sm.puri.Chatty",
     "xyz.eclipium.Hieroctive",
     "xyz.eclipium.TetraSwap"
 ]

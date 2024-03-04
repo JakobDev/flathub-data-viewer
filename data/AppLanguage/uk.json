@@ -138,7 +138,6 @@
     "org.gnome.TwentyFortyEight",
     "org.gnome.Weather",
     "org.gnome.World.Citations",
-    "org.gnome.World.PikaBackup",
     "org.gnome.World.Secrets",
     "org.gnome.atomix",
     "org.gnome.baobab",
@@ -203,6 +202,5 @@
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "re.sonny.Commit",
-    "re.sonny.Junction",
-    "sm.puri.Chatty"
+    "re.sonny.Junction"
 ]

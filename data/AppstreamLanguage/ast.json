@@ -26,10 +26,16 @@
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.seahorse.Application",
+    "org.kde.alligator",
     "org.kde.ark",
+    "org.kde.kalk",
+    "org.kde.kasts",
+    "org.kde.keysmith",
+    "org.kde.koko",
     "org.kde.krita",
     "org.kde.kxstitch",
     "org.kde.plasmatube",
+    "org.kde.qmlkonsole",
     "org.pitivi.Pitivi",
     "org.tuxpaint.Tuxpaint"
 ]

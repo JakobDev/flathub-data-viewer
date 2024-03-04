@@ -107,7 +107,6 @@
     "org.gnome.TwentyFortyEight",
     "org.gnome.Weather",
     "org.gnome.World.Citations",
-    "org.gnome.World.PikaBackup",
     "org.gnome.World.Secrets",
     "org.gnome.atomix",
     "org.gnome.baobab",
@@ -169,6 +168,5 @@
     "org.x.Warpinator",
     "org.xfce.mousepad",
     "org.xfce.ristretto",
-    "org.zim_wiki.Zim",
-    "sm.puri.Chatty"
+    "org.zim_wiki.Zim"
 ]

@@ -52,7 +52,6 @@
     "com.github.hugolabe.Wike",
     "com.github.huluti.Curtail",
     "com.github.johnfactotum.Foliate",
-    "com.github.junrrein.PDFSlicer",
     "com.github.kalibari.audok",
     "com.github.maoschanz.DynamicWallpaperEditor",
     "com.github.maoschanz.drawing",
@@ -101,7 +100,6 @@
     "de.haeckerfelix.Shortwave",
     "de.k_bo.Televido",
     "de.manuel_kehl.go-for-it",
-    "de.schmidhuberj.DieBahn",
     "dev.Cogitri.Health",
     "dev.atoft.Reactions",
     "dev.geopjr.Collision",
@@ -290,7 +288,6 @@
     "org.gnome.TwentyFortyEight",
     "org.gnome.Weather",
     "org.gnome.World.Citations",
-    "org.gnome.World.PikaBackup",
     "org.gnome.World.Secrets",
     "org.gnome.atomix",
     "org.gnome.baobab",
@@ -380,7 +377,6 @@
     "re.sonny.Playhouse",
     "re.sonny.Tangram",
     "se.sjoerd.Graphs",
-    "sm.puri.Chatty",
     "vn.hoabinh.quan.CoBang",
     "work.openpaper.Paperwork"
 ]

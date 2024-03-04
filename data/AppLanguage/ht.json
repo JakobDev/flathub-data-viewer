@@ -5,6 +5,5 @@
     "org.sugarlabs.Paint",
     "org.sugarlabs.Physics",
     "org.sugarlabs.ReadETexts",
-    "org.sugarlabs.Words",
-    "sm.puri.Chatty"
+    "org.sugarlabs.Words"
 ]

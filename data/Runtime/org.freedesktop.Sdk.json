@@ -33,6 +33,7 @@
         "org.flathub.flatpak-external-data-checker",
         "org.geany.Geany",
         "org.ghidra_sre.Ghidra",
+        "org.gnu.emacs",
         "org.godotengine.Godot",
         "org.kicad.KiCad",
         "org.scintilla.SciTE",
@@ -52,7 +53,6 @@
         "net.blix.BlueMail",
         "org.apache.netbeans",
         "org.codeblocks.codeblocks",
-        "org.gnu.emacs",
         "org.scilab.Scilab"
     ],
     "21.08": [
