@@ -1,7 +1,9 @@
 [
+    "com.feaneron.Boatswain",
     "com.github.cassidyjames.clairvoyant",
     "com.github.cassidyjames.dippi",
     "com.xnview.XnViewMP",
+    "im.pidgin.Pidgin",
     "nl.hjdskes.gcolor3",
     "org.fontforge.FontForge",
     "org.gnome.Boxes",

@@ -1,11 +1,9 @@
 [
     "ca.desrt.dconf-editor",
     "com.github.debauchee.barrier",
-    "im.pidgin.Pidgin",
     "io.github.Hexchat",
     "io.github.celluloid_player.Celluloid",
     "io.github.lainsce.Khronos",
-    "io.github.seadve.Kooha",
     "org.freedesktop.appstream.cli",
     "org.geeqie.Geeqie",
     "org.gimp.GIMP",
