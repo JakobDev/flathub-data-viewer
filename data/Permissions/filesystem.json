@@ -994,7 +994,6 @@
         "org.bitbucket.mystery_keeper.VapourSynthEditor",
         "org.bunkus.mkvtoolnix-gui",
         "org.chrisoft.qmidiplayer",
-        "org.citra_emu.citra",
         "org.clementine_player.Clementine",
         "org.cloudcompare.CloudCompare",
         "org.codeberg.dimkard.glossaico",
@@ -1284,7 +1283,6 @@
         "org.videolan.VLC",
         "org.wfview.wfview",
         "org.wireshark.Wireshark",
-        "org.yuzu_emu.yuzu",
         "org.zealdocs.Zeal",
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
@@ -2071,7 +2069,6 @@
         "org.DolphinEmu.dolphin-emu",
         "org.bino3d.bino",
         "org.bluesabre.MenuLibre",
-        "org.citra_emu.citra",
         "org.cubocore.CoreAction",
         "org.cubocore.CoreImage",
         "org.cubocore.CoreStats",
@@ -2221,7 +2218,6 @@
         "org.ryujinx.Ryujinx",
         "org.wezfurlong.wezterm",
         "org.wireshark.Wireshark",
-        "org.yuzu_emu.yuzu",
         "ro.fxdata.taskmonitor.viewer",
         "rocks.koreader.KOReader",
         "se.manyver.Manyverse",
@@ -3006,7 +3002,6 @@
         "org.gnome.Evince",
         "org.jellyfin.JellyfinServer",
         "org.purei.Play",
-        "org.yuzu_emu.yuzu",
         "rocks.koreader.KOReader"
     ],
     "xdg-run/app/com.discordapp.DiscordCanary:create": [
@@ -3537,9 +3532,7 @@
     ],
     "xdg-run/app/com.discordapp.Discord:ro": [
         "info.cemu.Cemu",
-        "net.openra.OpenRA",
-        "org.citra_emu.citra",
-        "org.yuzu_emu.yuzu"
+        "net.openra.OpenRA"
     ],
     "xdg-run/app/com.discordapp.DiscordCanary:ro": [
         "info.cemu.Cemu",

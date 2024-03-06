@@ -41,7 +41,6 @@
     "net.sf.fuse_emulator",
     "net.sourceforge.Teo",
     "org.DolphinEmu.dolphin-emu",
-    "org.citra_emu.citra",
     "org.desmume.DeSmuME",
     "org.duckstation.DuckStation",
     "org.flycast.Flycast",
@@ -54,6 +53,5 @@
     "org.radare.iaito",
     "org.ryujinx.Ryujinx",
     "org.tuxfamily.hatari",
-    "org.yuzu_emu.yuzu",
     "ua.org.brezblock.q4wine"
 ]

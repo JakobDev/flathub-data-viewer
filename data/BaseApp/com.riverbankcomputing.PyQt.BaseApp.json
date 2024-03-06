@@ -1,7 +1,6 @@
 {
     "5.15-22.08": [
         "app.bbsync.BlackboardSync",
-        "com.sigil_ebook.Sigil",
         "net.puddletag.puddletag",
         "se.sjoerd.GIScan"
     ],
@@ -29,6 +28,7 @@
     "5.15-23.08": [
         "com.github.arminstraub.krop",
         "com.github.git_cola.git-cola",
+        "com.sigil_ebook.Sigil",
         "com.warlordsoftwares.formatlab",
         "com.warlordsoftwares.jpeg2pdf",
         "com.warlordsoftwares.tube2go",
