@@ -188,6 +188,7 @@
     "org.endlessos.Key",
     "org.eu.getcatalyst.Catalyst",
     "org.famistudio.FamiStudio",
+    "org.firo.firo-qt",
     "org.getzola.zola",
     "org.gnome.HexGL",
     "org.gnome.Tau",

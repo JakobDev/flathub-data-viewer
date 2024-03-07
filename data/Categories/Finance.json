@@ -22,6 +22,7 @@
     "org.blackcoin.blackcoin-more",
     "org.btchd.btchd-qt",
     "org.electrum.electrum",
+    "org.firo.firo-qt",
     "org.getmonero.Monero",
     "org.gnome.gitlab.johannesjh.favagtk",
     "org.gnucash.GnuCash",

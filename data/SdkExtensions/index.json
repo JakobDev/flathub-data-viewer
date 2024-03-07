@@ -32,6 +32,7 @@
         "org.freedesktop.Sdk.Extension.openjdk8",
         "org.freedesktop.Sdk.Extension.rust-nightly",
         "org.freedesktop.Sdk.Extension.rust-stable",
+        "org.freedesktop.Sdk.Extension.swift5",
         "org.freedesktop.Sdk.Extension.texlive",
         "org.freedesktop.Sdk.Extension.toolchain-i386",
         "org.freedesktop.Sdk.Extension.typescript",

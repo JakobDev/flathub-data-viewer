@@ -45,6 +45,7 @@
     "org.fontforge.FontForge",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",
+    "org.frescobaldi.Frescobaldi",
     "org.geany.Geany",
     "org.gnome.Brasero",
     "org.gnome.Calls",

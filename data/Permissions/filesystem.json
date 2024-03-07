@@ -3627,6 +3627,9 @@
         "org.freedesktop.appstream-glib",
         "org.freedesktop.appstream.cli"
     ],
+    "xdg-run/pmim:create": [
+        "io.github.fm_elpac.pmim_ibus"
+    ],
     "/tmp/open-in-default-browser": [
         "io.github.gamingdoom.Datcord"
     ],
@@ -3979,6 +3982,7 @@
     "/run/tor/control.authcookie:ro": [
         "org.bitcoincore.bitcoin-qt",
         "org.btchd.btchd-qt",
+        "org.firo.firo-qt",
         "org.groestlcoin.groestlcoin-qt",
         "org.vertcoin.vertcoin-qt"
     ],
