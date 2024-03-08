@@ -541,6 +541,9 @@
     ".java/.userPrefs": [
         "org.apache.jmeter"
     ],
+    ".avidemux6": [
+        "org.avidemux.Avidemux"
+    ],
     ".briar": [
         "org.briarproject.Briar"
     ],
