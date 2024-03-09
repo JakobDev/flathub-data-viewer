@@ -119,6 +119,7 @@
         "org.kde.kmymoney",
         "org.kde.kommit",
         "org.kde.kompare",
+        "org.kde.kwrite",
         "org.kde.peruse",
         "org.raspberrypi.rpi-imager",
         "org.sil.FieldWorks",

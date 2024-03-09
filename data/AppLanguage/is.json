@@ -65,7 +65,5 @@
     "org.sugarlabs.Paint",
     "org.sugarlabs.Speak",
     "org.sugarlabs.Words",
-    "org.x.Warpinator",
-    "org.xfce.mousepad",
-    "org.xfce.ristretto"
+    "org.x.Warpinator"
 ]

@@ -40,7 +40,5 @@
     "org.gnome.seahorse.Application",
     "org.sugarlabs.Physics",
     "org.sugarlabs.ReadETexts",
-    "org.sugarlabs.Words",
-    "org.xfce.mousepad",
-    "org.xfce.ristretto"
+    "org.sugarlabs.Words"
 ]

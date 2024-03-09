@@ -198,6 +198,8 @@
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
+    "org.xfce.mousepad",
+    "org.xfce.ristretto",
     "re.sonny.Junction",
     "sm.puri.Chatty"
 ]

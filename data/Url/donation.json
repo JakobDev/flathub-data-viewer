@@ -490,6 +490,7 @@
     "org.jaspstats.JASP",
     "org.jjazzlab.JJazzLab",
     "org.jreleaser.cli",
+    "org.kde.akregator",
     "org.kde.alligator",
     "org.kde.ark",
     "org.kde.artikulate",

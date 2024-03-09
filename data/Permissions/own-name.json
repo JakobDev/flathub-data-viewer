@@ -388,15 +388,19 @@
     "org.gtimelog": [
         "org.gtimelog.GTimeLog"
     ],
+    "org.kde.pim.*": [
+        "org.kde.akregator",
+        "org.kde.kontact"
+    ],
     "org.freedesktop.akonadi.*": [
         "org.kde.akregator",
         "org.kde.kontact"
     ],
-    "org.kde.kaddressbook": [
+    "org.kde.accountwizard": [
         "org.kde.akregator",
         "org.kde.kontact"
     ],
-    "org.kde.pim.*": [
+    "org.kde.kaddressbook": [
         "org.kde.akregator",
         "org.kde.kontact"
     ],
@@ -406,10 +410,6 @@
     ],
     "org.kde.pimsettingsexporter": [
         "org.kde.akregator"
-    ],
-    "org.kde.accountwizard": [
-        "org.kde.akregator",
-        "org.kde.kontact"
     ],
     "org.mpris.mediaplayer2.audiotube": [
         "org.kde.audiotube"

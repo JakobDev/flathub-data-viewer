@@ -2,7 +2,6 @@
     "ca.desrt.dconf-editor",
     "com.github.PintaProject.Pinta",
     "com.github.debauchee.barrier",
-    "com.github.hugolabe.Wike",
     "com.github.ztefn.haguichi",
     "com.remnantsoftheprecursors.ROTP",
     "com.transmissionbt.Transmission",
@@ -90,7 +89,5 @@
     "org.sugarlabs.Memorize",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Speak",
-    "org.widelands.Widelands",
-    "org.xfce.mousepad",
-    "org.xfce.ristretto"
+    "org.widelands.Widelands"
 ]

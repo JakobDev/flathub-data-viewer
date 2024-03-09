@@ -54,7 +54,5 @@
     "org.sugarlabs.Speak",
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.TurtlePondActivity",
-    "org.sugarlabs.Words",
-    "org.xfce.mousepad",
-    "org.xfce.ristretto"
+    "org.sugarlabs.Words"
 ]

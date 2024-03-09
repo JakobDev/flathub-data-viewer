@@ -15,7 +15,6 @@
     "com.github.PintaProject.Pinta",
     "com.github.alexkdeveloper.recorder",
     "com.github.debauchee.barrier",
-    "com.github.hugolabe.Wike",
     "com.github.huluti.Curtail",
     "com.github.johnfactotum.Foliate",
     "com.github.maoschanz.drawing",
@@ -202,8 +201,6 @@
     "org.sugarlabs.Words",
     "org.widelands.Widelands",
     "org.x.Warpinator",
-    "org.xfce.mousepad",
-    "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "re.sonny.Commit",
     "se.sjoerd.Graphs"

@@ -39,6 +39,5 @@
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
     "org.pulseaudio.pavucontrol",
-    "org.widelands.Widelands",
-    "org.xfce.mousepad"
+    "org.widelands.Widelands"
 ]

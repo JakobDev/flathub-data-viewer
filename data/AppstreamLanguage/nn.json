@@ -158,5 +158,6 @@
     "org.kde.vvave",
     "org.kde.yakuake",
     "org.tug.texworks",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.xfce.mousepad"
 ]

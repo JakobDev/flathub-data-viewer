@@ -42,6 +42,7 @@
     "io.github.Hexchat",
     "io.github.TransmissionRemoteGtk",
     "io.github.celluloid_player.Celluloid",
+    "io.github.flattool.Warehouse",
     "io.github.hakandundar34coding.system-monitoring-center",
     "io.github.manisandro.gImageReader",
     "io.github.mrvladus.List",
@@ -252,6 +253,7 @@
     "org.wesnoth.Wesnoth",
     "org.widelands.Widelands",
     "org.x.Warpinator",
+    "org.xfce.mousepad",
     "org.zrythm.Zrythm",
     "sm.puri.Chatty"
 ]

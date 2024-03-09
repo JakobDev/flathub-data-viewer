@@ -5,7 +5,9 @@
         "com.riverbankcomputing.PyQt.BaseApp",
         "io.github.xiaoyifang.goldendict_ng",
         "net.jami.Jami",
-        "org.jacktrip.JackTrip"
+        "org.fcitx.Fcitx5",
+        "org.jacktrip.JackTrip",
+        "org.kde.akregator"
     ],
     "5.15-23.08": [
         "ch.theologeek.Manuskript",
@@ -19,7 +21,6 @@
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.xm1math.Texmaker",
         "org.freecadweb.FreeCAD",
-        "org.kde.akregator",
         "org.kde.angelfish",
         "org.kde.arianna",
         "org.kde.cantor",

@@ -58,6 +58,5 @@
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
     "org.sugarlabs.Maze",
-    "org.sugarlabs.Paint",
-    "org.xfce.ristretto"
+    "org.sugarlabs.Paint"
 ]

@@ -12,7 +12,6 @@
     "com.github.Darazaki.Spedread",
     "com.github.PintaProject.Pinta",
     "com.github.debauchee.barrier",
-    "com.github.hugolabe.Wike",
     "com.github.huluti.Curtail",
     "com.github.maoschanz.drawing",
     "com.github.tenderowl.frog",
@@ -123,7 +122,5 @@
     "org.gnome.seahorse.Application",
     "org.pitivi.Pitivi",
     "org.x.Warpinator",
-    "org.xfce.mousepad",
-    "org.xfce.ristretto",
     "re.sonny.Junction"
 ]

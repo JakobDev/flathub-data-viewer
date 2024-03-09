@@ -47,5 +47,6 @@
     "org.kde.lokalize",
     "org.kde.neochat",
     "org.kde.okular",
-    "org.x.Warpinator"
+    "org.x.Warpinator",
+    "org.xfce.mousepad"
 ]

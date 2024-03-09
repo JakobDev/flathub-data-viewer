@@ -14,7 +14,6 @@
     "com.github.PintaProject.Pinta",
     "com.github.bajoja.indicator-kdeconnect",
     "com.github.debauchee.barrier",
-    "com.github.hugolabe.Wike",
     "com.github.maoschanz.drawing",
     "com.github.taiko2k.tauonmb",
     "com.github.unrud.VideoDownloader",
@@ -159,8 +158,6 @@
     "org.sugarlabs.Words",
     "org.widelands.Widelands",
     "org.x.Warpinator",
-    "org.xfce.mousepad",
-    "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "re.sonny.Junction"
 ]

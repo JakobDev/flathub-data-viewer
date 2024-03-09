@@ -8,6 +8,7 @@
     "com.xnview.XnViewMP",
     "de.billardgl.Billardgl",
     "io.github.Bavarder.Bavarder",
+    "io.github.flattool.Warehouse",
     "io.github.mightycreak.Diffuse",
     "net.supertuxkart.SuperTuxKart",
     "org.gnome.Aisleriot",
@@ -48,5 +49,6 @@
     "org.squeakland.Etoys",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
+    "org.xfce.mousepad",
     "page.codeberg.Imaginer.Imaginer"
 ]

@@ -29,5 +29,6 @@
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.font-viewer",
-    "org.gnome.seahorse.Application"
+    "org.gnome.seahorse.Application",
+    "org.xfce.mousepad"
 ]

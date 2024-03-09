@@ -1,6 +1,5 @@
 [
     "app.drey.Dialect",
-    "com.github.hugolabe.Wike",
     "fr.romainvigier.MetadataCleaner",
     "org.gnome.FileRoller",
     "org.gnucash.GnuCash",

@@ -103,5 +103,6 @@
     "org.qelectrotech.QElectroTech",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
-    "org.x.Warpinator"
+    "org.x.Warpinator",
+    "org.xfce.mousepad"
 ]

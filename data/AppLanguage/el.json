@@ -9,7 +9,6 @@
     "com.github.PintaProject.Pinta",
     "com.github.bajoja.indicator-kdeconnect",
     "com.github.debauchee.barrier",
-    "com.github.hugolabe.Wike",
     "com.github.johnfactotum.Foliate",
     "com.mattjakeman.ExtensionManager",
     "com.remnantsoftheprecursors.ROTP",
@@ -163,7 +162,5 @@
     "org.sugarlabs.Words",
     "org.widelands.Widelands",
     "org.x.Warpinator",
-    "org.xfce.mousepad",
-    "org.xfce.ristretto",
     "org.zim_wiki.Zim"
 ]

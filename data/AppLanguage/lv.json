@@ -71,6 +71,5 @@
     "org.gnome.seahorse.Application",
     "org.gnucash.GnuCash",
     "org.pitivi.Pitivi",
-    "org.speedcrunch.SpeedCrunch",
-    "org.xfce.ristretto"
+    "org.speedcrunch.SpeedCrunch"
 ]

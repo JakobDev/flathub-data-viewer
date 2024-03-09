@@ -71,7 +71,5 @@
     "org.sugarlabs.ImplodeActivity",
     "org.sugarlabs.Maze",
     "org.sugarlabs.Words",
-    "org.widelands.Widelands",
-    "org.xfce.mousepad",
-    "org.xfce.ristretto"
+    "org.widelands.Widelands"
 ]

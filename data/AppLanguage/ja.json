@@ -6,7 +6,6 @@
     "com.belmoussaoui.Obfuscate",
     "com.github.PintaProject.Pinta",
     "com.github.debauchee.barrier",
-    "com.github.hugolabe.Wike",
     "com.github.maoschanz.drawing",
     "com.github.rafostar.Clapper",
     "com.github.ryonakano.pinit",
@@ -140,8 +139,6 @@
     "org.sugarlabs.Words",
     "org.widelands.Widelands",
     "org.x.Warpinator",
-    "org.xfce.mousepad",
-    "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "re.sonny.Commit",
     "re.sonny.Junction"

@@ -89,7 +89,5 @@
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
     "org.pulseaudio.pavucontrol",
-    "org.x.Warpinator",
-    "org.xfce.mousepad",
-    "org.xfce.ristretto"
+    "org.x.Warpinator"
 ]

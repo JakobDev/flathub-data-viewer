@@ -13,7 +13,6 @@
     "com.github.bajoja.indicator-kdeconnect",
     "com.github.dawidd6.checksumo",
     "com.github.debauchee.barrier",
-    "com.github.hugolabe.Wike",
     "com.github.huluti.Curtail",
     "com.github.maoschanz.drawing",
     "com.github.marhkb.Pods",
@@ -211,8 +210,6 @@
     "org.upnproutercontrol.UPnPRouterControl",
     "org.widelands.Widelands",
     "org.x.Warpinator",
-    "org.xfce.mousepad",
-    "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "re.sonny.Commit",
     "re.sonny.Junction"
