@@ -31,5 +31,6 @@
     "re.sonny.Workbench",
     "sa.sy.bluerecorder",
     "xyz.safeworlds.hiit",
-    "xyz.slothlife.Jogger"
+    "xyz.slothlife.Jogger",
+    "org.freedesktop.Sdk.Extension.swift5"
 ]

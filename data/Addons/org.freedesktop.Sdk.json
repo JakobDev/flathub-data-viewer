@@ -21,6 +21,7 @@
     "org.freedesktop.Sdk.Extension.php82",
     "org.freedesktop.Sdk.Extension.php83",
     "org.freedesktop.Sdk.Extension.rust-stable",
+    "org.freedesktop.Sdk.Extension.swift5",
     "org.freedesktop.Sdk.Extension.typescript",
     "org.freedesktop.Sdk.Extension.vala"
 ]

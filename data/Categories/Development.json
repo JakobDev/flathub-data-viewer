@@ -234,5 +234,6 @@
     "re.sonny.Workbench",
     "rest.insomnia.Insomnia",
     "com.sublimetext.three.DevUtils",
-    "org.freedesktop.Sdk.Extension.gnat13"
+    "org.freedesktop.Sdk.Extension.gnat13",
+    "org.freedesktop.Sdk.Extension.swift5"
 ]

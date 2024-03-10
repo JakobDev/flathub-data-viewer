@@ -8,5 +8,6 @@
     "org.duckstation.DuckStation",
     "org.fkoehler.KTailctl",
     "org.kde.kdenlive",
-    "org.ultimatepp.TheIDE"
+    "org.ultimatepp.TheIDE",
+    "org.fcitx.Fcitx5.Addon.Mozc"
 ]

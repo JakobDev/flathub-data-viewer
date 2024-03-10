@@ -284,6 +284,7 @@
     "org.freedesktop.LinuxAudio.Plugins.UhhyouPlugins",
     "org.freedesktop.LinuxAudio.Plugins.WolfShaper",
     "org.freedesktop.LinuxAudio.Plugins.master_me",
+    "org.freedesktop.Sdk.Extension.swift5",
     "org.gajim.Gajim.Plugin.openpgp",
     "org.gajim.Gajim.Plugin.pgp",
     "org.gimp.GIMP.Plugin.Fourier",
