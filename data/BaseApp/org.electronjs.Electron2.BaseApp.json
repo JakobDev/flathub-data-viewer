@@ -84,6 +84,7 @@
         "org.eu.getcatalyst.Catalyst",
         "org.ferdium.Ferdium",
         "org.geogebra.GeoGebra",
+        "org.jamovi.jamovi",
         "org.jitsi.jitsi-meet",
         "org.onlyoffice.desktopeditors",
         "org.signal.Signal",
@@ -113,7 +114,6 @@
         "com.xunlei.Thunder",
         "im.gitter.Gitter",
         "io.github.dbchoco.muezzin",
-        "org.jamovi.jamovi",
         "org.sugarlabs.MusicBlocks",
         "ro.go.hmlendea.DL-Desktop"
     ],
