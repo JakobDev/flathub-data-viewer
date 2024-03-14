@@ -3755,7 +3755,7 @@
     "xdg-config/monitors.xml:ro": [
         "io.github.realmazharhussain.GdmSettings"
     ],
-    "~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Sonic Mania:ro": [
+    "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Sonic Mania:ro": [
         "io.github.santiagocezar.maniatic-launcher"
     ],
     "~/.local/share/Steam/steamapps/common/Sonic Mania/Data.rsdk:ro": [

@@ -1,6 +1,5 @@
 [
     "com.rawtherapee.RawTherapee",
     "io.github.ktgw0316.LightZone",
-    "org.free_astro.siril",
-    "org.kde.gwenview"
+    "org.free_astro.siril"
 ]

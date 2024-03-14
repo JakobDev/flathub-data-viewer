@@ -7,7 +7,8 @@
         "net.jami.Jami",
         "org.fcitx.Fcitx5",
         "org.jacktrip.JackTrip",
-        "org.kde.akregator"
+        "org.kde.akregator",
+        "org.kde.falkon"
     ],
     "5.15-23.08": [
         "ch.theologeek.Manuskript",
@@ -25,7 +26,6 @@
         "org.kde.arianna",
         "org.kde.cantor",
         "org.kde.digikam",
-        "org.kde.falkon",
         "org.kde.kalgebra",
         "org.kde.kdevelop",
         "org.kde.kgeotag",

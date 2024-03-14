@@ -905,6 +905,7 @@
         "com.nextcloud.desktopclient.nextcloud",
         "com.nitrokey.nitrokey-app",
         "com.notepadqq.Notepadqq",
+        "com.obsproject.Studio",
         "com.ozmartians.VidCutter",
         "com.polyphone_soundfonts.polyphone",
         "com.qzandronum.Q-Zandronum",
@@ -1371,6 +1372,7 @@
         "com.nextcloud.desktopclient.nextcloud",
         "com.nitrokey.nitrokey-app",
         "com.notepadqq.Notepadqq",
+        "com.obsproject.Studio",
         "com.ozmartians.VidCutter",
         "com.polyphone_soundfonts.polyphone",
         "com.qzandronum.Q-Zandronum",
@@ -3113,7 +3115,8 @@
         "com.hack_computer.Clubhouse",
         "com.hack_computer.OperatingSystemApp",
         "com.hack_computer.Sidetrack",
-        "com.unity.UnityHub"
+        "com.unity.UnityHub",
+        "dev.tchx84.Gameeky"
     ],
     "org.freedesktop.impl.portal.permissionstore": [
         "com.github.tchx84.Flatseal"
