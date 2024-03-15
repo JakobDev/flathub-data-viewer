@@ -9,6 +9,7 @@
         "application{SLASH}bitwig-clip",
         "application{SLASH}bitwig-device",
         "application{SLASH}bitwig-extension",
+        "application{SLASH}bitwig-impulse",
         "application{SLASH}bitwig-modulator",
         "application{SLASH}bitwig-module",
         "application{SLASH}bitwig-package",
