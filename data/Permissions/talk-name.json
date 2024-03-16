@@ -1942,6 +1942,7 @@
         "org.kde.choqok",
         "org.kde.digikam",
         "org.kde.elisa",
+        "org.kde.juk",
         "org.kde.kaffeine",
         "org.kde.kasts",
         "org.kde.kget",
@@ -2439,6 +2440,7 @@
         "com.github.Murmele.Gittyup",
         "com.github.d4nj1.tlpui",
         "com.github.devalien.workspaces",
+        "com.github.dimkr.gplaces",
         "com.github.liferooter.textpieces",
         "com.github.theCalcaholic.StreamDeck",
         "com.github.ztefn.haguichi",
@@ -3224,6 +3226,7 @@
     "org.kde.kglobalaccel": [
         "de.shorsh.discord-screenaudio",
         "org.kde.akregator",
+        "org.kde.juk",
         "org.kde.kontact",
         "org.kde.yakuake",
         "org.strawberrymusicplayer.strawberry"

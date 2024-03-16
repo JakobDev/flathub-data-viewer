@@ -100,6 +100,7 @@
     "org.sugarlabs.Maze",
     "org.sugarlabs.Measure",
     "org.sugarlabs.Memorize",
+    "org.sugarlabs.MusicKeyboard",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Physics",
     "org.sugarlabs.Pippy",

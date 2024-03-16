@@ -1,4 +1,5 @@
 [
     "org.inkscape.Inkscape",
+    "org.kde.kcolorchooser",
     "org.tuxpaint.Tuxpaint"
 ]
