@@ -222,6 +222,7 @@
         "dev.gbstudio.gb-studio",
         "dev.krtirtho.Flemozi",
         "dev.lapce.lapce",
+        "dev.lizardbyte.app.Sunshine",
         "dev.mrquantumoff.mcmodpackmanager",
         "dev.paullee.scraterpreter.Scrape",
         "dev.paullee.scraterpreter.Scrapec",
@@ -731,7 +732,6 @@
         "dev.k8slens.OpenLens",
         "dev.lasheen.qr",
         "dev.linwood.butterfly",
-        "dev.lizardbyte.app.Sunshine",
         "dev.rzia.minesector",
         "dev.schlaubi.Tonbrett",
         "dev.stewlab.PortaWar",
@@ -1101,8 +1101,7 @@
         "si.tano.Vremenar",
         "uk.co.electronstudio.ComicReaderUltimate",
         "xyz.eclipium.Hieroctive",
-        "xyz.eclipium.TetraSwap",
-        "xyz.ljoonal.neospeeps"
+        "xyz.eclipium.TetraSwap"
     ],
     "18.08": [
         "au.edu.uq.esys.escript"

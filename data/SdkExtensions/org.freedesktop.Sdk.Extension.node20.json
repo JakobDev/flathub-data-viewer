@@ -1,5 +1,6 @@
 [
     "com.mongodb.Compass",
+    "dev.lizardbyte.app.Sunshine",
     "info.beyondallreason.bar",
     "io.podman_desktop.PodmanDesktop",
     "it.fabiodistasio.AntaresSQL",
