@@ -1,6 +1,7 @@
 [
     "com.github.cassidyjames.clairvoyant",
     "com.github.cassidyjames.dippi",
+    "com.github.treagod.spectator",
     "im.pidgin.Pidgin",
     "org.inkscape.Inkscape",
     "org.moneymanagerex.MMEX",
