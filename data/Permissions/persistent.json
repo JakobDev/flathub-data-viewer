@@ -1,15 +1,18 @@
 {
     ".receitanet": [
         "br.gov.fazenda.receita.irpf2022",
-        "br.gov.fazenda.receita.irpf2023"
+        "br.gov.fazenda.receita.irpf2023",
+        "br.gov.fazenda.receita.irpf2024"
     ],
     ".rfb": [
         "br.gov.fazenda.receita.irpf2022",
-        "br.gov.fazenda.receita.irpf2023"
+        "br.gov.fazenda.receita.irpf2023",
+        "br.gov.fazenda.receita.irpf2024"
     ],
     ".java": [
         "br.gov.fazenda.receita.irpf2022",
         "br.gov.fazenda.receita.irpf2023",
+        "br.gov.fazenda.receita.irpf2024",
         "com.bitwig.BitwigStudio",
         "com.github.mgropp.PdfJumbler",
         "com.github.reds.LogisimEvolution",
@@ -563,8 +566,7 @@
         "org.eclipse.iot.fourdiac.Ide"
     ],
     ".electrum": [
-        "org.electrum.electrum",
-        "org.groestlcoin.electrum-grs"
+        "org.electrum.electrum"
     ],
     ".platformio": [
         "org.expresslrs.ExpressLRSConfigurator"
@@ -600,6 +602,9 @@
     ],
     ".goldendict": [
         "org.goldendict.GoldenDict"
+    ],
+    ".electrum-grs": [
+        "org.groestlcoin.electrum-grs"
     ],
     ".hedgewars": [
         "org.hedgewars.Hedgewars"
@@ -733,6 +738,9 @@
     ],
     ".ZAP": [
         "org.zaproxy.ZAP"
+    ],
+    ".config/raze": [
+        "org.zdoom.Raze"
     ],
     ".thinlinc": [
         "se.cendio.tlclient"

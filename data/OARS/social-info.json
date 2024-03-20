@@ -28,7 +28,6 @@
         "me.timschneeberger.GalaxyBudsClient",
         "net.biniou.LeBiniou",
         "net.blix.BlueMail",
-        "net.brinkervii.grapejuice",
         "org.freedesktop.fwupd",
         "org.gnome.Firmware",
         "org.gnome.SoundJuicer",
@@ -373,6 +372,7 @@
         "org.otfried.Ipe",
         "org.sil.FieldWorks",
         "org.skytemple.SkyTemple",
+        "so.libdb.dissent",
         "so.libdb.gtkcord4",
         "us.zoom.Zoom",
         "xyz.armcord.ArmCord"

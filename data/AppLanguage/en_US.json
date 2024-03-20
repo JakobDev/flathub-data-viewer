@@ -39,6 +39,7 @@
     "io.github.Qalculate",
     "io.github.diegopvlk.Dosage",
     "io.github.fastrizwaan.WineZGUI",
+    "io.github.finefindus.Hieroglyphic",
     "io.github.giantpinkrobots.varia",
     "io.github.nokse22.asciidraw",
     "io.github.nokse22.teleprompter",
@@ -69,6 +70,7 @@
     "org.frescobaldi.Frescobaldi",
     "org.geany.Geany",
     "org.geeqie.Geeqie",
+    "org.gimp.GIMP",
     "org.gnome.Brasero",
     "org.gnome.Calls",
     "org.gnome.Chess",
@@ -87,6 +89,7 @@
     "org.gnome.meld",
     "org.goldendict.GoldenDict",
     "org.gramps_project.Gramps",
+    "org.groestlcoin.electrum-grs",
     "org.gtkhash.gtkhash",
     "org.inkscape.Inkscape",
     "org.kde.kid3",
@@ -125,6 +128,7 @@
     "org.xfce.ristretto",
     "org.zrythm.Zrythm",
     "sm.puri.Chatty",
+    "so.libdb.dissent",
     "so.libdb.gtkcord4",
     "xyz.tytanium.DoorKnocker"
 ]

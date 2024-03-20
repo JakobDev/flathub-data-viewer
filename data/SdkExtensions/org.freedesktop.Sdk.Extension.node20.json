@@ -2,6 +2,7 @@
     "com.mongodb.Compass",
     "dev.lizardbyte.app.Sunshine",
     "info.beyondallreason.bar",
+    "io.github.libredirect.frontends-manager",
     "io.podman_desktop.PodmanDesktop",
     "it.fabiodistasio.AntaresSQL",
     "org.freedesktop.appstream.generator"

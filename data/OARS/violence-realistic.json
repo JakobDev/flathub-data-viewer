@@ -21,6 +21,7 @@
         "org.firestormviewer.FirestormViewer",
         "org.yamagi.YamagiQ2",
         "org.zdoom.GZDoom",
+        "org.zdoom.Raze",
         "xyz.hyperplay.HyperPlay"
     ],
     "none": [

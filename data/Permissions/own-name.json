@@ -382,9 +382,6 @@
     "org.gpodder": [
         "org.gpodder.gpodder"
     ],
-    "org.gramps-project.gramps": [
-        "org.gramps_project.Gramps"
-    ],
     "org.gtimelog": [
         "org.gtimelog.GTimeLog"
     ],
@@ -509,9 +506,6 @@
     ],
     "org.mozilla.firefox.*": [
         "org.mozilla.firefox"
-    ],
-    "org.mpris.mediaplayer2.mpdevil": [
-        "org.mpdevil.mpdevil"
     ],
     "org.mpris.mediaplayer2.parlatype": [
         "org.parlatype.Parlatype"

@@ -34,7 +34,6 @@
         "io.itch.itch",
         "io.mrarm.mcpelauncher",
         "io.wasabiwallet.WasabiWallet",
-        "net.brinkervii.grapejuice",
         "net.codeindustry.MasterPDFEditor",
         "net.gaijin.WarThunder",
         "net.jammr.jammr",
@@ -47,6 +46,7 @@
         "org.tvbrowser.TVBrowser",
         "org.vergecurrency.verge-qt",
         "org.vinegarhq.Vinegar",
+        "so.libdb.dissent",
         "so.libdb.gtkcord4",
         "so.onekey.Wallet",
         "xyz.hyperplay.HyperPlay"

@@ -17,6 +17,7 @@
         "org.unitystation.StationHub",
         "org.yamagi.YamagiQ2",
         "org.zdoom.GZDoom",
+        "org.zdoom.Raze",
         "vet.rsc.OpenRSC.Launcher"
     ],
     "none": [

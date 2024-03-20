@@ -2,6 +2,7 @@
     "dev.vencord.Vesktop",
     "io.github.spacingbat3.webcord",
     "io.github.trigg.discover_overlay",
+    "so.libdb.dissent",
     "so.libdb.gtkcord4",
     "xyz.armcord.ArmCord"
 ]

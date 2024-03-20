@@ -1,5 +1,6 @@
 [
     "com.transmissionbt.Transmission",
+    "org.gimp.GIMP",
     "org.gnome.Cheese",
     "org.gnome.Totem",
     "org.gnome.font-viewer"

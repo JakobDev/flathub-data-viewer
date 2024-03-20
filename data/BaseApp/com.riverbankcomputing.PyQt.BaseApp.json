@@ -45,6 +45,7 @@
         "org.cloudcompare.CloudCompare",
         "org.electrum.electrum",
         "org.frescobaldi.Frescobaldi",
+        "org.groestlcoin.electrum-grs",
         "org.linuxshowplayer.LinuxShowPlayer",
         "org.pairinteraction.Pairinteraction",
         "org.pymol.PyMOL",

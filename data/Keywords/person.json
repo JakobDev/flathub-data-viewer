@@ -17,5 +17,6 @@
     "org.chocolate_doom.ChocolateDoom",
     "org.dhewm3.Dhewm3",
     "org.yamagi.YamagiQ2",
-    "org.zdoom.GZDoom"
+    "org.zdoom.GZDoom",
+    "org.zdoom.Raze"
 ]

@@ -43,7 +43,6 @@
         "io.github.trigg.discover_overlay",
         "io.itch.itch",
         "io.mrarm.mcpelauncher",
-        "net.brinkervii.grapejuice",
         "net.kvirc.KVIrc",
         "network.loki.Session",
         "org.adishatz.syncpasswd",
@@ -61,6 +60,7 @@
         "org.telegram",
         "org.vinegarhq.Vinegar",
         "se.manyver.Manyverse",
+        "so.libdb.dissent",
         "so.libdb.gtkcord4",
         "us.ihmc.cmap.CmapTools",
         "xyz.armcord.ArmCord"

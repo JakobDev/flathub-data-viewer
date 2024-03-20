@@ -42,6 +42,7 @@
         "com.expidusos.file_manager",
         "com.flashforge.FlashPrint",
         "com.frac_tion.teleport",
+        "com.georgefb.mangareader",
         "com.getpostman.Postman",
         "com.giadamusic.Giada",
         "com.gigitux.youp",
@@ -166,6 +167,7 @@
         "de.create3000.titania",
         "de.fabrik19.mos-Launcher",
         "de.finnik.PassVault",
+        "de.flose.Kochbuch",
         "de.linuxguides.RechnungsAssistent",
         "de.manuel_kehl.go-for-it",
         "de.marlam.qv",
@@ -213,7 +215,7 @@
         "io.github.betaflight.BetaflightConfigurator",
         "io.github.bothlab.pomidaq",
         "io.github.ciromattia.kcc",
-        "io.github.cudatext.CudaText-Qt5",
+        "io.github.cudatext.CudaText-Qt",
         "io.github.dagargo.Elektroid",
         "io.github.dbchoco.Salawat",
         "io.github.dosbox-staging",
@@ -403,6 +405,7 @@
         "org.librepcb.LibrePCB",
         "org.libvips.vipsdisp",
         "org.linuxshowplayer.LinuxShowPlayer",
+        "org.lvnauth.LVNAuth",
         "org.mamedev.MAME",
         "org.mavlink.qgroundcontrol",
         "org.mfek.MFEKglif",
@@ -461,6 +464,7 @@
         "re.sonny.Commit",
         "sa.sy.bluerecorder",
         "se.sjoerd.GIScan",
+        "se.trixon.Mapollage",
         "site.someones.Lonewolf",
         "studio.kx.carla",
         "uk.et1.big-finish-downloader",
@@ -842,7 +846,7 @@
         "io.github.cloose.CuteMarkEd",
         "io.github.congard.qnvsm",
         "io.github.ctlcltd.e2se",
-        "io.github.cudatext.CudaText-Qt5",
+        "io.github.cudatext.CudaText-Qt",
         "io.github.ddanilov.soundscape",
         "io.github.dman95.SASM",
         "io.github.dummerle.rare",
@@ -1374,7 +1378,6 @@
         "org.kde.juk",
         "org.kde.kid3",
         "org.mixxx.Mixxx",
-        "org.mpdevil.mpdevil",
         "org.musicbrainz.Picard",
         "org.qutebrowser.qutebrowser",
         "org.soundconverter.SoundConverter",
@@ -1421,6 +1424,7 @@
         "app.gummi.gummi",
         "br.gov.fazenda.receita.irpf2022",
         "br.gov.fazenda.receita.irpf2023",
+        "br.gov.fazenda.receita.irpf2024",
         "cern.root.ROOT",
         "ch.tigerjython.TigerJython2",
         "chat.quadrix.Quadrix",
@@ -1562,7 +1566,6 @@
         "com.darhon.syncbackup",
         "com.dec05eba.gpu_screen_recorder",
         "com.diffingo.fwbackups",
-        "com.georgefb.mangareader",
         "com.georgefb.quickaccess",
         "com.github.Bleuzen.FFaudioConverter",
         "com.github._4lex4.ScanTailor-Advanced",
@@ -2047,6 +2050,7 @@
         "app.xemu.xemu",
         "ca.desrt.dconf-editor",
         "com.adobe.Flash-Player-Projector",
+        "com.georgefb.mangareader",
         "com.github.Alcaro.Flips",
         "com.github.bluesabre.darkbar",
         "com.github.d4nj1.tlpui",
@@ -2178,7 +2182,8 @@
     ],
     "~/ProgramasRFB:create": [
         "br.gov.fazenda.receita.irpf2022",
-        "br.gov.fazenda.receita.irpf2023"
+        "br.gov.fazenda.receita.irpf2023",
+        "br.gov.fazenda.receita.irpf2024"
     ],
     "home:ro": [
         "ca._0ldsk00l.Nestopia",
@@ -2311,6 +2316,7 @@
         "org.gnome.Builder",
         "org.gnome.gitg",
         "org.tabos.roger",
+        "so.libdb.dissent",
         "so.libdb.gtkcord4"
     ],
     "xdg-pictures": [
@@ -2721,7 +2727,6 @@
         "io.github.Rirusha.Cassette",
         "io.github.Soundux",
         "io.github.nate_xyz.Resonance",
-        "me.timschneeberger.GalaxyBudsClient",
         "net.baseart.Glide",
         "org.opensurge2d.OpenSurge",
         "org.polymc.PolyMC",
@@ -2756,6 +2761,7 @@
         "com.skype.Client",
         "com.spotify.Client",
         "com.valvesoftware.Steam",
+        "de.wagnermartin.Plattenalbum",
         "dev.aunetx.deezer",
         "io.bassi.Amberol",
         "io.github.Rirusha.Cassette",
@@ -3452,6 +3458,9 @@
     ],
     "~/.prefs": [
         "de.sesu8642.feudaltactics"
+    ],
+    "xdg-run/mpd": [
+        "de.wagnermartin.Plattenalbum"
     ],
     "xdg-config/gtk-3.0:ro": [
         "de.willuhn.Jameica",
@@ -4165,9 +4174,6 @@
     ],
     "/var/log:ro": [
         "org.linux_hardware.hw-probe"
-    ],
-    "xdg-run/mpd": [
-        "org.mpdevil.mpdevil"
     ],
     "~/.config/textsecure.nanuc:create": [
         "org.nanuc.Axolotl"

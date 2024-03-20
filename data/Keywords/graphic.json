@@ -1,6 +1,5 @@
 [
     "io.sourceforge.Pixelitor",
     "net.fasterland.converseen",
-    "org.gimp.GIMP",
     "org.libvips.vipsdisp"
 ]
