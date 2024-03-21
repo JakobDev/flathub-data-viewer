@@ -261,6 +261,7 @@
     "org.parlatype.Parlatype",
     "org.pitivi.Pitivi",
     "org.plomgrading.PlomClient",
+    "org.pulseaudio.pavucontrol",
     "org.qgis.qgis",
     "org.scummvm.ScummVM",
     "org.speedcrunch.SpeedCrunch",

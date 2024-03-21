@@ -38,6 +38,7 @@
     "org.gnome.seahorse.Application",
     "org.gnucash.GnuCash",
     "org.inkscape.Inkscape",
+    "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint",
     "org.virt_manager.virt-viewer"
 ]

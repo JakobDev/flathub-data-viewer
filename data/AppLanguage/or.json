@@ -2,11 +2,9 @@
     "com.tux4kids.tuxtype",
     "org.gnome.Aisleriot",
     "org.gnome.Boxes",
-    "org.gnome.Calculator",
     "org.gnome.Cheese",
     "org.gnome.ColorViewer",
     "org.gnome.Devhelp",
-    "org.gnome.Epiphany",
     "org.gnome.Evince",
     "org.gnome.Evolution",
     "org.gnome.FileRoller",
@@ -27,10 +25,8 @@
     "org.gnome.Tali",
     "org.gnome.Totem",
     "org.gnome.baobab",
-    "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.gedit",
-    "org.gnome.seahorse.Application",
-    "org.pulseaudio.pavucontrol"
+    "org.gnome.seahorse.Application"
 ]

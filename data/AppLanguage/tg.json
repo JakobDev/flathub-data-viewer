@@ -1,9 +1,6 @@
 [
     "net.poedit.Poedit",
     "org.gnome.Boxes",
-    "org.gnome.Calculator",
-    "org.gnome.Calendar",
-    "org.gnome.Characters",
     "org.gnome.Cheese",
     "org.gnome.ColorViewer",
     "org.gnome.Devhelp",
@@ -20,7 +17,6 @@
     "org.gnome.Totem",
     "org.gnome.Weather",
     "org.gnome.baobab",
-    "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.five-or-more"
 ]

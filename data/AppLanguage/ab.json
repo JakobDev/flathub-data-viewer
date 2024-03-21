@@ -1,8 +1,5 @@
 [
     "ca.desrt.dconf-editor",
-    "org.gnome.Calculator",
-    "org.gnome.Calendar",
-    "org.gnome.Characters",
     "org.gnome.Cheese",
     "org.gnome.Hitori",
     "org.gnome.NautilusPreviewer",
@@ -11,6 +8,5 @@
     "org.gnome.Sudoku",
     "org.gnome.SwellFoop",
     "org.gnome.Weather",
-    "org.gnome.clocks",
     "org.gnome.eog"
 ]

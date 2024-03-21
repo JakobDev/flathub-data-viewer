@@ -7,12 +7,10 @@
     "org.gimp.GIMP",
     "org.gnome.Aisleriot",
     "org.gnome.Boxes",
-    "org.gnome.Calculator",
     "org.gnome.Cheese",
     "org.gnome.ColorViewer",
     "org.gnome.Devhelp",
     "org.gnome.EasyTAG",
-    "org.gnome.Epiphany",
     "org.gnome.Evince",
     "org.gnome.Evolution",
     "org.gnome.FileRoller",
@@ -40,7 +38,6 @@
     "org.gnome.Totem",
     "org.gnome.Weather",
     "org.gnome.baobab",
-    "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.frogr",
@@ -53,7 +50,6 @@
     "org.laptop.TurtleArtActivity",
     "org.learningequality.Kolibri",
     "org.pitivi.Pitivi",
-    "org.pulseaudio.pavucontrol",
     "org.sugarlabs.Maze",
     "org.sugarlabs.Paint"
 ]

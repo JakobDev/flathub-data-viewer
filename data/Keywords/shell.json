@@ -1,4 +1,5 @@
 [
+    "com.mattjakeman.ExtensionManager",
     "com.raggesilver.BlackBox",
     "org.contourterminal.Contour",
     "org.kde.konsole",

@@ -7,6 +7,5 @@
     "io.github.NhekoReborn.Nheko",
     "net.jami.Jami",
     "org.gnome.Fractal",
-    "so.libdb.dissent",
-    "so.libdb.gtkcord4"
+    "so.libdb.dissent"
 ]

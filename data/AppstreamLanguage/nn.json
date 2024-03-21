@@ -157,6 +157,7 @@
     "org.kde.tellico",
     "org.kde.vvave",
     "org.kde.yakuake",
+    "org.pulseaudio.pavucontrol",
     "org.tug.texworks",
     "org.tuxpaint.Tuxpaint",
     "org.xfce.mousepad"

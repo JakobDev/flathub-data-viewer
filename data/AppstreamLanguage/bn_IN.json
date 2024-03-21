@@ -28,5 +28,6 @@
     "org.gnome.five-or-more",
     "org.gnome.font-viewer",
     "org.gnome.seahorse.Application",
+    "org.pulseaudio.pavucontrol",
     "org.virt_manager.virt-viewer"
 ]

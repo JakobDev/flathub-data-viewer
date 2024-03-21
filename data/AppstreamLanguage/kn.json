@@ -41,6 +41,7 @@
     "org.gnucash.GnuCash",
     "org.inkscape.Inkscape",
     "org.moneymanagerex.MMEX",
+    "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint",
     "org.virt_manager.virt-viewer",
     "org.x.Warpinator"

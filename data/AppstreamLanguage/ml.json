@@ -58,6 +58,7 @@
     "org.kde.kfind",
     "org.kde.konsole",
     "org.kde.kwrite",
+    "org.pulseaudio.pavucontrol",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
     "org.virt_manager.virt-viewer"

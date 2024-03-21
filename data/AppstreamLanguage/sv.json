@@ -1,5 +1,6 @@
 [
     "app.drey.EarTag",
+    "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ar.xjuan.Cambalache",
@@ -354,6 +355,7 @@
     "org.nickvision.tubeconverter",
     "org.opencpn.OpenCPN",
     "org.pitivi.Pitivi",
+    "org.pulseaudio.pavucontrol",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
     "org.upnproutercontrol.UPnPRouterControl",

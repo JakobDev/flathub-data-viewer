@@ -109,6 +109,7 @@
     "org.kde.tokodon",
     "org.kde.vvave",
     "org.kde.yakuake",
+    "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint",
     "org.virt_manager.virt-viewer"
 ]

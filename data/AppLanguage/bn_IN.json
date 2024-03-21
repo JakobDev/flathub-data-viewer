@@ -1,11 +1,9 @@
 [
     "org.gnome.Aisleriot",
     "org.gnome.Boxes",
-    "org.gnome.Calculator",
     "org.gnome.Cheese",
     "org.gnome.ColorViewer",
     "org.gnome.Devhelp",
-    "org.gnome.Epiphany",
     "org.gnome.Evince",
     "org.gnome.Evolution",
     "org.gnome.FileRoller",
@@ -27,11 +25,9 @@
     "org.gnome.Totem",
     "org.gnome.Weather",
     "org.gnome.baobab",
-    "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
-    "org.pulseaudio.pavucontrol",
     "org.sugarlabs.Paint"
 ]

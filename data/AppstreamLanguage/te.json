@@ -53,6 +53,7 @@
     "org.gottcode.Simsu",
     "org.inkscape.Inkscape",
     "org.pitivi.Pitivi",
+    "org.pulseaudio.pavucontrol",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
     "org.virt_manager.virt-viewer",

@@ -1,6 +1,7 @@
 [
     "org.gimp.GIMP",
     "org.gnome.Calculator",
+    "org.gnome.Calendar",
     "org.gnome.Evince",
     "org.gnome.FileRoller",
     "org.gnome.Totem",

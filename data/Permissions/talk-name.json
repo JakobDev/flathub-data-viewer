@@ -141,7 +141,6 @@
         "org.videolan.VLC",
         "ru.yandex.Browser",
         "so.libdb.dissent",
-        "so.libdb.gtkcord4",
         "social.whalebird.WhalebirdDesktop",
         "uk.et1.big-finish-downloader"
     ],
@@ -1310,6 +1309,7 @@
         "org.wfview.wfview",
         "org.zealdocs.Zeal",
         "page.codeberg.JakobDev.jdMinecraftLauncher",
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
         "se.sjoerd.GIScan",
@@ -1766,6 +1766,7 @@
         "org.wfview.wfview",
         "org.zealdocs.Zeal",
         "page.codeberg.JakobDev.jdMinecraftLauncher",
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
         "se.sjoerd.GIScan",
@@ -1991,7 +1992,6 @@
         "sh.cider.Cider",
         "si.tano.Vremenar",
         "so.libdb.dissent",
-        "so.libdb.gtkcord4",
         "social.whalebird.WhalebirdDesktop",
         "tech.feliciano.pocket-casts",
         "xyz.armcord.ArmCord",
@@ -2291,7 +2291,6 @@
         "sh.cider.Cider",
         "si.tano.Vremenar",
         "so.libdb.dissent",
-        "so.libdb.gtkcord4",
         "so.onekey.Wallet",
         "social.whalebird.WhalebirdDesktop",
         "tw.ddnet.ddnet",
@@ -2382,8 +2381,7 @@
         "org.remmina.Remmina",
         "org.videolan.VLC",
         "ru.yandex.Browser",
-        "so.libdb.dissent",
-        "so.libdb.gtkcord4"
+        "so.libdb.dissent"
     ],
     "com.canonical.dbusmenu": [
         "app.moosync.moosync",

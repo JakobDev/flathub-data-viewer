@@ -7,6 +7,7 @@
     "com.github.unrud.djpdf",
     "com.github.wwmm.easyeffects",
     "com.usebottles.bottles",
+    "dev.geopjr.Tuba",
     "fr.masson_informatique.WhosWho",
     "fr.romainvigier.MetadataCleaner",
     "hu.kramo.Cartridges",
@@ -30,6 +31,7 @@
     "org.gottcode.Tetzle",
     "org.gtkhash.gtkhash",
     "org.parlatype.Parlatype",
+    "org.pulseaudio.pavucontrol",
     "org.zrythm.Zrythm",
     "re.sonny.Junction",
     "re.sonny.Tangram"

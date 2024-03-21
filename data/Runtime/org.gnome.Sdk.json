@@ -9,7 +9,9 @@
     "45": [
         "io.github.dida_code.OpstaKultura",
         "org.gnome.Builder",
-        "org.gnome.Devhelp",
+        "org.gnome.Devhelp"
+    ],
+    "46": [
         "re.sonny.Workbench"
     ]
 }

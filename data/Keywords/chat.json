@@ -26,6 +26,5 @@
     "org.nicotine_plus.Nicotine",
     "org.telegram",
     "sm.puri.Chatty",
-    "so.libdb.dissent",
-    "so.libdb.gtkcord4"
+    "so.libdb.dissent"
 ]

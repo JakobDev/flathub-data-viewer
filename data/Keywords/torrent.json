@@ -1,5 +1,6 @@
 [
     "de.haeckerfelix.Fragments",
+    "io.github.giantpinkrobots.varia",
     "org.deluge_torrent.deluge",
     "org.qbittorrent.qBittorrent"
 ]

@@ -1,6 +1,4 @@
 [
-    "org.gnome.Calculator",
-    "org.gnome.Calendar",
     "org.gnome.Cheese",
     "org.gnome.Evince",
     "org.gnome.NautilusPreviewer",
@@ -10,6 +8,5 @@
     "org.gnome.Totem",
     "org.gnome.Weather",
     "org.gnome.baobab",
-    "org.gnome.clocks",
     "org.gnome.eog"
 ]

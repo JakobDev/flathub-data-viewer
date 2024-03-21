@@ -1,9 +1,6 @@
 [
     "net.supertuxkart.SuperTuxKart",
     "org.gimp.GIMP",
-    "org.gnome.Calculator",
-    "org.gnome.Calendar",
-    "org.gnome.Characters",
     "org.gnome.ColorViewer",
     "org.gnome.DejaDup",
     "org.gnome.Evince",
@@ -15,7 +12,6 @@
     "org.gnome.Totem",
     "org.gnome.Weather",
     "org.gnome.baobab",
-    "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.gedit",
     "org.megaglest.MegaGlest",

@@ -1,6 +1,5 @@
 [
     "com.belmoussaoui.Authenticator",
-    "com.mattjakeman.ExtensionManager",
     "com.transmissionbt.Transmission",
     "com.tux4kids.tuxtype",
     "fr.romainvigier.MetadataCleaner",
@@ -8,10 +7,8 @@
     "net.supertuxkart.SuperTuxKart",
     "org.gimp.GIMP",
     "org.gnome.Aisleriot",
-    "org.gnome.Calculator",
     "org.gnome.Cheese",
     "org.gnome.Devhelp",
-    "org.gnome.Epiphany",
     "org.gnome.Evince",
     "org.gnome.Evolution",
     "org.gnome.FileRoller",
@@ -38,6 +35,5 @@
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
     "org.gramps_project.Gramps",
-    "org.pulseaudio.pavucontrol",
     "org.widelands.Widelands"
 ]

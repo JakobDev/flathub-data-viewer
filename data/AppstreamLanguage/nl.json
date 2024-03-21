@@ -444,6 +444,7 @@
     "org.nicotine_plus.Nicotine",
     "org.octave.Octave",
     "org.pitivi.Pitivi",
+    "org.pulseaudio.pavucontrol",
     "org.qelectrotech.QElectroTech",
     "org.scummvm.ScummVM",
     "org.stellarium.Stellarium",

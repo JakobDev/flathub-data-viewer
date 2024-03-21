@@ -123,6 +123,7 @@
     "org.moneymanagerex.MMEX",
     "org.musicbrainz.Picard",
     "org.pitivi.Pitivi",
+    "org.pulseaudio.pavucontrol",
     "org.squeakland.Etoys",
     "org.tuxpaint.Tuxpaint",
     "org.virt_manager.virt-viewer",

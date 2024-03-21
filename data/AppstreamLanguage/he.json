@@ -1,5 +1,6 @@
 [
     "app.drey.EarTag",
+    "app.drey.Elastic",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.adrienplazas.Metronome",
@@ -162,6 +163,7 @@
     "org.nickvision.tubeconverter",
     "org.parlatype.Parlatype",
     "org.pitivi.Pitivi",
+    "org.pulseaudio.pavucontrol",
     "org.scummvm.ScummVM",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",

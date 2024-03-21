@@ -2316,8 +2316,7 @@
         "org.gnome.Builder",
         "org.gnome.gitg",
         "org.tabos.roger",
-        "so.libdb.dissent",
-        "so.libdb.gtkcord4"
+        "so.libdb.dissent"
     ],
     "xdg-pictures": [
         "chat.quadrix.Quadrix",
@@ -2747,6 +2746,7 @@
         "org.libvips.vipsdisp",
         "org.moneymanagerex.MMEX",
         "org.nicotine_plus.Nicotine",
+        "org.sabnzbd.sabnzbd",
         "org.strawberrymusicplayer.strawberry",
         "tv.kodi.Kodi",
         "xyz.hyperplay.HyperPlay"
