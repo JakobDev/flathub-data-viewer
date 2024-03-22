@@ -1,6 +1,5 @@
 [
     "app.drey.Warp",
-    "com.belmoussaoui.Decoder",
     "de.haeckerfelix.Fragments",
     "im.dino.Dino",
     "io.github.celluloid_player.Celluloid",
@@ -23,7 +22,6 @@
     "org.gnome.SoundJuicer",
     "org.gnome.TextEditor",
     "org.gnome.Totem",
-    "org.gnome.World.Secrets",
     "org.gnome.baobab",
     "org.gnome.eog",
     "org.gnome.font-viewer",

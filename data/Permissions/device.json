@@ -2043,6 +2043,7 @@
         "org.gnome.SoundJuicer",
         "org.gnome.Totem",
         "org.gnome.World.PikaBackup",
+        "org.gnome.World.Secrets",
         "org.gnome.moserial",
         "org.gnuhealth.mygnuhealth",
         "org.godotengine.Godot",

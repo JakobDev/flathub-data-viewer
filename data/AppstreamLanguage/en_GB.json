@@ -1,5 +1,6 @@
 [
     "app.drey.Elastic",
+    "com.belmoussaoui.Decoder",
     "com.feaneron.Boatswain",
     "com.github.cassidyjames.clairvoyant",
     "com.github.cassidyjames.dippi",
@@ -38,6 +39,7 @@
     "org.gnome.World.Citations",
     "org.gnome.World.Iotas",
     "org.gnome.World.PikaBackup",
+    "org.gnome.World.Secrets",
     "org.gnome.baobab",
     "org.gnome.clocks",
     "org.gnome.design.Contrast",
