@@ -1,7 +1,5 @@
 [
     "io.github.Hexchat",
-    "org.gnome.Evince",
-    "org.gnome.Gtranslator",
     "org.gnome.atomix",
     "org.gnome.eog",
     "org.gnome.gedit"

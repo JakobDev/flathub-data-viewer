@@ -10,8 +10,5 @@
     "org.gnome.PowerStats",
     "org.gnome.SoundRecorder",
     "org.gnome.TwentyFortyEight",
-    "org.gnome.Weather",
-    "org.gnome.baobab",
-    "org.gnome.eog",
-    "org.gnome.font-viewer"
+    "org.gnome.eog"
 ]

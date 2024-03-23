@@ -12,6 +12,7 @@
     "io.github.sigmasd.IRust",
     "nl.openoffice.bluefish",
     "org.contourterminal.Contour",
+    "org.gnome.dspy",
     "org.mapeditor.Tiled",
     "org.robocode.Robocode"
 ]

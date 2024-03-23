@@ -1,7 +1,6 @@
 [
     "org.gnome.Aisleriot",
     "org.gnome.Devhelp",
-    "org.gnome.Evince",
     "org.gnome.FileRoller",
     "org.gnome.Four-in-a-row",
     "org.gnome.Klotski",
@@ -15,7 +14,6 @@
     "org.gnome.SwellFoop",
     "org.gnome.Tali",
     "org.gnome.Totem",
-    "org.gnome.baobab",
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.gedit",

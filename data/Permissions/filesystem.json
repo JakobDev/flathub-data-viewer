@@ -2450,7 +2450,6 @@
         "org.gnome.frogr",
         "org.kde.kamoso",
         "org.qutebrowser.qutebrowser",
-        "org.sigxcpu.Livi",
         "org.winehq.Wine",
         "org.zotero.Zotero",
         "tv.kodi.Kodi",
@@ -2501,6 +2500,7 @@
         "io.kapsa.drive",
         "net.baseart.Glide",
         "org.gnunet.Messenger",
+        "org.sigxcpu.Livi",
         "sh.ppy.osu",
         "xyz.armcord.ArmCord"
     ],
@@ -2729,7 +2729,8 @@
         "net.baseart.Glide",
         "org.opensurge2d.OpenSurge",
         "org.polymc.PolyMC",
-        "org.prismlauncher.PrismLauncher"
+        "org.prismlauncher.PrismLauncher",
+        "org.sigxcpu.Livi"
     ],
     "/mnt": [
         "com.axosoft.GitKraken",

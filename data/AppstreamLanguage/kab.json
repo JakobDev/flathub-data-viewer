@@ -7,6 +7,7 @@
     "org.gnome.Extensions",
     "org.gnome.Logs",
     "org.gnome.Totem",
+    "org.gnome.baobab",
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator"
 ]

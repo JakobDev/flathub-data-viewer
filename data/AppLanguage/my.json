@@ -1,6 +1,5 @@
 [
     "org.gimp.GIMP",
-    "org.gnome.Evince",
     "org.gnome.FileRoller",
     "org.gnome.Totem",
     "org.gnome.eog",

@@ -1,5 +1,4 @@
 [
-    "app.drey.MultiplicationPuzzle",
     "ca.desrt.dconf-editor",
     "com.github.PintaProject.Pinta",
     "fr.handbrake.ghb",
@@ -10,7 +9,6 @@
     "org.gnome.Boxes",
     "org.gnome.Cheese",
     "org.gnome.DejaDup",
-    "org.gnome.Evince",
     "org.gnome.Evolution",
     "org.gnome.FileRoller",
     "org.gnome.Four-in-a-row",
@@ -29,9 +27,7 @@
     "org.gnome.SwellFoop",
     "org.gnome.Tali",
     "org.gnome.Totem",
-    "org.gnome.Weather",
     "org.gnome.atomix",
-    "org.gnome.baobab",
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.gbrainy",

@@ -1,8 +1,6 @@
 [
-    "org.gnome.Evince",
     "org.gnome.FileRoller",
     "org.gnome.Totem",
-    "org.gnome.baobab",
     "org.gnome.eog",
     "org.gnome.gedit",
     "org.sugarlabs.AbacusActivity",
