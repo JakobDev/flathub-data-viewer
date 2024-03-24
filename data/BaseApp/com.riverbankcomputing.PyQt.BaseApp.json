@@ -50,6 +50,7 @@
         "org.pairinteraction.Pairinteraction",
         "org.pymol.PyMOL",
         "org.qgis.qgis",
+        "org.spyder_ide.spyder",
         "org.torproject.torbrowser-launcher"
     ],
     "6.4": [

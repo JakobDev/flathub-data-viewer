@@ -8,7 +8,8 @@
     ],
     "3.5-23.08": [
         "com.orama_interactive.Pixelorama",
-        "org.simondalvai.ball2box"
+        "org.simondalvai.ball2box",
+        "org.simondalvai.pocket-broomball"
     ],
     "3.4-23.08": [
         "page.codeberg.papojari.Find_Billy"

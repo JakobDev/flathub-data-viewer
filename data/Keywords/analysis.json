@@ -1,6 +1,5 @@
 [
     "io.trustable.stpadocumentationtool",
     "net.gwyddion.Gwyddion",
-    "org.gnu.pspp",
     "org.jamovi.jamovi"
 ]

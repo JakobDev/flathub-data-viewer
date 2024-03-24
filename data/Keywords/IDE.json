@@ -1,5 +1,7 @@
 [
     "com.inform7.IDE",
     "io.dbeaver.DBeaverCommunity",
-    "org.pyzo.pyzo"
+    "nl.openoffice.bluefish",
+    "org.pyzo.pyzo",
+    "org.spyder_ide.spyder"
 ]

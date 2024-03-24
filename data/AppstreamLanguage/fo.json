@@ -2,6 +2,7 @@
     "com.gitlab.davem.ClamTk",
     "com.transmissionbt.Transmission",
     "org.gnome.Calculator",
+    "org.gnome.Logs",
     "org.gnome.baobab",
     "org.tug.texworks",
     "org.tuxpaint.Tuxpaint"

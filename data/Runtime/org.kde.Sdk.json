@@ -15,7 +15,8 @@
         "io.github.dman95.SASM",
         "io.github.veusz.Veusz",
         "org.kde.kdevelop",
-        "org.octave.Octave"
+        "org.octave.Octave",
+        "org.spyder_ide.spyder"
     ],
     "5.15-22.08": [
         "org.paraview.ParaView"

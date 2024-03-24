@@ -89,6 +89,7 @@
     "org.gnome.Epiphany",
     "org.gnome.Evince",
     "org.gnome.Fractal",
+    "org.gnome.Logs",
     "org.gnome.Maps",
     "org.gnome.Snapshot",
     "org.gnome.TextEditor",

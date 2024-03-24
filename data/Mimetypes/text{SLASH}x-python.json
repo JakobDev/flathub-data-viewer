@@ -6,5 +6,6 @@
     "org.geany.Geany",
     "org.gnome.Builder",
     "org.pyzo.pyzo",
+    "org.spyder_ide.spyder",
     "org.thonny.Thonny"
 ]

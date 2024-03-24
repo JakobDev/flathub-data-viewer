@@ -1731,6 +1731,8 @@
         "x-scheme-handler{SLASH}kbattleship",
         "x-scheme-handler{SLASH}km",
         "x-scheme-handler{SLASH}kolibri",
+        "x-scheme-handler{SLASH}ldap",
+        "x-scheme-handler{SLASH}ldaps",
         "x-scheme-handler{SLASH}lens",
         "x-scheme-handler{SLASH}lightning",
         "x-scheme-handler{SLASH}logseq",

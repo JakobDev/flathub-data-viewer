@@ -442,6 +442,7 @@
         "org.scummvm.ScummVM",
         "org.shadered.SHADERed",
         "org.sparkleshare.SparkleShare",
+        "org.spyder_ide.spyder",
         "org.sqlitebrowser.sqlitebrowser",
         "org.stellarium.Stellarium",
         "org.sugarlabs.MusicBlocks",
@@ -1029,7 +1030,6 @@
         "org.eyecreate.qiflora",
         "org.eyecreate.vehiclevoyage",
         "org.fcitx.Fcitx5",
-        "org.featherwallet.Feather",
         "org.fedoraproject.MediaWriter",
         "org.filmulator.Filmulator",
         "org.fkoehler.KTailctl",
@@ -1111,6 +1111,7 @@
         "org.kde.kcolorchooser",
         "org.kde.kdenlive",
         "org.kde.kdevelop",
+        "org.kde.kdf",
         "org.kde.kdiamond",
         "org.kde.kdiff3",
         "org.kde.keysmith",
@@ -1272,6 +1273,7 @@
         "org.shotcut.Shotcut",
         "org.solarus_games.solarus.Launcher",
         "org.speedcrunch.SpeedCrunch",
+        "org.spyder_ide.spyder",
         "org.sqlitebrowser.sqlitebrowser",
         "org.stellarium.Stellarium",
         "org.strawberrymusicplayer.strawberry",
@@ -1730,6 +1732,7 @@
         "nl.openoffice.bluefish",
         "org.apache.netbeans",
         "org.audacityteam.Audacity",
+        "org.avidemux.Avidemux",
         "org.beeref.BeeRef",
         "org.bionus.Grabber",
         "org.blender.Blender",
@@ -1908,6 +1911,7 @@
         "org.kde.digikam",
         "org.kde.dolphin",
         "org.kde.kaffeine",
+        "org.kde.kdf",
         "org.mavlink.qgroundcontrol",
         "org.mixxx.Mixxx",
         "org.moneymanagerex.MMEX",
@@ -1984,6 +1988,7 @@
         "org.kde.digikam",
         "org.kde.dolphin",
         "org.kde.kaffeine",
+        "org.kde.kdf",
         "org.mixxx.Mixxx",
         "org.moneymanagerex.MMEX",
         "org.nicotine_plus.Nicotine",
@@ -4031,10 +4036,6 @@
     "xdg-config/fcitx:create": [
         "org.fcitx.Fcitx5"
     ],
-    "~/Monero:create": [
-        "org.featherwallet.Feather",
-        "org.getmonero.Monero"
-    ],
     "~/.firestorm_x64:create": [
         "org.firestormviewer.FirestormViewer"
     ],
@@ -4068,6 +4069,9 @@
     ],
     "xdg-run/geany:create": [
         "org.geany.Geany"
+    ],
+    "~/Monero:create": [
+        "org.getmonero.Monero"
     ],
     "xdg-config/GIMP": [
         "org.gimp.GIMP"

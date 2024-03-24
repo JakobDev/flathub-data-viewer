@@ -1,5 +1,6 @@
 [
     "org.qelectrotech.QElectroTech",
     "org.scilab.Scilab",
+    "org.spyder_ide.spyder",
     "se.sjoerd.Graphs"
 ]

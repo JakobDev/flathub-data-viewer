@@ -3,5 +3,6 @@
     "net.jami.Jami",
     "org.rncbc.qpwgraph",
     "org.rncbc.qsynth",
-    "org.rncbc.qtractor"
+    "org.rncbc.qtractor",
+    "org.spyder_ide.spyder"
 ]
