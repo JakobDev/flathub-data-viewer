@@ -81,6 +81,7 @@
     "org.bionus.Grabber",
     "org.emptyflow.ArdorQuery",
     "org.expresslrs.ExpressLRSConfigurator",
+    "org.gnome.Builder",
     "org.gnome.Calendar",
     "org.gnome.Characters",
     "org.gnome.Connections",

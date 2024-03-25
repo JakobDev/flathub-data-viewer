@@ -1,6 +1,5 @@
 [
     "app.drey.Dialect",
-    "com.belmoussaoui.Obfuscate",
     "com.endlessm.photos",
     "com.github.johnfactotum.Foliate",
     "com.github.tenderowl.frog",
@@ -11,7 +10,6 @@
     "io.github.Hexchat",
     "io.github.manisandro.gImageReader",
     "io.github.nate_xyz.Paleta",
-    "io.github.seadve.Mousai",
     "io.gitlab.idevecore.Pomodoro",
     "org.gnome.Aisleriot",
     "org.gnome.Boxes",

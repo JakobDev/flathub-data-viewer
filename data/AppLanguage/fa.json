@@ -1,6 +1,5 @@
 [
     "app.drey.Dialect",
-    "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.github.PintaProject.Pinta",
@@ -17,7 +16,6 @@
     "io.bassi.Amberol",
     "io.github.celluloid_player.Celluloid",
     "io.github.mrvladus.List",
-    "io.github.seadve.Mousai",
     "net.poedit.Poedit",
     "net.supertuxkart.SuperTuxKart",
     "org.aegisub.Aegisub",

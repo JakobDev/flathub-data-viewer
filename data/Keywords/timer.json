@@ -4,6 +4,7 @@
     "com.toggl.TogglDesktop",
     "io.github.fsobolev.TimeSwitch",
     "io.gitlab.idevecore.Pomodoro",
+    "org.gnome.BreakTimer",
     "org.gnome.clocks",
     "org.kde.francis",
     "org.kde.kclock"

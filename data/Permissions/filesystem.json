@@ -4076,9 +4076,6 @@
     "xdg-config/GIMP": [
         "org.gimp.GIMP"
     ],
-    "xdg-data/meson": [
-        "org.gnome.Builder"
-    ],
     "/var/lib/flatpak": [
         "org.gnome.Builder"
     ],

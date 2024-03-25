@@ -1,5 +1,6 @@
 [
     "im.pidgin.Pidgin",
+    "org.gajim.Gajim",
     "org.gnome.Calculator",
     "org.gnome.Cheese",
     "org.gnome.Epiphany",

@@ -1,5 +1,6 @@
 [
     "app.drey.MultiplicationPuzzle",
+    "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.calibre_ebook.calibre",
@@ -44,6 +45,7 @@
     "org.darktable.Darktable",
     "org.fcitx.Fcitx5",
     "org.fontforge.FontForge",
+    "org.gajim.Gajim",
     "org.gimp.GIMP",
     "org.gnome.Aisleriot",
     "org.gnome.Boxes",

@@ -1,6 +1,7 @@
 [
     "com.transmissionbt.Transmission",
     "io.github.TransmissionRemoteGtk",
+    "io.github.seadve.Breathing",
     "io.github.seadve.Kooha",
     "io.github.seadve.Mousai",
     "net.sourceforge.Lifeograph",

@@ -1,8 +1,10 @@
 [
+    "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "ch.openboard.OpenBoard",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
+    "com.belmoussaoui.Obfuscate",
     "com.github.gijsgoudzwaard.image-optimizer",
     "com.github.muriloventuroso.easyssh",
     "com.github.muriloventuroso.givemelyrics",

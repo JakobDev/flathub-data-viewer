@@ -2,6 +2,7 @@
     "ca.desrt.dconf-editor",
     "com.github.muriloventuroso.easyssh",
     "org.gnome.Boxes",
+    "org.gnome.Builder",
     "org.gnome.Characters",
     "org.gnome.Chess",
     "org.gnome.Evolution",
