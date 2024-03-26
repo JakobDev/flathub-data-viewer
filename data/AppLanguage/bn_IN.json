@@ -1,10 +1,8 @@
 [
     "org.gnome.Aisleriot",
-    "org.gnome.Boxes",
     "org.gnome.Cheese",
     "org.gnome.ColorViewer",
     "org.gnome.Devhelp",
-    "org.gnome.FileRoller",
     "org.gnome.Four-in-a-row",
     "org.gnome.Hamster",
     "org.gnome.Klotski",

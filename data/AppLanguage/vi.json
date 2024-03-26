@@ -18,12 +18,10 @@
     "org.fritzing.Fritzing",
     "org.gimp.GIMP",
     "org.gnome.Aisleriot",
-    "org.gnome.Boxes",
     "org.gnome.Cheese",
     "org.gnome.ColorViewer",
     "org.gnome.DejaDup",
     "org.gnome.Devhelp",
-    "org.gnome.FileRoller",
     "org.gnome.Four-in-a-row",
     "org.gnome.Glade",
     "org.gnome.Hamster",
@@ -34,7 +32,6 @@
     "org.gnome.Mines",
     "org.gnome.NautilusPreviewer",
     "org.gnome.Nibbles",
-    "org.gnome.Photos",
     "org.gnome.Polari",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
@@ -75,6 +72,5 @@
     "org.sugarlabs.Physics",
     "org.sugarlabs.ReadETexts",
     "org.sugarlabs.Speak",
-    "org.sugarlabs.Words",
-    "vn.hoabinh.quan.CoBang"
+    "org.sugarlabs.Words"
 ]

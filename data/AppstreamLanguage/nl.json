@@ -449,6 +449,7 @@
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
     "org.qelectrotech.QElectroTech",
+    "org.qgis.qgis",
     "org.scummvm.ScummVM",
     "org.stellarium.Stellarium",
     "org.tug.texworks",
@@ -474,6 +475,7 @@
     "re.sonny.Tangram",
     "ro.hume.cosmin.ShoppingList",
     "sm.puri.Chatty",
+    "vn.hoabinh.quan.CoBang",
     "xyz.ketok.Speedtest",
     "xyz.slothlife.Jogger",
     "xyz.tytanium.DoorKnocker"

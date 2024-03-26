@@ -1,7 +1,6 @@
 [
     "app.drey.Dialect",
     "fr.romainvigier.MetadataCleaner",
-    "org.gnome.FileRoller",
     "org.gnucash.GnuCash",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Words"

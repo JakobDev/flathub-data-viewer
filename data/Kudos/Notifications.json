@@ -55,7 +55,6 @@
     "org.bleachbit.BleachBit",
     "org.deluge_torrent.deluge",
     "org.gnome.DejaDup",
-    "org.gnome.FileRoller",
     "org.gnome.Fractal",
     "org.gnome.Geary",
     "org.gnome.Polari",
@@ -70,6 +69,5 @@
     "org.v1993.NXDumpClient",
     "org.wesnoth.Wesnoth",
     "re.sonny.Tangram",
-    "ru.proninyaroslav.libretrack",
-    "vn.hoabinh.quan.CoBang"
+    "ru.proninyaroslav.libretrack"
 ]

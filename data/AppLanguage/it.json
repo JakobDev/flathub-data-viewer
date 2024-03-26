@@ -9,7 +9,6 @@
     "com.felipekinoshita.Wildcard",
     "com.github.ADBeveridge.Raider",
     "com.github.PintaProject.Pinta",
-    "com.github.alexkdeveloper.recorder",
     "com.github.artemanufrij.playmymusic",
     "com.github.bajoja.indicator-kdeconnect",
     "com.github.birros.WebArchives",
@@ -111,14 +110,12 @@
     "org.gimp.GIMP",
     "org.gmusicbrowser.gmusicbrowser",
     "org.gnome.Aisleriot",
-    "org.gnome.Boxes",
     "org.gnome.Cheese",
     "org.gnome.ColorViewer",
     "org.gnome.DejaDup",
     "org.gnome.Devhelp",
     "org.gnome.EasyTAG",
     "org.gnome.Eolie",
-    "org.gnome.FileRoller",
     "org.gnome.Four-in-a-row",
     "org.gnome.Fractal",
     "org.gnome.Geary",
@@ -133,7 +130,6 @@
     "org.gnome.NautilusPreviewer",
     "org.gnome.Nibbles",
     "org.gnome.OCRFeeder",
-    "org.gnome.Photos",
     "org.gnome.Polari",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
@@ -206,6 +202,5 @@
     "org.x.Warpinator",
     "org.zim_wiki.Zim",
     "re.sonny.Commit",
-    "re.sonny.Junction",
-    "vn.hoabinh.quan.CoBang"
+    "re.sonny.Junction"
 ]

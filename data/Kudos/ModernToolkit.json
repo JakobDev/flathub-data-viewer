@@ -95,10 +95,8 @@
     "org.freedesktop.Tuhi",
     "org.gahshomar.Gahshomar",
     "org.gnome.Aisleriot",
-    "org.gnome.Boxes",
     "org.gnome.DejaDup",
     "org.gnome.EasyTAG",
-    "org.gnome.FileRoller",
     "org.gnome.Four-in-a-row",
     "org.gnome.GTG",
     "org.gnome.Geary",
@@ -112,7 +110,6 @@
     "org.gnome.Mines",
     "org.gnome.Nibbles",
     "org.gnome.Notes",
-    "org.gnome.Photos",
     "org.gnome.Polari",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
@@ -168,6 +165,5 @@
     "re.sonny.OhMySVG",
     "re.sonny.Playhouse",
     "re.sonny.Retro",
-    "re.sonny.Tangram",
-    "vn.hoabinh.quan.CoBang"
+    "re.sonny.Tangram"
 ]

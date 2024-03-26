@@ -8,8 +8,12 @@
     ],
     "3.5-23.08": [
         "com.orama_interactive.Pixelorama",
+        "org.dupot.littleadventure",
         "org.simondalvai.ball2box",
         "org.simondalvai.pocket-broomball"
+    ],
+    "3.1-23.08": [
+        "io.itch.keyikedalube_ndang.Type-Off"
     ],
     "3.4-23.08": [
         "page.codeberg.papojari.Find_Billy"

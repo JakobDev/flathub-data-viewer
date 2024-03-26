@@ -444,6 +444,7 @@
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
     "org.qelectrotech.QElectroTech",
+    "org.qgis.qgis",
     "org.remmina.Remmina",
     "org.scummvm.ScummVM",
     "org.speedcrunch.SpeedCrunch",
@@ -463,6 +464,7 @@
     "re.sonny.Tangram",
     "sm.puri.Chatty",
     "ua.org.brezblock.q4wine",
+    "vn.hoabinh.quan.CoBang",
     "xyz.ketok.Speedtest",
     "xyz.slothlife.Jogger",
     "xyz.tytanium.DoorKnocker"
