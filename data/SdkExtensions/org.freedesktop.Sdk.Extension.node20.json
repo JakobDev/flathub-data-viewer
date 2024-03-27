@@ -1,6 +1,7 @@
 [
     "com.mongodb.Compass",
     "dev.lizardbyte.app.Sunshine",
+    "in.cinny.Cinny",
     "info.beyondallreason.bar",
     "io.github.libredirect.frontends-manager",
     "io.podman_desktop.PodmanDesktop",
