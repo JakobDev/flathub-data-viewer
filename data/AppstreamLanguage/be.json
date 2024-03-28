@@ -28,6 +28,7 @@
     "io.missioncenter.MissionCenter",
     "net.supertuxkart.SuperTuxKart",
     "org.aegisub.Aegisub",
+    "org.fedoraproject.MediaWriter",
     "org.gajim.Gajim",
     "org.gimp.GIMP",
     "org.gnome.Aisleriot",

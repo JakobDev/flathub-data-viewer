@@ -1,7 +1,6 @@
 [
     "com.github.debauchee.barrier",
     "com.transmissionbt.Transmission",
-    "dev.geopjr.Collision",
     "info.olasagasti.revelation",
     "io.github.Hexchat",
     "io.github.NhekoReborn.Nheko",
@@ -42,6 +41,7 @@
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
     "org.gottcode.Hexalate",
+    "org.musescore.MuseScore",
     "org.musicbrainz.Picard",
     "org.pitivi.Pitivi",
     "org.speedcrunch.SpeedCrunch",

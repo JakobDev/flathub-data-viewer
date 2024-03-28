@@ -1,5 +1,6 @@
 [
     "com.github.debauchee.barrier",
     "com.transmissionbt.Transmission",
-    "org.gnome.DejaDup"
+    "org.gnome.DejaDup",
+    "org.musescore.MuseScore"
 ]

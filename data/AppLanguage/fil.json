@@ -1,3 +1,4 @@
 [
-    "net.minetest.Minetest"
+    "net.minetest.Minetest",
+    "org.musescore.MuseScore"
 ]
