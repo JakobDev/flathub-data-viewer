@@ -1,4 +1,5 @@
 [
+    "io.github.eteran.edb-debugger",
     "io.qt.qdbusviewer",
     "org.freedesktop.Bustle",
     "org.radare.iaito",

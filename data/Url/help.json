@@ -461,6 +461,7 @@
     "net.meshlab.MeshLab",
     "net.minetest.Minetest",
     "net.olofson.KoboDeluxe",
+    "net.opentabletdriver.OpenTabletDriver",
     "net.pcsx2.PCSX2",
     "net.redeclipse.RedEclipse",
     "net.retrodeck.retrodeck",

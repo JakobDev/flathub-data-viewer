@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.bbsync.BlackboardSync",
     "app.bluebubbles.BlueBubbles",
     "app.drey.Blurble",
     "app.drey.Elastic",
@@ -540,6 +541,7 @@
     "org.kde.kiriki",
     "org.kde.kiten",
     "org.kde.kjumpingcube",
+    "org.kde.kleopatra",
     "org.kde.klettres",
     "org.kde.klickety",
     "org.kde.klines",

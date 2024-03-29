@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.bbsync.BlackboardSync",
     "app.bluebubbles.BlueBubbles",
     "app.cantara.Cantara",
     "app.drey.Biblioteca",
@@ -87,6 +88,7 @@
     "com.budgetwithbuckets.Buckets",
     "com.cassidyjames.butler",
     "com.cassidyjames.plausible",
+    "com.cerebralnomad.recipescribe",
     "com.chatterino.chatterino",
     "com.chez.GrafX2",
     "com.chmouel.gnomeNextMeetingApplet",
@@ -1024,6 +1026,7 @@
     "net.natesales.Aviator",
     "net.nokyan.Resources",
     "net.openra.OpenRA",
+    "net.opentabletdriver.OpenTabletDriver",
     "net.pcsx2.PCSX2",
     "net.peercoin.peercoin-qt",
     "net.poedit.Poedit",

@@ -112,6 +112,7 @@
     "net.mediaarea.MediaInfo",
     "net.minetest.Minetest",
     "net.mullvad.MullvadBrowser",
+    "net.opentabletdriver.OpenTabletDriver",
     "net.pcsx2.PCSX2",
     "net.pioneerspacesim.Pioneer",
     "net.retrodeck.retrodeck",

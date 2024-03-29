@@ -1,31 +1,6 @@
 {
-    "5.15-22.08": [
-        "app.bbsync.BlackboardSync",
-        "net.puddletag.puddletag",
-        "se.sjoerd.GIScan"
-    ],
-    "6.6": [
-        "com.borgbase.Vorta",
-        "com.rtosta.zapzap",
-        "io.github.hydrusnetwork.hydrus",
-        "io.github.yuki_iptv.yuki-iptv",
-        "me.mitya57.ReText",
-        "page.codeberg.JakobDev.jdAnimatedImageEditor",
-        "page.codeberg.JakobDev.jdAppStreamEdit",
-        "page.codeberg.JakobDev.jdDBusDebugger",
-        "page.codeberg.JakobDev.jdDesktopEntryEdit",
-        "page.codeberg.JakobDev.jdDiff",
-        "page.codeberg.JakobDev.jdEolConverter",
-        "page.codeberg.JakobDev.jdFlatpakSnapshot",
-        "page.codeberg.JakobDev.jdMinecraftLauncher",
-        "page.codeberg.JakobDev.jdMrpackInstaller",
-        "page.codeberg.JakobDev.jdNBTExplorer",
-        "page.codeberg.JakobDev.jdProcessFileWatcher",
-        "page.codeberg.JakobDev.jdReplace",
-        "page.codeberg.JakobDev.jdSimpleAutostart",
-        "page.codeberg.JakobDev.jdTextEdit"
-    ],
     "5.15-23.08": [
+        "app.bbsync.BlackboardSync",
         "com.github.arminstraub.krop",
         "com.github.git_cola.git-cola",
         "com.sigil_ebook.Sigil",
@@ -52,6 +27,32 @@
         "org.qgis.qgis",
         "org.spyder_ide.spyder",
         "org.torproject.torbrowser-launcher"
+    ],
+    "6.6": [
+        "com.borgbase.Vorta",
+        "com.rtosta.zapzap",
+        "io.github.hydrusnetwork.hydrus",
+        "io.github.yuki_iptv.yuki-iptv",
+        "me.mitya57.ReText",
+        "org.mintguide.WebAppReader",
+        "page.codeberg.JakobDev.jdAnimatedImageEditor",
+        "page.codeberg.JakobDev.jdAppStreamEdit",
+        "page.codeberg.JakobDev.jdDBusDebugger",
+        "page.codeberg.JakobDev.jdDesktopEntryEdit",
+        "page.codeberg.JakobDev.jdDiff",
+        "page.codeberg.JakobDev.jdEolConverter",
+        "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.JakobDev.jdMinecraftLauncher",
+        "page.codeberg.JakobDev.jdMrpackInstaller",
+        "page.codeberg.JakobDev.jdNBTExplorer",
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
+        "page.codeberg.JakobDev.jdReplace",
+        "page.codeberg.JakobDev.jdSimpleAutostart",
+        "page.codeberg.JakobDev.jdTextEdit"
+    ],
+    "5.15-22.08": [
+        "net.puddletag.puddletag",
+        "se.sjoerd.GIScan"
     ],
     "6.4": [
         "org.beeref.BeeRef"

@@ -5,6 +5,7 @@
     "io.github.am2r_community_developers.AM2RLauncher",
     "io.github.openhv.OpenHV",
     "net.openra.OpenRA",
+    "net.opentabletdriver.OpenTabletDriver",
     "org.famistudio.FamiStudio",
     "org.jellyfin.JellyfinServer",
     "org.unitystation.StationHub",

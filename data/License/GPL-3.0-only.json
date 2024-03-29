@@ -71,6 +71,7 @@
     "net.launchpad.Gnuclad",
     "net.meshlab.MeshLab",
     "net.pioneerspacesim.Pioneer",
+    "network.koesling.shm-modbus",
     "one.flipperzero.qFlipper",
     "one.jiri.easydict-gtk",
     "one.jwr.interstellar",
