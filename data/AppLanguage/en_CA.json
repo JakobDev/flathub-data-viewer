@@ -42,6 +42,7 @@
     "org.gnome.meld",
     "org.gnome.seahorse.Application",
     "org.midori_browser.Midori",
+    "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands"
 ]

@@ -1310,6 +1310,8 @@
         "org.qxmledit.QXmlEdit",
         "org.radare.iaito",
         "org.raspberrypi.rpi-imager",
+        "org.rncbc.qpwgraph",
+        "org.rncbc.qtractor",
         "org.rolisteam.rolisteam",
         "org.sdrangel.SDRangel",
         "org.solarus_games.solarus.Launcher",
@@ -1783,6 +1785,8 @@
         "org.qxmledit.QXmlEdit",
         "org.radare.iaito",
         "org.raspberrypi.rpi-imager",
+        "org.rncbc.qpwgraph",
+        "org.rncbc.qtractor",
         "org.rolisteam.rolisteam",
         "org.sdrangel.SDRangel",
         "org.speedcrunch.SpeedCrunch",
@@ -3031,7 +3035,8 @@
     "org.kde.kwalletd6": [
         "com.github.Eloston.UngoogledChromium",
         "com.slack.Slack",
-        "org.kde.akregator"
+        "org.kde.akregator",
+        "org.kde.kwalletmanager5"
     ],
     "org.gtk.notifications": [
         "com.github.IsmaelMartinez.teams_for_linux",
@@ -3461,7 +3466,8 @@
         "org.kde.kontact"
     ],
     "org.kde.kded6": [
-        "org.kde.akregator"
+        "org.kde.akregator",
+        "org.kde.dolphin"
     ],
     "org.kde.jobviewserver": [
         "org.kde.akregator",
@@ -3472,6 +3478,9 @@
     "org.kde.baloo": [
         "org.kde.arianna",
         "org.kde.elisa"
+    ],
+    "org.kde.kiod6": [
+        "org.kde.dolphin"
     ],
     "org.kde.kiod5": [
         "org.kde.dolphin"

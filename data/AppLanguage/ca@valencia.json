@@ -26,7 +26,6 @@
     "org.gnome.Robots",
     "org.gnome.SoundJuicer",
     "org.gnome.SoundRecorder",
-    "org.gnome.Sudoku",
     "org.gnome.SwellFoop",
     "org.gnome.Tali",
     "org.gnome.Taquin",
@@ -39,5 +38,6 @@
     "org.gnome.glabels-3",
     "org.gnome.seahorse.Application",
     "org.musescore.MuseScore",
-    "org.pitivi.Pitivi"
+    "org.pitivi.Pitivi",
+    "org.stellarium.Stellarium"
 ]

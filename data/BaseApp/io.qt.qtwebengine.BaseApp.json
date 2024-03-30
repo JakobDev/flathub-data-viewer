@@ -9,7 +9,8 @@
         "org.jacktrip.JackTrip",
         "org.kde.akregator",
         "org.kde.falkon",
-        "org.kde.kalgebra"
+        "org.kde.kalgebra",
+        "org.kde.parley"
     ],
     "5.15-23.08": [
         "ch.theologeek.Manuskript",
@@ -35,7 +36,6 @@
         "org.kde.kphotoalbum",
         "org.kde.labplot2",
         "org.kde.marble",
-        "org.kde.parley",
         "org.kde.skrooge",
         "org.kde.tellico",
         "org.musescore.MuseScore",

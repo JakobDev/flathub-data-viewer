@@ -13,6 +13,7 @@
     "org.kde.bomber",
     "org.kde.bovo",
     "org.kde.cantor",
+    "org.kde.dolphin",
     "org.kde.elisa",
     "org.kde.falkon",
     "org.kde.filelight",
@@ -124,9 +125,11 @@
     "org.kde.ruqola",
     "org.kde.skanpage",
     "org.kde.skrooge",
+    "org.kde.tellico",
     "org.kde.telly-skout",
     "org.kde.tokodon",
     "org.kde.umbrello",
     "org.kde.vvave",
-    "org.kde.yakuake"
+    "org.kde.yakuake",
+    "org.stellarium.Stellarium"
 ]

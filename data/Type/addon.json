@@ -281,6 +281,7 @@
     "org.freedesktop.Platform.VulkanLayer.vkBasalt",
     "org.freedesktop.Sdk.Extension.dmd",
     "org.freedesktop.Sdk.Extension.freepascal",
+    "org.freedesktop.Sdk.Extension.gnat13",
     "org.freedesktop.Sdk.Extension.ldc",
     "org.freedesktop.Sdk.Extension.llvm11",
     "org.freedesktop.Sdk.Extension.llvm12",

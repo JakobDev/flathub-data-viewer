@@ -28,7 +28,6 @@
     "org.gnome.Robots",
     "org.gnome.SoundJuicer",
     "org.gnome.SoundRecorder",
-    "org.gnome.Sudoku",
     "org.gnome.SwellFoop",
     "org.gnome.Tali",
     "org.gnome.Taquin",
@@ -45,5 +44,6 @@
     "org.gramps_project.Gramps",
     "org.musescore.MuseScore",
     "org.pitivi.Pitivi",
+    "org.stellarium.Stellarium",
     "org.x.Warpinator"
 ]

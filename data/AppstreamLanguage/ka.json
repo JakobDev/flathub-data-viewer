@@ -59,7 +59,6 @@
     "org.gnome.SimpleScan",
     "org.gnome.Snapshot",
     "org.gnome.Solanum",
-    "org.gnome.Sudoku",
     "org.gnome.TextEditor",
     "org.gnome.Totem",
     "org.gnome.Weather",
@@ -220,6 +219,7 @@
     "org.kde.umbrello",
     "org.kde.vvave",
     "org.kde.yakuake",
+    "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
     "org.virt_manager.virt-viewer"
 ]
