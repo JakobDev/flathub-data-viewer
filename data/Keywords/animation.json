@@ -3,5 +3,6 @@
     "de.bforartists.Bforartists",
     "org.blender.Blender",
     "org.pencil2d.Pencil2D",
-    "org.processing.processingide"
+    "org.processing.processingide",
+    "org.upbge.UPBGE"
 ]

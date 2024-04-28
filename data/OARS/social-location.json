@@ -158,7 +158,6 @@
         "org.gabmus.whatip",
         "org.geogebra.GeoGebra",
         "org.gnome.Four-in-a-row",
-        "org.gnome.GHex",
         "org.gnome.GTG",
         "org.gnome.Geary",
         "org.gnome.Glade",
@@ -197,6 +196,7 @@
         "org.phoenicis.playonlinux",
         "org.photoqt.PhotoQt",
         "org.pitivi.Pitivi",
+        "org.previewqt.PreviewQt",
         "org.qownnotes.QOwnNotes",
         "org.quetoo.Quetoo",
         "org.sauerbraten.Sauerbraten",
@@ -217,6 +217,8 @@
         "xyz.z3ntu.razergenie"
     ],
     "intense": [
+        "cn.feishu.Feishu",
+        "com.jianguoyun.Nutstore",
         "de.breitbandmessung.Breitbandmessung",
         "edu.stanford.Almond",
         "im.kaidan.kaidan",

@@ -1,6 +1,7 @@
 [
     "com.helix_editor.Helix",
     "io.atom.Atom",
+    "io.github.nyre221.kiview",
     "io.neovim.nvim",
     "org.gnome.Builder",
     "org.gnu.emacs",

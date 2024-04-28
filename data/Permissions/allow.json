@@ -39,12 +39,14 @@
         "org.winehq.Wine",
         "pm.mirko.Atoms",
         "re.rizin.cutter",
+        "ru.linux_gaming.PortProton",
         "ua.org.brezblock.q4wine",
         "xyz.hyperplay.HyperPlay"
     ],
     "multiarch": [
         "com.adobe.Reader",
         "com.bitwig.BitwigStudio",
+        "com.brave.Browser",
         "com.carpeludum.KegaFusion",
         "com.etlegacy.ETLegacy",
         "com.fightcade.Fightcade",
@@ -77,6 +79,7 @@
         "org.libretro.RetroArch",
         "org.phoenicis.playonlinux",
         "org.winehq.Wine",
+        "ru.linux_gaming.PortProton",
         "ua.org.brezblock.q4wine",
         "xyz.hyperplay.HyperPlay"
     ],
@@ -105,6 +108,7 @@
         "org.mamedev.MAME",
         "page.codeberg.lazyt.ubpm",
         "re.chiaki.Chiaki",
+        "ru.linux_gaming.PortProton",
         "tv.kodi.Kodi"
     ],
     "per-app-dev-shm": [
@@ -112,7 +116,8 @@
         "com.usebottles.bottles",
         "com.valvesoftware.Steam",
         "io.github.NhekoReborn.Nheko",
-        "net.jami.Jami"
+        "net.jami.Jami",
+        "ru.linux_gaming.PortProton"
     ],
     "canbus": [
         "org.opencpn.OpenCPN"

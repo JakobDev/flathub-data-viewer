@@ -3,10 +3,12 @@
     "com.uploadedlobster.peek",
     "io.github.celluloid_player.Celluloid",
     "io.github.hakandundar34coding.system-monitoring-center",
+    "io.github.vikdevelop.SaveDesktop",
     "io.gitlab.Goodvibes",
     "io.otsaloma.nfoview",
     "org.aegisub.Aegisub",
     "org.gnome.Lollypop",
     "org.gramps_project.Gramps",
-    "org.qgis.qgis"
+    "org.qgis.qgis",
+    "org.videolan.VLC"
 ]

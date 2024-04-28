@@ -4,9 +4,11 @@
     "com.github.flxzt.rnote",
     "com.github.hugolabe.Wike",
     "com.mojang.Minecraft",
+    "com.rafaelmardojai.Blanket",
     "com.transmissionbt.Transmission",
     "com.usebottles.bottles",
     "de.billardgl.Billardgl",
+    "de.schmidhuberj.Flare",
     "fr.romainvigier.MetadataCleaner",
     "im.pidgin.Pidgin",
     "io.gitlab.news_flash.NewsFlash",
@@ -22,6 +24,7 @@
     "org.gnome.Klotski",
     "org.gnome.LightsOff",
     "org.gnome.Lollypop",
+    "org.gnome.Mahjongg",
     "org.gnome.Mines",
     "org.gnome.Nibbles",
     "org.gnome.PowerStats",
@@ -42,5 +45,6 @@
     "org.squeakland.Etoys",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC",
     "org.x.Warpinator"
 ]

@@ -1,5 +1,6 @@
 [
     "com.belmoussaoui.Authenticator",
+    "com.github.johnfactotum.Foliate",
     "com.mattjakeman.ExtensionManager",
     "com.transmissionbt.Transmission",
     "fr.romainvigier.MetadataCleaner",
@@ -18,6 +19,7 @@
     "org.gnome.Gtranslator",
     "org.gnome.Klotski",
     "org.gnome.LightsOff",
+    "org.gnome.Mahjongg",
     "org.gnome.Mines",
     "org.gnome.Nibbles",
     "org.gnome.PowerStats",
@@ -121,6 +123,7 @@
     "org.kde.krita",
     "org.kde.kronometer",
     "org.kde.kruler",
+    "org.kde.kshisen",
     "org.kde.ksirk",
     "org.kde.ksnakeduel",
     "org.kde.ksquares",
@@ -143,6 +146,7 @@
     "org.kde.lokalize",
     "org.kde.lskat",
     "org.kde.marble",
+    "org.kde.marknote",
     "org.kde.massif-visualizer",
     "org.kde.minuet",
     "org.kde.neochat",
@@ -162,5 +166,6 @@
     "org.pulseaudio.pavucontrol",
     "org.tug.texworks",
     "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC",
     "org.xfce.mousepad"
 ]

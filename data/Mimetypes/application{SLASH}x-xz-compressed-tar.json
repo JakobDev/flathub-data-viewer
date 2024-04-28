@@ -1,4 +1,5 @@
 [
+    "io.github.nyre221.kiview",
     "io.github.peazip.PeaZip",
     "org.cubocore.CoreArchiver",
     "org.gnome.FileRoller",

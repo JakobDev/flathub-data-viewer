@@ -2,5 +2,6 @@
     "net.rpdev.OpenTodoList",
     "net.sourceforge.Lifeograph",
     "org.gabmus.notorious",
-    "org.kde.kwrite"
+    "org.kde.kwrite",
+    "org.nongnu.lingot"
 ]

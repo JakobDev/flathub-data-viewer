@@ -9,5 +9,6 @@
     "org.kde.gwenview",
     "org.kde.kolourpaint",
     "org.libvips.vipsdisp",
-    "org.photoqt.PhotoQt"
+    "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt"
 ]

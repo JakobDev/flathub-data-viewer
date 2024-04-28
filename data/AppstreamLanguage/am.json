@@ -1,6 +1,7 @@
 [
     "org.gnome.FontManager",
     "org.gnome.GHex",
+    "org.gnome.Mahjongg",
     "org.gnome.SimpleScan",
     "org.gnome.atomix",
     "org.gnome.gThumb",

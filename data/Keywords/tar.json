@@ -1,5 +1,6 @@
 [
     "io.github.peazip.PeaZip",
     "org.gnome.FileRoller",
-    "org.photoqt.PhotoQt"
+    "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt"
 ]

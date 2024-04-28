@@ -38,6 +38,7 @@
     "org.gnome.OCRFeeder",
     "org.gnome.OfficeRunner",
     "org.gnome.Photos",
+    "org.gnome.Polari",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Robots",
@@ -71,6 +72,7 @@
     "org.kde.blinken",
     "org.kde.bomber",
     "org.kde.bovo",
+    "org.kde.digikam",
     "org.kde.dolphin",
     "org.kde.granatier",
     "org.kde.gwenview",
@@ -84,7 +86,9 @@
     "org.kde.kblocks",
     "org.kde.kbruch",
     "org.kde.kdenlive",
+    "org.kde.kdevelop",
     "org.kde.kfind",
+    "org.kde.kgraphviewer",
     "org.kde.khangman",
     "org.kde.kig",
     "org.kde.kiten",
@@ -110,5 +114,6 @@
     "org.kde.yakuake",
     "org.pitivi.Pitivi",
     "org.stellarium.Stellarium",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC"
 ]

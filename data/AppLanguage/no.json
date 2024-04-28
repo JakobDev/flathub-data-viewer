@@ -1,5 +1,4 @@
 [
     "de.manuel_kehl.go-for-it",
-    "io.neovim.nvim",
-    "org.gottcode.Kapow"
+    "io.neovim.nvim"
 ]

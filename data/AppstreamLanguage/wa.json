@@ -3,6 +3,8 @@
     "org.gnome.Evince",
     "org.gnome.Evolution",
     "org.gnome.GHex",
+    "org.gnome.Mahjongg",
     "org.gnome.eog",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC"
 ]

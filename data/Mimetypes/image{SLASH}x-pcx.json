@@ -17,5 +17,6 @@
     "org.kde.kolourpaint",
     "org.kde.okular",
     "org.libvips.vipsdisp",
-    "org.photoqt.PhotoQt"
+    "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt"
 ]

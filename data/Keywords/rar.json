@@ -1,4 +1,5 @@
 [
     "io.github.peazip.PeaZip",
-    "org.photoqt.PhotoQt"
+    "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt"
 ]

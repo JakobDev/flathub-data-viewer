@@ -2,5 +2,6 @@
     "com.ekonomikas.merkato",
     "com.github.horaciodrs.tradesim",
     "com.github.matfantinel.moneta",
-    "io.github.carterbox.Electricity_Clock"
+    "io.github.carterbox.Electricity_Clock",
+    "page.codeberg.DrRac27.Karoto"
 ]

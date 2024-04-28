@@ -28,6 +28,7 @@
         "org.mozilla.firefox",
         "org.syphon.Syphon",
         "org.winehq.Wine",
+        "ru.linux_gaming.PortProton",
         "ru.proninyaroslav.libretrack",
         "ua.org.brezblock.q4wine"
     ],
@@ -38,6 +39,7 @@
     "org.freedesktop.login1": [
         "app.drey.Warp",
         "com.anydesk.Anydesk",
+        "com.borgbase.Vorta",
         "com.github.iwalton3.jellyfin-media-player",
         "com.github.taiko2k.tauonmb",
         "com.github.vikdevelop.timer",
@@ -47,7 +49,6 @@
         "com.qq.QQ",
         "com.skype.Client",
         "com.slack.Slack",
-        "com.toggl.TogglDesktop",
         "com.unity.UnityHub",
         "com.visualstudio.code",
         "com.vscodium.codium-insiders",
@@ -127,6 +128,7 @@
         "org.strawberrymusicplayer.strawberry",
         "org.thonny.Thonny",
         "org.winehq.Wine",
+        "ru.linux_gaming.PortProton",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
     ],
@@ -139,7 +141,6 @@
     "org.freedesktop.avahi": [
         "com.brave.Browser",
         "com.frac_tion.teleport",
-        "com.github.Eloston.UngoogledChromium",
         "com.github.debauchee.barrier",
         "com.github.vladimiry.ElectronMail",
         "com.google.Chrome",
@@ -152,6 +153,7 @@
         "de._0x539.gobby",
         "dev.lizardbyte.app.Sunshine",
         "im.pidgin.Pidgin",
+        "io.github.ungoogled_software.ungoogled_chromium",
         "io.wavebox.Wavebox",
         "net.cozic.joplin_desktop",
         "net.epson.epsonscan2",
@@ -174,7 +176,7 @@
     ],
     "org.freedesktop.upower": [
         "com.brave.Browser",
-        "com.github.Eloston.UngoogledChromium",
+        "com.core447.StreamController",
         "com.google.Chrome",
         "com.google.ChromeDev",
         "com.her01n.BatteryInfo",
@@ -187,7 +189,9 @@
         "dev.vieb.Vieb",
         "fr.handbrake.ghb",
         "io.github.betaflight.BetaflightConfigurator",
+        "io.github.martinrotter.rssguard",
         "io.github.pwr_solaar.solaar",
+        "io.github.ungoogled_software.ungoogled_chromium",
         "io.mgba.mGBA",
         "io.wavebox.Wavebox",
         "moe.karaokes.mugen",
@@ -212,29 +216,6 @@
         "sh.ppy.osu",
         "tv.kodi.Kodi"
     ],
-    "org.bluez": [
-        "com.github.Eloston.UngoogledChromium",
-        "com.github.theironrobin.siglo",
-        "com.google.Chrome",
-        "com.google.ChromeDev",
-        "com.microsoft.Edge",
-        "com.oppzippy.OpenSCQ30",
-        "com.skype.Client",
-        "edu.stanford.Almond",
-        "io.emeric.toolblex",
-        "io.emeric.watchflower",
-        "io.github.betaflight.BetaflightConfigurator",
-        "io.github.wh201906.serialtest",
-        "io.gitlab.azymohliad.WatchMate",
-        "nl.brixit.wiremapper",
-        "org.chromium.Chromium",
-        "org.eyecreate.qiflora",
-        "org.freedesktop.Tuhi",
-        "org.gnome.Keysign",
-        "org.subsurface_divelog.Subsurface",
-        "page.codeberg.lazyt.ubpm",
-        "ru.yandex.Browser"
-    ],
     "org.freedesktop.accounts": [
         "com.github.childishgiant.mixer",
         "com.github.matfantinel.reminduck",
@@ -249,6 +230,29 @@
     ],
     "net.openvpn.v3.sessions": [
         "com.github.jkotra.eovpn"
+    ],
+    "org.bluez": [
+        "com.github.theironrobin.siglo",
+        "com.google.Chrome",
+        "com.google.ChromeDev",
+        "com.microsoft.Edge",
+        "com.oppzippy.OpenSCQ30",
+        "com.skype.Client",
+        "edu.stanford.Almond",
+        "io.emeric.toolblex",
+        "io.emeric.watchflower",
+        "io.github.betaflight.BetaflightConfigurator",
+        "io.github.ungoogled_software.ungoogled_chromium",
+        "io.github.wh201906.serialtest",
+        "io.gitlab.azymohliad.WatchMate",
+        "nl.brixit.wiremapper",
+        "org.chromium.Chromium",
+        "org.eyecreate.qiflora",
+        "org.freedesktop.Tuhi",
+        "org.gnome.Keysign",
+        "org.subsurface_divelog.Subsurface",
+        "page.codeberg.lazyt.ubpm",
+        "ru.yandex.Browser"
     ],
     "org.freedesktop.geoclue2": [
         "com.gitlab.bitseater.meteo",
@@ -305,7 +309,6 @@
         "net.mullvad.MullvadBrowser",
         "net.sourceforge.GrandOrgue",
         "org.mixxx.Mixxx",
-        "org.shotcut.Shotcut",
         "org.zrythm.Zrythm"
     ],
     "org.freedesktop.timedate1": [

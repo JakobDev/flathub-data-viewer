@@ -1,7 +1,6 @@
 [
     "com.brave.Browser",
     "com.ghostery.browser",
-    "com.github.Eloston.UngoogledChromium",
     "com.github.dimkr.gplaces",
     "com.github.fries1234.ncsa-mosaic",
     "com.google.Chrome",
@@ -13,6 +12,7 @@
     "com.opera.Opera",
     "com.vivaldi.Vivaldi",
     "dev.vieb.Vieb",
+    "io.github.ungoogled_software.ungoogled_chromium",
     "io.gitlab.librewolf-community",
     "io.wavebox.Wavebox",
     "net.mullvad.MullvadBrowser",

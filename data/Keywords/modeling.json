@@ -1,5 +1,6 @@
 [
     "de.bforartists.Bforartists",
     "io.github.mgerhardy.vengi.voxedit",
-    "org.blender.Blender"
+    "org.blender.Blender",
+    "org.upbge.UPBGE"
 ]

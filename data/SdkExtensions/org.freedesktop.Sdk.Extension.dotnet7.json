@@ -1,8 +1,8 @@
 [
     "at.vintagestory.VintageStory",
-    "com.github.PintaProject.Pinta",
     "com.slugchess.SlugChess",
     "io.github.Adda0.Stardrop",
     "io.github.MakovWait.Godots",
+    "org.famistudio.FamiStudio",
     "org.nickvision.tagger"
 ]

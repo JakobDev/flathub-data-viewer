@@ -1,7 +1,8 @@
 [
     "com.toolstack.Folio",
     "io.github.lainsce.Quilter",
-    "io.github.wereturtle.ghostwriter",
     "io.posidon.Paper",
-    "me.mitya57.ReText"
+    "me.mitya57.ReText",
+    "org.kde.ghostwriter",
+    "org.kde.marknote"
 ]

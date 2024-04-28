@@ -21,11 +21,13 @@
     "org.gnome.Four-in-a-row",
     "org.gnome.Klotski",
     "org.gnome.LightsOff",
+    "org.gnome.Mahjongg",
     "org.gnome.Maps",
     "org.gnome.Mines",
     "org.gnome.Music",
     "org.gnome.Nibbles",
     "org.gnome.Notes",
+    "org.gnome.Polari",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Robots",
@@ -42,5 +44,6 @@
     "org.gnome.font-viewer",
     "org.stellarium.Stellarium",
     "org.tug.texworks",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC"
 ]

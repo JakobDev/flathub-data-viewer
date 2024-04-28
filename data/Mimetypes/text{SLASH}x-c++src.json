@@ -1,5 +1,4 @@
 [
-    "cern.root.ROOT",
     "com.helix_editor.Helix",
     "io.atom.Atom",
     "io.github.zyedidia.micro",

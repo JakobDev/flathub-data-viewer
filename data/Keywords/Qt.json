@@ -1,6 +1,8 @@
 [
     "com.github.Qv2ray",
     "net.jami.Jami",
+    "org.kde.akregator",
+    "org.kde.marknote",
     "org.rncbc.qpwgraph",
     "org.rncbc.qsynth",
     "org.rncbc.qtractor",

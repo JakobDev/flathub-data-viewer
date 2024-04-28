@@ -1,33 +1,25 @@
 {
-    "6.6": [
+    "6.7": [
         "ch.openboard.OpenBoard",
-        "com.github.jmlich.geotagging",
         "com.riverbankcomputing.PyQt.BaseApp",
-        "io.github.xiaoyifang.goldendict_ng",
-        "net.jami.Jami",
-        "org.fcitx.Fcitx5",
-        "org.jacktrip.JackTrip",
-        "org.kde.akregator",
-        "org.kde.falkon",
-        "org.kde.kalgebra",
-        "org.kde.parley"
+        "io.mrarm.mcpelauncher",
+        "net.jami.Jami"
     ],
     "5.15-23.08": [
         "ch.theologeek.Manuskript",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.ktechpit.whatsie",
         "com.nextcloud.desktopclient.nextcloud",
+        "com.stremio.Stremio",
         "fun.vnote.app.VNote",
         "io.github.foldynl.QLog",
-        "io.github.martinrotter.rssguard",
         "net.sonic_pi.SonicPi",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.xm1math.Texmaker",
         "org.freecadweb.FreeCAD",
-        "org.kde.angelfish",
         "org.kde.arianna",
         "org.kde.cantor",
-        "org.kde.digikam",
+        "org.kde.ghostwriter",
         "org.kde.kdevelop",
         "org.kde.kgeotag",
         "org.kde.kimagemapeditor",
@@ -44,13 +36,26 @@
     ],
     "5.15-22.08": [
         "com.github.iwalton3.jellyfin-media-player",
-        "com.stremio.Stremio",
-        "de.shorsh.discord-screenaudio",
-        "io.github.wereturtle.ghostwriter",
         "io.sourceforge.chart_geany.chart-geany",
         "net.mediaarea.MediaConch",
         "org.paraview.ParaView",
         "org.rolisteam.rolisteam"
+    ],
+    "6.6": [
+        "com.github.jmlich.geotagging",
+        "de.shorsh.discord-screenaudio",
+        "io.github.martinrotter.rssguard",
+        "io.github.nyre221.kiview",
+        "io.github.xiaoyifang.goldendict_ng",
+        "org.fcitx.Fcitx5",
+        "org.jacktrip.JackTrip",
+        "org.kde.akregator",
+        "org.kde.angelfish",
+        "org.kde.digikam",
+        "org.kde.falkon",
+        "org.kde.kalgebra",
+        "org.kde.parley",
+        "org.kde.tokodon"
     ],
     "5.15": [
         "com.wiz.Note",
@@ -61,7 +66,6 @@
         "dev.lukebriggs.pepys"
     ],
     "6.5": [
-        "io.mrarm.mcpelauncher",
         "org.jaspstats.JASP"
     ]
 }

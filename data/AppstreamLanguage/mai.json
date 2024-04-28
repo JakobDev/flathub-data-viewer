@@ -8,6 +8,7 @@
     "org.gnome.FileRoller",
     "org.gnome.Four-in-a-row",
     "org.gnome.Klotski",
+    "org.gnome.Mahjongg",
     "org.gnome.Mines",
     "org.gnome.Nibbles",
     "org.gnome.PowerStats",
@@ -21,5 +22,6 @@
     "org.gnome.five-or-more",
     "org.gnucash.GnuCash",
     "org.inkscape.Inkscape",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC"
 ]

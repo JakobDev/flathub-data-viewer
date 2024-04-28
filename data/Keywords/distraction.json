@@ -1,4 +1,6 @@
 [
-    "io.github.wereturtle.ghostwriter",
-    "org.gottcode.FocusWriter"
+    "org.gnome.World.Iotas",
+    "org.gnome.gitlab.cheywood.Buffer",
+    "org.gottcode.FocusWriter",
+    "org.kde.ghostwriter"
 ]

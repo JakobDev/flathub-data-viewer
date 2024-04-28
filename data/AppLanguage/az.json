@@ -1,6 +1,5 @@
 [
     "com.github.artemanufrij.playmymusic",
-    "fr.romainvigier.MetadataCleaner",
     "io.github.Hexchat",
     "net.poedit.Poedit",
     "org.gnome.Aisleriot",
@@ -11,6 +10,5 @@
     "org.gnome.Totem",
     "org.gnome.atomix",
     "org.gnome.eog",
-    "org.gnome.gThumb",
     "org.gnome.gedit"
 ]

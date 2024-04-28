@@ -7,5 +7,6 @@
     "org.gnome.SimpleScan",
     "org.gottcode.FocusWriter",
     "org.stellarium.Stellarium",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC"
 ]

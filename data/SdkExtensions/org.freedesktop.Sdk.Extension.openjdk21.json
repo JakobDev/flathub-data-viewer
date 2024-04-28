@@ -1,6 +1,9 @@
 [
-    "com.github.Eloston.UngoogledChromium",
+    "ch.tlaun.TL",
     "io.dbeaver.DBeaverCommunity",
+    "io.github.ungoogled_software.ungoogled_chromium",
     "org.asamk.SignalCli",
-    "org.chromium.Chromium"
+    "org.chromium.Chromium",
+    "org.openstreetmap.josm",
+    "org.prismlauncher.PrismLauncher"
 ]

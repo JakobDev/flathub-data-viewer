@@ -1,8 +1,8 @@
 [
     "com.github.neithern.g4music",
-    "com.vixalien.decibels",
     "io.bassi.Amberol",
     "io.github.swanux.hbud",
     "org.freac.freac",
+    "org.gnome.Decibels",
     "org.kde.kaffeine"
 ]

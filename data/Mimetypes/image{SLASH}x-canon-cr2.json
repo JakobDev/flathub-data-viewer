@@ -3,5 +3,6 @@
     "io.github.ktgw0316.LightZone",
     "org.darktable.Darktable",
     "org.free_astro.siril",
-    "org.photoqt.PhotoQt"
+    "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt"
 ]

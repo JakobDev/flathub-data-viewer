@@ -2,5 +2,7 @@
     "ch.theologeek.Manuskript",
     "com.github.kmwallio.thiefmd",
     "org.gnome.TextEditor",
+    "org.gnome.World.Iotas",
+    "org.gnome.gitlab.cheywood.Buffer",
     "org.gnome.gitlab.somas.Apostrophe"
 ]

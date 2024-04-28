@@ -3,5 +3,6 @@
     "org.gimp.GIMP",
     "org.gnome.Cheese",
     "org.gnome.Totem",
-    "org.gnome.font-viewer"
+    "org.gnome.font-viewer",
+    "org.videolan.VLC"
 ]

@@ -37,6 +37,7 @@
     "org.gnome.TextEditor",
     "org.gnome.World.Iotas",
     "org.gnome.gedit",
+    "org.gnome.gitlab.cheywood.Buffer",
     "org.gnu.emacs",
     "org.kde.kwrite",
     "org.qownnotes.QOwnNotes",

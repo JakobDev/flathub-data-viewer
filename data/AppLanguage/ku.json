@@ -1,6 +1,5 @@
 [
     "org.gnome.Cheese",
     "org.gnome.eog",
-    "org.gnome.gedit",
-    "org.pitivi.Pitivi"
+    "org.gnome.gedit"
 ]

@@ -1,9 +1,9 @@
 [
     "com.getmailspring.Mailspring",
     "com.ghostery.browser",
-    "com.github.Eloston.UngoogledChromium",
     "com.github.fries1234.ncsa-mosaic",
     "es.estoes.wallpaperDownloader",
+    "io.github.ungoogled_software.ungoogled_chromium",
     "io.gitlab.librewolf-community",
     "net.waterfox.waterfox",
     "one.ablaze.floorp",

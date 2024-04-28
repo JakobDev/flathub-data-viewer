@@ -1,6 +1,8 @@
 [
     "com.github.marhkb.Pods",
+    "com.netxms.NetXMSClient",
     "de.ifw_dresden.nagstamon",
+    "de.nagstamon.nagstamon",
     "edu.berkeley.BOINC",
     "io.github.carterbox.Electricity_Clock",
     "io.missioncenter.MissionCenter",

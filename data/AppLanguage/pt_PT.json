@@ -1,6 +1,5 @@
 [
     "com.github.bajoja.indicator-kdeconnect",
-    "com.github.taiko2k.tauonmb",
     "com.gitlab.bitseater.meteo",
     "com.transmissionbt.Transmission",
     "com.uploadedlobster.peek",
@@ -8,12 +7,10 @@
     "io.github.loot.loot",
     "io.gitlab.Goodvibes",
     "io.liri.Text",
-    "io.otsaloma.nfoview",
     "net.poedit.Poedit",
     "org.aegisub.Aegisub",
     "org.bluesabre.MenuLibre",
     "org.gnome.Eolie",
-    "org.gnome.Lollypop",
     "org.gramps_project.Gramps",
     "org.mapeditor.Tiled",
     "org.speedcrunch.SpeedCrunch"

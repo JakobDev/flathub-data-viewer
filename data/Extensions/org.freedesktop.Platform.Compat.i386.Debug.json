@@ -12,5 +12,6 @@
     "io.itch.itch",
     "org.phoenicis.playonlinux",
     "org.winehq.Wine",
+    "ru.linux_gaming.PortProton",
     "xyz.hyperplay.HyperPlay"
 ]

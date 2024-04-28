@@ -4,5 +4,6 @@
     "org.flozz.yoga-image-optimizer",
     "org.gnome.Loupe",
     "org.kde.kolourpaint",
-    "org.photoqt.PhotoQt"
+    "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt"
 ]

@@ -1,6 +1,5 @@
 [
     "com.brave.Browser",
-    "com.github.Eloston.UngoogledChromium",
     "com.github.maoschanz.DynamicWallpaperEditor",
     "com.google.Chrome",
     "com.google.ChromeDev",
@@ -12,6 +11,7 @@
     "engineer.atlas.Nyxt",
     "io.atom.Atom",
     "io.github.muse_sequencer.Muse",
+    "io.github.ungoogled_software.ungoogled_chromium",
     "io.github.zyedidia.micro",
     "io.wavebox.Wavebox",
     "org.chromium.Chromium",

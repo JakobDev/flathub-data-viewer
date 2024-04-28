@@ -1,4 +1,5 @@
 [
     "de.bforartists.Bforartists",
-    "org.blender.Blender"
+    "org.blender.Blender",
+    "org.upbge.UPBGE"
 ]

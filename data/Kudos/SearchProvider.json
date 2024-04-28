@@ -1,5 +1,4 @@
 [
-    "app.drey.Dialect",
     "com.belmoussaoui.Authenticator",
     "com.github.finefindus.eyedropper",
     "io.github.idevecore.CurrencyConverter",
@@ -8,7 +7,6 @@
     "nl.g4d.Girens",
     "org.endlessos.Key",
     "org.gnome.Eolie",
-    "org.gnome.Lollypop",
     "org.gnome.Notes",
     "org.gnome.Recipes",
     "org.learningequality.Kolibri"

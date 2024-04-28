@@ -3,5 +3,6 @@
     "org.gnome.Evince",
     "org.kde.okular",
     "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt",
     "rocks.koreader.KOReader"
 ]

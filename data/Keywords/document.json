@@ -1,6 +1,8 @@
 [
     "com.github.tenderowl.norka",
-    "io.github.wereturtle.ghostwriter",
     "org.gnome.Evince",
+    "org.gnome.World.Iotas",
+    "org.gnome.gitlab.cheywood.Buffer",
+    "org.kde.ghostwriter",
     "work.openpaper.Paperwork"
 ]

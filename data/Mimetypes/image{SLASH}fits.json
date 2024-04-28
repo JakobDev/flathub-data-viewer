@@ -5,6 +5,7 @@
     "org.hdfgroup.HDFView",
     "org.kde.kstars",
     "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt",
     "space.fips.Fips",
     "space.nouspiro.tenmon"
 ]

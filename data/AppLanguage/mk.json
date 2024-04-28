@@ -11,7 +11,6 @@
     "org.gnome.Hamster",
     "org.gnome.Klotski",
     "org.gnome.LightsOff",
-    "org.gnome.Mahjongg",
     "org.gnome.Mines",
     "org.gnome.Nibbles",
     "org.gnome.PowerStats",
@@ -25,7 +24,6 @@
     "org.gnome.atomix",
     "org.gnome.eog",
     "org.gnome.five-or-more",
-    "org.gnome.gThumb",
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
     "org.sugarlabs.Paint"

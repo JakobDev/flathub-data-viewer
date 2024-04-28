@@ -1,7 +1,6 @@
 [
     "com.boxy_svg.BoxySVG",
     "com.brave.Browser",
-    "com.github.Eloston.UngoogledChromium",
     "com.github.libresprite.LibreSprite",
     "com.google.Chrome",
     "com.google.ChromeDev",
@@ -12,6 +11,7 @@
     "com.orama_interactive.Pixelorama",
     "com.vivaldi.Vivaldi",
     "io.github.ImEditor",
+    "io.github.ungoogled_software.ungoogled_chromium",
     "io.gitlab.adhami3310.Converter",
     "io.gitlab.theevilskeleton.Upscaler",
     "io.wavebox.Wavebox",
@@ -30,6 +30,7 @@
     "org.kde.pix",
     "org.libvips.vipsdisp",
     "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt",
     "ru.yandex.Browser",
     "work.openpaper.Paperwork"
 ]

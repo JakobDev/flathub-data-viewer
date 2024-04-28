@@ -1,4 +1,5 @@
 [
+    "io.github.nyre221.kiview",
     "org.gnumeric.Gnumeric",
     "org.jamovi.jamovi",
     "org.libvips.vipsdisp",

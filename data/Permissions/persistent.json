@@ -66,13 +66,13 @@
     ],
     ".pki": [
         "com.brave.Browser",
-        "com.github.Eloston.UngoogledChromium",
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
         "com.netease.CloudMusic",
         "com.opera.Opera",
         "com.vivaldi.Vivaldi",
         "io.github.Icalingua.Icalingua",
+        "io.github.ungoogled_software.ungoogled_chromium",
         "io.wavebox.Wavebox",
         "ru.yandex.Browser"
     ],
@@ -205,6 +205,12 @@
     ".cache": [
         "com.netease.CloudMusic"
     ],
+    ".nxmc4": [
+        "com.netxms.NetXMSClient"
+    ],
+    ".nx": [
+        "com.nomachine.nxplayer"
+    ],
     ".q3rally": [
         "com.q3rally.Q3Rally"
     ],
@@ -261,6 +267,12 @@
         "com.teeworlds.Teeworlds",
         "tw.ddnet.ddnet"
     ],
+    ".xwechat": [
+        "com.tencent.WeChat"
+    ],
+    "xwechat_files": [
+        "com.tencent.WeChat"
+    ],
     ".minecraft-pi": [
         "com.thebrokenrail.MCPIReborn"
     ],
@@ -307,7 +319,8 @@
         "de.blobbyvolley.BlobbyVolley2"
     ],
     ".nagstamon": [
-        "de.ifw_dresden.nagstamon"
+        "de.ifw_dresden.nagstamon",
+        "de.nagstamon.nagstamon"
     ],
     ".k8slens": [
         "dev.k8slens.OpenLens"
@@ -317,6 +330,9 @@
     ],
     ".BOINC": [
         "edu.berkeley.BOINC"
+    ],
+    ".digidocpp": [
+        "ee.ria.qdigidoc4"
     ],
     ".thunderbird": [
         "eu.betterbird.Betterbird",
@@ -341,7 +357,8 @@
         "im.pidgin.Pidgin"
     ],
     ".android": [
-        "in.srev.guiscrcpy"
+        "in.srev.guiscrcpy",
+        "io.github.glaumar.QRookie"
     ],
     ".sword": [
         "info.bibletime.BibleTime",
@@ -609,6 +626,9 @@
     ".hedgewars": [
         "org.hedgewars.Hedgewars"
     ],
+    ".ringracers": [
+        "org.kartkrew.RingRacers"
+    ],
     ".mplayer": [
         "org.kde.kmplayer"
     ],
@@ -750,6 +770,9 @@
     ],
     ".cmaptools": [
         "us.ihmc.cmap.CmapTools"
+    ],
+    ".zoom": [
+        "us.zoom.Zoom"
     ],
     ".python-eggs": [
         "work.openpaper.Paperwork"

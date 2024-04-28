@@ -1,6 +1,4 @@
 [
-    "app.drey.Dialect",
-    "fr.romainvigier.MetadataCleaner",
     "org.gnome.Fractal",
     "org.gnome.Solanum",
     "org.gnome.eog",

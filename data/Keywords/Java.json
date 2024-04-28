@@ -1,4 +1,5 @@
 [
+    "io.github.babaissarkar.ssplot",
     "io.github.java_decompiler.jd-gui",
     "org.robocode.Robocode"
 ]

@@ -1,5 +1,6 @@
 [
     "ca.desrt.dconf-editor",
+    "com.github.flxzt.rnote",
     "im.pidgin.Pidgin",
     "net.supertuxkart.SuperTuxKart",
     "org.fedoraproject.MediaWriter",
@@ -26,6 +27,7 @@
     "org.gnome.Klotski",
     "org.gnome.LightsOff",
     "org.gnome.Logs",
+    "org.gnome.Mahjongg",
     "org.gnome.Maps",
     "org.gnome.Mines",
     "org.gnome.Music",
@@ -61,5 +63,6 @@
     "org.pulseaudio.pavucontrol",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC",
     "org.virt_manager.virt-viewer"
 ]

@@ -30,6 +30,7 @@
     "org.gnome.Klotski",
     "org.gnome.LightsOff",
     "org.gnome.Logs",
+    "org.gnome.Mahjongg",
     "org.gnome.Maps",
     "org.gnome.Mines",
     "org.gnome.Music",
@@ -63,5 +64,6 @@
     "org.gnome.seahorse.Application",
     "org.gnucash.GnuCash",
     "org.stellarium.Stellarium",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC"
 ]

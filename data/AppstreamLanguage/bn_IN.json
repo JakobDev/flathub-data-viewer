@@ -14,6 +14,7 @@
     "org.gnome.Four-in-a-row",
     "org.gnome.Gnote",
     "org.gnome.LightsOff",
+    "org.gnome.Mahjongg",
     "org.gnome.Mines",
     "org.gnome.Nibbles",
     "org.gnome.PowerStats",
@@ -31,5 +32,6 @@
     "org.gnome.font-viewer",
     "org.gnome.seahorse.Application",
     "org.pulseaudio.pavucontrol",
+    "org.videolan.VLC",
     "org.virt_manager.virt-viewer"
 ]

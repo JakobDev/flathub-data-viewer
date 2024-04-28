@@ -1,7 +1,6 @@
 [
     "com.clarahobbs.chessclock",
     "com.lakoliu.Furtherance",
-    "com.toggl.TogglDesktop",
     "io.github.fsobolev.TimeSwitch",
     "io.gitlab.idevecore.Pomodoro",
     "org.gnome.BreakTimer",

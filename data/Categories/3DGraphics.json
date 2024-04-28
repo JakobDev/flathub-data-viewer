@@ -21,5 +21,6 @@
     "org.leocad.LeoCAD",
     "org.openscad.OpenSCAD",
     "org.telesculptor.TeleSculptor",
+    "org.upbge.UPBGE",
     "xyz.splashmapper.Splash"
 ]

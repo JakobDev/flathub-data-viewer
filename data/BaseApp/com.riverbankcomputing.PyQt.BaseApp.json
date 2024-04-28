@@ -12,8 +12,8 @@
         "io.github.ciromattia.kcc",
         "io.github.dummerle.rare",
         "io.github.giantpinkrobots.bootqt",
-        "io.github.jordanl2.ModularCalculator",
         "io.github.julian_hochhaus.LG4X_V2",
+        "io.github.riftr.intelpy",
         "io.github.veusz.Veusz",
         "io.lmms.LMMS",
         "net.sourceforge.scidavis",
@@ -22,6 +22,7 @@
         "org.frescobaldi.Frescobaldi",
         "org.groestlcoin.electrum-grs",
         "org.linuxshowplayer.LinuxShowPlayer",
+        "org.openshot.OpenShot",
         "org.pairinteraction.Pairinteraction",
         "org.pymol.PyMOL",
         "org.qgis.qgis",
@@ -31,10 +32,14 @@
     "6.6": [
         "com.borgbase.Vorta",
         "com.rtosta.zapzap",
+        "de.ifw_dresden.nagstamon",
+        "de.nagstamon.nagstamon",
         "io.github.hydrusnetwork.hydrus",
+        "io.github.jordanl2.ModularCalculator",
         "io.github.yuki_iptv.yuki-iptv",
         "me.mitya57.ReText",
         "org.mintguide.WebAppReader",
+        "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
         "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdDBusDebugger",
@@ -42,6 +47,7 @@
         "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdEolConverter",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.JakobDev.jdMacroPlayer",
         "page.codeberg.JakobDev.jdMinecraftLauncher",
         "page.codeberg.JakobDev.jdMrpackInstaller",
         "page.codeberg.JakobDev.jdNBTExplorer",
@@ -58,8 +64,7 @@
         "org.beeref.BeeRef"
     ],
     "6.5": [
-        "org.plomgrading.PlomClient",
-        "page.codeberg.DrRac27.Karoto"
+        "org.plomgrading.PlomClient"
     ],
     "5.15-21.08": [
         "org.qutebrowser.qutebrowser"

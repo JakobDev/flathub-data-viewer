@@ -44,6 +44,7 @@
     "org.kde.pix",
     "org.nomacs.ImageLounge",
     "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt",
     "org.radare.iaito",
     "org.tug.texworks",
     "org.xfce.ristretto",

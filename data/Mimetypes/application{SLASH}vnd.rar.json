@@ -1,5 +1,6 @@
 [
     "com.yacreader.YACReader",
+    "io.github.nyre221.kiview",
     "org.gnome.FileRoller",
     "org.kde.ark"
 ]

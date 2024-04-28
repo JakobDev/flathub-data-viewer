@@ -10,6 +10,5 @@
     "org.kde.vvave",
     "org.phoenicis.playonlinux",
     "org.freedesktop.LinuxAudio.Plugins.DrumGizmo",
-    "org.freedesktop.LinuxAudio.Plugins.LSP",
-    "re.rizin.cutter.plugin.rz-ghidra"
+    "org.freedesktop.LinuxAudio.Plugins.LSP"
 ]

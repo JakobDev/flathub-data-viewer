@@ -23,5 +23,6 @@
     "org.kde.pix",
     "org.nomacs.ImageLounge",
     "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt",
     "org.xfce.ristretto"
 ]

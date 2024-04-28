@@ -3,5 +3,6 @@
     "com.yacreader.YACReader",
     "io.github.lunarequest.NightPDF",
     "net.sourceforge.mcomix",
-    "org.photoqt.PhotoQt"
+    "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt"
 ]

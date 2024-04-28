@@ -33,6 +33,7 @@
     "org.gnome.LightsOff",
     "org.gnome.Logs",
     "org.gnome.Loupe",
+    "org.gnome.Mahjongg",
     "org.gnome.Maps",
     "org.gnome.Mines",
     "org.gnome.Music",
@@ -112,5 +113,6 @@
     "org.kde.yakuake",
     "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC",
     "org.virt_manager.virt-viewer"
 ]

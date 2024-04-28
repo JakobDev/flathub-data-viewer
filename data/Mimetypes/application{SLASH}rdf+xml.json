@@ -1,6 +1,5 @@
 [
     "com.brave.Browser",
-    "com.github.Eloston.UngoogledChromium",
     "com.google.Chrome",
     "com.google.ChromeDev",
     "com.microsoft.Edge",
@@ -9,6 +8,7 @@
     "com.vivaldi.Vivaldi",
     "edu.stanford.protege",
     "engineer.atlas.Nyxt",
+    "io.github.ungoogled_software.ungoogled_chromium",
     "io.wavebox.Wavebox",
     "net.sourceforge.liferea",
     "org.chromium.Chromium",

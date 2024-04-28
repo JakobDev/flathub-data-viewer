@@ -1,11 +1,7 @@
 [
     "com.github.bajoja.indicator-kdeconnect",
-    "com.github.ryonakano.pinit",
     "com.github.tenderowl.frog",
     "io.github.fsobolev.TimeSwitch",
-    "io.github.gillesdegottex.FMIT",
     "org.gnome.Eolie",
-    "org.parlatype.Parlatype",
-    "re.sonny.Commit",
-    "re.sonny.Junction"
+    "re.sonny.Commit"
 ]

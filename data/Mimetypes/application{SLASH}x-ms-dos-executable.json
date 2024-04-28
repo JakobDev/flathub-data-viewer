@@ -4,6 +4,6 @@
     "io.github.peazip.PeaZip",
     "org.gnome.FileRoller",
     "org.phoenicis.playonlinux",
-    "org.winehq.Wine",
+    "ru.linux_gaming.PortProton",
     "ua.org.brezblock.q4wine"
 ]

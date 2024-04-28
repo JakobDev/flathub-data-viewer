@@ -1,5 +1,6 @@
 [
     "com.interversehq.qView",
     "net.blumia.pineapple-pictures",
-    "org.photoqt.PhotoQt"
+    "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt"
 ]

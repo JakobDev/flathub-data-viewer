@@ -1,3 +1,4 @@
 [
-    "app.getclipboard.Clipboard"
+    "app.getclipboard.Clipboard",
+    "org.gnome.gitlab.cheywood.Buffer"
 ]

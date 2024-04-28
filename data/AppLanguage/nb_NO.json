@@ -1,24 +1,15 @@
 [
-    "app.drey.Dialect",
     "com.github.babluboy.bookworm",
     "com.github.bajoja.indicator-kdeconnect",
-    "com.github.ryonakano.pinit",
-    "com.github.ryonakano.reco",
-    "fr.romainvigier.MetadataCleaner",
+    "com.github.elth0r0.iqpuzzle",
     "io.github.cboxdoerfer.FSearch",
     "io.github.celluloid_player.Celluloid",
     "io.github.giantpinkrobots.varia",
-    "io.github.gillesdegottex.FMIT",
     "io.github.jhaygood86.mauborgne",
     "io.github.manisandro.gImageReader",
     "io.gitlab.Goodvibes",
-    "io.missioncenter.MissionCenter",
     "net.meijn.onvifviewer",
     "org.entangle_photo.Manager",
     "org.gnome.Eolie",
-    "org.gnome.Lollypop",
-    "org.gottcode.FocusWriter",
-    "org.gtkhash.gtkhash",
-    "org.parlatype.Parlatype",
-    "re.sonny.Junction"
+    "org.gtkhash.gtkhash"
 ]

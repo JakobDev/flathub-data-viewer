@@ -28,7 +28,6 @@
     "ink.scribl.Scribl",
     "io.freetubeapp.FreeTube",
     "io.github.KikoPlayProject.KikoPlay",
-    "io.github.brunoherbelin.Vimix",
     "io.github.celluloid_player.Celluloid",
     "io.github.ctlcltd.e2se",
     "io.github.onionware_github.onionmedia",
@@ -66,7 +65,6 @@
     "org.sigxcpu.Livi",
     "org.subtitld.Subtitld",
     "org.telesculptor.TeleSculptor",
-    "org.videolan.VLC",
     "tv.kodi.Kodi",
     "vn.hoabinh.quan.CoBang",
     "org.videolan.VLC.Plugin.pause_click"

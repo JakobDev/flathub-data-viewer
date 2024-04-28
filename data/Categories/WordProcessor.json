@@ -4,12 +4,12 @@
     "com.abisource.AbiWord",
     "com.github.philip_scott.notes-up",
     "cz.zeropage.Formiko",
-    "io.github.wereturtle.ghostwriter",
     "io.typora.Typora",
     "me.mitya57.ReText",
     "org.b3log.siyuan",
     "org.gottcode.FocusWriter",
     "org.hectabit.Burgernotes",
+    "org.kde.ghostwriter",
     "org.lyx.LyX",
     "org.onlyoffice.desktopeditors",
     "org.standardnotes.standardnotes"

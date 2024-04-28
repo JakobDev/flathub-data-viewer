@@ -7,9 +7,7 @@
     "org.gnome.Four-in-a-row",
     "org.gnome.Hamster",
     "org.gnome.Klotski",
-    "org.gnome.Mahjongg",
     "org.gnome.Mines",
-    "org.gnome.NautilusPreviewer",
     "org.gnome.Nibbles",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
@@ -22,9 +20,7 @@
     "org.gnome.atomix",
     "org.gnome.eog",
     "org.gnome.five-or-more",
-    "org.gnome.gThumb",
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
-    "org.gnucash.GnuCash",
     "org.x.Warpinator"
 ]

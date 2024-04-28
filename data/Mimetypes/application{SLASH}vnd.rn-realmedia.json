@@ -2,6 +2,7 @@
     "com.github.artemanufrij.playmyvideos",
     "com.github.rafostar.Clapper",
     "com.vzhd1701.gridplayer",
+    "io.github.KikoPlayProject.KikoPlay",
     "io.github.celluloid_player.Celluloid",
     "io.github.ripose_jp.Memento",
     "io.github.swanux.hbud",
@@ -18,6 +19,7 @@
     "org.kde.kmplayer",
     "org.kde.vvave",
     "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt",
     "org.shotcut.Shotcut",
     "org.videolan.VLC",
     "ru.sview.sView"

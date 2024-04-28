@@ -10,7 +10,6 @@
     "com.vixalien.sticky",
     "dev.geopjr.Collision",
     "fr.romainvigier.MetadataCleaner",
-    "hu.kramo.Cartridges",
     "im.pidgin.Pidgin",
     "io.github.Bavarder.Bavarder",
     "io.github.celluloid_player.Celluloid",
@@ -37,6 +36,7 @@
     "org.gnome.Klotski",
     "org.gnome.LightsOff",
     "org.gnome.Logs",
+    "org.gnome.Mahjongg",
     "org.gnome.Maps",
     "org.gnome.Mines",
     "org.gnome.Music",
@@ -83,6 +83,8 @@
     "org.pulseaudio.pavucontrol",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC",
     "org.virt_manager.virt-viewer",
+    "page.kramo.Cartridges",
     "pm.mirko.Atoms"
 ]

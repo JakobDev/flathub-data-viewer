@@ -17,9 +17,9 @@
         "com.discordapp.Discord",
         "com.dropbox.Client",
         "com.hunterwittenborn.Celeste",
-        "com.qq.QQmusic",
         "com.sayonara_player.Sayonara",
         "com.synology.SynologyDrive",
+        "com.tencent.WeChat",
         "io.github.qnapi",
         "me.timschneeberger.GalaxyBudsClient",
         "org.altaqwaa.Altaqwaa",
@@ -45,24 +45,6 @@
         "net.waterfox.waterfox",
         "one.ablaze.floorp",
         "org.mozilla.firefox"
-    ],
-    "org.mpris.mediaplayer2.chromium.*": [
-        "com.github.Eloston.UngoogledChromium",
-        "com.github.rhyme_player.rhyme",
-        "com.google.Chrome",
-        "com.google.ChromeDev",
-        "com.opera.Opera",
-        "com.qq.QQmusic",
-        "com.vivaldi.Vivaldi",
-        "dev.aunetx.deezer",
-        "dev.vieb.Vieb",
-        "io.freetubeapp.FreeTube",
-        "io.github.listen1.Listen1",
-        "io.github.purplehorrorrus.Meridius",
-        "io.wavebox.Wavebox",
-        "org.chromium.Chromium",
-        "ru.yandex.Browser",
-        "tech.feliciano.pocket-casts"
     ],
     "org.mpris.mediaplayer2.spotube.*": [
         "com.github.KRTirtho.Spotube"
@@ -103,6 +85,24 @@
     ],
     "org.mpris.mediaplayer2.clapper": [
         "com.github.rafostar.Clapper"
+    ],
+    "org.mpris.mediaplayer2.chromium.*": [
+        "com.github.rhyme_player.rhyme",
+        "com.google.Chrome",
+        "com.google.ChromeDev",
+        "com.opera.Opera",
+        "com.qq.QQmusic",
+        "com.vivaldi.Vivaldi",
+        "dev.aunetx.deezer",
+        "dev.vieb.Vieb",
+        "io.freetubeapp.FreeTube",
+        "io.github.listen1.Listen1",
+        "io.github.purplehorrorrus.Meridius",
+        "io.github.ungoogled_software.ungoogled_chromium",
+        "io.wavebox.Wavebox",
+        "org.chromium.Chromium",
+        "ru.yandex.Browser",
+        "tech.feliciano.pocket-casts"
     ],
     "org.mpris.mediaplayer2.tauon": [
         "com.github.taiko2k.tauonmb"
@@ -169,9 +169,6 @@
     ],
     "org.mpris.mediaplayer2.thebeat": [
         "com.vicr123.thebeat"
-    ],
-    "org.mpris.mediaplayer2.decibels": [
-        "com.vixalien.decibels"
     ],
     "org.mpris.mediaplayer2.spot": [
         "dev.alextren.Spot"
@@ -385,15 +382,11 @@
     "org.gtimelog": [
         "org.gtimelog.GTimeLog"
     ],
-    "org.kde.pim.*": [
-        "org.kde.akregator",
-        "org.kde.kontact"
-    ],
     "org.freedesktop.akonadi.*": [
         "org.kde.akregator",
         "org.kde.kontact"
     ],
-    "org.kde.accountwizard": [
+    "org.kde.pim.*": [
         "org.kde.akregator",
         "org.kde.kontact"
     ],
@@ -407,6 +400,10 @@
     ],
     "org.kde.pimsettingsexporter": [
         "org.kde.akregator"
+    ],
+    "org.kde.accountwizard": [
+        "org.kde.akregator",
+        "org.kde.kontact"
     ],
     "org.mpris.mediaplayer2.audiotube": [
         "org.kde.audiotube"

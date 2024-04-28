@@ -1,8 +1,8 @@
 [
     "app.drey.Warp",
     "com.belmoussaoui.Decoder",
+    "com.github.johnfactotum.Foliate",
     "com.usebottles.bottles",
-    "de.haeckerfelix.Fragments",
     "im.dino.Dino",
     "im.kaidan.kaidan",
     "io.github.celluloid_player.Celluloid",
@@ -48,6 +48,7 @@
     "org.kde.lokalize",
     "org.kde.neochat",
     "org.kde.okular",
+    "org.videolan.VLC",
     "org.x.Warpinator",
     "org.xfce.mousepad"
 ]

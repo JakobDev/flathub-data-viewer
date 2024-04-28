@@ -35,6 +35,7 @@
     "org.gnome.Nibbles",
     "org.gnome.Notes",
     "org.gnome.Photos",
+    "org.gnome.Polari",
     "org.gnome.Quadrapassel",
     "org.gnome.Reversi",
     "org.gnome.Robots",
@@ -60,6 +61,7 @@
     "org.gnome.seahorse.Application",
     "org.gnumeric.Gnumeric",
     "org.pulseaudio.pavucontrol",
+    "org.videolan.VLC",
     "org.xfce.mousepad",
     "org.xfce.ristretto"
 ]

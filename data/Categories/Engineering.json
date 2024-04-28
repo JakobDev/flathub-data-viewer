@@ -26,7 +26,5 @@
     "org.librecad.librecad",
     "org.librepcb.LibrePCB",
     "org.openhantek.OpenHantek6022",
-    "org.openscad.OpenSCAD",
-    "org.qelectrotech.QElectroTech",
-    "pl.nieto.fityk"
+    "org.qelectrotech.QElectroTech"
 ]

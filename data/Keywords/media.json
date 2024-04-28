@@ -1,10 +1,11 @@
 [
     "com.github.neithern.g4music",
-    "com.vixalien.decibels",
     "io.bassi.Amberol",
     "io.github.nate_xyz.Resonance",
+    "io.mpv.Mpv",
     "nl.g4d.Girens",
     "org.fedoraproject.MediaWriter",
+    "org.gnome.Decibels",
     "org.nickvision.tubeconverter",
     "tv.kodi.Kodi"
 ]

@@ -11,5 +11,6 @@
     "io.sourceforge.Pixelitor",
     "org.geeqie.Geeqie",
     "org.gimp.GIMP",
-    "org.photoqt.PhotoQt"
+    "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt"
 ]

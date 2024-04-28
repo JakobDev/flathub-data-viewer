@@ -6,5 +6,6 @@
     "org.blender.Blender",
     "org.gnome.Keysign",
     "org.thonny.Thonny",
+    "org.upbge.UPBGE",
     "page.codeberg.JakobDev.jdAppStreamEdit"
 ]

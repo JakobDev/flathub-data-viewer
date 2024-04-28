@@ -6,5 +6,6 @@
     "org.blender.Blender",
     "org.darkdimension.rue",
     "org.openscad.OpenSCAD",
+    "org.upbge.UPBGE",
     "ru.sview.sView"
 ]

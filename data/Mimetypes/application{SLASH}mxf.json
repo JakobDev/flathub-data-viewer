@@ -1,6 +1,7 @@
 [
     "com.github.rafostar.Clapper",
     "com.vzhd1701.gridplayer",
+    "io.github.KikoPlayProject.KikoPlay",
     "io.github.celluloid_player.Celluloid",
     "io.github.ripose_jp.Memento",
     "io.github.swanux.hbud",
@@ -10,6 +11,7 @@
     "org.gnome.Totem",
     "org.kde.haruna",
     "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt",
     "org.shotcut.Shotcut",
     "org.videolan.VLC"
 ]

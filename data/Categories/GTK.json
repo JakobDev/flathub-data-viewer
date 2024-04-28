@@ -16,7 +16,6 @@
     "io.github.alexkdeveloper.gomoku",
     "io.github.dgsasha.Remembrance",
     "io.github.jeffshee.Hidamari",
-    "io.github.tfuxu.Halftone",
     "io.gitlab.adhami3310.Footage",
     "io.gitlab.gregorni.Calligraphy",
     "io.gitlab.gregorni.Letterpress",
@@ -28,5 +27,6 @@
     "org.gnome.FontManager",
     "org.gnome.Loupe",
     "org.gnu.pspp",
+    "org.nongnu.gsequencer.gsequencer",
     "sa.sy.bluerecorder"
 ]

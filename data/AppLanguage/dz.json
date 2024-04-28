@@ -5,7 +5,6 @@
     "org.gnome.Devhelp",
     "org.gnome.Four-in-a-row",
     "org.gnome.Klotski",
-    "org.gnome.Mahjongg",
     "org.gnome.Mines",
     "org.gnome.Nibbles",
     "org.gnome.Quadrapassel",
@@ -18,8 +17,6 @@
     "org.gnome.atomix",
     "org.gnome.eog",
     "org.gnome.five-or-more",
-    "org.gnome.gThumb",
     "org.gnome.gedit",
-    "org.gnome.seahorse.Application",
-    "org.pitivi.Pitivi"
+    "org.gnome.seahorse.Application"
 ]

@@ -1,4 +1,5 @@
 [
-    "com.vixalien.decibels",
-    "org.gnome.Evolution"
+    "org.gnome.Decibels",
+    "org.gnome.Evolution",
+    "org.gnome.Snapshot"
 ]

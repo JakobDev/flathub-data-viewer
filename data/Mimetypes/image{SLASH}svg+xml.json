@@ -13,6 +13,7 @@
     "com.xnview.XnViewMP",
     "dev.linwood.butterfly",
     "io.github.manisandro.gImageReader",
+    "io.github.nyre221.kiview",
     "io.gitlab.adhami3310.Converter",
     "io.photoflare.photoflare",
     "net.blumia.pineapple-pictures",
@@ -35,6 +36,7 @@
     "org.libvips.vipsdisp",
     "org.midori_browser.Midori",
     "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt",
     "org.xfce.ristretto",
     "org.zirael.bkchem.BKChem",
     "re.sonny.OhMySVG"

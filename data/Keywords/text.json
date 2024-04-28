@@ -8,6 +8,8 @@
     "io.gitlab.gregorni.Calligraphy",
     "io.gitlab.gregorni.Letterpress",
     "io.unobserved.espansoGUI",
+    "org.gnome.World.Iotas",
+    "org.gnome.gitlab.cheywood.Buffer",
     "org.gnome.gitlab.somas.Apostrophe",
     "org.kde.kwrite"
 ]

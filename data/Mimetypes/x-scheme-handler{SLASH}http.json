@@ -1,7 +1,6 @@
 [
     "com.brave.Browser",
     "com.ghostery.browser",
-    "com.github.Eloston.UngoogledChromium",
     "com.github.fries1234.ncsa-mosaic",
     "com.google.Chrome",
     "com.google.ChromeDev",
@@ -11,6 +10,7 @@
     "com.vivaldi.Vivaldi",
     "dev.vieb.Vieb",
     "engineer.atlas.Nyxt",
+    "io.github.ungoogled_software.ungoogled_chromium",
     "io.gitlab.librewolf-community",
     "io.wavebox.Wavebox",
     "ml.prevete.Daty",

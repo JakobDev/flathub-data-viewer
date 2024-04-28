@@ -5,7 +5,9 @@
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
+    "com.github.cassidyjames.clairvoyant",
     "com.github.gijsgoudzwaard.image-optimizer",
+    "com.github.johnfactotum.Foliate",
     "com.github.muriloventuroso.easyssh",
     "com.github.muriloventuroso.givemelyrics",
     "com.github.muriloventuroso.pdftricks",
@@ -15,6 +17,7 @@
     "com.transmissionbt.Transmission",
     "com.uploadedlobster.peek",
     "com.xnview.XnViewMP",
+    "de.haeckerfelix.AudioSharing",
     "dev.bragefuglseth.Fretboard",
     "im.dino.Dino",
     "im.pidgin.Pidgin",
@@ -123,6 +126,7 @@
     "org.scummvm.ScummVM",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC",
     "org.xfce.mousepad",
     "org.xfce.ristretto"
 ]

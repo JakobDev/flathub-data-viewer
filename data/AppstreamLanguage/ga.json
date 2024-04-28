@@ -14,6 +14,7 @@
     "org.gnome.GHex",
     "org.gnome.Gtranslator",
     "org.gnome.Logs",
+    "org.gnome.Mahjongg",
     "org.gnome.Maps",
     "org.gnome.Music",
     "org.gnome.Notes",
@@ -29,5 +30,6 @@
     "org.gnome.font-viewer",
     "org.gnome.seahorse.Application",
     "org.inkscape.Inkscape",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC"
 ]

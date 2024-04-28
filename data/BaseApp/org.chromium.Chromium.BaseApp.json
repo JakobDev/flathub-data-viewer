@@ -1,10 +1,10 @@
 {
     "23.08": [
         "com.brave.Browser",
-        "com.github.Eloston.UngoogledChromium",
         "com.microsoft.Edge",
         "com.opera.Opera",
         "com.vivaldi.Vivaldi",
+        "io.github.ungoogled_software.ungoogled_chromium",
         "org.chromium.Chromium",
         "ru.yandex.Browser"
     ],

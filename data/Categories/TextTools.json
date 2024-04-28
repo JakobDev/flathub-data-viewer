@@ -6,6 +6,7 @@
     "io.gitlab.gregorni.Letterpress",
     "org.b3log.siyuan",
     "org.gnome.World.Iotas",
+    "org.gnome.gitlab.cheywood.Buffer",
     "org.standardnotes.standardnotes",
     "xyz.rescribe.rescribe"
 ]

@@ -2,8 +2,8 @@
     "dev.Cogitri.Health",
     "io.github.NickKarpowicz.LightwaveExplorer",
     "io.github.Sunderland93.sway-input-config",
-    "io.mrarm.mcpelauncher",
     "org.freecadweb.FreeCAD",
     "org.onionshare.OnionShare",
+    "re.rizin.cutter",
     "org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime"
 ]

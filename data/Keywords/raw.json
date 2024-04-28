@@ -1,5 +1,6 @@
 [
     "com.rawtherapee.RawTherapee",
     "org.darktable.Darktable",
-    "org.photoqt.PhotoQt"
+    "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt"
 ]

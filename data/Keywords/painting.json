@@ -2,5 +2,6 @@
     "com.github.PintaProject.Pinta",
     "de.bforartists.Bforartists",
     "io.sourceforge.Pixelitor",
-    "org.blender.Blender"
+    "org.blender.Blender",
+    "org.upbge.UPBGE"
 ]

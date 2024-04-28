@@ -1,6 +1,7 @@
 [
     "com.github.muriloventuroso.easyssh",
     "com.github.muriloventuroso.givemelyrics",
+    "com.rafaelmardojai.Blanket",
     "com.transmissionbt.Transmission",
     "com.xnview.XnViewMP",
     "im.dino.Dino",
@@ -16,6 +17,7 @@
     "org.gnome.Evolution",
     "org.gnome.FileRoller",
     "org.gnome.Glade",
+    "org.gnome.Mahjongg",
     "org.gnome.Nibbles",
     "org.gnome.Quadrapassel",
     "org.gnome.Robots",

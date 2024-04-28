@@ -1,4 +1,5 @@
 [
     "net.supertuxkart.SuperTuxKart",
-    "org.gimp.GIMP"
+    "org.gimp.GIMP",
+    "org.videolan.VLC"
 ]

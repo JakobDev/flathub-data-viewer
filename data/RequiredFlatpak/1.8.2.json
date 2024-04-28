@@ -1,6 +1,5 @@
 [
     "com.brave.Browser",
-    "com.github.Eloston.UngoogledChromium",
     "com.google.Chrome",
     "com.google.ChromeDev",
     "com.hack_computer.Clubhouse",
@@ -11,6 +10,7 @@
     "com.opera.Opera",
     "com.vivaldi.Vivaldi",
     "dev.vieb.Vieb",
+    "io.github.ungoogled_software.ungoogled_chromium",
     "io.wavebox.Wavebox",
     "org.chromium.Chromium",
     "ru.yandex.Browser"

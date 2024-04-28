@@ -1,4 +1,5 @@
 [
     "io.github.vinser.burnfix",
+    "io.mpv.Mpv",
     "tv.kodi.Kodi"
 ]

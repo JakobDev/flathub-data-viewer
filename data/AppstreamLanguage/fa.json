@@ -9,6 +9,7 @@
     "com.github.flxzt.rnote",
     "com.github.hugolabe.Wike",
     "com.github.muriloventuroso.pdftricks",
+    "com.github.ryonakano.reco",
     "com.github.unrud.VideoDownloader",
     "com.mattjakeman.ExtensionManager",
     "com.rafaelmardojai.Blanket",
@@ -18,9 +19,9 @@
     "com.usebottles.bottles",
     "com.xnview.XnViewMP",
     "de.haeckerfelix.AudioSharing",
+    "de.haeckerfelix.Fragments",
     "dev.geopjr.Collision",
     "dev.geopjr.Tuba",
-    "hu.kramo.Cartridges",
     "im.dino.Dino",
     "io.bassi.Amberol",
     "io.frama.tractor.carburetor",
@@ -119,6 +120,7 @@
     "org.stellarium.Stellarium",
     "org.tug.texworks",
     "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC",
     "page.codeberg.Imaginer.Imaginer",
-    "re.sonny.Junction"
+    "page.kramo.Cartridges"
 ]

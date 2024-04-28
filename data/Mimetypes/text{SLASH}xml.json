@@ -1,7 +1,6 @@
 [
     "com.brave.Browser",
     "com.ghostery.browser",
-    "com.github.Eloston.UngoogledChromium",
     "com.github.Murmele.scram",
     "com.github.maoschanz.DynamicWallpaperEditor",
     "com.google.Chrome",
@@ -14,6 +13,7 @@
     "io.atom.Atom",
     "io.github.brunoherbelin.Vimix",
     "io.github.martinrotter.textosaurus",
+    "io.github.ungoogled_software.ungoogled_chromium",
     "io.gitlab.librewolf-community",
     "io.wavebox.Wavebox",
     "ml.prevete.Daty",

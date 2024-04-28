@@ -8,6 +8,7 @@
         "com.valvesoftware.Steam.Utility",
         "com.valvesoftware.Steam.Utility.gamescope",
         "com.visualstudio.code.tool",
+        "io.github.wwmm.easyeffects.Presets",
         "org.freedesktop.LinuxAudio.Plugins",
         "org.freedesktop.LinuxAudio.Plugins.BYOD",
         "org.freedesktop.LinuxAudio.Plugins.CMT",

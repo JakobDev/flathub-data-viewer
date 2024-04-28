@@ -5,5 +5,6 @@
     "org.gimp.GIMP",
     "org.gnome.Loupe",
     "org.libvips.vipsdisp",
-    "org.photoqt.PhotoQt"
+    "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt"
 ]

@@ -9,6 +9,7 @@
     "com.thincast.client",
     "io.github.kalaksi.Lightkeeper",
     "io.github.retgal.Dayon",
+    "net.devolutions.RDM",
     "org.cockpit_project.CockpitClient",
     "org.gnome.Connections",
     "org.kde.krdc",

@@ -1,5 +1,7 @@
 [
+    "com.modrinth.ModrinthApp",
     "dev.mrquantumoff.mcmodpackmanager",
+    "net.labymod.LabyMod",
     "org.polymc.PolyMC",
     "org.prismlauncher.PrismLauncher",
     "page.codeberg.JakobDev.jdMinecraftLauncher"

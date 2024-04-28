@@ -1,5 +1,6 @@
 [
     "com.github.AlizaMedicalImaging.AlizaMS",
     "io.github.nroduit.Weasis",
-    "org.photoqt.PhotoQt"
+    "org.photoqt.PhotoQt",
+    "org.previewqt.PreviewQt"
 ]

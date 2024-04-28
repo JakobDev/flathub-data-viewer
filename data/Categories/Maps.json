@@ -1,6 +1,5 @@
 [
     "app.organicmaps",
-    "com.github.jmlich.geotagging",
     "de.akaflieg_freiburg.enroute",
     "de.schmidhuberj.DieBahn",
     "io.github.rinigus.OSMScoutServer",

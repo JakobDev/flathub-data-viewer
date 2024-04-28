@@ -8,6 +8,7 @@
     "org.gnome.Evince",
     "org.gnome.Evolution",
     "org.gnome.FileRoller",
+    "org.gnome.Mahjongg",
     "org.gnome.Sudoku",
     "org.gnome.baobab",
     "org.gnome.eog",
@@ -16,5 +17,6 @@
     "org.inkscape.Inkscape",
     "org.kde.gcompris",
     "org.stellarium.Stellarium",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC"
 ]

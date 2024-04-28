@@ -1,4 +1,5 @@
 [
     "io.emeric.toolblex",
-    "io.emeric.watchflower"
+    "io.emeric.watchflower",
+    "io.github.wiiznokes.fan-control"
 ]

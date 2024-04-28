@@ -2,11 +2,12 @@
     "com.github.GradienceTeam.Gradience",
     "com.github.flxzt.rnote",
     "com.github.junrrein.PDFSlicer",
+    "com.github.ryonakano.pinit",
     "com.github.tenderowl.frog",
     "com.github.unrud.VideoDownloader",
     "com.usebottles.bottles",
+    "dev.bragefuglseth.Fretboard",
     "dev.geopjr.Tuba",
-    "hu.kramo.Cartridges",
     "io.github.Foldex.AdwSteamGtk",
     "io.github.flattool.Warehouse",
     "io.github.fm_elpac.pmim_ibus",
@@ -16,7 +17,7 @@
     "io.github.seadve.Mousai",
     "org.nickvision.cavalier",
     "org.parlatype.Parlatype",
+    "page.kramo.Cartridges",
     "re.sonny.Commit",
-    "re.sonny.Junction",
     "re.sonny.Tangram"
 ]

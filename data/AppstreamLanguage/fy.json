@@ -13,6 +13,7 @@
     "org.gnome.baobab",
     "org.gnome.clocks",
     "org.gnome.eog",
+    "org.videolan.VLC",
     "org.widelands.Widelands",
     "org.x.Warpinator"
 ]

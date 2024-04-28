@@ -1,6 +1,9 @@
 [
     "com.amazon.Workspaces",
+    "de.ifw_dresden.nagstamon",
+    "de.nagstamon.nagstamon",
     "io.github.iSlammedMyKindle.godotGem",
+    "net.devolutions.RDM",
     "net.shrew.ike.qikea",
     "org.gnome.Connections",
     "uk.org.greenend.chiark.sgtatham.putty"

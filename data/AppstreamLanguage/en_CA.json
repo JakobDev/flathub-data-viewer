@@ -13,9 +13,11 @@
     "org.gnome.Four-in-a-row",
     "org.gnome.GHex",
     "org.gnome.Geary",
+    "org.gnome.Mahjongg",
     "org.gnome.Sudoku",
     "org.gnome.SwellFoop",
     "org.gnome.five-or-more",
+    "org.gnome.gThumb",
     "org.gnome.meld",
     "org.tuxpaint.Tuxpaint"
 ]

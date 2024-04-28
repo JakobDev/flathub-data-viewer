@@ -12,6 +12,7 @@
     "io.github.webcamoid.Webcamoid",
     "io.github.zaps166.QMPlay2",
     "io.gitlab.adhami3310.Footage",
+    "io.mpv.Mpv",
     "io.otsaloma.gaupol",
     "net.mediaarea.MediaInfo",
     "net.mediaarea.QCTools",
@@ -23,6 +24,7 @@
     "org.nickvision.tubeconverter",
     "org.photoqt.PhotoQt",
     "org.pitivi.Pitivi",
+    "org.previewqt.PreviewQt",
     "org.shotcut.Shotcut",
     "tv.kodi.Kodi"
 ]

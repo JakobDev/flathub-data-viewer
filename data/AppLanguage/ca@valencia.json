@@ -5,7 +5,6 @@
     "org.gnome.Aisleriot",
     "org.gnome.Cheese",
     "org.gnome.ColorViewer",
-    "org.gnome.DejaDup",
     "org.gnome.Devhelp",
     "org.gnome.Four-in-a-row",
     "org.gnome.Glade",
@@ -13,12 +12,9 @@
     "org.gnome.Hitori",
     "org.gnome.Klotski",
     "org.gnome.LightsOff",
-    "org.gnome.Mahjongg",
     "org.gnome.Mines",
-    "org.gnome.NautilusPreviewer",
     "org.gnome.Nibbles",
     "org.gnome.OCRFeeder",
-    "org.gnome.Polari",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Reversi",
@@ -38,6 +34,5 @@
     "org.gnome.glabels-3",
     "org.gnome.seahorse.Application",
     "org.musescore.MuseScore",
-    "org.pitivi.Pitivi",
     "org.stellarium.Stellarium"
 ]

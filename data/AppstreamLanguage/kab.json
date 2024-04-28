@@ -1,13 +1,22 @@
 [
     "ca.desrt.dconf-editor",
     "dev.geopjr.Tuba",
+    "org.gnome.Builder",
     "org.gnome.Calendar",
     "org.gnome.Characters",
     "org.gnome.Contacts",
     "org.gnome.Extensions",
+    "org.gnome.FileRoller",
     "org.gnome.Logs",
+    "org.gnome.Loupe",
+    "org.gnome.Maps",
+    "org.gnome.NautilusPreviewer",
+    "org.gnome.Snapshot",
+    "org.gnome.TextEditor",
     "org.gnome.Totem",
     "org.gnome.baobab",
+    "org.parlatype.Parlatype",
     "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC",
     "org.x.Warpinator"
 ]

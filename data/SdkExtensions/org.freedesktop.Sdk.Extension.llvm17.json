@@ -1,14 +1,16 @@
 [
-    "com.github.Eloston.UngoogledChromium",
+    "com.github.flxzt.rnote",
     "com.github.unrud.djpdf",
-    "dev.lizardbyte.app.Sunshine",
+    "io.github.ungoogled_software.ungoogled_chromium",
+    "io.github.wiiznokes.fan-control",
+    "io.mrarm.mcpelauncher",
     "net.pcsx2.PCSX2",
-    "net.rpcs3.RPCS3",
     "org.chromium.Chromium",
     "org.cloudcompare.CloudCompare",
     "org.duckstation.DuckStation",
     "org.fkoehler.KTailctl",
     "org.kde.kdenlive",
+    "org.kde.kdevelop",
     "org.ultimatepp.TheIDE",
     "org.fcitx.Fcitx5.Addon.Mozc"
 ]

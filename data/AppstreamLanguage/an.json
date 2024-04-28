@@ -8,6 +8,7 @@
     "org.gnome.Hitori",
     "org.gnome.LightsOff",
     "org.gnome.Logs",
+    "org.gnome.Mahjongg",
     "org.gnome.Maps",
     "org.gnome.Mines",
     "org.gnome.Music",
@@ -21,5 +22,6 @@
     "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.font-viewer",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC"
 ]

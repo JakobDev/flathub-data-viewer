@@ -18,6 +18,7 @@
     "org.gnome.Gnote",
     "org.gnome.Klotski",
     "org.gnome.LightsOff",
+    "org.gnome.Mahjongg",
     "org.gnome.Maps",
     "org.gnome.Mines",
     "org.gnome.Music",
@@ -44,6 +45,7 @@
     "org.moneymanagerex.MMEX",
     "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC",
     "org.virt_manager.virt-viewer",
     "org.x.Warpinator"
 ]

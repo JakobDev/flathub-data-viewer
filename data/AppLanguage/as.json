@@ -9,11 +9,8 @@
     "org.gnome.Hitori",
     "org.gnome.Klotski",
     "org.gnome.LightsOff",
-    "org.gnome.Mahjongg",
     "org.gnome.Mines",
-    "org.gnome.NautilusPreviewer",
     "org.gnome.Nibbles",
-    "org.gnome.Polari",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",
@@ -26,6 +23,5 @@
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.gedit",
-    "org.gnome.seahorse.Application",
-    "org.gnucash.GnuCash"
+    "org.gnome.seahorse.Application"
 ]

@@ -1,10 +1,13 @@
 [
     "com.mongodb.Compass",
+    "com.rabbit_company.passky",
     "dev.lizardbyte.app.Sunshine",
     "in.cinny.Cinny",
     "info.beyondallreason.bar",
     "io.github.libredirect.frontends-manager",
     "io.podman_desktop.PodmanDesktop",
     "it.fabiodistasio.AntaresSQL",
-    "org.freedesktop.appstream.generator"
+    "moe.karaokes.mugen",
+    "org.freedesktop.appstream.generator",
+    "rocks.poopjournal.librelinkupdesktop"
 ]

@@ -3,7 +3,6 @@
     "org.gnome.Devhelp",
     "org.gnome.Four-in-a-row",
     "org.gnome.Klotski",
-    "org.gnome.Mahjongg",
     "org.gnome.Mines",
     "org.gnome.Nibbles",
     "org.gnome.PowerStats",
@@ -15,6 +14,5 @@
     "org.gnome.Totem",
     "org.gnome.eog",
     "org.gnome.five-or-more",
-    "org.gnome.gedit",
-    "org.gnucash.GnuCash"
+    "org.gnome.gedit"
 ]

@@ -3,5 +3,6 @@
     "com.gitlab.davem.ClamTk",
     "com.transmissionbt.Transmission",
     "org.gnome.Epiphany",
-    "org.gnome.eog"
+    "org.gnome.eog",
+    "org.videolan.VLC"
 ]

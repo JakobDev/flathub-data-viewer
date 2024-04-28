@@ -1,6 +1,7 @@
 [
     "com.abisource.AbiWord",
     "com.calibre_ebook.calibre",
+    "io.github.nyre221.kiview",
     "io.gitlab.coolreader_ng.crqt-ng",
     "io.gitlab.o20.word",
     "org.gottcode.FocusWriter",

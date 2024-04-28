@@ -6,14 +6,11 @@
     "org.gimp.GIMP",
     "org.gnome.Aisleriot",
     "org.gnome.Cheese",
-    "org.gnome.DejaDup",
     "org.gnome.Devhelp",
     "org.gnome.Four-in-a-row",
     "org.gnome.Glade",
     "org.gnome.Klotski",
-    "org.gnome.Mahjongg",
     "org.gnome.Mines",
-    "org.gnome.NautilusPreviewer",
     "org.gnome.Nibbles",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
@@ -26,6 +23,5 @@
     "org.gnome.five-or-more",
     "org.gnome.gbrainy",
     "org.gnome.gedit",
-    "org.gnome.seahorse.Application",
-    "org.pitivi.Pitivi"
+    "org.gnome.seahorse.Application"
 ]

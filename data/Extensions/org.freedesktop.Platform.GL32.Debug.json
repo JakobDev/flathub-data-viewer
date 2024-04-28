@@ -1,4 +1,6 @@
 [
     "com.scoutshonour.Digital",
-    "com.valvesoftware.Steam"
+    "com.valvesoftware.Steam",
+    "org.winehq.Wine",
+    "ru.linux_gaming.PortProton"
 ]

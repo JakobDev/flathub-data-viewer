@@ -32,6 +32,7 @@
     "org.gnome.Nibbles",
     "org.gnome.OCRFeeder",
     "org.gnome.Photos",
+    "org.gnome.Polari",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Reversi",
@@ -58,5 +59,6 @@
     "org.inkscape.Inkscape",
     "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.videolan.VLC"
 ]

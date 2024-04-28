@@ -2,5 +2,6 @@
     "com.github.themix_project.Oomox",
     "im.srain.Srain",
     "io.github.manisandro.gImageReader",
+    "org.gnome.gitlab.cheywood.Buffer",
     "org.gnunet.Messenger"
 ]

@@ -1,4 +1,5 @@
 [
     "com.ownrwallet.wallet",
-    "io.exodus.Exodus"
+    "io.exodus.Exodus",
+    "io.greenfire.Greenery"
 ]

@@ -6,8 +6,8 @@
     "cz.zeropage.Formiko",
     "io.atom.Atom",
     "io.github.lainsce.Quilter",
-    "io.github.wereturtle.ghostwriter",
     "io.typora.Typora",
     "org.gnome.Builder",
-    "org.gnome.gitlab.somas.Apostrophe"
+    "org.gnome.gitlab.somas.Apostrophe",
+    "org.kde.ghostwriter"
 ]
