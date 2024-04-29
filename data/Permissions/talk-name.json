@@ -3225,7 +3225,6 @@
         "io.github.celluloid_player.Celluloid",
         "io.github.quodlibet.QuodLibet",
         "org.clementine_player.Clementine",
-        "org.gnome.Evince",
         "org.strawberrymusicplayer.strawberry"
     ],
     "org.gnome.shell.screencast": [
