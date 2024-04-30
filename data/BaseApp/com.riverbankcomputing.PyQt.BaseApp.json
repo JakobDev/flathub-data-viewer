@@ -32,11 +32,9 @@
     "6.6": [
         "com.borgbase.Vorta",
         "com.rtosta.zapzap",
-        "de.ifw_dresden.nagstamon",
         "de.nagstamon.nagstamon",
         "io.github.hydrusnetwork.hydrus",
         "io.github.jordanl2.ModularCalculator",
-        "io.github.yuki_iptv.yuki-iptv",
         "me.mitya57.ReText",
         "org.mintguide.WebAppReader",
         "page.codeberg.DrRac27.Karoto",
@@ -55,6 +53,9 @@
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
         "page.codeberg.JakobDev.jdTextEdit"
+    ],
+    "6.7": [
+        "io.github.yuki_iptv.yuki-iptv"
     ],
     "5.15-22.08": [
         "net.puddletag.puddletag",
