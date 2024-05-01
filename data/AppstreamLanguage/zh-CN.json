@@ -1,6 +1,7 @@
 [
     "com.github.coslyk.MoonPlayer",
     "im.kaidan.kaidan",
+    "io.github.glaumar.QRookie",
     "net.blumia.pineapple-pictures",
     "org.freedesktop.appstream.cli",
     "org.kde.SymbolEditor",

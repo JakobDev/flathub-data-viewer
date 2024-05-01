@@ -150,7 +150,6 @@
         "org.gnome.gitlab.somas.Apostrophe",
         "org.gnome.glabels-3",
         "org.gnome.moserial",
-        "org.gnucash.GnuCash",
         "org.grisbi.Grisbi",
         "org.gustavoperedo.FontDownloader",
         "org.kekikakademi.eFatura",
@@ -186,7 +185,6 @@
         "org.upnproutercontrol.UPnPRouterControl",
         "org.worldpossible.ScriptLauncher",
         "page.codeberg.Imaginer.Imaginer",
-        "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "pm.mirko.Atoms",
         "re.sonny.Playhouse",
         "ro.fxdata.taskmonitor.viewer",
@@ -372,6 +370,7 @@
         "org.gnome.gitlab.Cowsay",
         "org.gnome.gitlab.cheywood.Buffer",
         "org.gnu.pspp",
+        "org.gnucash.GnuCash",
         "org.gnunet.Messenger",
         "org.gramps_project.Gramps",
         "org.gtimelog.GTimeLog",
@@ -386,6 +385,7 @@
         "org.sonic3air.Sonic3AIR",
         "org.soundconverter.SoundConverter",
         "org.zrythm.Zrythm",
+        "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "page.codeberg.tpikonen.geobug",
         "page.codeberg.tpikonen.satellite",
         "page.kramo.Cartridges",
@@ -393,6 +393,7 @@
         "re.sonny.Retro",
         "se.sjoerd.Graphs",
         "so.libdb.dissent",
+        "xyz.safeworlds.hiit",
         "xyz.tytanium.DoorKnocker"
     ],
     "45": [
@@ -675,7 +676,6 @@
         "vn.hoabinh.quan.CoBang",
         "xyz.aguno.CubeTimer",
         "xyz.ketok.Speedtest",
-        "xyz.safeworlds.hiit",
         "xyz.slothlife.Jogger"
     ],
     "42": [
