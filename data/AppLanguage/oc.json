@@ -15,7 +15,6 @@
     "io.bassi.Amberol",
     "io.github.celluloid_player.Celluloid",
     "io.github.lainsce.Colorway",
-    "io.github.mrvladus.List",
     "io.github.nate_xyz.Paleta",
     "io.posidon.Paper",
     "net.poedit.Poedit",
@@ -61,7 +60,6 @@
     "org.gnome.gedit",
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
-    "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.glabels-3",
     "org.gnome.seahorse.Application",
     "org.x.Warpinator"

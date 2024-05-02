@@ -2228,7 +2228,6 @@
         "ch.x29a.playitslowly",
         "com.carpeludum.KegaFusion",
         "com.corsixth.corsixth",
-        "com.github.keriew.augustus",
         "com.github.maoschanz.DynamicWallpaperEditor",
         "com.github.marinm.songrec",
         "com.github.rhyme_player.rhyme",
@@ -2620,6 +2619,7 @@
         "org.gnome.eog",
         "org.gnome.gThumb",
         "org.gnome.gedit",
+        "org.gnome.gitlab.somas.Apostrophe",
         "org.gnu.pspp",
         "org.gnumeric.Gnumeric",
         "org.inkscape.Inkscape",
@@ -3517,8 +3517,6 @@
     "xdg-config/gtk-3.0:ro": [
         "de.willuhn.Jameica",
         "dev.bsnes.bsnes",
-        "io.github.quodlibet.ExFalso",
-        "io.github.quodlibet.QuodLibet",
         "io.github.slgobinath.SafeEyes",
         "net.retrodeck.retrodeck"
     ],

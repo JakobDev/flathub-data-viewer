@@ -3,6 +3,8 @@
     "com.github.cassidyjames.dippi",
     "com.github.treagod.spectator",
     "com.xnview.XnViewMP",
+    "io.github.quodlibet.ExFalso",
+    "io.github.quodlibet.QuodLibet",
     "org.gimp.GIMP",
     "org.gnome.Calculator",
     "org.gnome.Contacts",

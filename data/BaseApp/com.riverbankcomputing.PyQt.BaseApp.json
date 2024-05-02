@@ -34,7 +34,6 @@
         "com.rtosta.zapzap",
         "de.nagstamon.nagstamon",
         "io.github.hydrusnetwork.hydrus",
-        "io.github.jordanl2.ModularCalculator",
         "me.mitya57.ReText",
         "org.mintguide.WebAppReader",
         "page.codeberg.DrRac27.Karoto",
@@ -43,19 +42,20 @@
         "page.codeberg.JakobDev.jdDBusDebugger",
         "page.codeberg.JakobDev.jdDesktopEntryEdit",
         "page.codeberg.JakobDev.jdDiff",
-        "page.codeberg.JakobDev.jdEolConverter",
-        "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "page.codeberg.JakobDev.jdMacroPlayer",
         "page.codeberg.JakobDev.jdMinecraftLauncher",
         "page.codeberg.JakobDev.jdMrpackInstaller",
-        "page.codeberg.JakobDev.jdNBTExplorer",
         "page.codeberg.JakobDev.jdProcessFileWatcher",
-        "page.codeberg.JakobDev.jdReplace",
-        "page.codeberg.JakobDev.jdSimpleAutostart",
         "page.codeberg.JakobDev.jdTextEdit"
     ],
     "6.7": [
-        "io.github.yuki_iptv.yuki-iptv"
+        "io.github.jordanl2.ModularCalculator",
+        "io.github.yuki_iptv.yuki-iptv",
+        "page.codeberg.JakobDev.jdEolConverter",
+        "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.JakobDev.jdNBTExplorer",
+        "page.codeberg.JakobDev.jdReplace",
+        "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "5.15-22.08": [
         "net.puddletag.puddletag",
