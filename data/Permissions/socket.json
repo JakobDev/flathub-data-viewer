@@ -7175,5 +7175,8 @@
         "org.gnome.Builder",
         "org.gnome.dspy",
         "page.codeberg.JakobDev.jdDBusDebugger"
+    ],
+    "inherit-wayland-socket": [
+        "org.fcitx.Fcitx5"
     ]
 }

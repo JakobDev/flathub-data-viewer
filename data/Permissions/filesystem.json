@@ -3511,6 +3511,9 @@
     "~/.prefs": [
         "de.sesu8642.feudaltactics"
     ],
+    "/run/mpd": [
+        "de.wagnermartin.Plattenalbum"
+    ],
     "xdg-run/mpd": [
         "de.wagnermartin.Plattenalbum"
     ],

@@ -15,6 +15,7 @@
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetbrains.PhpStorm",
+        "com.jetbrains.PyCharm-Community",
         "com.jetbrains.PyCharm-Professional",
         "com.jetbrains.Rider",
         "com.jetbrains.RubyMine",
@@ -41,8 +42,13 @@
         "org.thonny.Thonny",
         "org.vim.Vim"
     ],
+    "21.08": [
+        "com.okta.developer.CLI",
+        "com.sublimetext.three",
+        "com.synology.CloudStationBackup",
+        "io.stoplight.studio"
+    ],
     "22.08": [
-        "com.jetbrains.PyCharm-Community",
         "com.pinegrow.Pinegrow",
         "com.synology.SynologyAssistant",
         "com.unity.UnityHub",
@@ -55,12 +61,6 @@
         "org.apache.netbeans",
         "org.codeblocks.codeblocks",
         "org.scilab.Scilab"
-    ],
-    "21.08": [
-        "com.okta.developer.CLI",
-        "com.sublimetext.three",
-        "com.synology.CloudStationBackup",
-        "io.stoplight.studio"
     ],
     "19.08": [
         "org.aliflang.lang"
