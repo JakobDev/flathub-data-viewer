@@ -38,8 +38,6 @@
         "org.mintguide.WebAppReader",
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
-        "page.codeberg.JakobDev.jdAppStreamEdit",
-        "page.codeberg.JakobDev.jdDBusDebugger",
         "page.codeberg.JakobDev.jdDesktopEntryEdit",
         "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdMacroPlayer",
@@ -51,6 +49,8 @@
     "6.7": [
         "io.github.jordanl2.ModularCalculator",
         "io.github.yuki_iptv.yuki-iptv",
+        "page.codeberg.JakobDev.jdAppStreamEdit",
+        "page.codeberg.JakobDev.jdDBusDebugger",
         "page.codeberg.JakobDev.jdEolConverter",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "page.codeberg.JakobDev.jdNBTExplorer",

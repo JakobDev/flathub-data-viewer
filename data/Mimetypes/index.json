@@ -1805,7 +1805,6 @@
         "x-scheme-handler{SLASH}notion",
         "x-scheme-handler{SLASH}obsidian",
         "x-scheme-handler{SLASH}onekey-wallet",
-        "x-scheme-handler{SLASH}onvif",
         "x-scheme-handler{SLASH}oo-office",
         "x-scheme-handler{SLASH}opds",
         "x-scheme-handler{SLASH}openpgp4fpr",

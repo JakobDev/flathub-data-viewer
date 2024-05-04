@@ -78,6 +78,7 @@
         "Vim",
         "WTFPL",
         "Zlib",
+        "proprietary",
         "zlib-acknowledgement"
     ],
     "dataNames": {}
