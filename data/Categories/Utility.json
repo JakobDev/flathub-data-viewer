@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.drey.Damask",
     "app.drey.Elastic",
     "app.drey.KeyRack",
     "app.drey.Warp",
@@ -524,6 +525,7 @@
     "org.kde.itinerary",
     "org.kde.kalk",
     "org.kde.kcalc",
+    "org.kde.kcharselect",
     "org.kde.kclock",
     "org.kde.keysmith",
     "org.kde.kfind",

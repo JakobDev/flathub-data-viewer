@@ -1,5 +1,6 @@
 [
     "app.drey.Blurble",
+    "app.drey.Damask",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
@@ -59,6 +60,7 @@
     "io.github.seadve.Kooha",
     "io.github.seadve.Mousai",
     "io.gitlab.Goodvibes",
+    "io.gitlab.gregorni.Letterpress",
     "io.gitlab.news_flash.NewsFlash",
     "io.missioncenter.MissionCenter",
     "io.otsaloma.gaupol",
@@ -223,6 +225,7 @@
     "org.kde.kbruch",
     "org.kde.kcachegrind",
     "org.kde.kcalc",
+    "org.kde.kcharselect",
     "org.kde.kclock",
     "org.kde.kcolorchooser",
     "org.kde.kdenlive",

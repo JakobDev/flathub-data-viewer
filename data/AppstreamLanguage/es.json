@@ -1,5 +1,6 @@
 [
     "app.bbsync.BlackboardSync",
+    "app.drey.Damask",
     "app.drey.EarTag",
     "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
@@ -372,6 +373,7 @@
     "org.kde.kbruch",
     "org.kde.kcachegrind",
     "org.kde.kcalc",
+    "org.kde.kcharselect",
     "org.kde.kclock",
     "org.kde.kcolorchooser",
     "org.kde.kdenlive",

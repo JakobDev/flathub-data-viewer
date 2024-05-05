@@ -1,4 +1,5 @@
 [
+    "app.drey.Damask",
     "app.drey.MultiplicationPuzzle",
     "ca.parallel_launcher.ParallelLauncher",
     "com.belmoussaoui.Authenticator",
@@ -6,6 +7,7 @@
     "com.dropbox.Client",
     "com.endlessm.photos",
     "com.felipekinoshita.Wildcard",
+    "com.github.ADBeveridge.Raider",
     "com.github.GradienceTeam.Gradience",
     "com.github.babluboy.bookworm",
     "com.github.flxzt.rnote",
@@ -141,6 +143,7 @@
     "org.kde.kbreakout",
     "org.kde.kbruch",
     "org.kde.kcalc",
+    "org.kde.kcharselect",
     "org.kde.kclock",
     "org.kde.kcolorchooser",
     "org.kde.kdenlive",

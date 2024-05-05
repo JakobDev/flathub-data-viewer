@@ -1,6 +1,5 @@
 [
     "app.drey.Blurble",
-    "app.drey.Damask",
     "app.drey.KeyRack",
     "ca.desrt.dconf-editor",
     "codes.nora.gDiceRoller",
@@ -12,7 +11,6 @@
     "com.felipekinoshita.Kana",
     "com.felipekinoshita.Wildcard",
     "com.frac_tion.teleport",
-    "com.github.ADBeveridge.Raider",
     "com.raggesilver.BlackBox",
     "cool.ldr.lfy",
     "de.haeckerfelix.Shortwave",
@@ -24,7 +22,6 @@
     "in.bharatkalluri.shortcircuit",
     "in.bharatkalluri.splash",
     "io.bassi.Amberol",
-    "io.gitlab.gregorni.Letterpress",
     "io.gitlab.theevilskeleton.Upscaler",
     "me.hergert.Schemes",
     "ml.prevete.Daty",

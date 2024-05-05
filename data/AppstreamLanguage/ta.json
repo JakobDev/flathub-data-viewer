@@ -73,6 +73,7 @@
     "org.kde.filelight",
     "org.kde.gwenview",
     "org.kde.kcalc",
+    "org.kde.kcharselect",
     "org.kde.kcolorchooser",
     "org.kde.konsole",
     "org.kde.kwrite",

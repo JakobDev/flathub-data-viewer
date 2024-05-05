@@ -1,4 +1,5 @@
 [
+    "app.drey.EarTag",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
     "com.adrienplazas.Metronome",
@@ -54,6 +55,7 @@
     "org.gnome.Weather",
     "org.gnome.World.Citations",
     "org.gnome.World.Secrets",
+    "org.gnome.atomix",
     "org.gnome.baobab",
     "org.gnome.clocks",
     "org.gnome.design.Emblem",
@@ -77,6 +79,7 @@
     "org.kde.filelight",
     "org.kde.gwenview",
     "org.kde.kcalc",
+    "org.kde.kcharselect",
     "org.kde.kcolorchooser",
     "org.kde.kdf",
     "org.kde.kfind",

@@ -1,5 +1,6 @@
 [
     "app.drey.Blurble",
+    "app.drey.EarTag",
     "app.drey.Elastic",
     "app.drey.Warp",
     "ca.desrt.dconf-editor",
@@ -173,6 +174,7 @@
     "org.kde.kbruch",
     "org.kde.kcachegrind",
     "org.kde.kcalc",
+    "org.kde.kcharselect",
     "org.kde.kclock",
     "org.kde.kcolorchooser",
     "org.kde.kdenlive",

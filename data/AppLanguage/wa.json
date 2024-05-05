@@ -1,6 +1,5 @@
 [
     "io.github.Hexchat",
-    "org.gnome.atomix",
     "org.gnome.eog",
     "org.gnome.gedit"
 ]

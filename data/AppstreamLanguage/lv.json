@@ -62,6 +62,7 @@
     "org.gnome.TextEditor",
     "org.gnome.Totem",
     "org.gnome.Weather",
+    "org.gnome.atomix",
     "org.gnome.baobab",
     "org.gnome.clocks",
     "org.gnome.dspy",
