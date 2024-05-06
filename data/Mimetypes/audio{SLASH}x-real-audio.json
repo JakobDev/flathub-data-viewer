@@ -11,6 +11,7 @@
     "net.mediaarea.MediaConch",
     "net.mediaarea.MediaInfo",
     "org.cubocore.CoreInfo",
+    "org.feichtmeier.Musicpod",
     "org.shotcut.Shotcut",
     "org.videolan.VLC",
     "ru.sview.sView"

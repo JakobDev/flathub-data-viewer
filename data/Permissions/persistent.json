@@ -257,6 +257,15 @@
     ".SynologyDrive": [
         "com.synology.SynologyDrive"
     ],
+    ".syno_ns_app": [
+        "com.synology.synology-note-station"
+    ],
+    ".note_data": [
+        "com.synology.synology-note-station"
+    ],
+    ".syno_ns_backup": [
+        "com.synology.synology-note-station"
+    ],
     ".thinkorswim": [
         "com.tdameritrade.ThinkOrSwim"
     ],

@@ -13,6 +13,7 @@
     "net.mediaarea.MediaConch",
     "net.mediaarea.MediaInfo",
     "org.cubocore.CoreInfo",
+    "org.feichtmeier.Musicpod",
     "org.gnome.Totem",
     "org.kde.haruna",
     "org.kde.kaffeine",

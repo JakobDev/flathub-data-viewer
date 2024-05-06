@@ -18,6 +18,7 @@
     "net.mediaarea.MediaConch",
     "net.mediaarea.MediaInfo",
     "org.cubocore.CoreInfo",
+    "org.feichtmeier.Musicpod",
     "org.kde.haruna",
     "org.kde.kaffeine",
     "org.kde.kid3",

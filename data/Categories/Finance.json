@@ -37,6 +37,7 @@
     "org.opentransactions.metier",
     "org.tryton.Tryton-68",
     "org.tryton.Tryton-70",
+    "org.tryton.Tryton-72",
     "org.vergecurrency.verge-qt",
     "org.vertcoin.vertcoin-qt"
 ]

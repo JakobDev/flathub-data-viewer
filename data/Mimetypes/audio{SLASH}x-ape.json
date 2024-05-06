@@ -21,6 +21,7 @@
     "net.mediaarea.MediaInfo",
     "org.cubocore.CoreInfo",
     "org.exaile.Exaile",
+    "org.feichtmeier.Musicpod",
     "org.freac.freac",
     "org.gnome.Decibels",
     "org.gnome.EasyTAG",

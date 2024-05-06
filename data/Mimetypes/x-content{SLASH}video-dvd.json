@@ -5,6 +5,7 @@
     "io.github.celluloid_player.Celluloid",
     "io.gitlab.daikhan.stable",
     "net.baseart.Glide",
+    "org.feichtmeier.Musicpod",
     "org.gnome.Brasero",
     "org.gnome.Totem",
     "org.kde.kaffeine",

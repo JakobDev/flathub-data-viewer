@@ -9,6 +9,7 @@
     "io.github.celluloid_player.Celluloid",
     "io.gitlab.daikhan.stable",
     "org.clementine_player.Clementine",
+    "org.feichtmeier.Musicpod",
     "org.gnome.Lollypop",
     "org.kde.kaffeine",
     "org.shotcut.Shotcut",

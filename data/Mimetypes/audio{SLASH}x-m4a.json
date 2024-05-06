@@ -20,6 +20,7 @@
     "net.mediaarea.MediaInfo",
     "org.cubocore.CoreInfo",
     "org.exaile.Exaile",
+    "org.feichtmeier.Musicpod",
     "org.gnome.Decibels",
     "org.gnome.Lollypop",
     "org.kde.haruna",

@@ -345,6 +345,7 @@
         "io.github.Youda008.DoomRunner",
         "io.github._0xzer0x.qurancompanion",
         "io.github.aandrew_me.ytdn",
+        "io.github.androidvirtualpen.virtualpen",
         "io.github.antimicrox.antimicrox",
         "io.github.bkueng.qMasterPassword",
         "io.github.bothlab.pomidaq",
@@ -858,6 +859,7 @@
         "studio.kx.carla",
         "tr.com.ikooskar.ikoOSKAR",
         "ua.org.brezblock.q4wine",
+        "uk.co.piggz.amazfish",
         "uk.org.zint.zint-qt",
         "website.i2pd.i2pd",
         "xyz.mx_moment.moment",
@@ -991,6 +993,7 @@
         "io.github.Sunderland93.sway-input-config",
         "io.github.Youda008.DoomRunner",
         "io.github._0xzer0x.qurancompanion",
+        "io.github.androidvirtualpen.virtualpen",
         "io.github.antimicrox.antimicrox",
         "io.github.bkueng.qMasterPassword",
         "io.github.bothlab.pomidaq",
@@ -1059,6 +1062,7 @@
         "io.github.webcamoid.Webcamoid",
         "io.github.wh201906.serialtest",
         "io.github.xaos_project.XaoS",
+        "io.github.xiaoyifang.goldendict_ng",
         "io.github.yuki_iptv.yuki-iptv",
         "io.github.yuxshao.ptcollab",
         "io.github.zaps166.QMPlay2",
@@ -1420,6 +1424,7 @@
         "studio.kx.carla",
         "tr.com.ikooskar.ikoOSKAR",
         "ua.org.brezblock.q4wine",
+        "uk.co.piggz.amazfish",
         "website.i2pd.i2pd",
         "xyz.mx_moment.moment",
         "xyz.z3ntu.razergenie"
@@ -1548,6 +1553,7 @@
         "io.github.Sunderland93.sway-input-config",
         "io.github.Youda008.DoomRunner",
         "io.github._0xzer0x.qurancompanion",
+        "io.github.androidvirtualpen.virtualpen",
         "io.github.antimicrox.antimicrox",
         "io.github.bkueng.qMasterPassword",
         "io.github.bothlab.pomidaq",
@@ -1612,6 +1618,7 @@
         "io.github.voxelcubes.panelcleaner",
         "io.github.wh201906.serialtest",
         "io.github.xaos_project.XaoS",
+        "io.github.xiaoyifang.goldendict_ng",
         "io.github.yuki_iptv.yuki-iptv",
         "io.github.yuxshao.ptcollab",
         "io.github.zaps166.QMPlay2",
@@ -1967,6 +1974,7 @@
         "studio.kx.carla",
         "tr.com.ikooskar.ikoOSKAR",
         "ua.org.brezblock.q4wine",
+        "uk.co.piggz.amazfish",
         "website.i2pd.i2pd",
         "xyz.mx_moment.moment",
         "xyz.z3ntu.razergenie"
@@ -2498,6 +2506,7 @@
         "social.whalebird.WhalebirdDesktop",
         "tw.ddnet.ddnet",
         "ua.org.brezblock.q4wine",
+        "uk.co.piggz.amazfish",
         "work.openpaper.Paperwork",
         "xyz.armcord.ArmCord",
         "xyz.mx_moment.moment"
@@ -2934,6 +2943,7 @@
         "net.mullvad.MullvadBrowser",
         "one.ablaze.floorp",
         "org.chromium.Chromium",
+        "org.feichtmeier.Musicpod",
         "org.filezillaproject.Filezilla",
         "org.gnome.Evince",
         "org.gnome.Extensions",
@@ -3215,7 +3225,8 @@
         "io.gitlab.azymohliad.WatchMate",
         "moe.tundra.Tundra",
         "org.gajim.Gajim",
-        "org.nicotine_plus.Nicotine"
+        "org.nicotine_plus.Nicotine",
+        "uk.co.piggz.amazfish"
     ],
     "org.gnome.shell.extensions.streamcontroller": [
         "com.core447.StreamController"
@@ -3713,6 +3724,9 @@
     ],
     "org.freedesktop.portal.screencast": [
         "sa.sy.bluerecorder"
+    ],
+    "io.github.rinigus.puremaps": [
+        "uk.co.piggz.amazfish"
     ],
     "org.razer": [
         "xyz.z3ntu.razergenie"

@@ -8,6 +8,7 @@
     ],
     "3.5-23.08": [
         "com.orama_interactive.Pixelorama",
+        "io.github.hepfnepf.blutfest",
         "org.dupot.littleadventure",
         "org.simondalvai.ball2box",
         "org.simondalvai.pocket-broomball"

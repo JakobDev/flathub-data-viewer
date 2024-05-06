@@ -12,6 +12,7 @@
     "net.mediaarea.MediaConch",
     "net.mediaarea.MediaInfo",
     "org.cubocore.CoreInfo",
+    "org.feichtmeier.Musicpod",
     "org.gnome.Decibels",
     "org.shotcut.Shotcut",
     "org.videolan.VLC",

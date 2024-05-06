@@ -307,6 +307,9 @@
     "org.mpris.mediaplayer2.clementine": [
         "org.clementine_player.Clementine"
     ],
+    "org.mpris.mediaplayer2.musicpod.*": [
+        "org.feichtmeier.Musicpod"
+    ],
     "com.secondlife.viewerappapiservice": [
         "org.firestormviewer.FirestormViewer"
     ],

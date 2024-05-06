@@ -1,5 +1,6 @@
 [
     "com.github.taiko2k.tauonmb",
+    "org.feichtmeier.Musicpod",
     "org.gnome.Podcasts",
     "org.gnome.Rhythmbox3"
 ]

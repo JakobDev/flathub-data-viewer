@@ -4,6 +4,7 @@
     "io.github.celluloid_player.Celluloid",
     "io.gitlab.daikhan.stable",
     "net.baseart.Glide",
+    "org.feichtmeier.Musicpod",
     "org.gnome.Totem",
     "org.shotcut.Shotcut",
     "org.sigxcpu.Livi",

@@ -54,6 +54,7 @@
     "org.blender.Blender",
     "org.d3cod3.Mosaic",
     "org.endlessos.Key",
+    "org.feichtmeier.Musicpod",
     "org.freedesktop.appstream.generator",
     "org.freedownloadmanager.Manager",
     "org.gabmus.giara",

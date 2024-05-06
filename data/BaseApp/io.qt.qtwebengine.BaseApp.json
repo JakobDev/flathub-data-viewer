@@ -2,6 +2,7 @@
     "6.7": [
         "ch.openboard.OpenBoard",
         "com.riverbankcomputing.PyQt.BaseApp",
+        "io.github.xiaoyifang.goldendict_ng",
         "io.mrarm.mcpelauncher",
         "net.jami.Jami"
     ],
@@ -46,7 +47,6 @@
         "de.shorsh.discord-screenaudio",
         "io.github.martinrotter.rssguard",
         "io.github.nyre221.kiview",
-        "io.github.xiaoyifang.goldendict_ng",
         "org.fcitx.Fcitx5",
         "org.jacktrip.JackTrip",
         "org.kde.akregator",

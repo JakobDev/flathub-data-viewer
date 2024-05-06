@@ -3,6 +3,7 @@
     "com.vzhd1701.gridplayer",
     "io.github.celluloid_player.Celluloid",
     "io.gitlab.daikhan.stable",
+    "org.feichtmeier.Musicpod",
     "org.shotcut.Shotcut",
     "org.videolan.VLC"
 ]
