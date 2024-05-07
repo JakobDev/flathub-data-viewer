@@ -1,4 +1,5 @@
 [
+    "com.lablicate.OpenChrom",
     "info.portfolio_performance.PortfolioPerformance",
     "org.robocode.Robocode"
 ]
