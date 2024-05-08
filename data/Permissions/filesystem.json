@@ -2956,6 +2956,7 @@
         "com.github.marktext.marktext",
         "com.helix_editor.Helix",
         "com.ktechpit.orion",
+        "com.lablicate.OpenChrom",
         "com.outerwildsmods.owmods_gui",
         "com.pojtinger.felicitas.Multiplex",
         "com.qq.QQ",
@@ -3286,6 +3287,7 @@
         "org.expresslrs.ExpressLRSConfigurator",
         "org.libretro.RetroArch",
         "org.mavlink.qgroundcontrol",
+        "tv.kodi.Kodi",
         "xyz.hyperplay.HyperPlay"
     ],
     "~/.var/app/org.mozilla.firefox": [

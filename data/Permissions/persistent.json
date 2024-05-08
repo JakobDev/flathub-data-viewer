@@ -170,6 +170,12 @@
         "games.zetsubou.WanderNoMore",
         "sh.fhs.KatawaShoujoReEngineered"
     ],
+    ".openchrom": [
+        "com.lablicate.OpenChrom"
+    ],
+    ".eclipseswtchartsettings": [
+        "com.lablicate.OpenChrom"
+    ],
     "~/.ssh": [
         "com.logseq.Logseq",
         "md.obsidian.Obsidian"
@@ -624,6 +630,9 @@
     ],
     ".gnome2": [
         "org.gnome.Genius"
+    ],
+    ".liquidwar6": [
+        "org.gnu.liquidwar6"
     ],
     ".goldendict": [
         "org.goldendict.GoldenDict"

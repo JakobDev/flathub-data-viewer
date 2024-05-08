@@ -35,7 +35,6 @@
         "de.nagstamon.nagstamon",
         "io.github.hydrusnetwork.hydrus",
         "me.mitya57.ReText",
-        "org.mintguide.WebAppReader",
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdTextEdit"
@@ -43,6 +42,7 @@
     "6.7": [
         "io.github.jordanl2.ModularCalculator",
         "io.github.yuki_iptv.yuki-iptv",
+        "org.mintguide.WebAppReader",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
         "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdDBusDebugger",

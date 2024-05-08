@@ -1,5 +1,6 @@
 [
     "com.gitlab.bitseater.meteo",
+    "io.github.giantpinkrobots.varia",
     "org.learningequality.Kolibri",
     "org.scilab.Scilab"
 ]
