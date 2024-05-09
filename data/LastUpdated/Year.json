@@ -353,7 +353,6 @@
     "org.wfview.wfview",
     "org.xonotic.Xonotic",
     "org.yamagi.YamagiQ2",
-    "org.zaproxy.ZAP",
     "org.zealdocs.Zeal",
     "org.zim_wiki.Zim",
     "page.codeberg.DrRac27.Karoto",
@@ -400,6 +399,5 @@
     "org.kicad.KiCad.ODBCDriver.psqlodbc",
     "org.kicad.KiCad.ODBCDriver.sqliteodbc",
     "org.learningequality.Kolibri.Plugin.kolibri-dynamic-collections-plugin",
-    "org.videolan.VLC.Plugin.makemkv",
-    "org.winehq.Wine.DLLs.dxvk"
+    "org.videolan.VLC.Plugin.makemkv"
 ]

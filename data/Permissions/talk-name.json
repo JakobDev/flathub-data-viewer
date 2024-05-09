@@ -3320,8 +3320,18 @@
         "org.gimp.GIMP",
         "org.ksnip.ksnip"
     ],
+    "org.gnome.shell.extensions.window": [
+        "com.github.dynobo.normcap"
+    ],
     "org.kde.kwin": [
         "com.github.dynobo.normcap"
+    ],
+    "org.gnome.shell.extensions": [
+        "com.github.dynobo.normcap",
+        "com.mattjakeman.ExtensionManager",
+        "io.github.jeffshee.Hidamari",
+        "it.mijorus.smile",
+        "org.gnome.Extensions"
     ],
     "com.canonical.unity.launcherentry": [
         "com.github.gabutakut.gabutdm",
@@ -3414,12 +3424,6 @@
     ],
     "org.elementary.contractor": [
         "com.ktechpit.wonderwall"
-    ],
-    "org.gnome.shell.extensions": [
-        "com.mattjakeman.ExtensionManager",
-        "io.github.jeffshee.Hidamari",
-        "it.mijorus.smile",
-        "org.gnome.Extensions"
     ],
     "com.microsoft.identity.broker1": [
         "com.microsoft.Edge"

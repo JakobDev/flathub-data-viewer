@@ -1,5 +1,6 @@
 [
     "app.drey.EarTag",
+    "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
     "com.dropbox.Client",
     "com.endlessm.photos",

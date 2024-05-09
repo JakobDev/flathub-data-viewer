@@ -2368,6 +2368,7 @@
         "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
         "com.github.coslyk.MoonPlayer",
+        "com.github.dynobo.normcap",
         "com.github.eneshecan.WhatsAppForLinux",
         "com.github.flxzt.rnote",
         "com.github.jmlich.geotagging",
@@ -2608,6 +2609,7 @@
         "io.github.mightycreak.Diffuse",
         "io.github.mpobaschnig.Vaults",
         "io.github.pwr_solaar.solaar",
+        "io.kapsa.drive",
         "me.iepure.Ticketbooth",
         "net.giuspen.cherrytree",
         "net.sourceforge.efaxgtk",
@@ -2676,6 +2678,7 @@
         "io.github.celluloid_player.Celluloid",
         "io.github.lruzicka.Needly",
         "io.github.pragha_music_player.pragha",
+        "io.kapsa.drive",
         "ml.prevete.Daty",
         "net.danigm.timetrack",
         "net.sourceforge.efaxgtk",
@@ -3111,6 +3114,7 @@
         "io.github.dosbox-staging",
         "io.github.dweymouth.supersonic",
         "io.github.ripose_jp.Memento",
+        "io.kapsa.drive",
         "io.mpv.Mpv",
         "me.timschneeberger.jdsp4linux",
         "org.kde.haruna",
@@ -3906,6 +3910,12 @@
     "~/.var/app/io.mpv.Mpv/config/mpv/scripts:create": [
         "io.mpv.Mpv"
     ],
+    "~/.local/share/Steam/steamapps/common/Rollercoaster Tycoon 2:ro": [
+        "io.openrct2.OpenRCT2"
+    ],
+    "~/.local/share/Steam/steamapps/common/Rollercoaster Tycoon Deluxe:ro": [
+        "io.openrct2.OpenRCT2"
+    ],
     "xdg-run/podman:create": [
         "io.podman_desktop.PodmanDesktop"
     ],
@@ -4324,6 +4334,9 @@
     ],
     "host-os:ro": [
         "page.codeberg.JakobDev.jdSimpleAutostart"
+    ],
+    "xdg-config/mimeapps.list": [
+        "page.codeberg.libre_menu_editor.LibreMenuEditor"
     ],
     "xdg-documents/geobug-tracks:create": [
         "page.codeberg.tpikonen.geobug"
