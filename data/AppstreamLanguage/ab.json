@@ -5,6 +5,7 @@
     "org.gnome.Builder",
     "org.gnome.Characters",
     "org.gnome.Chess",
+    "org.gnome.Devhelp",
     "org.gnome.Evolution",
     "org.gnome.FileRoller",
     "org.gnome.Hitori",

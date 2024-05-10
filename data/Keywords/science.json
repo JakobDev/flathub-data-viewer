@@ -1,6 +1,7 @@
 [
     "ch.tigerjython.TigerJython2",
     "com.github.Murmele.scram",
+    "com.lablicate.OpenChrom",
     "edu.berkeley.BOINC",
     "io.github.veusz.Veusz",
     "org.octave.Octave",

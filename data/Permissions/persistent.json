@@ -228,6 +228,9 @@
         "com.qzandronum.Q-Zandronum",
         "com.zandronum.Zandronum"
     ],
+    ".bigpemu_userdata": [
+        "com.richwhitehouse.BigPEmu"
+    ],
     ".Reaction": [
         "com.rq3.Reaction"
     ],

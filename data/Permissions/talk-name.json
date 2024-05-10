@@ -2526,7 +2526,6 @@
         "com.googleplaymusicdesktopplayer.GPMDP",
         "com.hunterwittenborn.Celeste",
         "com.ktechpit.whatsie",
-        "com.rtosta.zapzap",
         "com.seafile.Client",
         "com.wiz.Note",
         "com.writerduet.writersolo",
@@ -2554,7 +2553,6 @@
         "com.github.inercia.k3x",
         "com.ktechpit.whatsie",
         "com.pot_app.pot",
-        "com.rtosta.zapzap",
         "io.github.brunofin.Cohesion",
         "io.github.kotatogram",
         "io.github.kukuruzka165.materialgram",
@@ -3162,6 +3160,7 @@
     ],
     "org.kde.kwalletd6": [
         "com.brave.Browser",
+        "com.opera.Opera",
         "com.slack.Slack",
         "com.vivaldi.Vivaldi",
         "io.github.ungoogled_software.ungoogled_chromium",
@@ -3239,7 +3238,6 @@
     "com.canonical.unity": [
         "com.discordapp.Discord",
         "com.heroicgameslauncher.hgl",
-        "com.rtosta.zapzap",
         "im.riot.Riot",
         "io.github.kotatogram",
         "org.remmina.Remmina",
