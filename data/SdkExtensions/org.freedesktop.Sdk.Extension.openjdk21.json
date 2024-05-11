@@ -6,5 +6,6 @@
     "org.chromium.Chromium",
     "org.libreoffice.LibreOffice",
     "org.openstreetmap.josm",
+    "org.polymc.PolyMC",
     "org.prismlauncher.PrismLauncher"
 ]

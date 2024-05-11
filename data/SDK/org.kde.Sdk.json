@@ -554,6 +554,7 @@
     ],
     "6.7": [
         "ch.openboard.OpenBoard",
+        "com.blockstream.Green",
         "com.georgefb.mangareader",
         "com.georgefb.quickaccess",
         "com.github.Rosalie241.RMG",
@@ -630,7 +631,6 @@
     ],
     "6.5": [
         "com.bktus.gpgfrontend",
-        "com.blockstream.Green",
         "com.github.LongSoft.UEFITool",
         "com.github.dail8859.NotepadNext",
         "com.github.scrivanolabs.scrivano",
