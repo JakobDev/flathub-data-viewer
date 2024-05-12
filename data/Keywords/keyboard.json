@@ -2,5 +2,6 @@
     "com.github.debauchee.barrier",
     "io.github.antimicrox.antimicrox",
     "io.github.pwr_solaar.solaar",
-    "net.sourceforge.Klavaro"
+    "net.sourceforge.Klavaro",
+    "tech.keyforge.keyforge_master"
 ]

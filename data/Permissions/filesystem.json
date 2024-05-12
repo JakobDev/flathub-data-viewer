@@ -3121,8 +3121,7 @@
         "me.timschneeberger.jdsp4linux",
         "org.kde.haruna",
         "org.qutebrowser.qutebrowser",
-        "ru.linux_gaming.PortProton",
-        "tv.kodi.Kodi"
+        "ru.linux_gaming.PortProton"
     ],
     "xdg-templates": [
         "com.github.PintaProject.Pinta"
