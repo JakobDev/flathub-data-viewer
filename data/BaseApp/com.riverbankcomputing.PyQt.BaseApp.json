@@ -34,6 +34,7 @@
         "de.nagstamon.nagstamon",
         "io.github.hydrusnetwork.hydrus",
         "me.mitya57.ReText",
+        "org.plomgrading.PlomClient",
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdTextEdit"
@@ -63,9 +64,6 @@
     ],
     "6.4": [
         "org.beeref.BeeRef"
-    ],
-    "6.5": [
-        "org.plomgrading.PlomClient"
     ],
     "5.15-21.08": [
         "org.qutebrowser.qutebrowser"
