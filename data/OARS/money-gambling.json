@@ -2,6 +2,7 @@
     "moderate": [
         "app.drey.Damask",
         "dev.hdos.HDOS",
+        "net.pokerth.PokerTH",
         "net.runelite.RuneLite",
         "org._2006Scape.Launcher",
         "org._2009scape.Launcher",
@@ -174,7 +175,6 @@
         "org.gnome.Photos",
         "org.gnome.Reversi",
         "org.gnome.Rhythmbox3",
-        "org.gnome.Robots",
         "org.gnome.Taquin",
         "org.gnome.Todo",
         "org.gnome.TwentyFortyEight",

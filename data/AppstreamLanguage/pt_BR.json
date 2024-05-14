@@ -1,4 +1,5 @@
 [
+    "app.devsuite.Ptyxis",
     "app.drey.Blurble",
     "app.drey.EarTag",
     "app.drey.Elastic",
@@ -37,7 +38,6 @@
     "com.github.johnfactotum.Foliate",
     "com.github.junrrein.PDFSlicer",
     "com.github.lachhebo.Gabtag",
-    "com.github.liferooter.textpieces",
     "com.github.maoschanz.DynamicWallpaperEditor",
     "com.github.maoschanz.drawing",
     "com.github.marhkb.Pods",
@@ -139,6 +139,7 @@
     "me.mitya57.ReText",
     "net.lutris.Lutris",
     "net.nokyan.Resources",
+    "net.sourceforge.Lifeograph",
     "net.sourceforge.TuxFootball",
     "net.supertuxkart.SuperTuxKart",
     "nl.hjdskes.gcolor3",

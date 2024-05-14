@@ -1,4 +1,5 @@
 [
+    "app.fotema.Fotema",
     "br.gov.cti.invesalius",
     "co.luoja.Telyn",
     "com.adilhanney.saber",
@@ -115,6 +116,7 @@
     "io.github.trevorsandy.LPub3D",
     "io.github.vinser.pixyne",
     "io.github.voxelcubes.panelcleaner",
+    "io.github.wazzaps.Fingerpaint",
     "io.github.xverizex.RetroSpriteEditor",
     "io.gitlab.adhami3310.Converter",
     "io.gitlab.gregorni.Letterpress",

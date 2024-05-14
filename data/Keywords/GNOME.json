@@ -1,7 +1,6 @@
 [
     "app.drey.Elastic",
     "com.belmoussaoui.ReadItLater",
-    "com.github.liferooter.textpieces",
     "com.github.rafostar.Clapper",
     "info.febvre.Komikku",
     "io.github.celluloid_player.Celluloid",
@@ -9,6 +8,7 @@
     "io.github.nokse22.asciidraw",
     "io.github.nokse22.trivia-quiz",
     "io.github.swanux.hbud",
+    "io.gitlab.liferooter.TextPieces",
     "org.gnome.FontManager",
     "org.gnome.atomix",
     "org.gnome.design.Contrast",

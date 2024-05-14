@@ -190,6 +190,7 @@
     "net.minetest.Minetest",
     "net.nokyan.Resources",
     "net.rpcs3.RPCS3",
+    "net.sourceforge.Lifeograph",
     "net.sourceforge.electrip.Electrip",
     "net.sourceforge.osmo",
     "net.supertuxkart.SuperTuxKart",

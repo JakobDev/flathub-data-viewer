@@ -1,4 +1,5 @@
 [
+    "app.devsuite.Ptyxis",
     "app.drey.EarTag",
     "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
@@ -86,6 +87,7 @@
     "io.otsaloma.nfoview",
     "me.mitya57.ReText",
     "net.kirgroup.confy",
+    "net.sourceforge.Lifeograph",
     "net.supertuxkart.SuperTuxKart",
     "nl.g4d.Girens",
     "nl.hjdskes.gcolor3",

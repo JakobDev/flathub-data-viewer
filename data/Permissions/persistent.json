@@ -499,6 +499,9 @@
     ".pekka-kana-2": [
         "net.pistegamez.PekkaKana2"
     ],
+    ".pokerth": [
+        "net.pokerth.PokerTH"
+    ],
     "qsstv": [
         "net.qsl.QSSTV"
     ],

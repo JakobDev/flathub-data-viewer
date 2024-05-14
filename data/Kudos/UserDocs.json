@@ -1,5 +1,4 @@
 [
-    "com.github.maoschanz.DynamicWallpaperEditor",
     "com.github.maoschanz.drawing",
     "cool.ldr.lfy",
     "io.github.Hexchat",
@@ -17,9 +16,7 @@
     "org.gnome.Quadrapassel",
     "org.gnome.Recipes",
     "org.gnome.Reversi",
-    "org.gnome.Robots",
     "org.gnome.SoundJuicer",
-    "org.gnome.Tali",
     "org.gnome.Taquin",
     "org.gnome.Totem",
     "org.gnome.eog",

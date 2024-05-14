@@ -1,5 +1,5 @@
 [
-    "com.github.liferooter.textpieces",
     "com.pinegrow.Pinegrow",
+    "io.gitlab.liferooter.TextPieces",
     "org.msweet.htmldoc"
 ]

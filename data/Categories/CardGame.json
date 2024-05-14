@@ -1,6 +1,7 @@
 [
     "io.github.Cockatrice.cockatrice",
     "io.sourceforge.pysolfc.PySolFC",
+    "net.pokerth.PokerTH",
     "org.darkdimension.rue",
     "org.gnome.Aisleriot",
     "org.gnome.Tali",

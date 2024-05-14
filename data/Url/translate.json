@@ -1,5 +1,6 @@
 [
     "app.authpass.AuthPass",
+    "app.devsuite.Ptyxis",
     "app.drey.Blurble",
     "app.drey.Damask",
     "app.drey.Dialect",
@@ -373,6 +374,7 @@
     "org.gnome.NautilusPreviewer",
     "org.gnome.NetworkDisplays",
     "org.gnome.Nibbles",
+    "org.gnome.OfficeRunner",
     "org.gnome.Photos",
     "org.gnome.Podcasts",
     "org.gnome.Polari",

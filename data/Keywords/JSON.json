@@ -1,5 +1,5 @@
 [
-    "com.github.liferooter.textpieces",
     "io.github.martinrotter.rssguard",
-    "io.github.martinrotter.rssguardlite"
+    "io.github.martinrotter.rssguardlite",
+    "io.gitlab.liferooter.TextPieces"
 ]
