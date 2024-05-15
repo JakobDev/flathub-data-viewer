@@ -1650,6 +1650,7 @@
         "org.zaproxy.ZAP",
         "page.codeberg.JakobDev.jdTextEdit",
         "page.kramo.Cartridges",
+        "rocks.koreader.KOReader",
         "ru.linux_gaming.PortProton",
         "se.cendio.tlclient",
         "space.nouspiro.tenmon",
@@ -2294,7 +2295,6 @@
         "org.wezfurlong.wezterm",
         "org.wireshark.Wireshark",
         "ro.fxdata.taskmonitor.viewer",
-        "rocks.koreader.KOReader",
         "se.manyver.Manyverse",
         "uk.org.zint.zint-qt",
         "vn.hoabinh.quan.CoBang"
@@ -3059,8 +3059,7 @@
         "org.gnome.Evince",
         "org.jellyfin.JellyfinServer",
         "org.purei.Play",
-        "org.x.Warpinator",
-        "rocks.koreader.KOReader"
+        "org.x.Warpinator"
     ],
     "/run/media:ro": [
         "com.github.AlizaMedicalImaging.AlizaMS",
@@ -3072,8 +3071,7 @@
         "org.cubocore.CoreFM",
         "org.gnome.Evince",
         "org.jellyfin.JellyfinServer",
-        "org.purei.Play",
-        "rocks.koreader.KOReader"
+        "org.purei.Play"
     ],
     "xdg-run/app/com.discordapp.DiscordCanary:create": [
         "com.github.Anuken.Mindustry",
@@ -3114,6 +3112,8 @@
         "com.github.neithern.g4music",
         "com.github.rafostar.Clapper",
         "com.github.wwmm.easyeffects",
+        "com.jetbrains.IntelliJ-IDEA-Community",
+        "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "dev.vieb.Vieb",
         "info.mumble.Mumble",
         "io.github.celluloid_player.Celluloid",
