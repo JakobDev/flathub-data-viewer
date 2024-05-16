@@ -8,6 +8,7 @@
     ],
     "5.15-23.08": [
         "ch.theologeek.Manuskript",
+        "com.github.iwalton3.jellyfin-media-player",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.ktechpit.whatsie",
         "com.nextcloud.desktopclient.nextcloud",
@@ -35,13 +36,6 @@
         "org.sdrangel.SDRangel",
         "org.zealdocs.Zeal"
     ],
-    "5.15-22.08": [
-        "com.github.iwalton3.jellyfin-media-player",
-        "io.sourceforge.chart_geany.chart-geany",
-        "net.mediaarea.MediaConch",
-        "org.paraview.ParaView",
-        "org.rolisteam.rolisteam"
-    ],
     "6.6": [
         "com.github.jmlich.geotagging",
         "de.shorsh.discord-screenaudio",
@@ -64,6 +58,12 @@
     ],
     "6.2": [
         "dev.lukebriggs.pepys"
+    ],
+    "5.15-22.08": [
+        "io.sourceforge.chart_geany.chart-geany",
+        "net.mediaarea.MediaConch",
+        "org.paraview.ParaView",
+        "org.rolisteam.rolisteam"
     ],
     "6.5": [
         "org.jaspstats.JASP"

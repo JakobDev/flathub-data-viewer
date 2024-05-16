@@ -2716,7 +2716,8 @@
         "org.onlyoffice.desktopeditors",
         "org.videolan.VLC",
         "org.xfce.mousepad",
-        "org.xfce.ristretto"
+        "org.xfce.ristretto",
+        "rocks.koreader.KOReader"
     ],
     "xdg-run/app/com.discordapp.Discord": [
         "com.adamcake.Bolt"
