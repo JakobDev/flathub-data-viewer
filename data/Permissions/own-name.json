@@ -274,9 +274,6 @@
     "org.mozilla.mullvad_browser.*": [
         "net.mullvad.MullvadBrowser"
     ],
-    "org.mpris.mediaplayer2.net.sonic_pi.sonicpi": [
-        "net.sonic_pi.SonicPi"
-    ],
     "org.artha.unique": [
         "net.sourceforge.artha.Artha"
     ],

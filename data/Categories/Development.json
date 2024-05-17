@@ -1,4 +1,5 @@
 [
+    "app.devsuite.Schemes",
     "app.drey.Biblioteca",
     "app.getclipboard.Clipboard",
     "ar.com.pilas_engine.App",
@@ -47,6 +48,7 @@
     "com.hostbuf.FinalShell",
     "com.inform7.IDE",
     "com.inklestudios.Inky",
+    "com.jeffser.Alpaca",
     "com.jetbrains.CLion",
     "com.jetbrains.DataGrip",
     "com.jetbrains.GoLand",
@@ -154,6 +156,7 @@
     "org.bluej.BlueJ",
     "org.codeblocks.codeblocks",
     "org.d3cod3.Mosaic",
+    "org.dbgate.DbGate",
     "org.deidentifier.arx",
     "org.dune3d.dune3d",
     "org.eclipse.Java",

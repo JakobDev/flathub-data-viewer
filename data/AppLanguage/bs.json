@@ -1,6 +1,5 @@
 [
     "com.transmissionbt.Transmission",
-    "net.poedit.Poedit",
     "net.supertuxkart.SuperTuxKart",
     "org.gimp.GIMP",
     "org.gnome.Aisleriot",
@@ -26,7 +25,6 @@
     "org.gnome.frogr",
     "org.gnome.gbrainy",
     "org.gnome.gedit",
-    "org.gnome.glabels-3",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
     "org.sugarlabs.Speak"

@@ -103,6 +103,7 @@
         "net.labymod.LabyMod",
         "net.xmind.XMind",
         "org.b3log.siyuan",
+        "org.dbgate.DbGate",
         "org.eu.getcatalyst.Catalyst",
         "org.ferdium.Ferdium",
         "org.geogebra.GeoGebra",

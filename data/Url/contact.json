@@ -145,6 +145,7 @@
     "org.cubocore.CoreShot",
     "org.cubocore.CoreStats",
     "org.cubocore.CoreTime",
+    "org.dbgate.DbGate",
     "org.diasurgical.DevilutionX",
     "org.easyrpg.player",
     "org.eyecreate.qiflora",

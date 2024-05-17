@@ -593,6 +593,9 @@
     ".electrum-dash": [
         "org.dash.electrum.electrum_dash"
     ],
+    ".dbgate": [
+        "org.dbgate.DbGate"
+    ],
     ".local/share/godot/app_userdata/BeatMatchtoPass": [
         "org.dupot.beatmatchtopass"
     ],

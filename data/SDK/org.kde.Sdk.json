@@ -4,6 +4,7 @@
         "ch.theologeek.Manuskript",
         "com.dreamsourcelab.DSView",
         "com.github.Flacon",
+        "com.github.Murmele.Gittyup",
         "com.github._4lex4.ScanTailor-Advanced",
         "com.github.arminstraub.krop",
         "com.github.elth0r0.iqpuzzle",
@@ -489,7 +490,6 @@
     "5.15-21.08": [
         "at.priv.toastfreeware.ConfClerk",
         "com.eminfedar.vaktisalah",
-        "com.github.Murmele.Gittyup",
         "com.github.Murmele.scram",
         "com.github.chipmuenk.pyfda",
         "com.github.coslyk.MoonPlayer",

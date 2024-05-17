@@ -1,6 +1,7 @@
 [
     "app.authpass.AuthPass",
     "app.devsuite.Ptyxis",
+    "app.devsuite.Schemes",
     "app.drey.Blurble",
     "app.drey.Damask",
     "app.drey.Dialect",
@@ -97,6 +98,7 @@
     "com.her01n.BatteryInfo",
     "com.hunterwittenborn.Celeste",
     "com.icanblink.blink",
+    "com.jeffser.Alpaca",
     "com.jpexs.decompiler.flash",
     "com.js8call.JS8Call",
     "com.kristianduske.TrenchBroom",

@@ -17,7 +17,6 @@
     "global.worldcoin.worldcoin-core",
     "info.portfolio_performance.PortfolioPerformance",
     "io.wasabiwallet.WasabiWallet",
-    "net.peercoin.peercoin-qt",
     "org.bitcoincore.bitcoin-qt",
     "org.blackcoin.blackcoin-more",
     "org.btchd.btchd-qt",

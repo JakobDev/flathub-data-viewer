@@ -16,7 +16,6 @@
     "io.github.lainsce.Colorway",
     "io.github.nate_xyz.Paleta",
     "io.posidon.Paper",
-    "net.poedit.Poedit",
     "net.supertuxkart.SuperTuxKart",
     "org.exaile.Exaile",
     "org.freedesktop.appstream.cli",
@@ -48,7 +47,6 @@
     "org.gnome.gedit",
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
-    "org.gnome.glabels-3",
     "org.gnome.seahorse.Application",
     "org.x.Warpinator"
 ]
