@@ -36,8 +36,7 @@
         "me.mitya57.ReText",
         "org.plomgrading.PlomClient",
         "page.codeberg.DrRac27.Karoto",
-        "page.codeberg.JakobDev.jdDiff",
-        "page.codeberg.JakobDev.jdTextEdit"
+        "page.codeberg.JakobDev.jdDiff"
     ],
     "6.7": [
         "com.rtosta.zapzap",
@@ -56,7 +55,8 @@
         "page.codeberg.JakobDev.jdNBTExplorer",
         "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdReplace",
-        "page.codeberg.JakobDev.jdSimpleAutostart"
+        "page.codeberg.JakobDev.jdSimpleAutostart",
+        "page.codeberg.JakobDev.jdTextEdit"
     ],
     "5.15-22.08": [
         "net.puddletag.puddletag",

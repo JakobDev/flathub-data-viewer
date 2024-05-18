@@ -193,7 +193,6 @@
         "dev.tchx84.Portfolio",
         "edu.stanford.protege",
         "eu.skribisto.skribisto",
-        "finance.reckoner.Reckoner",
         "fm.helio.Workstation",
         "fm.reaper.Reaper",
         "fr.dwightstudio.JArmEmu",
@@ -1821,6 +1820,7 @@
         "de.halaszovich.PMbrowser",
         "dev.vieb.Vieb",
         "eu.cichy1173.tabela",
+        "finance.reckoner.Reckoner",
         "fr.free.hxc2001.HxCFloppyEmulator",
         "fun.vnote.app.VNote",
         "io.enpass.Enpass",
@@ -3010,7 +3010,8 @@
         "org.sil.FieldWorks",
         "org.tenacityaudio.Tenacity",
         "org.texstudio.TeXstudio",
-        "org.vim.Vim"
+        "org.vim.Vim",
+        "page.codeberg.JakobDev.jdDBusDebugger"
     ],
     "~/GOG Games": [
         "com.eduke32.EDuke32"
@@ -4311,16 +4312,20 @@
     "xdg-run/app/org.mozilla.Firefox.BaseApp:create": [
         "org.zaproxy.ZAP"
     ],
+    "xdg-run/at-spi": [
+        "page.codeberg.JakobDev.jdDBusDebugger"
+    ],
+    "host-etc:ro": [
+        "page.codeberg.JakobDev.jdDBusDebugger",
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
+        "page.codeberg.JakobDev.jdSimpleAutostart"
+    ],
     "~/.minecraft:create": [
         "page.codeberg.JakobDev.jdMinecraftLauncher",
         "page.codeberg.JakobDev.jdMrpackInstaller"
     ],
     "xdg-desktop:create": [
         "page.codeberg.JakobDev.jdMinecraftLauncher"
-    ],
-    "host-etc:ro": [
-        "page.codeberg.JakobDev.jdProcessFileWatcher",
-        "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "/var/lib/flatpak/exports/share/applications:ro": [
         "page.codeberg.JakobDev.jdProcessFileWatcher",

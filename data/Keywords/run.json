@@ -2,6 +2,5 @@
     "com.github.Xenoveritas.abuse",
     "io.github.aggalex.Wineglass",
     "org.kde.konsole",
-    "org.kde.qmlkonsole",
-    "org.opensurge2d.OpenSurge"
+    "org.kde.qmlkonsole"
 ]

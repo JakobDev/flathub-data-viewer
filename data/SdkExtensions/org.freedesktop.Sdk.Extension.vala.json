@@ -3,6 +3,7 @@
     "app.vup.Vup",
     "com.vysp3r.ProtonPlus",
     "com.vysp3r.RetroPlus",
+    "finance.reckoner.Reckoner",
     "garden.turtle.Jellybean",
     "io.github.Rirusha.Cassette",
     "io.kapsa.drive",

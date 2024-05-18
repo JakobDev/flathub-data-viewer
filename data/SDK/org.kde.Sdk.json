@@ -107,6 +107,7 @@
         "org.atheme.audacious",
         "org.avidemux.Avidemux",
         "org.cloudcompare.CloudCompare",
+        "org.cubocore.CoreTime",
         "org.electrum.electrum",
         "org.eyecreate.qiflora",
         "org.eyecreate.vehiclevoyage",
@@ -235,7 +236,6 @@
         "com.ktechpit.orion",
         "com.ktechpit.torrhunt",
         "com.nitrokey.nitrokey-app",
-        "com.rocksandpaper.syndic",
         "com.sayonara_player.Sayonara",
         "com.virustotal.VirusTotalUploader",
         "com.vzhd1701.gridplayer",
@@ -285,7 +285,6 @@
         "org.cubocore.CoreRenamer",
         "org.cubocore.CoreShot",
         "org.cubocore.CoreStats",
-        "org.cubocore.CoreTime",
         "org.easycoding.TunedSwitcher",
         "org.flatpak.qtdemo",
         "org.goldendict.GoldenDict",
@@ -317,6 +316,7 @@
         "com.github.unrud.djpdf",
         "com.github.vkohaupt.vokoscreenNG",
         "com.obsproject.Studio",
+        "com.rocksandpaper.syndic",
         "com.yacreader.YACReader",
         "com.ylsoftware.qmmp.Qmmp",
         "community.pathofbuilding.PathOfBuilding",
@@ -483,7 +483,6 @@
         "org.tug.texworks",
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdDiff",
-        "page.codeberg.JakobDev.jdTextEdit",
         "space.nouspiro.tenmon",
         "tr.com.ikooskar.ikoOSKAR"
     ],
@@ -630,7 +629,8 @@
         "page.codeberg.JakobDev.jdPixelUpscaler",
         "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdReplace",
-        "page.codeberg.JakobDev.jdSimpleAutostart"
+        "page.codeberg.JakobDev.jdSimpleAutostart",
+        "page.codeberg.JakobDev.jdTextEdit"
     ],
     "5.14": [
         "com.dhsdevelopments.Climaxima",
