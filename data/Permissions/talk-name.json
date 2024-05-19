@@ -3177,6 +3177,7 @@
     ],
     "org.kde.kwalletd6": [
         "com.brave.Browser",
+        "com.nextcloud.desktopclient.nextcloud",
         "com.opera.Opera",
         "com.slack.Slack",
         "com.vivaldi.Vivaldi",

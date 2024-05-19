@@ -1,6 +1,7 @@
 [
     "app.drey.Elastic",
     "app.vup.Vup",
+    "com.gopeed.Gopeed",
     "com.vysp3r.ProtonPlus",
     "com.vysp3r.RetroPlus",
     "finance.reckoner.Reckoner",
@@ -16,5 +17,6 @@
     "org.gnome.baobab",
     "org.gnome.clocks",
     "org.localsend.localsend_app",
+    "page.codeberg.JakobDev.jdTextEdit",
     "re.sonny.Workbench"
 ]
