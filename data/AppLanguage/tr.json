@@ -36,7 +36,6 @@
     "io.github.unrud.RecentFilter",
     "io.liri.Calculator",
     "io.liri.Text",
-    "io.neovim.nvim",
     "io.posidon.Paper",
     "net.minetest.Minetest",
     "net.sourceforge.kmetronome",

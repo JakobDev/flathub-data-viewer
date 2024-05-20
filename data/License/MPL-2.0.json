@@ -29,7 +29,5 @@
     "org.mozilla.firefox",
     "org.opentransactions.metier",
     "se.manyver.Manyverse",
-    "sh.fhs.KatawaShoujoReEngineered",
-    "net.mkiol.SpeechNote.Addon.amd",
-    "net.mkiol.SpeechNote.Addon.nvidia"
+    "sh.fhs.KatawaShoujoReEngineered"
 ]

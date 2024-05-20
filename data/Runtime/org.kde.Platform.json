@@ -471,6 +471,7 @@
         "org.profex_xrd.Profex",
         "org.radare.iaito",
         "org.shotcut.Shotcut",
+        "org.stellarium.Stellarium",
         "org.strawberrymusicplayer.strawberry",
         "org.tug.texworks",
         "page.codeberg.DrRac27.Karoto",
@@ -564,6 +565,7 @@
         "io.github.jordanl2.ModularCalculator",
         "io.github.libvibrant.vibrantLinux",
         "io.github.lime3ds.Lime3DS",
+        "io.github.loot.loot",
         "io.github.parnassius.SysDVR-Qt",
         "io.github.simple64.simple64",
         "io.github.xiaoyifang.goldendict_ng",
@@ -640,12 +642,10 @@
         "io.github.chris2511.xca",
         "io.github.ddanilov.soundscape",
         "io.github.koromelodev.mindmate",
-        "io.github.loot.loot",
         "net.retrodeck.retrodeck",
         "org.jaspstats.JASP",
         "org.mapeditor.Tiled",
         "org.onionshare.OnionShare",
-        "org.stellarium.Stellarium",
         "page.codeberg.lazyt.ubpm"
     ],
     "6.2": [

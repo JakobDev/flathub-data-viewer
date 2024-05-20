@@ -35,6 +35,7 @@
     "io.github.diegopvlk.Dosage",
     "io.github.mrvladus.List",
     "io.github.zefr0x.hashes",
+    "io.neovim.nvim",
     "net.oz9aec.Gpredict",
     "net.poedit.Poedit",
     "net.sourceforge.liferea",
