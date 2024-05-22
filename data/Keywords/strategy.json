@@ -5,6 +5,7 @@
     "net.longturn.freeciv21",
     "net.wz2100.wz2100",
     "org.freeciv.gtk322",
+    "org.freeciv.gtk4",
     "org.freeciv.qt",
     "org.freeciv.sdl2",
     "org.freeorion.FreeOrion",

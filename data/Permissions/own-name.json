@@ -310,6 +310,9 @@
     "com.secondlife.viewerappapiservice": [
         "org.firestormviewer.FirestormViewer"
     ],
+    "org.mpris.mediaplayer2.fooyin": [
+        "org.fooyin.fooyin"
+    ],
     "org.freedesktop.tuhi1": [
         "org.freedesktop.Tuhi"
     ],

@@ -148,6 +148,7 @@
     "org.filezillaproject.Filezilla",
     "org.flycast.Flycast",
     "org.freeciv.gtk322",
+    "org.freeciv.gtk4",
     "org.freeciv.qt",
     "org.freeciv.sdl2",
     "org.freefilesync.FreeFileSync",

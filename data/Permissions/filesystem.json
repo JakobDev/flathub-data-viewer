@@ -241,6 +241,7 @@
         "io.github.limads.Queries",
         "io.github.lruzicka.Needly",
         "io.github.manisandro.gImageReader",
+        "io.github.martchus.syncthingtray",
         "io.github.maurycyliebner.enve",
         "io.github.mgerhardy.vengi.voxedit",
         "io.github.mightycreak.Diffuse",
@@ -631,6 +632,7 @@
         "org.eu.encom.spectral",
         "org.ferdium.Ferdium",
         "org.firestormviewer.FirestormViewer",
+        "org.fooyin.fooyin",
         "org.freedesktop.fwupd",
         "org.freedownloadmanager.Manager",
         "org.gnome.EasyTAG",
@@ -675,6 +677,7 @@
         "pl.art.lach.slawek.V2BlankBrowser",
         "ru.yandex.Browser",
         "sh.ppy.osu",
+        "to.us.scrollprotocol.Profectus",
         "ua.org.brezblock.q4wine",
         "xyz.armcord.ArmCord"
     ],
@@ -890,6 +893,7 @@
         "io.github.loot.loot",
         "io.github.mak448a.QTCord",
         "io.github.markummitchell.Engauge_Digitizer",
+        "io.github.martchus.syncthingtray",
         "io.github.martinrotter.rssguard",
         "io.github.martinrotter.rssguardlite",
         "io.github.martinrotter.textosaurus",
@@ -1055,6 +1059,7 @@
         "org.flameshot.Flameshot",
         "org.flatpak.qtdemo",
         "org.flightgear.FlightGear",
+        "org.fooyin.fooyin",
         "org.freecadweb.FreeCAD",
         "org.freeciv.qt",
         "org.frescobaldi.Frescobaldi",
@@ -1706,6 +1711,7 @@
         "org.clementine_player.Clementine",
         "org.exaile.Exaile",
         "org.firestormviewer.FirestormViewer",
+        "org.fooyin.fooyin",
         "org.gmusicbrowser.gmusicbrowser",
         "org.gnome.EasyTAG",
         "org.gnome.Lollypop",
@@ -1853,6 +1859,7 @@
         "net.sourceforge.mcomix",
         "net.sourceforge.paulstretch",
         "net.sourceforge.pdfchain",
+        "net.sourceforge.scidvspc.scidvspc",
         "net.xm1math.Texmaker",
         "net.xmind.XMind",
         "net.xmind.XMind8",
@@ -2038,6 +2045,7 @@
         "org.atheme.audacious",
         "org.clementine_player.Clementine",
         "org.entangle_photo.Manager",
+        "org.fooyin.fooyin",
         "org.gnome.EasyTAG",
         "org.gnome.Shotwell",
         "org.gnome.Totem",
@@ -2218,6 +2226,7 @@
         "org.audacityteam.Audacity",
         "org.d3cod3.Mosaic",
         "org.denemo.Denemo",
+        "org.fooyin.fooyin",
         "org.gnome.Snapshot",
         "org.gnunet.Messenger",
         "org.guitarix.Guitarix",
@@ -3128,7 +3137,8 @@
         "me.timschneeberger.jdsp4linux",
         "org.kde.haruna",
         "org.qutebrowser.qutebrowser",
-        "ru.linux_gaming.PortProton"
+        "ru.linux_gaming.PortProton",
+        "to.us.scrollprotocol.Profectus"
     ],
     "xdg-templates": [
         "com.github.PintaProject.Pinta"
@@ -3392,6 +3402,9 @@
     "~/Games/Heroic/OuterWilds": [
         "com.outerwildsmods.owmods_gui"
     ],
+    "~/.var/app/com.valvesoftware.Steam/.local/share/OuterWildsModManager": [
+        "com.outerwildsmods.owmods_gui"
+    ],
     "~/.local/share/OuterWildsModManager": [
         "com.outerwildsmods.owmods_gui"
     ],
@@ -3452,6 +3465,9 @@
     ],
     "~/.var/app/com.valvesoftware.Steam/data/registry.vdf:ro": [
         "com.steamgriddb.SGDBoop"
+    ],
+    "xdg-config/TeamSpeak": [
+        "com.teamspeak.TeamSpeak"
     ],
     "xdg-documents/.terCAD:create": [
         "com.tercad.fingrom"
@@ -4117,6 +4133,7 @@
     ],
     "~/.freeciv:create": [
         "org.freeciv.gtk322",
+        "org.freeciv.gtk4",
         "org.freeciv.qt",
         "org.freeciv.sdl2"
     ],

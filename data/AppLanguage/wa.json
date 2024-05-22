@@ -1,5 +1,4 @@
 [
     "io.github.Hexchat",
-    "org.gnome.eog",
-    "org.gnome.gedit"
+    "org.gnome.eog"
 ]

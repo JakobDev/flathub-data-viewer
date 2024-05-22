@@ -1,4 +1,5 @@
 [
     "org.gnome.Totem",
-    "org.gnome.baobab"
+    "org.gnome.baobab",
+    "org.gnome.gedit"
 ]

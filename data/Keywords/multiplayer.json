@@ -22,6 +22,7 @@
     "org.bzflag.BZFlag",
     "org.dhewm3.Dhewm3",
     "org.freeciv.gtk322",
+    "org.freeciv.gtk4",
     "org.freeciv.qt",
     "org.freeciv.sdl2",
     "org.manaplus.ManaPlus",

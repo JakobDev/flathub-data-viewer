@@ -110,6 +110,7 @@
         "org.cubocore.CoreStats",
         "org.exaile.Exaile",
         "org.fedoraproject.MediaWriter",
+        "org.fooyin.fooyin",
         "org.freedesktop.fwupd",
         "org.kde.SymbolEditor",
         "org.kde.digikam",

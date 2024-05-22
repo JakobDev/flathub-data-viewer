@@ -5,6 +5,7 @@
     "org.gnome.Evince",
     "org.gnome.FileRoller",
     "org.gnome.Totem",
+    "org.gnome.gedit",
     "org.kde.dolphin",
     "org.kde.kwrite",
     "org.kde.lokalize",

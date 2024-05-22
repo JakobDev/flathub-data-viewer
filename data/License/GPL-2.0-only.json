@@ -9,6 +9,7 @@
     "com.netxms.NetXMSClient",
     "com.openwall.John",
     "com.pypyrev.linuxdcpp",
+    "com.scanoss.sbom-workbench",
     "com.simplenote.Simplenote",
     "com.tuxpusher.TuxPusher",
     "com.tuxpusher.TuxPusherAF",

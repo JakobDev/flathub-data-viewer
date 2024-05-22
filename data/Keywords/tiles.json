@@ -3,6 +3,7 @@
     "net.longturn.freeciv21",
     "net.sourceforge.lgames.LGeneral",
     "org.freeciv.gtk322",
+    "org.freeciv.gtk4",
     "org.freeciv.qt",
     "org.freeciv.sdl2",
     "org.gnome.LightsOff"

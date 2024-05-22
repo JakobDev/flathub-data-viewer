@@ -2,7 +2,6 @@
     "ca.desrt.dconf-editor",
     "com.github.debauchee.barrier",
     "io.github.Hexchat",
-    "io.github.celluloid_player.Celluloid",
     "io.github.lainsce.Khronos",
     "org.freedesktop.appstream.cli",
     "org.gimp.GIMP",
@@ -29,7 +28,6 @@
     "org.gnome.five-or-more",
     "org.gnome.frogr",
     "org.gnome.gbrainy",
-    "org.gnome.gedit",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
     "org.x.Warpinator"

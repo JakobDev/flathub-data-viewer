@@ -5,15 +5,15 @@
     "5.15-23.08": [
         "com.github.fontmatrix.Fontmatrix",
         "com.notepadqq.Notepadqq",
-        "org.kde.umbrello"
+        "org.kde.umbrello",
+        "org.subsurface_divelog.Subsurface"
     ],
     "5.15-22.08": [
         "com.icanblink.blink",
         "com.ktechpit.orion",
         "com.ktechpit.torrhunt",
         "info.smplayer.SMPlayer",
-        "org.goldendict.GoldenDict",
-        "org.subsurface_divelog.Subsurface"
+        "org.goldendict.GoldenDict"
     ],
     "5.14": [
         "com.ktechpit.wonderwall"

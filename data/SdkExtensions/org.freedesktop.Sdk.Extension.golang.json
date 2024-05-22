@@ -15,6 +15,7 @@
     "io.github.dweymouth.supersonic",
     "io.github.gen2brain.cbconvert",
     "io.github.jacalz.rymdport",
+    "io.github.martchus.syncthingtray",
     "io.github.mki1967.mki3dgame",
     "io.github.noxworld_dev.OpenNox",
     "io.github.pieterdd.RcloneShuttle",
@@ -35,6 +36,7 @@
     "radio.k0swe.Kel_Agent",
     "se.emijoh.mpw",
     "so.libdb.dissent",
+    "to.us.scrollprotocol.Profectus",
     "com.visualstudio.code.tool.git-lfs",
     "com.visualstudio.code.tool.podman"
 ]

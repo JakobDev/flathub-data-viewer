@@ -5,7 +5,6 @@
     "com.belmoussaoui.Authenticator",
     "dev.Cogitri.Health",
     "io.bassi.Amberol",
-    "nl.hjdskes.gcolor3",
     "org.gnome.Aisleriot",
     "org.gnome.Cheese",
     "org.gnome.ColorViewer",
@@ -28,7 +27,6 @@
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.frogr",
-    "org.gnome.gedit",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application"
 ]

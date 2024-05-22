@@ -70,6 +70,7 @@
         "com.microsoft.EdgeDev",
         "com.netease.CloudMusic",
         "com.opera.Opera",
+        "com.scanoss.sbom-workbench",
         "com.vivaldi.Vivaldi",
         "io.github.Icalingua.Icalingua",
         "io.github.ungoogled_software.ungoogled_chromium",
@@ -233,6 +234,12 @@
     ],
     ".Reaction": [
         "com.rq3.Reaction"
+    ],
+    ".scanoss": [
+        "com.scanoss.sbom-workbench"
+    ],
+    "scanoss-workspace": [
+        "com.scanoss.sbom-workbench"
     ],
     ".ccnet": [
         "com.seafile.Client"
@@ -547,6 +554,9 @@
     ],
     ".marsshooter": [
         "net.sourceforge.mars-game"
+    ],
+    ".scidvspc": [
+        "net.sourceforge.scidvspc.scidvspc"
     ],
     ".tomatoes": [
         "net.sourceforge.tomatoes.IHaveNoTomatoes"

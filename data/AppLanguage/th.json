@@ -1,7 +1,6 @@
 [
     "com.endlessm.photos",
     "com.transmissionbt.Transmission",
-    "fr.handbrake.ghb",
     "io.github.Hexchat",
     "io.github.mightycreak.Diffuse",
     "net.supertuxkart.SuperTuxKart",
@@ -18,7 +17,6 @@
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.gbrainy",
-    "org.gnome.gedit",
     "org.gnome.seahorse.Application",
     "org.laptop.TurtleArtActivity",
     "org.mapeditor.Tiled",

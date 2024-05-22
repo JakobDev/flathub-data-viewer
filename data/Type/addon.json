@@ -206,6 +206,8 @@
     "io.github.endless_sky.endless_sky.plugins.endless_sky_high_dpi",
     "io.github.peazip.PeaZip.Addon.i386",
     "net._86box._86Box.ROMs",
+    "net.mkiol.SpeechNote.Addon.amd",
+    "net.mkiol.SpeechNote.Addon.nvidia",
     "org.apache.jmeter.Help",
     "org.bitbucket.mystery_keeper.VapourSynthEditor.Plugin.FFMS2",
     "org.blackfennec.app.extensions.base",

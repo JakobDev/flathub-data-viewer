@@ -1,6 +1,5 @@
 [
     "ca.desrt.dconf-editor",
-    "fr.handbrake.ghb",
     "org.exaile.Exaile",
     "org.gnome.Aisleriot",
     "org.gnome.Cheese",
@@ -13,7 +12,6 @@
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.gbrainy",
-    "org.gnome.gedit",
     "org.musescore.MuseScore",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Memorize",
