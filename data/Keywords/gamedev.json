@@ -1,4 +1,5 @@
 [
     "io.github.achetagames.epic_asset_manager",
-    "io.github.fralonra.PpdEditor"
+    "io.github.fralonra.PpdEditor",
+    "org.opensurge2d.OpenSurge"
 ]
