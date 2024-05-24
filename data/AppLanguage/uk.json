@@ -27,7 +27,6 @@
     "net.minetest.Minetest",
     "net.supertuxkart.SuperTuxKart",
     "org.bluesabre.MenuLibre",
-    "org.emilien.Password",
     "org.entangle_photo.Manager",
     "org.exaile.Exaile",
     "org.freedesktop.appstream.cli",

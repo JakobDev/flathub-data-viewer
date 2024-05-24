@@ -1,5 +1,6 @@
 [
     "com.gitlab.bitseater.meteo",
+    "dev.salaniLeo.forecast",
     "io.github.amit9838.mousam",
     "org.gnome.Weather",
     "si.tano.Vremenar"

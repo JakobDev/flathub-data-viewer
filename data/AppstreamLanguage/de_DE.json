@@ -4,6 +4,8 @@
     "io.github.vikdevelop.SaveDesktop",
     "io.gitlab.news_flash.NewsFlash",
     "net.davidotek.pupgui2",
+    "org.gnome.Crosswords.Editor",
+    "org.gnome.Crosswords",
     "org.olivevideoeditor.Olive",
     "org.wxhexeditor.wxHexEditor"
 ]

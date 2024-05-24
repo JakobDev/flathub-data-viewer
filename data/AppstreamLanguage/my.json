@@ -1,5 +1,6 @@
 [
     "org.gimp.GIMP",
+    "org.gnome.Brasero",
     "org.gnome.Calculator",
     "org.gnome.Calendar",
     "org.gnome.Evince",

@@ -7,5 +7,6 @@
     "io.gitlab.coolreader_ng.crqt-ng",
     "org.kde.arianna",
     "org.kde.okular",
+    "org.previewqt.PreviewQt",
     "rocks.koreader.KOReader"
 ]

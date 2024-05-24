@@ -3,6 +3,5 @@
     "net.codeindustry.MasterPDFEditor",
     "org.gnome.Evince",
     "org.kde.okular",
-    "org.photoqt.PhotoQt",
-    "org.previewqt.PreviewQt"
+    "org.photoqt.PhotoQt"
 ]

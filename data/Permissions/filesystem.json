@@ -2738,9 +2738,6 @@
     "xdg-documents/Saber:create": [
         "com.adilhanney.saber"
     ],
-    "xdg-documents/nonogram:create": [
-        "com.adilhanney.super_nonogram"
-    ],
     "xdg-run/gvfs:ro": [
         "com.adobe.Flash-Player-Projector",
         "com.carpeludum.KegaFusion",

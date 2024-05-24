@@ -38,10 +38,8 @@
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdDiff"
     ],
-    "6.5": [
-        "com.rtosta.zapzap"
-    ],
     "6.7": [
+        "com.rtosta.zapzap",
         "io.github.jordanl2.ModularCalculator",
         "io.github.yuki_iptv.yuki-iptv",
         "org.mintguide.WebAppReader",
