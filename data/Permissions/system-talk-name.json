@@ -226,7 +226,8 @@
         "com.github.subhadeepjasu.pebbles",
         "com.github.suzie97.communique",
         "com.hack_computer.Clubhouse",
-        "com.ktechpit.wonderwall"
+        "com.ktechpit.wonderwall",
+        "io.github.pantheon_tweaks.pantheon-tweaks"
     ],
     "net.openvpn.v3.configuration": [
         "com.github.jkotra.eovpn"

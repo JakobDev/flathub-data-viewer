@@ -100,6 +100,7 @@
     "io.atom.Atom",
     "io.gdevelop.ide",
     "io.github.Dretch.MonomerFlatpakExample",
+    "io.github.FedericoCalzoni.EventRecorder",
     "io.github.MakovWait.Godots",
     "io.github.NickKarpowicz.LightwaveExplorer",
     "io.github.RodZill4.Material-Maker",

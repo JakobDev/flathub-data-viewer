@@ -40,6 +40,7 @@
     ],
     "6.7": [
         "com.rtosta.zapzap",
+        "io.github.FedericoCalzoni.EventRecorder",
         "io.github.jordanl2.ModularCalculator",
         "io.github.yuki_iptv.yuki-iptv",
         "org.mintguide.WebAppReader",

@@ -595,6 +595,7 @@
         "io.github.kotatogram",
         "io.github.martinrotter.rssguard",
         "io.github.martinrotter.rssguardlite",
+        "io.github.milkshiift.GoofCord",
         "io.github.nostar.DroidStar",
         "io.github.qnapi",
         "io.github.qtox.qTox",
@@ -822,6 +823,7 @@
         "dev.levz.TinyImageFinder",
         "dev.lukebriggs.pepys",
         "dev.serebit.Waycheck",
+        "dog.unix.cantata.Cantata",
         "edu.princeton.physics.WSJTX",
         "ee.ria.qdigidoc4",
         "eu.ad5001.LogarithmPlotter",
@@ -845,6 +847,7 @@
         "io.github.Arisotura.CoinKiller",
         "io.github.Bollos00.LibreMines",
         "io.github.Cockatrice.cockatrice",
+        "io.github.FedericoCalzoni.EventRecorder",
         "io.github.JaGoLi.ytdl_gui",
         "io.github.JakubMelka.Pdf4qt",
         "io.github.KikoPlayProject.KikoPlay",
@@ -1012,6 +1015,7 @@
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.sourceforge.scidavis",
         "net.xm1math.Texmaker",
+        "net.zdechov.app.Tunneler",
         "network.koesling.shm-modbus",
         "nz.mega.MEGAsync",
         "one.flipperzero.qFlipper",
@@ -1458,6 +1462,7 @@
         "fr.handbrake.ghb",
         "fr.natron.Natron",
         "fr.nytuo.cosmiccomics",
+        "in.co.nandakumar.vara",
         "info.puredata.Pd-extended",
         "info.smplayer.SMPlayer",
         "io.atom.Atom",
@@ -1688,6 +1693,7 @@
         "com.ylsoftware.qmmp.Qmmp",
         "de.haeckerfelix.Shortwave",
         "dev.vieb.Vieb",
+        "dog.unix.cantata.Cantata",
         "io.github.aggalex.Wineglass",
         "io.github.cmus.cmus",
         "io.github.fastrizwaan.WineZGUI",
@@ -1915,6 +1921,7 @@
         "dev.vencord.Vesktop",
         "fm.cancel.Ripcord",
         "gg.guilded.Guilded",
+        "io.github.milkshiift.GoofCord",
         "io.kapsa.drive",
         "org.gnunet.Messenger",
         "org.lyx.LyX",
@@ -2141,6 +2148,7 @@
         "io.github.kotatogram",
         "io.github.lime3ds.Lime3DS",
         "io.github.nyre221.kiview",
+        "io.github.pantheon_tweaks.pantheon-tweaks",
         "io.github.ripose_jp.Memento",
         "io.github.shiiion.primehack",
         "io.gitlab.floodlight.Presenter",
@@ -2328,6 +2336,7 @@
         "in.bharatkalluri.splash",
         "io.botfather.Botfather",
         "io.frama.tractor.carburetor",
+        "io.github.pantheon_tweaks.pantheon-tweaks",
         "io.github.vikdevelop.SaveDesktop",
         "io.liri.Calculator",
         "net.christianbeier.Gromit-MPX",
@@ -2558,6 +2567,7 @@
         "dev.vencord.Vesktop",
         "fm.cancel.Ripcord",
         "gg.guilded.Guilded",
+        "io.github.milkshiift.GoofCord",
         "io.kapsa.drive",
         "net.baseart.Glide",
         "org.gnunet.Messenger",
@@ -3318,6 +3328,7 @@
     ],
     "~/.icons:create": [
         "com.github.themix_project.Oomox",
+        "io.github.pantheon_tweaks.pantheon-tweaks",
         "io.github.vikdevelop.SaveDesktop"
     ],
     "xdg-download/VideoDownloader:create": [
@@ -3546,10 +3557,12 @@
         "de.sesu8642.feudaltactics"
     ],
     "/run/mpd": [
-        "de.wagnermartin.Plattenalbum"
+        "de.wagnermartin.Plattenalbum",
+        "dog.unix.cantata.Cantata"
     ],
     "xdg-run/mpd": [
-        "de.wagnermartin.Plattenalbum"
+        "de.wagnermartin.Plattenalbum",
+        "dog.unix.cantata.Cantata"
     ],
     "xdg-config/gtk-3.0:ro": [
         "de.willuhn.Jameica",
@@ -3792,6 +3805,15 @@
     "xdg-data/fonts:create": [
         "io.github.mmstick.FontFinder",
         "org.gnome.font-viewer"
+    ],
+    "~/.local/share/sounds:create": [
+        "io.github.pantheon_tweaks.pantheon-tweaks"
+    ],
+    "~/.config/gtk-3.0:create": [
+        "io.github.pantheon_tweaks.pantheon-tweaks"
+    ],
+    "~/.local/share/themes:create": [
+        "io.github.pantheon_tweaks.pantheon-tweaks"
     ],
     "xdg-videos/SysDVR:create": [
         "io.github.parnassius.SysDVR-Qt"
