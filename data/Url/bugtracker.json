@@ -1246,6 +1246,7 @@
     "org.getoutline.OutlineClient",
     "org.getoutline.OutlineManager",
     "org.getzola.zola",
+    "org.ghidra_sre.Ghidra",
     "org.gimp.GIMP",
     "org.gmusicbrowser.gmusicbrowser",
     "org.gnode.NixView",

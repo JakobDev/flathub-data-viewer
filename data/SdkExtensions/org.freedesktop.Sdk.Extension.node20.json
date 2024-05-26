@@ -10,6 +10,7 @@
     "io.podman_desktop.PodmanDesktop",
     "it.fabiodistasio.AntaresSQL",
     "moe.karaokes.mugen",
+    "org.expresslrs.ExpressLRSConfigurator",
     "org.freedesktop.appstream.generator",
     "rocks.poopjournal.librelinkupdesktop",
     "tech.keyforge.keyforge_master"

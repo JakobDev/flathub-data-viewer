@@ -87,6 +87,7 @@
     "org.easyrpg.player",
     "org.emptyflow.ArdorQuery",
     "org.expresslrs.ExpressLRSConfigurator",
+    "org.ghidra_sre.Ghidra",
     "org.gnome.Builder",
     "org.gnome.Calendar",
     "org.gnome.Characters",

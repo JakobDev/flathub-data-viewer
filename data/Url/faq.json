@@ -159,6 +159,7 @@
     "org.gajim.Gajim",
     "org.getoutline.OutlineClient",
     "org.getoutline.OutlineManager",
+    "org.ghidra_sre.Ghidra",
     "org.gmusicbrowser.gmusicbrowser",
     "org.gnome.DejaDup",
     "org.gnome.Geary",
