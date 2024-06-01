@@ -110,7 +110,6 @@
         "com.hack_computer.Sidetrack",
         "com.ktechpit.wonderwall",
         "com.meetfranz.Franz",
-        "com.mojang.Minecraft",
         "com.neatdecisions.Detwinner",
         "com.raggesilver.BlackBox",
         "com.thebrokenrail.MCPIReborn",
@@ -160,7 +159,6 @@
         "net.mediaarea.MediaConch",
         "net.mediaarea.MediaInfo",
         "net.mediaarea.QCTools",
-        "net.oz9aec.Gpredict",
         "net.sf.fuse_emulator",
         "net.sf.metronomek",
         "net.sf.nootka",
@@ -186,7 +184,6 @@
         "org.gnome.Glade",
         "org.gnome.Hitori",
         "org.gnome.Keysign",
-        "org.gnome.LightsOff",
         "org.gnome.Mines",
         "org.gnome.Notes",
         "org.gnome.Photos",
@@ -194,8 +191,6 @@
         "org.gnome.Rhythmbox3",
         "org.gnome.Taquin",
         "org.gnome.Todo",
-        "org.gnome.TwentyFortyEight",
-        "org.gnome.eog",
         "org.gnome.five-or-more",
         "org.gnome.frogr",
         "org.gpodder.gpodder-adaptive",
@@ -220,7 +215,6 @@
         "org.tuxpaint.Tuxpaint",
         "org.unknown_horizons.UnknownHorizons",
         "org.widelands.Widelands",
-        "org.zealdocs.Zeal",
         "org.zotero.Zotero",
         "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "sh.xaviers.Opentapes",
@@ -270,9 +264,9 @@
         "org.sauerbraten.Sauerbraten",
         "org.solarus_games.solarus.Launcher",
         "org.xonotic.Xonotic",
+        "pl.suve.colorful",
         "tk.deat.Jazz2Resurrection",
-        "vet.rsc.OpenRSC.Launcher",
-        "ws.openarena.OpenArena"
+        "vet.rsc.OpenRSC.Launcher"
     ],
     "intense": [
         "com.eduke32.EDuke32",
@@ -299,7 +293,6 @@
         "org.ioquake3.ioquake3",
         "org.openfodder.OpenFodder",
         "org.phoenicis.playonlinux",
-        "org.quetoo.Quetoo",
         "org.tordini.flavio.Minitube",
         "org.unitystation.StationHub"
     ]

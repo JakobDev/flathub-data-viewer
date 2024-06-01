@@ -1,11 +1,8 @@
 [
     "org.gnome.Cheese",
     "org.gnome.ColorViewer",
-    "org.gnome.LightsOff",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
-    "org.gnome.SoundRecorder",
     "org.gnome.Totem",
-    "org.gnome.eog",
     "org.gnome.five-or-more"
 ]

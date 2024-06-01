@@ -43,6 +43,7 @@
         "io.github.FedericoCalzoni.EventRecorder",
         "io.github.jordanl2.ModularCalculator",
         "io.github.yuki_iptv.yuki-iptv",
+        "org.beeref.BeeRef",
         "org.mintguide.WebAppReader",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
         "page.codeberg.JakobDev.jdAppStreamEdit",
@@ -62,9 +63,6 @@
     "5.15-22.08": [
         "net.puddletag.puddletag",
         "se.sjoerd.GIScan"
-    ],
-    "6.4": [
-        "org.beeref.BeeRef"
     ],
     "5.15-21.08": [
         "org.qutebrowser.qutebrowser"

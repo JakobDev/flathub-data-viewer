@@ -4,7 +4,8 @@
         "com.riverbankcomputing.PyQt.BaseApp",
         "io.github.xiaoyifang.goldendict_ng",
         "io.mrarm.mcpelauncher",
-        "net.jami.Jami"
+        "net.jami.Jami",
+        "org.zealdocs.Zeal"
     ],
     "5.15-23.08": [
         "ch.theologeek.Manuskript",
@@ -33,12 +34,10 @@
         "org.kde.skrooge",
         "org.kde.tellico",
         "org.musescore.MuseScore",
-        "org.sdrangel.SDRangel",
-        "org.zealdocs.Zeal"
+        "org.sdrangel.SDRangel"
     ],
     "6.6": [
         "com.github.jmlich.geotagging",
-        "de.shorsh.discord-screenaudio",
         "io.github.martinrotter.rssguard",
         "io.github.nyre221.kiview",
         "org.fcitx.Fcitx5",

@@ -1,17 +1,13 @@
 [
     "com.tux4kids.tuxtype",
-    "org.gnome.Aisleriot",
     "org.gnome.Cheese",
     "org.gnome.ColorViewer",
     "org.gnome.Hamster",
     "org.gnome.Hitori",
-    "org.gnome.LightsOff",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",
-    "org.gnome.SoundRecorder",
     "org.gnome.Totem",
-    "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.seahorse.Application"
 ]

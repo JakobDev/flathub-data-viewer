@@ -1,6 +1,7 @@
 [
     "com.github.LongSoft.UEFITool",
     "com.inochi2d.inochi-creator",
+    "com.inochi2d.inochi-session",
     "com.yubico.yubioath",
     "dev.geopjr.Collision",
     "fi.skyjake.Lagrange",

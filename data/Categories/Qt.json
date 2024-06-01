@@ -39,6 +39,7 @@
     "org.cubocore.CoreTime",
     "org.flatpak.qtdemo",
     "org.getmonero.Monero",
+    "org.kde.kalm",
     "org.kde.klines",
     "org.kde.telly-skout",
     "org.otfried.Ipe",

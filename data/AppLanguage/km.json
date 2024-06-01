@@ -1,13 +1,10 @@
 [
     "org.gimp.GIMP",
-    "org.gnome.Aisleriot",
     "org.gnome.Cheese",
     "org.gnome.Glade",
-    "org.gnome.LightsOff",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Totem",
-    "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Dimensions",

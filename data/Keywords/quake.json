@@ -1,8 +1,8 @@
 [
     "com.kristianduske.TrenchBroom",
     "io.github.TTimo.GtkRadiant",
+    "io.github.ec_.Quake3e.OpenArena",
     "io.github.ezQuake",
     "net.sourceforge.quakespasm.Quakespasm",
-    "org.yamagi.YamagiQ2",
-    "ws.openarena.OpenArena"
+    "org.yamagi.YamagiQ2"
 ]

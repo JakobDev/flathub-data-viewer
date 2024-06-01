@@ -69,7 +69,6 @@
         "com.writerduet.writersolo",
         "com.yubico.yubioath",
         "com.zoho.Notebook",
-        "de.haeckerfelix.Fragments",
         "de.nagstamon.nagstamon",
         "de.schmidhuberj.Flare",
         "de.willuhn.Jameica",
@@ -77,6 +76,7 @@
         "dev.alextren.Spot",
         "dev.edfloreshz.Done",
         "dev.goats.xivlauncher",
+        "dev.mrquantumoff.mcmodpackmanager",
         "dev.pulsar_edit.Pulsar",
         "edu.stanford.Almond",
         "finance.reckoner.Reckoner",
@@ -305,7 +305,6 @@
         "de.nagstamon.nagstamon",
         "de.rwth_aachen.ient.RDPlot",
         "de.rwth_aachen.ient.YUView",
-        "de.shorsh.discord-screenaudio",
         "de.syping.gta5view",
         "de.unifreiburg.ellipticcurve",
         "dev.levz.TinyImageFinder",
@@ -418,6 +417,7 @@
         "io.github.rocket.editor",
         "io.github.shiftey.Desktop",
         "io.github.shiiion.primehack",
+        "io.github.shmmodbus.shm-modbus",
         "io.github.simple64.simple64",
         "io.github.sithlord48.blackchocobo",
         "io.github.slgobinath.SafeEyes",
@@ -520,7 +520,6 @@
         "net.sourceforge.scidavis",
         "net.xm1math.Texmaker",
         "net.zdechov.app.Tunneler",
-        "network.koesling.shm-modbus",
         "nz.mega.MEGAsync",
         "one.flipperzero.qFlipper",
         "org.DolphinEmu.dolphin-emu",
@@ -630,6 +629,7 @@
         "org.kde.kaffeine",
         "org.kde.kalgebra",
         "org.kde.kalk",
+        "org.kde.kalm",
         "org.kde.kalzium",
         "org.kde.kamoso",
         "org.kde.kanagram",
@@ -975,7 +975,6 @@
         "de.klayout.KLayout",
         "de.nagstamon.nagstamon",
         "de.rwth_aachen.ient.YUView",
-        "de.shorsh.discord-screenaudio",
         "de.syping.gta5view",
         "dev.serebit.Waycheck",
         "dog.unix.cantata.Cantata",
@@ -1065,6 +1064,7 @@
         "io.github.ripose_jp.Memento",
         "io.github.rocket.editor",
         "io.github.shiiion.primehack",
+        "io.github.shmmodbus.shm-modbus",
         "io.github.simple64.simple64",
         "io.github.sithlord48.blackchocobo",
         "io.github.streetpea.Chiaki4deck",
@@ -1135,11 +1135,11 @@
         "net.sourceforge.scidavis",
         "net.xm1math.Texmaker",
         "net.zdechov.app.Tunneler",
-        "network.koesling.shm-modbus",
         "nz.mega.MEGAsync",
         "org.DolphinEmu.dolphin-emu",
         "org.atheme.audacious",
         "org.avidemux.Avidemux",
+        "org.beeref.BeeRef",
         "org.bionus.Grabber",
         "org.bitbucket.mystery_keeper.VapourSynthEditor",
         "org.bunkus.mkvtoolnix-gui",
@@ -1233,6 +1233,7 @@
         "org.kde.kaffeine",
         "org.kde.kalgebra",
         "org.kde.kalk",
+        "org.kde.kalm",
         "org.kde.kalzium",
         "org.kde.kamoso",
         "org.kde.kanagram",
@@ -1552,7 +1553,6 @@
         "de.klayout.KLayout",
         "de.nagstamon.nagstamon",
         "de.rwth_aachen.ient.YUView",
-        "de.shorsh.discord-screenaudio",
         "de.syping.gta5view",
         "dev.serebit.Waycheck",
         "dog.unix.cantata.Cantata",
@@ -1638,6 +1638,7 @@
         "io.github.ripose_jp.Memento",
         "io.github.rocket.editor",
         "io.github.shiiion.primehack",
+        "io.github.shmmodbus.shm-modbus",
         "io.github.simple64.simple64",
         "io.github.sithlord48.blackchocobo",
         "io.github.streetpea.Chiaki4deck",
@@ -1706,11 +1707,11 @@
         "net.sourceforge.scidavis",
         "net.xm1math.Texmaker",
         "net.zdechov.app.Tunneler",
-        "network.koesling.shm-modbus",
         "nz.mega.MEGAsync",
         "org.DolphinEmu.dolphin-emu",
         "org.atheme.audacious",
         "org.avidemux.Avidemux",
+        "org.beeref.BeeRef",
         "org.bionus.Grabber",
         "org.bitbucket.mystery_keeper.VapourSynthEditor",
         "org.bunkus.mkvtoolnix-gui",
@@ -1802,6 +1803,7 @@
         "org.kde.kaffeine",
         "org.kde.kalgebra",
         "org.kde.kalk",
+        "org.kde.kalm",
         "org.kde.kalzium",
         "org.kde.kamoso",
         "org.kde.kanagram",
@@ -2110,9 +2112,9 @@
         "com.xunlei.Thunder",
         "com.yubico.yubioath",
         "de.bund.ausweisapp.ausweisapp2",
-        "de.shorsh.discord-screenaudio",
         "dev.deedles.Trayscale",
         "dev.vencord.Vesktop",
+        "dog.unix.cantata.Cantata",
         "eu.betterbird.Betterbird",
         "finance.reckoner.Reckoner",
         "gg.guilded.Guilded",
@@ -2370,7 +2372,6 @@
         "de.bund.ausweisapp.ausweisapp2",
         "de.mediathekview.MediathekView",
         "de.nagstamon.nagstamon",
-        "de.shorsh.discord-screenaudio",
         "de.willuhn.Jameica",
         "dev.aunetx.deezer",
         "dev.deedles.Trayscale",
@@ -2380,7 +2381,6 @@
         "dev.vieb.Vieb",
         "edu.mit.Scratch",
         "edu.stanford.Almond",
-        "finance.reckoner.Reckoner",
         "gg.guilded.Guilded",
         "im.dino.Dino",
         "im.fluffychat.Fluffychat",
@@ -2570,7 +2570,6 @@
         "com.github.d4nj1.tlpui",
         "com.github.devalien.workspaces",
         "com.github.dimkr.gplaces",
-        "com.github.theCalcaholic.StreamDeck",
         "com.github.ztefn.haguichi",
         "com.gitlab.librebob.Athenaeum",
         "com.google.AndroidStudio",
@@ -2751,6 +2750,7 @@
         "com.nextcloud.desktopclient.nextcloud",
         "com.opera.Opera",
         "com.slack.Slack",
+        "com.thincast.client",
         "com.vivaldi.Vivaldi",
         "com.vscodium.codium",
         "io.github.ungoogled_software.ungoogled_chromium",
@@ -3206,8 +3206,10 @@
         "com.nextcloud.desktopclient.nextcloud",
         "com.opera.Opera",
         "com.slack.Slack",
+        "com.thincast.client",
         "com.vivaldi.Vivaldi",
         "io.github.ungoogled_software.ungoogled_chromium",
+        "org.chromium.Chromium",
         "org.kde.akregator",
         "org.kde.kwalletmanager5",
         "org.kde.tokodon"
@@ -3323,7 +3325,6 @@
         "com.spotify.Client",
         "com.valvesoftware.Steam",
         "io.github.Pithos",
-        "io.github.celluloid_player.Celluloid",
         "io.github.quodlibet.QuodLibet",
         "org.clementine_player.Clementine",
         "org.strawberrymusicplayer.strawberry"
@@ -3484,6 +3485,13 @@
         "io.github.betaflight.BetaflightConfigurator",
         "org.xiphos.Xiphos"
     ],
+    "org.kde.kwalletd": [
+        "com.thincast.client",
+        "org.videolan.VLC"
+    ],
+    "com.freedesktop.secrets": [
+        "com.thincast.client"
+    ],
     "org.gnome.totem": [
         "de.k_bo.Televido"
     ],
@@ -3503,18 +3511,13 @@
         "de.manuel_kehl.go-for-it",
         "io.github.nyre221.kiview"
     ],
+    "org.gnome.seahorse": [
+        "de.philippun1.turtle"
+    ],
     "org.sigxcpu.feedback": [
         "de.schmidhuberj.Flare",
         "org.gnome.Calls",
         "sm.puri.Chatty"
-    ],
-    "org.kde.kglobalaccel": [
-        "de.shorsh.discord-screenaudio",
-        "org.kde.akregator",
-        "org.kde.juk",
-        "org.kde.kontact",
-        "org.kde.yakuake",
-        "org.strawberrymusicplayer.strawberry"
     ],
     "org.freedesktop.portal.filechooser": [
         "eu.ad5001.LogarithmPlotter"
@@ -3721,6 +3724,13 @@
         "org.kde.dolphin",
         "org.kde.kontact"
     ],
+    "org.kde.kglobalaccel": [
+        "org.kde.akregator",
+        "org.kde.juk",
+        "org.kde.kontact",
+        "org.kde.yakuake",
+        "org.strawberrymusicplayer.strawberry"
+    ],
     "org.kde.knotify": [
         "org.kde.akregator",
         "org.kde.kontact"
@@ -3766,9 +3776,6 @@
     ],
     "org.gnome.evolution.dataserver.calendar7": [
         "org.tabos.roger"
-    ],
-    "org.kde.kwalletd": [
-        "org.videolan.VLC"
     ],
     "org.x.statusiconmonitor.*": [
         "org.x.Warpinator"

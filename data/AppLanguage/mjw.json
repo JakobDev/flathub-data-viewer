@@ -1,7 +1,5 @@
 [
     "org.gnome.Cheese",
     "org.gnome.Rhythmbox3",
-    "org.gnome.SoundRecorder",
-    "org.gnome.Totem",
-    "org.gnome.eog"
+    "org.gnome.Totem"
 ]

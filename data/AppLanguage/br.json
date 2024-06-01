@@ -1,9 +1,7 @@
 [
     "net.supertuxkart.SuperTuxKart",
     "org.gimp.GIMP",
-    "org.gnome.Aisleriot",
     "org.gnome.Rhythmbox3",
-    "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.seahorse.Application",
     "org.widelands.Widelands"

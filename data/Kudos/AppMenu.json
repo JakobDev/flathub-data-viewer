@@ -1,13 +1,10 @@
 [
     "com.bjareholt.johan.SimpleDiary",
     "com.uploadedlobster.peek",
-    "dev.Cogitri.Health",
-    "org.gnome.Aisleriot",
     "org.gnome.EasyTAG",
     "org.gnome.Hitori",
     "org.gnome.Notes",
     "org.gnome.Quadrapassel",
     "org.gnome.Todo",
-    "org.gnome.eog",
     "org.tabos.roger"
 ]

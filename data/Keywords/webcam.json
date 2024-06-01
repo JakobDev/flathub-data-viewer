@@ -1,4 +1,5 @@
 [
+    "hu.irl.cameractrls",
     "io.github.webcamoid.Webcamoid",
     "org.gnome.Cheese",
     "org.gnome.Snapshot"

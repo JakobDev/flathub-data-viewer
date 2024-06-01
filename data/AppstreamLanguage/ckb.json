@@ -1,5 +1,6 @@
 [
     "com.github.unrud.VideoDownloader",
+    "com.transmissionbt.Transmission",
     "com.usebottles.bottles",
     "org.freedesktop.appstream.cli",
     "org.gnome.Brasero",
@@ -15,6 +16,7 @@
     "org.gnome.Polari",
     "org.gnome.PowerStats",
     "org.gnome.SoundRecorder",
+    "org.gnome.TwentyFortyEight",
     "org.gnome.Weather",
     "org.gnome.baobab",
     "org.gnome.eog",

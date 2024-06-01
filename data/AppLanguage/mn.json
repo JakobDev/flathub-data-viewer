@@ -1,7 +1,5 @@
 [
-    "org.gnome.Aisleriot",
     "org.gnome.Quadrapassel",
-    "org.gnome.eog",
     "org.laptop.TurtleArtActivity",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Maze",

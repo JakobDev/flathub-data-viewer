@@ -1,7 +1,6 @@
 [
     "com.tux4kids.tuxtype",
     "io.github.Hexchat",
-    "org.gnome.Aisleriot",
     "org.gnome.Cheese",
     "org.gnome.ColorViewer",
     "org.gnome.Hamster",
@@ -9,7 +8,6 @@
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",
     "org.gnome.Totem",
-    "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.seahorse.Application",
     "org.x.Warpinator"

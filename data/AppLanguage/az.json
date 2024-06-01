@@ -1,9 +1,7 @@
 [
     "com.github.artemanufrij.playmymusic",
     "io.github.Hexchat",
-    "org.gnome.Aisleriot",
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",
-    "org.gnome.Totem",
-    "org.gnome.eog"
+    "org.gnome.Totem"
 ]

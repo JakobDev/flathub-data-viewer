@@ -92,6 +92,7 @@
         "com.github.phase1geo.minder",
         "com.github.philip_scott.notes-up",
         "com.github.philip_scott.spice-up",
+        "com.github.qarmin.szyszka",
         "com.github.reds.LogisimEvolution",
         "com.github.reduz.ChibiTracker",
         "com.github.robertsanseries.ciano",
@@ -131,7 +132,6 @@
         "com.poweriso.PowerISO",
         "com.prusa3d.PrusaSlicer",
         "com.rawtherapee.RawTherapee",
-        "com.redis.RedisInsight",
         "com.richwhitehouse.BigPEmu",
         "com.rosegardenmusic.rosegarden",
         "com.serveftp.officefactoring",
@@ -246,6 +246,7 @@
         "io.github.mgerhardy.vengi.voxedit",
         "io.github.mightycreak.Diffuse",
         "io.github.mrmyhuang.cbetar2",
+        "io.github.mrvladus.List",
         "io.github.muse_sequencer.Muse",
         "io.github.myst6re.makoureactor",
         "io.github.narunlifescience.AlphaPlot",
@@ -465,7 +466,6 @@
         "org.tomviz.Tomviz",
         "org.tropy.Tropy",
         "org.tryton.Tryton-68",
-        "org.turbowarp.TurboWarp",
         "org.upscayl.Upscayl",
         "org.verapdf.veraPDF",
         "org.virtualxt.VirtualXT",
@@ -568,7 +568,6 @@
         "com.xunlei.Thunder",
         "com.zquestclassic.ZQuest",
         "de.schmidhuberj.tubefeeder",
-        "de.shorsh.discord-screenaudio",
         "dev.vencord.Vesktop",
         "dev.vieb.Vieb",
         "eu.betterbird.Betterbird",
@@ -668,6 +667,7 @@
         "org.subtitld.Subtitld",
         "org.syphon.Syphon",
         "org.torproject.torbrowser-launcher",
+        "org.turbowarp.TurboWarp",
         "org.tuxfamily.hatari",
         "org.twinery.Twine",
         "org.v1993.NXDumpClient",
@@ -817,7 +817,6 @@
         "de.nagstamon.nagstamon",
         "de.rwth_aachen.ient.RDPlot",
         "de.rwth_aachen.ient.YUView",
-        "de.shorsh.discord-screenaudio",
         "de.syping.gta5view",
         "de.unifreiburg.ellipticcurve",
         "dev.levz.TinyImageFinder",
@@ -922,6 +921,7 @@
         "io.github.ripose_jp.Memento",
         "io.github.rocket.editor",
         "io.github.shiiion.primehack",
+        "io.github.shmmodbus.shm-modbus",
         "io.github.simple64.simple64",
         "io.github.sithlord48.blackchocobo",
         "io.github.streetpea.Chiaki4deck",
@@ -1016,7 +1016,6 @@
         "net.sourceforge.scidavis",
         "net.xm1math.Texmaker",
         "net.zdechov.app.Tunneler",
-        "network.koesling.shm-modbus",
         "nz.mega.MEGAsync",
         "one.flipperzero.qFlipper",
         "org.DolphinEmu.dolphin-emu",
@@ -1123,6 +1122,7 @@
         "org.kde.kaffeine",
         "org.kde.kalgebra",
         "org.kde.kalk",
+        "org.kde.kalm",
         "org.kde.kalzium",
         "org.kde.kamoso",
         "org.kde.kanagram",
@@ -1733,6 +1733,7 @@
         "org.soundconverter.SoundConverter",
         "org.strawberrymusicplayer.strawberry",
         "org.subtitld.Subtitld",
+        "org.turbowarp.TurboWarp",
         "org.winehq.Wine",
         "org.zotero.Zotero",
         "tv.kodi.Kodi",
@@ -1760,7 +1761,6 @@
     ],
     "xdg-data/flatpak:ro": [
         "app.drey.KeyRack",
-        "com.github.theCalcaholic.StreamDeck",
         "com.gitlab.librebob.Athenaeum",
         "io.github.fabrialberio.pinapp",
         "io.github.philipk.boilr",
@@ -1916,7 +1916,6 @@
         "com.skype.Client",
         "com.spotify.Client",
         "com.valvesoftware.Steam",
-        "de.shorsh.discord-screenaudio",
         "dev.vencord.Vesktop",
         "fm.cancel.Ripcord",
         "gg.guilded.Guilded",
@@ -2121,6 +2120,7 @@
         "org.srb2.SRB2Kart-galaxy",
         "org.srb2.SRB2Kart-galaxy_azerty",
         "org.srb2.SRB2Kart",
+        "org.turbowarp.TurboWarp",
         "org.vinegarhq.Vinegar",
         "sh.cider.Cider",
         "sh.ppy.osu",
@@ -2199,7 +2199,6 @@
         "com.thewavewarden.Odin2",
         "com.tracktion.Waveform",
         "com.vivaldi.Vivaldi",
-        "de.shorsh.discord-screenaudio",
         "dev.vencord.Vesktop",
         "fm.helio.Workstation",
         "fm.reaper.Reaper",
@@ -2480,6 +2479,7 @@
         "org.qutebrowser.qutebrowser",
         "org.ryujinx.Ryujinx",
         "org.subtitld.Subtitld",
+        "org.turbowarp.TurboWarp",
         "org.winehq.Wine",
         "org.zotero.Zotero",
         "org.zulip.Zulip",
@@ -2562,7 +2562,6 @@
         "com.meetfranz.Franz",
         "com.sindresorhus.Caprine",
         "com.skype.Client",
-        "de.shorsh.discord-screenaudio",
         "dev.vencord.Vesktop",
         "fm.cancel.Ripcord",
         "gg.guilded.Guilded",
@@ -2579,7 +2578,6 @@
         "com.arviceblot.eso-addon-manager",
         "com.eduke32.EDuke32",
         "com.github.Matoking.protontricks",
-        "com.github.theCalcaholic.StreamDeck",
         "com.heroicgameslauncher.hgl",
         "com.steamdeckrepo.manager",
         "dev.vencord.Vesktop",
@@ -2762,7 +2760,6 @@
         "com.github.Matoking.protontricks",
         "com.github._0negal.Viper",
         "com.github.mtkennerly.ludusavi",
-        "com.github.theCalcaholic.StreamDeck",
         "com.heroicgameslauncher.hgl",
         "com.steamgriddb.SGDBoop",
         "gg.minion.Minion",
@@ -2954,6 +2951,7 @@
         "net.xmind.XMind",
         "one.ablaze.floorp",
         "org.firestormviewer.FirestormViewer",
+        "org.turbowarp.TurboWarp",
         "org.winehq.Wine",
         "org.zotero.Zotero",
         "page.codeberg.libre_menu_editor.LibreMenuEditor",
@@ -3118,7 +3116,6 @@
     ],
     "~/.mozilla/firefox": [
         "com.github.GradienceTeam.Gradience",
-        "com.github.theCalcaholic.StreamDeck",
         "org.gnome.Eolie"
     ],
     "xdg-data/flatpak/overrides:create": [
@@ -3162,7 +3159,7 @@
         "org.wireshark.Wireshark",
         "org.zotero.Zotero"
     ],
-    "xdg-pictures/RMG:create": [
+    "xdg-pictures/RMG": [
         "com.github.Rosalie241.RMG"
     ],
     "~/.local/share/applications": [
@@ -3269,9 +3266,6 @@
     "xdg-config/gtk-4.0:ro": [
         "com.github.qarmin.czkawka"
     ],
-    "/home": [
-        "com.github.qarmin.szyszka"
-    ],
     "home:create": [
         "com.github.raibtoffoletto.litteris"
     ],
@@ -3293,33 +3287,6 @@
         "org.srb2.SRB2Kart-galaxy_azerty",
         "org.srb2.SRB2Kart",
         "sh.fhs.KatawaShoujoReEngineered"
-    ],
-    "xdg-data/Steam": [
-        "com.github.theCalcaholic.StreamDeck",
-        "io.github.philipk.boilr",
-        "io.github.tralph3.Steam_Metadata_Editor",
-        "net.retrodeck.retrodeck"
-    ],
-    "/run/udev:ro": [
-        "com.github.theCalcaholic.StreamDeck",
-        "com.heroicgameslauncher.hgl",
-        "com.napster.napster-bigscreen-electron",
-        "io.github.betaflight.BetaflightConfigurator",
-        "io.github.hmlendea.geforcenow-electron",
-        "io.github.mandruis7.xbox-cloud-gaming-electron",
-        "io.github.punesemu.puNES",
-        "io.github.unknownskl.greenlight",
-        "io.github.wazzaps.Fingerpaint",
-        "net.studio08.xbplay",
-        "one.flipperzero.qFlipper",
-        "org.expresslrs.ExpressLRSConfigurator",
-        "org.libretro.RetroArch",
-        "org.mavlink.qgroundcontrol",
-        "tv.kodi.Kodi",
-        "xyz.hyperplay.HyperPlay"
-    ],
-    "~/.var/app/org.mozilla.firefox": [
-        "com.github.theCalcaholic.StreamDeck"
     ],
     "~/.themes:create": [
         "com.github.themix_project.Oomox",
@@ -3370,6 +3337,23 @@
         "io.github.Foldex.AdwSteamGtk",
         "xyz.hyperplay.HyperPlay"
     ],
+    "/run/udev:ro": [
+        "com.heroicgameslauncher.hgl",
+        "com.napster.napster-bigscreen-electron",
+        "io.github.betaflight.BetaflightConfigurator",
+        "io.github.hmlendea.geforcenow-electron",
+        "io.github.mandruis7.xbox-cloud-gaming-electron",
+        "io.github.punesemu.puNES",
+        "io.github.unknownskl.greenlight",
+        "io.github.wazzaps.Fingerpaint",
+        "net.studio08.xbplay",
+        "one.flipperzero.qFlipper",
+        "org.expresslrs.ExpressLRSConfigurator",
+        "org.libretro.RetroArch",
+        "org.mavlink.qgroundcontrol",
+        "tv.kodi.Kodi",
+        "xyz.hyperplay.HyperPlay"
+    ],
     "~/.local/share/lutris": [
         "com.heroicgameslauncher.hgl",
         "com.vysp3r.ProtonPlus",
@@ -3418,6 +3402,9 @@
     ],
     "~/.cert/nm-openvpn": [
         "com.protonvpn.www"
+    ],
+    "~/.redis-insight": [
+        "com.redis.RedisInsight"
     ],
     "~/.renpy:create": [
         "com.scoutshonour.Digital",
@@ -3819,6 +3806,11 @@
     ],
     "xdg-pictures/SysDVR:create": [
         "io.github.parnassius.SysDVR-Qt"
+    ],
+    "xdg-data/Steam": [
+        "io.github.philipk.boilr",
+        "io.github.tralph3.Steam_Metadata_Editor",
+        "net.retrodeck.retrodeck"
     ],
     "~/GOG Games:ro": [
         "io.github.philipk.boilr"

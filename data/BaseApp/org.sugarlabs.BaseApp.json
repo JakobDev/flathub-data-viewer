@@ -1,6 +1,8 @@
 {
+    "24.04": [
+        "org.sugarlabs.AbacusActivity"
+    ],
     "23.06": [
-        "org.sugarlabs.AbacusActivity",
         "org.sugarlabs.Chart",
         "org.sugarlabs.Chess",
         "org.sugarlabs.ColorDeducto",

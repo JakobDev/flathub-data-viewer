@@ -1,6 +1,7 @@
 [
     "fr.free.qccrypt.Qccrypt",
     "org.kde.kalk",
+    "org.kde.kalm",
     "org.kde.kclock",
     "org.kde.keysmith",
     "org.kde.klines",

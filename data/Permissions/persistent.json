@@ -812,8 +812,5 @@
     ],
     ".python-eggs": [
         "work.openpaper.Paperwork"
-    ],
-    ".openarena": [
-        "ws.openarena.OpenArena"
     ]
 }
