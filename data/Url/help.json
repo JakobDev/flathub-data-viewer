@@ -4,6 +4,7 @@
     "app.getclipboard.Clipboard",
     "app.gummi.gummi",
     "app.midterm.MidtermDesktop",
+    "app.organicmaps",
     "app.rednotebook.RedNotebook",
     "app.xemu.xemu",
     "ar.com.pilas_engine.App",

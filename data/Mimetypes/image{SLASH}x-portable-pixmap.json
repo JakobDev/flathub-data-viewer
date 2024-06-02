@@ -29,6 +29,5 @@
     "org.libvips.vipsdisp",
     "org.nomacs.ImageLounge",
     "org.photoqt.PhotoQt",
-    "org.previewqt.PreviewQt",
-    "work.openpaper.Paperwork"
+    "org.previewqt.PreviewQt"
 ]

@@ -31,6 +31,5 @@
     "org.libvips.vipsdisp",
     "org.photoqt.PhotoQt",
     "org.previewqt.PreviewQt",
-    "ru.yandex.Browser",
-    "work.openpaper.Paperwork"
+    "ru.yandex.Browser"
 ]

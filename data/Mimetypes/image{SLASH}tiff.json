@@ -43,6 +43,5 @@
     "org.photoqt.PhotoQt",
     "org.previewqt.PreviewQt",
     "org.qgis.qgis",
-    "org.xfce.ristretto",
-    "work.openpaper.Paperwork"
+    "org.xfce.ristretto"
 ]

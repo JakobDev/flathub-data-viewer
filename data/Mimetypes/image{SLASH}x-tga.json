@@ -18,6 +18,5 @@
     "org.kde.kolourpaint",
     "org.kde.okular",
     "org.photoqt.PhotoQt",
-    "org.previewqt.PreviewQt",
-    "work.openpaper.Paperwork"
+    "org.previewqt.PreviewQt"
 ]

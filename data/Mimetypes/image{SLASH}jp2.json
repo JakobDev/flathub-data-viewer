@@ -7,6 +7,5 @@
     "org.libvips.vipsdisp",
     "org.photoqt.PhotoQt",
     "org.previewqt.PreviewQt",
-    "org.qgis.qgis",
-    "work.openpaper.Paperwork"
+    "org.qgis.qgis"
 ]

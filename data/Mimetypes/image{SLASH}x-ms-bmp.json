@@ -1,4 +1,5 @@
 [
     "org.photoqt.PhotoQt",
-    "org.previewqt.PreviewQt"
+    "org.previewqt.PreviewQt",
+    "work.openpaper.Paperwork"
 ]
