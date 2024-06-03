@@ -299,6 +299,7 @@
     "org.kde.skrooge",
     "org.kicad.KiCad",
     "org.laptop.TurtleArtActivity",
+    "org.lyx.LyX",
     "org.midori_browser.Midori",
     "org.musescore.MuseScore",
     "org.nongnu.lingot",
@@ -348,5 +349,6 @@
     "so.libdb.dissent",
     "vn.hoabinh.quan.CoBang",
     "work.openpaper.Paperwork",
+    "xyz.safeworlds.hiit",
     "xyz.tytanium.DoorKnocker"
 ]

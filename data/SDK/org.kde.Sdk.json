@@ -554,6 +554,7 @@
         "com.blockstream.Green",
         "com.georgefb.mangareader",
         "com.georgefb.quickaccess",
+        "com.github.LongSoft.UEFITool",
         "com.github.Rosalie241.RMG",
         "com.github.dynobo.normcap",
         "com.gitlab.tipp10.tipp10",
@@ -594,6 +595,7 @@
         "net.rpcs3.RPCS3",
         "org.DolphinEmu.dolphin-emu",
         "org.beeref.BeeRef",
+        "org.bino3d.bino",
         "org.cznic.Datovka",
         "org.duckstation.DuckStation",
         "org.fooyin.fooyin",
@@ -655,7 +657,6 @@
         "org.guerinoni.qTsConverter"
     ],
     "6.5": [
-        "com.github.LongSoft.UEFITool",
         "com.github.dail8859.NotepadNext",
         "com.github.scrivanolabs.scrivano",
         "com.librumreader.librum",
@@ -676,7 +677,6 @@
     "6.4": [
         "de.marlam.gencolormap",
         "de.marlam.qv",
-        "org.bino3d.bino",
         "org.opentransactions.metier"
     ],
     "5.12": [
