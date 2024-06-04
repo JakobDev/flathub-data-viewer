@@ -1,4 +1,7 @@
 [
     "com.sigil_ebook.Sigil",
-    "org.godotengine.Godot"
+    "org.godotengine.Godot",
+    "org.godotengine.Godot3",
+    "org.godotengine.Godot3Sharp",
+    "org.godotengine.GodotSharp"
 ]

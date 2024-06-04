@@ -507,9 +507,6 @@
     "org.mozilla.firefox.*": [
         "org.mozilla.firefox"
     ],
-    "org.mpris.mediaplayer2.parlatype": [
-        "org.parlatype.Parlatype"
-    ],
     "org.mpris.mediaplayer2.qutebrowser.*": [
         "org.qutebrowser.qutebrowser"
     ],
