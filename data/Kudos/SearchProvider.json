@@ -1,9 +1,7 @@
 [
     "com.belmoussaoui.Authenticator",
     "com.github.finefindus.eyedropper",
-    "io.github.idevecore.CurrencyConverter",
     "io.posidon.Paper",
     "org.gnome.Eolie",
-    "org.gnome.Notes",
-    "org.learningequality.Kolibri"
+    "org.gnome.Notes"
 ]

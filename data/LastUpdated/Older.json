@@ -320,7 +320,6 @@
     "de.haeckerfelix.Shortwave",
     "de.k_bo.Televido",
     "de.manuel_kehl.go-for-it",
-    "de.marlam.gencolormap",
     "de.marlam.qv",
     "de.peterge.combined",
     "de.renew.Renew",
@@ -921,6 +920,7 @@
     "page.codeberg.JakobDev.jdAnimatedImageEditor",
     "page.codeberg.JakobDev.jdDiff",
     "page.codeberg.JakobDev.jdEolConverter",
+    "page.codeberg.JakobDev.jdNBTExplorer",
     "page.codeberg.papojari.Find_Billy",
     "page.codeberg.yeldham.Librerama",
     "party.supertux.supertuxparty",
@@ -1103,6 +1103,7 @@
     "org.gtk.Gtk3theme.Yaru-remix",
     "org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime",
     "org.kde.KStyle.Kvantum",
+    "org.learningequality.Kolibri.Plugin.kolibri-dynamic-collections-plugin",
     "org.learningequality.Kolibri.Plugin.kolibri-zim-plugin",
     "org.videolan.VLC.Plugin.pause_click"
 ]

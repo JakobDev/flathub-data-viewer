@@ -385,7 +385,6 @@
         "org.kde.francis",
         "org.kde.granatier",
         "org.kde.gwenview",
-        "org.kde.haruna",
         "org.kde.isoimagewriter",
         "org.kde.juk",
         "org.kde.kalgebra",
@@ -563,6 +562,7 @@
         "com.rtosta.zapzap",
         "de.bund.ausweisapp.ausweisapp2",
         "de.halaszovich.PMbrowser",
+        "de.marlam.gencolormap",
         "dev.serebit.Waycheck",
         "dog.unix.cantata.Cantata",
         "ee.ria.qdigidoc4",
@@ -612,6 +612,7 @@
         "org.gottcode.Tanglet",
         "org.gottcode.Tetzle",
         "org.kde.audiotube",
+        "org.kde.haruna",
         "org.kde.itinerary",
         "org.kde.kalm",
         "org.kde.kcharselect",
@@ -675,7 +676,6 @@
         "eu.skribisto.skribisto"
     ],
     "6.4": [
-        "de.marlam.gencolormap",
         "de.marlam.qv",
         "org.opentransactions.metier"
     ],
