@@ -225,7 +225,6 @@
         "io.github.dagargo.Elektroid",
         "io.github.dbchoco.Salawat",
         "io.github.dosbox-staging",
-        "io.github.dubstar_04.design",
         "io.github.dummerle.rare",
         "io.github.everestapi.Olympus",
         "io.github.f3d_app.f3d",
@@ -944,6 +943,7 @@
         "io.gitlab.dev_nis.one-click-backup",
         "io.gitlab.o20.word",
         "io.gitlab.persiangolf.voicegen",
+        "io.gpt4all.gpt4all",
         "io.itch.azagaya.Laigter",
         "io.jamulus.Jamulus",
         "io.liri.Calculator",
@@ -1015,6 +1015,7 @@
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.sourceforge.scidavis",
         "net.xm1math.Texmaker",
+        "net.zdechov.app.TransLines",
         "net.zdechov.app.Tunneler",
         "nz.mega.MEGAsync",
         "one.flipperzero.qFlipper",
@@ -1357,6 +1358,67 @@
         "website.i2pd.i2pd",
         "xyz.mx_moment.moment",
         "xyz.z3ntu.razergenie"
+    ],
+    "/var/lib/flatpak": [
+        "app.devsuite.Manuals",
+        "org.gnome.Builder"
+    ],
+    "~/.local/share/flatpak": [
+        "app.devsuite.Manuals",
+        "org.gnome.Builder"
+    ],
+    "host:ro": [
+        "app.devsuite.Manuals",
+        "app.xemu.xemu",
+        "ca.desrt.dconf-editor",
+        "com.adobe.Flash-Player-Projector",
+        "com.georgefb.mangareader",
+        "com.github.Alcaro.Flips",
+        "com.github.bluesabre.darkbar",
+        "com.github.d4nj1.tlpui",
+        "com.github.donadigo.appeditor",
+        "com.github.joseexposito.touche",
+        "com.richwhitehouse.BigPEmu",
+        "com.supermodel3.Supermodel",
+        "com.tutanota.Tutanota",
+        "com.virustotal.VirusTotalUploader",
+        "dev.levz.TinyImageFinder",
+        "info.cemu.Cemu",
+        "io.github.hakandundar34coding.system-monitoring-center",
+        "io.github.jorchube.monitorets",
+        "io.github.kotatogram",
+        "io.github.lime3ds.Lime3DS",
+        "io.github.nyre221.kiview",
+        "io.github.pantheon_tweaks.pantheon-tweaks",
+        "io.github.ripose_jp.Memento",
+        "io.github.shiiion.primehack",
+        "io.gitlab.floodlight.Presenter",
+        "io.mpv.Mpv",
+        "net.mediaarea.MediaInfo",
+        "net.nokyan.Resources",
+        "org.DolphinEmu.dolphin-emu",
+        "org.bino3d.bino",
+        "org.bluesabre.MenuLibre",
+        "org.cubocore.CoreAction",
+        "org.cubocore.CoreImage",
+        "org.cubocore.CoreStats",
+        "org.equeim.Tremotesf",
+        "org.flycast.Flycast",
+        "org.gnome.Devhelp",
+        "org.gnome.Notes",
+        "org.kde.elisa",
+        "org.kde.haruna",
+        "org.linux_hardware.hw-probe",
+        "org.love2d.love2d",
+        "org.mamedev.MAME",
+        "org.pegasus_frontend.Pegasus",
+        "org.ppsspp.PPSSPP",
+        "org.zrythm.Zrythm",
+        "page.codeberg.libre_menu_editor.LibreMenuEditor",
+        "re.sonny.Junction",
+        "ru.sview.sView",
+        "space.fips.Fips",
+        "uk.co.electronstudio.ComicReaderUltimate"
     ],
     "host": [
         "app.devsuite.Ptyxis",
@@ -2125,58 +2187,6 @@
         "sh.ppy.osu",
         "xyz.hyperplay.HyperPlay"
     ],
-    "host:ro": [
-        "app.xemu.xemu",
-        "ca.desrt.dconf-editor",
-        "com.adobe.Flash-Player-Projector",
-        "com.georgefb.mangareader",
-        "com.github.Alcaro.Flips",
-        "com.github.bluesabre.darkbar",
-        "com.github.d4nj1.tlpui",
-        "com.github.donadigo.appeditor",
-        "com.github.joseexposito.touche",
-        "com.richwhitehouse.BigPEmu",
-        "com.supermodel3.Supermodel",
-        "com.tutanota.Tutanota",
-        "com.virustotal.VirusTotalUploader",
-        "dev.levz.TinyImageFinder",
-        "info.cemu.Cemu",
-        "io.github.hakandundar34coding.system-monitoring-center",
-        "io.github.jorchube.monitorets",
-        "io.github.kotatogram",
-        "io.github.lime3ds.Lime3DS",
-        "io.github.nyre221.kiview",
-        "io.github.pantheon_tweaks.pantheon-tweaks",
-        "io.github.ripose_jp.Memento",
-        "io.github.shiiion.primehack",
-        "io.gitlab.floodlight.Presenter",
-        "io.mpv.Mpv",
-        "net.mediaarea.MediaInfo",
-        "net.nokyan.Resources",
-        "org.DolphinEmu.dolphin-emu",
-        "org.bino3d.bino",
-        "org.bluesabre.MenuLibre",
-        "org.cubocore.CoreAction",
-        "org.cubocore.CoreImage",
-        "org.cubocore.CoreStats",
-        "org.equeim.Tremotesf",
-        "org.flycast.Flycast",
-        "org.gnome.Devhelp",
-        "org.gnome.Notes",
-        "org.kde.elisa",
-        "org.kde.haruna",
-        "org.linux_hardware.hw-probe",
-        "org.love2d.love2d",
-        "org.mamedev.MAME",
-        "org.pegasus_frontend.Pegasus",
-        "org.ppsspp.PPSSPP",
-        "org.zrythm.Zrythm",
-        "page.codeberg.libre_menu_editor.LibreMenuEditor",
-        "re.sonny.Junction",
-        "ru.sview.sView",
-        "space.fips.Fips",
-        "uk.co.electronstudio.ComicReaderUltimate"
-    ],
     "xdg-run/pipewire-0": [
         "ar.com.tuxguitar.TuxGuitar",
         "com.bitwig.BitwigStudio",
@@ -2213,6 +2223,7 @@
         "io.github.kukuruzka165.materialgram",
         "io.github.muse_sequencer.Muse",
         "io.github.pd_l2ork.Pd_L2Ork",
+        "io.github.rdybka.vht",
         "io.github.streetpea.Chiaki4deck",
         "io.github.tdesktop_x64.TDesktop",
         "io.gitlab.librewolf-community",
@@ -2311,7 +2322,8 @@
         "ro.fxdata.taskmonitor.viewer",
         "se.manyver.Manyverse",
         "uk.org.zint.zint-qt",
-        "vn.hoabinh.quan.CoBang"
+        "vn.hoabinh.quan.CoBang",
+        "xyz.parlatype.Parlatype"
     ],
     "xdg-run/dconf": [
         "ca._0ldsk00l.Nestopia",
@@ -2369,6 +2381,34 @@
         "org.gnome.Boxes",
         "org.laptop.TurtleArtActivity",
         "ru.yandex.Browser"
+    ],
+    "/run/udev:ro": [
+        "ca.parallel_launcher.ParallelLauncher",
+        "com.heroicgameslauncher.hgl",
+        "com.napster.napster-bigscreen-electron",
+        "io.github.betaflight.BetaflightConfigurator",
+        "io.github.hmlendea.geforcenow-electron",
+        "io.github.mandruis7.xbox-cloud-gaming-electron",
+        "io.github.punesemu.puNES",
+        "io.github.unknownskl.greenlight",
+        "io.github.wazzaps.Fingerpaint",
+        "net.studio08.xbplay",
+        "one.flipperzero.qFlipper",
+        "org.expresslrs.ExpressLRSConfigurator",
+        "org.libretro.RetroArch",
+        "org.mavlink.qgroundcontrol",
+        "tv.kodi.Kodi",
+        "xyz.hyperplay.HyperPlay"
+    ],
+    "xdg-run/gamescope-0:ro": [
+        "ca.parallel_launcher.ParallelLauncher",
+        "io.github.shiiion.primehack",
+        "net.lutris.Lutris",
+        "net.retrodeck.retrodeck",
+        "org.DolphinEmu.dolphin-emu",
+        "org.libretro.RetroArch",
+        "org.ppsspp.PPSSPP",
+        "ru.linux_gaming.PortProton"
     ],
     "xdg-run/keyring": [
         "cc.arduino.IDE2",
@@ -2550,6 +2590,7 @@
         "com.skype.Client",
         "io.github.Icalingua.Icalingua",
         "io.github.Soundux",
+        "io.gpt4all.gpt4all",
         "org.gnunet.Messenger"
     ],
     "xdg-videos:ro": [
@@ -3129,6 +3170,7 @@
         "com.github.wwmm.easyeffects",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
+        "com.unicornsonlsd.finamp",
         "dev.vieb.Vieb",
         "info.mumble.Mumble",
         "io.github.celluloid_player.Celluloid",
@@ -3334,23 +3376,6 @@
     "~/.steam/steam": [
         "com.heroicgameslauncher.hgl",
         "io.github.Foldex.AdwSteamGtk",
-        "xyz.hyperplay.HyperPlay"
-    ],
-    "/run/udev:ro": [
-        "com.heroicgameslauncher.hgl",
-        "com.napster.napster-bigscreen-electron",
-        "io.github.betaflight.BetaflightConfigurator",
-        "io.github.hmlendea.geforcenow-electron",
-        "io.github.mandruis7.xbox-cloud-gaming-electron",
-        "io.github.punesemu.puNES",
-        "io.github.unknownskl.greenlight",
-        "io.github.wazzaps.Fingerpaint",
-        "net.studio08.xbplay",
-        "one.flipperzero.qFlipper",
-        "org.expresslrs.ExpressLRSConfigurator",
-        "org.libretro.RetroArch",
-        "org.mavlink.qgroundcontrol",
-        "tv.kodi.Kodi",
         "xyz.hyperplay.HyperPlay"
     ],
     "~/.local/share/lutris": [
@@ -3869,15 +3894,6 @@
     "/opt:ro": [
         "io.github.shiftey.Desktop"
     ],
-    "xdg-run/gamescope-0:ro": [
-        "io.github.shiiion.primehack",
-        "net.lutris.Lutris",
-        "net.retrodeck.retrodeck",
-        "org.DolphinEmu.dolphin-emu",
-        "org.libretro.RetroArch",
-        "org.ppsspp.PPSSPP",
-        "ru.linux_gaming.PortProton"
-    ],
     "xdg-run/discord-ipc-0:ro": [
         "io.github.thaunknown.miru"
     ],
@@ -4175,12 +4191,6 @@
     ],
     "xdg-config/GIMP": [
         "org.gimp.GIMP"
-    ],
-    "/var/lib/flatpak": [
-        "org.gnome.Builder"
-    ],
-    "~/.local/share/flatpak": [
-        "org.gnome.Builder"
     ],
     "~/.local/share/icc:ro": [
         "org.gnome.ColorViewer"

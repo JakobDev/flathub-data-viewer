@@ -391,5 +391,6 @@
     "re.sonny.Commit",
     "se.sjoerd.Graphs",
     "sm.puri.Chatty",
-    "ua.org.brezblock.q4wine"
+    "ua.org.brezblock.q4wine",
+    "xyz.parlatype.Parlatype"
 ]

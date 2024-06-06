@@ -152,6 +152,7 @@
     "io.gitlab.adhami3310.Converter",
     "io.gitlab.adhami3310.Footage",
     "io.gitlab.adhami3310.Impression",
+    "io.gitlab.elescoute.spacelaunch",
     "io.gitlab.gregorni.Letterpress",
     "io.gitlab.news_flash.NewsFlash",
     "io.gitlab.theevilskeleton.Upscaler",
@@ -176,7 +177,6 @@
     "org.bluesabre.MenuLibre",
     "org.cvfosammmm.Setzer",
     "org.darktable.Darktable",
-    "org.emilien.SpaceLaunch",
     "org.entangle_photo.Manager",
     "org.exaile.Exaile",
     "org.fedoraproject.MediaWriter",
@@ -491,6 +491,7 @@
     "ua.org.brezblock.q4wine",
     "vn.hoabinh.quan.CoBang",
     "xyz.ketok.Speedtest",
+    "xyz.parlatype.Parlatype",
     "xyz.slothlife.Jogger",
     "xyz.tytanium.DoorKnocker"
 ]

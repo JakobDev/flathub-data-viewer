@@ -1,6 +1,7 @@
 {
     "5.15-23.08": [
         "app.bbsync.BlackboardSync",
+        "ca.parallel_launcher.ParallelLauncher",
         "ch.theologeek.Manuskript",
         "com.dreamsourcelab.DSView",
         "com.github.Flacon",
@@ -106,6 +107,7 @@
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.sourceforge.scidavis",
         "net.xm1math.Texmaker",
+        "net.zdechov.app.TransLines",
         "net.zdechov.app.Tunneler",
         "nz.mega.MEGAsync",
         "org.atheme.audacious",
@@ -228,7 +230,6 @@
     "5.15-22.08": [
         "app.cantara.Cantara",
         "art.taunoerik.tauno-serial-plotter",
-        "ca.parallel_launcher.ParallelLauncher",
         "com.agateau.nanonote",
         "com.cuperino.qprompt",
         "com.flashforge.FlashPrint",
@@ -563,6 +564,7 @@
         "de.bund.ausweisapp.ausweisapp2",
         "de.halaszovich.PMbrowser",
         "de.marlam.gencolormap",
+        "de.marlam.qv",
         "dev.serebit.Waycheck",
         "dog.unix.cantata.Cantata",
         "ee.ria.qdigidoc4",
@@ -583,6 +585,7 @@
         "io.github.simple64.simple64",
         "io.github.xiaoyifang.goldendict_ng",
         "io.github.yuki_iptv.yuki-iptv",
+        "io.gpt4all.gpt4all",
         "io.mrarm.mcpelauncher",
         "io.qt.Designer",
         "io.qt.Linguist",
@@ -675,10 +678,6 @@
         "dev.lukebriggs.pepys",
         "eu.skribisto.skribisto"
     ],
-    "6.4": [
-        "de.marlam.qv",
-        "org.opentransactions.metier"
-    ],
     "5.12": [
         "de.rwth_aachen.ient.RDPlot",
         "io.botfather.Botfather",
@@ -692,5 +691,8 @@
     ],
     "5.9": [
         "io.qt.qtwebkit.BaseApp"
+    ],
+    "6.4": [
+        "org.opentransactions.metier"
     ]
 }

@@ -1,4 +1,5 @@
 [
+    "ca.parallel_launcher.ParallelLauncher",
     "com.endlessm.photos",
     "com.felipekinoshita.Wildcard",
     "com.github.debauchee.barrier",

@@ -204,7 +204,6 @@
         "org.scummvm.ScummVM",
         "org.sonic3air.Sonic3AIR",
         "org.telegram",
-        "org.tuxfamily.StuntRally",
         "org.tuxpaint.Tuxpaint",
         "org.unknown_horizons.UnknownHorizons",
         "org.widelands.Widelands",
@@ -217,6 +216,7 @@
         "xyz.z3ntu.razergenie"
     ],
     "intense": [
+        "ca.victorz.acr.AssaultCubeReloaded",
         "com.eduke32.EDuke32",
         "com.epicgames.ut2004",
         "com.epicgames.ut99",

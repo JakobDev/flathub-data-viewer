@@ -1,6 +1,7 @@
 [
     "app.drey.Blurble",
     "ca.desrt.dconf-editor",
+    "ca.parallel_launcher.ParallelLauncher",
     "com.adrienplazas.Metronome",
     "com.belmoussaoui.Authenticator",
     "com.github.elth0r0.iqpuzzle",

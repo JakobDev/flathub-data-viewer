@@ -1,4 +1,5 @@
 [
+    "app.devsuite.Manuals",
     "app.devsuite.Ptyxis",
     "app.devsuite.Schemes",
     "app.drey.Biblioteca",
@@ -82,6 +83,7 @@
     "de.schmidhuberj.tubefeeder",
     "dev.Cogitri.Health",
     "dev.bragefuglseth.Fretboard",
+    "dev.bragefuglseth.Keypunch",
     "dev.geopjr.Calligraphy",
     "dev.geopjr.Collision",
     "dev.geopjr.Tuba",
@@ -127,6 +129,7 @@
     "io.github.mrvladus.List",
     "io.github.nate_xyz.Conjure",
     "io.github.nate_xyz.Paleta",
+    "io.github.nokse22.Exhibit",
     "io.github.nokse22.asciidraw",
     "io.github.nokse22.inspector",
     "io.github.nokse22.minitext",
@@ -147,6 +150,7 @@
     "io.gitlab.adhami3310.Footage",
     "io.gitlab.adhami3310.Impression",
     "io.gitlab.elescoute.password",
+    "io.gitlab.elescoute.spacelaunch",
     "io.gitlab.gregorni.Letterpress",
     "io.gitlab.leesonwai.Tactics",
     "io.gitlab.liferooter.TextPieces",
@@ -181,8 +185,8 @@
     "org.cvfosammmm.Lemma",
     "org.cvfosammmm.Setzer",
     "org.darktable.Darktable",
+    "org.deluge_torrent.deluge",
     "org.electrum.electrum",
-    "org.emilien.SpaceLaunch",
     "org.endlessos.Key",
     "org.fontforge.FontForge",
     "org.fooyin.fooyin",
@@ -349,6 +353,7 @@
     "so.libdb.dissent",
     "vn.hoabinh.quan.CoBang",
     "work.openpaper.Paperwork",
+    "xyz.parlatype.Parlatype",
     "xyz.safeworlds.hiit",
     "xyz.tytanium.DoorKnocker"
 ]

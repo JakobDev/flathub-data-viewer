@@ -25,6 +25,9 @@
         "org.briarproject.Briar",
         "org.verapdf.veraPDF"
     ],
+    ".assaultcube-reloaded": [
+        "ca.victorz.acr.AssaultCubeReloaded"
+    ],
     ".": [
         "cern.root.ROOT",
         "com.github.corna.Vivado",

@@ -157,6 +157,7 @@
     "io.gitlab.adhami3310.Footage",
     "io.gitlab.daikhan.stable",
     "io.gitlab.elescoute.password",
+    "io.gitlab.elescoute.spacelaunch",
     "io.gitlab.news_flash.NewsFlash",
     "io.gitlab.theevilskeleton.Upscaler",
     "io.missioncenter.MissionCenter",
@@ -177,7 +178,6 @@
     "org.aegisub.Aegisub",
     "org.bluesabre.MenuLibre",
     "org.darktable.Darktable",
-    "org.emilien.SpaceLaunch",
     "org.entangle_photo.Manager",
     "org.equeim.Tremotesf",
     "org.fedoraproject.MediaWriter",
@@ -501,6 +501,7 @@
     "sm.puri.Chatty",
     "vn.hoabinh.quan.CoBang",
     "xyz.ketok.Speedtest",
+    "xyz.parlatype.Parlatype",
     "xyz.slothlife.Jogger",
     "xyz.tytanium.DoorKnocker"
 ]

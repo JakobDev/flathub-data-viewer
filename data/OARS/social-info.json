@@ -42,6 +42,7 @@
     "mild": [
         "app.moosync.moosync",
         "ar.com.pilas_engine.App",
+        "ca.victorz.acr.AssaultCubeReloaded",
         "cc.arduino.IDE2",
         "cern.root.ROOT",
         "cn.feishu.Feishu",
@@ -298,7 +299,6 @@
         "org.scummvm.ScummVM",
         "org.sonic3air.Sonic3AIR",
         "org.telegram",
-        "org.tuxfamily.StuntRally",
         "org.tuxpaint.Tuxpaint",
         "org.unknown_horizons.UnknownHorizons",
         "org.widelands.Widelands",

@@ -84,6 +84,7 @@
     "de.manuel_kehl.go-for-it",
     "dev.Cogitri.Health",
     "dev.bragefuglseth.Fretboard",
+    "dev.bragefuglseth.Keypunch",
     "dev.edfloreshz.Done",
     "dev.geopjr.Collision",
     "dev.geopjr.Tuba",
@@ -304,6 +305,7 @@
     "re.sonny.Tangram",
     "se.sjoerd.Graphs",
     "sm.puri.Chatty",
+    "xyz.parlatype.Parlatype",
     "com.hack_computer.Clippy.Extension",
     "com.valvesoftware.Steam.CompatibilityTool.Boxtron",
     "org.freedesktop.Platform.VulkanLayer.MangoHud"

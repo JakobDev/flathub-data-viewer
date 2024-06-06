@@ -2,5 +2,6 @@
     "com.bambulab.BambuStudio",
     "com.flashforge.FlashPrint",
     "com.prusa3d.PrusaSlicer",
+    "io.github.nokse22.Exhibit",
     "org.freecadweb.FreeCAD"
 ]

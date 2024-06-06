@@ -524,5 +524,8 @@
     ],
     "work.openpaper.paperwork": [
         "work.openpaper.Paperwork"
+    ],
+    "org.mpris.mediaplayer2.parlatype.*": [
+        "xyz.parlatype.Parlatype"
     ]
 }

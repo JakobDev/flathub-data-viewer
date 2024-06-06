@@ -44,5 +44,6 @@
     "org.shotcut.Shotcut",
     "org.strawberrymusicplayer.strawberry",
     "org.tenacityaudio.Tenacity",
-    "org.videolan.VLC"
+    "org.videolan.VLC",
+    "xyz.parlatype.Parlatype"
 ]

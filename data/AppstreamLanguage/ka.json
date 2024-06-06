@@ -92,6 +92,7 @@
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gnome.gitlab.somas.Apostrophe",
+    "org.gnome.meld",
     "org.gnome.seahorse.Application",
     "org.kde.akregator",
     "org.kde.alligator",
@@ -238,5 +239,6 @@
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
     "org.virt_manager.virt-viewer",
-    "se.sjoerd.Graphs"
+    "se.sjoerd.Graphs",
+    "sm.puri.Chatty"
 ]

@@ -55,6 +55,7 @@
     "com.tencent.wemeet",
     "com.thewavewarden.Odin2",
     "com.tracktion.Waveform",
+    "com.unicornsonlsd.finamp",
     "com.vicr123.thebeat",
     "com.voxdsp.Borg",
     "com.voxdsp.Borg0",
@@ -100,6 +101,7 @@
     "io.github.purplehorrorrus.Meridius",
     "io.github.quodlibet.ExFalso",
     "io.github.quodlibet.QuodLibet",
+    "io.github.rdybka.vht",
     "io.github.ripose_jp.Memento",
     "io.github.swanux.hbud",
     "io.github.waylyrics.Waylyrics",
@@ -184,5 +186,6 @@
     "org.zrythm.Zrythm",
     "sh.xaviers.Opentapes",
     "tech.feliciano.pocket-casts",
+    "xyz.parlatype.Parlatype",
     "xyz.safeworlds.midiconn"
 ]

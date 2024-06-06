@@ -1,4 +1,5 @@
 [
     "com.flashforge.FlashPrint",
+    "io.github.nokse22.Exhibit",
     "org.freecadweb.FreeCAD"
 ]

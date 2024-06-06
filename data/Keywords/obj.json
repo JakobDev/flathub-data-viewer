@@ -1,5 +1,6 @@
 [
     "com.bambulab.BambuStudio",
     "com.prusa3d.PrusaSlicer",
-    "io.github.f3d_app.f3d"
+    "io.github.f3d_app.f3d",
+    "io.github.nokse22.Exhibit"
 ]

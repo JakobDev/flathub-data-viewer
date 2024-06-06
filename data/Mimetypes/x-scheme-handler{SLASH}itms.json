@@ -1,4 +1,5 @@
 [
     "org.clementine_player.Clementine",
-    "sh.cider.Cider"
+    "sh.cider.Cider",
+    "xyz.parlatype.Parlatype"
 ]

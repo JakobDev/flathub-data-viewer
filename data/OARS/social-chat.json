@@ -27,6 +27,7 @@
         "com.gamestarmechanic.gamestarmechanic",
         "com.netease.CloudMusic",
         "com.pokemmo.PokeMMO",
+        "com.simutrans.Simutrans",
         "com.wiz.Note",
         "dev.geopjr.Tuba",
         "dev.jamiethalacker.window_painter",
@@ -210,7 +211,6 @@
         "org.previewqt.PreviewQt",
         "org.qownnotes.QOwnNotes",
         "org.scummvm.ScummVM",
-        "org.tuxfamily.StuntRally",
         "org.tuxpaint.Tuxpaint",
         "org.unknown_horizons.UnknownHorizons",
         "org.zotero.Zotero",
@@ -221,6 +221,7 @@
     ],
     "intense": [
         "at.vintagestory.VintageStory",
+        "ca.victorz.acr.AssaultCubeReloaded",
         "cc.retroshare.retroshare-gui",
         "ch.threema.threema-web-desktop",
         "ch.tlaun.TL",

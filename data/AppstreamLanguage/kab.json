@@ -20,5 +20,6 @@
     "org.gnome.baobab",
     "org.tuxpaint.Tuxpaint",
     "org.videolan.VLC",
-    "org.x.Warpinator"
+    "org.x.Warpinator",
+    "xyz.parlatype.Parlatype"
 ]

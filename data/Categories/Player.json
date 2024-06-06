@@ -28,6 +28,7 @@
     "com.stremio.Service",
     "com.stremio.Stremio",
     "com.theappgineer.community_remote",
+    "com.unicornsonlsd.finamp",
     "com.vicr123.thebeat",
     "de.mediathekview.MediathekView",
     "de.wagnermartin.Plattenalbum",
@@ -84,6 +85,7 @@
     "tv.kodi.Kodi",
     "tv.plex.PlexDesktop",
     "tv.plex.PlexHTPC",
+    "xyz.parlatype.Parlatype",
     "xyz.splashmapper.Splash",
     "org.videolan.VLC.Plugin.pause_click"
 ]

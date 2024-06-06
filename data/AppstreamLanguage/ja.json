@@ -191,6 +191,7 @@
     "re.sonny.Commit",
     "re.sonny.Tangram",
     "sm.puri.Chatty",
+    "xyz.parlatype.Parlatype",
     "org.fcitx.Fcitx5.Addon.Chewing",
     "org.fcitx.Fcitx5.Addon.M17N",
     "org.fcitx.Fcitx5.Addon.Mozc",

@@ -8,5 +8,6 @@
     "org.inkscape.Inkscape",
     "org.moneymanagerex.MMEX",
     "org.tuxpaint.Tuxpaint",
-    "org.xfce.mousepad"
+    "org.xfce.mousepad",
+    "xyz.parlatype.Parlatype"
 ]
