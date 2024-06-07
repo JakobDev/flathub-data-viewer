@@ -1,5 +1,6 @@
 [
     "app.rednotebook.RedNotebook",
     "com.bjareholt.johan.SimpleDiary",
+    "io.github.roseblume.rosary",
     "org.zim_wiki.Zim"
 ]

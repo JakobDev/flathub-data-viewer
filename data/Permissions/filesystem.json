@@ -3370,6 +3370,7 @@
     ],
     "xdg-run/gamescope-0": [
         "com.heroicgameslauncher.hgl",
+        "com.moonlight_stream.Moonlight",
         "io.github.streetpea.Chiaki4deck",
         "xyz.hyperplay.HyperPlay"
     ],
@@ -3405,6 +3406,10 @@
         "com.leinardi.gst",
         "io.github.wazzaps.Fingerpaint",
         "org.linux_hardware.hw-probe"
+    ],
+    "host-os:ro": [
+        "com.moonlight_stream.Moonlight",
+        "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "xdg-run/Nextcloud:create": [
         "com.nextcloud.desktopclient.nextcloud"
@@ -4305,6 +4310,12 @@
     "~/.ftba:ro": [
         "org.prismlauncher.PrismLauncher"
     ],
+    "/sys/kernel/mm/hugepages:ro": [
+        "org.prismlauncher.PrismLauncher"
+    ],
+    "/sys/kernel/mm/transparent_hugepage:ro": [
+        "org.prismlauncher.PrismLauncher"
+    ],
     "xdg-run/discord-ipc-0:create": [
         "org.skytemple.SkyTemple"
     ],
@@ -4385,9 +4396,6 @@
     ],
     "xdg-data/flatpak/exports/share/applications:ro": [
         "page.codeberg.JakobDev.jdProcessFileWatcher",
-        "page.codeberg.JakobDev.jdSimpleAutostart"
-    ],
-    "host-os:ro": [
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "xdg-config/mimeapps.list": [

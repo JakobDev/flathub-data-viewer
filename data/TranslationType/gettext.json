@@ -3,7 +3,6 @@
     "app.drey.Blurble",
     "ar.com.softwareperonista.Rockarrolla",
     "br.app.pw3270.terminal",
-    "br.gov.cti.invesalius",
     "ca.desrt.dconf-editor",
     "codes.loers.Karlender",
     "codes.loers.Punchclock",
@@ -146,6 +145,5 @@
     "org.xiphos.Xiphos",
     "org.zim_wiki.Zim",
     "pm.mirko.Atoms",
-    "re.sonny.Commit",
-    "re.sonny.Playhouse"
+    "re.sonny.Commit"
 ]

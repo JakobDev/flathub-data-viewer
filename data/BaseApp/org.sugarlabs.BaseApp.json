@@ -1,15 +1,15 @@
 {
     "24.04": [
         "org.sugarlabs.AbacusActivity",
-        "org.sugarlabs.Dimensions",
-        "org.sugarlabs.Finance"
-    ],
-    "23.06": [
         "org.sugarlabs.Chart",
         "org.sugarlabs.Chess",
-        "org.sugarlabs.ColorDeducto",
+        "org.sugarlabs.Dimensions",
+        "org.sugarlabs.Finance",
         "org.sugarlabs.FotoToon",
-        "org.sugarlabs.FractionBounce",
+        "org.sugarlabs.FractionBounce"
+    ],
+    "23.06": [
+        "org.sugarlabs.ColorDeducto",
         "org.sugarlabs.ImplodeActivity",
         "org.sugarlabs.Maze",
         "org.sugarlabs.Measure",
