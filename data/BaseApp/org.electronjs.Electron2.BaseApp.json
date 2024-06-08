@@ -122,7 +122,9 @@
         "org.twinery.Twine",
         "org.upscayl.Upscayl",
         "org.zulip.Zulip",
+        "ro.go.hmlendea.DL-Desktop",
         "rocks.poopjournal.librelinkupdesktop",
+        "sh.cider.Cider",
         "so.onekey.Wallet",
         "social.whalebird.WhalebirdDesktop",
         "tech.keyforge.keyforge_master",
@@ -140,8 +142,7 @@
         "com.xunlei.Thunder",
         "im.gitter.Gitter",
         "io.github.dbchoco.muezzin",
-        "org.sugarlabs.MusicBlocks",
-        "ro.go.hmlendea.DL-Desktop"
+        "org.sugarlabs.MusicBlocks"
     ],
     "22.08": [
         "camp.nook.nookdesktop",
@@ -198,7 +199,6 @@
         "org.nanuc.Axolotl",
         "rest.insomnia.Insomnia",
         "se.manyver.Manyverse",
-        "sh.cider.Cider",
         "tech.feliciano.pocket-casts",
         "xyz.armcord.ArmCord"
     ]

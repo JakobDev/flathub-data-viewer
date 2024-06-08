@@ -6,11 +6,11 @@
         "org.sugarlabs.Dimensions",
         "org.sugarlabs.Finance",
         "org.sugarlabs.FotoToon",
-        "org.sugarlabs.FractionBounce"
+        "org.sugarlabs.FractionBounce",
+        "org.sugarlabs.ImplodeActivity"
     ],
     "23.06": [
         "org.sugarlabs.ColorDeducto",
-        "org.sugarlabs.ImplodeActivity",
         "org.sugarlabs.Maze",
         "org.sugarlabs.Measure",
         "org.sugarlabs.Memorize",

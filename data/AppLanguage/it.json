@@ -1,5 +1,4 @@
 [
-    "app.drey.Blurble",
     "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
     "ca.parallel_launcher.ParallelLauncher",
@@ -37,7 +36,6 @@
     "io.github.fsobolev.TimeSwitch",
     "io.github.jhaygood86.mauborgne",
     "io.github.lainsce.Colorway",
-    "io.github.lainsce.DotMatrix",
     "io.github.lainsce.Khronos",
     "io.github.manisandro.gImageReader",
     "io.github.mightycreak.Diffuse",

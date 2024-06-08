@@ -1,6 +1,5 @@
 [
     "app.cantara.Cantara",
-    "app.drey.Blurble",
     "ar.com.softwareperonista.Rockarrolla",
     "br.app.pw3270.terminal",
     "ca.desrt.dconf-editor",
@@ -64,8 +63,6 @@
     "io.github.fsobolev.TimeSwitch",
     "io.github.jhaygood86.mauborgne",
     "io.github.lainsce.Colorway",
-    "io.github.lainsce.Countdown",
-    "io.github.lainsce.DotMatrix",
     "io.github.lainsce.Khronos",
     "io.github.lxndr.gswatcher",
     "io.github.magnush.mhWaveEdit",

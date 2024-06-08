@@ -1,7 +1,6 @@
 [
     "com.github.bajoja.indicator-kdeconnect",
     "de.rwth_aachen.ient.YUView",
-    "info.smplayer.SMPlayer",
     "io.github.najepaliya.kleaner",
     "io.github.qnapi",
     "io.qt.qtwebengine.BaseApp",

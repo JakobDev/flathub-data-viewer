@@ -1,5 +1,6 @@
 [
     "app.bbsync.BlackboardSync",
+    "app.drey.Blurble",
     "app.drey.Damask",
     "app.drey.EarTag",
     "app.drey.Elastic",

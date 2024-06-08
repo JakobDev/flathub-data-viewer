@@ -1,5 +1,4 @@
 [
-    "app.drey.Blurble",
     "app.drey.KeyRack",
     "app.kaiteki.Kaiteki",
     "ca.hamaluik.Timecop",
@@ -63,8 +62,6 @@
     "io.github.kaii_lb.hgui",
     "io.github.kaschpal.timetable",
     "io.github.lainsce.Colorway",
-    "io.github.lainsce.Countdown",
-    "io.github.lainsce.DotMatrix",
     "io.github.lainsce.Khronos",
     "io.github.lainsce.Quilter",
     "io.github.lemmygtk.lemoa",
