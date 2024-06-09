@@ -1,6 +1,7 @@
 [
     "at.ssh_mitm.server",
     "io.github.polypixeldev.Polypass",
+    "net.werwolv.ImHex",
     "org.ghidra_sre.Ghidra",
     "org.gnome.seahorse.Application",
     "org.nmap.Zenmap"

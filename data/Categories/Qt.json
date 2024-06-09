@@ -1,6 +1,7 @@
 [
     "ca.parallel_launcher.ParallelLauncher",
     "com.github.Rosalie241.RMG",
+    "com.github.scrivanolabs.scrivano",
     "com.ktechpit.colorwall",
     "com.ktechpit.orion",
     "com.ktechpit.torrhunt",

@@ -5342,6 +5342,7 @@
         "org.americanmonk.TipitakaPaliReader",
         "org.apache.directory.studio",
         "org.asc_hq.ASC",
+        "org.atheme.audacious",
         "org.beeref.BeeRef",
         "org.bino3d.bino",
         "org.bionus.Grabber",
@@ -7320,6 +7321,7 @@
     ],
     "gpg-agent": [
         "com.bktus.gpgfrontend",
+        "com.github.git_cola.git-cola",
         "com.github.hluk.copyq",
         "com.jetbrains.CLion",
         "com.jetpackduba.Gitnuro",
