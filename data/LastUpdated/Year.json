@@ -13,7 +13,6 @@
     "br.gov.fazenda.receita.irpf2023",
     "ca.desrt.dconf-editor",
     "ca.littlesvr.asunder",
-    "camp.nook.nookdesktop",
     "chat.quadrix.Quadrix",
     "codes.loers.Karlender",
     "com.adilhanney.timing",
@@ -182,10 +181,8 @@
     "io.github.koromelodev.mindmate",
     "io.github.lainsce.Khronos",
     "io.github.listen1.Listen1",
-    "io.github.lunarequest.NightPDF",
     "io.github.lxndr.gswatcher",
     "io.github.mahmoudbahaa.outlook_for_linux",
-    "io.github.mideb.digitales_register",
     "io.github.mmarco94.tambourine",
     "io.github.mrmyhuang.cbetar2",
     "io.github.muse_sequencer.Muse",
@@ -226,6 +223,7 @@
     "me.iepure.Ticketbooth",
     "me.iepure.devtoolbox",
     "me.sanchezrodriguez.passes",
+    "me.timschneeberger.jdsp4linux",
     "ml.mdwalters.Lemonade",
     "mobi.snowball.Snowball",
     "net.agalwood.Motrix",
@@ -245,6 +243,7 @@
     "net.sourceforge.lgames.LPairs2",
     "net.sourceforge.liferea",
     "net.sourceforge.quakespasm.Quakespasm",
+    "net.unvanquished.Unvanquished",
     "net.veloren.veloren",
     "net.wz2100.wz2100",
     "net.zgcoder.skycheckers",
@@ -406,6 +405,5 @@
     "org.kicad.KiCad.ODBCDriver.mariadb-connector-odbc",
     "org.kicad.KiCad.ODBCDriver.psqlodbc",
     "org.kicad.KiCad.ODBCDriver.sqliteodbc",
-    "org.lyx.LyX.Plugin.LilyPond",
-    "org.videolan.VLC.Plugin.makemkv"
+    "org.lyx.LyX.Plugin.LilyPond"
 ]

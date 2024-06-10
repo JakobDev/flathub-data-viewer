@@ -51,5 +51,6 @@
     "org.kde.skanpage",
     "org.kde.yakuake",
     "org.stellarium.Stellarium",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "page.codeberg.Imaginer.Imaginer"
 ]

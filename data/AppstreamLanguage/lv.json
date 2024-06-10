@@ -78,6 +78,7 @@
     "org.gnome.seahorse.Application",
     "org.gnucash.GnuCash",
     "org.inkscape.Inkscape",
+    "org.kde.angelfish",
     "org.kde.ark",
     "org.kde.juk",
     "org.kde.kanagram",
