@@ -311,6 +311,7 @@
     "org.freedesktop.appstream-glib",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",
+    "org.gabmus.whatip",
     "org.gahshomar.Gahshomar",
     "org.gaphor.Gaphor",
     "org.getoutline.OutlineClient",
