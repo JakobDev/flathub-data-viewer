@@ -6,6 +6,7 @@
         "io.gpt4all.gpt4all",
         "io.mrarm.mcpelauncher",
         "net.jami.Jami",
+        "org.kde.kontact",
         "org.kde.skanpage",
         "org.zealdocs.Zeal"
     ],
@@ -29,7 +30,6 @@
         "org.kde.kgeotag",
         "org.kde.kimagemapeditor",
         "org.kde.kmymoney",
-        "org.kde.kontact",
         "org.kde.kphotoalbum",
         "org.kde.labplot2",
         "org.kde.marble",

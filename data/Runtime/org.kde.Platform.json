@@ -150,7 +150,6 @@
         "org.kde.kmplot",
         "org.kde.kmymoney",
         "org.kde.kommit",
-        "org.kde.kontact",
         "org.kde.kphotoalbum",
         "org.kde.krdc",
         "org.kde.krename",
@@ -470,7 +469,6 @@
         "org.tug.texworks",
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdDiff",
-        "space.nouspiro.tenmon",
         "tr.com.ikooskar.ikoOSKAR"
     ],
     "5.15-21.08": [
@@ -607,6 +605,7 @@
         "org.kde.kalm",
         "org.kde.kcharselect",
         "org.kde.kompare",
+        "org.kde.kontact",
         "org.kde.qmlkonsole",
         "org.kde.skanpage",
         "org.kde.telly-skout",
@@ -632,7 +631,8 @@
         "page.codeberg.JakobDev.jdPixelUpscaler",
         "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdReplace",
-        "page.codeberg.JakobDev.jdSimpleAutostart"
+        "page.codeberg.JakobDev.jdSimpleAutostart",
+        "space.nouspiro.tenmon"
     ],
     "5.14": [
         "com.dhsdevelopments.Climaxima",

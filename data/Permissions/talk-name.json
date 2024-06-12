@@ -1453,6 +1453,7 @@
         "re.rizin.cutter",
         "se.sjoerd.GIScan",
         "space.fips.Fips",
+        "space.nouspiro.tenmon",
         "studio.kx.carla",
         "tr.com.ikooskar.ikoOSKAR",
         "ua.org.brezblock.q4wine",
@@ -2027,6 +2028,7 @@
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
         "se.sjoerd.GIScan",
+        "space.nouspiro.tenmon",
         "studio.kx.carla",
         "tr.com.ikooskar.ikoOSKAR",
         "ua.org.brezblock.q4wine",
@@ -3215,6 +3217,7 @@
         "org.x.Warpinator",
         "org.xfce.ristretto",
         "ru.yandex.Browser",
+        "space.nouspiro.tenmon",
         "work.openpaper.Paperwork"
     ],
     "org.kde.kwalletd6": [
@@ -3227,6 +3230,7 @@
         "io.github.ungoogled_software.ungoogled_chromium",
         "org.chromium.Chromium",
         "org.kde.akregator",
+        "org.kde.kontact",
         "org.kde.kwalletmanager5",
         "org.kde.tokodon"
     ],
@@ -3721,7 +3725,8 @@
     ],
     "org.kde.kded6": [
         "org.kde.akregator",
-        "org.kde.dolphin"
+        "org.kde.dolphin",
+        "org.kde.kontact"
     ],
     "org.kde.jobviewserver": [
         "org.kde.akregator",
