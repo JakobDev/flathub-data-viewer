@@ -1,6 +1,5 @@
 [
     "ca.desrt.dconf-editor",
-    "com.adrienplazas.Metronome",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.ReadItLater",
     "com.github.bajoja.indicator-kdeconnect",
@@ -14,11 +13,9 @@
     "net.wz2100.wz2100",
     "org.exaile.Exaile",
     "org.gimp.GIMP",
-    "org.gnome.Cheese",
     "org.gnome.ColorViewer",
     "org.gnome.EasyTAG",
     "org.gnome.Geary",
-    "org.gnome.Glade",
     "org.gnome.Hamster",
     "org.gnome.Hitori",
     "org.gnome.OCRFeeder",

@@ -1,6 +1,5 @@
 [
     "ca.desrt.dconf-editor",
-    "com.adrienplazas.Metronome",
     "com.belmoussaoui.Authenticator",
     "de.haeckerfelix.Shortwave",
     "io.bassi.Amberol",
@@ -9,8 +8,6 @@
     "org.exaile.Exaile",
     "org.freedesktop.appstream.cli",
     "org.gimp.GIMP",
-    "org.gnome.Cheese",
-    "org.gnome.Glade",
     "org.gnome.Hitori",
     "org.gnome.PowerStats",
     "org.gnome.Reversi",

@@ -8,15 +8,15 @@
         "org.sugarlabs.FotoToon",
         "org.sugarlabs.FractionBounce",
         "org.sugarlabs.ImplodeActivity",
-        "org.sugarlabs.Maze"
+        "org.sugarlabs.Maze",
+        "org.sugarlabs.Memorize",
+        "org.sugarlabs.Paint",
+        "org.sugarlabs.Physics"
     ],
     "23.06": [
         "org.sugarlabs.ColorDeducto",
         "org.sugarlabs.Measure",
-        "org.sugarlabs.Memorize",
         "org.sugarlabs.MusicKeyboard",
-        "org.sugarlabs.Paint",
-        "org.sugarlabs.Physics",
         "org.sugarlabs.Pippy",
         "org.sugarlabs.Pukllanapac",
         "org.sugarlabs.ReadETexts",

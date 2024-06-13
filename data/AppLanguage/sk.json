@@ -1,6 +1,5 @@
 [
     "ca.desrt.dconf-editor",
-    "com.adrienplazas.Metronome",
     "com.belmoussaoui.Authenticator",
     "com.ekonomikas.merkato",
     "com.github.carlos157oliveira.Calculus",
@@ -22,10 +21,8 @@
     "org.freedesktop.appstream.cli",
     "org.fritzing.Fritzing",
     "org.gimp.GIMP",
-    "org.gnome.Cheese",
     "org.gnome.ColorViewer",
     "org.gnome.Geary",
-    "org.gnome.Glade",
     "org.gnome.Hitori",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",

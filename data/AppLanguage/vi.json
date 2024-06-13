@@ -1,5 +1,4 @@
 [
-    "com.adrienplazas.Metronome",
     "com.endlessm.photos",
     "de.haeckerfelix.Shortwave",
     "de.manuel_kehl.go-for-it",
@@ -11,9 +10,7 @@
     "org.exaile.Exaile",
     "org.fritzing.Fritzing",
     "org.gimp.GIMP",
-    "org.gnome.Cheese",
     "org.gnome.ColorViewer",
-    "org.gnome.Glade",
     "org.gnome.Hamster",
     "org.gnome.Hitori",
     "org.gnome.PowerStats",

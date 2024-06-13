@@ -503,6 +503,8 @@
     "org.subsurface_divelog.Subsurface",
     "org.synfig.SynfigStudio",
     "org.syphon.Syphon",
+    "org.tabos.maxcontrol",
+    "org.tabos.roger",
     "org.telegram",
     "org.tenacityaudio.Tenacity",
     "org.texstudio.TeXstudio",

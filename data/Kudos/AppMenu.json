@@ -1,10 +1,8 @@
 [
     "com.bjareholt.johan.SimpleDiary",
-    "com.uploadedlobster.peek",
     "org.gnome.EasyTAG",
     "org.gnome.Hitori",
     "org.gnome.Notes",
     "org.gnome.Quadrapassel",
-    "org.gnome.Todo",
-    "org.tabos.roger"
+    "org.gnome.Todo"
 ]

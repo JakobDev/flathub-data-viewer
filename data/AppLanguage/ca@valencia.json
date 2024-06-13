@@ -1,9 +1,7 @@
 [
     "ca.desrt.dconf-editor",
     "org.gimp.GIMP",
-    "org.gnome.Cheese",
     "org.gnome.ColorViewer",
-    "org.gnome.Glade",
     "org.gnome.Hamster",
     "org.gnome.Hitori",
     "org.gnome.OCRFeeder",
