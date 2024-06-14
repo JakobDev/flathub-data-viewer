@@ -41,6 +41,7 @@
     "org.cubocore.CorePDF",
     "org.gimp.GIMP",
     "org.gnome.Evince",
+    "org.gnome.Papers",
     "org.inkscape.Inkscape",
     "org.kde.itinerary",
     "org.kde.okular",

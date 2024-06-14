@@ -17,5 +17,6 @@
     "org.kicad.KiCad",
     "org.librepcb.LibrePCB",
     "org.openhantek.OpenHantek6022",
+    "org.unofficialrevport.REVHubInterface",
     "org.xnec2c.Xnec2c"
 ]

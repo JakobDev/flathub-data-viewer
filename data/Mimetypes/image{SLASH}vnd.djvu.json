@@ -1,6 +1,7 @@
 [
     "com.calibre_ebook.calibre",
     "org.gnome.Evince",
+    "org.gnome.Papers",
     "org.kde.okular",
     "org.photoqt.PhotoQt",
     "org.previewqt.PreviewQt",

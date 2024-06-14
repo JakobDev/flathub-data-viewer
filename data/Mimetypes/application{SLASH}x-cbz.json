@@ -5,6 +5,7 @@
     "com.yacreader.YACReader",
     "net.sourceforge.mcomix",
     "org.gnome.Evince",
+    "org.gnome.Papers",
     "org.kde.okular",
     "rocks.koreader.KOReader"
 ]

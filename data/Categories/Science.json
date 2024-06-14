@@ -107,6 +107,7 @@
     "org.telesculptor.TeleSculptor",
     "org.tomviz.Tomviz",
     "org.tropy.Tropy",
+    "org.unofficialrevport.REVHubInterface",
     "org.viking.Viking",
     "org.xnec2c.Xnec2c",
     "org.zirael.bkchem.BKChem",

@@ -230,6 +230,7 @@
     "org.turbowarp.TurboWarp",
     "org.twinery.Twine",
     "org.ultimatepp.TheIDE",
+    "org.unofficialrevport.REVHubInterface",
     "org.verapdf.veraPDF",
     "org.zealdocs.Zeal",
     "page.codeberg.JakobDev.jdAppStreamEdit",

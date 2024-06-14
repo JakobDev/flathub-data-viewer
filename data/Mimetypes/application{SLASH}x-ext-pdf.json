@@ -1,5 +1,6 @@
 [
     "com.github.jeromerobert.pdfarranger",
     "net.sourceforge.mcomix",
-    "org.gnome.Evince"
+    "org.gnome.Evince",
+    "org.gnome.Papers"
 ]

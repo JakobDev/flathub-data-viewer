@@ -3,5 +3,6 @@
     "com.georgefb.mangareader",
     "com.yacreader.YACReader",
     "net.sourceforge.mcomix",
-    "org.gnome.Evince"
+    "org.gnome.Evince",
+    "org.gnome.Papers"
 ]

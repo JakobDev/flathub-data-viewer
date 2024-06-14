@@ -8,6 +8,7 @@
     "org.gnome.Logs",
     "org.gnome.PowerStats",
     "org.kde.ktimetracker",
+    "org.unofficialrevport.REVHubInterface",
     "org.wireshark.Wireshark",
     "page.codeberg.tpikonen.geobug",
     "page.codeberg.tpikonen.satellite"

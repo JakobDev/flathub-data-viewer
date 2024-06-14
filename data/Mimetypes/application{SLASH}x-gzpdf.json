@@ -2,6 +2,7 @@
     "eu.scarpetta.PDFMixTool",
     "net.codeindustry.MasterPDFEditor",
     "org.gnome.Evince",
+    "org.gnome.Papers",
     "org.kde.okular",
     "org.photoqt.PhotoQt"
 ]

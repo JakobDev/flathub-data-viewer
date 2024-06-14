@@ -612,6 +612,7 @@
         "org.tuxpaint.Tuxpaint",
         "org.twinery.Twine",
         "org.ultimatepp.TheIDE",
+        "org.unofficialrevport.REVHubInterface",
         "org.upbge.UPBGE",
         "org.upscayl.Upscayl",
         "org.verapdf.veraPDF",

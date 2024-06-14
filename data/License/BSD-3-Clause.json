@@ -27,6 +27,7 @@
     "org.paraview.ParaView",
     "org.telesculptor.TeleSculptor",
     "org.tomviz.Tomviz",
+    "org.unofficialrevport.REVHubInterface",
     "website.i2pd.i2pd",
     "org.freedesktop.Sdk.Extension.haskell"
 ]
