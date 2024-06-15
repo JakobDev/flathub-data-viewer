@@ -12,6 +12,7 @@
         "io.github.veusz.Veusz",
         "org.kde.kdevelop",
         "org.octave.Octave",
+        "org.paraview.ParaView",
         "org.spyder_ide.spyder"
     ],
     "6.7": [
@@ -19,8 +20,5 @@
         "io.qt.Linguist",
         "io.qt.qdbusviewer",
         "page.codeberg.JakobDev.jdTextEdit"
-    ],
-    "5.15-22.08": [
-        "org.paraview.ParaView"
     ]
 }

@@ -36,6 +36,7 @@
         "org.kde.skrooge",
         "org.kde.tellico",
         "org.musescore.MuseScore",
+        "org.paraview.ParaView",
         "org.sdrangel.SDRangel"
     ],
     "6.6": [
@@ -64,7 +65,6 @@
     "5.15-22.08": [
         "io.sourceforge.chart_geany.chart-geany",
         "net.mediaarea.MediaConch",
-        "org.paraview.ParaView",
         "org.rolisteam.rolisteam"
     ],
     "6.5": [

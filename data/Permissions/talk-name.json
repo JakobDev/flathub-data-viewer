@@ -3416,9 +3416,6 @@
     "org.kde.statusnotifieritem": [
         "com.github.gabutakut.gabutdm"
     ],
-    "org.freedesktop.portal.desktop": [
-        "com.github.gabutakut.gabutdm"
-    ],
     "org.freedesktop.dbus": [
         "com.github.muriloventuroso.givemelyrics",
         "com.hack_computer.Clubhouse",

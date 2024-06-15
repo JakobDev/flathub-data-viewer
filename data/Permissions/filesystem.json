@@ -3567,6 +3567,7 @@
         "org.dune3d.dune3d",
         "org.freecadweb.FreeCAD",
         "org.horizon_eda.HorizonEDA",
+        "org.openscad.OpenSCAD",
         "org.upbge.UPBGE"
     ],
     "xdg-data/tubefeeder:create": [
