@@ -3275,12 +3275,6 @@
         "life.bolls.bolls",
         "net.davidotek.pupgui2"
     ],
-    "xdg-cache/pokete:ro": [
-        "com.github.lxgr_linux.pokete"
-    ],
-    "xdg-data/pokete:create": [
-        "com.github.lxgr_linux.pokete"
-    ],
     "/run/systemd/journal": [
         "com.github.marhkb.Pods"
     ],
@@ -3684,6 +3678,9 @@
     ],
     "xdg-config/sway": [
         "io.github.Sunderland93.sway-input-config"
+    ],
+    "xdg-documents:create": [
+        "io.github.aerocyber.sitemarker"
     ],
     "/srv": [
         "io.github.bothlab.pomidaq",

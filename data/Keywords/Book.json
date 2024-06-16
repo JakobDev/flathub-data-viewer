@@ -1,5 +1,6 @@
 [
     "com.github.johnfactotum.Foliate",
     "com.librumreader.librum",
-    "io.github.roseblume.rosary"
+    "io.github.roseblume.rosary",
+    "net.lugsole.bible_gui"
 ]

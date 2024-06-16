@@ -1,7 +1,6 @@
 {
     "5.15-21.08": [
-        "com.github.Murmele.scram",
-        "io.qt.QtCreator"
+        "com.github.Murmele.scram"
     ],
     "6.6": [
         "io.github.JakubMelka.Pdf4qt",
@@ -18,6 +17,7 @@
     "6.7": [
         "io.qt.Designer",
         "io.qt.Linguist",
+        "io.qt.QtCreator",
         "io.qt.qdbusviewer",
         "page.codeberg.JakobDev.jdTextEdit"
     ]

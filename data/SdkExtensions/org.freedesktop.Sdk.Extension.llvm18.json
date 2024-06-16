@@ -2,6 +2,7 @@
     "app.fotema.Fotema",
     "dev.lizardbyte.app.Sunshine",
     "io.github.lime3ds.Lime3DS",
+    "io.qt.QtCreator",
     "net.rpcs3.RPCS3",
     "org.ultimatepp.TheIDE"
 ]

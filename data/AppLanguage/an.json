@@ -1,6 +1,4 @@
 [
-    "org.gnome.Hitori",
-    "org.gnome.Reversi",
     "org.gnome.Taquin",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Maze"
