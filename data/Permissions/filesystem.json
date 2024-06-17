@@ -3012,9 +3012,6 @@
         "com.calibre_ebook.calibre",
         "org.kde.gwenview"
     ],
-    "~/.config/gnome-next-meeting-applet:ro": [
-        "com.chmouel.gnomeNextMeetingApplet"
-    ],
     "/tmp": [
         "com.dropbox.Client",
         "com.elsevier.MendeleyDesktop",
@@ -3153,7 +3150,6 @@
     ],
     "xdg-config/gtk-3.0": [
         "com.github.GradienceTeam.Gradience",
-        "com.neatdecisions.Detwinner",
         "org.gimp.GIMP",
         "org.inkscape.Inkscape",
         "org.libreoffice.LibreOffice"

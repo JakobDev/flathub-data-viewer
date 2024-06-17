@@ -72,7 +72,6 @@
     "org.fontforge.FontForge",
     "org.freedesktop.appstream.cli",
     "org.gabmus.gfeeds",
-    "org.gabmus.giara",
     "org.gajim.Gajim",
     "org.geeqie.Geeqie",
     "org.gimp.GIMP",
@@ -346,5 +345,6 @@
     "org.xfce.mousepad",
     "org.zrythm.Zrythm",
     "page.kramo.Cartridges",
-    "xyz.parlatype.Parlatype"
+    "xyz.parlatype.Parlatype",
+    "org.fcitx.Fcitx5.Addon.Unikey"
 ]

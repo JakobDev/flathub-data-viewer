@@ -169,7 +169,6 @@
         "com.borgbase.Vorta",
         "com.calibre_ebook.calibre",
         "com.chatterino.chatterino",
-        "com.chmouel.gnomeNextMeetingApplet",
         "com.codemouse92.timecard",
         "com.cuperino.qprompt",
         "com.darhon.syncbackup",
@@ -2061,7 +2060,6 @@
         "com.baidu.NetDisk",
         "com.borgbase.Vorta",
         "com.calibre_ebook.calibre",
-        "com.chmouel.gnomeNextMeetingApplet",
         "com.cocoatech.deckr",
         "com.codemouse92.timecard",
         "com.dec05eba.gpu_screen_recorder",
@@ -2719,7 +2717,6 @@
         "app.lith.Lith",
         "chat.rocket.RocketChat",
         "com.alovoa.alovoa-electron",
-        "com.chmouel.gnomeNextMeetingApplet",
         "com.codemouse92.timecard",
         "com.discordapp.Discord",
         "com.github.inercia.k3x",
@@ -3248,23 +3245,6 @@
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev"
     ],
-    "org.gnome.evolution.dataserver.*": [
-        "com.chmouel.gnomeNextMeetingApplet",
-        "org.gnome.Geary"
-    ],
-    "org.gnome.onlineaccounts": [
-        "com.chmouel.gnomeNextMeetingApplet",
-        "com.github.suzie97.communique",
-        "io.github.mrvladus.List",
-        "org.gnome.Calendar",
-        "org.gnome.Contacts",
-        "org.gnome.Evolution",
-        "org.gnome.Geary",
-        "org.gnome.Lollypop",
-        "org.gnome.Notes",
-        "org.gnome.Todo",
-        "org.gnome.Totem"
-    ],
     "org.freedesktop.ibus": [
         "com.codemouse92.timecard",
         "com.github.bajoja.indicator-kdeconnect",
@@ -3439,6 +3419,18 @@
     "org.freedesktop.filechooser": [
         "com.github.ransome1.sleek"
     ],
+    "org.gnome.onlineaccounts": [
+        "com.github.suzie97.communique",
+        "io.github.mrvladus.List",
+        "org.gnome.Calendar",
+        "org.gnome.Contacts",
+        "org.gnome.Evolution",
+        "org.gnome.Geary",
+        "org.gnome.Lollypop",
+        "org.gnome.Notes",
+        "org.gnome.Todo",
+        "org.gnome.Totem"
+    ],
     "org.gnome.software": [
         "com.github.tchx84.Flatseal",
         "com.hack_computer.Clubhouse",
@@ -3496,9 +3488,6 @@
     ],
     "com.microsoft.identity.broker1": [
         "com.microsoft.Edge"
-    ],
-    "org.freedesktop.portal.trash": [
-        "com.neatdecisions.Detwinner"
     ],
     "org.freedesktop.dbus.introspectable.*": [
         "com.prusa3d.PrusaSlicer"
@@ -3703,6 +3692,9 @@
         "org.gnome.Calls"
     ],
     "org.gnome.contacts": [
+        "org.gnome.Geary"
+    ],
+    "org.gnome.evolution.dataserver.*": [
         "org.gnome.Geary"
     ],
     "org.freedesktop.tracker3.writeback": [
