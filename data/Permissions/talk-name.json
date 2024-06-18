@@ -3076,7 +3076,6 @@
         "com.rawtherapee.RawTherapee",
         "com.transmissionbt.Transmission",
         "com.vysp3r.ProtonPlus",
-        "com.vysp3r.RetroPlus",
         "com.zettlr.Zettlr",
         "com.zhqli.wikit",
         "cz.zeropage.Formiko",
@@ -3572,9 +3571,6 @@
     ],
     "org.cinnamon.screensaver": [
         "io.github.jeffshee.Hidamari"
-    ],
-    "org.freedesktop.portal.openuri": [
-        "io.github.nate_xyz.Resonance"
     ],
     "org.kde.klipper": [
         "io.github.nyre221.kiview"

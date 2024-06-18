@@ -6,6 +6,7 @@
         "io.gpt4all.gpt4all",
         "io.mrarm.mcpelauncher",
         "net.jami.Jami",
+        "org.kde.arianna",
         "org.kde.kontact",
         "org.kde.skanpage",
         "org.zealdocs.Zeal"
@@ -23,7 +24,6 @@
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.xm1math.Texmaker",
         "org.freecadweb.FreeCAD",
-        "org.kde.arianna",
         "org.kde.cantor",
         "org.kde.ghostwriter",
         "org.kde.kdevelop",

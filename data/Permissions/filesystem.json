@@ -1504,7 +1504,6 @@
         "com.visualstudio.code",
         "com.vscodium.codium-insiders",
         "com.vscodium.codium",
-        "com.vysp3r.RetroPlus",
         "com.vzhd1701.gridplayer",
         "de.akaflieg_freiburg.enroute",
         "de.haeckerfelix.Fragments",
@@ -1616,7 +1615,6 @@
         "org.d3cod3.Mosaic",
         "org.darktable.Darktable",
         "org.eclipse.Java",
-        "org.eclipse.Javascript",
         "org.eclipse.iot.fourdiac.Ide",
         "org.emptyflow.ArdorQuery",
         "org.fedoraproject.MediaWriter",
@@ -2654,7 +2652,6 @@
         "com.rawtherapee.RawTherapee",
         "com.transmissionbt.Transmission",
         "com.vysp3r.ProtonPlus",
-        "com.vysp3r.RetroPlus",
         "com.warlordsoftwares.formatlab",
         "com.warlordsoftwares.jpeg2pdf",
         "com.warlordsoftwares.media-downloader",
@@ -3575,7 +3572,6 @@
         "dog.unix.cantata.Cantata"
     ],
     "xdg-config/gtk-3.0:ro": [
-        "de.willuhn.Jameica",
         "dev.bsnes.bsnes",
         "io.github.slgobinath.SafeEyes",
         "net.retrodeck.retrodeck"
