@@ -9,20 +9,20 @@
         "org.sugarlabs.FractionBounce",
         "org.sugarlabs.ImplodeActivity",
         "org.sugarlabs.Maze",
-        "org.sugarlabs.Memorize",
-        "org.sugarlabs.Paint",
-        "org.sugarlabs.Physics"
-    ],
-    "23.06": [
-        "org.sugarlabs.ColorDeducto",
         "org.sugarlabs.Measure",
+        "org.sugarlabs.Memorize",
         "org.sugarlabs.MusicKeyboard",
-        "org.sugarlabs.Pippy",
+        "org.sugarlabs.Paint",
+        "org.sugarlabs.Physics",
         "org.sugarlabs.Pukllanapac",
         "org.sugarlabs.ReadETexts",
         "org.sugarlabs.Sliderule",
         "org.sugarlabs.SolarSystem",
-        "org.sugarlabs.Speak",
+        "org.sugarlabs.Speak"
+    ],
+    "23.06": [
+        "org.sugarlabs.ColorDeducto",
+        "org.sugarlabs.Pippy",
         "org.sugarlabs.StoryActivity",
         "org.sugarlabs.SwiftFeet",
         "org.sugarlabs.TurtlePondActivity",

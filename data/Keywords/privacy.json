@@ -1,5 +1,6 @@
 [
     "com.ghostery.browser",
+    "io.github.ungoogled_software.ungoogled_chromium",
     "io.wasabiwallet.WasabiWallet",
     "org.bleachbit.BleachBit",
     "org.kryogenix.utm_no",

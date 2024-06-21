@@ -385,9 +385,11 @@
     "org.x.Warpinator",
     "org.xfce.mousepad",
     "org.xfce.ristretto",
+    "org.xiphos.Xiphos",
     "page.codeberg.Imaginer.Imaginer",
     "page.kramo.Cartridges",
     "re.sonny.Commit",
+    "se.sjoerd.Graphs",
     "sm.puri.Chatty",
     "xyz.parlatype.Parlatype"
 ]

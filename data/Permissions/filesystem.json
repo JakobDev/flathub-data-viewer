@@ -836,6 +836,7 @@
         "fr.free.qccrypt.Qccrypt",
         "fun.vnote.app.VNote",
         "im.kaidan.kaidan",
+        "im.nheko.Nheko",
         "in.srev.guiscrcpy",
         "info.bibletime.BibleTime",
         "info.mumble.Mumble",
@@ -1319,6 +1320,7 @@
         "org.subsurface_divelog.Subsurface",
         "org.subtitld.Subtitld",
         "org.svxlink.Qtel",
+        "org.swi_prolog.swipl",
         "org.telesculptor.TeleSculptor",
         "org.texstudio.TeXstudio",
         "org.thentrythis.Samplebrain",
@@ -1444,7 +1446,6 @@
         "com.github.artemanufrij.playmymusic",
         "com.github.bajoja.indicator-kdeconnect",
         "com.github.calo001.fondo",
-        "com.github.cfcurtis.pdfstitcher",
         "com.github.devalien.workspaces",
         "com.github.geigi.cozy",
         "com.github.ilai_deutel.kibi",
@@ -1706,6 +1707,7 @@
         "org.sil.FieldWorks",
         "org.skytemple.SkyTemple",
         "org.squey.Squey",
+        "org.swi_prolog.swipl",
         "org.synfig.SynfigStudio",
         "org.tabos.roger",
         "org.tenacityaudio.Tenacity",
@@ -2206,6 +2208,7 @@
         "com.polyphone_soundfonts.polyphone",
         "com.qq.QQ",
         "com.rosegardenmusic.rosegarden",
+        "com.saivert.pwvucontrol",
         "com.thewavewarden.Odin2",
         "com.tracktion.Waveform",
         "com.vivaldi.Vivaldi",
@@ -3629,8 +3632,7 @@
         "net.openra.OpenRA"
     ],
     "~/.minecraft": [
-        "io.blockloader.BlockLoader",
-        "net.labymod.LabyMod"
+        "io.blockloader.BlockLoader"
     ],
     "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/359320/pfx/drive_c/users/steamuser/Saved Games/Frontier Developments/Elite Dangerous": [
         "io.edcd.EDMarketConnector"
@@ -4087,6 +4089,11 @@
     "~/.rdm:create": [
         "net.devolutions.RDM"
     ],
+    "~/.minecraft:create": [
+        "net.labymod.LabyMod",
+        "page.codeberg.JakobDev.jdMinecraftLauncher",
+        "page.codeberg.JakobDev.jdMrpackInstaller"
+    ],
     "~/.config/MangoHud:ro": [
         "net.lutris.Lutris"
     ],
@@ -4363,10 +4370,6 @@
         "page.codeberg.JakobDev.jdMacroPlayer",
         "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdSimpleAutostart"
-    ],
-    "~/.minecraft:create": [
-        "page.codeberg.JakobDev.jdMinecraftLauncher",
-        "page.codeberg.JakobDev.jdMrpackInstaller"
     ],
     "xdg-desktop:create": [
         "page.codeberg.JakobDev.jdMinecraftLauncher"
