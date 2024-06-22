@@ -1,9 +1,3 @@
 [
-    "org.kicad.KiCad.Library.Footprints",
-    "org.kicad.KiCad.Library.Packages3D",
-    "org.kicad.KiCad.Library.Symbols",
-    "org.kicad.KiCad.Library.Templates",
-    "org.kicad.KiCad.ODBCDriver.mariadb-connector-odbc",
-    "org.kicad.KiCad.ODBCDriver.psqlodbc",
-    "org.kicad.KiCad.ODBCDriver.sqliteodbc"
+    "org.kicad.KiCad.Library.Packages3D"
 ]

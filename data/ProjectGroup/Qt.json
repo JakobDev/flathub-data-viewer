@@ -3,6 +3,7 @@
     "io.qt.Linguist",
     "io.qt.QtCreator",
     "io.qt.qdbusviewer",
+    "io.qt.qtdesignstudio",
     "net.xm1math.Texmaker",
     "org.qxmledit.QXmlEdit"
 ]

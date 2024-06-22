@@ -54,6 +54,7 @@
     "io.gitlab.news_flash.NewsFlash",
     "io.missioncenter.MissionCenter",
     "it.mijorus.gearlever",
+    "net.codelogistics.webapps",
     "org.freedesktop.appstream.cli",
     "org.gnome.Aisleriot",
     "org.gnome.Boxes",

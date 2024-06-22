@@ -141,6 +141,7 @@
     "io.qt.Designer",
     "io.qt.QtCreator",
     "io.qt.qdbusviewer",
+    "io.qt.qtdesignstudio",
     "io.stoplight.studio",
     "it.fabiodistasio.AntaresSQL",
     "me.iepure.devtoolbox",

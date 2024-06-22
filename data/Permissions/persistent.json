@@ -129,9 +129,6 @@
     ".Fontmatrix": [
         "com.github.fontmatrix.Fontmatrix"
     ],
-    ".lyrics": [
-        "com.github.gmg137.netease-cloud-music-gtk"
-    ],
     ".ola": [
         "com.github.mikacousin.olc"
     ],
@@ -493,6 +490,9 @@
     ],
     ".config/freeciv21": [
         "net.longturn.freeciv21"
+    ],
+    ".mullvad-browser": [
+        "net.mullvad.MullvadBrowser"
     ],
     ".mullvad": [
         "net.mullvad.MullvadBrowser"

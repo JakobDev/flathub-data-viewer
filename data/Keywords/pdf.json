@@ -12,5 +12,6 @@
     "net.sourceforge.pdfchain",
     "org.gnome.Evince",
     "org.gnome.Papers",
+    "org.pdfstitcher.pdfstitcher",
     "org.verapdf.veraPDF"
 ]

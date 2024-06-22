@@ -18,6 +18,7 @@
         "io.qt.Linguist",
         "io.qt.QtCreator",
         "io.qt.qdbusviewer",
+        "io.qt.qtdesignstudio",
         "org.kde.kcachegrind",
         "page.codeberg.JakobDev.jdTextEdit"
     ]

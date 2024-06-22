@@ -443,6 +443,7 @@
         "org.openscopeproject.TrguiNG",
         "org.openttd.OpenTTD",
         "org.paraview.ParaView",
+        "org.pdfstitcher.pdfstitcher",
         "org.plomgrading.PlomClient",
         "org.processing.processingide",
         "org.qownnotes.QOwnNotes",
@@ -536,6 +537,7 @@
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.ktechpit.wonderwall",
+        "com.maxint.maxint",
         "com.meetfranz.Franz",
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
@@ -598,6 +600,7 @@
         "io.github.nostar.DroidStar",
         "io.github.qnapi",
         "io.github.qtox.qTox",
+        "io.github.verticalsync.sunroof",
         "io.github.vikdevelop.SaveDesktop",
         "io.github.vinser.pixyne",
         "io.gitlab.librewolf-community",
@@ -959,6 +962,7 @@
         "io.qt.Linguist",
         "io.qt.QtCreator",
         "io.qt.qdbusviewer",
+        "io.qt.qtdesignstudio",
         "io.qt.qtwebengine.BaseApp",
         "io.sourceforge.chart_geany.chart-geany",
         "io.sourceforge.pentobi",
@@ -1578,6 +1582,7 @@
         "io.neovim.nvim",
         "io.posidon.Paper",
         "io.qt.QtCreator",
+        "io.qt.qtdesignstudio",
         "io.typora.Typora",
         "la.ogri.strongbox",
         "me.kozec.syncthingtk",
@@ -1984,6 +1989,7 @@
         "fm.cancel.Ripcord",
         "gg.guilded.Guilded",
         "io.github.milkshiift.GoofCord",
+        "io.github.verticalsync.sunroof",
         "io.kapsa.drive",
         "org.gnunet.Messenger",
         "org.lyx.LyX",
@@ -2054,6 +2060,7 @@
         "org.nicotine_plus.Nicotine",
         "org.nomacs.ImageLounge",
         "org.opennumismat.OpenNumismat",
+        "org.pdfstitcher.pdfstitcher",
         "org.raspberrypi.rpi-imager",
         "org.sabnzbd.sabnzbd",
         "org.soundconverter.SoundConverter",
@@ -2129,6 +2136,7 @@
         "org.nicotine_plus.Nicotine",
         "org.nomacs.ImageLounge",
         "org.opennumismat.OpenNumismat",
+        "org.pdfstitcher.pdfstitcher",
         "org.raspberrypi.rpi-imager",
         "org.sabnzbd.sabnzbd",
         "org.soundconverter.SoundConverter",
@@ -2230,6 +2238,7 @@
         "io.github.rdybka.vht",
         "io.github.streetpea.Chiaki4deck",
         "io.github.tdesktop_x64.TDesktop",
+        "io.github.verticalsync.sunroof",
         "io.gitlab.librewolf-community",
         "io.jamulus.Jamulus",
         "io.lmms.LMMS",
@@ -2608,6 +2617,7 @@
         "fm.cancel.Ripcord",
         "gg.guilded.Guilded",
         "io.github.milkshiift.GoofCord",
+        "io.github.verticalsync.sunroof",
         "io.kapsa.drive",
         "net.baseart.Glide",
         "org.gnunet.Messenger",
@@ -2625,6 +2635,7 @@
         "dev.vencord.Vesktop",
         "gg.minion.Minion",
         "io.github.philipk.boilr",
+        "io.github.verticalsync.sunroof",
         "net.davidotek.pupgui2",
         "net.retrodeck.retrodeck",
         "net.studio08.xbplay"
@@ -2860,6 +2871,7 @@
         "org.libvips.vipsdisp",
         "org.moneymanagerex.MMEX",
         "org.nicotine_plus.Nicotine",
+        "org.pdfstitcher.pdfstitcher",
         "org.sabnzbd.sabnzbd",
         "org.strawberrymusicplayer.strawberry",
         "tv.kodi.Kodi",
@@ -3244,6 +3256,9 @@
         "com.github.donadigo.appeditor",
         "org.bluesabre.MenuLibre",
         "page.codeberg.JakobDev.jdMinecraftLauncher"
+    ],
+    "~/.lyrics": [
+        "com.github.gmg137.netease-cloud-music-gtk"
     ],
     "/var/tmp": [
         "com.github.ilai_deutel.kibi",
@@ -3675,6 +3690,15 @@
     ],
     "xdg-documents:create": [
         "io.github.aerocyber.sitemarker"
+    ],
+    "/sys/class/leds": [
+        "io.github.berarma.Oversteer"
+    ],
+    "/sys/devices": [
+        "io.github.berarma.Oversteer"
+    ],
+    "/run/udev": [
+        "io.github.berarma.Oversteer"
     ],
     "/srv": [
         "io.github.bothlab.pomidaq",

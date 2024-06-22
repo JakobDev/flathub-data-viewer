@@ -151,6 +151,7 @@
     "com.voxdsp.TempleDriver",
     "com.voxdsp.TuxFishing",
     "com.voxdsp.TuxScape",
+    "com.voxdsp.TuxScape2",
     "com.voxdsp.TuxVsDragon",
     "com.voxdsp.Tuxocide",
     "com.voxdsp.VoxelPaint",
@@ -214,6 +215,7 @@
     "io.github.am2r_community_developers.AM2RLauncher",
     "io.github.appoutlet.GameOutlet",
     "io.github.benini.scid",
+    "io.github.berarma.Oversteer",
     "io.github.cxong.cdogs-sdl",
     "io.github.diegoivan.GaticTacToe",
     "io.github.divverent.aaaaxy",
@@ -629,6 +631,5 @@
     "xyz.eclipium.TetraSwap",
     "xyz.hyperplay.HyperPlay",
     "xyz.stuerz.BilligSweeper",
-    "com.valvesoftware.Steam.Utility.InhibitScreensaver",
-    "com.valvesoftware.Steam.Utility.steamtinkerlaunch"
+    "com.valvesoftware.Steam.Utility.InhibitScreensaver"
 ]

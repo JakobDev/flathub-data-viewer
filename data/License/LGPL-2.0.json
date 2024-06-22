@@ -2,7 +2,6 @@
     "com.ugetdm.uGet",
     "net.sourceforge.OpenLieroX",
     "org.kde.kuiviewer",
-    "org.kicad.KiCad.ODBCDriver.psqlodbc",
     "org.radare.iaito.translations",
     "org.telegram.desktop.webview"
 ]

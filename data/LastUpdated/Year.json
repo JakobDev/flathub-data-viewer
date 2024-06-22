@@ -39,7 +39,6 @@
     "com.feaneron.Boatswain",
     "com.felipekinoshita.Kana",
     "com.felipekinoshita.Wildcard",
-    "com.fightcade.Fightcade",
     "com.gamestarmechanic.gamestarmechanic",
     "com.gitfiend.GitFiend",
     "com.github.Anuken.Mindustry",
@@ -52,8 +51,6 @@
     "com.github.birros.WebArchives",
     "com.github.cassidyjames.dippi",
     "com.github.finefindus.eyedropper",
-    "com.github.gmg137.netease-cloud-music-gtk",
-    "com.github.jeromerobert.pdfarranger",
     "com.github.jkotra.eovpn",
     "com.github.jkotra.unlockr",
     "com.github.johnfactotum.QuickLookup",
@@ -154,6 +151,7 @@
     "io.github.TheWisker.Cavasik",
     "io.github.alexkdeveloper.gomoku",
     "io.github.andreibachim.shortcut",
+    "io.github.bkueng.qMasterPassword",
     "io.github.brainstormtrooper.facteur",
     "io.github.cboxdoerfer.FSearch",
     "io.github.celluloid_player.Celluloid",
@@ -402,7 +400,5 @@
     "org.freedesktop.Sdk.Extension.mingw-w64",
     "org.freedesktop.Sdk.Extension.mono6",
     "org.freedesktop.Sdk.Extension.node16",
-    "org.kicad.KiCad.ODBCDriver.psqlodbc",
-    "org.kicad.KiCad.ODBCDriver.sqliteodbc",
     "org.lyx.LyX.Plugin.LilyPond"
 ]
