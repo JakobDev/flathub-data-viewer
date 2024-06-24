@@ -14,6 +14,7 @@
         "org.sugarlabs.MusicKeyboard",
         "org.sugarlabs.Paint",
         "org.sugarlabs.Physics",
+        "org.sugarlabs.Pippy",
         "org.sugarlabs.Pukllanapac",
         "org.sugarlabs.ReadETexts",
         "org.sugarlabs.Sliderule",
@@ -22,7 +23,6 @@
     ],
     "23.06": [
         "org.sugarlabs.ColorDeducto",
-        "org.sugarlabs.Pippy",
         "org.sugarlabs.StoryActivity",
         "org.sugarlabs.SwiftFeet",
         "org.sugarlabs.TurtlePondActivity",

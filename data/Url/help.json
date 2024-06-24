@@ -311,7 +311,6 @@
     "io.github.Cockatrice.cockatrice",
     "io.github.Hexchat",
     "io.github.JakubMelka.Pdf4qt",
-    "io.github.NhekoReborn.Nheko",
     "io.github.Pithos",
     "io.github.Qalculate.qalculate-qt",
     "io.github.Qalculate",
@@ -906,6 +905,7 @@
     "com.obsproject.Studio.Plugin.RewardsTheater",
     "com.obsproject.Studio.Plugin.VerticalCanvas",
     "com.valvesoftware.Steam.CompatibilityTool.Boxtron",
+    "com.valvesoftware.Steam.Utility.steamtinkerlaunch",
     "org.apache.jmeter.Help",
     "org.freedesktop.LinuxAudio.Plugins.SonoBus",
     "org.freedesktop.Sdk.Extension.gnat13"

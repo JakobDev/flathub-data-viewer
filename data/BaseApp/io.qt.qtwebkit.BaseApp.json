@@ -6,14 +6,14 @@
         "com.github.fontmatrix.Fontmatrix",
         "com.notepadqq.Notepadqq",
         "info.smplayer.SMPlayer",
+        "org.goldendict.GoldenDict",
         "org.kde.umbrello",
         "org.subsurface_divelog.Subsurface"
     ],
     "5.15-22.08": [
         "com.icanblink.blink",
         "com.ktechpit.orion",
-        "com.ktechpit.torrhunt",
-        "org.goldendict.GoldenDict"
+        "com.ktechpit.torrhunt"
     ],
     "5.14": [
         "com.ktechpit.wonderwall"

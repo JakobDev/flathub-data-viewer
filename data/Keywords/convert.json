@@ -1,6 +1,7 @@
 [
     "com.bambulab.BambuStudio",
     "com.github.subhadeepjasu.pebbles",
+    "com.github.unrud.djpdf",
     "com.prusa3d.PrusaSlicer",
     "dev.geopjr.Calligraphy",
     "io.github.benini.scid",

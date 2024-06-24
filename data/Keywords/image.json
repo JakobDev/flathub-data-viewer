@@ -1,6 +1,7 @@
 [
     "com.github.calo001.fondo",
     "com.github.huluti.Curtail",
+    "com.github.unrud.djpdf",
     "com.hamrick.VueScan",
     "dev.levz.TinyImageFinder",
     "io.github.adrienverge.PhotoCollage",

@@ -631,5 +631,6 @@
     "xyz.eclipium.TetraSwap",
     "xyz.hyperplay.HyperPlay",
     "xyz.stuerz.BilligSweeper",
-    "com.valvesoftware.Steam.Utility.InhibitScreensaver"
+    "com.valvesoftware.Steam.Utility.InhibitScreensaver",
+    "com.valvesoftware.Steam.Utility.steamtinkerlaunch"
 ]
