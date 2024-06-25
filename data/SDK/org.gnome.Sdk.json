@@ -136,6 +136,7 @@
         "com.github.maoschanz.drawing",
         "com.github.neithern.g4music",
         "com.github.qarmin.szyszka",
+        "com.github.rogercrocker.badabib",
         "com.github.ryonakano.konbucase",
         "com.github.ryonakano.pinit",
         "com.github.ryonakano.reco",
@@ -779,7 +780,6 @@
     "43": [
         "codes.loers.Punchclock",
         "com.github.muriloventuroso.easyssh",
-        "com.github.rogercrocker.badabib",
         "com.gitlab.maevemi.publictransport",
         "com.kavilgroup.gestimator",
         "com.powerball253.eternalmodmanager",
