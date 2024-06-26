@@ -3765,8 +3765,7 @@
         "org.kde.kontact"
     ],
     "org.kde.baloo": [
-        "org.kde.arianna",
-        "org.kde.elisa"
+        "org.kde.arianna"
     ],
     "org.kde.kiod6": [
         "org.kde.dolphin"

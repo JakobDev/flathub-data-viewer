@@ -3,7 +3,8 @@
         "com.github.Murmele.scram"
     ],
     "6.6": [
-        "io.github.JakubMelka.Pdf4qt"
+        "io.github.JakubMelka.Pdf4qt",
+        "io.qt.qtdesignstudio"
     ],
     "5.15-23.08": [
         "io.github.dman95.SASM",
@@ -18,7 +19,6 @@
         "io.qt.Linguist",
         "io.qt.QtCreator",
         "io.qt.qdbusviewer",
-        "io.qt.qtdesignstudio",
         "org.kde.kcachegrind",
         "page.codeberg.JakobDev.jdTextEdit"
     ]

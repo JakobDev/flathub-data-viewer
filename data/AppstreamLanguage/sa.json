@@ -1,5 +1,6 @@
 [
     "org.inkscape.Inkscape",
+    "org.kde.elisa",
     "org.kde.kcolorchooser",
     "org.tuxpaint.Tuxpaint"
 ]
