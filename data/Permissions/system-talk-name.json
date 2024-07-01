@@ -73,6 +73,7 @@
         "org.gnome.Calendar",
         "org.gnome.Firmware",
         "org.gnome.GTG",
+        "org.gnome.Geary",
         "org.gnome.Music",
         "org.gnome.OfficeRunner",
         "org.gnome.Todo",

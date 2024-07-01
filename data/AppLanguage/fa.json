@@ -9,7 +9,6 @@
     "org.aegisub.Aegisub",
     "org.gnome.ColorViewer",
     "org.gnome.Eolie",
-    "org.gnome.Geary",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",
@@ -35,5 +34,6 @@
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
-    "org.widelands.Widelands"
+    "org.widelands.Widelands",
+    "ua.org.brezblock.q4wine"
 ]

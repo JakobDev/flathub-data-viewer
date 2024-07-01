@@ -74,7 +74,6 @@
         "de.willuhn.Jameica",
         "dev.Cogitri.Health",
         "dev.alextren.Spot",
-        "dev.edfloreshz.Done",
         "dev.goats.xivlauncher",
         "dev.mrquantumoff.mcmodpackmanager",
         "dev.pulsar_edit.Pulsar",
@@ -880,6 +879,7 @@
     "org.kde.kconfig.notify": [
         "app.bbsync.BlackboardSync",
         "app.cantara.Cantara",
+        "app.lith.Lith",
         "app.pianocheetah.pianocheetah",
         "art.taunoerik.tauno-serial-plotter",
         "ca.parallel_launcher.ParallelLauncher",
@@ -1379,6 +1379,7 @@
         "org.linuxshowplayer.LinuxShowPlayer",
         "org.lyx.LyX",
         "org.mamedev.MAME",
+        "org.mapeditor.Tiled",
         "org.mattbas.Glaxnimate",
         "org.mavlink.qgroundcontrol",
         "org.mintguide.WebAppReader",
@@ -1474,6 +1475,7 @@
     "org.kde.kglobalsettings": [
         "app.bbsync.BlackboardSync",
         "app.cantara.Cantara",
+        "app.lith.Lith",
         "app.pianocheetah.pianocheetah",
         "art.taunoerik.tauno-serial-plotter",
         "ca.parallel_launcher.ParallelLauncher",
@@ -1962,6 +1964,7 @@
         "org.linuxshowplayer.LinuxShowPlayer",
         "org.lyx.LyX",
         "org.mamedev.MAME",
+        "org.mapeditor.Tiled",
         "org.mattbas.Glaxnimate",
         "org.mavlink.qgroundcontrol",
         "org.mintguide.WebAppReader",
@@ -2767,10 +2770,6 @@
         "org.remmina.Remmina",
         "org.signal.Signal"
     ],
-    "org.freedesktop.portal.fcitx": [
-        "app.lith.Lith",
-        "com.github.marktext.marktext"
-    ],
     "org.kde.kwalletd5": [
         "app.moosync.moosync",
         "com.borgbase.Vorta",
@@ -2865,6 +2864,7 @@
         "ca.parallel_launcher.ParallelLauncher",
         "cn.xfangfang.wiliwili",
         "com.brave.Browser",
+        "com.core447.StreamController",
         "com.discordapp.Discord",
         "com.fightcade.Fightcade",
         "com.ghostery.browser",
@@ -3076,6 +3076,7 @@
         "com.github.mdh34.quickdocs",
         "com.github.needleandthread.vocal",
         "com.github.neithern.g4music",
+        "com.github.paolostivanin.OTPClient",
         "com.github.philip_scott.notes-up",
         "com.github.rafostar.Clapper",
         "com.github.xournalpp.xournalpp",
@@ -3269,20 +3270,6 @@
         "com.core447.StreamController",
         "com.github.bajoja.indicator-kdeconnect"
     ],
-    "org.gnome.shell": [
-        "com.core447.StreamController",
-        "com.github.dynobo.normcap",
-        "com.github.neithern.g4music",
-        "com.hack_computer.Clubhouse",
-        "com.hack_computer.OperatingSystemApp",
-        "com.hack_computer.Sidetrack",
-        "com.uploadedlobster.peek",
-        "edu.stanford.Almond",
-        "org.gnome.BreakTimer",
-        "org.gnome.Totem",
-        "org.remmina.Remmina",
-        "org.sil.FieldWorks"
-    ],
     "org.mpris.mediaplayer2.*": [
         "com.core447.StreamController",
         "com.feaneron.Boatswain",
@@ -3298,6 +3285,20 @@
     ],
     "org.gnome.shell.extensions.streamcontroller": [
         "com.core447.StreamController"
+    ],
+    "org.gnome.shell": [
+        "com.core447.StreamController",
+        "com.github.dynobo.normcap",
+        "com.github.neithern.g4music",
+        "com.hack_computer.Clubhouse",
+        "com.hack_computer.OperatingSystemApp",
+        "com.hack_computer.Sidetrack",
+        "com.uploadedlobster.peek",
+        "edu.stanford.Almond",
+        "org.gnome.BreakTimer",
+        "org.gnome.Totem",
+        "org.remmina.Remmina",
+        "org.sil.FieldWorks"
     ],
     "com.canonical.unity": [
         "com.discordapp.Discord",
@@ -3406,6 +3407,9 @@
     ],
     "org.kde.statusnotifieritem": [
         "com.github.gabutakut.gabutdm"
+    ],
+    "org.freedesktop.portal.fcitx": [
+        "com.github.marktext.marktext"
     ],
     "org.freedesktop.dbus": [
         "com.github.muriloventuroso.givemelyrics",

@@ -271,6 +271,7 @@
     "org.freedesktop.Sdk.Extension.dotnet",
     "org.freedesktop.Sdk.Extension.dotnet5",
     "org.freedesktop.Sdk.Extension.dotnet6",
+    "org.freedesktop.Sdk.Extension.dotnet7",
     "org.freedesktop.Sdk.Extension.dotnet8",
     "org.freedesktop.Sdk.Extension.node10",
     "org.freedesktop.Sdk.Extension.node12",

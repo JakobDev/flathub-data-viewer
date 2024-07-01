@@ -1,5 +1,6 @@
 [
     "com.github.arshubham.gitignore",
+    "com.google.AndroidStudio",
     "com.helix_editor.Helix",
     "com.inform7.IDE",
     "com.jetbrains.CLion",

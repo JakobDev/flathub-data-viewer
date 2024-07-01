@@ -9,6 +9,7 @@
     "io.gitlab.daikhan.stable",
     "io.mpv.Mpv",
     "net.baseart.Glide",
+    "net.puddletag.puddletag",
     "org.avidemux.Avidemux",
     "org.feichtmeier.Musicpod",
     "org.gnome.Totem",

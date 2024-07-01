@@ -306,7 +306,6 @@
         "net.lutris.Lutris",
         "net.mancubus.SLADE",
         "net.mediaarea.MediaInfo",
-        "net.meshlab.MeshLab",
         "net.poedit.Poedit",
         "net.rpdev.OpenTodoList",
         "net.seamly.seamly2d",
@@ -1596,6 +1595,7 @@
         "net.mediaarea.MOVMetaEdit",
         "net.mediaarea.MediaConch",
         "net.mediaarea.QCTools",
+        "net.meshlab.MeshLab",
         "net.natesales.Aviator",
         "net.purrdata.PurrData",
         "net.retrodeck.retrodeck",
@@ -1816,6 +1816,7 @@
         "io.github.flattool.Warehouse",
         "io.github.giantpinkrobots.flatsweep",
         "io.kopia.KopiaUI",
+        "org.bleachbit.BleachBit",
         "org.freefilesync.FreeFileSync",
         "org.gnome.DejaDup",
         "org.gnome.World.PikaBackup",
@@ -2655,6 +2656,7 @@
         "com.github.junrrein.PDFSlicer",
         "com.github.needleandthread.vocal",
         "com.github.neithern.g4music",
+        "com.github.paolostivanin.OTPClient",
         "com.github.rafostar.Clapper",
         "com.github.xournalpp.xournalpp",
         "com.icons8.Lunacy",
@@ -2844,6 +2846,7 @@
         "com.github.GradienceTeam.Gradience",
         "com.github.neithern.g4music",
         "com.github.optyfr.JRomManager",
+        "com.modrinth.ModrinthApp",
         "com.mojang.Minecraft",
         "io.bassi.Amberol",
         "io.github.Rirusha.Cassette",
@@ -3934,7 +3937,8 @@
         "io.github.tralph3.Steam_Metadata_Editor"
     ],
     "xdg-data": [
-        "io.github.unrud.RecentFilter"
+        "io.github.unrud.RecentFilter",
+        "net.codelogistics.webapps"
     ],
     "~/.fonts:create": [
         "io.github.vikdevelop.SaveDesktop"
@@ -4294,6 +4298,9 @@
     ],
     "xdg-public-share:ro": [
         "org.gnunet.Messenger"
+    ],
+    "xdg-run/speech-dispatcher": [
+        "org.godotengine.Godot"
     ],
     "~/gPodder": [
         "org.gpodder.gpodder-adaptive"

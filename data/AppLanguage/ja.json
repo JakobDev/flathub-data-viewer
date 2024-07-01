@@ -24,7 +24,6 @@
     "org.gmusicbrowser.gmusicbrowser",
     "org.gnome.ColorViewer",
     "org.gnome.EasyTAG",
-    "org.gnome.Geary",
     "org.gnome.Hamster",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
@@ -38,7 +37,6 @@
     "org.gnome.seahorse.Application",
     "org.gramps_project.Gramps",
     "org.gtkhash.gtkhash",
-    "org.mapeditor.Tiled",
     "org.megaglest.MegaGlest",
     "org.musescore.MuseScore",
     "org.musicbrainz.Picard",
@@ -54,5 +52,6 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.zim_wiki.Zim",
-    "re.sonny.Commit"
+    "re.sonny.Commit",
+    "ua.org.brezblock.q4wine"
 ]

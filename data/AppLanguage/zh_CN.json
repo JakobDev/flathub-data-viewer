@@ -31,7 +31,6 @@
     "org.gmusicbrowser.gmusicbrowser",
     "org.gnome.ColorViewer",
     "org.gnome.EasyTAG",
-    "org.gnome.Geary",
     "org.gnome.Hamster",
     "org.gnome.OCRFeeder",
     "org.gnome.PowerStats",
@@ -53,7 +52,6 @@
     "org.gramps_project.Gramps",
     "org.gtkhash.gtkhash",
     "org.laptop.TurtleArtActivity",
-    "org.mapeditor.Tiled",
     "org.megaglest.MegaGlest",
     "org.musescore.MuseScore",
     "org.musicbrainz.Picard",
@@ -84,5 +82,6 @@
     "org.sugarlabs.Words",
     "org.viking.Viking",
     "org.widelands.Widelands",
-    "org.zim_wiki.Zim"
+    "org.zim_wiki.Zim",
+    "ua.org.brezblock.q4wine"
 ]

@@ -547,7 +547,6 @@
         "dev.bragefuglseth.Fretboard",
         "dev.bragefuglseth.Keypunch",
         "dev.deedles.Trayscale",
-        "dev.edfloreshz.Done",
         "dev.ensoft.ecode",
         "dev.gbstudio.gb-studio",
         "dev.geopjr.Calligraphy",
@@ -2282,7 +2281,6 @@
     "shm": [
         "com.github.ahrm.sioyek",
         "com.play0ad.zeroad",
-        "de.akaflieg_freiburg.enroute",
         "io.github.brunoherbelin.Vimix",
         "io.github.shmmodbus.shm-modbus",
         "io.missioncenter.MissionCenter",

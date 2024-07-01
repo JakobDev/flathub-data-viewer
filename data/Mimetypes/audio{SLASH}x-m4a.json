@@ -18,6 +18,7 @@
     "net.baseart.Glide",
     "net.mediaarea.MediaConch",
     "net.mediaarea.MediaInfo",
+    "net.puddletag.puddletag",
     "org.cubocore.CoreInfo",
     "org.exaile.Exaile",
     "org.feichtmeier.Musicpod",

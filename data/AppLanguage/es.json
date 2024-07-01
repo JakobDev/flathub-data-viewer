@@ -54,7 +54,6 @@
     "org.gnome.ColorViewer",
     "org.gnome.EasyTAG",
     "org.gnome.Eolie",
-    "org.gnome.Geary",
     "org.gnome.Hamster",
     "org.gnome.OCRFeeder",
     "org.gnome.PowerStats",
@@ -76,7 +75,6 @@
     "org.gramps_project.Gramps",
     "org.gtkhash.gtkhash",
     "org.laptop.TurtleArtActivity",
-    "org.mapeditor.Tiled",
     "org.megaglest.MegaGlest",
     "org.musescore.MuseScore",
     "org.musicbrainz.Picard",
@@ -111,6 +109,7 @@
     "org.x.Warpinator",
     "org.zim_wiki.Zim",
     "re.sonny.Commit",
+    "ua.org.brezblock.q4wine",
     "xyz.eclipium.Hieroctive",
     "xyz.eclipium.TetraSwap"
 ]

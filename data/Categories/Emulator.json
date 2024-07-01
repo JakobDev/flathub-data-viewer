@@ -53,6 +53,5 @@
     "org.purei.Play",
     "org.radare.iaito",
     "org.ryujinx.Ryujinx",
-    "org.tuxfamily.hatari",
-    "ua.org.brezblock.q4wine"
+    "org.tuxfamily.hatari"
 ]

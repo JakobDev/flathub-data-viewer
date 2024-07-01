@@ -17,6 +17,7 @@
         "io.github.riftr.intelpy",
         "io.github.veusz.Veusz",
         "io.lmms.LMMS",
+        "net.puddletag.puddletag",
         "net.sourceforge.scidavis",
         "org.cloudcompare.CloudCompare",
         "org.electrum.electrum",
@@ -61,14 +62,13 @@
         "page.codeberg.JakobDev.jdSimpleAutostart",
         "page.codeberg.JakobDev.jdTextEdit"
     ],
-    "5.15-22.08": [
-        "net.puddletag.puddletag",
-        "se.sjoerd.GIScan"
-    ],
     "5.15-21.08": [
         "org.qutebrowser.qutebrowser"
     ],
     "6.3": [
         "org.subtitld.Subtitld"
+    ],
+    "5.15-22.08": [
+        "se.sjoerd.GIScan"
     ]
 }

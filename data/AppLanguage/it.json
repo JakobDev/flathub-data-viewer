@@ -58,7 +58,6 @@
     "org.gnome.ColorViewer",
     "org.gnome.EasyTAG",
     "org.gnome.Eolie",
-    "org.gnome.Geary",
     "org.gnome.Hamster",
     "org.gnome.OCRFeeder",
     "org.gnome.PowerStats",
@@ -79,7 +78,6 @@
     "org.gtkhash.gtkhash",
     "org.karapulse.Karapulse",
     "org.laptop.TurtleArtActivity",
-    "org.mapeditor.Tiled",
     "org.megaglest.MegaGlest",
     "org.musescore.MuseScore",
     "org.musicbrainz.Picard",
@@ -106,5 +104,6 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.zim_wiki.Zim",
-    "re.sonny.Commit"
+    "re.sonny.Commit",
+    "ua.org.brezblock.q4wine"
 ]
