@@ -100,6 +100,7 @@
         "io.typora.Typora",
         "it.fabiodistasio.AntaresSQL",
         "md.obsidian.Obsidian",
+        "me.proton.Mail",
         "me.proton.Pass",
         "moe.karaokes.mugen",
         "net.agalwood.Motrix",
@@ -126,6 +127,7 @@
         "org.twinery.Twine",
         "org.upscayl.Upscayl",
         "org.zulip.Zulip",
+        "rest.insomnia.Insomnia",
         "ro.go.hmlendea.DL-Desktop",
         "rocks.poopjournal.librelinkupdesktop",
         "sh.cider.Cider",
@@ -199,7 +201,6 @@
         "org.getoutline.OutlineClient",
         "org.js.nuclear.Nuclear",
         "org.nanuc.Axolotl",
-        "rest.insomnia.Insomnia",
         "se.manyver.Manyverse",
         "tech.feliciano.pocket-casts",
         "xyz.armcord.ArmCord"

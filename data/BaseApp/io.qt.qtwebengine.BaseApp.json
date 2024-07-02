@@ -21,6 +21,7 @@
         "com.stremio.Stremio",
         "fun.vnote.app.VNote",
         "io.github.foldynl.QLog",
+        "net.mediaarea.MediaConch",
         "net.sonic_pi.SonicPi",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.xm1math.Texmaker",
@@ -66,7 +67,6 @@
     ],
     "5.15-22.08": [
         "io.sourceforge.chart_geany.chart-geany",
-        "net.mediaarea.MediaConch",
         "org.rolisteam.rolisteam"
     ],
     "6.5": [

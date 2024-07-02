@@ -141,7 +141,6 @@
         "com.github.yucefsourani.albasheer-electronic-quran-browser",
         "com.gitlab.Murmele.UDPLogger",
         "com.googleplaymusicdesktopplayer.GPMDP",
-        "com.grangerhub.Tremulous",
         "com.hack_computer.OperatingSystemApp",
         "com.hack_computer.Sidetrack",
         "com.ktechpit.wonderwall",
@@ -327,6 +326,7 @@
         "org.supertuxproject.SuperTux",
         "page.codeberg.papojari.Find_Billy",
         "uk.co._69_studios.kublit",
-        "uk.co.parallelrealities.games.edgar"
+        "uk.co.parallelrealities.games.edgar",
+        "uk.co.studiopond.spiderbro"
     ]
 }

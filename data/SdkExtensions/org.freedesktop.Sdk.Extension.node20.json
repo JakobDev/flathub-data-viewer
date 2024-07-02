@@ -15,6 +15,7 @@
     "moe.karaokes.mugen",
     "org.expresslrs.ExpressLRSConfigurator",
     "org.freedesktop.appstream.generator",
+    "rest.insomnia.Insomnia",
     "rocks.poopjournal.librelinkupdesktop",
     "tech.keyforge.keyforge_master"
 ]

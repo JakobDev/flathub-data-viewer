@@ -1,6 +1,7 @@
 {
     "23.08": [
         "net.mullvad.MullvadBrowser",
+        "org.garudalinux.firedragon",
         "org.mozilla.Thunderbird",
         "org.mozilla.firefox"
     ]

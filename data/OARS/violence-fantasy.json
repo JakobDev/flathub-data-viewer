@@ -14,7 +14,6 @@
         "com.github.bvschaik.julius",
         "com.github.keriew.augustus",
         "com.github.varnholt.dynablaster_revenge",
-        "com.grangerhub.Tremulous",
         "com.heroicgameslauncher.hgl",
         "com.lunarclient.LunarClient",
         "com.modrinth.ModrinthApp",
@@ -36,6 +35,7 @@
         "io.github.ec_.Quake3e.OpenArena",
         "io.github.endless_sky.endless_sky",
         "io.github.fragglet.sdl_sopwith",
+        "io.github.grangerhub.Tremulous",
         "io.github.hurricangame.hurrican",
         "io.github.jotd666.gods-deluxe",
         "io.github.mlm_games.asteroids_revenge",
@@ -327,6 +327,7 @@
         "org.gnome.gitlab.Cowsay",
         "org.manaplus.ManaPlus",
         "org.opensurge2d.OpenSurge",
-        "page.codeberg.papojari.Find_Billy"
+        "page.codeberg.papojari.Find_Billy",
+        "uk.co.studiopond.spiderbro"
     ]
 }

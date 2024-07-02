@@ -1,6 +1,5 @@
 [
     "com.github.eneshecan.WhatsAppForLinux",
-    "im.dino.Dino",
     "im.kaidan.kaidan",
     "im.pidgin.Pidgin",
     "io.github.kotatogram",
@@ -9,5 +8,6 @@
     "net.jami.Jami",
     "org.gajim.Gajim",
     "org.gnunet.Messenger",
+    "org.okstar.ok-msg",
     "org.telegram"
 ]

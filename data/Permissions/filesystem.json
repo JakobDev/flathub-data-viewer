@@ -638,6 +638,7 @@
         "org.fooyin.fooyin",
         "org.freedesktop.fwupd",
         "org.freedownloadmanager.Manager",
+        "org.garudalinux.firedragon",
         "org.gnome.EasyTAG",
         "org.gnome.Epiphany",
         "org.gnome.Geary",
@@ -1272,6 +1273,7 @@
         "org.nomacs.ImageLounge",
         "org.nsnam.NetAnim",
         "org.octave.Octave",
+        "org.okstar.ok-msg",
         "org.olivevideoeditor.Olive",
         "org.onionshare.OnionShare",
         "org.openchemistry.Avogadro2",
@@ -1785,6 +1787,7 @@
         "org.exaile.Exaile",
         "org.firestormviewer.FirestormViewer",
         "org.fooyin.fooyin",
+        "org.garudalinux.firedragon",
         "org.gmusicbrowser.gmusicbrowser",
         "org.gnome.EasyTAG",
         "org.gnome.Lollypop",
@@ -1945,6 +1948,7 @@
         "org.eu.wabarc.wayback",
         "org.firestormviewer.FirestormViewer",
         "org.fritzing.Fritzing",
+        "org.garudalinux.firedragon",
         "org.gnome.Hamster",
         "org.gnome.frogr",
         "org.gnome.moserial",
@@ -2516,6 +2520,7 @@
         "org.entangle_photo.Manager",
         "org.firestormviewer.FirestormViewer",
         "org.flameshot.Flameshot",
+        "org.garudalinux.firedragon",
         "org.gnome.Cheese",
         "org.gnome.Photos",
         "org.gnome.Shotwell",
@@ -2584,6 +2589,7 @@
         "no.mifi.losslesscut",
         "one.ablaze.floorp",
         "org.bitbucket.mystery_keeper.VapourSynthEditor",
+        "org.garudalinux.firedragon",
         "org.gnome.Cheese",
         "org.gnome.Totem",
         "org.gnome.frogr",
@@ -2624,6 +2630,9 @@
         "org.sigxcpu.Livi",
         "sh.ppy.osu",
         "xyz.armcord.ArmCord"
+    ],
+    "xdg-download/simplex:create": [
+        "chat.simplex.simplex"
     ],
     "~/.steam": [
         "cn.xfangfang.wiliwili",
@@ -2721,6 +2730,7 @@
         "org.gnome.gedit",
         "org.gnome.gitlab.somas.Apostrophe",
         "org.gnu.pspp",
+        "org.gnucash.GnuCash",
         "org.gnumeric.Gnumeric",
         "org.inkscape.Inkscape",
         "org.libreoffice.LibreOffice",
@@ -2778,7 +2788,6 @@
         "org.gnome.World.PikaBackup",
         "org.gnome.baobab",
         "org.gnome.gThumb",
-        "org.gnucash.GnuCash",
         "org.gnumeric.Gnumeric",
         "org.inkscape.Inkscape",
         "org.kde.krita",
@@ -2942,6 +2951,7 @@
         "io.github.fastrizwaan.WineZGUI",
         "io.github.prateekmedia.appimagepool",
         "one.ablaze.floorp",
+        "org.garudalinux.firedragon",
         "ru.yandex.Browser"
     ],
     "/run/.heim_org.h5l.kcm-socket": [
@@ -2959,6 +2969,7 @@
         "one.ablaze.floorp",
         "org.chromium.Chromium",
         "org.ferdium.Ferdium",
+        "org.garudalinux.firedragon",
         "org.gnome.Evolution",
         "org.mozilla.Thunderbird",
         "org.mozilla.firefox",
@@ -2975,6 +2986,7 @@
         "io.github.elevenhsoft.WebApps",
         "io.github.prateekmedia.appimagepool",
         "one.ablaze.floorp",
+        "org.garudalinux.firedragon",
         "ru.yandex.Browser"
     ],
     "xdg-desktop": [
@@ -3008,6 +3020,7 @@
         "net.xmind.XMind",
         "one.ablaze.floorp",
         "org.firestormviewer.FirestormViewer",
+        "org.garudalinux.firedragon",
         "org.turbowarp.TurboWarp",
         "org.winehq.Wine",
         "org.zotero.Zotero",
@@ -3019,6 +3032,7 @@
         "com.calibre_ebook.calibre",
         "com.github.johnfactotum.Foliate",
         "one.ablaze.floorp",
+        "org.garudalinux.firedragon",
         "org.mozilla.Thunderbird",
         "org.mozilla.firefox"
     ],
@@ -3194,7 +3208,6 @@
         "io.kapsa.drive",
         "io.mpv.Mpv",
         "me.timschneeberger.jdsp4linux",
-        "org.kde.haruna",
         "org.qutebrowser.qutebrowser",
         "ru.linux_gaming.PortProton",
         "to.us.scrollprotocol.Profectus"
@@ -3593,7 +3606,6 @@
     ],
     "xdg-config/gtk-3.0:ro": [
         "dev.bsnes.bsnes",
-        "io.github.slgobinath.SafeEyes",
         "net.retrodeck.retrodeck"
     ],
     "/run/tailscale:ro": [
@@ -4300,7 +4312,8 @@
         "org.gnunet.Messenger"
     ],
     "xdg-run/speech-dispatcher": [
-        "org.godotengine.Godot"
+        "org.godotengine.Godot",
+        "org.godotengine.GodotSharp"
     ],
     "~/gPodder": [
         "org.gpodder.gpodder-adaptive"

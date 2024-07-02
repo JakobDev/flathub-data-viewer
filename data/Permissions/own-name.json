@@ -44,6 +44,7 @@
         "net.mullvad.MullvadBrowser",
         "net.waterfox.waterfox",
         "one.ablaze.floorp",
+        "org.garudalinux.firedragon",
         "org.mozilla.firefox"
     ],
     "org.mpris.mediaplayer2.spotube.*": [
@@ -315,6 +316,9 @@
     ],
     "org.freedesktop.tuhi1": [
         "org.freedesktop.Tuhi"
+    ],
+    "org.mozilla.firedragon.*": [
+        "org.garudalinux.firedragon"
     ],
     "org.mpris.mediaplayer2.gmusicbrowser": [
         "org.gmusicbrowser.gmusicbrowser"

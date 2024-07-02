@@ -11,6 +11,7 @@
     "org.gajim.Gajim",
     "org.gnunet.Messenger",
     "org.nicotine_plus.Nicotine",
+    "org.okstar.ok-msg",
     "org.telegram",
     "sm.puri.Chatty"
 ]

@@ -1,6 +1,7 @@
 [
     "app.vup.Vup",
     "com.expidusos.file_manager",
+    "dev.mariinkys.Oboete",
     "dev.tchx84.Portfolio",
     "org.cubocore.CoreFM",
     "org.kde.dolphin",

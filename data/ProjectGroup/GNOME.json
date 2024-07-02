@@ -1,5 +1,4 @@
 [
-    "app.drey.KeyRack",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.ReadItLater",
@@ -14,7 +13,6 @@
     "in.bharatkalluri.shortcircuit",
     "io.bassi.Amberol",
     "io.gitlab.theevilskeleton.Upscaler",
-    "ml.prevete.Daty",
     "net.daase.journable",
     "net.kirgroup.confy",
     "org.adishatz.syncpasswd",
@@ -113,7 +111,6 @@
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
     "org.librehunt.Organizer",
-    "org.upnproutercontrol.UPnPRouterControl",
     "org.freedesktop.Sdk.Extension.vala",
     "org.gnome.Crosswords.PuzzleSets.gnome",
     "org.gnome.Crosswords.PuzzleSets.keesing",

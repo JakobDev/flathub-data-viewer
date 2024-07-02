@@ -150,9 +150,6 @@
     ".googleearth": [
         "com.google.EarthPro"
     ],
-    ".tremulous": [
-        "com.grangerhub.Tremulous"
-    ],
     ".vuescan": [
         "com.hamrick.VueScan"
     ],
@@ -425,6 +422,9 @@
     ".datcord": [
         "io.github.gamingdoom.Datcord"
     ],
+    ".tremulous": [
+        "io.github.grangerhub.Tremulous"
+    ],
     ".ja2": [
         "io.github.ja2_stracciatella.JA2-Stracciatella"
     ],
@@ -640,6 +640,9 @@
     "xdg-config/fontconfig": [
         "org.gabmus.gfeeds",
         "org.gnome.FontManager"
+    ],
+    ".firedragon": [
+        "org.garudalinux.firedragon"
     ],
     ".dlt": [
         "org.genivi.DLTViewer"

@@ -7,5 +7,6 @@
     "io.github.tdesktop_x64.TDesktop",
     "org.asamk.SignalCli",
     "org.gnunet.Messenger",
+    "org.okstar.ok-msg",
     "org.telegram"
 ]

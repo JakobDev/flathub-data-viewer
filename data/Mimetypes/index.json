@@ -1835,6 +1835,7 @@
         "x-scheme-handler{SLASH}notebook-windows",
         "x-scheme-handler{SLASH}notion",
         "x-scheme-handler{SLASH}obsidian",
+        "x-scheme-handler{SLASH}ok",
         "x-scheme-handler{SLASH}onekey-wallet",
         "x-scheme-handler{SLASH}oo-office",
         "x-scheme-handler{SLASH}opds",
