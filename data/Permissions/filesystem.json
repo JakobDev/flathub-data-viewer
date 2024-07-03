@@ -121,6 +121,7 @@
         "com.jpexs.decompiler.flash",
         "com.librumreader.librum",
         "com.logseq.Logseq",
+        "com.lynnmichaelmartin.TimeTracker",
         "com.mattermost.Desktop",
         "com.mongodb.Compass",
         "com.nickgirga.webready",

@@ -1002,6 +1002,7 @@
     "org.freedesktop.LinuxAudio.Plugins.reMID-lv2",
     "org.freedesktop.LinuxAudio.Plugins.setBfree",
     "org.freedesktop.LinuxAudio.Plugins.swh",
+    "org.freedesktop.Platform.VulkanLayer.vkBasalt",
     "org.freedesktop.Sdk.Extension.dmd",
     "org.freedesktop.Sdk.Extension.dotnet6",
     "org.freedesktop.Sdk.Extension.freepascal",
