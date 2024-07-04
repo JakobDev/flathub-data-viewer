@@ -55,6 +55,9 @@
     ".nexuiz": [
         "com.alientrap.nexuiz-classic"
     ],
+    ".alpineclient": [
+        "com.alpineclient.AlpineClient"
+    ],
     ".config/baidunetdisk": [
         "com.baidu.NetDisk"
     ],

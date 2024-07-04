@@ -1,4 +1,5 @@
 [
+    "io.github.sigmasd.share",
     "uk.org.zint.zint-qt",
     "vn.hoabinh.quan.CoBang"
 ]

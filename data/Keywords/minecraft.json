@@ -1,4 +1,5 @@
 [
+    "com.alpineclient.AlpineClient",
     "com.modrinth.ModrinthApp",
     "dev.mrquantumoff.mcmodpackmanager",
     "net.labymod.LabyMod",

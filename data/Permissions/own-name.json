@@ -224,9 +224,6 @@
     "org.mpris.mediaplayer2.noson.*": [
         "io.github.janbar.noson"
     ],
-    "org.mpris.mediaplayer2.kotatogram": [
-        "io.github.kotatogram"
-    ],
     "org.gnome.gimagereader.*": [
         "io.github.manisandro.gImageReader"
     ],
