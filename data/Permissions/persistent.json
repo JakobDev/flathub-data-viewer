@@ -386,7 +386,6 @@
     ],
     ".sword": [
         "info.bibletime.BibleTime",
-        "org.homelinuxserver.vance.biblereader",
         "org.xiphos.Xiphos"
     ],
     ".bibletime": [
