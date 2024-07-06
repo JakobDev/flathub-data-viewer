@@ -12,5 +12,6 @@
     "org.hdfgroup.HDFView",
     "org.jreleaser.cli",
     "org.omegat.OmegaT",
+    "org.texstudio.TeXstudio",
     "uk.co.electronstudio.ComicReaderUltimate"
 ]

@@ -3635,6 +3635,11 @@
     "~/Gameeky:create": [
         "dev.tchx84.Gameeky"
     ],
+    "xdg-run/speech-dispatcher": [
+        "dev.vencord.Vesktop",
+        "org.godotengine.Godot",
+        "org.godotengine.GodotSharp"
+    ],
     "~/.wallpaperdownloader:create": [
         "es.estoes.wallpaperDownloader"
     ],
@@ -4312,10 +4317,6 @@
     ],
     "xdg-public-share:ro": [
         "org.gnunet.Messenger"
-    ],
-    "xdg-run/speech-dispatcher": [
-        "org.godotengine.Godot",
-        "org.godotengine.GodotSharp"
     ],
     "~/gPodder": [
         "org.gpodder.gpodder-adaptive"
