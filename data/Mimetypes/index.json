@@ -158,6 +158,7 @@
         "application{SLASH}vnd.drawpile.recording",
         "application{SLASH}vnd.efi.iso",
         "application{SLASH}vnd.enve-project",
+        "application{SLASH}vnd.espass-espass+zip",
         "application{SLASH}vnd.etsi.asic-e+zip",
         "application{SLASH}vnd.etsi.asic-s+zip",
         "application{SLASH}vnd.fastcopy-disk-image",
