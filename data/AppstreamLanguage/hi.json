@@ -58,6 +58,7 @@
     "io.gitlab.idevecore.Pomodoro",
     "io.gitlab.news_flash.NewsFlash",
     "io.missioncenter.MissionCenter",
+    "it.mijorus.collector",
     "it.mijorus.gearlever",
     "me.sanchezrodriguez.passes",
     "net.codelogistics.webapps",
@@ -155,5 +156,6 @@
     "org.x.Warpinator",
     "org.zrythm.Zrythm",
     "page.kramo.Cartridges",
-    "se.sjoerd.Graphs"
+    "se.sjoerd.Graphs",
+    "sm.puri.Chatty"
 ]
