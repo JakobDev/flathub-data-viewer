@@ -3725,6 +3725,9 @@
         "io.github.bothlab.pomidaq",
         "org.libvips.vipsdisp"
     ],
+    "~/.config/pipewire:ro": [
+        "io.github.dweymouth.supersonic"
+    ],
     "~/.config/wireplumber": [
         "io.github.dyegoaurelio.simple-wireplumber-gui"
     ],

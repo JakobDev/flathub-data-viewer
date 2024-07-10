@@ -7,9 +7,16 @@
         "io.mrarm.mcpelauncher",
         "io.qt.QtCreator",
         "net.jami.Jami",
+        "org.kde.akregator",
+        "org.kde.angelfish",
         "org.kde.arianna",
+        "org.kde.digikam",
+        "org.kde.falkon",
+        "org.kde.kalgebra",
         "org.kde.kontact",
+        "org.kde.parley",
         "org.kde.skanpage",
+        "org.kde.tokodon",
         "org.zealdocs.Zeal"
     ],
     "5.15-23.08": [
@@ -48,13 +55,6 @@
         "io.qt.qtdesignstudio",
         "org.fcitx.Fcitx5",
         "org.jacktrip.JackTrip",
-        "org.kde.akregator",
-        "org.kde.angelfish",
-        "org.kde.digikam",
-        "org.kde.falkon",
-        "org.kde.kalgebra",
-        "org.kde.parley",
-        "org.kde.tokodon",
         "org.previewqt.PreviewQt"
     ],
     "5.15": [

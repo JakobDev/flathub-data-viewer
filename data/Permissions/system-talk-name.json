@@ -223,6 +223,9 @@
         "sh.ppy.osu",
         "tv.kodi.Kodi"
     ],
+    "org.freedesktop.avahi.*": [
+        "com.github.KRTirtho.Spotube"
+    ],
     "org.freedesktop.accounts": [
         "com.github.childishgiant.mixer",
         "com.github.matfantinel.reminduck",
