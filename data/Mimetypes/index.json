@@ -1961,6 +1961,7 @@
         "x-scheme-handler{SLASH}xmind",
         "x-scheme-handler{SLASH}xmind-zen",
         "x-scheme-handler{SLASH}xmpp",
+        "x-scheme-handler{SLASH}yandexmusic",
         "x-scheme-handler{SLASH}zoommtg",
         "x-scheme-handler{SLASH}zoomphonecall",
         "x-scheme-handler{SLASH}zoomus",

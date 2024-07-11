@@ -957,6 +957,7 @@
         "io.lmms.LMMS",
         "io.mgba.mGBA",
         "io.mrarm.mcpelauncher",
+        "io.ossia.score",
         "io.photoflare.photoflare",
         "io.qt.Designer",
         "io.qt.Linguist",
@@ -1579,6 +1580,7 @@
         "io.liri.Text",
         "io.mgba.mGBA",
         "io.neovim.nvim",
+        "io.ossia.score",
         "io.posidon.Paper",
         "io.qt.QtCreator",
         "io.qt.qtdesignstudio",
@@ -2247,6 +2249,7 @@
         "io.gitlab.librewolf-community",
         "io.jamulus.Jamulus",
         "io.lmms.LMMS",
+        "io.ossia.score",
         "io.wavebox.Wavebox",
         "it.mijorus.whisper",
         "net.biniou.LeBiniou",
@@ -3045,6 +3048,12 @@
         "com.calibre_ebook.calibre",
         "org.kde.gwenview"
     ],
+    "xdg-run/speech-dispatcher": [
+        "com.discordapp.Discord",
+        "dev.vencord.Vesktop",
+        "org.godotengine.Godot",
+        "org.godotengine.GodotSharp"
+    ],
     "/tmp": [
         "com.dropbox.Client",
         "com.elsevier.MendeleyDesktop",
@@ -3634,11 +3643,6 @@
     ],
     "~/Gameeky:create": [
         "dev.tchx84.Gameeky"
-    ],
-    "xdg-run/speech-dispatcher": [
-        "dev.vencord.Vesktop",
-        "org.godotengine.Godot",
-        "org.godotengine.GodotSharp"
     ],
     "~/.wallpaperdownloader:create": [
         "es.estoes.wallpaperDownloader"
@@ -4291,6 +4295,9 @@
     ],
     "~/.local/share/TpLogger": [
         "org.gnome.Polari"
+    ],
+    "xdg-pictures/Screenshots:create": [
+        "org.gnome.Showtime"
     ],
     "xdg-videos/Camera:create": [
         "org.gnome.Snapshot"

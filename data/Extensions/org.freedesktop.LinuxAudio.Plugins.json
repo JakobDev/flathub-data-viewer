@@ -13,6 +13,7 @@
     "io.github.muse_sequencer.Muse",
     "io.github.pd_l2ork.Pd_L2Ork",
     "io.lmms.LMMS",
+    "io.ossia.score",
     "net.purrdata.PurrData",
     "org.ardour.Ardour",
     "org.audacityteam.Audacity",

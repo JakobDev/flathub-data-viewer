@@ -26,6 +26,7 @@
     "org.gnome.Builder",
     "org.gnome.Fractal",
     "org.gnome.Loupe",
+    "org.gnome.Showtime",
     "org.jellyfin.JellyfinServer",
     "org.kde.umbrello",
     "org.openfodder.OpenFodder",

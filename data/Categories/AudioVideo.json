@@ -157,6 +157,7 @@
     "io.jamulus.Jamulus",
     "io.lmms.LMMS",
     "io.mpv.Mpv",
+    "io.ossia.score",
     "io.otsaloma.gaupol",
     "io.sourceforge.qoobar.Qoobar",
     "me.timschneeberger.jdsp4linux",
