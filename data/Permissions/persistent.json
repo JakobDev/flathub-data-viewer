@@ -767,6 +767,9 @@
         "org.syphon.Syphon",
         "ru.proninyaroslav.libretrack"
     ],
+    ".TeXmacs": [
+        "org.texmacs.TeXmacs"
+    ],
     "vnc": [
         "org.tigervnc.vncviewer"
     ],

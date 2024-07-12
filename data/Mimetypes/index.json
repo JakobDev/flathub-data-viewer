@@ -1544,6 +1544,8 @@
         "text{SLASH}x-subviewer",
         "text{SLASH}x-tcl",
         "text{SLASH}x-tex",
+        "text{SLASH}x-texmacs.doc",
+        "text{SLASH}x-texmacs.sty",
         "text{SLASH}x-tmplayer",
         "text{SLASH}x-tmplayer+",
         "text{SLASH}x-uri",

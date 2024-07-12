@@ -3,6 +3,7 @@
     "com.belmoussaoui.Authenticator",
     "io.bassi.Amberol",
     "org.gnome.ColorViewer",
+    "org.gnome.NetworkDisplays",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",

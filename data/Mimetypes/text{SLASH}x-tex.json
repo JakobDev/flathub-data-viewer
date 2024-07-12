@@ -6,6 +6,7 @@
     "org.cvfosammmm.Setzer",
     "org.gnu.emacs",
     "org.kde.kile",
+    "org.texmacs.TeXmacs",
     "org.texstudio.TeXstudio",
     "org.tug.texworks",
     "org.vim.Vim"

@@ -52,6 +52,7 @@
     "org.kde.kwrite",
     "org.kde.okular",
     "org.scintilla.SciTE",
+    "org.texmacs.TeXmacs",
     "org.vim.Vim",
     "org.xfce.mousepad",
     "org.zotero.Zotero",

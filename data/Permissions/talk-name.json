@@ -833,6 +833,7 @@
         "org.svxlink.Qtel",
         "org.swi_prolog.swipl",
         "org.telesculptor.TeleSculptor",
+        "org.texmacs.TeXmacs",
         "org.texstudio.TeXstudio",
         "org.thentrythis.Samplebrain",
         "org.tomviz.Tomviz",
@@ -1440,6 +1441,7 @@
         "org.svxlink.Qtel",
         "org.swi_prolog.swipl",
         "org.telesculptor.TeleSculptor",
+        "org.texmacs.TeXmacs",
         "org.texstudio.TeXstudio",
         "org.thentrythis.Samplebrain",
         "org.tordini.flavio.Minitube",
@@ -2026,6 +2028,7 @@
         "org.svxlink.Qtel",
         "org.swi_prolog.swipl",
         "org.telesculptor.TeleSculptor",
+        "org.texmacs.TeXmacs",
         "org.texstudio.TeXstudio",
         "org.thentrythis.Samplebrain",
         "org.tordini.flavio.Minitube",
@@ -2840,7 +2843,6 @@
         "org.videolan.VLC"
     ],
     "ca.desrt.dconf": [
-        "ca._0ldsk00l.Nestopia",
         "ca.desrt.dconf-editor",
         "com.brave.Browser",
         "com.github.Qv2ray",
@@ -2860,11 +2862,8 @@
         "io.github.pantheon_tweaks.pantheon-tweaks",
         "io.github.vikdevelop.SaveDesktop",
         "net.christianbeier.Gromit-MPX",
-        "org.freac.freac",
-        "org.gabmus.hydrapaper",
         "org.gabmus.unifydmin",
         "org.gnome.Boxes",
-        "org.laptop.TurtleArtActivity",
         "org.remmina.Remmina",
         "ru.yandex.Browser"
     ],

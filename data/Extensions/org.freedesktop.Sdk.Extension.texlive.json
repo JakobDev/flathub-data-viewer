@@ -12,6 +12,7 @@
     "org.lamport.tla.toolbox",
     "org.lyx.LyX",
     "org.otfried.Ipe",
+    "org.texmacs.TeXmacs",
     "org.texstudio.TeXstudio",
     "org.tug.texworks",
     "org.zim_wiki.Zim"

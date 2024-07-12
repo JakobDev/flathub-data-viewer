@@ -1328,6 +1328,7 @@
         "org.svxlink.Qtel",
         "org.swi_prolog.swipl",
         "org.telesculptor.TeleSculptor",
+        "org.texmacs.TeXmacs",
         "org.texstudio.TeXstudio",
         "org.thentrythis.Samplebrain",
         "org.tomviz.Tomviz",
@@ -1968,6 +1969,7 @@
         "org.pwsafe.pwsafe",
         "org.sdrangel.SDRangel",
         "org.soapui.SoapUI",
+        "org.texmacs.TeXmacs",
         "org.winehq.Wine",
         "org.xnec2c.Xnec2c",
         "org.zaproxy.ZAP",
@@ -2347,7 +2349,6 @@
         "xyz.parlatype.Parlatype"
     ],
     "xdg-run/dconf": [
-        "ca._0ldsk00l.Nestopia",
         "ca.desrt.dconf-editor",
         "com.brave.Browser",
         "com.github.Qv2ray",
@@ -2370,37 +2371,8 @@
         "io.liri.Calculator",
         "net.christianbeier.Gromit-MPX",
         "org.eclipse.iot.fourdiac.Ide",
-        "org.freac.freac",
-        "org.gabmus.hydrapaper",
         "org.gabmus.unifydmin",
         "org.gnome.Boxes",
-        "org.laptop.TurtleArtActivity",
-        "ru.yandex.Browser"
-    ],
-    "~/.config/dconf:ro": [
-        "ca._0ldsk00l.Nestopia",
-        "com.brave.Browser",
-        "com.github.Qv2ray",
-        "com.github.calo001.fondo",
-        "com.github.xournalpp.xournalpp",
-        "com.google.Chrome",
-        "com.google.ChromeDev",
-        "com.hack_computer.Clubhouse",
-        "com.ktechpit.wonderwall",
-        "com.microsoft.Edge",
-        "com.opera.Opera",
-        "com.vivaldi.Vivaldi",
-        "de.rwth_aachen.ient.RDPlot",
-        "in.bharatkalluri.splash",
-        "io.botfather.Botfather",
-        "io.frama.tractor.carburetor",
-        "io.liri.Calculator",
-        "net.christianbeier.Gromit-MPX",
-        "org.freac.freac",
-        "org.gabmus.hydrapaper",
-        "org.gabmus.unifydmin",
-        "org.gnome.Boxes",
-        "org.laptop.TurtleArtActivity",
         "ru.yandex.Browser"
     ],
     "/run/udev:ro": [
@@ -2984,6 +2956,29 @@
         "org.qutebrowser.qutebrowser",
         "ru.yandex.Browser",
         "se.cendio.tlclient"
+    ],
+    "~/.config/dconf:ro": [
+        "com.brave.Browser",
+        "com.github.Qv2ray",
+        "com.github.calo001.fondo",
+        "com.github.xournalpp.xournalpp",
+        "com.google.Chrome",
+        "com.google.ChromeDev",
+        "com.hack_computer.Clubhouse",
+        "com.ktechpit.wonderwall",
+        "com.microsoft.Edge",
+        "com.opera.Opera",
+        "com.vivaldi.Vivaldi",
+        "de.rwth_aachen.ient.RDPlot",
+        "in.bharatkalluri.splash",
+        "io.botfather.Botfather",
+        "io.frama.tractor.carburetor",
+        "io.liri.Calculator",
+        "net.christianbeier.Gromit-MPX",
+        "org.gabmus.hydrapaper",
+        "org.gabmus.unifydmin",
+        "org.gnome.Boxes",
+        "ru.yandex.Browser"
     ],
     "~/.local/share/icons:create": [
         "com.brave.Browser",
@@ -4232,9 +4227,6 @@
     "xdg-config/fontconfig": [
         "org.gabmus.gfeeds",
         "org.gnome.FontManager"
-    ],
-    "/usr/share/gnome:ro": [
-        "org.gabmus.hydrapaper"
     ],
     "~/.config/sway/config": [
         "org.gabmus.hydrapaper"
