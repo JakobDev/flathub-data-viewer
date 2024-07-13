@@ -613,7 +613,6 @@
         "net.blix.BlueMail",
         "net.blockbench.Blockbench",
         "net.filebot.FileBot",
-        "net.jami.Jami",
         "net.kvirc.KVIrc",
         "net.mkiol.Jupii",
         "net.mkiol.SpeechNote",
@@ -985,7 +984,6 @@
         "net.fasterland.converseen",
         "net.fsuae.FS-UAE",
         "net.granjow.slowmovideo",
-        "net.jami.Jami",
         "net.jammr.jammr",
         "net.kuribo64.melonDS",
         "net.kvirc.KVIrc",
@@ -3617,6 +3615,9 @@
     "/run/tailscale:ro": [
         "dev.deedles.Trayscale",
         "org.fkoehler.KTailctl"
+    ],
+    "xdg-config/cosmic:ro": [
+        "dev.edfloreshz.Tasks"
     ],
     "~/hdos:create": [
         "dev.hdos.HDOS"

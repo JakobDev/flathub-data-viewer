@@ -1,5 +1,4 @@
 [
     "chat.simplex.simplex",
-    "im.pidgin.Pidgin",
-    "net.jami.Jami"
+    "im.pidgin.Pidgin"
 ]

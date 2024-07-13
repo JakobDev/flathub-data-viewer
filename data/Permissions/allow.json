@@ -119,7 +119,6 @@
         "com.github.Matoking.protontricks",
         "com.usebottles.bottles",
         "com.valvesoftware.Steam",
-        "net.jami.Jami",
         "ru.linux_gaming.PortProton"
     ],
     "canbus": [

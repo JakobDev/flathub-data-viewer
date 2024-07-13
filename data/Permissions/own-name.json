@@ -254,6 +254,9 @@
     "io.gitlab.librewolf.*": [
         "io.gitlab.librewolf-community"
     ],
+    "org.mpris.mediaplayer2.newsflash": [
+        "io.gitlab.news_flash.NewsFlash"
+    ],
     "org.mpris.mediaplayer2.monophony": [
         "io.gitlab.zehkira.Monophony"
     ],
@@ -262,9 +265,6 @@
     ],
     "org.mpris.mediaplayer2.karaokemugen.*": [
         "moe.karaokes.mugen"
-    ],
-    "cx.ring.ring": [
-        "net.jami.Jami"
     ],
     "org.mpris.mediaplayer2.bible": [
         "net.lugsole.bible_gui"
