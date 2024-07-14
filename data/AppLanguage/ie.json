@@ -1,5 +1,6 @@
 [
     "org.exaile.Exaile",
+    "org.gnome.Epiphany",
     "org.gnome.Rhythmbox3",
     "org.gnome.Totem",
     "org.gtkhash.gtkhash",

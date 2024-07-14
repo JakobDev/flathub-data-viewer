@@ -1,5 +1,6 @@
 [
     "org.aegisub.Aegisub",
+    "org.bunkus.mkvtoolnix-gui",
     "org.musescore.MuseScore",
     "org.widelands.Widelands"
 ]

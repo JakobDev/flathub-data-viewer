@@ -3,6 +3,7 @@
         "org.sugarlabs.AbacusActivity",
         "org.sugarlabs.Chart",
         "org.sugarlabs.Chess",
+        "org.sugarlabs.ColorDeducto",
         "org.sugarlabs.Dimensions",
         "org.sugarlabs.Finance",
         "org.sugarlabs.FotoToon",
@@ -24,8 +25,5 @@
         "org.sugarlabs.SwiftFeet",
         "org.sugarlabs.TurtlePondActivity",
         "org.sugarlabs.Words"
-    ],
-    "23.06": [
-        "org.sugarlabs.ColorDeducto"
     ]
 }

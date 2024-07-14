@@ -1,5 +1,6 @@
 [
     "app.bbsync.BlackboardSync",
+    "app.cantara.Cantara",
     "app.devsuite.Manuals",
     "app.devsuite.Ptyxis",
     "app.devsuite.Schemes",

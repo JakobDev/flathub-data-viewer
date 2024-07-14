@@ -1,6 +1,7 @@
 [
     "net.supertuxkart.SuperTuxKart",
     "org.gimp.GIMP",
+    "org.gnome.Epiphany",
     "org.gnome.Rhythmbox3",
     "org.gnome.five-or-more",
     "org.gnome.seahorse.Application",

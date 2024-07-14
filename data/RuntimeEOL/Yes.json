@@ -1,6 +1,5 @@
 [
     "app.bluebubbles.BlueBubbles",
-    "app.cantara.Cantara",
     "app.getspace.Space",
     "app.midterm.MidtermDesktop",
     "app.riftshare.RiftShare",
@@ -388,7 +387,6 @@
     "org.speed_dreams.SpeedDreams",
     "org.squeakland.Etoys",
     "org.subtitld.Subtitld",
-    "org.sugarlabs.ColorDeducto",
     "org.sugarlabs.MusicBlocks",
     "org.syphon.Syphon",
     "org.telesculptor.TeleSculptor",

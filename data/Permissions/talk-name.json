@@ -3557,7 +3557,9 @@
         "sm.puri.Chatty"
     ],
     "com.system76.cosmicsettingsdaemon": [
-        "dev.edfloreshz.Tasks"
+        "dev.edfloreshz.Tasks",
+        "dev.mariinkys.Oboete",
+        "dev.mariinkys.StarryDex"
     ],
     "org.freedesktop.portal.filechooser": [
         "eu.ad5001.LogarithmPlotter"

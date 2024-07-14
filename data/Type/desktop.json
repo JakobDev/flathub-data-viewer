@@ -1,7 +1,6 @@
 [
     "app.authpass.AuthPass",
     "app.bluebubbles.BlueBubbles",
-    "app.cantara.Cantara",
     "app.feeddeck.feeddeck",
     "app.getclipboard.Clipboard",
     "app.getspace.Space",
@@ -297,7 +296,6 @@
     "com.steamgriddb.SGDBoop",
     "com.stepmania.StepMania",
     "com.sublimetext.three",
-    "com.sudovanilla.penpot-desktop",
     "com.synology.CloudStationBackup",
     "com.synology.SynologyAssistant",
     "com.system76.Popsicle",

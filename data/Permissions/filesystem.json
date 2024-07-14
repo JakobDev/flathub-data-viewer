@@ -338,6 +338,7 @@
         "org.ardour.Ardour",
         "org.arrl.trustedqsl",
         "org.asamk.SignalCli",
+        "org.b3log.siyuan",
         "org.bleachbit.BleachBit",
         "org.bzdev.CVRDecode",
         "org.chromium.Chromium",
@@ -3617,7 +3618,9 @@
         "org.fkoehler.KTailctl"
     ],
     "xdg-config/cosmic:ro": [
-        "dev.edfloreshz.Tasks"
+        "dev.edfloreshz.Tasks",
+        "dev.mariinkys.Oboete",
+        "dev.mariinkys.StarryDex"
     ],
     "~/hdos:create": [
         "dev.hdos.HDOS"
