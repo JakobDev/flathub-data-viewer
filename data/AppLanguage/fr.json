@@ -24,6 +24,7 @@
     "de.manuel_kehl.go-for-it",
     "eu.nimmerfort.blackbody",
     "fr.fgrabenstaetter.DigitalAssets",
+    "fr.romainvigier.MetadataCleaner",
     "garden.turtle.Jellybean",
     "im.nheko.Nheko",
     "info.olasagasti.revelation",
@@ -78,6 +79,7 @@
     "org.gnome.Taquin",
     "org.gnome.Tau",
     "org.gnome.Totem",
+    "org.gnome.World.Secrets",
     "org.gnome.design.AppIconPreview",
     "org.gnome.design.Contrast",
     "org.gnome.design.SymbolicPreview",
@@ -126,5 +128,6 @@
     "re.sonny.Commit",
     "ua.org.brezblock.q4wine",
     "xyz.eclipium.Hieroctive",
-    "xyz.eclipium.TetraSwap"
+    "xyz.eclipium.TetraSwap",
+    "xyz.safeworlds.hiit"
 ]

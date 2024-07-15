@@ -5,6 +5,7 @@
     "com.github.ztefn.haguichi",
     "com.remnantsoftheprecursors.ROTP",
     "de.manuel_kehl.go-for-it",
+    "fr.romainvigier.MetadataCleaner",
     "io.github.Hexchat",
     "io.github.fkinoshita.Telegraph",
     "io.github.pragha_music_player.pragha",
@@ -26,6 +27,7 @@
     "org.gnome.Rhythmbox3",
     "org.gnome.Taquin",
     "org.gnome.Totem",
+    "org.gnome.World.Secrets",
     "org.gnome.five-or-more",
     "org.gnome.seahorse.Application",
     "org.gramps_project.Gramps",
@@ -35,5 +37,6 @@
     "org.sugarlabs.Memorize",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Speak",
-    "org.widelands.Widelands"
+    "org.widelands.Widelands",
+    "xyz.safeworlds.hiit"
 ]

@@ -1,5 +1,6 @@
 [
     "com.github.artemanufrij.playmymusic",
+    "fr.romainvigier.MetadataCleaner",
     "io.github.Hexchat",
     "org.gnome.Epiphany",
     "org.gnome.Quadrapassel",

@@ -1,6 +1,7 @@
 [
     "com.belmoussaoui.Authenticator",
     "com.tux4kids.tuxtype",
+    "fr.romainvigier.MetadataCleaner",
     "net.minetest.Minetest",
     "net.supertuxkart.SuperTuxKart",
     "org.gimp.GIMP",
@@ -9,6 +10,7 @@
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",
     "org.gnome.Totem",
+    "org.gnome.World.Secrets",
     "org.gnome.five-or-more",
     "org.gnome.frogr",
     "org.gnome.seahorse.Application",

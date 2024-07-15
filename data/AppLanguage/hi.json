@@ -2,6 +2,7 @@
     "com.endlessm.photos",
     "com.github.tenderowl.frog",
     "com.tux4kids.tuxtype",
+    "fr.romainvigier.MetadataCleaner",
     "io.github.Hexchat",
     "io.gitlab.idevecore.Pomodoro",
     "io.gitlab.news_flash.NewsFlash",
@@ -13,6 +14,7 @@
     "org.gnome.Rhythmbox3",
     "org.gnome.Solanum",
     "org.gnome.Totem",
+    "org.gnome.World.Secrets",
     "org.gnome.five-or-more",
     "org.gnome.seahorse.Application",
     "org.stellarium.Stellarium",
@@ -35,5 +37,6 @@
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
     "org.widelands.Widelands",
-    "org.x.Warpinator"
+    "org.x.Warpinator",
+    "xyz.safeworlds.hiit"
 ]

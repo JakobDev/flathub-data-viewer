@@ -168,5 +168,6 @@
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.xfce.mousepad",
-    "org.xfce.ristretto"
+    "org.xfce.ristretto",
+    "xyz.safeworlds.hiit"
 ]

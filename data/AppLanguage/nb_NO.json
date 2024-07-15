@@ -2,9 +2,11 @@
     "com.github.babluboy.bookworm",
     "com.github.bajoja.indicator-kdeconnect",
     "com.github.elth0r0.iqpuzzle",
+    "fr.romainvigier.MetadataCleaner",
     "io.github.giantpinkrobots.varia",
     "io.github.jhaygood86.mauborgne",
     "org.entangle_photo.Manager",
     "org.gnome.Eolie",
-    "org.gtkhash.gtkhash"
+    "org.gtkhash.gtkhash",
+    "xyz.safeworlds.hiit"
 ]

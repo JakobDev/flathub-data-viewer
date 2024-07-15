@@ -7,6 +7,7 @@
     "com.github.tenderowl.frog",
     "com.tux4kids.tuxtype",
     "de.haeckerfelix.Shortwave",
+    "fr.romainvigier.MetadataCleaner",
     "im.nheko.Nheko",
     "info.olasagasti.revelation",
     "io.bassi.Amberol",
@@ -34,6 +35,7 @@
     "org.gnome.Solanum",
     "org.gnome.Taquin",
     "org.gnome.Totem",
+    "org.gnome.World.Secrets",
     "org.gnome.design.AppIconPreview",
     "org.gnome.design.Contrast",
     "org.gnome.design.SymbolicPreview",
@@ -52,5 +54,6 @@
     "org.viking.Viking",
     "org.widelands.Widelands",
     "org.x.Warpinator",
-    "org.zim_wiki.Zim"
+    "org.zim_wiki.Zim",
+    "xyz.safeworlds.hiit"
 ]

@@ -1,5 +1,6 @@
 [
     "com.tux4kids.tuxtype",
+    "fr.romainvigier.MetadataCleaner",
     "org.gimp.GIMP",
     "org.gnome.ColorViewer",
     "org.gnome.Epiphany",

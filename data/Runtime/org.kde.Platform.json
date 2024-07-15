@@ -252,7 +252,6 @@
         "io.github.chris2511.xca",
         "io.github.cudatext.CudaText-Qt",
         "io.github.glaumar.QRookie",
-        "io.github.kovzol.bibref",
         "io.github.mak448a.QTCord",
         "io.github.martinrotter.rssguard",
         "io.github.martinrotter.rssguardlite",
@@ -457,6 +456,7 @@
         "io.github.hydrusnetwork.hydrus",
         "io.github.hypengw.Qcm",
         "io.github.jordanl2.ModularCalculator",
+        "io.github.kovzol.bibref",
         "io.github.libvibrant.vibrantLinux",
         "io.github.lime3ds.Lime3DS",
         "io.github.loot.loot",
@@ -638,6 +638,7 @@
         "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
+        "page.codeberg.lazyt.ubpm",
         "space.nouspiro.tenmon"
     ],
     "5.14": [
@@ -661,8 +662,7 @@
         "io.github.koromelodev.mindmate",
         "net.retrodeck.retrodeck",
         "org.jaspstats.JASP",
-        "org.onionshare.OnionShare",
-        "page.codeberg.lazyt.ubpm"
+        "org.onionshare.OnionShare"
     ],
     "6.2": [
         "com.github.giacomogroppi.writernote-qt",

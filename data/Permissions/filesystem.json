@@ -398,7 +398,6 @@
         "org.jamovi.jamovi",
         "org.jaspstats.JASP",
         "org.jflap.JFLAP",
-        "org.js.nuclear.Nuclear",
         "org.jupyter.JupyterLab",
         "org.kde.digikam",
         "org.kde.dolphin",
@@ -1796,6 +1795,7 @@
         "org.gnome.Music",
         "org.gnome.Rhythmbox3",
         "org.gnome.SoundJuicer",
+        "org.js.nuclear.Nuclear",
         "org.kde.elisa",
         "org.kde.juk",
         "org.kde.kid3",
@@ -2389,6 +2389,7 @@
         "org.expresslrs.ExpressLRSConfigurator",
         "org.libretro.RetroArch",
         "org.mavlink.qgroundcontrol",
+        "page.codeberg.lazyt.ubpm",
         "tv.kodi.Kodi",
         "xyz.hyperplay.HyperPlay"
     ],
