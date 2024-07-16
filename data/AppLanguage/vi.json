@@ -1,5 +1,6 @@
 [
     "com.endlessm.photos",
+    "com.github.xournalpp.xournalpp",
     "de.haeckerfelix.Shortwave",
     "de.manuel_kehl.go-for-it",
     "io.github.Hexchat",
@@ -16,6 +17,7 @@
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",
+    "org.gnome.Shotwell",
     "org.gnome.Taquin",
     "org.gnome.Totem",
     "org.gnome.World.Secrets",

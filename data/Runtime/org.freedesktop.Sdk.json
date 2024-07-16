@@ -32,6 +32,7 @@
         "io.github.everestapi.Olympus",
         "io.github.sigmasd.IRust",
         "io.neovim.nvim",
+        "org.apache.netbeans",
         "org.flathub.flatpak-external-data-checker",
         "org.geany.Geany",
         "org.ghidra_sre.Ghidra",
@@ -61,7 +62,6 @@
         "io.gdevs.GDLauncher",
         "io.github.fralonra.WgShadertoy",
         "net.blix.BlueMail",
-        "org.apache.netbeans",
         "org.codeblocks.codeblocks",
         "org.scilab.Scilab"
     ],

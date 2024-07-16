@@ -1,4 +1,5 @@
 [
+    "com.github.xournalpp.xournalpp",
     "io.liri.Text",
     "net.supertuxkart.SuperTuxKart",
     "org.gimp.GIMP",
@@ -9,6 +10,7 @@
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",
+    "org.gnome.Shotwell",
     "org.gnome.Taquin",
     "org.gnome.Totem",
     "org.gnome.five-or-more",

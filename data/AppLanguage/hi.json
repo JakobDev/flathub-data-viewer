@@ -1,6 +1,7 @@
 [
     "com.endlessm.photos",
     "com.github.tenderowl.frog",
+    "com.github.xournalpp.xournalpp",
     "com.tux4kids.tuxtype",
     "fr.romainvigier.MetadataCleaner",
     "io.github.Hexchat",
@@ -12,6 +13,7 @@
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",
+    "org.gnome.Shotwell",
     "org.gnome.Solanum",
     "org.gnome.Totem",
     "org.gnome.World.Secrets",
