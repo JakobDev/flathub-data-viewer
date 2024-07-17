@@ -3277,7 +3277,8 @@
     "xdg-data/applications:create": [
         "com.github.donadigo.appeditor",
         "org.bluesabre.MenuLibre",
-        "page.codeberg.JakobDev.jdMinecraftLauncher"
+        "page.codeberg.JakobDev.jdMinecraftLauncher",
+        "page.codeberg.libre_menu_editor.LibreMenuEditor"
     ],
     "~/.lyrics": [
         "com.github.gmg137.netease-cloud-music-gtk"
@@ -3755,8 +3756,7 @@
         "io.github.everestapi.Olympus"
     ],
     "xdg-data/applications": [
-        "io.github.fabrialberio.pinapp",
-        "page.codeberg.libre_menu_editor.LibreMenuEditor"
+        "io.github.fabrialberio.pinapp"
     ],
     "/var/lib/snapd:ro": [
         "io.github.fabrialberio.pinapp",

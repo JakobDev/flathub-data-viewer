@@ -15,6 +15,7 @@
     "net.gwyddion.Gwyddion",
     "net.sourceforge.scidavis",
     "org.hdfgroup.HDFView",
+    "org.jaspstats.JASP",
     "org.kde.kgraphviewer",
     "org.kde.kst",
     "org.radare.iaito",

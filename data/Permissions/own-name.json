@@ -251,6 +251,9 @@
     "org.mpris.mediaplayer2.goodvibes": [
         "io.gitlab.Goodvibes"
     ],
+    "io.gitlab.firefox.*": [
+        "io.gitlab.librewolf-community"
+    ],
     "io.gitlab.librewolf.*": [
         "io.gitlab.librewolf-community"
     ],

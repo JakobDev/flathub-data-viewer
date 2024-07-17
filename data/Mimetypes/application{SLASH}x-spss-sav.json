@@ -1,4 +1,5 @@
 [
     "org.gnu.pspp",
-    "org.jamovi.jamovi"
+    "org.jamovi.jamovi",
+    "org.jaspstats.JASP"
 ]

@@ -20,6 +20,7 @@
     "org.exaile.Exaile",
     "org.freedesktop.appstream.cli",
     "org.gimp.GIMP",
+    "org.gnome.Calls",
     "org.gnome.ColorViewer",
     "org.gnome.EasyTAG",
     "org.gnome.Epiphany",

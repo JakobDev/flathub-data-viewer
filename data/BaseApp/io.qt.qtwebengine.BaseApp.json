@@ -6,6 +6,7 @@
         "io.gpt4all.gpt4all",
         "io.mrarm.mcpelauncher",
         "io.qt.QtCreator",
+        "org.jaspstats.JASP",
         "org.kde.akregator",
         "org.kde.angelfish",
         "org.kde.arianna",
@@ -67,8 +68,5 @@
     "5.15-22.08": [
         "io.sourceforge.chart_geany.chart-geany",
         "org.rolisteam.rolisteam"
-    ],
-    "6.5": [
-        "org.jaspstats.JASP"
     ]
 }

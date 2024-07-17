@@ -513,6 +513,7 @@
         "org.gottcode.Simsu",
         "org.gottcode.Tanglet",
         "org.gottcode.Tetzle",
+        "org.jaspstats.JASP",
         "org.kde.akregator",
         "org.kde.alligator",
         "org.kde.angelfish",
@@ -676,7 +677,6 @@
         "io.github.ddanilov.soundscape",
         "io.github.koromelodev.mindmate",
         "net.retrodeck.retrodeck",
-        "org.jaspstats.JASP",
         "org.onionshare.OnionShare"
     ],
     "6.2": [
