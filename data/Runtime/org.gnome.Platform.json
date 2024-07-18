@@ -217,6 +217,7 @@
         "io.github.Foldex.AdwSteamGtk",
         "io.github.Qalculate",
         "io.github.Rirusha.Cassette",
+        "io.github.Samuel_Schlemper_Schlemuel.SingWriter",
         "io.github.Soundux",
         "io.github.TanmayPatil105.verse",
         "io.github.TheWisker.Cavasik",
@@ -232,6 +233,7 @@
         "io.github.amit9838.mousam",
         "io.github.arunsivaramanneo.GPUViewer",
         "io.github.berarma.Oversteer",
+        "io.github.brunoanc.eternalmodmanager",
         "io.github.cboxdoerfer.FSearch",
         "io.github.celluloid_player.Celluloid",
         "io.github.cleomenezesjr.Escambo",
@@ -250,6 +252,7 @@
         "io.github.fizzyizzy05.binary",
         "io.github.flattool.Warehouse",
         "io.github.fsobolev.TimeSwitch",
+        "io.github.getnf.embellish",
         "io.github.giantpinkrobots.flatsweep",
         "io.github.giantpinkrobots.varia",
         "io.github.halfmexican.Mingle",
@@ -783,7 +786,6 @@
         "com.github.muriloventuroso.easyssh",
         "com.gitlab.maevemi.publictransport",
         "com.kavilgroup.gestimator",
-        "com.powerball253.eternalmodmanager",
         "com.steamdeckrepo.manager",
         "de.gunibert.Hackgregator",
         "de.tumexam.cli",
@@ -799,8 +801,13 @@
         "org.blackfennec.app",
         "org.gnome.Totem"
     ],
+    "3.38": [
+        "com.gigitux.youp",
+        "com.github.dawidd6.checksumo",
+        "com.github.labyrinth_team.labyrinth",
+        "org.synfig.SynfigStudio"
+    ],
     "40": [
-        "com.arteeh.Flasher",
         "com.github.alecaddd.sequeler",
         "com.github.appadeia.Taigo",
         "com.github.arshubham.gitignore",
@@ -811,12 +818,6 @@
         "io.github.lainsce.Quilter",
         "net.sourceforge.electrip.Electrip",
         "org.gnome.Eolie"
-    ],
-    "3.38": [
-        "com.gigitux.youp",
-        "com.github.dawidd6.checksumo",
-        "com.github.labyrinth_team.labyrinth",
-        "org.synfig.SynfigStudio"
     ],
     "3.36": [
         "com.github.bajoja.indicator-kdeconnect",

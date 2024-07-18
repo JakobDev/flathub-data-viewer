@@ -1,4 +1,5 @@
 [
     "io.gitlab.coolreader_ng.crqt-ng",
-    "org.kde.okular"
+    "org.kde.okular",
+    "rocks.koreader.KOReader"
 ]

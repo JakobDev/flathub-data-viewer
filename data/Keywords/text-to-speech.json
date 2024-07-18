@@ -1,4 +1,5 @@
 [
     "io.crow_translate.CrowTranslate",
-    "net.mkiol.SpeechNote"
+    "net.mkiol.SpeechNote",
+    "org.kde.CrowTranslate"
 ]

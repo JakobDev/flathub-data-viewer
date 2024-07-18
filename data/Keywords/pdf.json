@@ -13,5 +13,6 @@
     "org.gnome.Evince",
     "org.gnome.Papers",
     "org.pdfstitcher.pdfstitcher",
-    "org.verapdf.veraPDF"
+    "org.verapdf.veraPDF",
+    "rocks.koreader.KOReader"
 ]

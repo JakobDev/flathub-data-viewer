@@ -7,5 +7,6 @@
     "org.libvips.vipsdisp",
     "org.photoqt.PhotoQt",
     "org.previewqt.PreviewQt",
-    "org.qgis.qgis"
+    "org.qgis.qgis",
+    "rocks.koreader.KOReader"
 ]

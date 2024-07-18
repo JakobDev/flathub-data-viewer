@@ -392,6 +392,7 @@
         "org.manaplus.ManaPlus",
         "org.megaglest.MegaGlest",
         "org.megamek.MegaMek",
+        "org.metamuffin.hurrycurry.client",
         "org.nicotine_plus.Nicotine",
         "org.okstar.ok-msg",
         "org.openclonk.OpenClonk",

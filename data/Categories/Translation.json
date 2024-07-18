@@ -3,5 +3,6 @@
     "io.qt.Linguist",
     "net.poedit.Poedit",
     "org.gnome.Gtranslator",
+    "org.kde.CrowTranslate",
     "org.kde.lokalize"
 ]

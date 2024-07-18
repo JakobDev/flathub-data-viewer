@@ -7,5 +7,6 @@
     "net.christianbeier.MultiVNC",
     "org.gnome.Evince",
     "org.gnome.Papers",
-    "org.radare.iaito"
+    "org.radare.iaito",
+    "rocks.koreader.KOReader"
 ]

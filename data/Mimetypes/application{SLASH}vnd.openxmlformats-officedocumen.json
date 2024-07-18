@@ -5,5 +5,6 @@
     "io.gitlab.o20.word",
     "org.gnumeric.Gnumeric",
     "org.gottcode.FocusWriter",
-    "org.onlyoffice.desktopeditors"
+    "org.onlyoffice.desktopeditors",
+    "rocks.koreader.KOReader"
 ]

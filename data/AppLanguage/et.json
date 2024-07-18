@@ -1,8 +1,11 @@
 [
     "com.github.debauchee.barrier",
+    "com.github.unrud.VideoDownloader",
+    "com.github.unrud.djpdf",
     "im.nheko.Nheko",
     "info.olasagasti.revelation",
     "io.github.Hexchat",
+    "io.github.unrud.RecentFilter",
     "net.minetest.Minetest",
     "net.supertuxkart.SuperTuxKart",
     "org.exaile.Exaile",

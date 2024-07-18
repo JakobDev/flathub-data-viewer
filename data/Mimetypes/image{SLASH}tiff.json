@@ -45,5 +45,6 @@
     "org.photoqt.PhotoQt",
     "org.previewqt.PreviewQt",
     "org.qgis.qgis",
-    "org.xfce.ristretto"
+    "org.xfce.ristretto",
+    "rocks.koreader.KOReader"
 ]

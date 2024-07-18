@@ -439,6 +439,9 @@
     ".config/starfighter": [
         "io.github.pr_starfighter.starfighter"
     ],
+    ".signus": [
+        "io.github.signus_game.signus"
+    ],
     ".srb2": [
         "io.github.srb2.rphys",
         "org.srb2.SRB2",

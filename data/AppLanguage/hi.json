@@ -1,8 +1,10 @@
 [
     "com.endlessm.photos",
     "com.github.tenderowl.frog",
+    "com.github.unrud.VideoDownloader",
     "com.github.xournalpp.xournalpp",
     "com.tux4kids.tuxtype",
+    "dev.bragefuglseth.Keypunch",
     "fr.romainvigier.MetadataCleaner",
     "io.github.Hexchat",
     "io.gitlab.idevecore.Pomodoro",

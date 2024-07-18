@@ -4,5 +4,6 @@
     "com.yacreader.YACReader",
     "org.gnome.Evince",
     "org.gnome.Papers",
+    "rocks.koreader.KOReader",
     "uk.co.electronstudio.ComicReaderUltimate"
 ]

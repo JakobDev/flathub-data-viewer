@@ -1,5 +1,6 @@
 [
     "org.gnome.Evince",
     "org.gnome.Papers",
-    "org.kde.okular"
+    "org.kde.okular",
+    "rocks.koreader.KOReader"
 ]

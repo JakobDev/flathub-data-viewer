@@ -2,5 +2,6 @@
     "com.abisource.AbiWord",
     "io.github.nyre221.kiview",
     "io.gitlab.coolreader_ng.crqt-ng",
-    "org.onlyoffice.desktopeditors"
+    "org.onlyoffice.desktopeditors",
+    "rocks.koreader.KOReader"
 ]

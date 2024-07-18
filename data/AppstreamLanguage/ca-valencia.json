@@ -1,6 +1,7 @@
 [
     "im.kaidan.kaidan",
     "org.gnuhealth.mygnuhealth",
+    "org.kde.CrowTranslate",
     "org.kde.Ikona",
     "org.kde.SymbolEditor",
     "org.kde.akregator",

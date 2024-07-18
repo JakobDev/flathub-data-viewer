@@ -591,6 +591,7 @@
         "io.github.dvlv.boxbuddyrs",
         "io.github.fastrizwaan.WineZGUI",
         "io.github.gamingdoom.Datcord",
+        "io.github.getnf.embellish",
         "io.github.giantpinkrobots.varia",
         "io.github.hvdwofl.jExifToolGUI",
         "io.github.jacalz.rymdport",
@@ -1097,6 +1098,7 @@
         "org.hydrogenmusic.Hydrogen",
         "org.jacktrip.JackTrip",
         "org.jaspstats.JASP",
+        "org.kde.CrowTranslate",
         "org.kde.Ikona",
         "org.kde.SymbolEditor",
         "org.kde.akregator",
@@ -1547,6 +1549,7 @@
         "io.github.daviddesimone.opencloudsaves",
         "io.github.ddanilov.soundscape",
         "io.github.fralonra.WgShadertoy",
+        "io.github.georgewoodall82.jsymphonic",
         "io.github.giantpinkrobots.bootqt",
         "io.github.guillaumechereau.Goxel",
         "io.github.java_decompiler.jd-gui",
@@ -3781,6 +3784,10 @@
     "/tmp/open-in-default-browser": [
         "io.github.gamingdoom.Datcord"
     ],
+    "~/.local/share/fonts:create": [
+        "io.github.getnf.embellish",
+        "org.gustavoperedo.FontDownloader"
+    ],
     "~/Documents/Passy": [
         "io.github.glitterware.Passy"
     ],
@@ -4327,9 +4334,6 @@
         "org.gpodder.gpodder-adaptive"
     ],
     "/usr/share/fonts": [
-        "org.gustavoperedo.FontDownloader"
-    ],
-    "~/.local/share/fonts:create": [
         "org.gustavoperedo.FontDownloader"
     ],
     "~/Jellyfin Server Media:create": [

@@ -1,5 +1,6 @@
 [
     "com.zhqli.wikit",
     "dev.mufeed.Wordbook",
-    "io.github.xiaoyifang.goldendict_ng"
+    "io.github.xiaoyifang.goldendict_ng",
+    "rocks.koreader.KOReader"
 ]
