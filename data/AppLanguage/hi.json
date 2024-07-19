@@ -5,6 +5,7 @@
     "com.github.xournalpp.xournalpp",
     "com.tux4kids.tuxtype",
     "dev.bragefuglseth.Keypunch",
+    "dev.geopjr.Tuba",
     "fr.romainvigier.MetadataCleaner",
     "io.github.Hexchat",
     "io.gitlab.idevecore.Pomodoro",
@@ -41,7 +42,9 @@
     "org.sugarlabs.Speak",
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
+    "page.kramo.Cartridges",
     "xyz.safeworlds.hiit"
 ]

@@ -13,6 +13,7 @@
     "de.haeckerfelix.Shortwave",
     "de.manuel_kehl.go-for-it",
     "dev.bragefuglseth.Keypunch",
+    "dev.geopjr.Tuba",
     "fr.romainvigier.MetadataCleaner",
     "im.nheko.Nheko",
     "info.olasagasti.revelation",
@@ -41,6 +42,7 @@
     "org.gnome.EasyTAG",
     "org.gnome.Epiphany",
     "org.gnome.Hamster",
+    "org.gnome.Loupe",
     "org.gnome.NetworkDisplays",
     "org.gnome.OCRFeeder",
     "org.gnome.PowerStats",
@@ -82,10 +84,12 @@
     "org.sugarlabs.Speak",
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint",
     "org.viking.Viking",
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.zim_wiki.Zim",
+    "page.kramo.Cartridges",
     "re.sonny.Commit",
     "ua.org.brezblock.q4wine"
 ]

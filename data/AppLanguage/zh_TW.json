@@ -30,6 +30,7 @@
     "org.gnome.Epiphany",
     "org.gnome.FontManager",
     "org.gnome.Hamster",
+    "org.gnome.Loupe",
     "org.gnome.OCRFeeder",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
@@ -67,6 +68,7 @@
     "org.sugarlabs.Speak",
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.zim_wiki.Zim",
     "ua.org.brezblock.q4wine"

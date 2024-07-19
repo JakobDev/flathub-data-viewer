@@ -25,6 +25,7 @@
     "de.manuel_kehl.go-for-it",
     "de.z_ray.Facetracker",
     "dev.bragefuglseth.Keypunch",
+    "dev.geopjr.Tuba",
     "edu.stanford.Almond",
     "fr.romainvigier.MetadataCleaner",
     "im.bernard.Funkcio",
@@ -69,6 +70,7 @@
     "org.gnome.Epiphany",
     "org.gnome.FontManager",
     "org.gnome.Hamster",
+    "org.gnome.Loupe",
     "org.gnome.NetworkDisplays",
     "org.gnome.OCRFeeder",
     "org.gnome.PowerStats",
@@ -111,10 +113,12 @@
     "org.sugarlabs.Speak",
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint",
     "org.viking.Viking",
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.zim_wiki.Zim",
+    "page.kramo.Cartridges",
     "re.sonny.Commit",
     "ua.org.brezblock.q4wine"
 ]

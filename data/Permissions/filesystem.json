@@ -3961,6 +3961,9 @@
     "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Dark Forces/Game:ro": [
         "io.github.theforceengine.tfe"
     ],
+    "~/snap/steam/common/.local/share/Steam/steamapps/common/Dark Forces/Game:ro": [
+        "io.github.theforceengine.tfe"
+    ],
     "~/.var/app/com.valvesoftware.Steam/.local/share/Steam": [
         "io.github.tralph3.Steam_Metadata_Editor"
     ],

@@ -13,5 +13,6 @@
     "org.gnome.five-or-more",
     "org.gnome.seahorse.Application",
     "org.musescore.MuseScore",
-    "org.stellarium.Stellarium"
+    "org.stellarium.Stellarium",
+    "org.tuxpaint.Tuxpaint"
 ]

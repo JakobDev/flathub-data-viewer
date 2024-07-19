@@ -16,6 +16,7 @@
     "org.gnome.Calls",
     "org.gnome.Epiphany",
     "org.gnome.Hamster",
+    "org.gnome.Loupe",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",
@@ -27,5 +28,7 @@
     "org.gnome.seahorse.Application",
     "org.musescore.MuseScore",
     "org.stellarium.Stellarium",
-    "org.x.Warpinator"
+    "org.tuxpaint.Tuxpaint",
+    "org.x.Warpinator",
+    "page.kramo.Cartridges"
 ]

@@ -20,5 +20,6 @@
     "org.gnome.frogr",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
+    "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator"
 ]

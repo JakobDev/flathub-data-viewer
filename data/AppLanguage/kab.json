@@ -1,8 +1,10 @@
 [
     "org.gnome.Epiphany",
+    "org.gnome.Loupe",
     "org.gnome.Totem",
     "org.sugarlabs.Maze",
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator"
 ]

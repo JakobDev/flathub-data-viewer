@@ -15,6 +15,7 @@
     "com.tux4kids.tuxtype",
     "de.haeckerfelix.Shortwave",
     "de.manuel_kehl.go-for-it",
+    "dev.geopjr.Tuba",
     "fr.romainvigier.MetadataCleaner",
     "io.bassi.Amberol",
     "io.github.Hexchat",
@@ -46,6 +47,7 @@
     "org.gnome.Epiphany",
     "org.gnome.FontManager",
     "org.gnome.Hamster",
+    "org.gnome.Loupe",
     "org.gnome.NetworkDisplays",
     "org.gnome.OCRFeeder",
     "org.gnome.PowerStats",
@@ -75,8 +77,10 @@
     "org.stellarium.Stellarium",
     "org.sugarlabs.MusicKeyboard",
     "org.sugarlabs.Paint",
+    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.zim_wiki.Zim",
+    "page.kramo.Cartridges",
     "re.sonny.Commit"
 ]

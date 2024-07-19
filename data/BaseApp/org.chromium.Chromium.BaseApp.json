@@ -1,6 +1,7 @@
 {
     "23.08": [
         "com.brave.Browser",
+        "com.google.Chrome",
         "com.microsoft.Edge",
         "com.opera.Opera",
         "com.vivaldi.Vivaldi",
@@ -9,7 +10,6 @@
         "ru.yandex.Browser"
     ],
     "22.08": [
-        "com.google.Chrome",
         "com.google.ChromeDev",
         "com.microsoft.EdgeDev"
     ]

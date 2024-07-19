@@ -1,5 +1,6 @@
 [
     "fr.romainvigier.MetadataCleaner",
     "org.sugarlabs.Paint",
-    "org.sugarlabs.Words"
+    "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint"
 ]

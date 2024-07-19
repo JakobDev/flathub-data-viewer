@@ -47,8 +47,10 @@
     "org.sugarlabs.Paint",
     "org.sugarlabs.Pippy",
     "org.sugarlabs.Speak",
+    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.zim_wiki.Zim",
+    "page.kramo.Cartridges",
     "re.sonny.Commit"
 ]

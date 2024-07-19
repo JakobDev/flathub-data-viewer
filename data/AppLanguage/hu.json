@@ -9,6 +9,7 @@
     "com.tux4kids.tuxtype",
     "de.haeckerfelix.Shortwave",
     "dev.bragefuglseth.Keypunch",
+    "dev.geopjr.Tuba",
     "fr.romainvigier.MetadataCleaner",
     "im.nheko.Nheko",
     "io.bassi.Amberol",
@@ -31,6 +32,7 @@
     "org.gnome.Epiphany",
     "org.gnome.FontManager",
     "org.gnome.Hamster",
+    "org.gnome.Loupe",
     "org.gnome.NetworkDisplays",
     "org.gnome.OCRFeeder",
     "org.gnome.PowerStats",
@@ -64,9 +66,11 @@
     "org.sugarlabs.Pukllanapac",
     "org.sugarlabs.ReadETexts",
     "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint",
     "org.viking.Viking",
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.zim_wiki.Zim",
+    "page.kramo.Cartridges",
     "xyz.safeworlds.hiit"
 ]

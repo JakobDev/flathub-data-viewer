@@ -16,5 +16,6 @@
     "org.gnome.seahorse.Application",
     "org.stellarium.Stellarium",
     "org.sugarlabs.Maze",
-    "org.sugarlabs.Paint"
+    "org.sugarlabs.Paint",
+    "org.tuxpaint.Tuxpaint"
 ]

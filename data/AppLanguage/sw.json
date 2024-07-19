@@ -7,5 +7,6 @@
     "org.sugarlabs.Maze",
     "org.sugarlabs.Memorize",
     "org.sugarlabs.Paint",
-    "org.sugarlabs.Words"
+    "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint"
 ]

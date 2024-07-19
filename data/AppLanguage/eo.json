@@ -16,6 +16,7 @@
     "org.gnome.Epiphany",
     "org.gnome.FontManager",
     "org.gnome.Hamster",
+    "org.gnome.Loupe",
     "org.gnome.OCRFeeder",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
@@ -27,6 +28,7 @@
     "org.gramps_project.Gramps",
     "org.gtkhash.gtkhash",
     "org.musescore.MuseScore",
+    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.zim_wiki.Zim"

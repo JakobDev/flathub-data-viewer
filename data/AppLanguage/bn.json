@@ -16,5 +16,6 @@
     "org.sugarlabs.Paint",
     "org.sugarlabs.Speak",
     "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator"
 ]

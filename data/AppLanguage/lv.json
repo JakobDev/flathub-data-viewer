@@ -8,6 +8,7 @@
     "org.gnome.ColorViewer",
     "org.gnome.Epiphany",
     "org.gnome.Hamster",
+    "org.gnome.Loupe",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",
@@ -18,5 +19,6 @@
     "org.gnome.frogr",
     "org.gnome.seahorse.Application",
     "org.musescore.MuseScore",
-    "org.speedcrunch.SpeedCrunch"
+    "org.speedcrunch.SpeedCrunch",
+    "org.tuxpaint.Tuxpaint"
 ]

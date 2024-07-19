@@ -13,6 +13,7 @@
     "com.tux4kids.tuxtype",
     "de.haeckerfelix.Shortwave",
     "de.manuel_kehl.go-for-it",
+    "dev.geopjr.Tuba",
     "fr.romainvigier.MetadataCleaner",
     "im.bernard.Funkcio",
     "io.bassi.Amberol",
@@ -38,6 +39,7 @@
     "org.gnome.Eolie",
     "org.gnome.Epiphany",
     "org.gnome.Hamster",
+    "org.gnome.Loupe",
     "org.gnome.OCRFeeder",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
@@ -80,7 +82,9 @@
     "org.sugarlabs.Speak",
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
-    "org.zim_wiki.Zim"
+    "org.zim_wiki.Zim",
+    "page.kramo.Cartridges"
 ]

@@ -19,6 +19,7 @@
     "de.haeckerfelix.Shortwave",
     "de.manuel_kehl.go-for-it",
     "dev.bragefuglseth.Keypunch",
+    "dev.geopjr.Tuba",
     "dev.tchx84.Gameeky",
     "fr.romainvigier.MetadataCleaner",
     "garden.turtle.Jellybean",
@@ -57,6 +58,7 @@
     "org.gnome.Epiphany",
     "org.gnome.FontManager",
     "org.gnome.Hamster",
+    "org.gnome.Loupe",
     "org.gnome.NetworkDisplays",
     "org.gnome.OCRFeeder",
     "org.gnome.PowerStats",
@@ -106,10 +108,12 @@
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint",
     "org.viking.Viking",
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.zim_wiki.Zim",
+    "page.kramo.Cartridges",
     "re.sonny.Commit",
     "ua.org.brezblock.q4wine"
 ]

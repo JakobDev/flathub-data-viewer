@@ -9,6 +9,7 @@
     "org.gimp.GIMP",
     "org.gnome.Calls",
     "org.gnome.Epiphany",
+    "org.gnome.Loupe",
     "org.gnome.NetworkDisplays",
     "org.gnome.PowerStats",
     "org.gnome.Shotwell",
@@ -21,5 +22,6 @@
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gnome.seahorse.Application",
     "org.musescore.MuseScore",
+    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands"
 ]

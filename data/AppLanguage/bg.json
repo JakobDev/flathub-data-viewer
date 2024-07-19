@@ -40,6 +40,7 @@
     "org.sugarlabs.Memorize",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Speak",
+    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "xyz.safeworlds.hiit"
 ]

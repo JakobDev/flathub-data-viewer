@@ -25,5 +25,6 @@
     "org.sugarlabs.Speak",
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.TurtlePondActivity",
-    "org.sugarlabs.Words"
+    "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint"
 ]

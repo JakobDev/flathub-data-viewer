@@ -1,6 +1,7 @@
 [
     "org.exaile.Exaile",
     "org.gnome.Epiphany",
+    "org.gnome.Loupe",
     "org.gnome.Rhythmbox3",
     "org.gnome.Shotwell",
     "org.gnome.Totem",

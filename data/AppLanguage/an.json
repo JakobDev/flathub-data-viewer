@@ -2,5 +2,6 @@
     "org.gnome.Epiphany",
     "org.gnome.Taquin",
     "org.sugarlabs.AbacusActivity",
-    "org.sugarlabs.Maze"
+    "org.sugarlabs.Maze",
+    "org.tuxpaint.Tuxpaint"
 ]

@@ -18,5 +18,6 @@
     "org.sugarlabs.Sliderule",
     "org.sugarlabs.Speak",
     "org.sugarlabs.StoryActivity",
-    "org.sugarlabs.Words"
+    "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint"
 ]

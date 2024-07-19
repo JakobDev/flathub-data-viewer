@@ -13,5 +13,6 @@
     "org.gnome.seahorse.Application",
     "org.sugarlabs.Memorize",
     "org.sugarlabs.Speak",
-    "org.sugarlabs.Words"
+    "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint"
 ]

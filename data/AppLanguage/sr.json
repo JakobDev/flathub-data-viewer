@@ -19,6 +19,7 @@
     "org.gnome.EasyTAG",
     "org.gnome.Epiphany",
     "org.gnome.Hamster",
+    "org.gnome.Loupe",
     "org.gnome.NetworkDisplays",
     "org.gnome.OCRFeeder",
     "org.gnome.PowerStats",
@@ -51,6 +52,7 @@
     "org.sugarlabs.Physics",
     "org.sugarlabs.Pippy",
     "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.zim_wiki.Zim"

@@ -5,6 +5,7 @@
     "com.github.debauchee.barrier",
     "com.github.unrud.VideoDownloader",
     "de.manuel_kehl.go-for-it",
+    "dev.geopjr.Tuba",
     "io.bassi.Amberol",
     "net.supertuxkart.SuperTuxKart",
     "org.aegisub.Aegisub",
@@ -12,6 +13,7 @@
     "org.gnome.ColorViewer",
     "org.gnome.Eolie",
     "org.gnome.Epiphany",
+    "org.gnome.Loupe",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",
@@ -37,6 +39,8 @@
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
+    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
+    "page.kramo.Cartridges",
     "ua.org.brezblock.q4wine"
 ]

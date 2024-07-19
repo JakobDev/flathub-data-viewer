@@ -4,6 +4,7 @@
     "com.github.debauchee.barrier",
     "com.github.xournalpp.xournalpp",
     "de.haeckerfelix.Shortwave",
+    "dev.geopjr.Tuba",
     "fr.romainvigier.MetadataCleaner",
     "io.bassi.Amberol",
     "io.github.Hexchat",
@@ -20,6 +21,7 @@
     "org.gnome.ColorViewer",
     "org.gnome.Epiphany",
     "org.gnome.Hamster",
+    "org.gnome.Loupe",
     "org.gnome.OCRFeeder",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
@@ -43,6 +45,7 @@
     "org.sugarlabs.Chart",
     "org.sugarlabs.Measure",
     "org.sugarlabs.Paint",
+    "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.zim_wiki.Zim",
     "re.sonny.Commit"
