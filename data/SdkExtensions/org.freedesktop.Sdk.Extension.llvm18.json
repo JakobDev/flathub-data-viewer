@@ -1,5 +1,6 @@
 [
     "app.fotema.Fotema",
+    "com.belmoussaoui.Authenticator",
     "dev.lizardbyte.app.Sunshine",
     "io.github.lime3ds.Lime3DS",
     "io.ossia.score",

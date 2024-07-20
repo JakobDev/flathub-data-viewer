@@ -1,6 +1,7 @@
 [
     "app.drey.Damask",
     "ca.desrt.dconf-editor",
+    "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.calibre_ebook.calibre",
     "com.github.ADBeveridge.Raider",

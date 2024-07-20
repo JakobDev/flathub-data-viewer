@@ -5,6 +5,7 @@
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",
     "com.adrienplazas.Metronome",
+    "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
     "com.feaneron.Boatswain",

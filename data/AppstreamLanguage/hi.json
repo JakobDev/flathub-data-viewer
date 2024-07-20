@@ -1,5 +1,6 @@
 [
     "app.drey.EarTag",
+    "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
     "com.belmoussaoui.ReadItLater",

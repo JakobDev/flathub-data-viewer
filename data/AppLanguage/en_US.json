@@ -20,6 +20,7 @@
     "ch.openboard.OpenBoard",
     "cn.xfangfang.wiliwili",
     "com.adrienplazas.Metronome",
+    "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
     "com.belmoussaoui.ReadItLater",

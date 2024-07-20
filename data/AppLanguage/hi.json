@@ -1,4 +1,5 @@
 [
+    "com.belmoussaoui.Authenticator",
     "com.endlessm.photos",
     "com.github.tenderowl.frog",
     "com.github.unrud.VideoDownloader",
@@ -8,6 +9,7 @@
     "dev.geopjr.Tuba",
     "fr.romainvigier.MetadataCleaner",
     "io.github.Hexchat",
+    "io.github.mrvladus.List",
     "io.gitlab.idevecore.Pomodoro",
     "io.gitlab.news_flash.NewsFlash",
     "org.gnome.Calls",
