@@ -126,6 +126,7 @@
         "com.mongodb.Compass",
         "com.nickgirga.webready",
         "com.notepadqq.Notepadqq",
+        "com.one_ware.OneWare",
         "com.openwall.John",
         "com.orama_interactive.Pixelorama",
         "com.pinegrow.Pinegrow",
@@ -3048,6 +3049,7 @@
     "xdg-run/speech-dispatcher": [
         "com.discordapp.Discord",
         "dev.vencord.Vesktop",
+        "io.github.verticalsync.sunroof",
         "org.godotengine.Godot",
         "org.godotengine.GodotSharp"
     ],

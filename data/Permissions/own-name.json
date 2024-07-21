@@ -78,7 +78,7 @@
     "org.mpris.mediaplayer2.tuner": [
         "com.github.louis77.tuner"
     ],
-    "org.mpris.mediaplayer2.g4music": [
+    "org.mpris.mediaplayer2.gapless": [
         "com.github.neithern.g4music"
     ],
     "com.github.philip-scott.notes-up": [
