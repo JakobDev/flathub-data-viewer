@@ -4,5 +4,6 @@
     "org.jamovi.jamovi",
     "org.libvips.vipsdisp",
     "org.onlyoffice.desktopeditors",
+    "org.sqlitebrowser.sqlitebrowser",
     "se.sjoerd.Graphs"
 ]
