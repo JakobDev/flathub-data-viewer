@@ -285,6 +285,10 @@
         "org.gnome.baobab",
         "org.localsend.localsend_app"
     ],
+    "org.freedesktop.statusnotifieritem.menu": [
+        "com.jianguoyun.Nutstore",
+        "io.github.slgobinath.SafeEyes"
+    ],
     "org.freedesktop.upower.*": [
         "com.ktechpit.whatsie",
         "org.kde.falkon"
@@ -300,9 +304,6 @@
     "org.freedesktop.networkmanager.*": [
         "io.appflowy.AppFlowy",
         "vn.hoabinh.quan.CoBang"
-    ],
-    "org.freedesktop.statusnotifieritem.menu": [
-        "io.github.slgobinath.SafeEyes"
     ],
     "org.freedesktop.systemd1": [
         "io.missioncenter.MissionCenter",

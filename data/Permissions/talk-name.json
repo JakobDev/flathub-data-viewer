@@ -235,6 +235,7 @@
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetbrains.PhpStorm",
+        "com.jianguoyun.Nutstore",
         "com.js8call.JS8Call",
         "com.kristianduske.TrenchBroom",
         "com.ktechpit.colorwall",
@@ -1032,6 +1033,7 @@
         "io.github.congard.qnvsm",
         "io.github.ctlcltd.e2se",
         "io.github.cudatext.CudaText-Qt",
+        "io.github.ddanilov.soundscape",
         "io.github.dman95.SASM",
         "io.github.dummerle.rare",
         "io.github.eteran.edb-debugger",
@@ -1631,6 +1633,7 @@
         "io.github.congard.qnvsm",
         "io.github.ctlcltd.e2se",
         "io.github.cudatext.CudaText-Qt",
+        "io.github.ddanilov.soundscape",
         "io.github.dman95.SASM",
         "io.github.dummerle.rare",
         "io.github.eteran.edb-debugger",
@@ -2125,6 +2128,7 @@
         "com.heroicgameslauncher.hgl",
         "com.hunterwittenborn.Celeste",
         "com.icanblink.blink",
+        "com.jianguoyun.Nutstore",
         "com.ktechpit.whatsie",
         "com.leinardi.gkraken",
         "com.leinardi.gwe",
@@ -2759,6 +2763,7 @@
         "com.github.inercia.k3x",
         "com.googleplaymusicdesktopplayer.GPMDP",
         "com.hunterwittenborn.Celeste",
+        "com.jianguoyun.Nutstore",
         "com.ktechpit.whatsie",
         "com.seafile.Client",
         "com.wiz.Note",
@@ -2785,6 +2790,7 @@
         "com.alovoa.alovoa-electron",
         "com.codemouse92.timecard",
         "com.github.inercia.k3x",
+        "com.jianguoyun.Nutstore",
         "com.ktechpit.whatsie",
         "com.pot_app.pot",
         "io.github.brunofin.Cohesion",
@@ -2969,6 +2975,7 @@
     ],
     "org.gnome.mutter.idlemonitor": [
         "chat.rocket.RocketChat",
+        "com.jianguoyun.Nutstore",
         "com.lakoliu.Furtherance",
         "io.github.kotatogram",
         "io.github.kukuruzka165.materialgram",
@@ -2989,6 +2996,7 @@
     ],
     "org.gnome.screensaver": [
         "cn.feishu.Feishu",
+        "com.brave.Browser",
         "com.core447.StreamController",
         "com.quexten.Goldwarden",
         "edu.stanford.Almond",
@@ -3257,6 +3265,17 @@
         "ru.yandex.Browser",
         "space.nouspiro.tenmon",
         "work.openpaper.Paperwork"
+    ],
+    "org.mate.screensaver": [
+        "com.brave.Browser",
+        "net.rpcs3.RPCS3"
+    ],
+    "org.xfce.screensaver": [
+        "com.brave.Browser"
+    ],
+    "org.cinnamon.screensaver": [
+        "com.brave.Browser",
+        "io.github.jeffshee.Hidamari"
     ],
     "org.kde.kwalletd6": [
         "com.brave.Browser",
@@ -3614,9 +3633,6 @@
     "org.freedesktop.filemanager1.*": [
         "io.github.ihhub.Fheroes2"
     ],
-    "org.cinnamon.screensaver": [
-        "io.github.jeffshee.Hidamari"
-    ],
     "org.kde.klipper": [
         "io.github.nyre221.kiview"
     ],
@@ -3683,9 +3699,6 @@
     ],
     "org.freedesktop.login1.manager": [
         "net.retrodeck.retrodeck"
-    ],
-    "org.mate.screensaver": [
-        "net.rpcs3.RPCS3"
     ],
     "org.wiimotedev.deviceevents": [
         "org.clementine_player.Clementine",
