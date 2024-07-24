@@ -86,6 +86,7 @@
         "info.febvre.Komikku",
         "io.atom.Atom",
         "io.conduktor.Conduktor",
+        "io.github.TanmayPatil105.verse",
         "io.github.achetagames.epic_asset_manager",
         "io.github.betaflight.BetaflightConfigurator",
         "io.github.brainstormtrooper.facteur",
@@ -3003,6 +3004,7 @@
         "info.olasagasti.revelation",
         "io.github.jeffshee.Hidamari",
         "io.github.quodlibet.QuodLibet",
+        "io.github.ungoogled_software.ungoogled_chromium",
         "org.gnome.BreakTimer",
         "org.gnome.Totem",
         "org.keepassxc.KeePassXC"
@@ -3268,14 +3270,17 @@
     ],
     "org.mate.screensaver": [
         "com.brave.Browser",
+        "io.github.ungoogled_software.ungoogled_chromium",
         "net.rpcs3.RPCS3"
     ],
     "org.xfce.screensaver": [
-        "com.brave.Browser"
+        "com.brave.Browser",
+        "io.github.ungoogled_software.ungoogled_chromium"
     ],
     "org.cinnamon.screensaver": [
         "com.brave.Browser",
-        "io.github.jeffshee.Hidamari"
+        "io.github.jeffshee.Hidamari",
+        "io.github.ungoogled_software.ungoogled_chromium"
     ],
     "org.kde.kwalletd6": [
         "com.brave.Browser",
@@ -3295,7 +3300,8 @@
     "org.gnome.mutter.idlemonitor.*": [
         "com.brave.Browser",
         "com.microsoft.Edge",
-        "com.microsoft.EdgeDev"
+        "com.microsoft.EdgeDev",
+        "io.github.ungoogled_software.ungoogled_chromium"
     ],
     "org.freedesktop.ibus": [
         "com.codemouse92.timecard",
