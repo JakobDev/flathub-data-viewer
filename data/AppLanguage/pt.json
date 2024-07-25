@@ -13,6 +13,7 @@
     "com.tux4kids.tuxtype",
     "de.haeckerfelix.Shortwave",
     "de.manuel_kehl.go-for-it",
+    "de.schmidhuberj.DieBahn",
     "de.schmidhuberj.Flare",
     "dev.geopjr.Tuba",
     "fr.romainvigier.MetadataCleaner",
@@ -87,5 +88,6 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.zim_wiki.Zim",
-    "page.kramo.Cartridges"
+    "page.kramo.Cartridges",
+    "sm.puri.Chatty"
 ]

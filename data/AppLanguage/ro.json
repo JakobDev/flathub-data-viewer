@@ -9,6 +9,7 @@
     "com.remnantsoftheprecursors.ROTP",
     "com.tux4kids.tuxtype",
     "de.haeckerfelix.Shortwave",
+    "de.schmidhuberj.DieBahn",
     "de.schmidhuberj.Flare",
     "fr.romainvigier.MetadataCleaner",
     "im.nheko.Nheko",
@@ -60,5 +61,6 @@
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
-    "org.zim_wiki.Zim"
+    "org.zim_wiki.Zim",
+    "sm.puri.Chatty"
 ]

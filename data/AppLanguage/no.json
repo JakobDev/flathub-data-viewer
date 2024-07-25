@@ -1,4 +1,5 @@
 [
     "com.github.xournalpp.xournalpp",
-    "de.manuel_kehl.go-for-it"
+    "de.manuel_kehl.go-for-it",
+    "io.neovim.nvim"
 ]

@@ -7,11 +7,13 @@
     "com.tux4kids.tuxtype",
     "de.haeckerfelix.Shortwave",
     "de.manuel_kehl.go-for-it",
+    "de.schmidhuberj.DieBahn",
     "io.bassi.Amberol",
     "io.github.Hexchat",
     "io.github.pragha_music_player.pragha",
     "io.liri.Calculator",
     "io.liri.Text",
+    "io.neovim.nvim",
     "net.minetest.Minetest",
     "net.sourceforge.Hugin",
     "net.supertuxkart.SuperTuxKart",
@@ -78,5 +80,6 @@
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
-    "org.zim_wiki.Zim"
+    "org.zim_wiki.Zim",
+    "sm.puri.Chatty"
 ]

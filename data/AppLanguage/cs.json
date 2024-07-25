@@ -25,6 +25,7 @@
     "io.github.mrvladus.List",
     "io.github.pragha_music_player.pragha",
     "io.gitlab.news_flash.NewsFlash",
+    "io.neovim.nvim",
     "net.minetest.Minetest",
     "net.sourceforge.kmetronome",
     "net.sourceforge.kmidimon",
@@ -92,5 +93,6 @@
     "org.zim_wiki.Zim",
     "page.kramo.Cartridges",
     "re.sonny.Commit",
+    "sm.puri.Chatty",
     "ua.org.brezblock.q4wine"
 ]

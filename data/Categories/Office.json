@@ -204,6 +204,7 @@
     "org.kde.ktimetracker",
     "org.kde.lokalize",
     "org.kde.marknote",
+    "org.kde.okular.kirigami",
     "org.kde.okular",
     "org.kde.skrooge",
     "org.kde.tellico",

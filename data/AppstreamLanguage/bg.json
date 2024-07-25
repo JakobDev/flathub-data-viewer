@@ -156,6 +156,7 @@
     "org.kde.lokalize",
     "org.kde.marble",
     "org.kde.okteta",
+    "org.kde.okular.kirigami",
     "org.kde.okular",
     "org.kde.skanpage",
     "org.kde.yakuake",

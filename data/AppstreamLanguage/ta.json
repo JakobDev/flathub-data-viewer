@@ -80,6 +80,7 @@
     "org.kde.konsole",
     "org.kde.kwrite",
     "org.kde.neochat",
+    "org.kde.okular.kirigami",
     "org.kde.okular",
     "org.moneymanagerex.MMEX",
     "org.nickvision.tubeconverter",

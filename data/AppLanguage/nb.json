@@ -5,6 +5,7 @@
     "dev.bragefuglseth.Keypunch",
     "io.github.Hexchat",
     "io.github.mrvladus.List",
+    "io.neovim.nvim",
     "net.minetest.Minetest",
     "net.supertuxkart.SuperTuxKart",
     "org.bluesabre.MenuLibre",

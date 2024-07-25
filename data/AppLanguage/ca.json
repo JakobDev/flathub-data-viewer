@@ -16,6 +16,7 @@
     "io.github.mrvladus.List",
     "io.gitlab.news_flash.NewsFlash",
     "io.liri.Text",
+    "io.neovim.nvim",
     "net.supertuxkart.SuperTuxKart",
     "org.aegisub.Aegisub",
     "org.bluesabre.MenuLibre",

@@ -18,6 +18,7 @@
     "com.github.ztefn.haguichi",
     "de.haeckerfelix.Shortwave",
     "de.manuel_kehl.go-for-it",
+    "de.schmidhuberj.DieBahn",
     "de.schmidhuberj.Flare",
     "dev.bragefuglseth.Keypunch",
     "dev.geopjr.Tuba",
@@ -39,6 +40,7 @@
     "io.gitlab.news_flash.NewsFlash",
     "io.liri.Calculator",
     "io.liri.Text",
+    "io.neovim.nvim",
     "io.posidon.Paper",
     "net.minetest.Minetest",
     "net.sourceforge.Hugin",
@@ -117,5 +119,6 @@
     "org.zim_wiki.Zim",
     "page.kramo.Cartridges",
     "re.sonny.Commit",
+    "sm.puri.Chatty",
     "ua.org.brezblock.q4wine"
 ]

@@ -8,6 +8,7 @@
     "com.github.xournalpp.xournalpp",
     "com.tux4kids.tuxtype",
     "de.haeckerfelix.Shortwave",
+    "de.schmidhuberj.DieBahn",
     "dev.bragefuglseth.Keypunch",
     "dev.geopjr.Tuba",
     "fr.romainvigier.MetadataCleaner",
@@ -73,5 +74,6 @@
     "org.x.Warpinator",
     "org.zim_wiki.Zim",
     "page.kramo.Cartridges",
+    "sm.puri.Chatty",
     "xyz.safeworlds.hiit"
 ]

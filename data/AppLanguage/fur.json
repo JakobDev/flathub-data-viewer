@@ -18,5 +18,6 @@
     "org.gnome.five-or-more",
     "org.gnome.frogr",
     "org.gnome.moserial",
-    "org.gnome.seahorse.Application"
+    "org.gnome.seahorse.Application",
+    "sm.puri.Chatty"
 ]

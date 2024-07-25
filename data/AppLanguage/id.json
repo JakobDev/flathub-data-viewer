@@ -69,5 +69,6 @@
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.x.Warpinator",
-    "org.zim_wiki.Zim"
+    "org.zim_wiki.Zim",
+    "sm.puri.Chatty"
 ]

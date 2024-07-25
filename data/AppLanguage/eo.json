@@ -6,6 +6,7 @@
     "fr.romainvigier.MetadataCleaner",
     "im.bernard.Funkcio",
     "im.nheko.Nheko",
+    "io.neovim.nvim",
     "net.minetest.Minetest",
     "net.supertuxkart.SuperTuxKart",
     "org.freedesktop.appstream.cli",

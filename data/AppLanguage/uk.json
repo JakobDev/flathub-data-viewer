@@ -11,6 +11,7 @@
     "com.remnantsoftheprecursors.ROTP",
     "com.tux4kids.tuxtype",
     "de.haeckerfelix.Shortwave",
+    "de.schmidhuberj.DieBahn",
     "de.schmidhuberj.Flare",
     "dev.bragefuglseth.Keypunch",
     "dev.geopjr.Tuba",
@@ -22,6 +23,7 @@
     "io.github.mrvladus.List",
     "io.github.pragha_music_player.pragha",
     "io.gitlab.news_flash.NewsFlash",
+    "io.neovim.nvim",
     "net.minetest.Minetest",
     "net.supertuxkart.SuperTuxKart",
     "org.bluesabre.MenuLibre",
@@ -90,5 +92,6 @@
     "org.zim_wiki.Zim",
     "page.kramo.Cartridges",
     "re.sonny.Commit",
+    "sm.puri.Chatty",
     "ua.org.brezblock.q4wine"
 ]

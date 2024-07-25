@@ -23,5 +23,6 @@
     "org.gnome.seahorse.Application",
     "org.musescore.MuseScore",
     "org.tuxpaint.Tuxpaint",
-    "org.widelands.Widelands"
+    "org.widelands.Widelands",
+    "sm.puri.Chatty"
 ]

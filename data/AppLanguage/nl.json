@@ -19,6 +19,7 @@
     "com.tux4kids.tuxtype",
     "de.haeckerfelix.Shortwave",
     "de.manuel_kehl.go-for-it",
+    "de.schmidhuberj.DieBahn",
     "de.schmidhuberj.Flare",
     "dev.bragefuglseth.Keypunch",
     "dev.geopjr.Tuba",
@@ -40,6 +41,7 @@
     "io.gitlab.news_flash.NewsFlash",
     "io.liri.Calculator",
     "io.liri.Text",
+    "io.neovim.nvim",
     "net.minetest.Minetest",
     "net.sourceforge.Hugin",
     "net.supertuxkart.SuperTuxKart",
@@ -117,5 +119,6 @@
     "org.x.Warpinator",
     "org.zim_wiki.Zim",
     "page.kramo.Cartridges",
-    "re.sonny.Commit"
+    "re.sonny.Commit",
+    "sm.puri.Chatty"
 ]

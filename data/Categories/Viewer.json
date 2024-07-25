@@ -43,6 +43,7 @@
     "org.kde.gwenview",
     "org.kde.kgraphviewer",
     "org.kde.koko",
+    "org.kde.okular.kirigami",
     "org.kde.okular",
     "org.kde.peruse",
     "org.kde.pix",

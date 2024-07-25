@@ -4,6 +4,7 @@
     "com.github.elth0r0.iqpuzzle",
     "com.github.unrud.VideoDownloader",
     "com.tux4kids.tuxtype",
+    "de.schmidhuberj.DieBahn",
     "fr.romainvigier.MetadataCleaner",
     "io.bassi.Amberol",
     "io.github.Hexchat",
@@ -57,5 +58,6 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "org.zim_wiki.Zim",
-    "page.kramo.Cartridges"
+    "page.kramo.Cartridges",
+    "sm.puri.Chatty"
 ]

@@ -140,6 +140,7 @@
     "org.kde.ksudoku",
     "org.kde.ktrip",
     "org.kde.kwrite",
+    "org.kde.okular.kirigami",
     "org.kde.okular",
     "org.kde.pix",
     "org.kde.plasmatube",

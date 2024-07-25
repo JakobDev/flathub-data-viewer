@@ -5,6 +5,7 @@
     "com.github.unrud.VideoDownloader",
     "com.github.xournalpp.xournalpp",
     "com.tux4kids.tuxtype",
+    "de.schmidhuberj.DieBahn",
     "dev.bragefuglseth.Keypunch",
     "dev.geopjr.Tuba",
     "fr.romainvigier.MetadataCleaner",
@@ -48,5 +49,6 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "page.kramo.Cartridges",
+    "sm.puri.Chatty",
     "xyz.safeworlds.hiit"
 ]

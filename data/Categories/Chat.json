@@ -1,5 +1,6 @@
 [
     "app.bluebubbles.BlueBubbles",
+    "app.vup.VupChat",
     "cc.retroshare.retroshare-gui",
     "ch.threema.threema-web-desktop",
     "chat.delta",

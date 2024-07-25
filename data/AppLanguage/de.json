@@ -21,6 +21,7 @@
     "com.tux4kids.tuxtype",
     "de.haeckerfelix.Shortwave",
     "de.manuel_kehl.go-for-it",
+    "de.schmidhuberj.DieBahn",
     "de.schmidhuberj.Flare",
     "de.z_ray.Facetracker",
     "dev.bragefuglseth.Keypunch",
@@ -42,6 +43,7 @@
     "io.github.voxelcubes.panelcleaner",
     "io.gitlab.idevecore.Pomodoro",
     "io.liri.Text",
+    "io.neovim.nvim",
     "io.posidon.Paper",
     "moe.clover.mm3d",
     "net.displaycal.DisplayCAL",
@@ -124,6 +126,7 @@
     "org.zim_wiki.Zim",
     "page.kramo.Cartridges",
     "re.sonny.Commit",
+    "sm.puri.Chatty",
     "ua.org.brezblock.q4wine",
     "xyz.eclipium.Hieroctive",
     "xyz.eclipium.TetraSwap"

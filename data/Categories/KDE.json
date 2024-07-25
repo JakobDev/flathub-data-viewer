@@ -1,10 +1,12 @@
 [
     "fr.free.qccrypt.Qccrypt",
+    "org.kde.francis",
     "org.kde.kalk",
     "org.kde.kalm",
     "org.kde.kclock",
     "org.kde.keysmith",
     "org.kde.klines",
     "org.kde.kweather",
+    "org.kde.okular.kirigami",
     "org.kde.telly-skout"
 ]

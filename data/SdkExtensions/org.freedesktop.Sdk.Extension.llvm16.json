@@ -19,6 +19,7 @@
     "io.github.kukuruzka165.materialgram",
     "io.github.sameboy.SameBoy",
     "io.github.tdesktop_x64.TDesktop",
+    "io.qt.PySide.BaseApp",
     "org.d3cod3.Mosaic",
     "org.freedesktop.appstream.generator",
     "org.gnome.Builder",

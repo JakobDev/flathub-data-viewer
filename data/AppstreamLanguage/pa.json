@@ -108,6 +108,7 @@
     "org.kde.lokalize",
     "org.kde.marble",
     "org.kde.neochat",
+    "org.kde.okular.kirigami",
     "org.kde.okular",
     "org.kde.pix",
     "org.kde.plasmatube",

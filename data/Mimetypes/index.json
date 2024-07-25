@@ -1953,6 +1953,7 @@
         "x-scheme-handler{SLASH}vnd.sun.star.webdav",
         "x-scheme-handler{SLASH}vnd.sun.star.webdavs",
         "x-scheme-handler{SLASH}vup",
+        "x-scheme-handler{SLASH}vup-chat",
         "x-scheme-handler{SLASH}warp",
         "x-scheme-handler{SLASH}wc",
         "x-scheme-handler{SLASH}weasis",

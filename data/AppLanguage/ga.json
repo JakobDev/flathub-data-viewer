@@ -1,4 +1,5 @@
 [
+    "io.neovim.nvim",
     "net.supertuxkart.SuperTuxKart",
     "org.gnome.Epiphany",
     "org.gnome.PowerStats",

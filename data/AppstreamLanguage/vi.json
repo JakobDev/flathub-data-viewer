@@ -102,6 +102,7 @@
     "org.kde.kwalletmanager5",
     "org.kde.kwrite",
     "org.kde.lokalize",
+    "org.kde.okular.kirigami",
     "org.kde.okular",
     "org.kicad.KiCad",
     "org.moneymanagerex.MMEX",

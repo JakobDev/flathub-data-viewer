@@ -1,5 +1,6 @@
 [
     "ca.desrt.dconf-editor",
+    "io.neovim.nvim",
     "org.exaile.Exaile",
     "org.gnome.Epiphany",
     "org.gnome.Hamster",

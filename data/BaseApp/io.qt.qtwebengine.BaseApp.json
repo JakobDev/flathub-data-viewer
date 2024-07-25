@@ -5,6 +5,7 @@
         "io.github.xiaoyifang.goldendict_ng",
         "io.gpt4all.gpt4all",
         "io.mrarm.mcpelauncher",
+        "io.qt.PySide.BaseApp",
         "io.qt.QtCreator",
         "org.jaspstats.JASP",
         "org.kde.akregator",
