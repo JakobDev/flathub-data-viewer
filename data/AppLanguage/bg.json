@@ -1,6 +1,7 @@
 [
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
+    "com.github.ADBeveridge.Raider",
     "com.github.debauchee.barrier",
     "com.github.elth0r0.iqpuzzle",
     "com.github.ztefn.haguichi",
@@ -9,6 +10,7 @@
     "dev.bragefuglseth.Keypunch",
     "fr.romainvigier.MetadataCleaner",
     "io.github.Hexchat",
+    "io.github.diegopvlk.Dosage",
     "io.github.fkinoshita.Telegraph",
     "io.github.pragha_music_player.pragha",
     "net.minetest.Minetest",
