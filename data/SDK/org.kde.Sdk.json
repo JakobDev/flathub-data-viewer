@@ -232,7 +232,6 @@
         "app.lith.Lith",
         "app.pianocheetah.pianocheetah",
         "br.eng.silas.qpdftools",
-        "com.bktus.gpgfrontend",
         "com.borgbase.Vorta",
         "com.chatterino.chatterino",
         "com.darhon.syncbackup",
@@ -433,6 +432,7 @@
     ],
     "6.7": [
         "ch.openboard.OpenBoard",
+        "com.bktus.gpgfrontend",
         "com.blockstream.Green",
         "com.georgefb.mangareader",
         "com.georgefb.quickaccess",

@@ -10,6 +10,7 @@
         "ar.com.pilas_engine.App",
         "ar.com.tuxguitar.TuxGuitar",
         "ar.xjuan.Cambalache",
+        "art.taunoerik.tauno-monitor",
         "au.edu.uq.esys.escript",
         "br.eng.silas.qpdftools",
         "br.gov.cti.invesalius",
@@ -3419,6 +3420,9 @@
         "com.heroicgameslauncher.hgl",
         "io.github.Foldex.AdwSteamGtk",
         "xyz.hyperplay.HyperPlay"
+    ],
+    "~/.var/app/org.openwinecomponents.umu.umu-launcher/data/umu": [
+        "com.heroicgameslauncher.hgl"
     ],
     "~/.local/share/lutris": [
         "com.heroicgameslauncher.hgl",
