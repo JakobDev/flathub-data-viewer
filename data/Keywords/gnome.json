@@ -1,4 +1,5 @@
 [
     "nl.emphisia.icon",
-    "org.gnome.gitlab.cheywood.Buffer"
+    "org.gnome.gitlab.cheywood.Buffer",
+    "org.gnome.gitlab.cheywood.Pulp"
 ]

@@ -3,5 +3,6 @@
     "im.srain.Srain",
     "io.github.manisandro.gImageReader",
     "org.gnome.gitlab.cheywood.Buffer",
+    "org.gnome.gitlab.cheywood.Pulp",
     "org.gnunet.Messenger"
 ]

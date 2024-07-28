@@ -1,4 +1,5 @@
 [
+    "org.freedesktop.fwupd",
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",
     "org.gnome.Totem",

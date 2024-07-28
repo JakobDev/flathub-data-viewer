@@ -11,6 +11,7 @@
     "io.gitlab.news_flash.NewsFlash",
     "me.hyliu.fluentreader",
     "org.gabmus.gfeeds",
+    "org.gnome.gitlab.cheywood.Pulp",
     "org.kde.akregator",
     "org.kde.alligator",
     "org.kde.kasts",

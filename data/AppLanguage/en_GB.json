@@ -139,6 +139,7 @@
     "org.gnome.gedit",
     "org.gnome.gitg",
     "org.gnome.gitlab.cheywood.Buffer",
+    "org.gnome.gitlab.cheywood.Pulp",
     "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.glabels-3",
     "org.gnome.meld",

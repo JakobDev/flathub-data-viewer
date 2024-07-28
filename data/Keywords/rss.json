@@ -1,4 +1,5 @@
 [
     "net.sourceforge.liferea",
-    "org.gabmus.gfeeds"
+    "org.gabmus.gfeeds",
+    "org.gnome.gitlab.cheywood.Pulp"
 ]

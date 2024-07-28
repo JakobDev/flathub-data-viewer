@@ -3683,6 +3683,9 @@
         "info.cemu.Cemu",
         "net.openra.OpenRA"
     ],
+    "~/.s25rttr": [
+        "info.rttr.Return-To-The-Roots"
+    ],
     "~/.minecraft": [
         "io.blockloader.BlockLoader"
     ],
@@ -4003,6 +4006,7 @@
     ],
     "/sys": [
         "io.github.wiiznokes.fan-control",
+        "io.qt.QtCreator",
         "org.freedesktop.fwupd"
     ],
     "~/.local/share/textpieces": [

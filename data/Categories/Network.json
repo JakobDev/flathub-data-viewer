@@ -232,6 +232,7 @@
     "org.gnome.Fractal",
     "org.gnome.Geary",
     "org.gnome.Polari",
+    "org.gnome.gitlab.cheywood.Pulp",
     "org.gnunet.Messenger",
     "org.gpodder.gpodder-adaptive",
     "org.gpodder.gpodder",

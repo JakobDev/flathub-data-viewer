@@ -2,5 +2,6 @@
     "com.github.mdh34.hackup",
     "net.sourceforge.liferea",
     "org.claws_mail.Claws-Mail",
-    "org.gabmus.gfeeds"
+    "org.gabmus.gfeeds",
+    "org.gnome.gitlab.cheywood.Pulp"
 ]

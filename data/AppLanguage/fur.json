@@ -2,6 +2,7 @@
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "io.bassi.Amberol",
+    "org.freedesktop.fwupd",
     "org.gnome.Calls",
     "org.gnome.ColorViewer",
     "org.gnome.Epiphany",
@@ -17,6 +18,7 @@
     "org.gnome.design.Contrast",
     "org.gnome.five-or-more",
     "org.gnome.frogr",
+    "org.gnome.gitg",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
     "sm.puri.Chatty"
