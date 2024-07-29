@@ -5,6 +5,7 @@
         "io.atom.electron.BaseApp",
         "io.elementary.BaseApp",
         "io.liri.BaseApp",
+        "io.qt.PySide.BaseApp",
         "io.qt.qtwebengine.BaseApp",
         "io.qt.qtwebkit.BaseApp",
         "org.chromium.Chromium.BaseApp",
