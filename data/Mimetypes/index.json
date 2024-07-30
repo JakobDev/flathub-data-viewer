@@ -1770,6 +1770,7 @@
         "x-scheme-handler{SLASH}gtg",
         "x-scheme-handler{SLASH}guilded",
         "x-scheme-handler{SLASH}guppy",
+        "x-scheme-handler{SLASH}halloy",
         "x-scheme-handler{SLASH}heroic",
         "x-scheme-handler{SLASH}http",
         "x-scheme-handler{SLASH}https",

@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "com.github.artemanufrij.playmymusic",
     "fr.romainvigier.MetadataCleaner",
     "io.github.Hexchat",

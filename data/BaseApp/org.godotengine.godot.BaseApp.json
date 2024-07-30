@@ -6,8 +6,10 @@
         "io.github.pastthepixels.InfiniteShooter",
         "page.codeberg.yeldham.Librerama"
     ],
+    "4.2": [
+        "com.orama_interactive.Pixelorama"
+    ],
     "3.5-23.08": [
-        "com.orama_interactive.Pixelorama",
         "io.github.hepfnepf.blutfest",
         "org.dupot.littleadventure",
         "org.simondalvai.ball2box",

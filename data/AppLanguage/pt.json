@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "ca.desrt.dconf-editor",
     "ca.parallel_launcher.ParallelLauncher",
     "com.belmoussaoui.Authenticator",

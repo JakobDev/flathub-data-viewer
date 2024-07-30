@@ -1,4 +1,5 @@
 [
+    "app.drey.Dialect",
     "fr.romainvigier.MetadataCleaner",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Words",
