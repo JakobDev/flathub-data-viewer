@@ -1,10 +1,8 @@
 [
     "com.carpeludum.KegaFusion",
-    "com.github.eneshecan.WhatsAppForLinux",
     "com.retrodev.blastem",
     "io.github.kotatogram",
     "io.github.kukuruzka165.materialgram",
-    "io.github.tdesktop_x64.TDesktop",
     "org.okstar.ok-msg",
     "org.telegram"
 ]

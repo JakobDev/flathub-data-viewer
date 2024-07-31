@@ -1,6 +1,7 @@
 [
     "org.gnome.Epiphany",
     "org.gnome.Totem",
+    "org.gnome.eog",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Maze",
     "org.sugarlabs.Paint",

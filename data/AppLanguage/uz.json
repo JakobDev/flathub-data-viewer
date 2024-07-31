@@ -1,5 +1,6 @@
 [
     "com.github.unrud.VideoDownloader",
     "org.gnome.Epiphany",
+    "org.gnome.eog",
     "org.megaglest.MegaGlest"
 ]

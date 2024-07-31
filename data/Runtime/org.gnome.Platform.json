@@ -68,6 +68,7 @@
         "app.rednotebook.RedNotebook",
         "ar.com.softwareperonista.Rockarrolla",
         "ar.xjuan.Cambalache",
+        "ca.desrt.dconf-editor",
         "cafe.avery.Delfin",
         "codes.nora.gDiceRoller",
         "com.adrienplazas.Metronome",
@@ -590,7 +591,6 @@
     "45": [
         "art.taunoerik.tauno-monitor",
         "br.app.pw3270.terminal",
-        "ca.desrt.dconf-editor",
         "ch.x29a.playitslowly",
         "co.luoja.Telyn",
         "com.abisource.AbiWord",
@@ -616,7 +616,6 @@
         "com.github.birros.WebArchives",
         "com.github.cassidyjames.dippi",
         "com.github.edenalencar.identifications",
-        "com.github.eneshecan.WhatsAppForLinux",
         "com.github.fabiocolacio.marker",
         "com.github.finefindus.eyedropper",
         "com.github.geigi.cozy",

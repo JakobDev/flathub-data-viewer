@@ -1,4 +1,5 @@
 [
     "com.github.unrud.VideoDownloader",
-    "org.gnome.PowerStats"
+    "org.gnome.PowerStats",
+    "org.gnome.eog"
 ]

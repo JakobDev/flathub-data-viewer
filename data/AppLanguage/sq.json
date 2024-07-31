@@ -1,10 +1,12 @@
 [
     "io.github.Hexchat",
+    "net.sourceforge.liferea",
     "net.supertuxkart.SuperTuxKart",
     "org.darktable.Darktable",
     "org.gnome.Epiphany",
     "org.gnome.Quadrapassel",
     "org.gnome.Totem",
+    "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gramps_project.Gramps",
     "org.megaglest.MegaGlest",
