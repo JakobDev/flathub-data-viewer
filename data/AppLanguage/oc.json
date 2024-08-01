@@ -42,5 +42,6 @@
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gnome.seahorse.Application",
-    "org.x.Warpinator"
+    "org.x.Warpinator",
+    "org.xfce.ristretto"
 ]

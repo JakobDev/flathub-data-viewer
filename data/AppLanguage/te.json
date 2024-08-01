@@ -18,5 +18,6 @@
     "org.stellarium.Stellarium",
     "org.sugarlabs.Maze",
     "org.sugarlabs.Paint",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.xfce.ristretto"
 ]

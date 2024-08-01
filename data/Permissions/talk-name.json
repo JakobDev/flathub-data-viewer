@@ -134,6 +134,7 @@
         "org.gnome.gitlab.cheywood.Pulp",
         "org.gnome.seahorse.Application",
         "org.gtimelog.GTimeLog",
+        "org.kde.itinerary",
         "org.kde.kasts",
         "org.kde.neochat",
         "org.kde.tokodon",
@@ -2835,6 +2836,7 @@
         "org.gajim.Gajim",
         "org.kde.akregator",
         "org.kde.falkon",
+        "org.kde.itinerary",
         "org.kde.kontact",
         "org.kde.krdc",
         "org.kde.kwalletmanager5",
@@ -3304,6 +3306,7 @@
         "io.github.ungoogled_software.ungoogled_chromium",
         "org.chromium.Chromium",
         "org.kde.akregator",
+        "org.kde.itinerary",
         "org.kde.kontact",
         "org.kde.kwalletmanager5",
         "org.kde.tokodon"

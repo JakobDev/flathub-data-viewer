@@ -13,6 +13,7 @@
     "io.github.Hexchat",
     "io.github.diegopvlk.Dosage",
     "io.github.fkinoshita.Telegraph",
+    "io.github.nokse22.Exhibit",
     "io.github.pragha_music_player.pragha",
     "net.minetest.Minetest",
     "net.sourceforge.liferea",
@@ -49,5 +50,6 @@
     "org.sugarlabs.Speak",
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
+    "org.xfce.ristretto",
     "xyz.safeworlds.hiit"
 ]

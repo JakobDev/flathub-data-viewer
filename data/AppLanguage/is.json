@@ -23,5 +23,6 @@
     "org.sugarlabs.Speak",
     "org.sugarlabs.Words",
     "org.tuxpaint.Tuxpaint",
-    "org.x.Warpinator"
+    "org.x.Warpinator",
+    "org.xfce.ristretto"
 ]

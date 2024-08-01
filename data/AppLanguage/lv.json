@@ -24,5 +24,6 @@
     "org.gnome.seahorse.Application",
     "org.musescore.MuseScore",
     "org.speedcrunch.SpeedCrunch",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.xfce.ristretto"
 ]

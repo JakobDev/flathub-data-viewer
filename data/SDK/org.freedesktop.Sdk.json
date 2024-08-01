@@ -569,6 +569,7 @@
         "org.cryptomator.Cryptomator",
         "org.d3cod3.Mosaic",
         "org.dbgate.DbGate",
+        "org.debian.TuxPuck",
         "org.deluge_torrent.deluge",
         "org.denemo.Denemo",
         "org.develz.Crawl",
@@ -779,7 +780,6 @@
         "net.sourceforge.mars-game",
         "org.btchd.btchd-qt",
         "org.bzdev.CVRDecode",
-        "org.debian.TuxPuck",
         "org.megaglest.MegaGlest",
         "org.raceintospace.Raceintospace",
         "org.squeakland.Etoys"

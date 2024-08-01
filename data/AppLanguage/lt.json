@@ -58,5 +58,6 @@
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
     "org.widelands.Widelands",
-    "org.x.Warpinator"
+    "org.x.Warpinator",
+    "org.xfce.ristretto"
 ]

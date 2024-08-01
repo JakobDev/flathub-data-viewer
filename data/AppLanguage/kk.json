@@ -13,5 +13,6 @@
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.gitg",
-    "org.gnome.seahorse.Application"
+    "org.gnome.seahorse.Application",
+    "org.xfce.ristretto"
 ]

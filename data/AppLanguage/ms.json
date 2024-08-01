@@ -22,5 +22,6 @@
     "org.sugarlabs.Maze",
     "org.sugarlabs.Words",
     "org.tuxpaint.Tuxpaint",
-    "org.widelands.Widelands"
+    "org.widelands.Widelands",
+    "org.xfce.ristretto"
 ]
