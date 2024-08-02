@@ -51,5 +51,6 @@
     "org.stellarium.Stellarium",
     "org.tug.texworks",
     "org.tuxpaint.Tuxpaint",
-    "org.videolan.VLC"
+    "org.videolan.VLC",
+    "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]

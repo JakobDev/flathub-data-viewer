@@ -4,5 +4,6 @@
     "fr.handbrake.ghb",
     "me.mitya57.ReText",
     "org.gottcode.Kapow",
-    "org.kicad.KiCad"
+    "org.kicad.KiCad",
+    "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]

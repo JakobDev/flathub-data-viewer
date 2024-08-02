@@ -117,5 +117,6 @@
     "org.tuxpaint.Tuxpaint",
     "org.videolan.VLC",
     "org.x.Warpinator",
-    "org.xfce.mousepad"
+    "org.xfce.mousepad",
+    "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]

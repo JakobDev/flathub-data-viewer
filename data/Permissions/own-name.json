@@ -305,6 +305,9 @@
     "org.mpris.mediaplayer2.clementine": [
         "org.clementine_player.Clementine"
     ],
+    "org.darktable.service": [
+        "org.darktable.Darktable"
+    ],
     "org.mpris.mediaplayer2.musicpod.*": [
         "org.feichtmeier.Musicpod"
     ],
@@ -388,9 +391,6 @@
     ],
     "org.gtimelog": [
         "org.gtimelog.GTimeLog"
-    ],
-    "org.mpris.mediaplayer2.nuclear": [
-        "org.js.nuclear.Nuclear"
     ],
     "org.freedesktop.akonadi.*": [
         "org.kde.akregator",
