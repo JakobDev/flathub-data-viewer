@@ -15,6 +15,7 @@
     "org.gnome.five-or-more",
     "org.gnome.frogr",
     "org.gnome.seahorse.Application",
+    "org.pulseaudio.pavucontrol",
     "org.stellarium.Stellarium",
     "org.sugarlabs.Maze",
     "org.sugarlabs.Paint",

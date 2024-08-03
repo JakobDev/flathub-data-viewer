@@ -15,6 +15,7 @@
     "org.gnome.gitg",
     "org.gnome.seahorse.Application",
     "org.musescore.MuseScore",
+    "org.pulseaudio.pavucontrol",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint"
 ]

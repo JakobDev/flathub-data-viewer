@@ -15,6 +15,7 @@
     "org.entangle_photo.Manager",
     "org.gnome.Eolie",
     "org.gtkhash.gtkhash",
+    "org.pulseaudio.pavucontrol",
     "page.kramo.Cartridges",
     "xyz.safeworlds.hiit"
 ]

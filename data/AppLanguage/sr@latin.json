@@ -22,6 +22,7 @@
     "org.gnome.gitg",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
+    "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator"
 ]

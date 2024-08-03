@@ -33,6 +33,7 @@
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.seahorse.Application",
+    "org.pulseaudio.pavucontrol",
     "org.stellarium.Stellarium",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Chess",

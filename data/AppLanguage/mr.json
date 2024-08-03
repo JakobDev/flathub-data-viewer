@@ -11,6 +11,7 @@
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.seahorse.Application",
+    "org.pulseaudio.pavucontrol",
     "org.sugarlabs.Memorize",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Speak",

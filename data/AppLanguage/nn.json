@@ -17,6 +17,7 @@
     "org.gnome.seahorse.Application",
     "org.gramps_project.Gramps",
     "org.musescore.MuseScore",
+    "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands"
 ]

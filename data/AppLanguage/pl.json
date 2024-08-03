@@ -82,6 +82,7 @@
     "org.megaglest.MegaGlest",
     "org.musescore.MuseScore",
     "org.musicbrainz.Picard",
+    "org.pulseaudio.pavucontrol",
     "org.speedcrunch.SpeedCrunch",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Chart",

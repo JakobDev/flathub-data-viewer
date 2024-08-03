@@ -53,6 +53,7 @@
     "org.megaglest.MegaGlest",
     "org.musescore.MuseScore",
     "org.musicbrainz.Picard",
+    "org.pulseaudio.pavucontrol",
     "org.scilab.Scilab",
     "org.stellarium.Stellarium",
     "org.sugarlabs.AbacusActivity",

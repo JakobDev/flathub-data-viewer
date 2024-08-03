@@ -44,6 +44,7 @@
     "org.gtkhash.gtkhash",
     "org.musescore.MuseScore",
     "org.musicbrainz.Picard",
+    "org.pulseaudio.pavucontrol",
     "org.speedcrunch.SpeedCrunch",
     "org.stellarium.Stellarium",
     "org.sugarlabs.AbacusActivity",

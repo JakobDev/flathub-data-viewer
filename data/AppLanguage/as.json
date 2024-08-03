@@ -12,5 +12,6 @@
     "org.gnome.five-or-more",
     "org.gnome.gitg",
     "org.gnome.seahorse.Application",
+    "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint"
 ]
