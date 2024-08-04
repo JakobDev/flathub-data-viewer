@@ -456,6 +456,9 @@
     ".qmplay2": [
         "io.github.zaps166.QMPlay2"
     ],
+    ".zen": [
+        "io.github.zen_browser.zen"
+    ],
     ".libretile": [
         "io.gitlab.celleron56.libretile"
     ],

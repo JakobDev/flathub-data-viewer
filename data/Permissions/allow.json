@@ -18,6 +18,7 @@
         "com.vscodium.codium-insiders",
         "com.vscodium.codium",
         "dev.goats.xivlauncher",
+        "io.github.accessory.minus_games_client",
         "io.github.aggalex.Wineglass",
         "io.github.bothlab.syntalos",
         "io.github.dman95.SASM",
@@ -63,6 +64,7 @@
         "com.vagueentertainment.Framed",
         "com.valvesoftware.Steam",
         "com.xnview.XnRetro",
+        "io.github.accessory.minus_games_client",
         "io.github.aggalex.Wineglass",
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.dman95.SASM",
@@ -94,6 +96,7 @@
         "com.valvesoftware.Steam",
         "io.emeric.toolblex",
         "io.emeric.watchflower",
+        "io.github.accessory.minus_games_client",
         "io.github.bothlab.syntalos",
         "io.github.shiiion.primehack",
         "io.github.streetpea.Chiaki4deck",
@@ -118,6 +121,7 @@
         "com.github.Matoking.protontricks",
         "com.usebottles.bottles",
         "com.valvesoftware.Steam",
+        "io.github.accessory.minus_games_client",
         "ru.linux_gaming.PortProton"
     ],
     "canbus": [

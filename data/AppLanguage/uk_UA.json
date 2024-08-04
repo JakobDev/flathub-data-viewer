@@ -1,5 +1,6 @@
 [
     "io.github.giantpinkrobots.varia",
+    "it.mijorus.collector",
     "net.wz2100.wz2100",
     "org.aegisub.Aegisub",
     "org.freedesktop.Piper",

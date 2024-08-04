@@ -23,6 +23,7 @@
         "application{SLASH}bloom-join-team",
         "application{SLASH}bmp",
         "application{SLASH}bzip2",
+        "application{SLASH}cartero",
         "application{SLASH}cbr",
         "application{SLASH}cherrytree-ctb",
         "application{SLASH}cherrytree-ctd",

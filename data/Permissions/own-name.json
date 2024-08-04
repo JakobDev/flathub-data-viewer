@@ -40,6 +40,7 @@
     ],
     "org.mpris.mediaplayer2.firefox.*": [
         "com.ghostery.browser",
+        "io.github.zen_browser.zen",
         "io.gitlab.librewolf-community",
         "net.mullvad.MullvadBrowser",
         "net.waterfox.waterfox",
@@ -247,6 +248,9 @@
     ],
     "org.mpris.mediaplayer2.yuki_iptv.*": [
         "io.github.yuki_iptv.yuki-iptv"
+    ],
+    "org.mozilla.zen.*": [
+        "io.github.zen_browser.zen"
     ],
     "org.mpris.mediaplayer2.goodvibes": [
         "io.gitlab.Goodvibes"
