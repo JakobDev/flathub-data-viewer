@@ -102,6 +102,7 @@
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
+    "org.gnome.gitlab.cheywood.Buffer",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
     "org.gramps_project.Gramps",

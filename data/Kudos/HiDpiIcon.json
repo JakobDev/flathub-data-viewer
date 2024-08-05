@@ -1,7 +1,6 @@
 [
     "app.authpass.AuthPass",
     "app.bluebubbles.BlueBubbles",
-    "app.feeddeck.feeddeck",
     "app.getclipboard.Clipboard",
     "app.getspace.Space",
     "app.kaiteki.Kaiteki",
@@ -363,7 +362,6 @@
     "eu.nimmerfort.blackbody",
     "eu.ototu.Quteqoin",
     "eu.skribisto.skribisto",
-    "eu.usdx.UltraStarDeluxe",
     "fi.skyjake.Lagrange",
     "fm.cancel.Ripcord",
     "fr.fgrabenstaetter.DigitalAssets",

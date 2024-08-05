@@ -22,6 +22,7 @@
     "com.helix_editor.Helix",
     "com.mattjakeman.ExtensionManager",
     "com.mojang.Minecraft",
+    "com.oyajun.ColorCode",
     "com.rafaelmardojai.Blanket",
     "com.transmissionbt.Transmission",
     "com.uploadedlobster.peek",
