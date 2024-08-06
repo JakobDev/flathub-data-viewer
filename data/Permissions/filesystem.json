@@ -1409,7 +1409,6 @@
         "com.virustotal.VirusTotalUploader",
         "dev.levz.TinyImageFinder",
         "info.cemu.Cemu",
-        "io.github.hakandundar34coding.system-monitoring-center",
         "io.github.jorchube.monitorets",
         "io.github.lime3ds.Lime3DS",
         "io.github.nyre221.kiview",
@@ -2642,7 +2641,6 @@
         "com.belmoussaoui.Authenticator",
         "com.gitbutler.gitbutler",
         "com.github.Flacon",
-        "com.github.GradienceTeam.Gradience",
         "com.github.PintaProject.Pinta",
         "com.github.babluboy.bookworm",
         "com.github.coslyk.MoonPlayer",
@@ -2809,7 +2807,6 @@
     "xdg-download:ro": [
         "com.alpineclient.AlpineClient",
         "com.atlauncher.ATLauncher",
-        "com.github.GradienceTeam.Gradience",
         "com.github.neithern.g4music",
         "com.github.optyfr.JRomManager",
         "com.modrinth.ModrinthApp",
@@ -3184,32 +3181,6 @@
         "moe.karaokes.mugen",
         "sh.ppy.osu"
     ],
-    "~/.var/app/io.gitlab.librewolf-community/.librewolf": [
-        "com.github.GradienceTeam.Gradience"
-    ],
-    "xdg-config/gtk-4.0": [
-        "com.github.GradienceTeam.Gradience"
-    ],
-    "~/.librewolf": [
-        "com.github.GradienceTeam.Gradience"
-    ],
-    "~/.var/app/org.mozilla.firefox/.mozilla/firefox": [
-        "com.github.GradienceTeam.Gradience"
-    ],
-    "xdg-config/gtk-3.0": [
-        "com.github.GradienceTeam.Gradience",
-        "org.gimp.GIMP",
-        "org.inkscape.Inkscape",
-        "org.libreoffice.LibreOffice"
-    ],
-    "~/.mozilla/firefox": [
-        "com.github.GradienceTeam.Gradience",
-        "org.gnome.Eolie"
-    ],
-    "xdg-data/flatpak/overrides:create": [
-        "com.github.GradienceTeam.Gradience",
-        "com.github.tchx84.Flatseal"
-    ],
     "xdg-run/pipewire-0:ro": [
         "com.github.KRTirtho.Spotube",
         "com.github.kalibari.audok",
@@ -3373,6 +3344,9 @@
         "org.srb2.SRB2Kart-galaxy_azerty",
         "org.srb2.SRB2Kart",
         "sh.fhs.KatawaShoujoReEngineered"
+    ],
+    "xdg-data/flatpak/overrides:create": [
+        "com.github.tchx84.Flatseal"
     ],
     "~/.themes:create": [
         "com.github.themix_project.Oomox",
@@ -4273,6 +4247,11 @@
     "xdg-config/GIMP": [
         "org.gimp.GIMP"
     ],
+    "xdg-config/gtk-3.0": [
+        "org.gimp.GIMP",
+        "org.inkscape.Inkscape",
+        "org.libreoffice.LibreOffice"
+    ],
     "~/.local/share/icc:ro": [
         "org.gnome.ColorViewer"
     ],
@@ -4281,6 +4260,9 @@
     ],
     "xdg-cache/evolution/addressbook:ro": [
         "org.gnome.Contacts"
+    ],
+    "~/.mozilla/firefox": [
+        "org.gnome.Eolie"
     ],
     "~/.config/chromium": [
         "org.gnome.Eolie"

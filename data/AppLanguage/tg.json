@@ -1,5 +1,6 @@
 [
     "org.gnome.ColorViewer",
+    "org.gnome.Evince",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Totem",

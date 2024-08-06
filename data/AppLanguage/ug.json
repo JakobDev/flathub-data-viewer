@@ -1,6 +1,7 @@
 [
     "org.gnome.ColorViewer",
     "org.gnome.Epiphany",
+    "org.gnome.Evince",
     "org.gnome.Hamster",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
@@ -9,6 +10,7 @@
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.seahorse.Application",
+    "org.remmina.Remmina",
     "org.sugarlabs.Physics",
     "org.sugarlabs.ReadETexts",
     "org.sugarlabs.Words",

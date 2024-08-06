@@ -1,5 +1,6 @@
 [
     "org.gnome.Epiphany",
+    "org.gnome.Evince",
     "org.gnome.Taquin",
     "org.gnome.eog",
     "org.sugarlabs.AbacusActivity",

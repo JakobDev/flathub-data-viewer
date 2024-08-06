@@ -4,6 +4,7 @@
     "org.gnome.ColorViewer",
     "org.gnome.EasyTAG",
     "org.gnome.Epiphany",
+    "org.gnome.Evince",
     "org.gnome.OCRFeeder",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
@@ -18,5 +19,6 @@
     "org.gnome.gitg",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
+    "org.remmina.Remmina",
     "org.sugarlabs.Speak"
 ]

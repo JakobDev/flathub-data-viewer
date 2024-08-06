@@ -1497,6 +1497,7 @@
         "tr.com.ikooskar.ikoOSKAR",
         "ua.org.brezblock.q4wine",
         "uk.co.piggz.amazfish",
+        "uk.org.zint.zint-qt",
         "website.i2pd.i2pd",
         "xyz.mx_moment.moment",
         "xyz.z3ntu.razergenie"
@@ -2093,6 +2094,7 @@
         "tr.com.ikooskar.ikoOSKAR",
         "ua.org.brezblock.q4wine",
         "uk.co.piggz.amazfish",
+        "uk.org.zint.zint-qt",
         "website.i2pd.i2pd",
         "xyz.mx_moment.moment",
         "xyz.z3ntu.razergenie"
@@ -2705,7 +2707,6 @@
         "io.github.flattool.Warehouse",
         "io.github.fsobolev.TimeSwitch",
         "io.github.giantpinkrobots.bootqt",
-        "io.github.hakandundar34coding.system-monitoring-center",
         "io.github.jean28518.Linux-Assistant",
         "io.github.jeffshee.Hidamari",
         "io.github.jliljebl.Flowblade",
@@ -2825,6 +2826,7 @@
         "com.github.quaternion",
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
+        "com.mongodb.Compass",
         "com.nextcloud.desktopclient.nextcloud",
         "com.opera.Opera",
         "com.slack.Slack",
@@ -3300,6 +3302,7 @@
     ],
     "org.kde.kwalletd6": [
         "com.brave.Browser",
+        "com.mongodb.Compass",
         "com.nextcloud.desktopclient.nextcloud",
         "com.opera.Opera",
         "com.slack.Slack",

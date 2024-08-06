@@ -1,6 +1,7 @@
 [
     "org.gimp.GIMP",
     "org.gnome.Epiphany",
+    "org.gnome.Evince",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Totem",

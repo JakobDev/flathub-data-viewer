@@ -9,6 +9,7 @@
     "org.gnome.Calls",
     "org.gnome.ColorViewer",
     "org.gnome.Epiphany",
+    "org.gnome.Evince",
     "org.gnome.Hamster",
     "org.gnome.Loupe",
     "org.gnome.PowerStats",
@@ -24,6 +25,7 @@
     "org.gnome.gitg",
     "org.gnome.seahorse.Application",
     "org.musescore.MuseScore",
+    "org.remmina.Remmina",
     "org.speedcrunch.SpeedCrunch",
     "org.tuxpaint.Tuxpaint",
     "org.xfce.ristretto"

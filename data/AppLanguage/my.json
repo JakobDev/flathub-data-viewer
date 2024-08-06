@@ -1,6 +1,7 @@
 [
     "org.gimp.GIMP",
     "org.gnome.Calls",
+    "org.gnome.Evince",
     "org.gnome.Totem",
     "org.gnome.eog"
 ]

@@ -1,6 +1,7 @@
 [
     "app.drey.Dialect",
     "org.gnome.Epiphany",
+    "org.gnome.Evince",
     "org.gnome.Loupe",
     "org.gnome.Totem",
     "org.gnome.World.Citations",

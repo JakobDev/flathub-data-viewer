@@ -24,6 +24,7 @@
     "org.gnome.ColorViewer",
     "org.gnome.EasyTAG",
     "org.gnome.Epiphany",
+    "org.gnome.Evince",
     "org.gnome.Loupe",
     "org.gnome.NetworkDisplays",
     "org.gnome.PowerStats",
@@ -46,6 +47,7 @@
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gnome.seahorse.Application",
+    "org.remmina.Remmina",
     "org.x.Warpinator",
     "org.xfce.ristretto"
 ]

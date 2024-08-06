@@ -3,6 +3,7 @@
     "org.gimp.GIMP",
     "org.gnome.ColorViewer",
     "org.gnome.Epiphany",
+    "org.gnome.Evince",
     "org.gnome.Hamster",
     "org.gnome.OCRFeeder",
     "org.gnome.PowerStats",
@@ -17,6 +18,7 @@
     "org.gnome.seahorse.Application",
     "org.musescore.MuseScore",
     "org.pulseaudio.pavucontrol",
+    "org.remmina.Remmina",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint"
 ]

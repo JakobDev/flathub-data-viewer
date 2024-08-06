@@ -5,6 +5,7 @@
         "ca.parallel_launcher.ParallelLauncher",
         "ch.theologeek.Manuskript",
         "com.dreamsourcelab.DSView",
+        "com.flashforge.FlashPrint",
         "com.github.Flacon",
         "com.github.Murmele.Gittyup",
         "com.github._4lex4.ScanTailor-Advanced",
@@ -98,6 +99,7 @@
         "io.seamly.seamly2d",
         "moe.clover.mm3d",
         "net._86box._86Box",
+        "net.codeindustry.MasterPDFEditor",
         "net.dengine.Doomsday",
         "net.epson.epsonscan2",
         "net.mediaarea.MediaConch",
@@ -307,7 +309,6 @@
         "art.taunoerik.tauno-serial-plotter",
         "com.agateau.nanonote",
         "com.cuperino.qprompt",
-        "com.flashforge.FlashPrint",
         "com.github.cubitect.cubiomes-viewer",
         "com.github.debauchee.barrier",
         "com.github.hopsan.Hopsan",
@@ -339,7 +340,6 @@
         "io.sourceforge.chart_geany.chart-geany",
         "it.cuteworks.pacmanlogviewer",
         "me.ahola.aphototoollibre",
-        "net.codeindustry.MasterPDFEditor",
         "net.fsuae.FS-UAE",
         "net.jammr.jammr",
         "net.longturn.freeciv21",
@@ -664,7 +664,8 @@
         "page.codeberg.JakobDev.jdSimpleAutostart",
         "page.codeberg.JakobDev.jdTextEdit",
         "page.codeberg.lazyt.ubpm",
-        "space.nouspiro.tenmon"
+        "space.nouspiro.tenmon",
+        "uk.org.zint.zint-qt"
     ],
     "5.14": [
         "com.dhsdevelopments.Climaxima",
@@ -699,8 +700,7 @@
     "6.3": [
         "dev.levz.TinyImageFinder",
         "org.linux_hardware.hw-probe",
-        "org.subtitld.Subtitld",
-        "uk.org.zint.zint-qt"
+        "org.subtitld.Subtitld"
     ],
     "5.9": [
         "io.qt.qtwebkit.BaseApp"
