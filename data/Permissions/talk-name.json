@@ -150,8 +150,7 @@
         "org.videolan.VLC",
         "ru.yandex.Browser",
         "so.libdb.dissent",
-        "social.whalebird.WhalebirdDesktop",
-        "uk.et1.big-finish-downloader"
+        "social.whalebird.WhalebirdDesktop"
     ],
     "com.canonical.appmenu.registrar": [
         "app.bbsync.BlackboardSync",
@@ -2151,7 +2150,6 @@
         "com.icanblink.blink",
         "com.jianguoyun.Nutstore",
         "com.ktechpit.whatsie",
-        "com.leinardi.gkraken",
         "com.leinardi.gwe",
         "com.leinardi.gx52",
         "com.lunarclient.LunarClient",
@@ -2624,6 +2622,7 @@
         "org.tribler.Tribler",
         "org.wezfurlong.wezterm",
         "rest.insomnia.Insomnia",
+        "ru.linux_gaming.PortProton",
         "ru.proninyaroslav.libretrack",
         "ru.yandex.Browser",
         "sh.cider.Cider",
@@ -2667,7 +2666,6 @@
         "com.jetbrains.RubyMine",
         "com.jetbrains.WebStorm",
         "com.jetpackduba.Gitnuro",
-        "com.leinardi.gkraken",
         "com.leinardi.gst",
         "com.leinardi.gwe",
         "com.leinardi.gx52",
@@ -2689,7 +2687,6 @@
         "dev.ensoft.ecode",
         "dev.lapce.lapce",
         "dev.lizardbyte.app.Sunshine",
-        "dev.salaniLeo.immagini",
         "dev.zed.Zed",
         "edu.stanford.Almond",
         "engineer.atlas.Nyxt",

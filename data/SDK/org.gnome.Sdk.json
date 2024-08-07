@@ -23,8 +23,6 @@
         "com.leinardi.gx52",
         "com.mousepawmedia.omission",
         "com.st.STM32CubeIDE",
-        "dev.salaniLeo.immagini",
-        "edu.berkeley.BOINC",
         "eu.ithz.umftpd",
         "io.github.Snaggly.PS2_Pnacher",
         "io.github.fabrialberio.pinapp",
@@ -45,7 +43,6 @@
         "org.tryton.Tryton-68",
         "pm.mirko.Atoms",
         "uk.co.mangobrain.Infector",
-        "uk.et1.big-finish-downloader",
         "uk.jnthn.backgammony",
         "work.openpaper.Paperwork"
     ],
@@ -203,6 +200,7 @@
         "dev.salaniLeo.forecast",
         "dev.skynomads.Seabird",
         "dev.zelikos.rollit",
+        "edu.berkeley.BOINC",
         "es.danirod.Cartero",
         "eu.stethewwolf.gresistor",
         "fr.free.Homebank",
@@ -573,7 +571,6 @@
         "com.github.Johnn3y.Forklift",
         "com.github.artemanufrij.playmymusic",
         "com.github.babluboy.bookworm",
-        "com.github.bcedu.vgrive",
         "com.github.bluesabre.darkbar",
         "com.github.carlos157oliveira.Calculus",
         "com.github.horaciodrs.tradesim",
@@ -806,14 +803,12 @@
         "io.github.mideb.digitales_register",
         "io.github.swanux.hbud",
         "io.posidon.Paper",
-        "ml.mdwalters.EightBall",
         "org.blackfennec.app",
         "org.gnome.Totem"
     ],
     "3.38": [
         "com.gigitux.youp",
         "com.github.dawidd6.checksumo",
-        "com.github.labyrinth_team.labyrinth",
         "org.synfig.SynfigStudio"
     ],
     "40": [
@@ -822,7 +817,6 @@
         "com.github.arshubham.gitignore",
         "com.github.donadigo.appeditor",
         "com.github.rajsolai.response",
-        "com.leinardi.gkraken",
         "de.wwwtech.ColorMate",
         "io.github.lainsce.Quilter",
         "net.sourceforge.electrip.Electrip",

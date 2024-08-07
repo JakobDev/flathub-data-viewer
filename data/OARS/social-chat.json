@@ -2,7 +2,6 @@
     "mild": [
         "app.getspace.Space",
         "com.github.bcedu.valasimplehttpserver",
-        "com.github.bcedu.vgrive",
         "com.pojtinger.felicitas.Multiplex",
         "com.tux4kids.tuxmath",
         "com.tux4kids.tuxtype",
