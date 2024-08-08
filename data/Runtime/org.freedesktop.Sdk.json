@@ -23,6 +23,7 @@
         "com.netxms.NetXMSClient",
         "com.sublimemerge.App",
         "com.synology.SynologyDrive",
+        "com.unity.UnityHub",
         "com.visualstudio.code",
         "com.vscodium.codium-insiders",
         "com.vscodium.codium",
@@ -55,7 +56,6 @@
     "22.08": [
         "com.pinegrow.Pinegrow",
         "com.synology.SynologyAssistant",
-        "com.unity.UnityHub",
         "com.visualstudio.code-oss",
         "fr.natron.Natron",
         "io.atom.Atom",

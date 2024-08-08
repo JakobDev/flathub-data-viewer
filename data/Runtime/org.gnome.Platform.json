@@ -473,6 +473,7 @@
         "org.gnome.gedit",
         "org.gnome.gitg",
         "org.gnome.gitlab.Cowsay",
+        "org.gnome.gitlab.YaLTeR.VideoTrimmer",
         "org.gnome.gitlab.cheywood.Buffer",
         "org.gnome.gitlab.cheywood.Pulp",
         "org.gnome.gitlab.dqpb.GMetronome",
@@ -753,7 +754,6 @@
         "org.gnome.design.SymbolicPreview",
         "org.gnome.frogr",
         "org.gnome.gitlab.YaLTeR.Identity",
-        "org.gnome.gitlab.YaLTeR.VideoTrimmer",
         "org.gnome.gitlab.bazylevnik0.Convolution",
         "org.gpodder.gpodder-adaptive",
         "org.gpodder.gpodder",
@@ -801,7 +801,6 @@
     ],
     "3.38": [
         "com.gigitux.youp",
-        "com.github.dawidd6.checksumo",
         "org.synfig.SynfigStudio"
     ],
     "40": [
@@ -816,7 +815,6 @@
         "org.gnome.Eolie"
     ],
     "3.36": [
-        "com.github.bajoja.indicator-kdeconnect",
         "com.github.calo001.fondo",
         "com.github.inercia.k3x",
         "org.fdroid.Repomaker",

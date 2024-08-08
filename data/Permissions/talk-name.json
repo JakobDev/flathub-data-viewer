@@ -2128,7 +2128,6 @@
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.KRTirtho.Spotube",
         "com.github.Qv2ray",
-        "com.github.bajoja.indicator-kdeconnect",
         "com.github.debauchee.barrier",
         "com.github.dynobo.normcap",
         "com.github.gabutakut.gabutdm",
@@ -2372,7 +2371,6 @@
         "com.github.Qv2ray",
         "com.github.amikha1lov.RecApp",
         "com.github.artemanufrij.playmymusic",
-        "com.github.bajoja.indicator-kdeconnect",
         "com.github.dynobo.normcap",
         "com.github.geigi.cozy",
         "com.github.inercia.k3x",
@@ -3323,18 +3321,15 @@
     ],
     "org.freedesktop.ibus": [
         "com.codemouse92.timecard",
-        "com.github.bajoja.indicator-kdeconnect",
         "com.mousepawmedia.omission"
     ],
     "org.freedesktop.dbus.proprieties": [
         "com.codemouse92.timecard",
-        "com.github.bajoja.indicator-kdeconnect",
         "com.mousepawmedia.omission",
         "org.openchemistry.Avogadro2"
     ],
     "org.kde.kdeconnect": [
-        "com.core447.StreamController",
-        "com.github.bajoja.indicator-kdeconnect"
+        "com.core447.StreamController"
     ],
     "org.mpris.mediaplayer2.*": [
         "com.core447.StreamController",
@@ -3427,9 +3422,6 @@
     ],
     "org.freedesktop.thumbnails.thumbnailer1": [
         "com.github.artemanufrij.playmyvideos"
-    ],
-    "org.kde.kdeconnectd": [
-        "com.github.bajoja.indicator-kdeconnect"
     ],
     "org.freedesktop.tracker3.miner.files": [
         "com.github.birros.WebArchives"
