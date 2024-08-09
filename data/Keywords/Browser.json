@@ -1,6 +1,7 @@
 [
     "de.create3000.titania",
     "engineer.atlas.Nyxt",
+    "io.github.zen_browser.zen",
     "net.mullvad.MullvadBrowser",
     "org.mozilla.firefox",
     "org.qutebrowser.qutebrowser"

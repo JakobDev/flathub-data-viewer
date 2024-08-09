@@ -85,8 +85,13 @@
     "org.mpris.mediaplayer2.clapper": [
         "com.github.rafostar.Clapper"
     ],
+    "org.mpris.mediaplayer2.tauon": [
+        "com.github.taiko2k.tauonmb"
+    ],
+    "org.mpris.mediaplayer2.mellowplayer3.*": [
+        "com.gitlab.ColinDuquesnoy.MellowPlayer"
+    ],
     "org.mpris.mediaplayer2.chromium.*": [
-        "com.github.rhyme_player.rhyme",
         "com.google.Chrome",
         "com.google.ChromeDev",
         "com.opera.Opera",
@@ -102,12 +107,6 @@
         "org.chromium.Chromium",
         "ru.yandex.Browser",
         "tech.feliciano.pocket-casts"
-    ],
-    "org.mpris.mediaplayer2.tauon": [
-        "com.github.taiko2k.tauonmb"
-    ],
-    "org.mpris.mediaplayer2.mellowplayer3.*": [
-        "com.gitlab.ColinDuquesnoy.MellowPlayer"
     ],
     "org.mpris.mediaplayer2.google_play_music_desktop_player": [
         "com.googleplaymusicdesktopplayer.GPMDP"

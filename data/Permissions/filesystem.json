@@ -218,7 +218,6 @@
         "io.github.JaGoLi.ytdl_gui",
         "io.github.MakovWait.Godots",
         "io.github.RodZill4.Material-Maker",
-        "io.github.accessory.minus_games_client",
         "io.github.adrienverge.PhotoCollage",
         "io.github.alainm23.planify",
         "io.github.am2r_community_developers.Atomic",
@@ -2186,7 +2185,6 @@
         "com.valvesoftware.Steam",
         "dev.hdos.HDOS",
         "info.beyondallreason.bar",
-        "io.github.accessory.minus_games_client",
         "io.github.hmlendea.geforcenow-electron",
         "io.github.mandruis7.xbox-cloud-gaming-electron",
         "io.github.nate_xyz.Resonance",
@@ -2320,7 +2318,6 @@
         "com.corsixth.corsixth",
         "com.github.maoschanz.DynamicWallpaperEditor",
         "com.github.marinm.songrec",
-        "com.github.rhyme_player.rhyme",
         "com.github.yucefsourani.albasheer-electronic-quran-browser",
         "com.retrodev.blastem",
         "com.vagueentertainment.Framed",
@@ -2405,7 +2402,6 @@
     ],
     "xdg-run/gamescope-0:ro": [
         "ca.parallel_launcher.ParallelLauncher",
-        "io.github.accessory.minus_games_client",
         "io.github.shiiion.primehack",
         "net.lutris.Lutris",
         "net.retrodeck.retrodeck",
@@ -2850,6 +2846,7 @@
         "com.github.Matoking.protontricks",
         "com.vysp3r.ProtonPlus",
         "gg.minion.Minion",
+        "io.github.accessory.minus_games_client",
         "net.davidotek.pupgui2",
         "net.studio08.xbplay",
         "xyz.hyperplay.HyperPlay"
@@ -3151,7 +3148,6 @@
     ],
     "/media:ro": [
         "com.github.AlizaMedicalImaging.AlizaMS",
-        "com.github.rhyme_player.rhyme",
         "io.github.Soundux",
         "io.github.maddecoder.Classic-RBDOOM-3-BFG",
         "io.github.mihnea_radulescu.imagefanreloaded",
@@ -3164,7 +3160,6 @@
     ],
     "/run/media:ro": [
         "com.github.AlizaMedicalImaging.AlizaMS",
-        "com.github.rhyme_player.rhyme",
         "io.github.Soundux",
         "io.github.btpf.alexandria",
         "io.github.maddecoder.Classic-RBDOOM-3-BFG",
@@ -3702,6 +3697,9 @@
     ],
     "xdg-config/sway": [
         "io.github.Sunderland93.sway-input-config"
+    ],
+    "~/.var/app/org.openwinecomponents.umu.umu-launcher": [
+        "io.github.accessory.minus_games_client"
     ],
     "xdg-documents:create": [
         "io.github.aerocyber.sitemarker"

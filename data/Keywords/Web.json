@@ -2,6 +2,7 @@
     "com.belmoussaoui.ReadItLater",
     "com.pinegrow.Pinegrow",
     "engineer.atlas.Nyxt",
+    "io.github.zen_browser.zen",
     "net.mullvad.MullvadBrowser",
     "org.mozilla.firefox"
 ]

@@ -3,5 +3,6 @@
     "org.gnome.Calls",
     "org.gnome.Evince",
     "org.gnome.Totem",
-    "org.gnome.eog"
+    "org.gnome.eog",
+    "org.learningequality.Kolibri"
 ]
