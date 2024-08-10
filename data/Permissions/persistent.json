@@ -213,7 +213,8 @@
         "com.netease.CloudMusic"
     ],
     ".nxmc4": [
-        "com.netxms.NetXMSClient"
+        "com.netxms.NetXMSClient",
+        "com.netxms.NetXMSClient50"
     ],
     ".nx": [
         "com.nomachine.nxplayer"
@@ -417,6 +418,9 @@
     ],
     ".wineprefixes": [
         "io.github.aggalex.Wineglass"
+    ],
+    ".yass": [
+        "io.github.chilledheart.yass"
     ],
     ".ezquake": [
         "io.github.ezQuake"
@@ -814,6 +818,12 @@
     ],
     ".config/raze": [
         "org.zdoom.Raze"
+    ],
+    "Zotero": [
+        "org.zotero.Zotero"
+    ],
+    ".zotero": [
+        "org.zotero.Zotero"
     ],
     ".thinlinc": [
         "se.cendio.tlclient"

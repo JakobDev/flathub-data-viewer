@@ -1,4 +1,5 @@
 [
     "io.github.dagargo.Elektroid",
-    "net.retrodeck.retrodeck"
+    "net.retrodeck.retrodeck",
+    "net.sourceforge.audmes.audmes"
 ]

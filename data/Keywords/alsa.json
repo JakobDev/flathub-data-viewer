@@ -1,4 +1,5 @@
 [
     "com.giadamusic.Giada",
-    "io.github.dagargo.Elektroid"
+    "io.github.dagargo.Elektroid",
+    "net.sourceforge.audmes.audmes"
 ]

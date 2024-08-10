@@ -21,6 +21,7 @@
         "com.jetbrains.RubyMine",
         "com.jetbrains.WebStorm",
         "com.netxms.NetXMSClient",
+        "com.netxms.NetXMSClient50",
         "com.sublimemerge.App",
         "com.synology.SynologyDrive",
         "com.unity.UnityHub",
@@ -45,7 +46,8 @@
         "org.kicad.KiCad",
         "org.scintilla.SciTE",
         "org.thonny.Thonny",
-        "org.vim.Vim"
+        "org.vim.Vim",
+        "uno.platform.uno-calculator"
     ],
     "21.08": [
         "com.okta.developer.CLI",

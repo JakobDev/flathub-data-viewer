@@ -483,6 +483,7 @@
         "pro.vpup.vpuppr",
         "re.rizin.cutter",
         "re.sonny.Commit",
+        "rs.ruffle.Ruffle",
         "sa.sy.bluerecorder",
         "se.sjoerd.GIScan",
         "se.trixon.Mapollage",
@@ -599,6 +600,7 @@
         "io.github.jacalz.rymdport",
         "io.github.martinrotter.rssguard",
         "io.github.martinrotter.rssguardlite",
+        "io.github.mhogomchungu.media-downloader",
         "io.github.milkshiift.GoofCord",
         "io.github.nostar.DroidStar",
         "io.github.qnapi",
@@ -680,7 +682,6 @@
         "org.v1993.NXDumpClient",
         "org.winehq.Wine",
         "org.zaproxy.ZAP",
-        "org.zotero.Zotero",
         "org.zulip.Zulip",
         "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "pl.art.lach.slawek.V2BlankBrowser",
@@ -873,6 +874,7 @@
         "io.github.bothlab.pomidaq",
         "io.github.bothlab.syntalos",
         "io.github.cges30901.hmtimer",
+        "io.github.chilledheart.yass",
         "io.github.chris2511.xca",
         "io.github.ciromattia.kcc",
         "io.github.cloose.CuteMarkEd",
@@ -912,6 +914,7 @@
         "io.github.martinrotter.rssguardlite",
         "io.github.martinrotter.textosaurus",
         "io.github.maurycyliebner.enve",
+        "io.github.mhogomchungu.media-downloader",
         "io.github.muse_sequencer.Muse",
         "io.github.myst6re.makoureactor",
         "io.github.najepaliya.kleaner",
@@ -1036,6 +1039,7 @@
         "nz.mega.MEGAsync",
         "one.flipperzero.qFlipper",
         "org.DolphinEmu.dolphin-emu",
+        "org.artisan_scope.artisan",
         "org.atheme.audacious",
         "org.avidemux.Avidemux",
         "org.beeref.BeeRef",
@@ -1816,7 +1820,6 @@
         "org.subtitld.Subtitld",
         "org.turbowarp.TurboWarp",
         "org.winehq.Wine",
-        "org.zotero.Zotero",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
     ],
@@ -1955,6 +1958,7 @@
         "net.xmind.XMind8",
         "one.ablaze.floorp",
         "org.apache.jmeter",
+        "org.artisan_scope.artisan",
         "org.audiveris.audiveris",
         "org.eu.wabarc.wayback",
         "org.firestormviewer.FirestormViewer",
@@ -1981,7 +1985,6 @@
         "org.winehq.Wine",
         "org.xnec2c.Xnec2c",
         "org.zaproxy.ZAP",
-        "org.zotero.Zotero",
         "org.zulip.Zulip",
         "tr.gov.uyap.Editor",
         "ua.org.brezblock.q4wine",
@@ -2518,7 +2521,6 @@
         "org.subtitld.Subtitld",
         "org.turbowarp.TurboWarp",
         "org.winehq.Wine",
-        "org.zotero.Zotero",
         "org.zulip.Zulip",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
@@ -2577,7 +2579,6 @@
         "org.kde.kamoso",
         "org.qutebrowser.qutebrowser",
         "org.winehq.Wine",
-        "org.zotero.Zotero",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
     ],
@@ -3029,7 +3030,6 @@
         "org.garudalinux.firedragon",
         "org.turbowarp.TurboWarp",
         "org.winehq.Wine",
-        "org.zotero.Zotero",
         "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "ua.org.brezblock.q4wine",
         "xyz.hyperplay.HyperPlay"
@@ -3208,8 +3208,7 @@
         "net.blockbench.Blockbench",
         "no.mifi.losslesscut",
         "org.gnome.gThumb",
-        "org.wireshark.Wireshark",
-        "org.zotero.Zotero"
+        "org.wireshark.Wireshark"
     ],
     "xdg-pictures/RMG": [
         "com.github.Rosalie241.RMG"
@@ -3807,6 +3806,10 @@
     "xdg-videos/Hidamari:create": [
         "io.github.jeffshee.Hidamari"
     ],
+    "xdg-desktop:create": [
+        "io.github.lime3ds.Lime3DS",
+        "page.codeberg.JakobDev.jdMinecraftLauncher"
+    ],
     "xdg-data/Steam:ro": [
         "io.github.loot.loot"
     ],
@@ -3988,9 +3991,6 @@
     "xdg-documents/O20:create": [
         "io.gitlab.o20.word"
     ],
-    "xdg-documents/TabletopClub:create": [
-        "io.itch.drwhut.TabletopClub"
-    ],
     "~/.minikube:ro": [
         "io.kinvolk.Headlamp"
     ],
@@ -4147,6 +4147,9 @@
     ],
     "/run/ikedi": [
         "net.shrew.ike.qikea"
+    ],
+    "xdg-documents/TabletopClub:create": [
+        "net.tabletopclub.TabletopClub"
     ],
     "xdg-pictures/veloren:create": [
         "net.veloren.veloren"
@@ -4423,9 +4426,6 @@
         "page.codeberg.JakobDev.jdMacroPlayer",
         "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdSimpleAutostart"
-    ],
-    "xdg-desktop:create": [
-        "page.codeberg.JakobDev.jdMinecraftLauncher"
     ],
     "/var/lib/flatpak/exports/share/applications:ro": [
         "page.codeberg.JakobDev.jdProcessFileWatcher",
