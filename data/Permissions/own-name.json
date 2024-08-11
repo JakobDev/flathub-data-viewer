@@ -29,6 +29,9 @@
         "re.chiaki.Chiaki",
         "us.zoom.Zoom"
     ],
+    "org.gtk.vfs.*": [
+        "com.beavernotes.beavernotes"
+    ],
     "org.qemu": [
         "com.belmoussaoui.snowglobe"
     ],

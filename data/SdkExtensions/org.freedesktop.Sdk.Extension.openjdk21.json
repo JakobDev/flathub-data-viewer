@@ -12,5 +12,6 @@
     "org.libreoffice.LibreOffice",
     "org.openstreetmap.josm",
     "org.polymc.PolyMC",
-    "org.prismlauncher.PrismLauncher"
+    "org.prismlauncher.PrismLauncher",
+    "work.openpaper.Paperwork"
 ]

@@ -98,6 +98,7 @@
     "org.apache.jmeter",
     "org.ardour.Ardour",
     "org.bionus.Grabber",
+    "org.cataclysmdda.CataclysmDDA",
     "org.easyrpg.player",
     "org.emptyflow.ArdorQuery",
     "org.expresslrs.ExpressLRSConfigurator",

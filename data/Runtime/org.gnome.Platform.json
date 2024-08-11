@@ -41,8 +41,7 @@
         "org.tryton.Tryton-68",
         "pm.mirko.Atoms",
         "uk.co.mangobrain.Infector",
-        "uk.jnthn.backgammony",
-        "work.openpaper.Paperwork"
+        "uk.jnthn.backgammony"
     ],
     "46": [
         "app.devsuite.Manuals",
@@ -85,6 +84,7 @@
         "com.github.Alcaro.Flips",
         "com.github.Darazaki.Spedread",
         "com.github.HypatiaProject.hypatia",
+        "com.github.KRTirtho.Spotube",
         "com.github.PintaProject.Pinta",
         "com.github.afrantzis.Bless",
         "com.github.alexkdeveloper.desktop-files-creator",
@@ -558,6 +558,7 @@
         "sm.puri.Chatty",
         "so.libdb.dissent",
         "vn.hoabinh.quan.CoBang",
+        "work.openpaper.Paperwork",
         "xyz.parlatype.Parlatype",
         "xyz.safeworlds.hiit",
         "xyz.tytanium.DoorKnocker"
@@ -606,7 +607,6 @@
         "com.felipekinoshita.Kana",
         "com.felipekinoshita.Wildcard",
         "com.gitbutler.gitbutler",
-        "com.github.KRTirtho.Spotube",
         "com.github.PopoutApps.popout3d",
         "com.github.aharotias2.parapara",
         "com.github.alexkdeveloper.astronum",

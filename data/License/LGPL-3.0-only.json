@@ -9,7 +9,6 @@
     "io.qt.Linguist",
     "io.qt.PySide.BaseApp",
     "io.qt.qdbusviewer",
-    "org.shadowsocks.qt5client",
     "org.tribler.Tribler",
     "re.rizin.cutter.plugin.rz-ghidra"
 ]

@@ -5,6 +5,7 @@
         "ca.parallel_launcher.ParallelLauncher",
         "ch.theologeek.Manuskript",
         "com.dreamsourcelab.DSView",
+        "com.eminfedar.vaktisalah",
         "com.flashforge.FlashPrint",
         "com.github.Flacon",
         "com.github.Murmele.Gittyup",
@@ -369,7 +370,6 @@
     ],
     "5.15-21.08": [
         "at.priv.toastfreeware.ConfClerk",
-        "com.eminfedar.vaktisalah",
         "com.github.Murmele.scram",
         "com.github.chipmuenk.pyfda",
         "com.github.coslyk.MoonPlayer",
@@ -428,7 +428,6 @@
         "org.mobsya.ThymioSuite",
         "org.openkj.OpenKJ",
         "org.pyzo.pyzo",
-        "org.shadowsocks.qt5client",
         "org.tomviz.Tomviz"
     ],
     "6.7": [

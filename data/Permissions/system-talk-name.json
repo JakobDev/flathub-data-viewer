@@ -80,6 +80,7 @@
         "org.gnome.OfficeRunner",
         "org.gnome.Todo",
         "org.keepassxc.KeePassXC",
+        "org.opencpn.OpenCPN",
         "org.qbittorrent.qBittorrent",
         "org.sabnzbd.sabnzbd",
         "org.signal.Signal",
@@ -309,7 +310,8 @@
     ],
     "org.freedesktop.systemd1": [
         "io.missioncenter.MissionCenter",
-        "org.easycoding.TunedSwitcher"
+        "org.easycoding.TunedSwitcher",
+        "org.opencpn.OpenCPN"
     ],
     "org.bluez.*": [
         "me.timschneeberger.GalaxyBudsClient"

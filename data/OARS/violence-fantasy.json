@@ -287,6 +287,7 @@
         "net.dengine.Doomsday",
         "net.sourceforge.quakespasm.Quakespasm",
         "net.sourceforge.uhexen2.uhexen2",
+        "org.cataclysmdda.CataclysmDDA",
         "org.chocolate_doom.ChocolateDoom",
         "org.flarerpg.Flare",
         "org.phoenicis.playonlinux",
