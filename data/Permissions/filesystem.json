@@ -514,7 +514,6 @@
         "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
         "com.github.ahrm.sioyek",
-        "com.github.arminstraub.krop",
         "com.github.corna.Vivado",
         "com.github.coslyk.MoonPlayer",
         "com.github.dimkr.gplaces",
@@ -1755,7 +1754,6 @@
         "com.cocoatech.deckr",
         "com.github.Matoking.protontricks",
         "com.github.ahrm.sioyek",
-        "com.github.arminstraub.krop",
         "com.github.gmg137.netease-cloud-music-gtk",
         "com.github.gyunaev.spivak",
         "com.github.kalibari.audok",
@@ -1875,7 +1873,6 @@
         "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
         "com.github.ahrm.sioyek",
-        "com.github.arminstraub.krop",
         "com.github.corna.Vivado",
         "com.github.flxzt.rnote",
         "com.github.gpuvis.Gpuvis",
@@ -1923,6 +1920,7 @@
         "io.github.TheThirdOne.rars",
         "io.github.aggalex.Wineglass",
         "io.github.babaissarkar.ssplot",
+        "io.github.bkbilly.lnxlink",
         "io.github.chris2511.xca",
         "io.github.dman95.SASM",
         "io.github.eteran.edb-debugger",
@@ -2023,7 +2021,6 @@
         "com.bambulab.BambuStudio",
         "com.github._0negal.Viper",
         "com.github.ahrm.sioyek",
-        "com.github.arminstraub.krop",
         "com.github.artemanufrij.playmyvideos",
         "com.github.kagami.boram",
         "com.github.makhber.Makhber",
@@ -2098,7 +2095,6 @@
         "com.bambulab.BambuStudio",
         "com.github.PintaProject.Pinta",
         "com.github.ahrm.sioyek",
-        "com.github.arminstraub.krop",
         "com.github.artemanufrij.playmyvideos",
         "com.github.kagami.boram",
         "com.github.makhber.Makhber",
@@ -3710,6 +3706,12 @@
     ],
     "/run/udev": [
         "io.github.berarma.Oversteer"
+    ],
+    "/tmp/lnxlink:create": [
+        "io.github.bkbilly.lnxlink"
+    ],
+    "/var/run/reboot-required": [
+        "io.github.bkbilly.lnxlink"
     ],
     "/srv": [
         "io.github.bothlab.pomidaq",

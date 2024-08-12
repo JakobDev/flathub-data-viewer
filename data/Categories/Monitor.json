@@ -3,6 +3,7 @@
     "com.netxms.NetXMSClient",
     "com.netxms.NetXMSClient50",
     "de.nagstamon.nagstamon",
+    "io.github.bkbilly.lnxlink",
     "io.github.carterbox.Electricity_Clock",
     "io.missioncenter.MissionCenter",
     "org.gnome.Logs",
