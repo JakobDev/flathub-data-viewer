@@ -10,6 +10,7 @@
     "com.belmoussaoui.Decoder",
     "com.belmoussaoui.Obfuscate",
     "com.feaneron.Boatswain",
+    "com.github.arshubham.cipher",
     "com.github.cassidyjames.clairvoyant",
     "com.github.cassidyjames.dippi",
     "com.github.tenderowl.norka",

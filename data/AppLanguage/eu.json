@@ -13,6 +13,7 @@
     "io.bassi.Amberol",
     "io.github.Hexchat",
     "io.github.celluloid_player.Celluloid",
+    "io.github.diegoivan.pdf_metadata_editor",
     "io.github.mrvladus.List",
     "net.minetest.Minetest",
     "net.sourceforge.Hugin",

@@ -1,7 +1,6 @@
 {
     "juno-22.08": [
         "com.github.alainm23.byte",
-        "com.github.arshubham.cipher",
         "com.github.artemanufrij.playmyvideos",
         "com.github.bcedu.valasimplehttpserver",
         "com.github.devalien.workspaces",
@@ -23,6 +22,9 @@
         "com.github.raibtoffoletto.litteris",
         "com.github.rajsolai.response",
         "com.github.robertsanseries.ciano"
+    ],
+    "juno-23.08": [
+        "com.github.arshubham.cipher"
     ],
     "juno-21.08": [
         "com.github.artemanufrij.playmymusic",

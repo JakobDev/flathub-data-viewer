@@ -202,6 +202,7 @@
     "net.blockattack.game",
     "net.displaycal.DisplayCAL",
     "net.lutris.Lutris",
+    "net.minetest.Minetest",
     "net.natesales.Aviator",
     "net.nokyan.Resources",
     "net.poedit.Poedit",

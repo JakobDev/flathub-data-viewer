@@ -263,9 +263,6 @@
     "org.mpris.mediaplayer2.newsflash": [
         "io.gitlab.news_flash.NewsFlash"
     ],
-    "org.mpris.mediaplayer2.monophony": [
-        "io.gitlab.zehkira.Monophony"
-    ],
     "io.howl.*": [
         "io.howl.Editor"
     ],
