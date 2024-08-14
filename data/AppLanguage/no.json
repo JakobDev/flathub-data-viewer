@@ -1,5 +1,6 @@
 [
     "com.github.xournalpp.xournalpp",
     "de.manuel_kehl.go-for-it",
-    "io.neovim.nvim"
+    "io.neovim.nvim",
+    "org.midori_browser.Midori"
 ]

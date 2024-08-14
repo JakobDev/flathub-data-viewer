@@ -16,7 +16,6 @@
         "com.github.arshubham.gitignore",
         "com.github.artemanufrij.graphui",
         "com.github.artemanufrij.regextester",
-        "com.github.childishgiant.mixer",
         "com.github.donadigo.appeditor",
         "com.github.philip_scott.spice-up",
         "com.github.raibtoffoletto.litteris",
@@ -24,7 +23,8 @@
         "com.github.robertsanseries.ciano"
     ],
     "juno-23.08": [
-        "com.github.arshubham.cipher"
+        "com.github.arshubham.cipher",
+        "com.github.childishgiant.mixer"
     ],
     "juno-21.08": [
         "com.github.artemanufrij.playmymusic",

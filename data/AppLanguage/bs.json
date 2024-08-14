@@ -20,6 +20,7 @@
     "org.gnome.gitg",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
+    "org.midori_browser.Midori",
     "org.remmina.Remmina",
     "org.sugarlabs.Speak"
 ]

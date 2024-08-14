@@ -1,5 +1,6 @@
 [
     "io.github.jliljebl.Flowblade",
     "org.kde.kdenlive",
+    "org.kde.krita",
     "org.shotcut.Shotcut"
 ]

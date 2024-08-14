@@ -13,6 +13,7 @@
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.seahorse.Application",
+    "org.midori_browser.Midori",
     "org.tuxpaint.Tuxpaint",
     "org.xfce.ristretto"
 ]

@@ -1,6 +1,7 @@
 [
     "com.behringer.XAirEdit",
     "com.bitwig.BitwigStudio",
+    "com.github.childishgiant.mixer",
     "io.jamulus.Jamulus",
     "net.sonobus.SonoBus",
     "org.mixxx.Mixxx",

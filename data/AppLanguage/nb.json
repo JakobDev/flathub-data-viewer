@@ -40,6 +40,7 @@
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
     "org.gramps_project.Gramps",
+    "org.midori_browser.Midori",
     "org.musescore.MuseScore",
     "org.musicbrainz.Picard",
     "org.speedcrunch.SpeedCrunch",
