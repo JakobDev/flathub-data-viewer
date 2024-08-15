@@ -17,14 +17,14 @@
         "com.github.artemanufrij.graphui",
         "com.github.artemanufrij.regextester",
         "com.github.donadigo.appeditor",
-        "com.github.philip_scott.spice-up",
         "com.github.raibtoffoletto.litteris",
         "com.github.rajsolai.response",
         "com.github.robertsanseries.ciano"
     ],
     "juno-23.08": [
         "com.github.arshubham.cipher",
-        "com.github.childishgiant.mixer"
+        "com.github.childishgiant.mixer",
+        "com.github.philip_scott.spice-up"
     ],
     "juno-21.08": [
         "com.github.artemanufrij.playmymusic",

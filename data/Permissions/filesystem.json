@@ -78,7 +78,6 @@
         "com.github.gijsgoudzwaard.image-optimizer",
         "com.github.git_cola.git-cola",
         "com.github.hopsan.Hopsan",
-        "com.github.hugolabe.Wike",
         "com.github.huluti.Curtail",
         "com.github.inercia.k3x",
         "com.github.jmlich.geotagging",
@@ -219,7 +218,6 @@
         "io.github.MakovWait.Godots",
         "io.github.RodZill4.Material-Maker",
         "io.github.adrienverge.PhotoCollage",
-        "io.github.alainm23.planify",
         "io.github.am2r_community_developers.Atomic",
         "io.github.antimicrox.antimicrox",
         "io.github.benini.scid",
@@ -818,6 +816,7 @@
         "community.pathofbuilding.PathOfBuilding",
         "cz.cvut.edu.comparch.qtrvsim",
         "de.akaflieg_freiburg.cavok.add_hours_and_minutes",
+        "de.akaflieg_freiburg.enroute",
         "de.bund.ausweisapp.ausweisapp2",
         "de.halaszovich.PMbrowser",
         "de.klayout.KLayout",
@@ -3246,6 +3245,7 @@
     ],
     "xdg-data/applications:create": [
         "com.github.donadigo.appeditor",
+        "io.github.lime3ds.Lime3DS",
         "org.bluesabre.MenuLibre",
         "page.codeberg.JakobDev.jdMinecraftLauncher",
         "page.codeberg.libre_menu_editor.LibreMenuEditor"

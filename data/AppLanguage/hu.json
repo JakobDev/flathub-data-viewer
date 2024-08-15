@@ -3,6 +3,8 @@
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.github.debauchee.barrier",
+    "com.github.hugolabe.Wike",
+    "com.github.ryonakano.reco",
     "com.github.unrud.VideoDownloader",
     "com.github.unrud.djpdf",
     "com.github.xournalpp.xournalpp",
@@ -89,6 +91,7 @@
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "page.kramo.Cartridges",
+    "se.sjoerd.Graphs",
     "sm.puri.Chatty",
     "xyz.safeworlds.hiit"
 ]

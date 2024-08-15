@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "com.github.hugolabe.Wike",
     "fr.romainvigier.MetadataCleaner",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Words",

@@ -4,6 +4,7 @@
     "com.belmoussaoui.Authenticator",
     "com.felipekinoshita.Wildcard",
     "com.github.finefindus.eyedropper",
+    "com.github.hugolabe.Wike",
     "com.github.xournalpp.xournalpp",
     "com.tux4kids.tuxtype",
     "de.haeckerfelix.Shortwave",
@@ -66,5 +67,6 @@
     "org.x.Warpinator",
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
+    "se.sjoerd.Graphs",
     "sm.puri.Chatty"
 ]

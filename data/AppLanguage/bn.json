@@ -1,6 +1,7 @@
 [
     "app.drey.Dialect",
     "com.endlessm.photos",
+    "com.github.hugolabe.Wike",
     "de.schmidhuberj.Flare",
     "fr.romainvigier.MetadataCleaner",
     "org.fritzing.Fritzing",

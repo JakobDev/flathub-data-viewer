@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "com.github.hugolabe.Wike",
     "com.tux4kids.tuxtype",
     "fr.romainvigier.MetadataCleaner",
     "org.gimp.GIMP",

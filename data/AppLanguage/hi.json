@@ -3,8 +3,10 @@
     "com.belmoussaoui.Authenticator",
     "com.endlessm.photos",
     "com.github.ADBeveridge.Raider",
+    "com.github.hugolabe.Wike",
     "com.github.ryonakano.konbucase",
     "com.github.ryonakano.pinit",
+    "com.github.ryonakano.reco",
     "com.github.tenderowl.frog",
     "com.github.unrud.VideoDownloader",
     "com.github.xournalpp.xournalpp",
@@ -66,6 +68,7 @@
     "org.widelands.Widelands",
     "org.x.Warpinator",
     "page.kramo.Cartridges",
+    "se.sjoerd.Graphs",
     "sm.puri.Chatty",
     "xyz.safeworlds.hiit"
 ]

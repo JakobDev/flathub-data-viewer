@@ -4,8 +4,10 @@
     "com.belmoussaoui.Authenticator",
     "com.felipekinoshita.Wildcard",
     "com.github.debauchee.barrier",
+    "com.github.hugolabe.Wike",
     "com.github.marhkb.Pods",
     "com.github.ryonakano.konbucase",
+    "com.github.ryonakano.reco",
     "com.github.tenderowl.frog",
     "com.github.unrud.VideoDownloader",
     "com.github.xournalpp.xournalpp",
@@ -85,6 +87,7 @@
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "page.kramo.Cartridges",
+    "se.sjoerd.Graphs",
     "sm.puri.Chatty",
     "xyz.safeworlds.hiit"
 ]

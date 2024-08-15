@@ -2,6 +2,7 @@
     "6.7": [
         "ch.openboard.OpenBoard",
         "com.riverbankcomputing.PyQt.BaseApp",
+        "de.akaflieg_freiburg.enroute",
         "io.github.xiaoyifang.goldendict_ng",
         "io.gpt4all.gpt4all",
         "io.mrarm.mcpelauncher",

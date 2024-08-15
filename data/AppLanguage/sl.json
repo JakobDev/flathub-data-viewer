@@ -66,5 +66,6 @@
     "org.tuxpaint.Tuxpaint",
     "org.widelands.Widelands",
     "org.xfce.ristretto",
-    "org.zim_wiki.Zim"
+    "org.zim_wiki.Zim",
+    "se.sjoerd.Graphs"
 ]

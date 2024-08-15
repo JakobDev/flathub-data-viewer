@@ -12,7 +12,9 @@
     "com.github.debauchee.barrier",
     "com.github.edenalencar.identifications",
     "com.github.elth0r0.iqpuzzle",
+    "com.github.hugolabe.Wike",
     "com.github.marhkb.Pods",
+    "com.github.ryonakano.reco",
     "com.github.subhadeepjasu.pebbles",
     "com.github.tenderowl.frog",
     "com.github.xournalpp.xournalpp",
@@ -141,6 +143,7 @@
     "org.zim_wiki.Zim",
     "page.kramo.Cartridges",
     "re.sonny.Commit",
+    "se.sjoerd.Graphs",
     "sm.puri.Chatty",
     "ua.org.brezblock.q4wine"
 ]
