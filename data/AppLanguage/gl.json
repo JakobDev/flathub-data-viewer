@@ -10,6 +10,7 @@
     "fr.romainvigier.MetadataCleaner",
     "io.bassi.Amberol",
     "io.github.Hexchat",
+    "io.github.berarma.Oversteer",
     "io.gitlab.news_flash.NewsFlash",
     "io.posidon.Paper",
     "net.minetest.Minetest",

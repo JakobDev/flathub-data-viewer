@@ -15,7 +15,6 @@
         "com.github.alecaddd.sequeler",
         "com.github.arshubham.gitignore",
         "com.github.artemanufrij.graphui",
-        "com.github.artemanufrij.regextester",
         "com.github.donadigo.appeditor",
         "com.github.raibtoffoletto.litteris",
         "com.github.rajsolai.response",
@@ -23,14 +22,15 @@
     ],
     "juno-23.08": [
         "com.github.arshubham.cipher",
+        "com.github.artemanufrij.regextester",
         "com.github.childishgiant.mixer",
+        "com.github.dahenson.agenda",
         "com.github.philip_scott.spice-up"
     ],
     "juno-21.08": [
         "com.github.artemanufrij.playmymusic",
         "com.github.babluboy.bookworm",
         "com.github.calo001.luna",
-        "com.github.dahenson.agenda",
         "com.github.horaciodrs.tradesim",
         "com.github.louis77.tuner",
         "com.github.matfantinel.reminduck",
