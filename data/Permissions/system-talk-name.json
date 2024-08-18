@@ -311,6 +311,7 @@
         "vn.hoabinh.quan.CoBang"
     ],
     "org.freedesktop.systemd1": [
+        "io.github.bkbilly.lnxlink",
         "io.missioncenter.MissionCenter",
         "org.easycoding.TunedSwitcher",
         "org.opencpn.OpenCPN"

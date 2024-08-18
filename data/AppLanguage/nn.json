@@ -21,5 +21,6 @@
     "org.musescore.MuseScore",
     "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint",
-    "org.widelands.Widelands"
+    "org.widelands.Widelands",
+    "org.xfce.mousepad"
 ]

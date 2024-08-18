@@ -1922,6 +1922,7 @@
         "x-scheme-handler{SLASH}retroshare",
         "x-scheme-handler{SLASH}rhdc",
         "x-scheme-handler{SLASH}rocketchat",
+        "x-scheme-handler{SLASH}ror2mm",
         "x-scheme-handler{SLASH}rs-launch",
         "x-scheme-handler{SLASH}rs-launchs",
         "x-scheme-handler{SLASH}rtmp",

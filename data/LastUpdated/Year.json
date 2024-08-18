@@ -424,6 +424,7 @@
     "com.obsproject.Studio.Plugin.Ocr",
     "com.obsproject.Studio.Plugin.TransitionTable",
     "com.valvesoftware.Steam.Utility.InhibitScreensaver",
+    "io.github.endless_sky.endless_sky.plugins.endless_sky_high_dpi",
     "org.freedesktop.LinuxAudio.Plugins.ChowDSP-Plugins",
     "org.freedesktop.LinuxAudio.Plugins.Geonkick",
     "org.freedesktop.LinuxAudio.Plugins.NeuralAmpModeler",

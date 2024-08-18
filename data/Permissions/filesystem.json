@@ -1918,7 +1918,6 @@
         "io.github.TheThirdOne.rars",
         "io.github.aggalex.Wineglass",
         "io.github.babaissarkar.ssplot",
-        "io.github.bkbilly.lnxlink",
         "io.github.chris2511.xca",
         "io.github.dman95.SASM",
         "io.github.eteran.edb-debugger",
@@ -3708,6 +3707,12 @@
         "io.github.bkbilly.lnxlink"
     ],
     "/var/run/reboot-required": [
+        "io.github.bkbilly.lnxlink"
+    ],
+    "/var/run/docker.sock": [
+        "io.github.bkbilly.lnxlink"
+    ],
+    "~/Documents/LNXlink:create": [
         "io.github.bkbilly.lnxlink"
     ],
     "/srv": [

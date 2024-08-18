@@ -56,5 +56,6 @@
     "org.gnome.seahorse.Application",
     "org.remmina.Remmina",
     "org.x.Warpinator",
+    "org.xfce.mousepad",
     "org.xfce.ristretto"
 ]
