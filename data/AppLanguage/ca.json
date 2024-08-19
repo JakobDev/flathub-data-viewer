@@ -20,6 +20,7 @@
     "io.github.berarma.Oversteer",
     "io.github.celluloid_player.Celluloid",
     "io.github.mrvladus.List",
+    "io.github.wxmaxima_developers.wxMaxima",
     "io.gitlab.news_flash.NewsFlash",
     "io.liri.Text",
     "io.neovim.nvim",

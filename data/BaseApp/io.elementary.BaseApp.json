@@ -13,7 +13,6 @@
     ],
     "juno-20.08": [
         "com.github.alecaddd.sequeler",
-        "com.github.arshubham.gitignore",
         "com.github.donadigo.appeditor",
         "com.github.raibtoffoletto.litteris",
         "com.github.rajsolai.response",
@@ -21,6 +20,7 @@
     ],
     "juno-23.08": [
         "com.github.arshubham.cipher",
+        "com.github.arshubham.gitignore",
         "com.github.artemanufrij.graphui",
         "com.github.artemanufrij.regextester",
         "com.github.childishgiant.mixer",
