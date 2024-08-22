@@ -1,5 +1,4 @@
 [
-    "br.app.pw3270.terminal",
     "codes.loers.Karlender",
     "codes.loers.Punchclock",
     "com.abisource.AbiWord",
@@ -72,7 +71,6 @@
     "org.gnome.Notes",
     "org.gnome.OCRFeeder",
     "org.gnome.Solanum",
-    "org.gnome.Taquin",
     "org.gnome.Tau",
     "org.gnome.Todo",
     "org.gnome.Totem",

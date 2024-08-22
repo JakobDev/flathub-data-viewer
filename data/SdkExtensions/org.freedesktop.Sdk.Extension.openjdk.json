@@ -10,6 +10,7 @@
     "net.filebot.FileBot",
     "org.hdfgroup.HDFView",
     "org.jreleaser.cli",
+    "org.octave.Octave",
     "org.omegat.OmegaT",
     "org.texstudio.TeXstudio",
     "uk.co.electronstudio.ComicReaderUltimate"

@@ -1,4 +1,5 @@
 [
+    "dev.zed.Zed",
     "org.gnome.TextEditor",
     "org.gnome.gedit",
     "org.xfce.mousepad"
