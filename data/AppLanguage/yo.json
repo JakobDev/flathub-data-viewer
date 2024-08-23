@@ -2,9 +2,11 @@
     "org.gnome.Epiphany",
     "org.learningequality.Kolibri",
     "org.sugarlabs.AbacusActivity",
+    "org.sugarlabs.Calculate",
     "org.sugarlabs.Finance",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Pippy",
     "org.sugarlabs.ReadETexts",
-    "org.sugarlabs.Speak"
+    "org.sugarlabs.Speak",
+    "org.sugarlabs.TypingTurtle"
 ]

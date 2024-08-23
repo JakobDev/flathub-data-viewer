@@ -1,6 +1,8 @@
 [
+    "org.sugarlabs.Calculate",
     "org.sugarlabs.Finance",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Physics",
-    "org.sugarlabs.ReadETexts"
+    "org.sugarlabs.ReadETexts",
+    "org.sugarlabs.TypingTurtle"
 ]

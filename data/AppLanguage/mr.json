@@ -16,6 +16,7 @@
     "org.gnome.seahorse.Application",
     "org.learningequality.Kolibri",
     "org.pulseaudio.pavucontrol",
+    "org.sugarlabs.Calculate",
     "org.sugarlabs.Memorize",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Speak",

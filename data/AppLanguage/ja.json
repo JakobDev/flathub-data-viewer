@@ -75,6 +75,7 @@
     "org.speedcrunch.SpeedCrunch",
     "org.stellarium.Stellarium",
     "org.sugarlabs.AbacusActivity",
+    "org.sugarlabs.Calculate",
     "org.sugarlabs.Maze",
     "org.sugarlabs.MusicKeyboard",
     "org.sugarlabs.Paint",

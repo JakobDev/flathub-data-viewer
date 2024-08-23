@@ -1,11 +1,13 @@
 [
     "org.gnome.Calls",
     "org.sugarlabs.AbacusActivity",
+    "org.sugarlabs.Calculate",
     "org.sugarlabs.Finance",
     "org.sugarlabs.FotoToon",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Physics",
     "org.sugarlabs.ReadETexts",
+    "org.sugarlabs.TypingTurtle",
     "org.sugarlabs.Words",
     "sm.puri.Chatty"
 ]

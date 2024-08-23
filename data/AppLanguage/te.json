@@ -21,6 +21,7 @@
     "org.learningequality.Kolibri",
     "org.pulseaudio.pavucontrol",
     "org.stellarium.Stellarium",
+    "org.sugarlabs.Calculate",
     "org.sugarlabs.Maze",
     "org.sugarlabs.Paint",
     "org.tuxpaint.Tuxpaint",

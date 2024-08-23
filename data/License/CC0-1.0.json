@@ -4,6 +4,7 @@
     "com.lixgame.Lix",
     "io.gitlab.celleron56.libretile",
     "net.mediaarea.AVIMetaEdit",
+    "net.zdechov.app.LazFuck",
     "net.zdechov.app.TransLines",
     "net.zdechov.app.Tunneler",
     "net.zdechov.app.x2048",

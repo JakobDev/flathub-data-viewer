@@ -5,6 +5,7 @@
     "org.gnome.Solanum",
     "org.gnome.eog",
     "org.sugarlabs.AbacusActivity",
+    "org.sugarlabs.Calculate",
     "org.sugarlabs.Paint",
     "org.widelands.Widelands",
     "org.x.Warpinator"

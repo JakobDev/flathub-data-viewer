@@ -22,6 +22,7 @@
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Maze",
     "org.sugarlabs.Physics",
+    "org.sugarlabs.TypingTurtle",
     "org.sugarlabs.Words",
     "org.tuxpaint.Tuxpaint"
 ]

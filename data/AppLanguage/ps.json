@@ -3,10 +3,12 @@
     "org.gnome.Evolution",
     "org.gnome.Rhythmbox3",
     "org.gnome.eog",
+    "org.sugarlabs.Calculate",
     "org.sugarlabs.Finance",
     "org.sugarlabs.FotoToon",
     "org.sugarlabs.Memorize",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Physics",
-    "org.sugarlabs.ReadETexts"
+    "org.sugarlabs.ReadETexts",
+    "org.sugarlabs.TypingTurtle"
 ]

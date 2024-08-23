@@ -1,5 +1,6 @@
 [
     "org.sugarlabs.AbacusActivity",
+    "org.sugarlabs.Calculate",
     "org.sugarlabs.Chart",
     "org.sugarlabs.Dimensions",
     "org.sugarlabs.Finance",
@@ -16,5 +17,6 @@
     "org.sugarlabs.Speak",
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.TurtlePondActivity",
+    "org.sugarlabs.TypingTurtle",
     "org.sugarlabs.Words"
 ]

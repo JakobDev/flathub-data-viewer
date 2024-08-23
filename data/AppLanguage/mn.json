@@ -4,10 +4,12 @@
     "org.gnome.Quadrapassel",
     "org.gnome.eog",
     "org.sugarlabs.AbacusActivity",
+    "org.sugarlabs.Calculate",
     "org.sugarlabs.Maze",
     "org.sugarlabs.Memorize",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Physics",
     "org.sugarlabs.Speak",
+    "org.sugarlabs.TypingTurtle",
     "org.sugarlabs.Words"
 ]

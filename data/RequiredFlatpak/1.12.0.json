@@ -1,4 +1,5 @@
 [
     "com.valvesoftware.Steam",
-    "io.github.bothlab.syntalos"
+    "io.github.bothlab.syntalos",
+    "org.syntalos.syntalos"
 ]

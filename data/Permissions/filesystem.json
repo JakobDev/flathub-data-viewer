@@ -110,6 +110,7 @@
         "com.gitlab.cutecom.cutecom",
         "com.gluonhq.SceneBuilder",
         "com.google.AndroidStudio",
+        "com.hoptodesk.HopToDesk",
         "com.hostbuf.FinalShell",
         "com.icanblink.blink",
         "com.inform7.IDE",
@@ -177,6 +178,7 @@
         "de.fabrik19.mos-Launcher",
         "de.finnik.PassVault",
         "de.flose.Kochbuch",
+        "de.hohnstaedt.xca",
         "de.linuxguides.RechnungsAssistent",
         "de.manuel_kehl.go-for-it",
         "de.marlam.qv",
@@ -242,6 +244,7 @@
         "io.github.hydrusnetwork.hydrus",
         "io.github.kevinsmia1939.PySimpleCV",
         "io.github.limads.Queries",
+        "io.github.limo_app.limo",
         "io.github.lruzicka.Needly",
         "io.github.manisandro.gImageReader",
         "io.github.martchus.syncthingtray",
@@ -531,6 +534,7 @@
         "com.gopeed.Gopeed",
         "com.icons8.Lunacy",
         "com.invoiceninja.InvoiceNinja",
+        "com.kjxbyz.PicGuard",
         "com.ktechpit.colorwall",
         "com.ktechpit.orion",
         "com.ktechpit.ultimate-media-downloader",
@@ -771,6 +775,7 @@
         "com.ktechpit.wonderwall",
         "com.librumreader.librum",
         "com.makemkv.MakeMKV",
+        "com.markopejic.downloader",
         "com.moonlight_stream.Moonlight",
         "com.nextcloud.desktopclient.nextcloud",
         "com.nitrokey.nitrokey-app",
@@ -818,6 +823,7 @@
         "de.akaflieg_freiburg.enroute",
         "de.bund.ausweisapp.ausweisapp2",
         "de.halaszovich.PMbrowser",
+        "de.hohnstaedt.xca",
         "de.klayout.KLayout",
         "de.marlam.gencolormap",
         "de.marlam.qv",
@@ -869,6 +875,7 @@
         "io.github.bkueng.qMasterPassword",
         "io.github.bothlab.pomidaq",
         "io.github.bothlab.syntalos",
+        "io.github.breadmakesyoufull.baseconvert",
         "io.github.chilledheart.yass",
         "io.github.chris2511.xca",
         "io.github.ciromattia.kcc",
@@ -901,6 +908,7 @@
         "io.github.labsquare.CutePeaks",
         "io.github.libvibrant.vibrantLinux",
         "io.github.lime3ds.Lime3DS",
+        "io.github.limo_app.limo",
         "io.github.loot.loot",
         "io.github.mak448a.QTCord",
         "io.github.markummitchell.Engauge_Digitizer",
@@ -1028,6 +1036,7 @@
         "net.sourceforge.qtpfsgui.LuminanceHDR",
         "net.sourceforge.scidavis",
         "net.xm1math.Texmaker",
+        "net.zdechov.app.LazFuck",
         "net.zdechov.app.TransLines",
         "net.zdechov.app.Tunneler",
         "net.zdechov.app.x2048",
@@ -1334,6 +1343,7 @@
         "org.subtitld.Subtitld",
         "org.svxlink.Qtel",
         "org.swi_prolog.swipl",
+        "org.syntalos.syntalos",
         "org.telesculptor.TeleSculptor",
         "org.texmacs.TeXmacs",
         "org.texstudio.TeXstudio",
@@ -1724,6 +1734,7 @@
         "org.squey.Squey",
         "org.swi_prolog.swipl",
         "org.synfig.SynfigStudio",
+        "org.syntalos.syntalos",
         "org.tabos.roger",
         "org.tenacityaudio.Tenacity",
         "org.texstudio.TeXstudio",
@@ -1743,6 +1754,7 @@
         "se.cendio.tlclient",
         "space.nouspiro.tenmon",
         "work.openpaper.Paperwork",
+        "xyz.rust4diva.Rust4Diva",
         "xyz.splashmapper.Splash"
     ],
     "xdg-music": [
@@ -2042,6 +2054,7 @@
         "dev.tchx84.Portfolio",
         "io.github.bothlab.pomidaq",
         "io.github.cmus.cmus",
+        "io.github.limo_app.limo",
         "io.github.qtox.qTox",
         "io.github.zaps166.QMPlay2",
         "md.obsidian.Obsidian",
@@ -2115,6 +2128,7 @@
         "io.github.accessory.minus_games_client",
         "io.github.cmus.cmus",
         "io.github.everestapi.Olympus",
+        "io.github.limo_app.limo",
         "io.github.loot.loot",
         "io.github.neil_morrison44.pocket-sync",
         "io.github.zaps166.QMPlay2",
@@ -2248,6 +2262,7 @@
         "io.github.pd_l2ork.Pd_L2Ork",
         "io.github.rdybka.vht",
         "io.github.streetpea.Chiaki4deck",
+        "io.github.wivrn.wivrn",
         "io.gitlab.librewolf-community",
         "io.jamulus.Jamulus",
         "io.lmms.LMMS",
@@ -2451,6 +2466,7 @@
         "com.google.Chrome",
         "com.hamrick.VueScan",
         "com.invoiceninja.InvoiceNinja",
+        "com.kjxbyz.PicGuard",
         "com.kolor.AutopanoPro",
         "com.ktechpit.colorwall",
         "com.ktechpit.orion",
@@ -2596,7 +2612,7 @@
         "gg.guilded.Guilded",
         "io.github.milkshiift.GoofCord",
         "io.kapsa.drive",
-        "net.baseart.Glide",
+        "net.base_art.Glide",
         "org.gnunet.Messenger",
         "org.sigxcpu.Livi",
         "sh.ppy.osu",
@@ -2772,7 +2788,8 @@
         "rocks.koreader.KOReader"
     ],
     "xdg-run/app/com.discordapp.Discord": [
-        "com.adamcake.Bolt"
+        "com.adamcake.Bolt",
+        "dev.toastbits.spmp"
     ],
     "xdg-data/icons:create": [
         "com.adamcake.Bolt"
@@ -2800,7 +2817,7 @@
         "io.github.Rirusha.Cassette",
         "io.github.Soundux",
         "io.github.nate_xyz.Resonance",
-        "net.baseart.Glide",
+        "net.base_art.Glide",
         "org.opensurge2d.OpenSurge",
         "org.polymc.PolyMC",
         "org.prismlauncher.PrismLauncher",
@@ -2853,6 +2870,7 @@
         "dev.storyapps.starc",
         "io.github.accessory.minus_games_client",
         "io.github.bothlab.pomidaq",
+        "io.github.limo_app.limo",
         "md.obsidian.Obsidian",
         "org.clementine_player.Clementine",
         "org.libvips.vipsdisp",
@@ -2881,7 +2899,7 @@
         "io.github.Soundux",
         "io.github.mmarco94.tambourine",
         "io.github.nate_xyz.Resonance",
-        "net.baseart.Glide",
+        "net.base_art.Glide",
         "org.gnunet.Messenger",
         "sh.ppy.osu"
     ],
@@ -3173,6 +3191,7 @@
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.unicornsonlsd.finamp",
+        "dev.toastbits.spmp",
         "dev.vieb.Vieb",
         "info.mumble.Mumble",
         "io.github.celluloid_player.Celluloid",
@@ -3411,6 +3430,11 @@
         "com.leinardi.gst",
         "io.github.wazzaps.Fingerpaint",
         "org.linux_hardware.hw-probe"
+    ],
+    "xdg-download:create": [
+        "com.markopejic.downloader",
+        "io.github.purplehorrorrus.Meridius",
+        "net.mullvad.MullvadBrowser"
     ],
     "host-os:ro": [
         "com.moonlight_stream.Moonlight",
@@ -3910,10 +3934,6 @@
     "xdg-download/pstube:create": [
         "io.github.prateekmedia.pstube"
     ],
-    "xdg-download:create": [
-        "io.github.purplehorrorrus.Meridius",
-        "net.mullvad.MullvadBrowser"
-    ],
     "xdg-music:create": [
         "io.github.purplehorrorrus.Meridius"
     ],
@@ -3987,6 +4007,15 @@
         "io.github.wiiznokes.fan-control",
         "io.qt.QtCreator",
         "org.freedesktop.fwupd"
+    ],
+    "xdg-config/openxr:create": [
+        "io.github.wivrn.wivrn"
+    ],
+    "xdg-config/openvr:create": [
+        "io.github.wivrn.wivrn"
+    ],
+    "xdg-run/wivrn:create": [
+        "io.github.wivrn.wivrn"
     ],
     "~/.local/share/textpieces": [
         "io.gitlab.liferooter.TextPieces"

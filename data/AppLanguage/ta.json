@@ -23,6 +23,7 @@
     "org.gnome.seahorse.Application",
     "org.pulseaudio.pavucontrol",
     "org.sugarlabs.AbacusActivity",
+    "org.sugarlabs.Calculate",
     "org.sugarlabs.Dimensions",
     "org.sugarlabs.Finance",
     "org.sugarlabs.FotoToon",
@@ -34,6 +35,7 @@
     "org.sugarlabs.Pippy",
     "org.sugarlabs.ReadETexts",
     "org.sugarlabs.Speak",
+    "org.sugarlabs.TypingTurtle",
     "org.sugarlabs.Words",
     "org.tuxpaint.Tuxpaint",
     "page.kramo.Cartridges"

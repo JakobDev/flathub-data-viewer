@@ -28,6 +28,7 @@
         "org.pymol.PyMOL",
         "org.qgis.qgis",
         "org.spyder_ide.spyder",
+        "org.syntalos.syntalos",
         "org.torproject.torbrowser-launcher"
     ],
     "6.6": [

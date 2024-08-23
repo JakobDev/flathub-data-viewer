@@ -177,6 +177,9 @@
     "org.freedesktop.filemanager1": [
         "dev.tchx84.Portfolio"
     ],
+    "org.mpris.mediaplayer2.spmp": [
+        "dev.toastbits.spmp"
+    ],
     "org.mozilla.betterbird.*": [
         "eu.betterbird.Betterbird"
     ],

@@ -1,5 +1,6 @@
 {
     "6.7": [
+        "io.github.breadmakesyoufull.baseconvert",
         "io.github.mak448a.QTCord",
         "io.github.qcanvas.QCanvasApp"
     ]

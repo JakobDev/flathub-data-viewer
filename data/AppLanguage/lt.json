@@ -64,6 +64,7 @@
     "org.sugarlabs.Speak",
     "org.sugarlabs.StoryActivity",
     "org.sugarlabs.TurtlePondActivity",
+    "org.sugarlabs.TypingTurtle",
     "org.sugarlabs.Words",
     "org.widelands.Widelands",
     "org.x.Warpinator",

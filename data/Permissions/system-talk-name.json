@@ -109,6 +109,7 @@
         "io.github.aggalex.Wineglass",
         "io.github.fastrizwaan.WineZGUI",
         "io.github.garglk.Gargoyle",
+        "io.github.limo_app.limo",
         "io.github.zaps166.QMPlay2",
         "io.gitlab.adhami3310.Impression",
         "net.lutris.Lutris",
@@ -165,6 +166,7 @@
         "dev.lizardbyte.app.Sunshine",
         "im.pidgin.Pidgin",
         "io.github.ungoogled_software.ungoogled_chromium",
+        "io.github.wivrn.wivrn",
         "io.wavebox.Wavebox",
         "net.cozic.joplin_desktop",
         "net.epson.epsonscan2",
@@ -287,6 +289,7 @@
     ],
     "org.freedesktop.hostname1": [
         "com.hack_computer.Clubhouse",
+        "io.github.wivrn.wivrn",
         "org.gnome.baobab",
         "org.localsend.localsend_app"
     ],

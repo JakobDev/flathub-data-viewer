@@ -50,6 +50,7 @@
     "org.speedcrunch.SpeedCrunch",
     "org.stellarium.Stellarium",
     "org.sugarlabs.AbacusActivity",
+    "org.sugarlabs.Calculate",
     "org.sugarlabs.ImplodeActivity",
     "org.sugarlabs.Maze",
     "org.sugarlabs.Memorize",

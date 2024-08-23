@@ -54,6 +54,7 @@
     "org.pulseaudio.pavucontrol",
     "org.remmina.Remmina",
     "org.sugarlabs.AbacusActivity",
+    "org.sugarlabs.Calculate",
     "org.sugarlabs.Finance",
     "org.sugarlabs.FotoToon",
     "org.sugarlabs.Maze",
@@ -69,5 +70,6 @@
     "org.xfce.mousepad",
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
-    "se.sjoerd.Graphs"
+    "se.sjoerd.Graphs",
+    "sm.puri.Chatty"
 ]
