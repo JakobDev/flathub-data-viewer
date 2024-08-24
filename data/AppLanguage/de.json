@@ -56,6 +56,8 @@
     "io.posidon.Paper",
     "net.displaycal.DisplayCAL",
     "net.minetest.Minetest",
+    "net.natesales.Aviator",
+    "net.nokyan.Resources",
     "net.sourceforge.Hugin",
     "net.sourceforge.kmetronome",
     "net.sourceforge.liferea",

@@ -35,6 +35,7 @@
     "io.gitlab.news_flash.NewsFlash",
     "io.neovim.nvim",
     "net.minetest.Minetest",
+    "net.nokyan.Resources",
     "net.sourceforge.kmetronome",
     "net.sourceforge.kmidimon",
     "net.sourceforge.liferea",

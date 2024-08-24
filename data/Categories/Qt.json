@@ -41,6 +41,7 @@
     "org.cubocore.CoreTime",
     "org.flatpak.qtdemo",
     "org.getmonero.Monero",
+    "org.kde.angelfish",
     "org.kde.francis",
     "org.kde.kalm",
     "org.kde.klines",

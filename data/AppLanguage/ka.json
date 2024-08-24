@@ -7,6 +7,7 @@
     "io.bassi.Amberol",
     "io.github.celluloid_player.Celluloid",
     "io.github.mightycreak.Diffuse",
+    "net.nokyan.Resources",
     "org.exaile.Exaile",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",

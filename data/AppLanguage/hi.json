@@ -23,6 +23,7 @@
     "io.gitlab.liferooter.TextPieces",
     "io.gitlab.news_flash.NewsFlash",
     "it.mijorus.collector",
+    "net.nokyan.Resources",
     "nl.emphisia.icon",
     "org.gnome.Calls",
     "org.gnome.ColorViewer",

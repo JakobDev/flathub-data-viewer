@@ -26,6 +26,7 @@
     "io.liri.Text",
     "io.neovim.nvim",
     "net.minetest.Minetest",
+    "net.nokyan.Resources",
     "net.sourceforge.Hugin",
     "net.sourceforge.kmidimon",
     "net.sourceforge.liferea",

@@ -50,6 +50,8 @@
     "io.neovim.nvim",
     "io.posidon.Paper",
     "net.minetest.Minetest",
+    "net.natesales.Aviator",
+    "net.nokyan.Resources",
     "net.sourceforge.kmetronome",
     "net.sourceforge.liferea",
     "net.supertuxkart.SuperTuxKart",

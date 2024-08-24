@@ -465,6 +465,7 @@
     "org.jreleaser.cli",
     "org.jupyter.JupyterLab",
     "org.kde.akregator",
+    "org.kde.angelfish",
     "org.kde.arianna",
     "org.kde.francis",
     "org.kde.haruna",

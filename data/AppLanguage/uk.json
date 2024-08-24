@@ -34,6 +34,7 @@
     "io.gitlab.news_flash.NewsFlash",
     "io.neovim.nvim",
     "net.minetest.Minetest",
+    "net.nokyan.Resources",
     "net.sourceforge.liferea",
     "net.supertuxkart.SuperTuxKart",
     "org.bluesabre.MenuLibre",
