@@ -124,6 +124,7 @@
     "de.hohnstaedt.xca",
     "de.lernsoftware_filius.Filius",
     "de.linuxguides.RechnungsAssistent",
+    "de.nagstamon.nagstamon",
     "de.nicokimmel.shadowcast-electron",
     "de.sesu8642.feudaltactics",
     "de.zwarf.picplanner",
@@ -135,6 +136,7 @@
     "dev.tchx84.Portfolio",
     "eu.ad5001.LogarithmPlotter",
     "eu.cichy1173.tabela",
+    "eu.planete_kraus.Tarot",
     "fi.skyjake.Lagrange",
     "fr.inria.corese.CoreseCommand",
     "fr.inria.corese.CoreseGui",
@@ -345,10 +347,9 @@
     "org.kde.gcompris",
     "org.kde.index",
     "org.kde.kgeotag",
-    "org.kde.kig",
+    "org.kde.kid3",
     "org.kde.kphotoalbum",
     "org.kde.krdc",
-    "org.kde.kteatime",
     "org.kde.pix",
     "org.kde.skrooge",
     "org.kde.umbrello",
@@ -445,5 +446,6 @@
     "org.freedesktop.Sdk.Extension.ldc",
     "org.freedesktop.Sdk.Extension.llvm17",
     "org.freedesktop.Sdk.Extension.rust-nightly",
-    "org.lyx.LyX.Plugin.LilyPond"
+    "org.lyx.LyX.Plugin.LilyPond",
+    "re.rizin.cutter.plugin.rz-ghidra"
 ]

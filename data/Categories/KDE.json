@@ -1,5 +1,6 @@
 [
     "fr.free.qccrypt.Qccrypt",
+    "org.kde.alligator",
     "org.kde.angelfish",
     "org.kde.francis",
     "org.kde.kalk",
@@ -8,6 +9,7 @@
     "org.kde.keysmith",
     "org.kde.klines",
     "org.kde.kweather",
+    "org.kde.minuet",
     "org.kde.okular.kirigami",
     "org.kde.telly-skout"
 ]

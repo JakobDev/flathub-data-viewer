@@ -54,6 +54,7 @@
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
     "org.gtkhash.gtkhash",
+    "org.kde.skrooge",
     "org.midori_browser.Midori",
     "org.musescore.MuseScore",
     "org.pulseaudio.pavucontrol",
