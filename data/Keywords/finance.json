@@ -1,5 +1,6 @@
 [
     "com.ekonomikas.merkato",
+    "com.maxint.maxint",
     "fr.free.Homebank",
     "info.portfolio_performance.PortfolioPerformance",
     "org.grisbi.Grisbi",

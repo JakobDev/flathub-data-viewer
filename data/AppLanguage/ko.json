@@ -11,6 +11,7 @@
     "io.bassi.Amberol",
     "io.github.Hexchat",
     "io.github.celluloid_player.Celluloid",
+    "io.github.loot.loot",
     "io.github.mightycreak.Diffuse",
     "io.liri.Text",
     "io.posidon.Paper",

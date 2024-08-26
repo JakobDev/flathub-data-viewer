@@ -1,6 +1,7 @@
 [
     "com.github.alexkdeveloper.recorder",
     "io.github.giantpinkrobots.varia",
+    "io.github.loot.loot",
     "it.mijorus.collector",
     "net.wz2100.wz2100",
     "org.aegisub.Aegisub",

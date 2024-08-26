@@ -9,7 +9,6 @@
     "5.15-23.08": [
         "io.github.dman95.SASM",
         "io.github.veusz.Veusz",
-        "org.kde.kdevelop",
         "org.octave.Octave",
         "org.paraview.ParaView",
         "org.spyder_ide.spyder"
@@ -20,6 +19,7 @@
         "io.qt.QtCreator",
         "io.qt.qdbusviewer",
         "org.kde.kcachegrind",
+        "org.kde.kdevelop",
         "page.codeberg.JakobDev.jdTextEdit"
     ]
 }
