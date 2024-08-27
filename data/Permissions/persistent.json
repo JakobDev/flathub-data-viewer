@@ -437,6 +437,9 @@
     ".lzncache": [
         "io.github.ktgw0316.LightZone"
     ],
+    ".quakespasm": [
+        "io.github.lavenderdotpet.LibreQuake"
+    ],
     ".doombfa": [
         "io.github.maddecoder.Classic-RBDOOM-3-BFG"
     ],

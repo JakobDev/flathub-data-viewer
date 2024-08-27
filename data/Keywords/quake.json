@@ -3,6 +3,7 @@
     "io.github.TTimo.GtkRadiant",
     "io.github.ec_.Quake3e.OpenArena",
     "io.github.ezQuake",
+    "io.github.lavenderdotpet.LibreQuake",
     "net.sourceforge.quakespasm.Quakespasm",
     "org.yamagi.YamagiQ2"
 ]
