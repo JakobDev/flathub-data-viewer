@@ -3375,9 +3375,6 @@
     "xdg-documents/nextcloud_password_client:create": [
         "com.gitlab.j0chn.nextcloud_password_client"
     ],
-    "xdg-run/discord:create": [
-        "com.googleplaymusicdesktopplayer.GPMDP"
-    ],
     "~/.local/share/flatpak/overrides": [
         "com.hack_computer.Clubhouse"
     ],

@@ -3,5 +3,6 @@
     "io.github.quodlibet.QuodLibet",
     "io.github.ripose_jp.Memento",
     "io.mpv.Mpv",
+    "org.fooyin.fooyin",
     "org.musicbrainz.Picard"
 ]

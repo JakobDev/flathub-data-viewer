@@ -111,9 +111,6 @@
         "ru.yandex.Browser",
         "tech.feliciano.pocket-casts"
     ],
-    "org.mpris.mediaplayer2.google_play_music_desktop_player": [
-        "com.googleplaymusicdesktopplayer.GPMDP"
-    ],
     "com.endlessm.gamestateservice": [
         "com.hack_computer.Clubhouse"
     ],
@@ -485,9 +482,6 @@
         "org.kde.kontact"
     ],
     "org.kde.kmail2": [
-        "org.kde.kontact"
-    ],
-    "org.kde.knotes": [
         "org.kde.kontact"
     ],
     "org.freedesktop.akonadi.agent.*": [
