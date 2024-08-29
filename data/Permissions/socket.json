@@ -1050,7 +1050,6 @@
         "io.github.bkbilly.lnxlink",
         "io.github.bkueng.qMasterPassword",
         "io.github.bothlab.pomidaq",
-        "io.github.bothlab.syntalos",
         "io.github.brainstormtrooper.facteur",
         "io.github.breadmakesyoufull.baseconvert",
         "io.github.brunoanc.eternalmodmanager",
@@ -7280,6 +7279,7 @@
         "org.surge_synth_team.surge-xt",
         "org.svxlink.Qtel",
         "org.synfig.SynfigStudio",
+        "org.syntalos.syntalos",
         "org.syphon.Syphon",
         "org.tabos.roger",
         "org.taisei_project.Taisei",
@@ -7550,7 +7550,6 @@
         "com.jetbrains.PyCharm-Professional",
         "com.jetbrains.Rider",
         "com.jetbrains.RubyMine",
-        "io.github.bothlab.syntalos",
         "io.qt.qdbusviewer",
         "org.codeblocks.codeblocks",
         "org.eclipse.Java",
@@ -7563,7 +7562,6 @@
         "page.codeberg.JakobDev.jdDBusDebugger"
     ],
     "system-bus": [
-        "io.github.bothlab.syntalos",
         "io.qt.qdbusviewer",
         "org.codeblocks.codeblocks",
         "org.gnome.Builder",
