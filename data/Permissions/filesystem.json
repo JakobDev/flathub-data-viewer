@@ -2225,6 +2225,17 @@
         "sh.ppy.osu",
         "xyz.hyperplay.HyperPlay"
     ],
+    "xdg-run/discord-ipc-0": [
+        "app.ytmdesktop.ytmdesktop",
+        "com.github.taiko2k.tauonmb",
+        "io.github.nate_xyz.Resonance",
+        "org.kartkrew.RingRacers",
+        "org.srb2.SRB2Kart-Saturn",
+        "org.srb2.SRB2Kart-galaxy",
+        "org.srb2.SRB2Kart-galaxy_azerty",
+        "org.srb2.SRB2Kart",
+        "sh.fhs.KatawaShoujoReEngineered"
+    ],
     "xdg-run/pipewire-0": [
         "ar.com.tuxguitar.TuxGuitar",
         "com.bitwig.BitwigStudio",
@@ -3341,16 +3352,6 @@
     ],
     "xdg-run/docker.sock": [
         "com.github.sdv43.whaler"
-    ],
-    "xdg-run/discord-ipc-0": [
-        "com.github.taiko2k.tauonmb",
-        "io.github.nate_xyz.Resonance",
-        "org.kartkrew.RingRacers",
-        "org.srb2.SRB2Kart-Saturn",
-        "org.srb2.SRB2Kart-galaxy",
-        "org.srb2.SRB2Kart-galaxy_azerty",
-        "org.srb2.SRB2Kart",
-        "sh.fhs.KatawaShoujoReEngineered"
     ],
     "xdg-data/flatpak/overrides:create": [
         "com.github.tchx84.Flatseal"

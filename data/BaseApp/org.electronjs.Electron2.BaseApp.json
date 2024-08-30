@@ -4,6 +4,7 @@
     ],
     "23.08": [
         "app.moosync.moosync",
+        "app.ytmdesktop.ytmdesktop",
         "ar.com.pilas_engine.App",
         "br.com.eduk.school",
         "cc.arduino.IDE2",
@@ -141,17 +142,6 @@
         "us.zoom.Zoom",
         "xyz.hyperplay.HyperPlay"
     ],
-    "21.08": [
-        "app.ytmdesktop.ytmdesktop",
-        "com.basemark.BasemarkGPU",
-        "com.emqx.MQTTX",
-        "com.github.z.Cumulonimbus",
-        "com.napster.napster-bigscreen-electron",
-        "com.xunlei.Thunder",
-        "im.gitter.Gitter",
-        "io.github.dbchoco.muezzin",
-        "org.sugarlabs.MusicBlocks"
-    ],
     "22.08": [
         "camp.nook.nookdesktop",
         "chat.quadrix.Quadrix",
@@ -200,5 +190,15 @@
         "se.manyver.Manyverse",
         "tech.feliciano.pocket-casts",
         "xyz.armcord.ArmCord"
+    ],
+    "21.08": [
+        "com.basemark.BasemarkGPU",
+        "com.emqx.MQTTX",
+        "com.github.z.Cumulonimbus",
+        "com.napster.napster-bigscreen-electron",
+        "com.xunlei.Thunder",
+        "im.gitter.Gitter",
+        "io.github.dbchoco.muezzin",
+        "org.sugarlabs.MusicBlocks"
     ]
 }

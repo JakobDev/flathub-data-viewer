@@ -7,6 +7,7 @@
         "app.moosync.moosync",
         "app.vup.VupChat",
         "app.xemu.xemu",
+        "app.ytmdesktop.ytmdesktop",
         "ar.com.pilas_engine.App",
         "ar.com.tuxguitar.TuxGuitar",
         "at.ssh_mitm.server",
@@ -1101,8 +1102,10 @@
         "xyz.kusma.aurora",
         "xyz.stuerz.BilligSweeper"
     ],
+    "18.08": [
+        "au.edu.uq.esys.escript"
+    ],
     "21.08": [
-        "app.ytmdesktop.ytmdesktop",
         "cc.nift.nsm",
         "com.albiononline.AlbionOnline",
         "com.basemark.BasemarkGPU",
@@ -1187,9 +1190,6 @@
         "uk.co.electronstudio.ComicReaderUltimate",
         "xyz.eclipium.Hieroctive",
         "xyz.eclipium.TetraSwap"
-    ],
-    "18.08": [
-        "au.edu.uq.esys.escript"
     ],
     "19.08": [
         "com.github.matfantinel.moneta",

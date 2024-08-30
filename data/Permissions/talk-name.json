@@ -2134,6 +2134,7 @@
         "app.moosync.moosync",
         "app.vup.Vup",
         "app.vup.VupChat",
+        "app.ytmdesktop.ytmdesktop",
         "cc.retroshare.retroshare-gui",
         "ch.protonmail.protonmail-bridge",
         "chat.revolt.RevoltDesktop",
@@ -2909,6 +2910,11 @@
         "org.strawberrymusicplayer.strawberry",
         "org.videolan.VLC"
     ],
+    "org.ayatana": [
+        "app.ytmdesktop.ytmdesktop",
+        "io.kapsa.drive",
+        "org.cryptomator.Cryptomator"
+    ],
     "ca.desrt.dconf": [
         "ca.desrt.dconf-editor",
         "com.brave.Browser",
@@ -2979,7 +2985,6 @@
         "io.github.simple64.simple64",
         "io.github.streetpea.Chiaki4deck",
         "io.github.ungoogled_software.ungoogled_chromium",
-        "io.github.zen_browser.zen",
         "io.gitlab.librewolf-community",
         "io.itch.itch",
         "io.mgba.mGBA",
@@ -3724,10 +3729,6 @@
     ],
     "org.kde.ksmserver": [
         "io.github.vikdevelop.SaveDesktop"
-    ],
-    "org.ayatana": [
-        "io.kapsa.drive",
-        "org.cryptomator.Cryptomator"
     ],
     "io.missioncenter.missioncenter.gatherer": [
         "io.missioncenter.MissionCenter"

@@ -5,7 +5,7 @@
     "org.mpris.mediaplayer2.moosync": [
         "app.moosync.moosync"
     ],
-    "org.mpris.mediaplayer2.youtubemusic": [
+    "org.mpris.mediaplayer2.ytmdesktop": [
         "app.ytmdesktop.ytmdesktop"
     ],
     "org.mpris.mediaplayer2.headset": [
