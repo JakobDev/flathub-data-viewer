@@ -35,8 +35,7 @@
         "de.nagstamon.nagstamon",
         "me.mitya57.ReText",
         "org.plomgrading.PlomClient",
-        "page.codeberg.DrRac27.Karoto",
-        "page.codeberg.JakobDev.jdDiff"
+        "page.codeberg.DrRac27.Karoto"
     ],
     "6.7": [
         "com.rtosta.zapzap",
@@ -51,6 +50,7 @@
         "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdDBusDebugger",
         "page.codeberg.JakobDev.jdDesktopEntryEdit",
+        "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdEolConverter",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "page.codeberg.JakobDev.jdMacroPlayer",

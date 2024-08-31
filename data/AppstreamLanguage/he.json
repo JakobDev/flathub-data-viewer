@@ -244,6 +244,7 @@
     "org.kde.lokalize",
     "org.kde.lskat",
     "org.kde.marknote",
+    "org.kde.massif-visualizer",
     "org.kde.neochat",
     "org.kde.okular.kirigami",
     "org.kde.okular",

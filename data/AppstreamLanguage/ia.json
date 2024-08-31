@@ -108,6 +108,7 @@
     "org.kde.labplot2",
     "org.kde.lokalize",
     "org.kde.marknote",
+    "org.kde.massif-visualizer",
     "org.kde.neochat",
     "org.kde.okteta",
     "org.kde.okular.kirigami",

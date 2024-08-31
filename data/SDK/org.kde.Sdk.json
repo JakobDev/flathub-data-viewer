@@ -167,7 +167,6 @@
         "org.kde.kxstitch",
         "org.kde.labplot2",
         "org.kde.marble",
-        "org.kde.massif-visualizer",
         "org.kde.okteta",
         "org.kde.peruse",
         "org.kde.pix",
@@ -298,7 +297,6 @@
         "org.strawberrymusicplayer.strawberry",
         "org.tug.texworks",
         "page.codeberg.DrRac27.Karoto",
-        "page.codeberg.JakobDev.jdDiff",
         "tr.com.ikooskar.ikoOSKAR"
     ],
     "5.15-22.08": [
@@ -628,6 +626,7 @@
         "org.kde.lokalize",
         "org.kde.lskat",
         "org.kde.marknote",
+        "org.kde.massif-visualizer",
         "org.kde.minuet",
         "org.kde.neochat",
         "org.kde.okular.kirigami",
@@ -660,6 +659,7 @@
         "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdDBusDebugger",
         "page.codeberg.JakobDev.jdDesktopEntryEdit",
+        "page.codeberg.JakobDev.jdDiff",
         "page.codeberg.JakobDev.jdEolConverter",
         "page.codeberg.JakobDev.jdFlatpakSnapshot",
         "page.codeberg.JakobDev.jdMacroPlayer",
