@@ -2290,6 +2290,7 @@
         "net.sonic_pi.SonicPi",
         "net.sonobus.SonoBus",
         "net.sourceforge.GrandOrgue",
+        "net.sourceforge.dmidiplayer",
         "net.sourceforge.paulstretch",
         "org.ardour.Ardour",
         "org.atheme.audacious",

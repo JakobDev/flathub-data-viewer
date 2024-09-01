@@ -284,6 +284,7 @@
     "io.liri.Calculator",
     "io.liri.Text",
     "io.lmms.LMMS",
+    "io.mgba.mGBA",
     "io.missioncenter.MissionCenter",
     "io.neovim.nvim",
     "io.openrct2.OpenRCT2",
