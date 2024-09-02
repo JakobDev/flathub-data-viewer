@@ -249,6 +249,9 @@
     "net.openvpn.v3.sessions": [
         "com.github.jkotra.eovpn"
     ],
+    "net.openvpn.v3.log": [
+        "com.github.jkotra.eovpn"
+    ],
     "org.bluez": [
         "com.github.theironrobin.siglo",
         "com.google.Chrome",
