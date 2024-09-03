@@ -221,6 +221,9 @@
     "org.mpris.mediaplayer2.qcm": [
         "io.github.hypengw.Qcm"
     ],
+    "org.insilmaril.vym-2": [
+        "io.github.insilmaril.vym"
+    ],
     "org.mpris.mediaplayer2.noson.*": [
         "io.github.janbar.noson"
     ],

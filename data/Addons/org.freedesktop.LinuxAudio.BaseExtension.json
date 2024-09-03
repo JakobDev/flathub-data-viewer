@@ -27,6 +27,7 @@
     "org.freedesktop.LinuxAudio.Plugins.Ninjas2",
     "org.freedesktop.LinuxAudio.Plugins.OBXd",
     "org.freedesktop.LinuxAudio.Plugins.Odin2",
+    "org.freedesktop.LinuxAudio.Plugins.Ratatouille",
     "org.freedesktop.LinuxAudio.Plugins.SoSynthLV2",
     "org.freedesktop.LinuxAudio.Plugins.Sorcer",
     "org.freedesktop.LinuxAudio.Plugins.SpectMorph",

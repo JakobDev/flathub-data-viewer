@@ -597,6 +597,7 @@
         "org.cryptomator.Cryptomator",
         "org.d3cod3.Mosaic",
         "org.damask_multiphysics.DAMASK_grid",
+        "org.damask_multiphysics.DAMASK_mesh",
         "org.dbgate.DbGate",
         "org.debian.TuxPuck",
         "org.deluge_torrent.deluge",

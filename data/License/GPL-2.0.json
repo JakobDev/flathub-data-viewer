@@ -126,6 +126,7 @@
     "uk.co.parallelrealities.games.edgar",
     "xyz.audiostellar.AudioStellar",
     "com.obsproject.Studio.Plugin.BackgroundRemoval",
+    "com.obsproject.Studio.Plugin.CompositeBlur",
     "com.obsproject.Studio.Plugin.DroidCam",
     "com.obsproject.Studio.Plugin.GStreamerVaapi",
     "com.obsproject.Studio.Plugin.Gstreamer",

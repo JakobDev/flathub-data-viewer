@@ -27,6 +27,7 @@
     "net.sourceforge.fspclient",
     "org.asamk.SignalCli",
     "org.damask_multiphysics.DAMASK_grid",
+    "org.damask_multiphysics.DAMASK_mesh",
     "org.eu.wabarc.wayback",
     "org.flathub.flatpak-external-data-checker",
     "org.freedesktop.appstream-glib",

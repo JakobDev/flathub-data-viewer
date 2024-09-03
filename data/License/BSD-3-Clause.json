@@ -31,5 +31,6 @@
     "org.tomviz.Tomviz",
     "org.unofficialrevport.REVHubInterface",
     "website.i2pd.i2pd",
+    "org.freedesktop.LinuxAudio.Plugins.Ratatouille",
     "org.freedesktop.Sdk.Extension.haskell"
 ]

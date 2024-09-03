@@ -64,6 +64,7 @@
     "net.sourceforge.scidavis",
     "org.cvfosammmm.Setzer",
     "org.damask_multiphysics.DAMASK_grid",
+    "org.damask_multiphysics.DAMASK_mesh",
     "org.deidentifier.arx",
     "org.eclipse.sumo",
     "org.free_astro.siril",

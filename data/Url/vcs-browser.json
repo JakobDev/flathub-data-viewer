@@ -601,6 +601,7 @@
     "org.fcitx.Fcitx5.Addon.Zhuyin",
     "org.freedesktop.LinuxAudio.Plugins.BYOD",
     "org.freedesktop.LinuxAudio.Plugins.NeuralAmpModeler",
+    "org.freedesktop.LinuxAudio.Plugins.Ratatouille",
     "org.freedesktop.LinuxAudio.Plugins.SpectMorph",
     "org.radare.iaito.translations",
     "org.radare.iaito.webui",

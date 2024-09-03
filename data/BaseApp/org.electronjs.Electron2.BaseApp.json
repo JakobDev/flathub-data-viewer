@@ -53,6 +53,7 @@
         "com.sindresorhus.Caprine",
         "com.skype.Client",
         "com.slack.Slack",
+        "com.surfshark.Surfshark",
         "com.termius.Termius",
         "com.ticktick.TickTick",
         "com.todoist.Todoist",
