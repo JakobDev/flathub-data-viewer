@@ -23,6 +23,7 @@
     "org.aegisub.Aegisub",
     "org.bunkus.mkvtoolnix-gui",
     "org.exaile.Exaile",
+    "org.fontforge.FontForge",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",
     "org.fritzing.Fritzing",

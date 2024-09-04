@@ -122,6 +122,7 @@
         "org.tribler.Tribler",
         "org.turbowarp.TurboWarp",
         "org.unitystation.StationHub",
+        "org.yacas.yacas-gui",
         "page.codeberg.lazyt.ubpm",
         "radio.k0swe.Kel_Agent",
         "se.cendio.tlclient",

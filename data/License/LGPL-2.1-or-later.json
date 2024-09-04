@@ -10,6 +10,7 @@
     "org.freedesktop.Bustle",
     "org.kde.marble",
     "org.midori_browser.Midori",
+    "org.yacas.yacas-gui",
     "com.valvesoftware.Steam.Utility.InhibitScreensaver",
     "org.videolan.VLC.Plugin.pause_click"
 ]

@@ -14,6 +14,7 @@
         "au.edu.uq.esys.escript",
         "br.eng.silas.qpdftools",
         "br.gov.cti.invesalius",
+        "ca.edestcroix.Recordbox",
         "ca.littlesvr.asunder",
         "ca.uwaterloo.Raven",
         "cat.xtec.clic.JClic",
@@ -242,6 +243,7 @@
         "io.github.gtkwave.GTKWave",
         "io.github.hakuneko.HakuNeko",
         "io.github.hydrusnetwork.hydrus",
+        "io.github.itprojects.MasVisGtk",
         "io.github.kevinsmia1939.PySimpleCV",
         "io.github.limads.Queries",
         "io.github.limo_app.limo",
@@ -877,6 +879,7 @@
         "io.github.bkueng.qMasterPassword",
         "io.github.bothlab.pomidaq",
         "io.github.breadmakesyoufull.baseconvert",
+        "io.github.breadmakesyoufull.bpm2fps",
         "io.github.chilledheart.yass",
         "io.github.chris2511.xca",
         "io.github.ciromattia.kcc",
@@ -1041,6 +1044,7 @@
         "net.zdechov.app.LazFuck",
         "net.zdechov.app.TransLines",
         "net.zdechov.app.Tunneler",
+        "net.zdechov.app.vCardStudio",
         "net.zdechov.app.x2048",
         "nz.mega.MEGAsync",
         "one.flipperzero.qFlipper",
@@ -1358,6 +1362,7 @@
         "org.videolan.VLC",
         "org.wfview.wfview",
         "org.wireshark.Wireshark",
+        "org.yacas.yacas-gui",
         "org.zealdocs.Zeal",
         "page.codeberg.DrRac27.Karoto",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
@@ -1934,6 +1939,7 @@
         "io.github.TheThirdOne.rars",
         "io.github.aggalex.Wineglass",
         "io.github.babaissarkar.ssplot",
+        "io.github.breadmakesyoufull.bpm2fps",
         "io.github.chris2511.xca",
         "io.github.dman95.SASM",
         "io.github.eteran.edb-debugger",
@@ -1997,6 +2003,7 @@
         "org.texmacs.TeXmacs",
         "org.winehq.Wine",
         "org.xnec2c.Xnec2c",
+        "org.yacas.yacas-gui",
         "org.zaproxy.ZAP",
         "org.zulip.Zulip",
         "tr.gov.uyap.Editor",
@@ -3043,6 +3050,7 @@
         "io.github.TheThirdOne.rars",
         "io.github.aggalex.Wineglass",
         "io.github.am2r_community_developers.AM2RLauncher",
+        "io.github.breadmakesyoufull.bpm2fps",
         "io.github.fastrizwaan.WineZGUI",
         "io.github.qtox.qTox",
         "io.github.vikdevelop.SaveDesktop",
@@ -3631,16 +3639,20 @@
         "dev.hdos.HDOS"
     ],
     "~/.aws": [
-        "dev.k8slens.OpenLens"
+        "dev.k8slens.OpenLens",
+        "io.kinvolk.Headlamp"
     ],
     "~/.config/gcloud": [
-        "dev.k8slens.OpenLens"
+        "dev.k8slens.OpenLens",
+        "io.kinvolk.Headlamp"
     ],
     "~/.minikube": [
-        "dev.k8slens.OpenLens"
+        "dev.k8slens.OpenLens",
+        "io.kinvolk.Headlamp"
     ],
     "~/.kube/config": [
-        "dev.k8slens.OpenLens"
+        "dev.k8slens.OpenLens",
+        "io.kinvolk.Headlamp"
     ],
     "xdg-documents/Linwood/Butterfly": [
         "dev.linwood.butterfly"
@@ -4031,13 +4043,13 @@
     "xdg-documents/O20:create": [
         "io.gitlab.o20.word"
     ],
-    "~/.minikube:ro": [
+    "~/.config/Headlamp": [
         "io.kinvolk.Headlamp"
     ],
-    "~/.kube/config:ro": [
+    "~/.azure": [
         "io.kinvolk.Headlamp"
     ],
-    "~/.config/Headlamp:ro": [
+    "~/.config/doctl": [
         "io.kinvolk.Headlamp"
     ],
     "xdg-data/flatpak/exports/share:ro": [

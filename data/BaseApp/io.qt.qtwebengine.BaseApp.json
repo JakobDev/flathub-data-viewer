@@ -48,7 +48,8 @@
         "org.kde.tellico",
         "org.musescore.MuseScore",
         "org.paraview.ParaView",
-        "org.sdrangel.SDRangel"
+        "org.sdrangel.SDRangel",
+        "org.yacas.yacas-gui"
     ],
     "6.6": [
         "com.github.jmlich.geotagging",

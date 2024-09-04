@@ -32,6 +32,7 @@
     "org.bunkus.mkvtoolnix-gui",
     "org.entangle_photo.Manager",
     "org.exaile.Exaile",
+    "org.fontforge.FontForge",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",
     "org.gimp.GIMP",
