@@ -506,7 +506,6 @@
         "co.luoja.Telyn",
         "com.baidu.NetDisk",
         "com.brave.Browser",
-        "com.cocoatech.deckr",
         "com.discordapp.Discord",
         "com.diy_fever.DIYLayoutCreator",
         "com.freerdp.FreeRDP",
@@ -689,6 +688,7 @@
         "pl.art.lach.slawek.V2BlankBrowser",
         "ru.yandex.Browser",
         "sh.ppy.osu",
+        "surf.deckr.deckr",
         "to.us.scrollprotocol.Profectus",
         "ua.org.brezblock.q4wine",
         "xyz.armcord.ArmCord"
@@ -1769,7 +1769,6 @@
         "app.drey.EarTag",
         "app.moosync.moosync",
         "ch.x29a.playitslowly",
-        "com.cocoatech.deckr",
         "com.github.Matoking.protontricks",
         "com.github.ahrm.sioyek",
         "com.github.gmg137.netease-cloud-music-gtk",
@@ -1834,6 +1833,7 @@
         "org.subtitld.Subtitld",
         "org.turbowarp.TurboWarp",
         "org.winehq.Wine",
+        "surf.deckr.deckr",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
     ],
@@ -1883,7 +1883,6 @@
         "com.adobe.Reader",
         "com.ampl.ide",
         "com.budgetwithbuckets.Buckets",
-        "com.cocoatech.deckr",
         "com.diy_fever.DIYLayoutCreator",
         "com.dosbox.DOSBox",
         "com.getmailspring.Mailspring",
@@ -2006,6 +2005,7 @@
         "org.yacas.yacas-gui",
         "org.zaproxy.ZAP",
         "org.zulip.Zulip",
+        "surf.deckr.deckr",
         "tr.gov.uyap.Editor",
         "ua.org.brezblock.q4wine",
         "uk.org.greenend.chiark.sgtatham.puzzles",
@@ -2478,7 +2478,6 @@
     ],
     "xdg-pictures": [
         "chat.quadrix.Quadrix",
-        "com.cocoatech.deckr",
         "com.diy_fever.DIYLayoutCreator",
         "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
@@ -2556,12 +2555,12 @@
         "org.turbowarp.TurboWarp",
         "org.winehq.Wine",
         "org.zulip.Zulip",
+        "surf.deckr.deckr",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
     ],
     "xdg-videos": [
         "chat.quadrix.Quadrix",
-        "com.cocoatech.deckr",
         "com.github.Matoking.protontricks",
         "com.github.amikha1lov.RecApp",
         "com.github.artemanufrij.playmyvideos",
@@ -2613,6 +2612,7 @@
         "org.kde.kamoso",
         "org.qutebrowser.qutebrowser",
         "org.winehq.Wine",
+        "surf.deckr.deckr",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
     ],
@@ -2709,6 +2709,7 @@
         "io.github.mightycreak.Diffuse",
         "io.github.mpobaschnig.Vaults",
         "io.github.pwr_solaar.solaar",
+        "io.github.vikdevelop.SaveDesktop",
         "io.kapsa.drive",
         "me.iepure.Ticketbooth",
         "net.giuspen.cherrytree",
@@ -2728,7 +2729,6 @@
         "org.gnome.GHex",
         "org.gnome.Lollypop",
         "org.gnome.Loupe",
-        "org.gnome.NetworkDisplays",
         "org.gnome.OCRFeeder",
         "org.gnome.Papers",
         "org.gnome.Photos",
@@ -2781,6 +2781,7 @@
         "io.github.celluloid_player.Celluloid",
         "io.github.lruzicka.Needly",
         "io.github.pragha_music_player.pragha",
+        "io.github.vikdevelop.SaveDesktop",
         "io.kapsa.drive",
         "ml.prevete.Daty",
         "net.danigm.timetrack",
@@ -2795,7 +2796,6 @@
         "org.gnome.DejaDup",
         "org.gnome.Lollypop",
         "org.gnome.Loupe",
-        "org.gnome.NetworkDisplays",
         "org.gnome.OCRFeeder",
         "org.gnome.Photos",
         "org.gnome.Shotwell",
@@ -3035,7 +3035,6 @@
     ],
     "xdg-desktop": [
         "com.brave.Browser",
-        "com.cocoatech.deckr",
         "com.github.Matoking.protontricks",
         "com.github.PintaProject.Pinta",
         "com.github.corna.Vivado",
@@ -3068,6 +3067,7 @@
         "org.turbowarp.TurboWarp",
         "org.winehq.Wine",
         "page.codeberg.libre_menu_editor.LibreMenuEditor",
+        "surf.deckr.deckr",
         "ua.org.brezblock.q4wine",
         "xyz.hyperplay.HyperPlay"
     ],
@@ -4413,6 +4413,13 @@
     "~/.local/share/gtk-3.0": [
         "org.onlyoffice.desktopeditors"
     ],
+    "host-etc:ro": [
+        "org.opencpn.OpenCPN",
+        "page.codeberg.JakobDev.jdDBusDebugger",
+        "page.codeberg.JakobDev.jdMacroPlayer",
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
+        "page.codeberg.JakobDev.jdSimpleAutostart"
+    ],
     "~/.elc:create": [
         "org.pjbroad.EternallandsClient"
     ],
@@ -4472,12 +4479,6 @@
     ],
     "xdg-run/at-spi": [
         "page.codeberg.JakobDev.jdDBusDebugger"
-    ],
-    "host-etc:ro": [
-        "page.codeberg.JakobDev.jdDBusDebugger",
-        "page.codeberg.JakobDev.jdMacroPlayer",
-        "page.codeberg.JakobDev.jdProcessFileWatcher",
-        "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "/var/lib/flatpak/exports/share/applications:ro": [
         "page.codeberg.JakobDev.jdProcessFileWatcher",

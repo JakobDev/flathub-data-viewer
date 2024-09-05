@@ -890,6 +890,7 @@
         "page.codeberg.lazyt.ubpm",
         "re.chiaki.Chiaki",
         "re.rizin.cutter",
+        "ru.linux_gaming.PortProton",
         "ru.yandex.Browser",
         "se.sjoerd.GIScan",
         "sh.cider.Cider",
@@ -2167,7 +2168,6 @@
         "com.baidu.NetDisk",
         "com.borgbase.Vorta",
         "com.calibre_ebook.calibre",
-        "com.cocoatech.deckr",
         "com.codemouse92.timecard",
         "com.dec05eba.gpu_screen_recorder",
         "com.discordapp.Discord",
@@ -2384,6 +2384,7 @@
         "si.tano.Vremenar",
         "so.libdb.dissent",
         "social.whalebird.WhalebirdDesktop",
+        "surf.deckr.deckr",
         "tech.feliciano.pocket-casts",
         "xyz.armcord.ArmCord",
         "xyz.hyperplay.HyperPlay",
@@ -2411,7 +2412,6 @@
         "com.bitwig.BitwigStudio",
         "com.borgbase.Vorta",
         "com.brave.Browser",
-        "com.cocoatech.deckr",
         "com.codemouse92.timecard",
         "com.dec05eba.gpu_screen_recorder",
         "com.dropbox.Client",
@@ -2684,6 +2684,7 @@
         "so.libdb.dissent",
         "so.onekey.Wallet",
         "social.whalebird.WhalebirdDesktop",
+        "surf.deckr.deckr",
         "tw.ddnet.ddnet",
         "ua.org.brezblock.q4wine",
         "uk.co.piggz.amazfish",
@@ -2852,6 +2853,7 @@
         "org.signal.Signal",
         "org.sparkleshare.SparkleShare",
         "org.zim_wiki.Zim",
+        "ru.linux_gaming.PortProton",
         "social.whalebird.WhalebirdDesktop"
     ],
     "org.ayatana.indicator.application": [
@@ -2870,7 +2872,8 @@
         "io.github.mimbrero.WhatsAppDesktop",
         "io.github.slgobinath.SafeEyes",
         "org.remmina.Remmina",
-        "org.signal.Signal"
+        "org.signal.Signal",
+        "ru.linux_gaming.PortProton"
     ],
     "org.kde.kwalletd5": [
         "app.moosync.moosync",
@@ -3060,7 +3063,8 @@
         "io.github.slgobinath.SafeEyes",
         "org.gajim.Gajim",
         "org.gnome.BreakTimer",
-        "org.signal.Signal"
+        "org.signal.Signal",
+        "ru.linux_gaming.PortProton"
     ],
     "org.gnome.settingsdaemon": [
         "chat.tandem.Client",
@@ -3238,7 +3242,6 @@
         "org.gnome.GHex",
         "org.gnome.Lollypop",
         "org.gnome.Loupe",
-        "org.gnome.NetworkDisplays",
         "org.gnome.Notes",
         "org.gnome.OCRFeeder",
         "org.gnome.Papers",

@@ -2,7 +2,6 @@
     "com.abisource.AbiWord",
     "com.brave.Browser",
     "com.calibre_ebook.calibre",
-    "com.cocoatech.deckr",
     "com.cuperino.qprompt",
     "com.ghostery.browser",
     "com.github.fries1234.ncsa-mosaic",
@@ -46,5 +45,6 @@
     "org.qutebrowser.qutebrowser",
     "org.sugarlabs.MusicBlocks",
     "rocks.koreader.KOReader",
-    "ru.yandex.Browser"
+    "ru.yandex.Browser",
+    "surf.deckr.deckr"
 ]
