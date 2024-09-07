@@ -859,7 +859,6 @@
         "info.smplayer.SMPlayer",
         "io.atom.Atom",
         "io.botfather.Botfather",
-        "io.crow_translate.CrowTranslate",
         "io.github.Andrettin.Wyrmsun",
         "io.github.Arisotura.CoinKiller",
         "io.github.Bollos00.LibreMines",
@@ -3429,6 +3428,9 @@
     ],
     "~/Inform:create": [
         "com.inform7.IDE"
+    ],
+    "/sys/module/amdgpu:ro": [
+        "com.jeffser.Alpaca"
     ],
     "xdg-run/docker": [
         "com.jetbrains.CLion",

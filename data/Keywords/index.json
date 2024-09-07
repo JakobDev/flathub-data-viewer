@@ -2373,6 +2373,8 @@
         "image2pdf",
         "imagemagick",
         "images",
+        "image{SPACE}catalog",
+        "image{SPACE}viewer",
         "imaginary",
         "imaginaryinfinity",
         "imap",

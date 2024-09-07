@@ -340,6 +340,7 @@
     "org.gustavoperedo.FontDownloader",
     "org.inkscape.Inkscape",
     "org.jdownloader.JDownloader",
+    "org.kde.CrowTranslate",
     "org.kde.Ikona",
     "org.kde.SymbolEditor",
     "org.kde.akregator",
