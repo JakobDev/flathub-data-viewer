@@ -25,6 +25,7 @@
         "com.github.artemanufrij.regextester",
         "com.github.childishgiant.mixer",
         "com.github.dahenson.agenda",
+        "com.github.muriloventuroso.givemelyrics",
         "com.github.philip_scott.spice-up"
     ],
     "juno-21.08": [
@@ -36,7 +37,6 @@
         "com.github.matfantinel.reminduck",
         "com.github.mdh34.hackup",
         "com.github.mdh34.quickdocs",
-        "com.github.muriloventuroso.givemelyrics",
         "com.github.needleandthread.vocal",
         "com.github.philip_scott.notes-up"
     ],

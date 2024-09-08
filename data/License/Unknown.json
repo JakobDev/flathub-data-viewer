@@ -1,6 +1,5 @@
 [
     "com.github.ojubaorg.Othman",
-    "net.sourceforge.atanks",
     "org.kde.SymbolEditor",
     "io.dbeaver.DBeaverCommunity.Client.pgsql",
     "org.freedesktop.Sdk.Extension.golang",
