@@ -192,6 +192,7 @@
     "org.blackfennec.app.extensions.base",
     "org.blackfennec.app.extensions.core",
     "org.freedesktop.Platform.GStreamer.openmpt",
+    "org.freedesktop.Platform.ffmpeg-full",
     "org.freedesktop.Sdk.Extension.dotnet",
     "org.freedesktop.Sdk.Extension.dotnet5",
     "org.freedesktop.Sdk.Extension.openjdk11",

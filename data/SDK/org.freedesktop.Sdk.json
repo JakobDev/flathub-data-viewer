@@ -138,7 +138,6 @@
         "com.github.zadam.trilium",
         "com.gitlab.coringao.cavestory-nx",
         "com.gluonhq.SceneBuilder",
-        "com.google.AndroidStudio",
         "com.google.Chrome",
         "com.google.EarthPro",
         "com.gopeed.Gopeed",
@@ -1197,5 +1196,8 @@
         "com.github.naaando.lyrics",
         "com.varnamproject.Varnam",
         "org.aliflang.lang"
+    ],
+    "24.08": [
+        "com.google.AndroidStudio"
     ]
 }

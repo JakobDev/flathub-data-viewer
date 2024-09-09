@@ -8,6 +8,7 @@
     "com.hack_computer.Clippy.Extension",
     "org.freedesktop.LinuxAudio.Plugins.Calf",
     "org.freedesktop.LinuxAudio.Plugins.SpectMorph",
+    "org.freedesktop.Platform.ffmpeg-full",
     "org.freedesktop.Sdk.Extension.ocaml",
     "org.kde.PlatformTheme.QGnomePlatform",
     "org.kde.WaylandDecoration.QAdwaitaDecorations",

@@ -3012,6 +3012,7 @@
     "org.freedesktop.Platform.VulkanLayer.OBSVkCapture",
     "org.freedesktop.Platform.VulkanLayer.gamescope",
     "org.freedesktop.Platform.VulkanLayer.vkBasalt",
+    "org.freedesktop.Platform.ffmpeg-full",
     "org.freedesktop.Platform",
     "org.freedesktop.Sdk.Extension.bazel",
     "org.freedesktop.Sdk.Extension.dmd",

@@ -7,7 +7,6 @@
         "com.axosoft.GitKraken",
         "com.chez.GrafX2",
         "com.gitfiend.GitFiend",
-        "com.google.AndroidStudio",
         "com.helix_editor.Helix",
         "com.jetbrains.CLion",
         "com.jetbrains.DataGrip",
@@ -48,6 +47,9 @@
         "org.thonny.Thonny",
         "org.vim.Vim",
         "uno.platform.uno-calculator"
+    ],
+    "24.08": [
+        "com.google.AndroidStudio"
     ],
     "21.08": [
         "com.okta.developer.CLI",
