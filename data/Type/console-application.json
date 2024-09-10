@@ -1,5 +1,6 @@
 [
     "at.ssh_mitm.server",
+    "au.edu.uq.esys.escript",
     "ca.uwaterloo.Raven",
     "cc.nift.nsm",
     "cern.root.ROOT",

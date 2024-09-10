@@ -12,7 +12,6 @@
         "cn.feishu.Feishu",
         "com.agatanawrot.karambola",
         "com.airtame.Client",
-        "com.axosoft.GitKraken",
         "com.beavernotes.beavernotes",
         "com.boxy_svg.BoxySVG",
         "com.budgetwithbuckets.Buckets",
@@ -191,6 +190,9 @@
         "se.manyver.Manyverse",
         "tech.feliciano.pocket-casts",
         "xyz.armcord.ArmCord"
+    ],
+    "24.08": [
+        "com.axosoft.GitKraken"
     ],
     "21.08": [
         "com.basemark.BasemarkGPU",

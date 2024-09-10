@@ -4,7 +4,6 @@
     ],
     "23.08": [
         "cern.root.ROOT",
-        "com.axosoft.GitKraken",
         "com.chez.GrafX2",
         "com.gitfiend.GitFiend",
         "com.helix_editor.Helix",
@@ -49,6 +48,7 @@
         "uno.platform.uno-calculator"
     ],
     "24.08": [
+        "com.axosoft.GitKraken",
         "com.google.AndroidStudio"
     ],
     "21.08": [

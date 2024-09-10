@@ -2012,27 +2012,6 @@
         "us.ihmc.cmap.CmapTools",
         "xyz.hyperplay.HyperPlay"
     ],
-    "xdg-pictures:ro": [
-        "app.fotema.Fotema",
-        "chat.revolt.RevoltDesktop",
-        "chat.tandem.Client",
-        "com.baidu.NetDisk",
-        "com.discordapp.Discord",
-        "com.meetfranz.Franz",
-        "com.sindresorhus.Caprine",
-        "com.skype.Client",
-        "com.spotify.Client",
-        "com.valvesoftware.Steam",
-        "dev.vencord.Vesktop",
-        "fm.cancel.Ripcord",
-        "gg.guilded.Guilded",
-        "io.github.milkshiift.GoofCord",
-        "io.kapsa.drive",
-        "org.gnunet.Messenger",
-        "org.lyx.LyX",
-        "sh.ppy.osu",
-        "xyz.armcord.ArmCord"
-    ],
     "xdg-run/Clipboard": [
         "app.getclipboard.Clipboard"
     ],
@@ -2625,6 +2604,26 @@
         "io.github.Soundux",
         "io.gpt4all.gpt4all",
         "org.gnunet.Messenger"
+    ],
+    "xdg-pictures:ro": [
+        "chat.revolt.RevoltDesktop",
+        "chat.tandem.Client",
+        "com.baidu.NetDisk",
+        "com.discordapp.Discord",
+        "com.meetfranz.Franz",
+        "com.sindresorhus.Caprine",
+        "com.skype.Client",
+        "com.spotify.Client",
+        "com.valvesoftware.Steam",
+        "dev.vencord.Vesktop",
+        "fm.cancel.Ripcord",
+        "gg.guilded.Guilded",
+        "io.github.milkshiift.GoofCord",
+        "io.kapsa.drive",
+        "org.gnunet.Messenger",
+        "org.lyx.LyX",
+        "sh.ppy.osu",
+        "xyz.armcord.ArmCord"
     ],
     "xdg-videos:ro": [
         "chat.revolt.RevoltDesktop",

@@ -1,18 +1,6 @@
 {
-    "moderate": [
-        "app.kaiteki.Kaiteki",
-        "codes.nora.gDiceRoller",
-        "dev.geopjr.Tuba",
-        "io.freetubeapp.FreeTube",
-        "io.github.sharkwouter.Minigalaxy",
-        "net.gaijin.WarThunder",
-        "net.labymod.LabyMod",
-        "org.gnome.gThumb",
-        "org.jitsi.jitsi-meet",
-        "org.kde.ruqola",
-        "org.vinegarhq.Vinegar"
-    ],
     "none": [
+        "app.fotema.Fotema",
         "ar.com.tuxguitar.TuxGuitar",
         "au.edu.uq.esys.escript",
         "ca._0ldsk00l.Nestopia",
@@ -176,6 +164,19 @@
         "sh.xaviers.Opentapes",
         "tv.kodi.Kodi",
         "xyz.z3ntu.razergenie"
+    ],
+    "moderate": [
+        "app.kaiteki.Kaiteki",
+        "codes.nora.gDiceRoller",
+        "dev.geopjr.Tuba",
+        "io.freetubeapp.FreeTube",
+        "io.github.sharkwouter.Minigalaxy",
+        "net.gaijin.WarThunder",
+        "net.labymod.LabyMod",
+        "org.gnome.gThumb",
+        "org.jitsi.jitsi-meet",
+        "org.kde.ruqola",
+        "org.vinegarhq.Vinegar"
     ],
     "intense": [
         "ch.threema.threema-web-desktop",

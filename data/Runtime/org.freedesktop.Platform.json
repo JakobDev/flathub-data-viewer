@@ -11,6 +11,7 @@
         "ar.com.pilas_engine.App",
         "ar.com.tuxguitar.TuxGuitar",
         "at.ssh_mitm.server",
+        "au.edu.uq.esys.escript",
         "br.com.eduk.school",
         "br.gov.cti.invesalius",
         "br.gov.fazenda.receita.irpf2022",
@@ -311,12 +312,10 @@
         "games.zetsubou.SablesGrimoireDemo",
         "games.zetsubou.WanderNoMore",
         "gg.minion.Minion",
-        "hu.irl.cameractrls",
         "im.fluffychat.Fluffychat",
         "im.riot.Riot",
         "in.co.nandakumar.vara",
         "info.beyondallreason.bar",
-        "info.cemu.Cemu",
         "info.puredata.Pd",
         "info.rttr.Return-To-The-Roots",
         "info.urbanterror.UrbanTerror",
@@ -434,7 +433,6 @@
         "io.github.wojciech_graj.OrbVis",
         "io.github.wxmaxima_developers.wxMaxima",
         "io.github.xolatgames.marknpaul",
-        "io.github.xyproto.zsnes",
         "io.github.yairm210.unciv",
         "io.github.yamanqd.antware",
         "io.github.zen_browser.zen",
@@ -677,7 +675,6 @@
         "org.surge_synth_team.surge-xt",
         "org.taisei_project.Taisei",
         "org.tenacityaudio.Tenacity",
-        "org.tildearrow.furnace",
         "org.tropy.Tropy",
         "org.turbowarp.TurboWarp",
         "org.tuxfamily.XMoto",
@@ -718,7 +715,6 @@
         "rocks.poopjournal.librelinkupdesktop",
         "rs.ruffle.Ruffle",
         "ru.linux_gaming.PortProton",
-        "ru.proninyaroslav.libretrack",
         "ru.yandex.Browser",
         "se.cendio.tlclient",
         "se.emijoh.mpw",
@@ -1048,9 +1044,6 @@
         "xyz.kusma.aurora",
         "xyz.stuerz.BilligSweeper"
     ],
-    "18.08": [
-        "au.edu.uq.esys.escript"
-    ],
     "21.08": [
         "cc.nift.nsm",
         "com.albiononline.AlbionOnline",
@@ -1136,5 +1129,12 @@
         "com.github.matfantinel.moneta",
         "com.github.naaando.lyrics",
         "com.varnamproject.Varnam"
+    ],
+    "24.08": [
+        "hu.irl.cameractrls",
+        "info.cemu.Cemu",
+        "io.github.xyproto.zsnes",
+        "org.tildearrow.furnace",
+        "ru.proninyaroslav.libretrack"
     ]
 }

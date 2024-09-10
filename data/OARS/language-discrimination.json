@@ -11,6 +11,7 @@
         "org.firestormviewer.FirestormViewer"
     ],
     "none": [
+        "app.fotema.Fotema",
         "ar.com.tuxguitar.TuxGuitar",
         "au.edu.uq.esys.escript",
         "ca._0ldsk00l.Nestopia",

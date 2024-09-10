@@ -11,6 +11,7 @@
         "vet.rsc.OpenRSC.Launcher"
     ],
     "none": [
+        "app.fotema.Fotema",
         "ca._0ldsk00l.Nestopia",
         "chat.rocket.RocketChat",
         "com.anydesk.Anydesk",

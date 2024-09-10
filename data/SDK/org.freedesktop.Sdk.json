@@ -11,6 +11,7 @@
         "ar.com.pilas_engine.App",
         "ar.com.tuxguitar.TuxGuitar",
         "at.ssh_mitm.server",
+        "au.edu.uq.esys.escript",
         "br.com.eduk.school",
         "br.gov.cti.invesalius",
         "br.gov.fazenda.receita.irpf2022",
@@ -51,7 +52,6 @@
         "com.anydesk.Anydesk",
         "com.arviceblot.eso-addon-manager",
         "com.atlauncher.ATLauncher",
-        "com.axosoft.GitKraken",
         "com.beavernotes.beavernotes",
         "com.behringer.XAirEdit",
         "com.bestaticpy.bestatic",
@@ -338,12 +338,10 @@
         "games.zetsubou.SablesGrimoireDemo",
         "games.zetsubou.WanderNoMore",
         "gg.minion.Minion",
-        "hu.irl.cameractrls",
         "im.fluffychat.Fluffychat",
         "im.riot.Riot",
         "in.co.nandakumar.vara",
         "info.beyondallreason.bar",
-        "info.cemu.Cemu",
         "info.puredata.Pd",
         "info.rttr.Return-To-The-Roots",
         "info.urbanterror.UrbanTerror",
@@ -463,7 +461,6 @@
         "io.github.wojciech_graj.OrbVis",
         "io.github.wxmaxima_developers.wxMaxima",
         "io.github.xolatgames.marknpaul",
-        "io.github.xyproto.zsnes",
         "io.github.yairm210.unciv",
         "io.github.yamanqd.antware",
         "io.github.zen_browser.zen",
@@ -719,7 +716,6 @@
         "org.taisei_project.Taisei",
         "org.tenacityaudio.Tenacity",
         "org.thonny.Thonny",
-        "org.tildearrow.furnace",
         "org.tropy.Tropy",
         "org.turbowarp.TurboWarp",
         "org.tuxfamily.XMoto",
@@ -761,7 +757,6 @@
         "rocks.poopjournal.librelinkupdesktop",
         "rs.ruffle.Ruffle",
         "ru.linux_gaming.PortProton",
-        "ru.proninyaroslav.libretrack",
         "ru.yandex.Browser",
         "se.cendio.tlclient",
         "se.emijoh.mpw",
@@ -1103,9 +1098,6 @@
         "xyz.kusma.aurora",
         "xyz.stuerz.BilligSweeper"
     ],
-    "18.08": [
-        "au.edu.uq.esys.escript"
-    ],
     "21.08": [
         "cc.nift.nsm",
         "com.albiononline.AlbionOnline",
@@ -1191,13 +1183,19 @@
         "xyz.eclipium.Hieroctive",
         "xyz.eclipium.TetraSwap"
     ],
+    "24.08": [
+        "com.axosoft.GitKraken",
+        "com.google.AndroidStudio",
+        "hu.irl.cameractrls",
+        "info.cemu.Cemu",
+        "io.github.xyproto.zsnes",
+        "org.tildearrow.furnace",
+        "ru.proninyaroslav.libretrack"
+    ],
     "19.08": [
         "com.github.matfantinel.moneta",
         "com.github.naaando.lyrics",
         "com.varnamproject.Varnam",
         "org.aliflang.lang"
-    ],
-    "24.08": [
-        "com.google.AndroidStudio"
     ]
 }
