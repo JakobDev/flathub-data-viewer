@@ -109,7 +109,6 @@
         "com.github.childishgiant.mixer",
         "com.github.christianrauch.Jahresarbeit-2003",
         "com.github.dahenson.agenda",
-        "com.github.dimkr.gplaces",
         "com.github.iortcw.iortcw",
         "com.github.k4zmu2a.spacecadetpinball",
         "com.github.keriew.augustus",
@@ -122,10 +121,8 @@
         "com.github.philip_scott.spice-up",
         "com.github.ransome1.sleek",
         "com.github.reds.LogisimEvolution",
-        "com.github.reduz.ChibiTracker",
         "com.github.rkoesters.xkcd-gtk",
         "com.github.sakya.corechess",
-        "com.github.skullernet.q2pro",
         "com.github.skylot.jadx",
         "com.github.tmewett.BrogueCE",
         "com.github.unrud.RemoteTouchpad",
@@ -543,7 +540,6 @@
         "net.xmind.XMind",
         "net.zgcoder.skycheckers",
         "network.bisq.Bisq",
-        "one.ablaze.floorp",
         "one.jwr.interstellar",
         "online.hatsune_miku.tachidesk-vaadinui",
         "org._2009scape.Launcher",
@@ -597,7 +593,6 @@
         "org.freedesktop.appstream.generator",
         "org.freedesktop.dabrain34.squared",
         "org.freeorion.FreeOrion",
-        "org.garudalinux.firedragon",
         "org.geogebra.GeoGebra",
         "org.getoutline.OutlineManager",
         "org.getzola.zola",
@@ -1125,16 +1120,21 @@
         "xyz.eclipium.Hieroctive",
         "xyz.eclipium.TetraSwap"
     ],
+    "24.08": [
+        "com.github.dimkr.gplaces",
+        "com.github.reduz.ChibiTracker",
+        "com.github.skullernet.q2pro",
+        "hu.irl.cameractrls",
+        "info.cemu.Cemu",
+        "io.github.xyproto.zsnes",
+        "one.ablaze.floorp",
+        "org.garudalinux.firedragon",
+        "org.tildearrow.furnace",
+        "ru.proninyaroslav.libretrack"
+    ],
     "19.08": [
         "com.github.matfantinel.moneta",
         "com.github.naaando.lyrics",
         "com.varnamproject.Varnam"
-    ],
-    "24.08": [
-        "hu.irl.cameractrls",
-        "info.cemu.Cemu",
-        "io.github.xyproto.zsnes",
-        "org.tildearrow.furnace",
-        "ru.proninyaroslav.libretrack"
     ]
 }

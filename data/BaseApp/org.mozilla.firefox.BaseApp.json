@@ -2,8 +2,10 @@
     "23.08": [
         "io.github.zen_browser.zen",
         "net.mullvad.MullvadBrowser",
-        "org.garudalinux.firedragon",
         "org.mozilla.Thunderbird",
         "org.mozilla.firefox"
+    ],
+    "24.08": [
+        "org.garudalinux.firedragon"
     ]
 }

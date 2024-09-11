@@ -168,6 +168,9 @@
     "org.mpris.mediaplayer2.thebeat": [
         "com.vicr123.thebeat"
     ],
+    "org.mpris.mediaplayer2.tubefeeder": [
+        "de.schmidhuberj.tubefeeder"
+    ],
     "org.mpris.mediaplayer2.spot": [
         "dev.alextren.Spot"
     ],
