@@ -1,4 +1,5 @@
 [
     "com.bestaticpy.bestatic",
-    "io.kinvolk.Headlamp"
+    "io.kinvolk.Headlamp",
+    "org.sil.scripture-app-builder"
 ]

@@ -514,6 +514,7 @@
     "org.aegisub.Aegisub",
     "org.alienarena.alienarena",
     "org.americanmonk.TipitakaPaliReader",
+    "org.angryip.ipscan",
     "org.apache.directory.studio",
     "org.apache.jmeter",
     "org.apache.netbeans",
@@ -833,6 +834,7 @@
     "org.signal.Signal",
     "org.sil.Bloom",
     "org.sil.FieldWorks",
+    "org.sil.scripture-app-builder",
     "org.soapui.SoapUI",
     "org.speed_dreams.SpeedDreams",
     "org.speedcrunch.SpeedCrunch",
@@ -911,6 +913,7 @@
     "com.obsproject.Studio.Plugin.VerticalCanvas",
     "com.valvesoftware.Steam.CompatibilityTool.Boxtron",
     "com.valvesoftware.Steam.Utility.steamtinkerlaunch",
+    "net.krafting.SemantiK.Lang.English",
     "org.apache.jmeter.Help",
     "org.freedesktop.LinuxAudio.Plugins.SonoBus",
     "org.freedesktop.Sdk.Extension.gnat13"

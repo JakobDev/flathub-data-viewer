@@ -87,6 +87,7 @@
     "org.entangle_photo.Manager",
     "org.exaile.Exaile",
     "org.fontforge.FontForge",
+    "org.free_astro.siril",
     "org.freedesktop.Piper",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.dabrain34.GstPipelineStudio",

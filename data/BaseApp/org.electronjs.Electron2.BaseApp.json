@@ -36,21 +36,18 @@
         "com.mattermost.Desktop",
         "com.mongodb.Compass",
         "com.musixmatch.Musixmatch",
-        "com.nordpass.NordPass",
         "com.notesnook.Notesnook",
         "com.ownrwallet.wallet",
         "com.pikatorrent.PikaTorrent",
         "com.plexamp.Plexamp",
         "com.qq.QQ",
         "com.qq.QQmusic",
-        "com.quixel.Bridge",
         "com.rabbit_company.passky",
         "com.redis.RedisInsight",
         "com.scanoss.sbom-workbench",
         "com.sejda.Sejda",
         "com.simplenote.Simplenote",
         "com.sindresorhus.Caprine",
-        "com.skype.Client",
         "com.slack.Slack",
         "com.surfshark.Surfshark",
         "com.termius.Termius",
@@ -192,7 +189,10 @@
         "xyz.armcord.ArmCord"
     ],
     "24.08": [
-        "com.axosoft.GitKraken"
+        "com.axosoft.GitKraken",
+        "com.nordpass.NordPass",
+        "com.quixel.Bridge",
+        "com.skype.Client"
     ],
     "21.08": [
         "com.basemark.BasemarkGPU",

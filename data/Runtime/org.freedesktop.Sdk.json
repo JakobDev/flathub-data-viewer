@@ -15,9 +15,6 @@
         "com.jetbrains.PhpStorm",
         "com.jetbrains.PyCharm-Community",
         "com.jetbrains.PyCharm-Professional",
-        "com.jetbrains.Rider",
-        "com.jetbrains.RubyMine",
-        "com.jetbrains.WebStorm",
         "com.netxms.NetXMSClient",
         "com.netxms.NetXMSClient50",
         "com.sublimemerge.App",
@@ -49,7 +46,10 @@
     ],
     "24.08": [
         "com.axosoft.GitKraken",
-        "com.google.AndroidStudio"
+        "com.google.AndroidStudio",
+        "com.jetbrains.Rider",
+        "com.jetbrains.RubyMine",
+        "com.jetbrains.WebStorm"
     ],
     "21.08": [
         "com.okta.developer.CLI",

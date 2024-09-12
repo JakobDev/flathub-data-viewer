@@ -71,6 +71,7 @@
     "org.darktable.Darktable",
     "org.exaile.Exaile",
     "org.fontforge.FontForge",
+    "org.free_astro.siril",
     "org.freedesktop.Piper",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",

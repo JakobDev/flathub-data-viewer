@@ -1,6 +1,7 @@
 [
     "com.gitlab.davem.ClamTk",
     "info.febvre.Komikku",
+    "org.angryip.ipscan",
     "org.gnome.SimpleScan",
     "org.nmap.Zenmap"
 ]

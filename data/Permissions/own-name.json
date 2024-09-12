@@ -43,6 +43,7 @@
     ],
     "org.mpris.mediaplayer2.firefox.*": [
         "com.ghostery.browser",
+        "com.humatarayici.od",
         "io.github.zen_browser.zen",
         "io.gitlab.librewolf-community",
         "net.mullvad.MullvadBrowser",
@@ -122,6 +123,9 @@
     ],
     "com.hack_computer.gamestateservice": [
         "com.hack_computer.Clubhouse"
+    ],
+    "org.mozilla.huma.*": [
+        "com.humatarayici.od"
     ],
     "org.mpris.mediaplayer2.mpv.*": [
         "com.ktechpit.orion",

@@ -190,7 +190,6 @@
     "com.warlordsoftwares.formatlab",
     "com.warlordsoftwares.jpeg2pdf",
     "com.warlordsoftwares.media-downloader",
-    "com.warlordsoftwares.tube2go",
     "com.warlordsoftwares.youtube-downloader-4ktube",
     "com.wiz.Note",
     "com.writerduet.writersolo",
@@ -474,6 +473,7 @@
     "one.flipperzero.qFlipper",
     "org.adishatz.Screenshot",
     "org.americanmonk.TipitakaPaliReader",
+    "org.angryip.ipscan",
     "org.apache.jmeter",
     "org.arrl.trustedqsl",
     "org.artisan_scope.artisan",
@@ -648,5 +648,6 @@
     "xyz.tytanium.DoorKnocker",
     "xyz.woxel.Woxel",
     "xyz.xclicker.xclicker",
+    "com.jeffser.Alpaca.Plugins.AMD",
     "com.sublimetext.three.DevUtils"
 ]

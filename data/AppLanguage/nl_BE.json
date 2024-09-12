@@ -1,5 +1,6 @@
 [
     "io.posidon.Paper",
+    "org.free_astro.siril",
     "org.gnome.Eolie",
     "org.gtkhash.gtkhash"
 ]

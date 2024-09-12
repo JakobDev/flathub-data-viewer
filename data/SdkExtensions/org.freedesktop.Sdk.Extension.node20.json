@@ -17,6 +17,7 @@
     "net.hovancik.Stretchly",
     "org.expresslrs.ExpressLRSConfigurator",
     "org.freedesktop.appstream.generator",
+    "org.sil.scripture-app-builder",
     "rest.insomnia.Insomnia",
     "rocks.poopjournal.librelinkupdesktop",
     "tech.keyforge.keyforge_master"
