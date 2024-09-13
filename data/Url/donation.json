@@ -397,6 +397,7 @@
     "org.davmail.DavMail",
     "org.dbgate.DbGate",
     "org.deluge_torrent.deluge",
+    "org.eclipse.Java",
     "org.emptyflow.ArdorQuery",
     "org.expresslrs.ExpressLRSConfigurator",
     "org.eyecreate.qiflora",

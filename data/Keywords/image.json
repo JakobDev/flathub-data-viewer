@@ -22,5 +22,6 @@
     "org.libvips.vipsdisp",
     "org.photoqt.PhotoQt",
     "org.previewqt.PreviewQt",
-    "org.wxhexeditor.wxHexEditor"
+    "org.wxhexeditor.wxHexEditor",
+    "page.kramo.Sly"
 ]

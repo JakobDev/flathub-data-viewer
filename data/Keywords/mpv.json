@@ -1,6 +1,7 @@
 [
     "com.ozmartians.VidCutter",
     "io.github.celluloid_player.Celluloid",
+    "io.github.ecotubehq.player",
     "io.mpv.Mpv",
     "org.photoqt.PhotoQt",
     "org.previewqt.PreviewQt"

@@ -1,5 +1,6 @@
 [
     "io.github.celluloid_player.Celluloid",
+    "io.github.ecotubehq.player",
     "org.exaile.Exaile",
     "org.gnome.Epiphany",
     "org.gnome.Evince",

@@ -1,5 +1,6 @@
 [
     "ca.desrt.dconf-editor",
+    "org.gnome.Nibbles",
     "org.gnome.Sudoku",
     "org.gnome.eog"
 ]

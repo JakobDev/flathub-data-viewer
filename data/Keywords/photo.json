@@ -13,5 +13,6 @@
     "org.gnome.Cheese",
     "org.gnome.Shotwell",
     "org.photoqt.PhotoQt",
-    "org.previewqt.PreviewQt"
+    "org.previewqt.PreviewQt",
+    "page.kramo.Sly"
 ]

@@ -38,5 +38,6 @@
     "org.tug.texworks",
     "org.vim.Vim",
     "org.wxhexeditor.wxHexEditor",
-    "page.codeberg.libre_menu_editor.LibreMenuEditor"
+    "page.codeberg.libre_menu_editor.LibreMenuEditor",
+    "page.kramo.Sly"
 ]

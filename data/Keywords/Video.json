@@ -6,6 +6,7 @@
     "info.puredata.Pd",
     "io.github.celluloid_player.Celluloid",
     "io.github.dimtpap.coppwr",
+    "io.github.ecotubehq.player",
     "io.github.seadve.Kooha",
     "io.github.swanux.hbud",
     "net.base_art.Glide",

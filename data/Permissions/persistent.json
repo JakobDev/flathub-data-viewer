@@ -444,6 +444,9 @@
     ".doombfa": [
         "io.github.maddecoder.Classic-RBDOOM-3-BFG"
     ],
+    "EncryptedData": [
+        "io.github.mihnea_radulescu.passwordsecure"
+    ],
     ".config/starfighter": [
         "io.github.pr_starfighter.starfighter"
     ],

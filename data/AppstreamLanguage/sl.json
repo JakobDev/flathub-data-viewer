@@ -28,6 +28,7 @@
     "io.github.Qalculate.qalculate-qt",
     "io.github.Qalculate",
     "io.github.celluloid_player.Celluloid",
+    "io.github.ecotubehq.player",
     "org.darktable.Darktable",
     "org.fedoraproject.MediaWriter",
     "org.gabmus.gfeeds",
