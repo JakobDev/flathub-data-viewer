@@ -1,6 +1,7 @@
 [
     "com.tux4kids.tuxtype",
     "io.github.Hexchat",
+    "org.gnome.Chess",
     "org.gnome.ColorViewer",
     "org.gnome.Epiphany",
     "org.gnome.Evince",
@@ -15,6 +16,7 @@
     "org.gnome.Totem",
     "org.gnome.eog",
     "org.gnome.five-or-more",
+    "org.gnome.gedit",
     "org.gnome.seahorse.Application",
     "org.pulseaudio.pavucontrol",
     "org.sugarlabs.Memorize",

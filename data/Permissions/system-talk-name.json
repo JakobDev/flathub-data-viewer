@@ -139,6 +139,7 @@
         "org.kde.peruse",
         "org.raspberrypi.rpi-imager",
         "org.sil.FieldWorks",
+        "org.sil.dictionary-app-builder",
         "org.sil.scripture-app-builder",
         "org.strawberrymusicplayer.strawberry",
         "org.thonny.Thonny",
@@ -282,6 +283,7 @@
     ],
     "org.freedesktop.geoclue2": [
         "com.gitlab.bitseater.meteo",
+        "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "de.akaflieg_freiburg.enroute",
         "io.github.rinigus.PureMaps",
@@ -304,6 +306,7 @@
         "io.github.slgobinath.SafeEyes"
     ],
     "org.freedesktop.upower.*": [
+        "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "org.kde.falkon"
     ],

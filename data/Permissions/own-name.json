@@ -26,7 +26,6 @@
         "org.easycoding.TunedSwitcher",
         "org.qutebrowser.qutebrowser",
         "org.tribler.Tribler",
-        "re.chiaki.Chiaki",
         "us.zoom.Zoom"
     ],
     "org.gtk.vfs.*": [

@@ -1,6 +1,7 @@
 [
     "ca.desrt.dconf-editor",
     "org.gimp.GIMP",
+    "org.gnome.Chess",
     "org.gnome.ColorViewer",
     "org.gnome.Epiphany",
     "org.gnome.Evince",
@@ -17,6 +18,7 @@
     "org.gnome.Totem",
     "org.gnome.eog",
     "org.gnome.five-or-more",
+    "org.gnome.gedit",
     "org.gnome.gitg",
     "org.gnome.seahorse.Application",
     "org.kde.skrooge",

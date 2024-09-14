@@ -3,5 +3,6 @@
     "org.gnome.Quadrapassel",
     "org.gnome.Totem",
     "org.gnome.eog",
-    "org.gnome.five-or-more"
+    "org.gnome.five-or-more",
+    "org.gnome.gedit"
 ]

@@ -1,5 +1,6 @@
 [
     "org.gimp.GIMP",
+    "org.gnome.Chess",
     "org.gnome.Epiphany",
     "org.gnome.Evince",
     "org.gnome.Nibbles",
@@ -8,6 +9,7 @@
     "org.gnome.Totem",
     "org.gnome.eog",
     "org.gnome.five-or-more",
+    "org.gnome.gedit",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Calculate",
     "org.sugarlabs.Dimensions",
