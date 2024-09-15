@@ -5,6 +5,7 @@
     "com.helix_editor.Helix",
     "nl.openoffice.bluefish",
     "org.contourterminal.Contour",
+    "org.kde.kate",
     "org.processing.processingide",
     "org.robocode.Robocode",
     "org.thonny.Thonny"

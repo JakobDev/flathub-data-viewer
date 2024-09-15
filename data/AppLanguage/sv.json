@@ -47,6 +47,7 @@
     "org.freedesktop.Piper",
     "org.freedesktop.appstream.cli",
     "org.freedesktop.fwupd",
+    "org.geany.Geany",
     "org.gimp.GIMP",
     "org.gmusicbrowser.gmusicbrowser",
     "org.gnome.Calls",

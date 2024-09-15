@@ -5,6 +5,7 @@
     "org.gnome.Geary",
     "org.gnome.Shotwell",
     "org.gnome.Tomboy",
+    "org.kde.kate",
     "org.kde.kwrite",
     "org.winehq.Wine",
     "com.fightcade.Fightcade.Wine",

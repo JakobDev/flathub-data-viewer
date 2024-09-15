@@ -30,6 +30,7 @@
     "org.fontforge.FontForge",
     "org.freedesktop.Piper",
     "org.freedesktop.appstream.cli",
+    "org.geany.Geany",
     "org.gimp.GIMP",
     "org.gmusicbrowser.gmusicbrowser",
     "org.gnome.Calls",

@@ -165,6 +165,7 @@
         "com.voxdsp.Borg0",
         "com.voxdsp.VoxelPaint",
         "com.voxdsp.VoxelPaintPro",
+        "com.vysp3r.ProtonPlus",
         "com.wings3d.WINGS",
         "com.wire.WireDesktop",
         "com.xnview.XnConvert",
@@ -1162,6 +1163,7 @@
         "org.kde.kanagram",
         "org.kde.kapman",
         "org.kde.kasts",
+        "org.kde.kate",
         "org.kde.katomic",
         "org.kde.kbibtex",
         "org.kde.kblackbox",
@@ -1582,7 +1584,6 @@
         "io.github.ltiber.Pwall",
         "io.github.marco_calautti.DeltaPatcher",
         "io.github.martinrotter.textosaurus",
-        "io.github.mimbrero.WhatsAppDesktop",
         "io.github.mpobaschnig.Vaults",
         "io.github.nearinfinitybrowser.nearinfinity",
         "io.github.nroduit.Weasis",
@@ -1699,6 +1700,7 @@
         "org.kde.gwenview",
         "org.kde.index",
         "org.kde.isoimagewriter",
+        "org.kde.kate",
         "org.kde.kcachegrind",
         "org.kde.kdenlive",
         "org.kde.kdevelop",
@@ -2883,7 +2885,6 @@
         "com.arviceblot.eso-addon-manager",
         "com.eduke32.EDuke32",
         "com.github.Matoking.protontricks",
-        "com.vysp3r.ProtonPlus",
         "gg.minion.Minion",
         "io.github.accessory.minus_games_client",
         "net.davidotek.pupgui2",
@@ -3425,7 +3426,6 @@
     ],
     "~/.local/share/lutris": [
         "com.heroicgameslauncher.hgl",
-        "com.vysp3r.ProtonPlus",
         "xyz.hyperplay.HyperPlay"
     ],
     "~/Games/Heroic:create": [
@@ -3580,27 +3580,16 @@
     "xdg-pictures/Vivaldi Captures:create": [
         "com.vivaldi.Vivaldi"
     ],
-    "~/.var/app/com.usebottles.bottles/data/bottles": [
-        "com.vysp3r.ProtonPlus",
-        "io.github.fastrizwaan.WineZGUI"
-    ],
     "~/.var/app/com.heroicgameslauncher.hgl/config/heroic": [
-        "com.vysp3r.ProtonPlus"
-    ],
-    "~/.config/heroic": [
-        "com.vysp3r.ProtonPlus",
-        "io.github.philipk.boilr",
-        "xyz.hyperplay.HyperPlay"
-    ],
-    "~/.local/share/bottles": [
         "com.vysp3r.ProtonPlus"
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam": [
         "com.vysp3r.ProtonPlus",
         "net.davidotek.pupgui2"
     ],
-    "~/.steam/root": [
-        "com.vysp3r.ProtonPlus"
+    "~/.var/app/com.usebottles.bottles/data/bottles": [
+        "com.vysp3r.ProtonPlus",
+        "io.github.fastrizwaan.WineZGUI"
     ],
     "~/.var/app/net.lutris.Lutris/data/lutris": [
         "com.vysp3r.ProtonPlus"
@@ -3939,6 +3928,10 @@
     ],
     "~/GOG Games:ro": [
         "io.github.philipk.boilr"
+    ],
+    "~/.config/heroic": [
+        "io.github.philipk.boilr",
+        "xyz.hyperplay.HyperPlay"
     ],
     "~/.config/legendary:ro": [
         "io.github.philipk.boilr"

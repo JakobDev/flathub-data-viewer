@@ -51,6 +51,7 @@
     "org.gnu.emacs",
     "org.gottcode.FocusWriter",
     "org.kde.ghostwriter",
+    "org.kde.kate",
     "org.kde.kwrite",
     "org.kde.okular",
     "org.scintilla.SciTE",

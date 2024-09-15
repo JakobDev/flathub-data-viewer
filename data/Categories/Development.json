@@ -200,6 +200,7 @@
     "org.horizon_eda.HorizonEDA",
     "org.jreleaser.cli",
     "org.jupyter.JupyterLab",
+    "org.kde.kate",
     "org.kde.kcachegrind",
     "org.kde.kdevelop",
     "org.kde.kdiff3",

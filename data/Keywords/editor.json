@@ -26,6 +26,7 @@
     "org.gottcode.FocusWriter",
     "org.inkscape.Inkscape",
     "org.kde.ghostwriter",
+    "org.kde.kate",
     "org.kde.kbibtex",
     "org.kde.kid3",
     "org.kde.kwrite",

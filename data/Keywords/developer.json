@@ -1,4 +1,5 @@
 [
     "app.devsuite.Manuals",
-    "org.gnome.Devhelp"
+    "org.gnome.Devhelp",
+    "org.kde.kate"
 ]

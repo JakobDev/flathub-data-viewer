@@ -21,6 +21,7 @@
     "org.entangle_photo.Manager",
     "org.exaile.Exaile",
     "org.freedesktop.fwupd",
+    "org.geany.Geany",
     "org.gnome.Calls",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",

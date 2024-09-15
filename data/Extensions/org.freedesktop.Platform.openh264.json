@@ -2,5 +2,6 @@
     "com.freerdp.FreeRDP",
     "com.thincast.client",
     "org.jdownloader.JDownloader",
-    "org.remmina.Remmina"
+    "org.remmina.Remmina",
+    "rs.ruffle.Ruffle"
 ]

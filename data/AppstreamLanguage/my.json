@@ -8,6 +8,7 @@
     "org.gnome.Totem",
     "org.gnome.gedit",
     "org.kde.dolphin",
+    "org.kde.kate",
     "org.kde.kwrite",
     "org.kde.lokalize",
     "org.kde.pix"
