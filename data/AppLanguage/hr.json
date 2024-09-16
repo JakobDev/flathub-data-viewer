@@ -36,6 +36,7 @@
     "org.gnome.Evince",
     "org.gnome.Evolution",
     "org.gnome.FontManager",
+    "org.gnome.GHex",
     "org.gnome.NetworkDisplays",
     "org.gnome.Nibbles",
     "org.gnome.PowerStats",

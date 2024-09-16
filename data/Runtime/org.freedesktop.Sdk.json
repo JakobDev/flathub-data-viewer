@@ -12,7 +12,6 @@
         "com.jetbrains.GoLand",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
-        "com.jetbrains.PhpStorm",
         "com.jetbrains.PyCharm-Community",
         "com.jetbrains.PyCharm-Professional",
         "com.netxms.NetXMSClient",
@@ -47,6 +46,7 @@
     "24.08": [
         "com.axosoft.GitKraken",
         "com.google.AndroidStudio",
+        "com.jetbrains.PhpStorm",
         "com.jetbrains.Rider",
         "com.jetbrains.RubyMine",
         "com.jetbrains.WebStorm"

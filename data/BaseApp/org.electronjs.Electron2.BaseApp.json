@@ -7,7 +7,6 @@
         "app.ytmdesktop.ytmdesktop",
         "ar.com.pilas_engine.App",
         "br.com.eduk.school",
-        "cc.arduino.IDE2",
         "ch.threema.threema-web-desktop",
         "cn.feishu.Feishu",
         "com.agatanawrot.karambola",
@@ -188,6 +187,7 @@
         "xyz.armcord.ArmCord"
     ],
     "24.08": [
+        "cc.arduino.IDE2",
         "com.axosoft.GitKraken",
         "com.nordpass.NordPass",
         "com.quixel.Bridge",
