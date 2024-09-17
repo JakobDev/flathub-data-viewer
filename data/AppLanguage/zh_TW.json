@@ -1,4 +1,5 @@
 [
+    "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.endlessm.photos",
@@ -36,6 +37,7 @@
     "org.gnome.Calls",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",
+    "org.gnome.Connections",
     "org.gnome.EasyTAG",
     "org.gnome.Epiphany",
     "org.gnome.Evince",
@@ -76,6 +78,7 @@
     "org.sugarlabs.Calculate",
     "org.sugarlabs.Dimensions",
     "org.sugarlabs.Finance",
+    "org.sugarlabs.FlipSticks",
     "org.sugarlabs.FotoToon",
     "org.sugarlabs.ImplodeActivity",
     "org.sugarlabs.Maze",

@@ -9,7 +9,7 @@
     "io.gitlab.gregorni.Letterpress",
     "io.gitlab.theevilskeleton.Upscaler",
     "net.fasterland.converseen",
-    "org.free_astro.siril",
+    "org.siril.Siril",
     "org.telesculptor.TeleSculptor",
     "org.upscayl.Upscayl"
 ]

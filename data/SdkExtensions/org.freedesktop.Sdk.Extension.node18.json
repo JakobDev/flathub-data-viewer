@@ -51,6 +51,5 @@
     "org.zulip.Zulip",
     "site.someones.Lonewolf",
     "social.whalebird.WhalebirdDesktop",
-    "tech.feliciano.pocket-casts",
-    "org.freedesktop.Sdk.Extension.typescript"
+    "tech.feliciano.pocket-casts"
 ]

@@ -1,4 +1,5 @@
 [
+    "app.rednotebook.RedNotebook",
     "net.supertuxkart.SuperTuxKart",
     "org.gimp.GIMP",
     "org.gnome.Chess",

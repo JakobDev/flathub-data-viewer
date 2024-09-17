@@ -1,11 +1,11 @@
 [
     "com.sigmyne.crush",
     "org.darktable.Darktable",
-    "org.free_astro.siril",
     "org.hdfgroup.HDFView",
     "org.kde.kstars",
     "org.photoqt.PhotoQt",
     "org.previewqt.PreviewQt",
+    "org.siril.Siril",
     "space.fips.Fips",
     "space.nouspiro.tenmon"
 ]

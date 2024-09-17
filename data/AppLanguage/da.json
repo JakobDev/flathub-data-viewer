@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.github.artemanufrij.playmymusic",
@@ -34,6 +35,7 @@
     "org.gnome.Calls",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",
+    "org.gnome.Connections",
     "org.gnome.EasyTAG",
     "org.gnome.Epiphany",
     "org.gnome.Evince",
@@ -86,6 +88,7 @@
     "org.sugarlabs.ColorDeducto",
     "org.sugarlabs.Dimensions",
     "org.sugarlabs.Finance",
+    "org.sugarlabs.FlipSticks",
     "org.sugarlabs.FotoToon",
     "org.sugarlabs.FractionBounce",
     "org.sugarlabs.ImplodeActivity",

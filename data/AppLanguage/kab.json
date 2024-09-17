@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "org.gnome.Connections",
     "org.gnome.Epiphany",
     "org.gnome.Evince",
     "org.gnome.Loupe",

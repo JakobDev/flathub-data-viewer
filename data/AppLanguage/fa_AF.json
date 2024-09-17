@@ -1,6 +1,7 @@
 [
     "org.sugarlabs.Calculate",
     "org.sugarlabs.Finance",
+    "org.sugarlabs.FlipSticks",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Physics",
     "org.sugarlabs.ReadETexts",

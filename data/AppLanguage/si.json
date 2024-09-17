@@ -1,4 +1,5 @@
 [
+    "app.rednotebook.RedNotebook",
     "org.freedesktop.fwupd",
     "org.gnome.Evince",
     "org.gnome.Evolution",
@@ -12,6 +13,7 @@
     "org.sugarlabs.Calculate",
     "org.sugarlabs.Dimensions",
     "org.sugarlabs.Finance",
+    "org.sugarlabs.FlipSticks",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Physics",
     "org.sugarlabs.Pippy",

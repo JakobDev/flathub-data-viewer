@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.rednotebook.RedNotebook",
     "com.github.hugolabe.Wike",
     "com.tux4kids.tuxtype",
     "fr.romainvigier.MetadataCleaner",
@@ -29,6 +30,7 @@
     "org.sugarlabs.Calculate",
     "org.sugarlabs.Dimensions",
     "org.sugarlabs.Finance",
+    "org.sugarlabs.FlipSticks",
     "org.sugarlabs.FotoToon",
     "org.sugarlabs.ImplodeActivity",
     "org.sugarlabs.Maze",

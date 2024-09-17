@@ -24,7 +24,6 @@
     "org.cubocore.CorePaint",
     "org.darktable.Darktable",
     "org.flozz.yoga-image-optimizer",
-    "org.free_astro.siril",
     "org.geeqie.Geeqie",
     "org.gimp.GIMP",
     "org.gnome.Evince",
@@ -45,6 +44,7 @@
     "org.photoqt.PhotoQt",
     "org.previewqt.PreviewQt",
     "org.qgis.qgis",
+    "org.siril.Siril",
     "org.xfce.ristretto",
     "rocks.koreader.KOReader"
 ]

@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.rednotebook.RedNotebook",
     "ar.xjuan.Cambalache",
     "ca.desrt.dconf-editor",
     "ca.parallel_launcher.ParallelLauncher",
@@ -101,6 +102,7 @@
     "org.gnome.Calls",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",
+    "org.gnome.Connections",
     "org.gnome.EasyTAG",
     "org.gnome.Eolie",
     "org.gnome.Epiphany",
@@ -152,6 +154,7 @@
     "org.sugarlabs.Chart",
     "org.sugarlabs.Dimensions",
     "org.sugarlabs.Finance",
+    "org.sugarlabs.FlipSticks",
     "org.sugarlabs.FotoToon",
     "org.sugarlabs.ImplodeActivity",
     "org.sugarlabs.Maze",

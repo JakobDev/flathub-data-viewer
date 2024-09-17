@@ -2,6 +2,7 @@
     "com.github.muriloventuroso.pdftricks",
     "com.github.unrud.djpdf",
     "io.github.diegoivan.pdf_metadata_editor",
+    "io.github.mihnea_radulescu.quickpdfjoin",
     "org.msweet.htmldoc",
     "org.tug.texworks"
 ]

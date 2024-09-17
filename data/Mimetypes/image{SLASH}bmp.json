@@ -26,7 +26,6 @@
     "org.cubocore.CoreInfo",
     "org.cubocore.CorePaint",
     "org.flozz.yoga-image-optimizer",
-    "org.free_astro.siril",
     "org.geeqie.Geeqie",
     "org.gimp.GIMP",
     "org.gnome.Loupe",
@@ -45,5 +44,6 @@
     "org.nomacs.ImageLounge",
     "org.photoqt.PhotoQt",
     "org.previewqt.PreviewQt",
+    "org.siril.Siril",
     "org.xfce.ristretto"
 ]

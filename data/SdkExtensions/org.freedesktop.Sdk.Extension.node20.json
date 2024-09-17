@@ -17,9 +17,11 @@
     "net.hovancik.Stretchly",
     "org.expresslrs.ExpressLRSConfigurator",
     "org.freedesktop.appstream.generator",
+    "org.jousse.vincent.Pomodorolm",
     "org.sil.dictionary-app-builder",
     "org.sil.scripture-app-builder",
     "rest.insomnia.Insomnia",
     "rocks.poopjournal.librelinkupdesktop",
-    "tech.keyforge.keyforge_master"
+    "tech.keyforge.keyforge_master",
+    "org.freedesktop.Sdk.Extension.typescript"
 ]

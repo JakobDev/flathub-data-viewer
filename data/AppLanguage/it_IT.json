@@ -1,6 +1,6 @@
 [
     "info.olasagasti.revelation",
     "io.github.giantpinkrobots.varia",
-    "org.free_astro.siril",
-    "org.scilab.Scilab"
+    "org.scilab.Scilab",
+    "org.siril.Siril"
 ]

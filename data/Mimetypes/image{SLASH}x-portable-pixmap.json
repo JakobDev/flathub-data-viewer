@@ -14,7 +14,6 @@
     "org.cubocore.CoreInfo",
     "org.cubocore.CorePaint",
     "org.darktable.Darktable",
-    "org.free_astro.siril",
     "org.geeqie.Geeqie",
     "org.gimp.GIMP",
     "org.gnome.Loupe",
@@ -29,5 +28,6 @@
     "org.libvips.vipsdisp",
     "org.nomacs.ImageLounge",
     "org.photoqt.PhotoQt",
-    "org.previewqt.PreviewQt"
+    "org.previewqt.PreviewQt",
+    "org.siril.Siril"
 ]

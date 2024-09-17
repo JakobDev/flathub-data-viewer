@@ -1,6 +1,7 @@
 [
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Calculate",
+    "org.sugarlabs.FlipSticks",
     "org.sugarlabs.ImplodeActivity",
     "org.sugarlabs.Memorize",
     "org.sugarlabs.Paint",

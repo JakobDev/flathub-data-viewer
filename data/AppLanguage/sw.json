@@ -1,10 +1,12 @@
 [
+    "app.rednotebook.RedNotebook",
     "com.tux4kids.tuxtype",
     "net.minetest.Minetest",
     "net.supertuxkart.SuperTuxKart",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Calculate",
     "org.sugarlabs.Finance",
+    "org.sugarlabs.FlipSticks",
     "org.sugarlabs.Maze",
     "org.sugarlabs.Memorize",
     "org.sugarlabs.Paint",

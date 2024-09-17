@@ -1,4 +1,5 @@
 [
+    "app.rednotebook.RedNotebook",
     "com.github.debauchee.barrier",
     "org.musescore.MuseScore",
     "org.tuxpaint.Tuxpaint"

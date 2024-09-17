@@ -1,4 +1,5 @@
 [
+    "app.rednotebook.RedNotebook",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",
     "org.gnome.Epiphany",
