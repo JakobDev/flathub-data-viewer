@@ -14,5 +14,6 @@
     "org.pencil2d.Pencil2D",
     "org.qelectrotech.QElectroTech",
     "org.synfig.SynfigStudio",
-    "re.sonny.OhMySVG"
+    "re.sonny.OhMySVG",
+    "rs.ruffle.Ruffle"
 ]

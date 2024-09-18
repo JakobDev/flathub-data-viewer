@@ -1,6 +1,7 @@
 {
     "6.7": [
         "ch.openboard.OpenBoard",
+        "com.nextcloud.desktopclient.nextcloud",
         "com.riverbankcomputing.PyQt.BaseApp",
         "de.akaflieg_freiburg.enroute",
         "io.github.xiaoyifang.goldendict_ng",
@@ -32,7 +33,6 @@
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
-        "com.nextcloud.desktopclient.nextcloud",
         "com.stremio.Stremio",
         "fun.vnote.app.VNote",
         "io.github.foldynl.QLog",

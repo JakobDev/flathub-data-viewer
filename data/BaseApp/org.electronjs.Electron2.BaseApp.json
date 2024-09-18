@@ -100,7 +100,6 @@
         "io.podman_desktop.PodmanDesktop",
         "io.typora.Typora",
         "it.fabiodistasio.AntaresSQL",
-        "md.obsidian.Obsidian",
         "me.proton.Mail",
         "me.proton.Pass",
         "moe.karaokes.mugen",
@@ -191,7 +190,8 @@
         "com.axosoft.GitKraken",
         "com.nordpass.NordPass",
         "com.quixel.Bridge",
-        "com.skype.Client"
+        "com.skype.Client",
+        "md.obsidian.Obsidian"
     ],
     "21.08": [
         "com.basemark.BasemarkGPU",

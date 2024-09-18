@@ -20,7 +20,6 @@
     "io.github.limo_app.limo",
     "io.github.sameboy.SameBoy",
     "io.qt.PySide.BaseApp",
-    "org.d3cod3.Mosaic",
     "org.freedesktop.appstream.generator",
     "org.gnome.Builder",
     "org.gnome.Fractal",
