@@ -1,4 +1,5 @@
 [
+    "app.drey.Elastic",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "io.bassi.Amberol",
@@ -11,7 +12,10 @@
     "org.gnome.Epiphany",
     "org.gnome.Evince",
     "org.gnome.Evolution",
+    "org.gnome.Extensions",
+    "org.gnome.Mahjongg",
     "org.gnome.Nibbles",
+    "org.gnome.Papers",
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",

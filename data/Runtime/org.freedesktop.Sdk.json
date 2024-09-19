@@ -39,6 +39,7 @@
         "org.godotengine.Godot3Sharp",
         "org.godotengine.GodotSharp",
         "org.kicad.KiCad",
+        "org.lvnauth.LVNAuth",
         "org.scintilla.SciTE",
         "org.thonny.Thonny",
         "org.vim.Vim",

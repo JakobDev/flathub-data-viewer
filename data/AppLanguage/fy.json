@@ -2,6 +2,7 @@
     "app.drey.Dialect",
     "fr.romainvigier.MetadataCleaner",
     "org.gnome.Epiphany",
+    "org.gnome.Extensions",
     "org.gnome.Solanum",
     "org.gnome.eog",
     "org.sugarlabs.AbacusActivity",

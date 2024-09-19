@@ -1,6 +1,7 @@
 [
     "org.gnome.Evince",
     "org.gnome.Evolution",
+    "org.gnome.Papers",
     "org.gnome.Rhythmbox3",
     "org.gnome.eog",
     "org.gnome.gedit",

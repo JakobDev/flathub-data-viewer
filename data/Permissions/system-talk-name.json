@@ -195,6 +195,7 @@
     "org.freedesktop.upower": [
         "com.brave.Browser",
         "com.core447.StreamController",
+        "com.discordapp.Discord",
         "com.google.Chrome",
         "com.google.ChromeDev",
         "com.her01n.BatteryInfo",

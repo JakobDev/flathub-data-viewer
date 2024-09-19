@@ -3,6 +3,8 @@
     "org.freedesktop.fwupd",
     "org.gnome.Evince",
     "org.gnome.Evolution",
+    "org.gnome.Mahjongg",
+    "org.gnome.Papers",
     "org.gnome.Quadrapassel",
     "org.gnome.Rhythmbox3",
     "org.gnome.Totem",

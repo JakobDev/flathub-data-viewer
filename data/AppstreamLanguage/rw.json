@@ -2,5 +2,6 @@
     "org.gnome.Calculator",
     "org.gnome.Decibels",
     "org.gnome.Evolution",
+    "org.gnome.Loupe",
     "org.gnome.Snapshot"
 ]

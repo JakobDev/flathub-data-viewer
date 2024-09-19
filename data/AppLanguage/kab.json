@@ -1,9 +1,10 @@
 [
     "app.drey.Dialect",
     "org.gnome.Connections",
-    "org.gnome.Epiphany",
     "org.gnome.Evince",
+    "org.gnome.Extensions",
     "org.gnome.Loupe",
+    "org.gnome.Papers",
     "org.gnome.Totem",
     "org.gnome.World.Citations",
     "org.sugarlabs.Maze",

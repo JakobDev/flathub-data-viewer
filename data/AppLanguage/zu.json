@@ -1,5 +1,6 @@
 [
     "org.gnome.Evince",
+    "org.gnome.Papers",
     "org.gnome.Totem",
     "org.gnome.eog",
     "org.tuxpaint.Tuxpaint"

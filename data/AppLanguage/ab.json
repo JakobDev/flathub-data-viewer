@@ -1,6 +1,7 @@
 [
     "ca.desrt.dconf-editor",
     "org.gnome.Chess",
+    "org.gnome.Mahjongg",
     "org.gnome.Nibbles",
     "org.gnome.Sudoku",
     "org.gnome.eog"
