@@ -82,6 +82,7 @@
     "com.visualstudio.code",
     "com.vscodium.codium-insiders",
     "com.vscodium.codium",
+    "com.wonderlandengine.editor",
     "com.zerobrane.studio",
     "de.create3000.titania",
     "de.fabrik19.mos-Launcher",
@@ -122,6 +123,7 @@
     "io.github.cudatext.CudaText-Qt",
     "io.github.dman95.SASM",
     "io.github.eteran.edb-debugger",
+    "io.github.igaldino.CoyoteTM",
     "io.github.java_decompiler.jd-gui",
     "io.github.lainsce.DotMatrix",
     "io.github.limads.Queries",
@@ -254,5 +256,6 @@
     "rest.insomnia.Insomnia",
     "com.sublimetext.three.DevUtils",
     "org.freedesktop.Sdk.Extension.gnat13",
-    "org.freedesktop.Sdk.Extension.swift5"
+    "org.freedesktop.Sdk.Extension.swift5",
+    "org.freedesktop.Sdk.Extension.swift6"
 ]

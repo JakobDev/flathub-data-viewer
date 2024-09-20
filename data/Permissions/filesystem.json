@@ -472,6 +472,7 @@
         "org.telesculptor.TeleSculptor",
         "org.thonny.Thonny",
         "org.tomviz.Tomviz",
+        "org.trelby.Trelby",
         "org.tropy.Tropy",
         "org.tryton.Tryton-68",
         "org.upscayl.Upscayl",
@@ -1538,6 +1539,7 @@
         "com.vscodium.codium-insiders",
         "com.vscodium.codium",
         "com.vzhd1701.gridplayer",
+        "com.wonderlandengine.editor",
         "de.akaflieg_freiburg.enroute",
         "de.haeckerfelix.Fragments",
         "de.klayout.KLayout",
@@ -2181,6 +2183,7 @@
         "com.alpineclient.AlpineClient",
         "com.atlauncher.ATLauncher",
         "com.github.Anuken.Mindustry",
+        "com.github.KRTirtho.Spotube",
         "com.github.taiko2k.tauonmb",
         "com.heroicgameslauncher.hgl",
         "com.jetbrains.CLion",
@@ -2295,7 +2298,6 @@
         "org.d3cod3.Mosaic",
         "org.denemo.Denemo",
         "org.fooyin.fooyin",
-        "org.gnome.Snapshot",
         "org.gnunet.Messenger",
         "org.guitarix.Guitarix",
         "org.hydrogenmusic.Hydrogen",
@@ -2362,6 +2364,7 @@
         "org.gnode.NixView",
         "org.gnome.Evince",
         "org.gnome.NautilusPreviewer",
+        "org.gnome.Papers",
         "org.kde.arianna",
         "org.nanuc.Axolotl",
         "org.nuspell.Nuspell",
@@ -3198,6 +3201,7 @@
         "net.openra.OpenRA",
         "org.atheme.audacious",
         "org.gnome.Evince",
+        "org.gnome.Papers",
         "org.jellyfin.JellyfinServer",
         "org.purei.Play",
         "org.x.Warpinator"
@@ -3210,6 +3214,7 @@
         "net.openra.OpenRA",
         "org.cubocore.CoreFM",
         "org.gnome.Evince",
+        "org.gnome.Papers",
         "org.jellyfin.JellyfinServer",
         "org.purei.Play"
     ],
@@ -3841,9 +3846,6 @@
     ],
     "~/.config/chromium/NativeMessagingHosts:create": [
         "io.github.glitterware.Passy"
-    ],
-    "~/coyotetm": [
-        "io.github.igaldino.CoyoteTM"
     ],
     "xdg-pictures:create": [
         "io.github.igorlogius.scr2ppm"

@@ -8,6 +8,7 @@
     "io.github.Hexchat",
     "io.github.celluloid_player.Celluloid",
     "io.github.ecotubehq.player",
+    "io.github.nokse22.minitext",
     "io.github.unrud.RecentFilter",
     "net.minetest.Minetest",
     "net.supertuxkart.SuperTuxKart",

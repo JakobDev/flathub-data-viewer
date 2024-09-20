@@ -38,6 +38,5 @@
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
     "org.pulseaudio.pavucontrol",
-    "org.videolan.VLC",
-    "org.virt_manager.virt-viewer"
+    "org.videolan.VLC"
 ]

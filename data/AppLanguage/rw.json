@@ -1,5 +1,6 @@
 [
     "org.gnome.Loupe",
+    "org.gnome.Snapshot",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Calculate",
     "org.sugarlabs.FlipSticks",

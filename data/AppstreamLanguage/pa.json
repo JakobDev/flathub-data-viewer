@@ -12,6 +12,7 @@
     "org.gnome.Brasero",
     "org.gnome.Calculator",
     "org.gnome.Calendar",
+    "org.gnome.Calls",
     "org.gnome.Characters",
     "org.gnome.Cheese",
     "org.gnome.Chess",
@@ -120,6 +121,5 @@
     "org.kde.yakuake",
     "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint",
-    "org.videolan.VLC",
-    "org.virt_manager.virt-viewer"
+    "org.videolan.VLC"
 ]

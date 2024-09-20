@@ -18,7 +18,6 @@
         "com.netxms.NetXMSClient50",
         "com.sublimemerge.App",
         "com.synology.SynologyDrive",
-        "com.unity.UnityHub",
         "com.visualstudio.code",
         "com.vscodium.codium-insiders",
         "com.vscodium.codium",
@@ -38,10 +37,8 @@
         "org.godotengine.Godot3",
         "org.godotengine.Godot3Sharp",
         "org.godotengine.GodotSharp",
-        "org.kicad.KiCad",
         "org.lvnauth.LVNAuth",
         "org.scintilla.SciTE",
-        "org.thonny.Thonny",
         "org.vim.Vim",
         "uno.platform.uno-calculator"
     ],
@@ -51,7 +48,10 @@
         "com.jetbrains.PhpStorm",
         "com.jetbrains.Rider",
         "com.jetbrains.RubyMine",
-        "com.jetbrains.WebStorm"
+        "com.jetbrains.WebStorm",
+        "com.unity.UnityHub",
+        "org.kicad.KiCad",
+        "org.thonny.Thonny"
     ],
     "21.08": [
         "com.okta.developer.CLI",

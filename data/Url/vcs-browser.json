@@ -182,6 +182,7 @@
     "info.febvre.Komikku",
     "info.portfolio_performance.PortfolioPerformance",
     "info.puredata.Pd",
+    "io.anytype.anytype",
     "io.beekeeperstudio.Studio",
     "io.frama.tractor.carburetor",
     "io.github.Cockatrice.cockatrice",

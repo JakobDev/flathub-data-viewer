@@ -1,6 +1,7 @@
 [
     "io.github.fkinoshita.Telegraph",
     "org.gnome.Calculator",
+    "org.gnome.Calls",
     "org.gnome.Devhelp",
     "org.gnome.Epiphany",
     "org.gnome.FileRoller",

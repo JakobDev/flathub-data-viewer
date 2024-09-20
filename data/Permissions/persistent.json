@@ -433,6 +433,12 @@
     ".tremulous": [
         "io.github.grangerhub.Tremulous"
     ],
+    "coyotetm": [
+        "io.github.igaldino.CoyoteTM"
+    ],
+    "key.db": [
+        "io.github.igaldino.CoyoteTM"
+    ],
     ".ja2": [
         "io.github.ja2_stracciatella.JA2-Stracciatella"
     ],
