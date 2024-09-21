@@ -1,6 +1,8 @@
 [
     "com.github.unrud.VideoDownloader",
+    "org.gnome.Characters",
     "org.gnome.Mahjongg",
     "org.gnome.PowerStats",
+    "org.gnome.clocks",
     "org.gnome.eog"
 ]

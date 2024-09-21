@@ -52,7 +52,6 @@
         "com.todoist.Todoist",
         "com.tutanota.Tutanota",
         "com.usebruno.Bruno",
-        "com.viber.Viber",
         "com.visualstudio.code",
         "com.vscodium.codium-insiders",
         "com.vscodium.codium",
@@ -191,6 +190,7 @@
         "com.termius.Termius",
         "com.tominlab.wonderpen",
         "com.unity.UnityHub",
+        "com.viber.Viber",
         "io.github.qier222.YesPlayMusic",
         "md.obsidian.Obsidian"
     ],

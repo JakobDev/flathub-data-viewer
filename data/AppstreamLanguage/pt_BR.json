@@ -133,7 +133,6 @@
     "io.github.seadve.Breathing",
     "io.github.seadve.Kooha",
     "io.github.seadve.Mousai",
-    "io.github.tfuxu.Halftone",
     "io.github.vikdevelop.SaveDesktop",
     "io.github.zefr0x.hashes",
     "io.gitlab.Goodvibes",
@@ -317,6 +316,7 @@
     "se.sjoerd.Graphs",
     "sm.puri.Chatty",
     "xyz.parlatype.Parlatype",
+    "xyz.tytanium.DoorKnocker",
     "com.hack_computer.Clippy.Extension",
     "com.valvesoftware.Steam.CompatibilityTool.Boxtron",
     "org.freedesktop.Platform.VulkanLayer.MangoHud"

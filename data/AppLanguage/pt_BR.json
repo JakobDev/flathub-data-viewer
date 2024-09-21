@@ -53,6 +53,7 @@
     "io.github.nokse22.Exhibit",
     "io.github.pantheon_tweaks.pantheon-tweaks",
     "io.github.pragha_music_player.pragha",
+    "io.github.tfuxu.Halftone",
     "io.github.zefr0x.hashes",
     "io.gitlab.news_flash.NewsFlash",
     "io.liri.Calculator",
@@ -80,6 +81,7 @@
     "org.gimp.GIMP",
     "org.gmusicbrowser.gmusicbrowser",
     "org.gnome.Calls",
+    "org.gnome.Characters",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",
     "org.gnome.Connections",
@@ -115,6 +117,7 @@
     "org.gnome.World.Citations",
     "org.gnome.World.Iotas",
     "org.gnome.World.Secrets",
+    "org.gnome.clocks",
     "org.gnome.design.AppIconPreview",
     "org.gnome.design.Contrast",
     "org.gnome.design.SymbolicPreview",
@@ -175,5 +178,6 @@
     "re.sonny.Commit",
     "se.sjoerd.Graphs",
     "sm.puri.Chatty",
-    "ua.org.brezblock.q4wine"
+    "ua.org.brezblock.q4wine",
+    "xyz.tytanium.DoorKnocker"
 ]

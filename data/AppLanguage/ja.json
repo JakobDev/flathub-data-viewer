@@ -54,6 +54,7 @@
     "org.gimp.GIMP",
     "org.gmusicbrowser.gmusicbrowser",
     "org.gnome.Calls",
+    "org.gnome.Characters",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",
     "org.gnome.Connections",
@@ -77,6 +78,7 @@
     "org.gnome.Shotwell",
     "org.gnome.Sudoku",
     "org.gnome.Totem",
+    "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.frogr",
@@ -111,5 +113,6 @@
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
     "re.sonny.Commit",
-    "ua.org.brezblock.q4wine"
+    "ua.org.brezblock.q4wine",
+    "xyz.tytanium.DoorKnocker"
 ]

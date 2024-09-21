@@ -1,6 +1,7 @@
 [
     "net.supertuxkart.SuperTuxKart",
     "org.gimp.GIMP",
+    "org.gnome.Characters",
     "org.gnome.ColorViewer",
     "org.gnome.Evince",
     "org.gnome.Maps",
@@ -9,6 +10,7 @@
     "org.gnome.Rhythmbox3",
     "org.gnome.Shotwell",
     "org.gnome.Totem",
+    "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.gedit",
     "org.megaglest.MegaGlest",

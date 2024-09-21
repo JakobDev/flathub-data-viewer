@@ -403,5 +403,6 @@
     "re.sonny.Commit",
     "se.sjoerd.Graphs",
     "sm.puri.Chatty",
-    "xyz.parlatype.Parlatype"
+    "xyz.parlatype.Parlatype",
+    "xyz.tytanium.DoorKnocker"
 ]

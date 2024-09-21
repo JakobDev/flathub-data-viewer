@@ -1,4 +1,5 @@
 [
+    "org.gnome.Characters",
     "org.gnome.ColorViewer",
     "org.gnome.Evince",
     "org.gnome.Mahjongg",
@@ -7,6 +8,7 @@
     "org.gnome.PowerStats",
     "org.gnome.Quadrapassel",
     "org.gnome.Totem",
+    "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.five-or-more"
 ]

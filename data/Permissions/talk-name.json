@@ -2794,6 +2794,7 @@
         "org.cockpit_project.CockpitClient",
         "org.contourterminal.Contour",
         "org.cryptomator.Cryptomator",
+        "org.dupot.easyflatpak",
         "org.freecadweb.FreeCAD",
         "org.gabmus.gfeeds",
         "org.gabmus.hydrapaper",

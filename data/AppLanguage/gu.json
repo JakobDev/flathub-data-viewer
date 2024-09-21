@@ -1,6 +1,7 @@
 [
     "com.tux4kids.tuxtype",
     "io.github.Hexchat",
+    "org.gnome.Characters",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",
     "org.gnome.Epiphany",
@@ -16,6 +17,7 @@
     "org.gnome.Rhythmbox3",
     "org.gnome.Shotwell",
     "org.gnome.Totem",
+    "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.gedit",

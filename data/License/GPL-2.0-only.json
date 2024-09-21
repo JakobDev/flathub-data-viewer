@@ -1,4 +1,5 @@
 [
+    "app.bbsync.BlackboardSync",
     "app.xemu.xemu",
     "br.gov.cti.invesalius",
     "ca.littlesvr.asunder",

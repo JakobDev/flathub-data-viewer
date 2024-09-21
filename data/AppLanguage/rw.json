@@ -1,4 +1,5 @@
 [
+    "org.gnome.Characters",
     "org.gnome.Loupe",
     "org.gnome.Snapshot",
     "org.sugarlabs.AbacusActivity",

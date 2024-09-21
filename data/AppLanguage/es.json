@@ -92,6 +92,7 @@
     "org.gimp.GIMP",
     "org.gmusicbrowser.gmusicbrowser",
     "org.gnome.Calls",
+    "org.gnome.Characters",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",
     "org.gnome.Connections",
@@ -126,6 +127,7 @@
     "org.gnome.World.Citations",
     "org.gnome.World.Iotas",
     "org.gnome.World.Secrets",
+    "org.gnome.clocks",
     "org.gnome.design.AppIconPreview",
     "org.gnome.design.Contrast",
     "org.gnome.design.SymbolicPreview",
@@ -188,5 +190,6 @@
     "sm.puri.Chatty",
     "ua.org.brezblock.q4wine",
     "xyz.eclipium.Hieroctive",
-    "xyz.eclipium.TetraSwap"
+    "xyz.eclipium.TetraSwap",
+    "xyz.tytanium.DoorKnocker"
 ]

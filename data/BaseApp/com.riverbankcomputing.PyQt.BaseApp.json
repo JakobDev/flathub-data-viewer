@@ -1,6 +1,38 @@
 {
-    "5.15-23.08": [
+    "6.7": [
         "app.bbsync.BlackboardSync",
+        "com.rtosta.zapzap",
+        "io.github.FedericoCalzoni.EventRecorder",
+        "io.github.hydrusnetwork.hydrus",
+        "io.github.jordanl2.ModularCalculator",
+        "io.github.yuki_iptv.yuki-iptv",
+        "org.artisan_scope.artisan",
+        "org.beeref.BeeRef",
+        "org.mintguide.WebAppReader",
+        "page.codeberg.JakobDev.jdAnimatedImageEditor",
+        "page.codeberg.JakobDev.jdAppStreamEdit",
+        "page.codeberg.JakobDev.jdDBusDebugger",
+        "page.codeberg.JakobDev.jdDesktopEntryEdit",
+        "page.codeberg.JakobDev.jdDiff",
+        "page.codeberg.JakobDev.jdEolConverter",
+        "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.JakobDev.jdMacroPlayer",
+        "page.codeberg.JakobDev.jdMinecraftLauncher",
+        "page.codeberg.JakobDev.jdMrpackInstaller",
+        "page.codeberg.JakobDev.jdNBTExplorer",
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
+        "page.codeberg.JakobDev.jdReplace",
+        "page.codeberg.JakobDev.jdSimpleAutostart",
+        "page.codeberg.JakobDev.jdTextEdit"
+    ],
+    "6.6": [
+        "com.borgbase.Vorta",
+        "de.nagstamon.nagstamon",
+        "me.mitya57.ReText",
+        "org.plomgrading.PlomClient",
+        "page.codeberg.DrRac27.Karoto"
+    ],
+    "5.15-23.08": [
         "com.github.arminstraub.krop",
         "com.github.git_cola.git-cola",
         "com.sigil_ebook.Sigil",
@@ -29,38 +61,6 @@
         "org.spyder_ide.spyder",
         "org.syntalos.syntalos",
         "org.torproject.torbrowser-launcher"
-    ],
-    "6.6": [
-        "com.borgbase.Vorta",
-        "de.nagstamon.nagstamon",
-        "me.mitya57.ReText",
-        "org.plomgrading.PlomClient",
-        "page.codeberg.DrRac27.Karoto"
-    ],
-    "6.7": [
-        "com.rtosta.zapzap",
-        "io.github.FedericoCalzoni.EventRecorder",
-        "io.github.hydrusnetwork.hydrus",
-        "io.github.jordanl2.ModularCalculator",
-        "io.github.yuki_iptv.yuki-iptv",
-        "org.artisan_scope.artisan",
-        "org.beeref.BeeRef",
-        "org.mintguide.WebAppReader",
-        "page.codeberg.JakobDev.jdAnimatedImageEditor",
-        "page.codeberg.JakobDev.jdAppStreamEdit",
-        "page.codeberg.JakobDev.jdDBusDebugger",
-        "page.codeberg.JakobDev.jdDesktopEntryEdit",
-        "page.codeberg.JakobDev.jdDiff",
-        "page.codeberg.JakobDev.jdEolConverter",
-        "page.codeberg.JakobDev.jdFlatpakSnapshot",
-        "page.codeberg.JakobDev.jdMacroPlayer",
-        "page.codeberg.JakobDev.jdMinecraftLauncher",
-        "page.codeberg.JakobDev.jdMrpackInstaller",
-        "page.codeberg.JakobDev.jdNBTExplorer",
-        "page.codeberg.JakobDev.jdProcessFileWatcher",
-        "page.codeberg.JakobDev.jdReplace",
-        "page.codeberg.JakobDev.jdSimpleAutostart",
-        "page.codeberg.JakobDev.jdTextEdit"
     ],
     "5.15-21.08": [
         "org.qutebrowser.qutebrowser"

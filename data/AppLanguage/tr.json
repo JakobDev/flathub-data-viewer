@@ -52,6 +52,7 @@
     "io.github.mrvladus.List",
     "io.github.nokse22.minitext",
     "io.github.pragha_music_player.pragha",
+    "io.github.tfuxu.Halftone",
     "io.github.unrud.RecentFilter",
     "io.github.wxmaxima_developers.wxMaxima",
     "io.gitlab.liferooter.TextPieces",
@@ -77,6 +78,7 @@
     "org.geany.Geany",
     "org.gimp.GIMP",
     "org.gnome.Calls",
+    "org.gnome.Characters",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",
     "org.gnome.Connections",
@@ -112,6 +114,7 @@
     "org.gnome.World.Citations",
     "org.gnome.World.Iotas",
     "org.gnome.World.Secrets",
+    "org.gnome.clocks",
     "org.gnome.design.AppIconPreview",
     "org.gnome.design.Contrast",
     "org.gnome.design.SymbolicPreview",
@@ -146,5 +149,6 @@
     "page.kramo.Cartridges",
     "re.sonny.Commit",
     "se.sjoerd.Graphs",
-    "sm.puri.Chatty"
+    "sm.puri.Chatty",
+    "xyz.tytanium.DoorKnocker"
 ]

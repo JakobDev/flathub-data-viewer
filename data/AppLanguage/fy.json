@@ -1,9 +1,11 @@
 [
     "app.drey.Dialect",
     "fr.romainvigier.MetadataCleaner",
+    "org.gnome.Characters",
     "org.gnome.Epiphany",
     "org.gnome.Extensions",
     "org.gnome.Solanum",
+    "org.gnome.clocks",
     "org.gnome.eog",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Calculate",

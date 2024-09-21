@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "org.gnome.Characters",
     "org.gnome.Connections",
     "org.gnome.Evince",
     "org.gnome.Extensions",
@@ -9,6 +10,7 @@
     "org.gnome.Snapshot",
     "org.gnome.Totem",
     "org.gnome.World.Citations",
+    "org.gnome.clocks",
     "org.sugarlabs.Maze",
     "org.sugarlabs.TurtlePondActivity",
     "org.sugarlabs.Words",
