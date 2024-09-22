@@ -60,6 +60,7 @@
     "org.aegisub.Aegisub",
     "org.ardour.Ardour",
     "org.fedoraproject.MediaWriter",
+    "org.freedesktop.Bustle",
     "org.freedesktop.appstream.cli",
     "org.gabmus.gfeeds",
     "org.gajim.Gajim",

@@ -1,8 +1,10 @@
 [
+    "app.devsuite.Ptyxis",
     "app.drey.Elastic",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
+    "com.belmoussaoui.Decoder",
     "com.github.ADBeveridge.Raider",
     "com.tux4kids.tuxtype",
     "dev.bragefuglseth.Fretboard",
@@ -47,6 +49,7 @@
     "org.gnome.Taquin",
     "org.gnome.Tau",
     "org.gnome.Totem",
+    "org.gnome.Weather",
     "org.gnome.World.Citations",
     "org.gnome.World.Secrets",
     "org.gnome.clocks",

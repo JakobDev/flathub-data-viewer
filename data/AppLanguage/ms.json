@@ -1,4 +1,5 @@
 [
+    "app.drey.MultiplicationPuzzle",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -20,6 +21,7 @@
     "org.gnome.Sudoku",
     "org.gnome.Taquin",
     "org.gnome.Totem",
+    "org.gnome.Weather",
     "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.gedit",

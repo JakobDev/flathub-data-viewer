@@ -1,4 +1,5 @@
 [
+    "app.devsuite.Ptyxis",
     "app.drey.EarTag",
     "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
@@ -95,6 +96,7 @@
     "org.equeim.Tremotesf",
     "org.fcitx.Fcitx5",
     "org.fontforge.FontForge",
+    "org.freedesktop.Bustle",
     "org.gabmus.gfeeds",
     "org.gajim.Gajim",
     "org.gimp.GIMP",

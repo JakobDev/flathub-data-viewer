@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.rednotebook.RedNotebook",
     "ca.parallel_launcher.ParallelLauncher",
     "com.endlessm.photos",
@@ -49,6 +50,7 @@
     "org.gnome.Rhythmbox3",
     "org.gnome.Shotwell",
     "org.gnome.Totem",
+    "org.gnome.Weather",
     "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.five-or-more",

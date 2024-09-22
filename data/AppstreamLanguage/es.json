@@ -207,6 +207,7 @@
     "org.fedoraproject.MediaWriter",
     "org.flightgear.FlightGear",
     "org.fontforge.FontForge",
+    "org.freedesktop.Bustle",
     "org.freedesktop.appstream.cli",
     "org.freeplane.App",
     "org.gabmus.gfeeds",

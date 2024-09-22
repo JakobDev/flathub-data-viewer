@@ -1,4 +1,5 @@
 [
+    "app.devsuite.Ptyxis",
     "app.drey.EarTag",
     "app.drey.Elastic",
     "com.belmoussaoui.Authenticator",
@@ -75,6 +76,7 @@
     "net.codelogistics.webapps",
     "net.nokyan.Resources",
     "nl.emphisia.icon",
+    "org.freedesktop.Bustle",
     "org.freedesktop.appstream.cli",
     "org.gnome.Aisleriot",
     "org.gnome.Boxes",

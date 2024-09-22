@@ -4,5 +4,6 @@
     "org.gnome.Decibels",
     "org.gnome.Evolution",
     "org.gnome.Loupe",
-    "org.gnome.Snapshot"
+    "org.gnome.Snapshot",
+    "org.gnome.Weather"
 ]

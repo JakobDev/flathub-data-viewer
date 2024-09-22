@@ -1,5 +1,7 @@
 [
     "app.rednotebook.RedNotebook",
+    "com.belmoussaoui.Decoder",
+    "de.haeckerfelix.Fragments",
     "io.github.celluloid_player.Celluloid",
     "io.github.ecotubehq.player",
     "org.exaile.Exaile",

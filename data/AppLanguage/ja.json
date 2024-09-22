@@ -1,5 +1,7 @@
 [
+    "app.devsuite.Ptyxis",
     "app.drey.Dialect",
+    "app.drey.MultiplicationPuzzle",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -13,6 +15,7 @@
     "com.github.unrud.VideoDownloader",
     "com.github.xournalpp.xournalpp",
     "com.github.ztefn.haguichi",
+    "de.haeckerfelix.Fragments",
     "de.manuel_kehl.go-for-it",
     "de.schmidhuberj.DieBahn",
     "de.schmidhuberj.Flare",
@@ -78,6 +81,7 @@
     "org.gnome.Shotwell",
     "org.gnome.Sudoku",
     "org.gnome.Totem",
+    "org.gnome.Weather",
     "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.five-or-more",

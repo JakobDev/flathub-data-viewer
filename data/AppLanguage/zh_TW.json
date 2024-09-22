@@ -1,4 +1,5 @@
 [
+    "app.drey.MultiplicationPuzzle",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -8,6 +9,7 @@
     "com.github.hugolabe.Wike",
     "com.github.neithern.g4music",
     "com.github.xournalpp.xournalpp",
+    "de.haeckerfelix.Fragments",
     "de.haeckerfelix.Shortwave",
     "fr.romainvigier.MetadataCleaner",
     "io.github.Hexchat",
@@ -63,6 +65,7 @@
     "org.gnome.Taquin",
     "org.gnome.Tau",
     "org.gnome.Totem",
+    "org.gnome.Weather",
     "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.five-or-more",
