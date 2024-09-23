@@ -3,9 +3,11 @@
     "com.github.muriloventuroso.easyssh",
     "org.gnome.Boxes",
     "org.gnome.Builder",
+    "org.gnome.Calendar",
     "org.gnome.Characters",
     "org.gnome.Cheese",
     "org.gnome.Chess",
+    "org.gnome.Contacts",
     "org.gnome.Devhelp",
     "org.gnome.Epiphany",
     "org.gnome.Evolution",
@@ -26,6 +28,7 @@
     "org.gnome.Weather",
     "org.gnome.baobab",
     "org.gnome.clocks",
+    "org.gnome.font-viewer",
     "org.gnome.gitg",
     "org.gnome.seahorse.Application"
 ]

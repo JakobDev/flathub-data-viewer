@@ -263,6 +263,9 @@
     "org.mpris.mediaplayer2.goodvibes": [
         "io.gitlab.Goodvibes"
     ],
+    "org.mpris.mediaplayer2.daikhan": [
+        "io.gitlab.daikhan.stable"
+    ],
     "io.gitlab.firefox.*": [
         "io.gitlab.librewolf-community"
     ],

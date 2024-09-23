@@ -183,6 +183,7 @@
     "info.portfolio_performance.PortfolioPerformance",
     "info.puredata.Pd",
     "io.anytype.anytype",
+    "io.bassi.Amberol",
     "io.beekeeperstudio.Studio",
     "io.frama.tractor.carburetor",
     "io.github.Cockatrice.cockatrice",

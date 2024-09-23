@@ -1,6 +1,8 @@
 [
+    "org.gnome.Calendar",
     "org.gnome.Characters",
     "org.gnome.ColorViewer",
+    "org.gnome.Contacts",
     "org.gnome.Evince",
     "org.gnome.Mahjongg",
     "org.gnome.Maps",
@@ -9,6 +11,7 @@
     "org.gnome.Quadrapassel",
     "org.gnome.Totem",
     "org.gnome.Weather",
+    "org.gnome.baobab",
     "org.gnome.clocks",
     "org.gnome.eog",
     "org.gnome.five-or-more"

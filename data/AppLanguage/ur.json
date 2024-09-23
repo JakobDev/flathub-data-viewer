@@ -2,6 +2,7 @@
     "app.drey.Dialect",
     "com.github.hugolabe.Wike",
     "fr.romainvigier.MetadataCleaner",
+    "io.github.realmazharhussain.GdmSettings",
     "org.sugarlabs.Paint",
     "org.sugarlabs.Words",
     "org.tuxpaint.Tuxpaint"

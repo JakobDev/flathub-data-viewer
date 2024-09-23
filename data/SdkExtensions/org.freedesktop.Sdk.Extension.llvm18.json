@@ -13,5 +13,6 @@
     "org.gnome.Loupe",
     "org.gnome.Snapshot",
     "org.ultimatepp.TheIDE",
+    "xyz.safeworlds.hiit",
     "org.freedesktop.Sdk.Extension.swift6"
 ]

@@ -1,5 +1,7 @@
 [
+    "io.bassi.Amberol",
     "org.gimp.GIMP",
+    "org.gnome.Calendar",
     "org.gnome.Calls",
     "org.gnome.Evince",
     "org.gnome.Papers",

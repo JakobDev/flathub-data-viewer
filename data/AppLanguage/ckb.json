@@ -1,9 +1,12 @@
 [
     "com.github.unrud.VideoDownloader",
+    "org.gnome.Calendar",
     "org.gnome.Characters",
     "org.gnome.Mahjongg",
     "org.gnome.PowerStats",
     "org.gnome.Weather",
+    "org.gnome.baobab",
     "org.gnome.clocks",
-    "org.gnome.eog"
+    "org.gnome.eog",
+    "org.gnome.font-viewer"
 ]

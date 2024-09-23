@@ -185,6 +185,7 @@
     "info.portfolio_performance.PortfolioPerformance",
     "info.puredata.Pd",
     "info.smplayer.SMPlayer",
+    "io.bassi.Amberol",
     "io.edcd.EDMarketConnector",
     "io.emeric.watchflower",
     "io.frama.tractor.carburetor",
