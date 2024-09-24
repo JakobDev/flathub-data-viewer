@@ -1,5 +1,6 @@
 [
     "org.gimp.GIMP",
+    "org.gnome.Boxes",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",
     "org.gnome.Contacts",

@@ -628,6 +628,7 @@
         "org.kde.SymbolEditor",
         "org.kde.akregator",
         "org.kde.alligator",
+        "org.kde.amarok",
         "org.kde.angelfish",
         "org.kde.arianna",
         "org.kde.ark",
@@ -773,6 +774,7 @@
         "org.kde.qmlkonsole",
         "org.kde.rocs",
         "org.kde.ruqola",
+        "org.kde.skanlite",
         "org.kde.skanpage",
         "org.kde.skrooge",
         "org.kde.subtitlecomposer",
@@ -1275,6 +1277,7 @@
         "org.kde.SymbolEditor",
         "org.kde.akregator",
         "org.kde.alligator",
+        "org.kde.amarok",
         "org.kde.angelfish",
         "org.kde.arianna",
         "org.kde.ark",
@@ -1419,6 +1422,7 @@
         "org.kde.qmlkonsole",
         "org.kde.rocs",
         "org.kde.ruqola",
+        "org.kde.skanlite",
         "org.kde.skanpage",
         "org.kde.skrooge",
         "org.kde.subtitlecomposer",
@@ -1895,6 +1899,7 @@
         "org.kde.SymbolEditor",
         "org.kde.akregator",
         "org.kde.alligator",
+        "org.kde.amarok",
         "org.kde.angelfish",
         "org.kde.arianna",
         "org.kde.ark",
@@ -2039,6 +2044,7 @@
         "org.kde.qmlkonsole",
         "org.kde.rocs",
         "org.kde.ruqola",
+        "org.kde.skanlite",
         "org.kde.skanpage",
         "org.kde.skrooge",
         "org.kde.subtitlecomposer",
@@ -2340,6 +2346,7 @@
         "org.jousse.vincent.Pomodorolm",
         "org.kde.CrowTranslate",
         "org.kde.akregator",
+        "org.kde.amarok",
         "org.kde.choqok",
         "org.kde.digikam",
         "org.kde.elisa",
@@ -3759,7 +3766,10 @@
     "io.github.rinigus.osmscoutserver": [
         "io.github.rinigus.PureMaps"
     ],
-    "org.kde.ksmserver": [
+    "org.kde.logoutprompt": [
+        "io.github.vikdevelop.SaveDesktop"
+    ],
+    "com.system76.cosmicsession": [
         "io.github.vikdevelop.SaveDesktop"
     ],
     "io.missioncenter.missioncenter.gatherer": [
@@ -3891,6 +3901,7 @@
     ],
     "org.kde.kglobalaccel": [
         "org.kde.akregator",
+        "org.kde.amarok",
         "org.kde.juk",
         "org.kde.kontact",
         "org.kde.yakuake",
@@ -3899,6 +3910,14 @@
     "org.kde.knotify": [
         "org.kde.akregator",
         "org.kde.kontact"
+    ],
+    "org.kde.amarok.mpris2extensions.player": [
+        "org.kde.amarok"
+    ],
+    "org.kde.kcookiejar5": [
+        "org.kde.amarok",
+        "org.kde.kontact",
+        "org.kde.peruse"
     ],
     "org.kde.baloo": [
         "org.kde.arianna"
@@ -3915,10 +3934,6 @@
     ],
     "org.kde.klauncher5": [
         "org.kde.kontact"
-    ],
-    "org.kde.kcookiejar5": [
-        "org.kde.kontact",
-        "org.kde.peruse"
     ],
     "org.kde.kssld5": [
         "org.kde.konversation"

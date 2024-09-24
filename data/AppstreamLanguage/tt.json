@@ -1,5 +1,6 @@
 [
     "net.supertuxkart.SuperTuxKart",
     "org.gimp.GIMP",
+    "org.stellarium.Stellarium",
     "org.videolan.VLC"
 ]

@@ -6,6 +6,7 @@
     "io.atom.Atom",
     "io.github.zen_browser.zen",
     "io.gitlab.librewolf-community",
+    "net.blockbench.Blockbench",
     "net.mullvad.MullvadBrowser",
     "net.poedit.Poedit",
     "nl.sarine.gpx-viewer",

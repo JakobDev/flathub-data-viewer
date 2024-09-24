@@ -1,5 +1,6 @@
 [
     "com.tux4kids.tuxtype",
+    "org.gnome.Boxes",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",
     "org.gnome.Contacts",

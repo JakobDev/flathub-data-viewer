@@ -1492,6 +1492,7 @@
         "model{SLASH}step-xml+zip",
         "model{SLASH}stl",
         "model{SLASH}u3d",
+        "model{SLASH}vnd.blockbench.bbmodel",
         "model{SLASH}vnd.collada+xml",
         "model{SLASH}vnd.usda",
         "model{SLASH}vnd.usdz+zip",

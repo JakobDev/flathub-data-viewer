@@ -430,6 +430,9 @@
         "org.kde.akregator",
         "org.kde.kontact"
     ],
+    "org.mpris.mediaplayer2.amarok": [
+        "org.kde.amarok"
+    ],
     "org.mpris.mediaplayer2.audiotube": [
         "org.kde.audiotube"
     ],

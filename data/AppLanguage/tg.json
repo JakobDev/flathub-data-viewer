@@ -1,9 +1,11 @@
 [
+    "org.gnome.Boxes",
     "org.gnome.Calendar",
     "org.gnome.Characters",
     "org.gnome.ColorViewer",
     "org.gnome.Contacts",
     "org.gnome.Evince",
+    "org.gnome.Logs",
     "org.gnome.Mahjongg",
     "org.gnome.Maps",
     "org.gnome.Papers",

@@ -1,6 +1,7 @@
 [
     "ca.desrt.dconf-editor",
     "dev.geopjr.Tuba",
+    "org.gnome.Boxes",
     "org.gnome.Builder",
     "org.gnome.Calculator",
     "org.gnome.Calendar",

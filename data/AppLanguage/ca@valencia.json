@@ -1,6 +1,7 @@
 [
     "ca.desrt.dconf-editor",
     "org.gimp.GIMP",
+    "org.gnome.Boxes",
     "org.gnome.Calendar",
     "org.gnome.Characters",
     "org.gnome.Chess",
@@ -11,6 +12,7 @@
     "org.gnome.Evolution",
     "org.gnome.Gnote",
     "org.gnome.Hamster",
+    "org.gnome.Logs",
     "org.gnome.Mahjongg",
     "org.gnome.Maps",
     "org.gnome.Nibbles",

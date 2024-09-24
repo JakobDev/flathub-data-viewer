@@ -1,6 +1,7 @@
 [
     "com.tux4kids.tuxtype",
     "io.github.Hexchat",
+    "org.gnome.Boxes",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",
     "org.gnome.Contacts",

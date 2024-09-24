@@ -1,5 +1,6 @@
 [
     "com.tux4kids.tuxtype",
+    "org.gnome.Boxes",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",
     "org.gnome.Contacts",
@@ -8,6 +9,7 @@
     "org.gnome.Evolution",
     "org.gnome.Gnote",
     "org.gnome.Hamster",
+    "org.gnome.Logs",
     "org.gnome.Mahjongg",
     "org.gnome.Nibbles",
     "org.gnome.Papers",

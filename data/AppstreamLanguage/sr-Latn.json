@@ -1,6 +1,7 @@
 [
     "org.freedesktop.appstream.cli",
     "org.kde.akregator",
+    "org.kde.amarok",
     "org.kde.ark",
     "org.kde.bomber",
     "org.kde.bovo",
