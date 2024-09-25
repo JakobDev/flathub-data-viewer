@@ -277,6 +277,7 @@
         "io.github.ungoogled_software.ungoogled_chromium",
         "io.github.voxelcubes.deepqt",
         "io.github.voxelcubes.panelcleaner",
+        "io.github.woelper.Oculante",
         "io.github.wxmaxima_developers.wxMaxima",
         "io.github.xverizex.nem_desktop",
         "io.github.yuxshao.ptcollab",
@@ -1425,6 +1426,7 @@
         "com.supermodel3.Supermodel",
         "com.tutanota.Tutanota",
         "com.virustotal.VirusTotalUploader",
+        "de.leopoldluley.Clapgrep",
         "dev.levz.TinyImageFinder",
         "info.cemu.Cemu",
         "io.github.jorchube.monitorets",
@@ -2267,6 +2269,7 @@
         "com.tracktion.Waveform",
         "com.vivaldi.Vivaldi",
         "dev.vencord.Vesktop",
+        "eu.nokun.MirrorHall",
         "fm.helio.Workstation",
         "fm.reaper.Reaper",
         "im.dino.Dino",
@@ -3580,11 +3583,6 @@
     "~/.var/app/org.mozilla.Thunderbird/.thunderbird": [
         "com.ulduzsoft.Birdtray"
     ],
-    "xdg-config/fontconfig:ro": [
-        "com.umlet.Umlet",
-        "org.fcitx.Fcitx5",
-        "org.libreoffice.LibreOffice"
-    ],
     "~/.local/share/varnam": [
         "com.varnamproject.Varnam"
     ],
@@ -4273,6 +4271,10 @@
     ],
     "xdg-config/fcitx:create": [
         "org.fcitx.Fcitx5"
+    ],
+    "xdg-config/fontconfig:ro": [
+        "org.fcitx.Fcitx5",
+        "org.libreoffice.LibreOffice"
     ],
     "~/.firestorm_x64:create": [
         "org.firestormviewer.FirestormViewer"

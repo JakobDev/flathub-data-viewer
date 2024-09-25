@@ -1,6 +1,7 @@
 [
     "com.github.aharotias2.parapara",
     "com.github.libresprite.LibreSprite",
+    "io.github.woelper.Oculante",
     "org.flozz.yoga-image-optimizer",
     "org.gnome.Loupe",
     "org.kde.kolourpaint",

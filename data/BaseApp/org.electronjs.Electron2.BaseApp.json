@@ -11,6 +11,7 @@
         "cn.feishu.Feishu",
         "com.agatanawrot.karambola",
         "com.airtame.Client",
+        "com.baidu.NetDisk",
         "com.beavernotes.beavernotes",
         "com.boxy_svg.BoxySVG",
         "com.budgetwithbuckets.Buckets",
@@ -114,7 +115,6 @@
         "org.jitsi.jitsi-meet",
         "org.jupyter.JupyterLab",
         "org.onlyoffice.desktopeditors",
-        "org.signal.Signal",
         "org.standardnotes.standardnotes",
         "org.tropy.Tropy",
         "org.turbowarp.TurboWarp",
@@ -140,7 +140,6 @@
         "cn.lceda.LCEDAPro",
         "co.headsetapp.headset",
         "com.alovoa.alovoa-electron",
-        "com.baidu.NetDisk",
         "com.mastermindzh.tidal-hifi",
         "com.meetfranz.Franz",
         "com.steamgriddb.steam-rom-manager",
@@ -192,7 +191,8 @@
         "info.beyondallreason.bar",
         "io.github.qier222.YesPlayMusic",
         "io.github.thaunknown.miru",
-        "md.obsidian.Obsidian"
+        "md.obsidian.Obsidian",
+        "org.signal.Signal"
     ],
     "21.08": [
         "com.basemark.BasemarkGPU",

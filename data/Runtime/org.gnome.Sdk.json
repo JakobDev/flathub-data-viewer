@@ -4,7 +4,6 @@
     ],
     "46": [
         "com.github.corna.Vivado",
-        "org.gnome.Builder",
         "org.gnome.Devhelp",
         "re.sonny.Workbench"
     ],
@@ -13,5 +12,8 @@
     ],
     "45": [
         "io.github.dida_code.OpstaKultura"
+    ],
+    "47": [
+        "org.gnome.Builder"
     ]
 }

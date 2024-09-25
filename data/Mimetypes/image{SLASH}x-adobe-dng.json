@@ -1,5 +1,6 @@
 [
     "com.rawtherapee.RawTherapee",
+    "io.github.woelper.Oculante",
     "org.darktable.Darktable",
     "org.siril.Siril"
 ]

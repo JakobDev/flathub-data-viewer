@@ -23,6 +23,7 @@
         "org.kde.kontact",
         "org.kde.parley",
         "org.kde.skanpage",
+        "org.kde.tellico",
         "org.kde.tokodon",
         "org.musescore.MuseScore",
         "org.zealdocs.Zeal"
@@ -48,7 +49,6 @@
         "org.kde.labplot2",
         "org.kde.marble",
         "org.kde.skrooge",
-        "org.kde.tellico",
         "org.paraview.ParaView",
         "org.sdrangel.SDRangel",
         "org.yacas.yacas-gui"

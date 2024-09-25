@@ -22,7 +22,6 @@
     "io.github.sameboy.SameBoy",
     "io.qt.PySide.BaseApp",
     "org.freedesktop.appstream.generator",
-    "org.gnome.Builder",
     "org.gnome.Fractal",
     "org.jellyfin.JellyfinServer",
     "org.kde.umbrello",
@@ -30,7 +29,6 @@
     "org.pipewire.Helvum",
     "re.sonny.Workbench",
     "sa.sy.bluerecorder",
-    "xyz.slothlife.Jogger",
     "net.mkiol.SpeechNote.Addon.nvidia",
     "org.freedesktop.Sdk.Extension.swift5"
 ]

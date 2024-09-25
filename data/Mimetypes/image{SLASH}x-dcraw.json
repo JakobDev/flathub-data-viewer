@@ -1,4 +1,5 @@
 [
+    "io.github.woelper.Oculante",
     "net.sourceforge.qtpfsgui.LuminanceHDR",
     "org.darktable.Darktable"
 ]

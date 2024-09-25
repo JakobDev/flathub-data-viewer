@@ -3699,6 +3699,9 @@
         "dev.mariinkys.Oboete",
         "dev.mariinkys.StarryDex"
     ],
+    "org.gnome.mutter.screencast": [
+        "eu.nokun.MirrorHall"
+    ],
     "org.gnome.notifications": [
         "fr.henri2h.minestrix"
     ],
