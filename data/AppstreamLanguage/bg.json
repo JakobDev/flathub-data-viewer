@@ -1,5 +1,6 @@
 [
     "app.drey.Damask",
+    "app.drey.EarTag",
     "app.drey.Elastic",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -38,6 +39,7 @@
     "io.github.quodlibet.ExFalso",
     "io.github.quodlibet.QuodLibet",
     "io.github.seadve.Kooha",
+    "io.github.zefr0x.hashes",
     "io.gitlab.theevilskeleton.Upscaler",
     "io.missioncenter.MissionCenter",
     "io.otsaloma.nfoview",
@@ -110,6 +112,7 @@
     "org.gnome.font-viewer",
     "org.gnome.gThumb",
     "org.gnome.gitg",
+    "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.meld",
     "org.gnome.seahorse.Application",
     "org.gnucash.GnuCash",

@@ -173,6 +173,7 @@
     "org.stellarium.Stellarium",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Calculate",
+    "org.sugarlabs.CellGame",
     "org.sugarlabs.Chart",
     "org.sugarlabs.Falabracman",
     "org.sugarlabs.Finance",

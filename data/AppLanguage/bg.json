@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.EarTag",
     "app.drey.Elastic",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
@@ -28,6 +29,7 @@
     "io.github.nokse22.asciidraw",
     "io.github.nokse22.minitext",
     "io.github.pragha_music_player.pragha",
+    "io.github.zefr0x.hashes",
     "net.minetest.Minetest",
     "net.sourceforge.liferea",
     "net.supertuxkart.SuperTuxKart",
@@ -82,6 +84,7 @@
     "org.gnome.font-viewer",
     "org.gnome.gedit",
     "org.gnome.gitg",
+    "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.seahorse.Application",
     "org.gramps_project.Gramps",
     "org.learningequality.Kolibri",

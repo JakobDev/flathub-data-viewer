@@ -1,4 +1,5 @@
 [
+    "app.drey.EarTag",
     "app.drey.Elastic",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -43,6 +44,7 @@
     "org.gnome.frogr",
     "org.gnome.gedit",
     "org.gnome.gitlab.YaLTeR.Identity",
+    "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.seahorse.Application",
     "org.gramps_project.Gramps",
     "org.sugarlabs.Calculate",

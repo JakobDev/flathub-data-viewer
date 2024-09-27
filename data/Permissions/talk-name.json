@@ -146,6 +146,7 @@
         "org.onionshare.OnionShare",
         "org.qutebrowser.qutebrowser",
         "org.remmina.Remmina",
+        "org.signal.Signal",
         "org.standardnotes.standardnotes",
         "org.tabos.roger",
         "org.tabos.saldo",
@@ -155,7 +156,7 @@
         "so.libdb.dissent",
         "social.whalebird.WhalebirdDesktop"
     ],
-    "com.canonical.appmenu.registrar": [
+    "com.canonical.AppMenu.Registrar": [
         "app.bbsync.BlackboardSync",
         "app.cantara.Cantara",
         "app.lith.Lith",
@@ -414,6 +415,7 @@
         "io.github.martinrotter.textosaurus",
         "io.github.maurycyliebner.enve",
         "io.github.mhogomchungu.media-downloader",
+        "io.github.mhogomchungu.sirikali",
         "io.github.muse_sequencer.Muse",
         "io.github.myst6re.makoureactor",
         "io.github.najepaliya.kleaner",
@@ -1102,6 +1104,7 @@
         "io.github.martinrotter.rssguardlite",
         "io.github.martinrotter.textosaurus",
         "io.github.mhogomchungu.media-downloader",
+        "io.github.mhogomchungu.sirikali",
         "io.github.muse_sequencer.Muse",
         "io.github.myst6re.makoureactor",
         "io.github.najepaliya.kleaner",
@@ -1541,7 +1544,7 @@
         "xyz.mx_moment.moment",
         "xyz.z3ntu.razergenie"
     ],
-    "org.kde.kglobalsettings": [
+    "org.kde.KGlobalSettings": [
         "app.bbsync.BlackboardSync",
         "app.cantara.Cantara",
         "app.lith.Lith",
@@ -1729,6 +1732,7 @@
         "io.github.martinrotter.rssguardlite",
         "io.github.martinrotter.textosaurus",
         "io.github.mhogomchungu.media-downloader",
+        "io.github.mhogomchungu.sirikali",
         "io.github.muse_sequencer.Muse",
         "io.github.myst6re.makoureactor",
         "io.github.najepaliya.kleaner",
@@ -2160,7 +2164,7 @@
         "xyz.mx_moment.moment",
         "xyz.z3ntu.razergenie"
     ],
-    "org.kde.statusnotifierwatcher": [
+    "org.kde.StatusNotifierWatcher": [
         "app.bbsync.BlackboardSync",
         "app.lith.Lith",
         "app.moosync.moosync",
@@ -2292,6 +2296,7 @@
         "io.github.martinrotter.rssguard",
         "io.github.martinrotter.rssguardlite",
         "io.github.mhogomchungu.media-downloader",
+        "io.github.mhogomchungu.sirikali",
         "io.github.milkshiift.GoofCord",
         "io.github.nuttyartist.notes",
         "io.github.peazip.PeaZip",
@@ -2402,7 +2407,7 @@
         "xyz.hyperplay.HyperPlay",
         "xyz.mx_moment.moment"
     ],
-    "org.freedesktop.notifications": [
+    "org.freedesktop.Notifications": [
         "app.bbsync.BlackboardSync",
         "app.bluebubbles.BlueBubbles",
         "app.lith.Lith",
@@ -2705,7 +2710,7 @@
         "xyz.armcord.ArmCord",
         "xyz.mx_moment.moment"
     ],
-    "org.freedesktop.flatpak": [
+    "org.freedesktop.Flatpak": [
         "app.devsuite.Manuals",
         "app.devsuite.Ptyxis",
         "ca.desrt.dconf-editor",
@@ -2778,6 +2783,7 @@
         "io.github.jliljebl.Flowblade",
         "io.github.limo_app.limo",
         "io.github.maurycyliebner.enve",
+        "io.github.mhogomchungu.sirikali",
         "io.github.mightycreak.Diffuse",
         "io.github.mpobaschnig.Vaults",
         "io.github.nokse22.inspector",
@@ -2937,7 +2943,7 @@
         "org.adishatz.syncpasswd",
         "org.cryptomator.Cryptomator"
     ],
-    "org.mpris.mediaplayer2.player": [
+    "org.mpris.MediaPlayer2.Player": [
         "app.moosync.moosync",
         "com.gitlab.ColinDuquesnoy.MellowPlayer",
         "com.sayonara_player.Sayonara",
@@ -2978,12 +2984,12 @@
         "org.remmina.Remmina",
         "ru.yandex.Browser"
     ],
-    "org.freedesktop.powermanagement.inhibit": [
+    "org.freedesktop.PowerManagement.Inhibit": [
         "ca.parallel_launcher.ParallelLauncher",
         "net.retrodeck.retrodeck",
         "org.libretro.RetroArch"
     ],
-    "org.freedesktop.screensaver": [
+    "org.freedesktop.ScreenSaver": [
         "ca.parallel_launcher.ParallelLauncher",
         "cn.xfangfang.wiliwili",
         "com.brave.Browser",
@@ -3064,11 +3070,11 @@
         "org.jitsi.jitsi-meet",
         "org.libretro.RetroArch"
     ],
-    "com.feralinteractive.gamemode": [
+    "com.feralinteractive.GameMode": [
         "ch.tlaun.TL",
         "org.gnome.DejaDup"
     ],
-    "org.gnome.mutter.idlemonitor": [
+    "org.gnome.Mutter.IdleMonitor": [
         "chat.rocket.RocketChat",
         "com.jianguoyun.Nutstore",
         "com.lakoliu.Furtherance",
@@ -3081,7 +3087,7 @@
         "org.signal.Signal",
         "ru.linux_gaming.PortProton"
     ],
-    "org.gnome.settingsdaemon": [
+    "org.gnome.SettingsDaemon": [
         "chat.tandem.Client",
         "com.sublimetext.three",
         "dev.aunetx.deezer",
@@ -3090,7 +3096,7 @@
         "org.gabmus.unifydmin",
         "org.gnome.Photos"
     ],
-    "org.gnome.screensaver": [
+    "org.gnome.ScreenSaver": [
         "cn.feishu.Feishu",
         "com.brave.Browser",
         "com.core447.StreamController",
@@ -3104,7 +3110,7 @@
         "org.gnome.Totem",
         "org.keepassxc.KeePassXC"
     ],
-    "org.gnome.sessionmanager": [
+    "org.gnome.SessionManager": [
         "cn.xfangfang.wiliwili",
         "com.brave.Browser",
         "com.ghostery.browser",
@@ -3160,10 +3166,10 @@
         "org.signal.Signal",
         "ru.yandex.Browser"
     ],
-    "org.mate.sessionmanager": [
+    "org.mate.SessionManager": [
         "cn.xfangfang.wiliwili"
     ],
-    "org.freedesktop.powermanagement": [
+    "org.freedesktop.PowerManagement": [
         "cn.xfangfang.wiliwili",
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.iwalton3.jellyfin-media-player",
@@ -3181,7 +3187,7 @@
         "org.signal.Signal",
         "tv.plex.PlexHTPC"
     ],
-    "org.freedesktop.portal.background": [
+    "org.freedesktop.portal.Background": [
         "codes.loers.Karlender",
         "me.timschneeberger.jdsp4linux"
     ],
@@ -3294,7 +3300,7 @@
         "vn.hoabinh.quan.CoBang",
         "work.openpaper.Paperwork"
     ],
-    "com.canonical.appmenu.registrar.*": [
+    "com.canonical.AppMenu.Registrar.*": [
         "com.alovoa.alovoa-electron",
         "com.microsoft.AzureStorageExplorer",
         "com.visualstudio.code",
@@ -3302,17 +3308,17 @@
         "io.stoplight.studio",
         "org.pyzo.pyzo"
     ],
-    "com.bambulab.bambustudio.instancecheck.*": [
+    "com.bambulab.BambuStudio.InstanceCheck.*": [
         "com.bambulab.BambuStudio"
     ],
-    "org.freedesktop.flatpak.*": [
+    "org.freedesktop.Flatpak.*": [
         "com.borgbase.Vorta",
         "org.gnome.World.PikaBackup"
     ],
-    "org.freedesktop.dbus.*": [
+    "org.freedesktop.DBus.*": [
         "com.borgbase.Vorta"
     ],
-    "org.freedesktop.filemanager1": [
+    "org.freedesktop.FileManager1": [
         "com.brave.Browser",
         "com.frac_tion.teleport",
         "com.ghostery.browser",
@@ -3368,16 +3374,16 @@
         "space.nouspiro.tenmon",
         "work.openpaper.Paperwork"
     ],
-    "org.mate.screensaver": [
+    "org.mate.ScreenSaver": [
         "com.brave.Browser",
         "io.github.ungoogled_software.ungoogled_chromium",
         "net.rpcs3.RPCS3"
     ],
-    "org.xfce.screensaver": [
+    "org.xfce.ScreenSaver": [
         "com.brave.Browser",
         "io.github.ungoogled_software.ungoogled_chromium"
     ],
-    "org.cinnamon.screensaver": [
+    "org.cinnamon.ScreenSaver": [
         "com.brave.Browser",
         "io.github.jeffshee.Hidamari",
         "io.github.ungoogled_software.ungoogled_chromium"
@@ -3400,17 +3406,17 @@
         "org.kde.kwalletmanager5",
         "org.kde.tokodon"
     ],
-    "org.gnome.mutter.idlemonitor.*": [
+    "org.gnome.Mutter.IdleMonitor.*": [
         "com.brave.Browser",
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
         "io.github.ungoogled_software.ungoogled_chromium"
     ],
-    "org.freedesktop.ibus": [
+    "org.freedesktop.IBus": [
         "com.codemouse92.timecard",
         "com.mousepawmedia.omission"
     ],
-    "org.freedesktop.dbus.proprieties": [
+    "org.freedesktop.DBus.Proprieties": [
         "com.codemouse92.timecard",
         "com.mousepawmedia.omission",
         "org.openchemistry.Avogadro2"
@@ -3418,7 +3424,7 @@
     "org.kde.kdeconnect": [
         "com.core447.StreamController"
     ],
-    "org.mpris.mediaplayer2.*": [
+    "org.mpris.MediaPlayer2.*": [
         "com.core447.StreamController",
         "com.feaneron.Boatswain",
         "com.github.muriloventuroso.givemelyrics",
@@ -3432,10 +3438,10 @@
         "org.nicotine_plus.Nicotine",
         "uk.co.piggz.amazfish"
     ],
-    "org.gnome.shell.extensions.streamcontroller": [
+    "org.gnome.Shell.Extensions.StreamController": [
         "com.core447.StreamController"
     ],
-    "org.gnome.shell": [
+    "org.gnome.Shell": [
         "com.core447.StreamController",
         "com.github.dynobo.normcap",
         "com.github.neithern.g4music",
@@ -3449,14 +3455,14 @@
         "org.remmina.Remmina",
         "org.sil.FieldWorks"
     ],
-    "com.canonical.unity": [
+    "com.canonical.Unity": [
         "com.discordapp.Discord",
         "com.heroicgameslauncher.hgl",
         "im.riot.Riot",
         "org.remmina.Remmina",
         "xyz.hyperplay.HyperPlay"
     ],
-    "org.a11y.bus": [
+    "org.a11y.Bus": [
         "com.ghostery.browser",
         "com.humatarayici.od",
         "com.obsproject.Studio",
@@ -3467,14 +3473,13 @@
         "io.github.zen_browser.zen",
         "io.gitlab.librewolf-community",
         "io.sourceforge.qoobar.Qoobar",
-        "net.waterfox.waterfox",
         "one.ablaze.floorp",
         "org.garudalinux.firedragon",
         "org.mozilla.Thunderbird",
         "org.mozilla.firefox",
         "org.nicotine_plus.Nicotine"
     ],
-    "org.gtk.notifications": [
+    "org.gtk.Notifications": [
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.hack_computer.Clubhouse",
         "com.icanblink.blink",
@@ -3482,7 +3487,7 @@
         "com.viber.Viber",
         "io.gdevelop.ide"
     ],
-    "org.gnome.settingsdaemon.mediakeys": [
+    "org.gnome.SettingsDaemon.MediaKeys": [
         "com.github.alainm23.byte",
         "com.github.artemanufrij.playmymusic",
         "com.github.artemanufrij.playmyvideos",
@@ -3497,20 +3502,20 @@
         "org.clementine_player.Clementine",
         "org.strawberrymusicplayer.strawberry"
     ],
-    "org.gnome.shell.screencast": [
+    "org.gnome.Shell.Screencast": [
         "com.github.amikha1lov.RecApp",
         "com.qq.QQ",
         "com.uploadedlobster.peek"
     ],
-    "org.mpris.mediaplayer2": [
+    "org.mpris.MediaPlayer2": [
         "com.github.artemanufrij.playmymusic",
         "com.github.artemanufrij.playmyvideos",
         "net.sonic_pi.SonicPi"
     ],
-    "org.freedesktop.thumbnails.thumbnailer1": [
+    "org.freedesktop.thumbnails.Thumbnailer1": [
         "com.github.artemanufrij.playmyvideos"
     ],
-    "org.freedesktop.tracker3.miner.files": [
+    "org.freedesktop.Tracker3.Miner.Files": [
         "com.github.birros.WebArchives"
     ],
     "org.gtk.vfs": [
@@ -3522,27 +3527,27 @@
         "com.github.debauchee.barrier",
         "org.raspberrypi.rpi-imager"
     ],
-    "org.gnome.shell.screenshot": [
+    "org.gnome.Shell.Screenshot": [
         "com.github.dynobo.normcap",
         "edu.stanford.Almond",
         "org.adishatz.Screenshot",
         "org.gimp.GIMP",
         "org.ksnip.ksnip"
     ],
-    "org.gnome.shell.extensions.window": [
+    "org.gnome.Shell.Extensions.Window": [
         "com.github.dynobo.normcap"
     ],
-    "org.kde.kwin": [
+    "org.kde.KWin": [
         "com.github.dynobo.normcap"
     ],
-    "org.gnome.shell.extensions": [
+    "org.gnome.Shell.Extensions": [
         "com.github.dynobo.normcap",
         "com.mattjakeman.ExtensionManager",
         "io.github.jeffshee.Hidamari",
         "it.mijorus.smile",
         "org.gnome.Extensions"
     ],
-    "com.canonical.unity.launcherentry": [
+    "com.canonical.Unity.LauncherEntry": [
         "com.github.gabutakut.gabutdm",
         "com.hunterwittenborn.Celeste",
         "com.ozmartians.VidCutter",
@@ -3552,13 +3557,13 @@
         "org.freedownloadmanager.Manager",
         "social.whalebird.WhalebirdDesktop"
     ],
-    "org.kde.statusnotifieritem": [
+    "org.kde.StatusNotifierItem": [
         "com.github.gabutakut.gabutdm"
     ],
-    "org.freedesktop.portal.fcitx": [
+    "org.freedesktop.portal.Fcitx": [
         "com.github.marktext.marktext"
     ],
-    "org.freedesktop.dbus": [
+    "org.freedesktop.DBus": [
         "com.github.muriloventuroso.givemelyrics",
         "com.hack_computer.Clubhouse",
         "io.github.rinigus.OSMScoutServer",
@@ -3567,19 +3572,19 @@
         "org.gnome.OCRFeeder",
         "org.openchemistry.Avogadro2"
     ],
-    "org.mate.settingsdaemon": [
+    "org.mate.SettingsDaemon": [
         "com.github.needleandthread.vocal",
         "io.github.Pithos",
         "io.github.quodlibet.QuodLibet"
     ],
-    "org.xfce.sessionmanager": [
+    "org.xfce.SessionManager": [
         "com.github.needleandthread.vocal",
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "org.freedesktop.filechooser": [
+    "org.freedesktop.FileChooser": [
         "com.github.ransome1.sleek"
     ],
-    "org.gnome.onlineaccounts": [
+    "org.gnome.OnlineAccounts": [
         "com.github.suzie97.communique",
         "io.github.mrvladus.List",
         "org.gnome.Calendar",
@@ -3591,7 +3596,7 @@
         "org.gnome.Todo",
         "org.gnome.Totem"
     ],
-    "org.gnome.software": [
+    "org.gnome.Software": [
         "com.github.tchx84.Flatseal",
         "com.hack_computer.Clubhouse",
         "com.hack_computer.OperatingSystemApp",
@@ -3599,7 +3604,7 @@
         "com.unity.UnityHub",
         "dev.tchx84.Gameeky"
     ],
-    "org.freedesktop.impl.portal.permissionstore": [
+    "org.freedesktop.impl.portal.PermissionStore": [
         "com.github.tchx84.Flatseal"
     ],
     "org.endlessos.onboarding": [
@@ -3610,52 +3615,49 @@
         "com.hack_computer.OperatingSystemApp",
         "com.hack_computer.Sidetrack"
     ],
-    "com.endlessm.eknservices3.searchproviderv3": [
+    "com.endlessm.EknServices3.SearchProviderV3": [
         "com.hack_computer.Clubhouse"
     ],
-    "com.endlessm.eknservices4.searchproviderv4": [
+    "com.endlessm.EknServices4.SearchProviderV4": [
         "com.hack_computer.Clubhouse"
     ],
-    "com.hack_computer.hackableappsmanager": [
+    "com.hack_computer.HackableAppsManager": [
         "com.hack_computer.OperatingSystemApp",
         "com.hack_computer.Sidetrack"
     ],
-    "com.hack_computer.clubhouse": [
+    "com.hack_computer.Clubhouse": [
         "com.hack_computer.OperatingSystemApp",
         "com.hack_computer.Sidetrack"
     ],
-    "com.hack_computer.hacksoundserver": [
+    "com.hack_computer.HackSoundServer": [
         "com.hack_computer.OperatingSystemApp",
         "com.hack_computer.Sidetrack"
     ],
-    "com.hack_computer.gamestateservice": [
+    "com.hack_computer.GameStateService": [
         "com.hack_computer.OperatingSystemApp",
         "com.hack_computer.Sidetrack"
     ],
-    "org.gnome.keyring.systemprompter": [
+    "org.gnome.keyring.SystemPrompter": [
         "com.jetbrains.CLion",
-        "com.jetbrains.DataGrip",
-        "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.PhpStorm",
         "com.quexten.Goldwarden",
-        "com.syntevo.SmartGit",
         "dev.zed.Zed",
         "io.github.dweymouth.supersonic",
         "org.gnome.Evolution"
     ],
-    "org.elementary.contractor": [
+    "org.elementary.Contractor": [
         "com.ktechpit.wonderwall"
     ],
     "com.microsoft.identity.broker1": [
         "com.microsoft.Edge"
     ],
-    "org.freedesktop.dbus.introspectable.*": [
+    "org.freedesktop.DBus.Introspectable.*": [
         "com.prusa3d.PrusaSlicer"
     ],
-    "com.prusa3d.prusaslicer.instancecheck.*": [
+    "com.prusa3d.prusaslicer.InstanceCheck.*": [
         "com.prusa3d.PrusaSlicer"
     ],
-    "org.gnome.gconf": [
+    "org.gnome.GConf": [
         "com.skype.Client",
         "io.github.betaflight.BetaflightConfigurator",
         "org.xiphos.Xiphos"
@@ -3667,13 +3669,13 @@
     "com.freedesktop.secrets": [
         "com.thincast.client"
     ],
-    "org.gnome.totem": [
+    "org.gnome.Totem": [
         "de.k_bo.Televido"
     ],
-    "io.github.celluloid_player.celluloid": [
+    "io.github.celluloid_player.Celluloid": [
         "de.k_bo.Televido"
     ],
-    "com.github.rafostar.clapper": [
+    "com.github.rafostar.Clapper": [
         "de.k_bo.Televido"
     ],
     "org.nickvision.tubeconverter": [
@@ -3689,43 +3691,43 @@
     "org.gnome.seahorse": [
         "de.philippun1.turtle"
     ],
-    "org.sigxcpu.feedback": [
+    "org.sigxcpu.Feedback": [
         "de.schmidhuberj.Flare",
         "org.gnome.Calls",
         "sm.puri.Chatty"
     ],
-    "com.system76.cosmicsettingsdaemon": [
+    "com.system76.CosmicSettingsDaemon": [
         "dev.edfloreshz.Tasks",
         "dev.mariinkys.Oboete",
         "dev.mariinkys.StarryDex"
     ],
-    "org.gnome.mutter.screencast": [
+    "org.gnome.Mutter.ScreenCast": [
         "eu.nokun.MirrorHall"
     ],
-    "org.gnome.notifications": [
+    "org.gnome.Notifications": [
         "fr.henri2h.minestrix"
     ],
-    "org.freedesktop.networkmanager": [
+    "org.freedesktop.NetworkManager": [
         "ga.rpmtw.rpmlauncher"
     ],
-    "org.freedesktop.statusnotifieritem": [
+    "org.freedesktop.StatusNotifierItem": [
         "im.nheko.Nheko"
     ],
-    "org.gnome.settingsdaemon.color": [
+    "org.gnome.SettingsDaemon.Color": [
         "info.febvre.Komikku",
         "org.gnome.Calendar",
         "org.gnome.Reversi"
     ],
-    "com.kde.statusnotifierwatcher": [
+    "com.kde.StatusNotifierWatcher": [
         "io.enpass.Enpass"
     ],
-    "org.gnome.evolution.dataserver.calendar8": [
+    "org.gnome.evolution.dataserver.Calendar8": [
         "io.github.alainm23.planify",
         "org.gnome.Calendar",
         "org.gnome.Notes",
         "org.gnome.Todo"
     ],
-    "org.gnome.evolution.dataserver.sources5": [
+    "org.gnome.evolution.dataserver.Sources5": [
         "io.github.alainm23.planify",
         "org.gnome.Calendar",
         "org.gnome.Calls",
@@ -3735,7 +3737,7 @@
         "org.tabos.roger",
         "sm.puri.Chatty"
     ],
-    "org.freedesktop.filemanager1.*": [
+    "org.freedesktop.FileManager1.*": [
         "io.github.ihhub.Fheroes2"
     ],
     "org.kde.klipper": [
@@ -3749,36 +3751,36 @@
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet"
     ],
-    "org.xfce.filemanager": [
+    "org.xfce.FileManager": [
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet"
     ],
-    "com.canonical.unity.launcher": [
+    "com.canonical.Unity.Launcher": [
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet"
     ],
-    "org.freedesktop.avahi": [
+    "org.freedesktop.Avahi": [
         "io.github.quodlibet.QuodLibet"
     ],
     "org.gajim.dbus": [
         "io.github.quodlibet.QuodLibet"
     ],
-    "org.freedesktop.telepathy.accountmanager": [
+    "org.freedesktop.Telepathy.AccountManager": [
         "io.github.quodlibet.QuodLibet"
     ],
-    "io.github.rinigus.osmscoutserver": [
+    "io.github.rinigus.OSMScoutServer": [
         "io.github.rinigus.PureMaps"
     ],
-    "org.kde.logoutprompt": [
+    "org.kde.LogoutPrompt": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "com.system76.cosmicsession": [
+    "com.system76.CosmicSession": [
         "io.github.vikdevelop.SaveDesktop"
     ],
-    "io.missioncenter.missioncenter.gatherer": [
+    "io.missioncenter.MissionCenter.Gatherer": [
         "io.missioncenter.MissionCenter"
     ],
-    "org.gnome.settings": [
+    "org.gnome.Settings": [
         "io.missioncenter.MissionCenter",
         "org.gnome.Boxes",
         "org.gnome.Calendar",
@@ -3787,31 +3789,34 @@
     "it.mijorus.smile": [
         "it.mijorus.smile"
     ],
-    "org.gnome.mutter.displayconfig": [
+    "org.gnome.Mutter.DisplayConfig": [
         "net.displaycal.DisplayCAL",
         "net.lutris.Lutris",
         "org.gabmus.hydrapaper"
     ],
-    "org.gnome.settingsdaemon.power": [
+    "org.gnome.SettingsDaemon.Power": [
         "net.displaycal.DisplayCAL"
     ],
-    "org.freedesktop.tracker1.steroids": [
+    "org.freedesktop.Tracker1.Steroids": [
         "net.mkiol.Jupii"
     ],
-    "org.freedesktop.tracker3.endpoint": [
+    "org.freedesktop.Tracker3.Endpoint": [
         "net.mkiol.Jupii"
     ],
-    "org.freedesktop.login1.manager": [
+    "org.freedesktop.login1.Manager": [
         "net.retrodeck.retrodeck"
     ],
-    "org.wiimotedev.deviceevents": [
+    "org.a11y.bus": [
+        "net.waterfox.waterfox"
+    ],
+    "org.wiimotedev.deviceEvents": [
         "org.clementine_player.Clementine",
         "org.strawberrymusicplayer.strawberry"
     ],
-    "org.kde.kwin.screenshot": [
+    "org.kde.kwin.Screenshot": [
         "org.gimp.GIMP"
     ],
-    "org.gnome.controlcenter": [
+    "org.gnome.ControlCenter": [
         "org.gnome.Boxes",
         "org.gnome.BreakTimer",
         "org.gnome.Calendar",
@@ -3819,10 +3824,10 @@
         "org.gnome.Geary",
         "org.gnome.Photos"
     ],
-    "org.freedesktop.packagekit": [
+    "org.freedesktop.PackageKit": [
         "org.gnome.Builder"
     ],
-    "org.gnome.evolution.dataserver.subprocess.backend.*": [
+    "org.gnome.evolution.dataserver.Subprocess.Backend.*": [
         "org.gnome.Calendar",
         "org.gnome.Calls",
         "org.gnome.Contacts",
@@ -3831,53 +3836,53 @@
         "org.tabos.roger",
         "sm.puri.Chatty"
     ],
-    "org.gnome.evolution.dataserver.addressbook9": [
+    "org.gnome.evolution.dataserver.AddressBook9": [
         "org.gnome.Calendar",
         "org.gnome.Todo",
         "org.tabos.roger"
     ],
-    "org.gnome.evolution.dataserver.addressbook10": [
+    "org.gnome.evolution.dataserver.AddressBook10": [
         "org.gnome.Calls",
         "org.gnome.Contacts",
         "org.gnome.Notes",
         "sm.puri.Chatty"
     ],
-    "im.pidgin.purple.purpleservice": [
+    "im.pidgin.purple.PurpleService": [
         "org.gnome.Calls",
         "sm.puri.Chatty"
     ],
-    "org.mobian_project.callaudio": [
+    "org.mobian_project.CallAudio": [
         "org.gnome.Calls"
     ],
-    "org.gtk.mountoperationhandler": [
+    "org.gtk.MountOperationHandler": [
         "org.gnome.DejaDup",
         "org.gnome.World.PikaBackup"
     ],
-    "org.gnome.contacts": [
+    "org.gnome.Contacts": [
         "org.gnome.Geary"
     ],
     "org.gnome.evolution.dataserver.*": [
         "org.gnome.Geary"
     ],
-    "org.freedesktop.tracker3.writeback": [
+    "org.freedesktop.Tracker3.Writeback": [
         "org.gnome.Music"
     ],
-    "org.freedesktop.dbus.peer.ping": [
+    "org.freedesktop.DBus.Peer.Ping": [
         "org.gnome.OCRFeeder"
     ],
-    "org.gnome.settingsdaemon.housekeeping": [
+    "org.gnome.SettingsDaemon.Housekeeping": [
         "org.gnome.Photos"
     ],
-    "org.freedesktop.tracker3.miner.files.control": [
+    "org.freedesktop.Tracker3.Miner.Files.Control": [
         "org.gnome.Photos"
     ],
     "com.intel.dleyna-renderer": [
         "org.gnome.Photos"
     ],
-    "org.freedesktop.telepathy.client.gnomeshell.*": [
+    "org.freedesktop.Telepathy.Client.GnomeShell.*": [
         "org.gnome.Polari"
     ],
-    "org.gnome.nautilus": [
+    "org.gnome.Nautilus": [
         "org.gnome.Totem"
     ],
     "org.kde.kded6": [
@@ -3885,13 +3890,13 @@
         "org.kde.dolphin",
         "org.kde.kontact"
     ],
-    "org.kde.jobviewserver": [
+    "org.kde.JobViewServer": [
         "org.kde.akregator",
         "org.kde.dolphin",
         "org.kde.kontact",
         "org.kde.ksudoku"
     ],
-    "org.kde.solid.powermanagement": [
+    "org.kde.Solid.PowerManagement": [
         "org.kde.akregator",
         "org.kde.kclock",
         "org.kde.kongress",
@@ -3914,7 +3919,7 @@
         "org.kde.akregator",
         "org.kde.kontact"
     ],
-    "org.kde.amarok.mpris2extensions.player": [
+    "org.kde.amarok.Mpris2Extensions.Player": [
         "org.kde.amarok"
     ],
     "org.kde.kcookiejar5": [
@@ -3944,28 +3949,28 @@
     "org.kde.kuiserver": [
         "org.kde.ksudoku"
     ],
-    "com.canonical.unity.session": [
+    "com.canonical.Unity.Session": [
         "org.keepassxc.KeePassXC"
     ],
-    "org.gnome.sessionmanager.presence": [
+    "org.gnome.SessionManager.Presence": [
         "org.keepassxc.KeePassXC"
     ],
-    "net.launchpad.dockmanager": [
+    "net.launchpad.DockManager": [
         "org.quassel_irc.QuasselClient"
     ],
-    "org.freedesktop.dockmanager": [
+    "org.freedesktop.DockManager": [
         "org.quassel_irc.QuasselClient"
     ],
-    "org.gnome.evolution.dataserver.calendar7": [
+    "org.gnome.evolution.dataserver.Calendar7": [
         "org.tabos.roger"
     ],
-    "org.x.statusiconmonitor.*": [
+    "org.x.StatusIconMonitor.*": [
         "org.x.Warpinator"
     ],
-    "org.freedesktop.portal.screencast": [
+    "org.freedesktop.portal.ScreenCast": [
         "sa.sy.bluerecorder"
     ],
-    "io.github.rinigus.puremaps": [
+    "io.github.rinigus.PureMaps": [
         "uk.co.piggz.amazfish"
     ],
     "org.razer": [

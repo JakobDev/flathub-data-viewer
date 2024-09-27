@@ -1,6 +1,7 @@
 [
     "app.devsuite.Ptyxis",
     "app.drey.Dialect",
+    "app.drey.EarTag",
     "app.drey.Elastic",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
@@ -85,6 +86,7 @@
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
+    "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.seahorse.Application",
     "org.gramps_project.Gramps",
     "org.gtkhash.gtkhash",

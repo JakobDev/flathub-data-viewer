@@ -1,6 +1,7 @@
 [
     "app.devsuite.Ptyxis",
     "app.drey.Dialect",
+    "app.drey.EarTag",
     "app.drey.MultiplicationPuzzle",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
@@ -36,6 +37,7 @@
     "io.github.fizzyizzy05.binary",
     "io.github.loot.loot",
     "io.github.realmazharhussain.GdmSettings",
+    "io.github.seadve.Mousai",
     "io.gitlab.news_flash.NewsFlash",
     "io.neovim.nvim",
     "io.posidon.Paper",
@@ -108,6 +110,7 @@
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
+    "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.seahorse.Application",
     "org.gramps_project.Gramps",
     "org.gtkhash.gtkhash",

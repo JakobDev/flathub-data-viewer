@@ -1,8 +1,8 @@
 {
-    "org.freedesktop.networkmanager.connection.active": [
+    "org.freedesktop.NetworkManager.Connection.Active": [
         "app.bluebubbles.BlueBubbles"
     ],
-    "org.freedesktop.networkmanager": [
+    "org.freedesktop.NetworkManager": [
         "app.bluebubbles.BlueBubbles",
         "com.borgbase.Vorta",
         "com.ghostery.browser",
@@ -39,7 +39,7 @@
         "ru.proninyaroslav.libretrack",
         "ua.org.brezblock.q4wine"
     ],
-    "org.freedesktop.filemanager1": [
+    "org.freedesktop.FileManager1": [
         "app.bluebubbles.BlueBubbles",
         "org.sil.Bloom"
     ],
@@ -89,7 +89,7 @@
         "org.signal.Signal",
         "tv.kodi.Kodi"
     ],
-    "org.freedesktop.udisks2": [
+    "org.freedesktop.UDisks2": [
         "ca.parallel_launcher.ParallelLauncher",
         "cc.arduino.IDE2",
         "cn.ottercorp.xivlaunchercn",
@@ -140,9 +140,6 @@
         "org.kde.kwrite",
         "org.kde.peruse",
         "org.raspberrypi.rpi-imager",
-        "org.sil.FieldWorks",
-        "org.sil.dictionary-app-builder",
-        "org.sil.scripture-app-builder",
         "org.strawberrymusicplayer.strawberry",
         "org.thonny.Thonny",
         "org.winehq.Wine",
@@ -153,10 +150,10 @@
     "org.gtk.vfs.*": [
         "cc.arduino.IDE2"
     ],
-    "net.hadess.switcheroocontrol": [
+    "net.hadess.SwitcherooControl": [
         "ch.tlaun.TL"
     ],
-    "org.freedesktop.avahi": [
+    "org.freedesktop.Avahi": [
         "com.brave.Browser",
         "com.frac_tion.teleport",
         "com.github.debauchee.barrier",
@@ -194,7 +191,7 @@
         "ru.yandex.Browser",
         "tv.kodi.Kodi"
     ],
-    "org.freedesktop.upower": [
+    "org.freedesktop.UPower": [
         "com.brave.Browser",
         "com.core447.StreamController",
         "com.discordapp.Discord",
@@ -238,10 +235,10 @@
         "sh.ppy.osu",
         "tv.kodi.Kodi"
     ],
-    "org.freedesktop.avahi.*": [
+    "org.freedesktop.Avahi.*": [
         "com.github.KRTirtho.Spotube"
     ],
-    "org.freedesktop.accounts": [
+    "org.freedesktop.Accounts": [
         "com.github.childishgiant.mixer",
         "com.github.matfantinel.reminduck",
         "com.github.rajsolai.textsnatcher",
@@ -285,7 +282,7 @@
         "ru.yandex.Browser",
         "uk.co.piggz.amazfish"
     ],
-    "org.freedesktop.geoclue2": [
+    "org.freedesktop.GeoClue2": [
         "com.gitlab.bitseater.meteo",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
@@ -305,24 +302,24 @@
         "org.gnome.baobab",
         "org.localsend.localsend_app"
     ],
-    "org.freedesktop.statusnotifieritem.menu": [
+    "org.freedesktop.StatusNotifierItem.Menu": [
         "com.jianguoyun.Nutstore",
         "io.github.slgobinath.SafeEyes"
     ],
-    "org.freedesktop.upower.*": [
+    "org.freedesktop.UPower.*": [
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "org.kde.falkon"
     ],
-    "org.freedesktop.policykit1": [
+    "org.freedesktop.PolicyKit1": [
         "com.quexten.Goldwarden",
         "org.gnome.Builder"
     ],
-    "org.fedoraproject.firewalld1": [
+    "org.fedoraproject.FirewallD1": [
         "com.sireliah.Dragit",
         "org.gnome.NetworkDisplays"
     ],
-    "org.freedesktop.networkmanager.*": [
+    "org.freedesktop.NetworkManager.*": [
         "io.appflowy.AppFlowy",
         "vn.hoabinh.quan.CoBang"
     ],
@@ -335,13 +332,13 @@
     "org.bluez.*": [
         "me.timschneeberger.GalaxyBudsClient"
     ],
-    "org.freedesktop.colormanager": [
+    "org.freedesktop.ColorManager": [
         "net.displaycal.DisplayCAL",
         "org.darktable.Darktable",
         "org.gnome.ColorViewer",
         "org.kde.krita"
     ],
-    "org.freedesktop.realtimekit1": [
+    "org.freedesktop.RealtimeKit1": [
         "net.mullvad.MullvadBrowser",
         "net.sourceforge.GrandOrgue",
         "org.mixxx.Mixxx",
@@ -355,7 +352,7 @@
     "com.redhat.tuned": [
         "org.easycoding.TunedSwitcher"
     ],
-    "org.endlessos.key.daemon": [
+    "org.endlessos.Key.Daemon": [
         "org.endlessos.Key"
     ],
     "org.freedesktop.ratbag1": [
@@ -365,31 +362,36 @@
         "org.freedesktop.fwupd",
         "org.gnome.Firmware"
     ],
-    "org.gnome.sysprof3": [
+    "org.gnome.Sysprof3": [
         "org.gnome.Builder"
     ],
-    "org.freedesktop.modemmanager1": [
+    "org.freedesktop.ModemManager1": [
         "org.gnome.Calls",
         "sm.puri.Chatty"
     ],
-    "org.freedesktop.dbus.peer.ping": [
+    "org.freedesktop.DBus.Peer.Ping": [
         "org.gnome.OCRFeeder"
     ],
-    "org.freedesktop.dbus": [
+    "org.freedesktop.DBus": [
         "org.gnome.OCRFeeder",
         "org.gnome.Tomboy",
         "org.openchemistry.Avogadro2"
     ],
-    "org.learningequality.kolibri.daemon": [
+    "org.learningequality.Kolibri.Daemon": [
         "org.learningequality.Kolibri"
     ],
-    "org.freedesktop.dbus.proprieties": [
+    "org.freedesktop.DBus.Proprieties": [
         "org.openchemistry.Avogadro2"
     ],
-    "org.freedesktop.geoclue2.*": [
+    "org.freedesktop.Udisks2": [
+        "org.sil.FieldWorks",
+        "org.sil.dictionary-app-builder",
+        "org.sil.scripture-app-builder"
+    ],
+    "org.freedesktop.GeoClue2.*": [
         "page.codeberg.tpikonen.geobug"
     ],
-    "org.freedesktop.modemmanager1.*": [
+    "org.freedesktop.ModemManager1.*": [
         "page.codeberg.tpikonen.satellite"
     ]
 }

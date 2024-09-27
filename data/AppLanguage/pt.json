@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.EarTag",
     "app.drey.Elastic",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
@@ -38,6 +39,7 @@
     "io.github.pantheon_tweaks.pantheon-tweaks",
     "io.github.pragha_music_player.pragha",
     "io.github.realmazharhussain.GdmSettings",
+    "io.github.seadve.Mousai",
     "io.gitlab.news_flash.NewsFlash",
     "net.minetest.Minetest",
     "net.sourceforge.liferea",
@@ -107,6 +109,7 @@
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
+    "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
     "org.gtkhash.gtkhash",

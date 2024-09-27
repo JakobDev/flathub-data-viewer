@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.EarTag",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -25,6 +26,7 @@
     "io.github.mrvladus.List",
     "io.github.nokse22.minitext",
     "io.github.realmazharhussain.GdmSettings",
+    "io.github.seadve.Mousai",
     "io.gitlab.adhami3310.Impression",
     "io.posidon.Paper",
     "it.mijorus.collector",
@@ -86,6 +88,7 @@
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
+    "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.seahorse.Application",
     "org.remmina.Remmina",
     "org.x.Warpinator",

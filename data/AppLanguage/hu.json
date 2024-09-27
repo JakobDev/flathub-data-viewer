@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.EarTag",
     "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
     "app.rednotebook.RedNotebook",
@@ -30,6 +31,7 @@
     "io.github.mrvladus.List",
     "io.github.pantheon_tweaks.pantheon-tweaks",
     "io.github.pragha_music_player.pragha",
+    "io.github.seadve.Mousai",
     "io.github.wxmaxima_developers.wxMaxima",
     "io.gitlab.news_flash.NewsFlash",
     "net.minetest.Minetest",
@@ -105,6 +107,7 @@
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
+    "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
     "org.gramps_project.Gramps",

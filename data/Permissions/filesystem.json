@@ -928,6 +928,7 @@
         "io.github.martinrotter.textosaurus",
         "io.github.maurycyliebner.enve",
         "io.github.mhogomchungu.media-downloader",
+        "io.github.mhogomchungu.sirikali",
         "io.github.muse_sequencer.Muse",
         "io.github.myst6re.makoureactor",
         "io.github.najepaliya.kleaner",
@@ -1960,6 +1961,7 @@
         "io.github.ja2_stracciatella.JA2-Stracciatella",
         "io.github.jordanl2.ModularCalculator",
         "io.github.kaschpal.timetable",
+        "io.github.mhogomchungu.sirikali",
         "io.github.mideb.digitales_register",
         "io.github.mihnea_radulescu.quickpdfjoin",
         "io.github.obiwankennedy.HotShots",
@@ -2258,6 +2260,8 @@
         "com.github.taiko2k.tauonmb",
         "com.github.xournalpp.xournalpp",
         "com.google.Chrome",
+        "com.jetbrains.IntelliJ-IDEA-Community",
+        "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
         "com.obsproject.Studio",
@@ -3186,13 +3190,9 @@
     "xdg-run/gnupg:ro": [
         "com.gitfiend.GitFiend",
         "com.jetbrains.CLion",
-        "com.jetbrains.DataGrip",
         "com.jetbrains.GoLand",
-        "com.jetbrains.IntelliJ-IDEA-Community",
-        "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetbrains.PhpStorm",
         "com.sublimemerge.App",
-        "com.syntevo.SmartGit",
         "com.vscodium.codium-insiders",
         "com.vscodium.codium",
         "eu.betterbird.Betterbird",
@@ -3239,9 +3239,8 @@
         "com.github.neithern.g4music",
         "com.github.rafostar.Clapper",
         "com.github.wwmm.easyeffects",
-        "com.jetbrains.IntelliJ-IDEA-Community",
-        "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.unicornsonlsd.finamp",
+        "com.wire.WireDesktop",
         "dev.toastbits.spmp",
         "dev.vieb.Vieb",
         "info.mumble.Mumble",
@@ -3456,6 +3455,7 @@
     ],
     "xdg-run/docker": [
         "com.jetbrains.CLion",
+        "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate"
     ],
     "xdg-run/podman": [
@@ -3463,7 +3463,11 @@
         "com.jetbrains.IntelliJ-IDEA-Ultimate"
     ],
     "xdg-run/gnupg": [
+        "com.jetbrains.DataGrip",
+        "com.jetbrains.IntelliJ-IDEA-Community",
+        "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetpackduba.Gitnuro",
+        "com.syntevo.SmartGit",
         "org.gajim.Gajim"
     ],
     "/sys:ro": [
@@ -4082,6 +4086,9 @@
         "io.openrct2.OpenRCT2"
     ],
     "xdg-run/podman:create": [
+        "io.podman_desktop.PodmanDesktop"
+    ],
+    "xdg-run/containers/auth.json": [
         "io.podman_desktop.PodmanDesktop"
     ],
     "xdg-cache/poezio:create": [

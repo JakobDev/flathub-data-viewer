@@ -1,5 +1,6 @@
 [
     "app.drey.Blurble",
+    "app.drey.EarTag",
     "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
     "app.drey.Warp",

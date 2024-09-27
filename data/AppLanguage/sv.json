@@ -1,6 +1,7 @@
 [
     "app.devsuite.Ptyxis",
     "app.drey.Dialect",
+    "app.drey.EarTag",
     "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
     "app.rednotebook.RedNotebook",
@@ -46,6 +47,7 @@
     "io.github.pragha_music_player.pragha",
     "io.github.realmazharhussain.GdmSettings",
     "io.github.seadve.Delineate",
+    "io.github.seadve.Mousai",
     "io.neovim.nvim",
     "net.minetest.Minetest",
     "net.sourceforge.Hugin",
@@ -122,6 +124,7 @@
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
+    "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
     "org.gramps_project.Gramps",

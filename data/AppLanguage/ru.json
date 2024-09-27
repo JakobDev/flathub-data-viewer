@@ -1,6 +1,7 @@
 [
     "app.devsuite.Ptyxis",
     "app.drey.Dialect",
+    "app.drey.EarTag",
     "app.drey.Elastic",
     "app.drey.MultiplicationPuzzle",
     "app.rednotebook.RedNotebook",
@@ -60,6 +61,7 @@
     "io.github.pantheon_tweaks.pantheon-tweaks",
     "io.github.pragha_music_player.pragha",
     "io.github.realmazharhussain.GdmSettings",
+    "io.github.seadve.Mousai",
     "io.github.tfuxu.Halftone",
     "io.github.wxmaxima_developers.wxMaxima",
     "io.gitlab.adhami3310.Impression",
@@ -153,6 +155,7 @@
     "org.gnome.gitg",
     "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.gitlab.YaLTeR.VideoTrimmer",
+    "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.seahorse.Application",
     "org.gramps_project.Gramps",
     "org.gtkhash.gtkhash",

@@ -1,6 +1,7 @@
 [
     "app.devsuite.Ptyxis",
     "app.drey.Dialect",
+    "app.drey.EarTag",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
     "com.belmoussaoui.Decoder",
@@ -19,6 +20,7 @@
     "io.github.ecotubehq.player",
     "io.github.mrvladus.List",
     "io.github.realmazharhussain.GdmSettings",
+    "io.github.seadve.Mousai",
     "net.supertuxkart.SuperTuxKart",
     "org.aegisub.Aegisub",
     "org.gahshomar.Gahshomar",
@@ -67,6 +69,7 @@
     "org.gnome.five-or-more",
     "org.gnome.font-viewer",
     "org.gnome.gedit",
+    "org.gnome.gitlab.somas.Apostrophe",
     "org.gnome.seahorse.Application",
     "org.gtkhash.gtkhash",
     "org.learningequality.Kolibri",

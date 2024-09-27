@@ -1,5 +1,6 @@
 [
     "app.rednotebook.RedNotebook",
+    "io.github.seadve.Mousai",
     "org.freedesktop.fwupd",
     "org.gnome.Evince",
     "org.gnome.Evolution",

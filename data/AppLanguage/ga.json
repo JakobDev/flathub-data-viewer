@@ -1,5 +1,6 @@
 [
     "app.rednotebook.RedNotebook",
+    "io.github.seadve.Mousai",
     "io.neovim.nvim",
     "net.supertuxkart.SuperTuxKart",
     "org.gnome.Boxes",

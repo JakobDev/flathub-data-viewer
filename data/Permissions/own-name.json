@@ -2,13 +2,13 @@
     "moe.craftplacer.kaiteki": [
         "app.kaiteki.Kaiteki"
     ],
-    "org.mpris.mediaplayer2.moosync": [
+    "org.mpris.MediaPlayer2.Moosync": [
         "app.moosync.moosync"
     ],
-    "org.mpris.mediaplayer2.ytmdesktop": [
+    "org.mpris.MediaPlayer2.ytmdesktop": [
         "app.ytmdesktop.ytmdesktop"
     ],
-    "org.mpris.mediaplayer2.headset": [
+    "org.mpris.MediaPlayer2.headset": [
         "co.headsetapp.headset"
     ],
     "org.kde.*": [
@@ -34,13 +34,13 @@
     "org.qemu": [
         "com.belmoussaoui.snowglobe"
     ],
-    "org.mpris.mediaplayer2.brave.*": [
+    "org.mpris.MediaPlayer2.brave.*": [
         "com.brave.Browser"
     ],
-    "org.mpris.mediaplayer2.euterpe-gtk": [
+    "org.mpris.MediaPlayer2.Euterpe-Gtk": [
         "com.doycho.euterpe.gtk"
     ],
-    "org.mpris.mediaplayer2.firefox.*": [
+    "org.mpris.MediaPlayer2.firefox.*": [
         "com.ghostery.browser",
         "com.humatarayici.od",
         "io.github.zen_browser.zen",
@@ -51,50 +51,50 @@
         "org.garudalinux.firedragon",
         "org.mozilla.firefox"
     ],
-    "org.mpris.mediaplayer2.spotube.*": [
+    "org.mpris.MediaPlayer2.spotube.*": [
         "com.github.KRTirtho.Spotube"
     ],
-    "org.kde.statusnotifieritem-2-1": [
+    "org.kde.StatusNotifierItem-2-1": [
         "com.github.Qv2ray",
         "ru.proninyaroslav.libretrack"
     ],
-    "org.mpris.mediaplayer2.com.github.artemanufrij.playmymusic": [
+    "org.mpris.MediaPlayer2.com.github.artemanufrij.playmymusic": [
         "com.github.artemanufrij.playmymusic"
     ],
-    "org.mpris.mediaplayer2.cozy": [
+    "org.mpris.MediaPlayer2.Cozy": [
         "com.github.geigi.cozy"
     ],
-    "org.mpris.mediaplayer2.com.github.gmg137.netease-cloud-music-gtk": [
+    "org.mpris.MediaPlayer2.com.github.gmg137.netease-cloud-music-gtk": [
         "com.github.gmg137.netease-cloud-music-gtk"
     ],
-    "com.gitee.gmg137.neteasecloudmusicgtk4": [
+    "com.gitee.gmg137.NeteaseCloudMusicGtk4": [
         "com.github.gmg137.netease-cloud-music-gtk"
     ],
-    "org.mpris.mediaplayer2.neteasecloudmusicgtk4": [
+    "org.mpris.MediaPlayer2.NeteaseCloudMusicGtk4": [
         "com.github.gmg137.netease-cloud-music-gtk"
     ],
-    "org.mpris.mediaplayer2.mpv": [
+    "org.mpris.MediaPlayer2.mpv": [
         "com.github.iwalton3.jellyfin-media-player"
     ],
-    "org.mpris.mediaplayer2.tuner": [
+    "org.mpris.MediaPlayer2.Tuner": [
         "com.github.louis77.tuner"
     ],
-    "org.mpris.mediaplayer2.gapless": [
+    "org.mpris.MediaPlayer2.Gapless": [
         "com.github.neithern.g4music"
     ],
     "com.github.philip-scott.notes-up": [
         "com.github.philip_scott.notes-up"
     ],
-    "org.mpris.mediaplayer2.clapper": [
+    "org.mpris.MediaPlayer2.Clapper": [
         "com.github.rafostar.Clapper"
     ],
-    "org.mpris.mediaplayer2.tauon": [
+    "org.mpris.MediaPlayer2.tauon": [
         "com.github.taiko2k.tauonmb"
     ],
-    "org.mpris.mediaplayer2.mellowplayer3.*": [
+    "org.mpris.MediaPlayer2.MellowPlayer3.*": [
         "com.gitlab.ColinDuquesnoy.MellowPlayer"
     ],
-    "org.mpris.mediaplayer2.chromium.*": [
+    "org.mpris.MediaPlayer2.chromium.*": [
         "com.google.Chrome",
         "com.google.ChromeDev",
         "com.opera.Opera",
@@ -111,40 +111,40 @@
         "ru.yandex.Browser",
         "tech.feliciano.pocket-casts"
     ],
-    "com.endlessm.gamestateservice": [
+    "com.endlessm.GameStateService": [
         "com.hack_computer.Clubhouse"
     ],
-    "com.hack_computer.hacktoolbox": [
+    "com.hack_computer.HackToolbox": [
         "com.hack_computer.Clubhouse"
     ],
-    "com.hack_computer.hacksoundserver": [
+    "com.hack_computer.HackSoundServer": [
         "com.hack_computer.Clubhouse"
     ],
-    "com.hack_computer.gamestateservice": [
+    "com.hack_computer.GameStateService": [
         "com.hack_computer.Clubhouse"
     ],
     "org.mozilla.huma.*": [
         "com.humatarayici.od"
     ],
-    "org.mpris.mediaplayer2.mpv.*": [
+    "org.mpris.MediaPlayer2.mpv.*": [
         "com.ktechpit.orion",
         "io.mpv.Mpv",
         "org.gtaf.quran"
     ],
-    "org.mpris.mediaplayer2.tidal-hifi": [
+    "org.mpris.MediaPlayer2.tidal-hifi": [
         "com.mastermindzh.tidal-hifi"
     ],
-    "org.mpris.mediaplayer2.edge.*": [
+    "org.mpris.MediaPlayer2.edge.*": [
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev"
     ],
-    "org.mpris.mediaplayer2.netease-cloud-music": [
+    "org.mpris.MediaPlayer2.netease-cloud-music": [
         "com.netease.CloudMusic"
     ],
-    "com.nextcloudgmbh.nextcloud": [
+    "com.nextcloudgmbh.Nextcloud": [
         "com.nextcloud.desktopclient.nextcloud"
     ],
-    "org.mpris.mediaplayer2.plexamp": [
+    "org.mpris.MediaPlayer2.Plexamp": [
         "com.plexamp.Plexamp"
     ],
     "proton.vpn.app.gtk": [
@@ -153,13 +153,13 @@
     "com.prusa3d.prusaslicer.*": [
         "com.prusa3d.PrusaSlicer"
     ],
-    "org.mpris.mediaplayer2.blanket": [
+    "org.mpris.MediaPlayer2.Blanket": [
         "com.rafaelmardojai.Blanket"
     ],
-    "org.mpris.mediaplayer2.sayonara": [
+    "org.mpris.MediaPlayer2.sayonara": [
         "com.sayonara_player.Sayonara"
     ],
-    "org.mpris.mediaplayer2.spotify": [
+    "org.mpris.MediaPlayer2.spotify": [
         "com.spotify.Client"
     ],
     "com.sublimemerge": [
@@ -168,19 +168,19 @@
     "com.steampowered.*": [
         "com.valvesoftware.Steam"
     ],
-    "org.mpris.mediaplayer2.thebeat": [
+    "org.mpris.MediaPlayer2.theBeat": [
         "com.vicr123.thebeat"
     ],
-    "org.mpris.mediaplayer2.tubefeeder": [
+    "org.mpris.MediaPlayer2.tubefeeder": [
         "de.schmidhuberj.tubefeeder"
     ],
-    "org.mpris.mediaplayer2.spot": [
+    "org.mpris.MediaPlayer2.Spot": [
         "dev.alextren.Spot"
     ],
-    "org.freedesktop.filemanager1": [
+    "org.freedesktop.FileManager1": [
         "dev.tchx84.Portfolio"
     ],
-    "org.mpris.mediaplayer2.spmp": [
+    "org.mpris.MediaPlayer2.spmp": [
         "dev.toastbits.spmp"
     ],
     "org.mozilla.betterbird.*": [
@@ -195,7 +195,7 @@
     "net.sourceforge.mumble.mumble": [
         "info.mumble.Mumble"
     ],
-    "org.mpris.mediaplayer2.smplayer": [
+    "org.mpris.MediaPlayer2.smplayer": [
         "info.smplayer.SMPlayer"
     ],
     "io.appflowy.appflowy": [
@@ -206,64 +206,64 @@
         "io.github.foldynl.QLog",
         "org.keepassxc.KeePassXC"
     ],
-    "org.mpris.mediaplayer2.freetube": [
+    "org.mpris.MediaPlayer2.freetube": [
         "io.freetubeapp.FreeTube"
     ],
-    "org.mpris.mediaplayer2.cassette": [
+    "org.mpris.MediaPlayer2.cassette": [
         "io.github.Rirusha.Cassette"
     ],
-    "org.mpris.mediaplayer2.cmus": [
+    "org.mpris.MediaPlayer2.cmus": [
         "io.github.cmus.cmus"
     ],
-    "org.mpris.mediaplayer2.supersonic": [
+    "org.mpris.MediaPlayer2.Supersonic": [
         "io.github.dweymouth.supersonic"
     ],
-    "org.mpris.mediaplayer2.*": [
+    "org.mpris.MediaPlayer2.*": [
         "io.github.foxxmd.multiscrobbler"
     ],
-    "org.mpris.mediaplayer2.ncspot": [
+    "org.mpris.MediaPlayer2.ncspot": [
         "io.github.hrkfdn.ncspot"
     ],
-    "org.mpris.mediaplayer2.qcm": [
+    "org.mpris.MediaPlayer2.Qcm": [
         "io.github.hypengw.Qcm"
     ],
     "org.insilmaril.vym-2": [
         "io.github.insilmaril.vym"
     ],
-    "org.mpris.mediaplayer2.noson.*": [
+    "org.mpris.MediaPlayer2.noson.*": [
         "io.github.janbar.noson"
     ],
     "org.gnome.gimagereader.*": [
         "io.github.manisandro.gImageReader"
     ],
-    "org.mpris.mediaplayer2.yesplaymusic": [
+    "org.mpris.MediaPlayer2.yesplaymusic": [
         "io.github.qier222.YesPlayMusic"
     ],
     "org.mpris.quodlibet": [
         "io.github.quodlibet.QuodLibet"
     ],
-    "org.mpris.mediaplayer2.quodlibet": [
+    "org.mpris.MediaPlayer2.quodlibet": [
         "io.github.quodlibet.QuodLibet"
     ],
-    "org.gnome.upnp.mediaserver2.quodlibet": [
+    "org.gnome.UPnP.MediaServer2.QuodLibet": [
         "io.github.quodlibet.QuodLibet"
     ],
-    "org.mpris.mediaplayer2.hbud": [
+    "org.mpris.MediaPlayer2.hbud": [
         "io.github.swanux.hbud"
     ],
-    "org.mpris.mediaplayer2.chromium.instance3": [
+    "org.mpris.MediaPlayer2.chromium.instance3": [
         "io.github.thaunknown.miru"
     ],
-    "org.mpris.mediaplayer2.yuki_iptv.*": [
+    "org.mpris.MediaPlayer2.yuki_iptv.*": [
         "io.github.yuki_iptv.yuki-iptv"
     ],
     "org.mozilla.zen.*": [
         "io.github.zen_browser.zen"
     ],
-    "org.mpris.mediaplayer2.goodvibes": [
+    "org.mpris.MediaPlayer2.Goodvibes": [
         "io.gitlab.Goodvibes"
     ],
-    "org.mpris.mediaplayer2.daikhan": [
+    "org.mpris.MediaPlayer2.daikhan": [
         "io.gitlab.daikhan.stable"
     ],
     "io.gitlab.firefox.*": [
@@ -272,16 +272,16 @@
     "io.gitlab.librewolf.*": [
         "io.gitlab.librewolf-community"
     ],
-    "org.mpris.mediaplayer2.newsflash": [
+    "org.mpris.MediaPlayer2.Newsflash": [
         "io.gitlab.news_flash.NewsFlash"
     ],
     "io.howl.*": [
         "io.howl.Editor"
     ],
-    "org.mpris.mediaplayer2.karaokemugen.*": [
+    "org.mpris.MediaPlayer2.KaraokeMugen.*": [
         "moe.karaokes.mugen"
     ],
-    "org.mpris.mediaplayer2.bible": [
+    "org.mpris.MediaPlayer2.Bible": [
         "net.lugsole.bible_gui"
     ],
     "org.mozilla.mullvad_browser.*": [
@@ -296,37 +296,37 @@
     "org.mozilla.waterfox.*": [
         "net.waterfox.waterfox"
     ],
-    "org.mpris.mediaplayer2.girens": [
+    "org.mpris.MediaPlayer2.Girens": [
         "nl.g4d.Girens"
     ],
     "org.mozilla.floorp.*": [
         "one.ablaze.floorp"
     ],
-    "org.freedesktop.reservedevice1.*": [
+    "org.freedesktop.ReserveDevice1.*": [
         "org.ardour.Ardour"
     ],
-    "org.mpris.mediaplayer2.audacious": [
+    "org.mpris.MediaPlayer2.audacious": [
         "org.atheme.audacious"
     ],
-    "org.gnome.bleachbit": [
+    "org.gnome.Bleachbit": [
         "org.bleachbit.BleachBit"
     ],
-    "org.kde.statusnotifieritem-2-2": [
+    "org.kde.StatusNotifierItem-2-2": [
         "org.clementine_player.Clementine"
     ],
-    "org.mpris.mediaplayer2.clementine": [
+    "org.mpris.MediaPlayer2.clementine": [
         "org.clementine_player.Clementine"
     ],
     "org.darktable.service": [
         "org.darktable.Darktable"
     ],
-    "org.mpris.mediaplayer2.musicpod.*": [
+    "org.mpris.MediaPlayer2.musicpod.*": [
         "org.feichtmeier.Musicpod"
     ],
-    "com.secondlife.viewerappapiservice": [
+    "com.secondlife.ViewerAppAPIService": [
         "org.firestormviewer.FirestormViewer"
     ],
-    "org.mpris.mediaplayer2.fooyin": [
+    "org.mpris.MediaPlayer2.fooyin": [
         "org.fooyin.fooyin"
     ],
     "org.freedesktop.tuhi1": [
@@ -335,64 +335,64 @@
     "org.mozilla.firedragon.*": [
         "org.garudalinux.firedragon"
     ],
-    "org.mpris.mediaplayer2.gmusicbrowser": [
+    "org.mpris.MediaPlayer2.gmusicbrowser": [
         "org.gmusicbrowser.gmusicbrowser"
     ],
     "org.gmusicbrowser": [
         "org.gmusicbrowser.gmusicbrowser"
     ],
-    "org.gnome.eolie.proxy.*": [
+    "org.gnome.Eolie.Proxy.*": [
         "org.gnome.Eolie"
     ],
     "org.gnome.evince": [
         "org.gnome.Evince"
     ],
-    "org.gnome.evince.daemon": [
+    "org.gnome.evince.Daemon": [
         "org.gnome.Evince"
     ],
-    "org.gnome.archivemanager1": [
+    "org.gnome.ArchiveManager1": [
         "org.gnome.FileRoller"
     ],
     "org.gnome.genius": [
         "org.gnome.Genius"
     ],
-    "org.mpris.mediaplayer2.lollypop": [
+    "org.mpris.MediaPlayer2.Lollypop": [
         "org.gnome.Lollypop"
     ],
-    "org.freedesktop.telepathy.client.polari": [
+    "org.freedesktop.Telepathy.Client.Polari": [
         "org.gnome.Polari"
     ],
-    "org.freedesktop.telepathy.connectionmanager.idle": [
+    "org.freedesktop.Telepathy.ConnectionManager.idle": [
         "org.gnome.Polari"
     ],
-    "org.freedesktop.telepathy.client.tpglibrequestandhandle.*": [
+    "org.freedesktop.Telepathy.Client.TpGLibRequestAndHandle.*": [
         "org.gnome.Polari"
     ],
-    "org.freedesktop.telepathy.accountmanager": [
+    "org.freedesktop.Telepathy.AccountManager": [
         "org.gnome.Polari"
     ],
-    "org.freedesktop.telepathy.connection.idle.irc.*": [
+    "org.freedesktop.Telepathy.Connection.idle.irc.*": [
         "org.gnome.Polari"
     ],
-    "org.freedesktop.telepathy.client.logger": [
+    "org.freedesktop.Telepathy.Client.Logger": [
         "org.gnome.Polari"
     ],
-    "org.freedesktop.telepathy.channeldispatcher": [
+    "org.freedesktop.Telepathy.ChannelDispatcher": [
         "org.gnome.Polari"
     ],
-    "org.freedesktop.telepathy.logger": [
+    "org.freedesktop.Telepathy.Logger": [
         "org.gnome.Polari"
     ],
-    "org.freedesktop.telepathy.client.polari.*": [
+    "org.freedesktop.Telepathy.Client.Polari.*": [
         "org.gnome.Polari"
     ],
-    "org.freedesktop.telepathy.missioncontrol5": [
+    "org.freedesktop.Telepathy.MissionControl5": [
         "org.gnome.Polari"
     ],
-    "org.mpris.mediaplayer2.rhythmbox": [
+    "org.mpris.MediaPlayer2.rhythmbox": [
         "org.gnome.Rhythmbox3"
     ],
-    "org.mpris.mediaplayer2.totem": [
+    "org.mpris.MediaPlayer2.totem": [
         "org.gnome.Totem"
     ],
     "org.gpodder.*": [
@@ -404,10 +404,10 @@
     "org.gtimelog": [
         "org.gtimelog.GTimeLog"
     ],
-    "org.mpris.mediaplayer2.nuclear": [
+    "org.mpris.MediaPlayer2.nuclear": [
         "org.js.nuclear.Nuclear"
     ],
-    "org.freedesktop.akonadi.*": [
+    "org.freedesktop.Akonadi.*": [
         "org.kde.akregator",
         "org.kde.kontact"
     ],
@@ -419,7 +419,7 @@
         "org.kde.akregator",
         "org.kde.kontact"
     ],
-    "org.freedesktop.akonadi": [
+    "org.freedesktop.Akonadi": [
         "org.kde.akregator",
         "org.kde.kontact"
     ],
@@ -430,25 +430,25 @@
         "org.kde.akregator",
         "org.kde.kontact"
     ],
-    "org.mpris.mediaplayer2.amarok": [
+    "org.mpris.MediaPlayer2.amarok": [
         "org.kde.amarok"
     ],
-    "org.mpris.mediaplayer2.audiotube": [
+    "org.mpris.MediaPlayer2.AudioTube": [
         "org.kde.audiotube"
     ],
-    "org.mpris.mediaplayer2.elisa": [
+    "org.mpris.MediaPlayer2.elisa": [
         "org.kde.elisa"
     ],
-    "org.mpris.mediaplayer2.falkon.*": [
+    "org.mpris.MediaPlayer2.falkon.*": [
         "org.kde.falkon"
     ],
-    "org.mpris.mediaplayer2.haruna": [
+    "org.mpris.MediaPlayer2.haruna": [
         "org.kde.haruna"
     ],
-    "org.mpris.mediaplayer2.org.kde.kaffeine": [
+    "org.mpris.MediaPlayer2.org.kde.kaffeine": [
         "org.kde.kaffeine"
     ],
-    "org.mpris.mediaplayer2.kasts": [
+    "org.mpris.MediaPlayer2.kasts": [
         "org.kde.kasts"
     ],
     "org.kde.kclockd": [
@@ -457,7 +457,7 @@
     "org.kdevelop.*": [
         "org.kde.kdevelop"
     ],
-    "org.mpris.mediaplayer2.kid3": [
+    "org.mpris.MediaPlayer2.kid3": [
         "org.kde.kid3"
     ],
     "org.kde.kongressac": [
@@ -484,7 +484,7 @@
     "org.kde.kmail": [
         "org.kde.kontact"
     ],
-    "org.freedesktop.akonadi.resource.*": [
+    "org.freedesktop.Akonadi.Resource.*": [
         "org.kde.kontact"
     ],
     "org.kde.pimsettingexporter": [
@@ -499,10 +499,10 @@
     "org.kde.kmail2": [
         "org.kde.kontact"
     ],
-    "org.freedesktop.akonadi.agent.*": [
+    "org.freedesktop.Akonadi.Agent.*": [
         "org.kde.kontact"
     ],
-    "org.freedesktop.akonadi.control.*": [
+    "org.freedesktop.Akonadi.Control.*": [
         "org.kde.kontact"
     ],
     "org.kde.kioexec.*": [
@@ -511,10 +511,10 @@
     "org.kde.umbrello-2": [
         "org.kde.umbrello"
     ],
-    "org.mpris.mediaplayer2.vvave": [
+    "org.mpris.MediaPlayer2.vvave": [
         "org.kde.vvave"
     ],
-    "org.libreoffice.libreofficeipc0": [
+    "org.libreoffice.LibreOfficeIpc0": [
         "org.libreoffice.LibreOffice"
     ],
     "org.mozilla.thunderbird.*": [
@@ -529,25 +529,25 @@
     "org.mozilla.firefox.*": [
         "org.mozilla.firefox"
     ],
-    "org.mpris.mediaplayer2.qutebrowser.*": [
+    "org.mpris.MediaPlayer2.qutebrowser.*": [
         "org.qutebrowser.qutebrowser"
     ],
-    "org.mpris.mediaplayer2.strawberry": [
+    "org.mpris.MediaPlayer2.strawberry": [
         "org.strawberrymusicplayer.strawberry"
     ],
-    "org.mpris.mediaplayer2.vlc": [
+    "org.mpris.MediaPlayer2.vlc": [
         "org.videolan.VLC"
     ],
-    "org.x.statusicon.warpinator": [
+    "org.x.StatusIcon.warpinator": [
         "org.x.Warpinator"
     ],
-    "org.mpris.mediaplayer2.cider": [
+    "org.mpris.MediaPlayer2.cider": [
         "sh.cider.Cider"
     ],
     "work.openpaper.paperwork": [
         "work.openpaper.Paperwork"
     ],
-    "org.mpris.mediaplayer2.parlatype.*": [
+    "org.mpris.MediaPlayer2.parlatype.*": [
         "xyz.parlatype.Parlatype"
     ]
 }

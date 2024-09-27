@@ -2,6 +2,7 @@
     "24.04": [
         "org.sugarlabs.AbacusActivity",
         "org.sugarlabs.Calculate",
+        "org.sugarlabs.CellGame",
         "org.sugarlabs.Chart",
         "org.sugarlabs.Chess",
         "org.sugarlabs.ColorDeducto",
