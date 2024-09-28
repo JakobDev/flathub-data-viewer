@@ -11,6 +11,7 @@
     "net.retrodeck.retrodeck",
     "net.rpcs3.RPCS3",
     "org.d3cod3.Mosaic",
+    "org.fkoehler.KTailctl",
     "org.gnome.Builder",
     "org.gnome.Loupe",
     "org.gnome.Snapshot",

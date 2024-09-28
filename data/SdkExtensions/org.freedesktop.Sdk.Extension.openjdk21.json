@@ -9,6 +9,7 @@
     "org.apache.netbeans",
     "org.asamk.SignalCli",
     "org.chromium.Chromium",
+    "org.ghidra_sre.Ghidra",
     "org.libreoffice.LibreOffice",
     "org.omegat.OmegaT",
     "org.openstreetmap.josm",
