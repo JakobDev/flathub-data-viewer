@@ -2728,6 +2728,7 @@
         "io.github.TransmissionRemoteGtk",
         "io.github.appoutlet.GameOutlet",
         "io.github.celluloid_player.Celluloid",
+        "io.github.ecotubehq.player",
         "io.github.ilius.pyglossary",
         "io.github.manisandro.gImageReader",
         "io.github.mightycreak.Diffuse",
@@ -2803,6 +2804,7 @@
         "fr.handbrake.ghb",
         "info.olasagasti.revelation",
         "io.github.celluloid_player.Celluloid",
+        "io.github.ecotubehq.player",
         "io.github.lruzicka.Needly",
         "io.github.pragha_music_player.pragha",
         "io.github.vikdevelop.SaveDesktop",
@@ -2956,9 +2958,6 @@
     ],
     "xdg-download/BiglyBT Downloads:create": [
         "com.biglybt.BiglyBT"
-    ],
-    "xdg-config/simple-diary,xdg-data/SimpleDiary": [
-        "com.bjareholt.johan.SimpleDiary"
     ],
     "~/.gnupg": [
         "com.bktus.gpgfrontend",
@@ -3189,7 +3188,6 @@
     ],
     "xdg-run/gnupg:ro": [
         "com.gitfiend.GitFiend",
-        "com.jetbrains.CLion",
         "com.jetbrains.GoLand",
         "com.jetbrains.PhpStorm",
         "com.sublimemerge.App",
@@ -3247,6 +3245,7 @@
         "io.github.celluloid_player.Celluloid",
         "io.github.dosbox-staging",
         "io.github.dweymouth.supersonic",
+        "io.github.ecotubehq.player",
         "io.github.ripose_jp.Memento",
         "io.kapsa.drive",
         "io.mpv.Mpv",
@@ -3458,17 +3457,18 @@
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate"
     ],
-    "xdg-run/podman": [
-        "com.jetbrains.CLion",
-        "com.jetbrains.IntelliJ-IDEA-Ultimate"
-    ],
     "xdg-run/gnupg": [
+        "com.jetbrains.CLion",
         "com.jetbrains.DataGrip",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetpackduba.Gitnuro",
         "com.syntevo.SmartGit",
         "org.gajim.Gajim"
+    ],
+    "xdg-run/podman": [
+        "com.jetbrains.CLion",
+        "com.jetbrains.IntelliJ-IDEA-Ultimate"
     ],
     "/sys:ro": [
         "com.leinardi.gst",
@@ -3807,6 +3807,7 @@
     ],
     "/var/lib/snapd:ro": [
         "io.github.fabrialberio.pinapp",
+        "io.missioncenter.MissionCenter",
         "net.nokyan.Resources",
         "page.codeberg.libre_menu_editor.LibreMenuEditor"
     ],

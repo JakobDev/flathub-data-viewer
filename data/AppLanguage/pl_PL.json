@@ -1,5 +1,6 @@
 [
     "io.github.yuki_iptv.yuki-iptv",
     "org.arrl.trustedqsl",
-    "org.scilab.Scilab"
+    "org.scilab.Scilab",
+    "org.synfig.SynfigStudio"
 ]

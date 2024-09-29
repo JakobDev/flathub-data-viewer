@@ -7,7 +7,6 @@
         "com.chez.GrafX2",
         "com.gitfiend.GitFiend",
         "com.helix_editor.Helix",
-        "com.jetbrains.CLion",
         "com.jetbrains.GoLand",
         "com.jetbrains.PyCharm-Community",
         "com.jetbrains.PyCharm-Professional",
@@ -39,6 +38,7 @@
     "24.08": [
         "com.axosoft.GitKraken",
         "com.google.AndroidStudio",
+        "com.jetbrains.CLion",
         "com.jetbrains.DataGrip",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",

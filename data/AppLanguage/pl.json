@@ -44,6 +44,7 @@
     "io.gitlab.news_flash.NewsFlash",
     "io.liri.Calculator",
     "io.liri.Text",
+    "io.missioncenter.MissionCenter",
     "io.posidon.Paper",
     "net.minetest.Minetest",
     "net.nokyan.Resources",

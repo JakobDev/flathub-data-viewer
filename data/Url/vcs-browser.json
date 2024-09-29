@@ -537,6 +537,7 @@
     "org.openandroidinstaller.OpenAndroidInstaller",
     "org.openjkdf2.OpenJKDF2",
     "org.openstreetmap.josm",
+    "org.pjbroad.EternallandsClient",
     "org.ppsspp.PPSSPP",
     "org.prismlauncher.PrismLauncher",
     "org.processing.processingide",

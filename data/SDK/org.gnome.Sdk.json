@@ -49,6 +49,7 @@
         "co.logonoff.awakeonlan",
         "codes.merritt.FeelingFinder",
         "com.belmoussaoui.Decoder",
+        "com.bjareholt.johan.SimpleDiary",
         "com.cassidyjames.butler",
         "com.gitbutler.gitbutler",
         "com.github.cassidyjames.clairvoyant",
@@ -56,6 +57,7 @@
         "com.github.marhkb.Pods",
         "com.github.xournalpp.xournalpp",
         "com.github.yucefsourani.albasheer-electronic-quran-browser",
+        "com.hamrick.VueScan",
         "com.jeffser.Alpaca",
         "de.haeckerfelix.Fragments",
         "de.hummdudel.Libellus",
@@ -82,6 +84,7 @@
         "io.github.nokse22.teleprompter",
         "io.github.nokse22.trivia-quiz",
         "io.github.nokse22.ultimate-tic-tac-toe",
+        "io.github.qwersyk.Newelle",
         "io.github.realmazharhussain.GdmSettings",
         "io.github.seadve.Delineate",
         "io.github.seadve.Mousai",
@@ -93,6 +96,7 @@
         "io.gitlab.daikhan.stable",
         "io.gitlab.news_flash.NewsFlash",
         "io.gitlab.theevilskeleton.Upscaler",
+        "io.missioncenter.MissionCenter",
         "net.base_art.Glide",
         "org.cockpit_project.CockpitClient",
         "org.freedesktop.Bustle",
@@ -231,7 +235,6 @@
         "com.gitlab.azymohliad.Qwertone",
         "com.gitlab.bitseater.meteo",
         "com.gitlab.guillermop.MasterKey",
-        "com.hamrick.VueScan",
         "com.jianguoyun.Nutstore",
         "com.kalbareader.Kalba",
         "com.kavilgroup.gelectrical",
@@ -374,7 +377,6 @@
         "io.github.nokse22.inspector",
         "io.github.pantheon_tweaks.pantheon-tweaks",
         "io.github.pieterdd.RcloneShuttle",
-        "io.github.qwersyk.Newelle",
         "io.github.rdybka.vht",
         "io.github.ronniedroid.concessio",
         "io.github.roseblume.rosary",
@@ -403,7 +405,6 @@
         "io.gitlab.leesonwai.Tactics",
         "io.gitlab.liferooter.TextPieces",
         "io.howl.Editor",
-        "io.missioncenter.MissionCenter",
         "io.otsaloma.gaupol",
         "io.otsaloma.nfoview",
         "ir.imansalmani.IPlan",
@@ -655,7 +656,6 @@
         "com.abisource.AbiWord",
         "com.belmoussaoui.ashpd.demo",
         "com.belmoussaoui.snowglobe",
-        "com.bjareholt.johan.SimpleDiary",
         "com.clarahobbs.chessclock",
         "com.diffingo.fwbackups",
         "com.ekonomikas.merkato",
@@ -831,8 +831,7 @@
         "org.gnome.Totem"
     ],
     "3.38": [
-        "com.gigitux.youp",
-        "org.synfig.SynfigStudio"
+        "com.gigitux.youp"
     ],
     "40": [
         "com.github.alecaddd.sequeler",
@@ -858,6 +857,7 @@
         "edu.stanford.Almond",
         "one.jiri.easydict-gtk",
         "org.gnome.GTG",
+        "org.synfig.SynfigStudio",
         "org.viking.Viking",
         "pl.art.lach.slawek.V2BlankBrowser",
         "sh.xaviers.Opentapes"

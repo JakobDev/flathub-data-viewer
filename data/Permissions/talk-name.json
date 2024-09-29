@@ -3652,6 +3652,11 @@
     "com.microsoft.identity.broker1": [
         "com.microsoft.Edge"
     ],
+    "org.kde.kwalletd": [
+        "com.mongodb.Compass",
+        "com.thincast.client",
+        "org.videolan.VLC"
+    ],
     "org.freedesktop.DBus.Introspectable.*": [
         "com.prusa3d.PrusaSlicer"
     ],
@@ -3662,10 +3667,6 @@
         "com.skype.Client",
         "io.github.betaflight.BetaflightConfigurator",
         "org.xiphos.Xiphos"
-    ],
-    "org.kde.kwalletd": [
-        "com.thincast.client",
-        "org.videolan.VLC"
     ],
     "com.freedesktop.secrets": [
         "com.thincast.client"
