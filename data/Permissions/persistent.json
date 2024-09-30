@@ -797,9 +797,6 @@
     "vnc": [
         "org.tigervnc.vncviewer"
     ],
-    ".vnc": [
-        "org.tigervnc.vncviewer"
-    ],
     ".Tribler": [
         "org.tribler.Tribler"
     ],

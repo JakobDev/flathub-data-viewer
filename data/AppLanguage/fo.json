@@ -1,6 +1,7 @@
 [
     "app.rednotebook.RedNotebook",
     "com.github.debauchee.barrier",
+    "org.gnome.DejaDup",
     "org.gnome.Logs",
     "org.gnome.baobab",
     "org.musescore.MuseScore",

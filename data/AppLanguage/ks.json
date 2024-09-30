@@ -2,5 +2,6 @@
     "org.gnome.Evince",
     "org.gnome.Papers",
     "org.gnome.eog",
+    "org.gnucash.GnuCash",
     "org.tuxpaint.Tuxpaint"
 ]

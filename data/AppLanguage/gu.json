@@ -26,6 +26,7 @@
     "org.gnome.five-or-more",
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
+    "org.gnucash.GnuCash",
     "org.pulseaudio.pavucontrol",
     "org.sugarlabs.Memorize",
     "org.sugarlabs.Speak",

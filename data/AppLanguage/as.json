@@ -11,6 +11,7 @@
     "org.gnome.Hamster",
     "org.gnome.Logs",
     "org.gnome.Mahjongg",
+    "org.gnome.Music",
     "org.gnome.NautilusPreviewer",
     "org.gnome.Nibbles",
     "org.gnome.Papers",
@@ -27,6 +28,7 @@
     "org.gnome.gedit",
     "org.gnome.gitg",
     "org.gnome.seahorse.Application",
+    "org.gnucash.GnuCash",
     "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint"
 ]
