@@ -32,5 +32,6 @@
     "org.syphon.Syphon",
     "org.tropy.Tropy",
     "org.zrythm.Zrythm",
+    "rocks.syng.Syng",
     "vet.rsc.OpenRSC.Launcher"
 ]

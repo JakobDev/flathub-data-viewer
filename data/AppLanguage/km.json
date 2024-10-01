@@ -1,6 +1,7 @@
 [
     "org.gimp.GIMP",
     "org.gnome.Boxes",
+    "org.gnome.Calculator",
     "org.gnome.Chess",
     "org.gnome.DejaDup",
     "org.gnome.Epiphany",

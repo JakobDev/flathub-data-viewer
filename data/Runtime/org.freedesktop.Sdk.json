@@ -51,6 +51,7 @@
         "com.visualstudio.code",
         "dev.zed.Zed",
         "io.neovim.nvim",
+        "net.blix.BlueMail",
         "org.kicad.KiCad",
         "org.thonny.Thonny"
     ],
@@ -67,7 +68,6 @@
         "io.atom.Atom",
         "io.gdevs.GDLauncher",
         "io.github.fralonra.WgShadertoy",
-        "net.blix.BlueMail",
         "org.codeblocks.codeblocks",
         "org.scilab.Scilab"
     ],

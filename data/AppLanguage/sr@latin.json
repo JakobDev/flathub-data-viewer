@@ -10,6 +10,7 @@
     "org.gimp.GIMP",
     "org.gnome.Boxes",
     "org.gnome.Builder",
+    "org.gnome.Calculator",
     "org.gnome.Calendar",
     "org.gnome.Characters",
     "org.gnome.Chess",
@@ -24,6 +25,7 @@
     "org.gnome.Gnote",
     "org.gnome.Hamster",
     "org.gnome.Logs",
+    "org.gnome.Lollypop",
     "org.gnome.Mahjongg",
     "org.gnome.Maps",
     "org.gnome.Music",
@@ -51,7 +53,6 @@
     "org.gnome.meld",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
-    "org.midori_browser.Midori",
     "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator"

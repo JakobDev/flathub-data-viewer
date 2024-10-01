@@ -1,6 +1,7 @@
 [
     "app.rednotebook.RedNotebook",
     "org.gnome.Boxes",
+    "org.gnome.Calculator",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",
     "org.gnome.Contacts",
@@ -23,7 +24,6 @@
     "org.gnome.five-or-more",
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
-    "org.midori_browser.Midori",
     "org.remmina.Remmina",
     "org.sugarlabs.Physics",
     "org.sugarlabs.ReadETexts",

@@ -11,5 +11,6 @@
     "org.gnome.five-or-more",
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
-    "org.widelands.Widelands"
+    "org.widelands.Widelands",
+    "org.x.Warpinator"
 ]

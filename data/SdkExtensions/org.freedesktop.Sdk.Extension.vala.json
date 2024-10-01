@@ -5,11 +5,9 @@
     "com.vysp3r.ProtonPlus",
     "finance.reckoner.Reckoner",
     "garden.turtle.Jellybean",
-    "io.github.Rirusha.Cassette",
     "io.github.halfmexican.Mingle",
     "io.kapsa.drive",
     "org.gnome.Boxes",
-    "org.gnome.Calculator",
     "org.gnome.Connections",
     "org.gnome.Contacts",
     "org.gnome.SwellFoop",
@@ -17,5 +15,6 @@
     "org.gnome.clocks",
     "org.localsend.localsend_app",
     "page.codeberg.JakobDev.jdTextEdit",
-    "re.sonny.Workbench"
+    "re.sonny.Workbench",
+    "space.rirusha.Cassette"
 ]

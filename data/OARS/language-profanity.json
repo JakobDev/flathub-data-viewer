@@ -231,7 +231,6 @@
         "com.github.rkoesters.xkcd-gtk",
         "com.realm667.Wolfenstein_Blade_of_Agony",
         "io.github.Foldex.r2mod",
-        "io.github.Rirusha.Cassette",
         "io.github.hurricangame.hurrican",
         "io.github.listen1.Listen1",
         "io.github.naikari.Naikari",
@@ -241,6 +240,7 @@
         "io.itch.amcsquad.amcsquad",
         "org.cataclysmdda.CataclysmDDA",
         "org.kryogenix.Pick",
-        "sh.fhs.KatawaShoujoReEngineered"
+        "sh.fhs.KatawaShoujoReEngineered",
+        "space.rirusha.Cassette"
     ]
 }

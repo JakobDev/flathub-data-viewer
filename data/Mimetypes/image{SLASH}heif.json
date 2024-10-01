@@ -3,6 +3,7 @@
     "io.gitlab.adhami3310.Converter",
     "org.darktable.Darktable",
     "org.gimp.GIMP",
+    "org.gnome.gitlab.YaLTeR.Identity",
     "org.kde.gwenview",
     "org.kde.kolourpaint",
     "org.libvips.vipsdisp",

@@ -18,7 +18,6 @@
     "fr.romainvigier.MetadataCleaner",
     "io.bassi.Amberol",
     "io.github.Foldex.AdwSteamGtk",
-    "io.github.Rirusha.Cassette",
     "io.github.bytezz.IPLookup",
     "io.github.diegoivanme.flowtime",
     "io.github.diegopvlk.Dosage",
@@ -107,6 +106,7 @@
     "org.gnome.font-viewer",
     "org.gnome.gThumb",
     "org.gnome.gedit",
+    "org.gnome.gitlab.YaLTeR.VideoTrimmer",
     "org.gnome.seahorse.Application",
     "org.inkscape.Inkscape",
     "org.kde.CrowTranslate",
@@ -135,5 +135,6 @@
     "org.videolan.VLC",
     "org.x.Warpinator",
     "org.xfce.mousepad",
-    "page.kramo.Cartridges"
+    "page.kramo.Cartridges",
+    "space.rirusha.Cassette"
 ]

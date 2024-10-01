@@ -5,6 +5,7 @@
     "org.darktable.Darktable",
     "org.gimp.GIMP",
     "org.gnome.Loupe",
+    "org.gnome.gitlab.YaLTeR.Identity",
     "org.kde.gwenview",
     "org.kde.kolourpaint",
     "org.kde.pix",

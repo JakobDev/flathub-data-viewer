@@ -10,6 +10,7 @@
         "io.qt.PySide.BaseApp",
         "io.qt.QtCreator",
         "net.xm1math.Texmaker",
+        "org.jacktrip.JackTrip",
         "org.jaspstats.JASP",
         "org.kde.akregator",
         "org.kde.angelfish",
@@ -59,7 +60,6 @@
         "io.github.nyre221.kiview",
         "io.qt.qtdesignstudio",
         "org.fcitx.Fcitx5",
-        "org.jacktrip.JackTrip",
         "org.previewqt.PreviewQt"
     ],
     "5.15": [

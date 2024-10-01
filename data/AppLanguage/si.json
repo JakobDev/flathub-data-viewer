@@ -2,6 +2,7 @@
     "app.rednotebook.RedNotebook",
     "io.github.seadve.Mousai",
     "org.freedesktop.fwupd",
+    "org.gnome.Calculator",
     "org.gnome.Evince",
     "org.gnome.Evolution",
     "org.gnome.Mahjongg",

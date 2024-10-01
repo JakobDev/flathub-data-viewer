@@ -1,6 +1,7 @@
 [
     "io.posidon.Paper",
     "org.gnome.Eolie",
+    "org.gnome.Lollypop",
     "org.gtkhash.gtkhash",
     "org.siril.Siril"
 ]

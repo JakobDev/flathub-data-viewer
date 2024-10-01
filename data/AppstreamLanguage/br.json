@@ -23,5 +23,6 @@
     "org.kde.gcompris",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
-    "org.videolan.VLC"
+    "org.videolan.VLC",
+    "org.x.Warpinator"
 ]

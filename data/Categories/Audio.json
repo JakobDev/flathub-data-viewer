@@ -75,7 +75,6 @@
     "info.smplayer.SMPlayer",
     "io.bassi.Amberol",
     "io.github.Predidit.Kazumi",
-    "io.github.Rirusha.Cassette",
     "io.github.Soundux",
     "io.github.TheWisker.Cavasik",
     "io.github.alexkdeveloper.radio",
@@ -188,7 +187,9 @@
     "org.tenacityaudio.Tenacity",
     "org.tildearrow.furnace",
     "org.zrythm.Zrythm",
+    "rocks.syng.Syng",
     "sh.xaviers.Opentapes",
+    "space.rirusha.Cassette",
     "tech.feliciano.pocket-casts",
     "xyz.parlatype.Parlatype",
     "xyz.safeworlds.midiconn"

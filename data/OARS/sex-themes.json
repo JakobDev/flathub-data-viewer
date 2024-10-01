@@ -191,7 +191,6 @@
         "games.zetsubou.HumanityMustPerish",
         "games.zetsubou.MaxMassacre",
         "games.zetsubou.SablesGrimoireDemo",
-        "io.github.Rirusha.Cassette",
         "io.github.endless_sky.endless_sky",
         "io.github.halfmexican.Mingle",
         "io.github.listen1.Listen1",
@@ -200,6 +199,7 @@
         "io.github.troyeguo.koodo-reader",
         "net.runelite.RuneLite",
         "org.gnome.gitlab.Cowsay",
+        "space.rirusha.Cassette",
         "tk.deat.Jazz2Resurrection"
     ],
     "intense": [

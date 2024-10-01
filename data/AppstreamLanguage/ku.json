@@ -9,5 +9,6 @@
     "org.gnome.baobab",
     "org.gnome.eog",
     "org.pitivi.Pitivi",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.x.Warpinator"
 ]

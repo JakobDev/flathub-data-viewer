@@ -8,5 +8,6 @@
     "org.bzflag.BZFlag",
     "org.gabmus.whatip",
     "org.nmap.Zenmap",
+    "rocks.syng.Syng",
     "uk.org.greenend.chiark.sgtatham.putty"
 ]

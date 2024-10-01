@@ -1,6 +1,7 @@
 [
     "net.supertuxkart.SuperTuxKart",
     "org.gimp.GIMP",
+    "org.gnome.Calculator",
     "org.gnome.Calendar",
     "org.gnome.Characters",
     "org.gnome.ColorViewer",
@@ -22,7 +23,6 @@
     "org.gnome.eog",
     "org.gnome.gedit",
     "org.megaglest.MegaGlest",
-    "org.midori_browser.Midori",
     "org.musescore.MuseScore",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",

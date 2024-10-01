@@ -23,7 +23,9 @@
         "page.codeberg.JakobDev.jdProcessFileWatcher",
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
-        "page.codeberg.JakobDev.jdTextEdit"
+        "page.codeberg.JakobDev.jdTextEdit",
+        "pw.mmk.OpenFreebuds",
+        "rocks.syng.Syng"
     ],
     "6.6": [
         "com.borgbase.Vorta",

@@ -4,5 +4,6 @@
     "io.github.betaflight.BetaflightConfigurator",
     "net.sourceforge.roccat.roccat-tools",
     "org.freedesktop.adriconf",
+    "pw.mmk.OpenFreebuds",
     "xyz.z3ntu.razergenie"
 ]

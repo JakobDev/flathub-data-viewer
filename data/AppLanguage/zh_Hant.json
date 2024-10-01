@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
     "com.github.unrud.VideoDownloader",
-    "io.gitlab.news_flash.NewsFlash"
+    "io.gitlab.news_flash.NewsFlash",
+    "org.gnome.Lollypop"
 ]

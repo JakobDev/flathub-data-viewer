@@ -6,6 +6,5 @@
     "org.gnome.atomix",
     "org.gnome.gThumb",
     "org.gnome.gedit",
-    "org.tuxpaint.Tuxpaint",
-    "org.x.Warpinator"
+    "org.tuxpaint.Tuxpaint"
 ]

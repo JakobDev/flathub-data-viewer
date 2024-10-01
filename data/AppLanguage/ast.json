@@ -6,6 +6,7 @@
     "net.sourceforge.liferea",
     "org.geany.Geany",
     "org.gimp.GIMP",
+    "org.gnome.Calculator",
     "org.gnome.Chess",
     "org.gnome.Contacts",
     "org.gnome.DejaDup",
@@ -25,8 +26,8 @@
     "org.gnome.five-or-more",
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
-    "org.midori_browser.Midori",
     "org.tuxpaint.Tuxpaint",
+    "org.x.Warpinator",
     "org.xfce.mousepad",
     "org.xfce.ristretto"
 ]

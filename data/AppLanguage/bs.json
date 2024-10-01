@@ -4,6 +4,7 @@
     "org.gimp.GIMP",
     "org.gnome.Boxes",
     "org.gnome.Builder",
+    "org.gnome.Calculator",
     "org.gnome.Chess",
     "org.gnome.ColorViewer",
     "org.gnome.Contacts",
@@ -40,7 +41,6 @@
     "org.gnome.meld",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
-    "org.midori_browser.Midori",
     "org.remmina.Remmina",
     "org.sugarlabs.Speak"
 ]

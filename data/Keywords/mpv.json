@@ -4,5 +4,6 @@
     "io.github.ecotubehq.player",
     "io.mpv.Mpv",
     "org.photoqt.PhotoQt",
-    "org.previewqt.PreviewQt"
+    "org.previewqt.PreviewQt",
+    "rocks.syng.Syng"
 ]

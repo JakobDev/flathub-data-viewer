@@ -12,7 +12,6 @@
     "com.sayonara_player.Sayonara",
     "com.vicr123.thebeat",
     "io.bassi.Amberol",
-    "io.github.Rirusha.Cassette",
     "io.github.cboxdoerfer.FSearch",
     "io.github.dagargo.Elektroid",
     "io.github.hrkfdn.ncspot",
@@ -26,6 +25,8 @@
     "org.gnome.EasyTAG",
     "org.js.nuclear.Nuclear",
     "org.musescore.MuseScore",
+    "rocks.syng.Syng",
     "sh.xaviers.Opentapes",
+    "space.rirusha.Cassette",
     "tv.kodi.Kodi"
 ]

@@ -24,6 +24,7 @@
     "com.mastermindzh.tidal-hifi",
     "com.netease.CloudMusic",
     "com.sayonara_player.Sayonara",
+    "com.spotify.Client",
     "com.stremio.Service",
     "com.stremio.Stremio",
     "com.theappgineer.community_remote",

@@ -4,11 +4,11 @@
         "com.fightcade.Fightcade",
         "com.unity.UnityHub",
         "dev.bambosh.UnofficialHomestuckCollection",
-        "io.github.Rirusha.Cassette",
         "io.github.endless_sky.endless_sky",
         "io.github.roseblume.rosary",
         "io.gpt4all.gpt4all",
-        "org.firestormviewer.FirestormViewer"
+        "org.firestormviewer.FirestormViewer",
+        "space.rirusha.Cassette"
     ],
     "none": [
         "app.fotema.Fotema",

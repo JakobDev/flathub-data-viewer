@@ -67,7 +67,6 @@
     "org.gnome.design.AppIconPreview",
     "org.gnome.design.SymbolicPreview",
     "org.gnome.design.VectorSlicer",
-    "org.gnome.gitlab.YaLTeR.Identity",
     "org.gnome.moserial",
     "org.karapulse.Karapulse",
     "org.quassel_irc.QuasselClient",
@@ -75,7 +74,6 @@
     "org.tabos.twofun",
     "org.viking.Viking",
     "org.wxhexeditor.wxHexEditor",
-    "org.x.Warpinator",
     "org.zim_wiki.Zim",
     "pm.mirko.Atoms",
     "re.sonny.Commit"

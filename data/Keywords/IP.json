@@ -1,4 +1,5 @@
 [
     "io.github.bytezz.IPLookup",
+    "io.github.vmkspv.netsleuth",
     "org.nmap.Zenmap"
 ]

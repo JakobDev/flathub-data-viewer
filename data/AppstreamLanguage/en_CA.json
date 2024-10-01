@@ -43,5 +43,6 @@
     "org.gnome.gThumb",
     "org.gnome.gedit",
     "org.gnome.meld",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.x.Warpinator"
 ]

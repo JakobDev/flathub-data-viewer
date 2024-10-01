@@ -1,7 +1,7 @@
 [
     "com.scoutshonour.Digital",
     "com.valvesoftware.Steam",
-    "io.github.accessory.minus_games_client",
+    "io.github.accessory.minus_games_gui",
     "org.winehq.Wine",
     "ru.linux_gaming.PortProton"
 ]

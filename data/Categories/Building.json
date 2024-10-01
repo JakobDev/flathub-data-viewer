@@ -2,5 +2,6 @@
     "com.bestaticpy.bestatic",
     "io.kinvolk.Headlamp",
     "org.sil.dictionary-app-builder",
+    "org.sil.reading-app-builder",
     "org.sil.scripture-app-builder"
 ]

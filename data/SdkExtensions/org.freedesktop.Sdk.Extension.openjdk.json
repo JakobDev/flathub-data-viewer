@@ -10,6 +10,7 @@
     "io.sourceforge.Pixelitor",
     "net.filebot.FileBot",
     "org.hdfgroup.HDFView",
+    "org.jdownloader.JDownloader",
     "org.jreleaser.cli",
     "org.octave.Octave",
     "org.texstudio.TeXstudio",

@@ -4,5 +4,6 @@
     "com.transmissionbt.Transmission",
     "org.gnome.Epiphany",
     "org.gnome.eog",
-    "org.videolan.VLC"
+    "org.videolan.VLC",
+    "org.x.Warpinator"
 ]

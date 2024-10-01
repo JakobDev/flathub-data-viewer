@@ -5,6 +5,7 @@
     "io.neovim.nvim",
     "org.exaile.Exaile",
     "org.gnome.Boxes",
+    "org.gnome.Calculator",
     "org.gnome.Calendar",
     "org.gnome.Characters",
     "org.gnome.Chess",
