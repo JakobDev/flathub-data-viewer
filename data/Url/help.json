@@ -437,6 +437,7 @@
     "io.podman_desktop.PodmanDesktop",
     "io.poez.Poezio",
     "io.qt.Designer",
+    "io.qt.qtdesignstudio",
     "io.sourceforge.chart_geany.chart-geany",
     "io.sourceforge.pysolfc.PySolFC",
     "io.sourceforge.qoobar.Qoobar",

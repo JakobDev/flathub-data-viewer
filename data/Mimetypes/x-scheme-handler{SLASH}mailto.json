@@ -10,5 +10,6 @@
     "org.claws_mail.Claws-Mail",
     "org.gnome.Evolution",
     "org.gnome.Geary",
-    "org.mozilla.Thunderbird"
+    "org.mozilla.Thunderbird",
+    "org.mozilla.firefox"
 ]

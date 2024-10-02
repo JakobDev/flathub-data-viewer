@@ -1017,6 +1017,7 @@
     "io.posidon.Paper",
     "io.qt.Designer",
     "io.qt.qdbusviewer",
+    "io.qt.qtdesignstudio",
     "io.seamly.seamly2d",
     "io.sourceforge.pentobi",
     "io.sourceforge.pipewalker.PipeWalker",

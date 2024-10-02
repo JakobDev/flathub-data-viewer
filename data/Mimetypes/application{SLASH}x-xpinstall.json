@@ -7,5 +7,6 @@
     "io.gitlab.librewolf-community",
     "net.mullvad.MullvadBrowser",
     "org.garudalinux.firedragon",
-    "org.gnome.Epiphany"
+    "org.gnome.Epiphany",
+    "org.mozilla.firefox"
 ]

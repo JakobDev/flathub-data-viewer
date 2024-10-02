@@ -13,5 +13,6 @@
     "org.blackfennec.app",
     "org.garudalinux.firedragon",
     "org.gnome.Builder",
-    "org.kde.itinerary"
+    "org.kde.itinerary",
+    "org.mozilla.firefox"
 ]

@@ -1,6 +1,7 @@
 [
     "app.authpass.AuthPass",
     "app.drey.Blurble",
+    "app.getclipboard.Clipboard",
     "app.getspace.Space",
     "app.gummi.gummi",
     "app.midterm.MidtermDesktop",
@@ -597,6 +598,7 @@
     "me.acristoffers.Lachesis",
     "me.drewol.Unnamed-SDVX-Clone",
     "me.dusansimic.DynamicWallpaper",
+    "me.iepure.Ticketbooth",
     "me.iepure.devtoolbox",
     "me.kozec.syncthingtk",
     "me.leucoso.Grock",
@@ -988,6 +990,7 @@
     "org.upbge.UPBGE",
     "org.upnproutercontrol.UPnPRouterControl",
     "org.vergecurrency.verge-qt",
+    "org.vertcoin.vertcoin-qt",
     "org.viking.Viking",
     "org.virt_manager.virt-viewer",
     "org.wfview.wfview",

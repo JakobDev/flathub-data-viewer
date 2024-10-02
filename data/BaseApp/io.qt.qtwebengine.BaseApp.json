@@ -9,6 +9,7 @@
         "io.mrarm.mcpelauncher",
         "io.qt.PySide.BaseApp",
         "io.qt.QtCreator",
+        "io.qt.qtdesignstudio",
         "net.xm1math.Texmaker",
         "org.jacktrip.JackTrip",
         "org.jaspstats.JASP",
@@ -58,7 +59,6 @@
         "com.github.jmlich.geotagging",
         "io.github.martinrotter.rssguard",
         "io.github.nyre221.kiview",
-        "io.qt.qtdesignstudio",
         "org.fcitx.Fcitx5",
         "org.previewqt.PreviewQt"
     ],

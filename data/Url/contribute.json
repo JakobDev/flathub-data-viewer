@@ -88,6 +88,7 @@
     "io.qt.Designer",
     "io.qt.Linguist",
     "io.qt.qdbusviewer",
+    "io.qt.qtdesignstudio",
     "io.sourceforge.pentobi",
     "io.sourceforge.pysolfc.PySolFC",
     "io.thenexusavenger.Nexus-LU-Launcher",
