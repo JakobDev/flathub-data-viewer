@@ -1194,6 +1194,7 @@
         "net.qsl.QSSTV",
         "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
+        "net.rpdev.OpenTodoList",
         "net.scribus.Scribus",
         "net.sonic_pi.SonicPi",
         "net.sourceforge.QtSpim",
@@ -1821,6 +1822,7 @@
         "net.qsl.QSSTV",
         "net.retrodeck.retrodeck",
         "net.rpcs3.RPCS3",
+        "net.rpdev.OpenTodoList",
         "net.scribus.Scribus",
         "net.sonic_pi.SonicPi",
         "net.sourceforge.QtSpim",
@@ -3059,6 +3061,7 @@
         "org.kde.kronometer",
         "org.keepassxc.KeePassXC",
         "org.libretro.RetroArch",
+        "org.nickvision.tubeconverter",
         "org.ppsspp.PPSSPP",
         "org.qutebrowser.qutebrowser",
         "org.signal.Signal",
@@ -3087,6 +3090,7 @@
         "io.github.kotatogram",
         "io.github.kukuruzka165.materialgram",
         "io.github.slgobinath.SafeEyes",
+        "io.unobserved.furtherance",
         "org.gajim.Gajim",
         "org.gnome.BreakTimer",
         "org.signal.Signal",
@@ -3465,6 +3469,7 @@
         "com.discordapp.Discord",
         "com.heroicgameslauncher.hgl",
         "im.riot.Riot",
+        "org.nickvision.tubeconverter",
         "org.remmina.Remmina",
         "xyz.hyperplay.HyperPlay"
     ],
@@ -3649,7 +3654,15 @@
         "com.quexten.Goldwarden",
         "dev.zed.Zed",
         "io.github.dweymouth.supersonic",
-        "org.gnome.Evolution"
+        "org.gnome.Evolution",
+        "org.gnome.seahorse.Application"
+    ],
+    "com.system76.CosmicSettingsDaemon": [
+        "com.jwestall.Forecast",
+        "dev.edfloreshz.CosmicTweaks",
+        "dev.edfloreshz.Tasks",
+        "dev.mariinkys.Oboete",
+        "dev.mariinkys.StarryDex"
     ],
     "org.elementary.Contractor": [
         "com.ktechpit.wonderwall"
@@ -3702,11 +3715,6 @@
         "de.schmidhuberj.Flare",
         "org.gnome.Calls",
         "sm.puri.Chatty"
-    ],
-    "com.system76.CosmicSettingsDaemon": [
-        "dev.edfloreshz.Tasks",
-        "dev.mariinkys.Oboete",
-        "dev.mariinkys.StarryDex"
     ],
     "org.gnome.Mutter.ScreenCast": [
         "eu.nokun.MirrorHall"
@@ -3973,6 +3981,9 @@
     ],
     "org.x.StatusIconMonitor.*": [
         "org.x.Warpinator"
+    ],
+    "org.mozilla.zotero.*": [
+        "org.zotero.Zotero"
     ],
     "org.freedesktop.portal.ScreenCast": [
         "sa.sy.bluerecorder"

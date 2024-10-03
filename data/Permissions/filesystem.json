@@ -126,6 +126,7 @@
         "com.logseq.Logseq",
         "com.lynnmichaelmartin.TimeTracker",
         "com.mattermost.Desktop",
+        "com.mikrotik.WinBox",
         "com.mongodb.Compass",
         "com.nickgirga.webready",
         "com.notepadqq.Notepadqq",
@@ -1974,6 +1975,7 @@
         "io.github.qtox.qTox",
         "io.github.tcobbs.LDView",
         "io.github.vikdevelop.SaveDesktop",
+        "io.unobserved.furtherance",
         "io.wavebox.Wavebox",
         "net.blix.BlueMail",
         "net.blockbench.Blockbench",
@@ -2053,6 +2055,7 @@
         "com.github.weclaw1.ImageRoll",
         "com.heroicgameslauncher.hgl",
         "com.itopia.client",
+        "com.mikrotik.WinBox",
         "com.prusa3d.PrusaSlicer",
         "com.sleepfiles.OSCAR",
         "com.thincast.client",
@@ -2128,6 +2131,7 @@
         "com.github.weclaw1.ImageRoll",
         "com.heroicgameslauncher.hgl",
         "com.itopia.client",
+        "com.mikrotik.WinBox",
         "com.prusa3d.PrusaSlicer",
         "com.sleepfiles.OSCAR",
         "com.thincast.client",
@@ -2649,6 +2653,7 @@
         "gg.guilded.Guilded",
         "io.github.milkshiift.GoofCord",
         "io.kapsa.drive",
+        "org.gnome.seahorse.Application",
         "org.gnunet.Messenger",
         "org.lyx.LyX",
         "sh.ppy.osu",
@@ -2799,6 +2804,7 @@
         "com.icons8.Lunacy",
         "com.itopia.client",
         "com.kristianduske.TrenchBroom",
+        "com.mikrotik.WinBox",
         "com.prusa3d.PrusaSlicer",
         "com.thincast.client",
         "com.vzhd1701.gridplayer",
@@ -2925,6 +2931,7 @@
         "com.github.qarmin.szyszka",
         "com.github.weclaw1.ImageRoll",
         "com.heroicgameslauncher.hgl",
+        "com.mikrotik.WinBox",
         "com.yacreader.YACReader",
         "dev.storyapps.starc",
         "io.github.accessory.minus_games_gui",
@@ -3476,6 +3483,12 @@
         "com.jetbrains.CLion",
         "com.jetbrains.IntelliJ-IDEA-Ultimate"
     ],
+    "xdg-config/cosmic:ro": [
+        "com.jwestall.Forecast",
+        "dev.edfloreshz.Tasks",
+        "dev.mariinkys.Oboete",
+        "dev.mariinkys.StarryDex"
+    ],
     "/sys:ro": [
         "com.leinardi.gst",
         "io.github.wazzaps.Fingerpaint",
@@ -3648,10 +3661,8 @@
         "dev.deedles.Trayscale",
         "org.fkoehler.KTailctl"
     ],
-    "xdg-config/cosmic:ro": [
-        "dev.edfloreshz.Tasks",
-        "dev.mariinkys.Oboete",
-        "dev.mariinkys.StarryDex"
+    "xdg-config/cosmic": [
+        "dev.edfloreshz.CosmicTweaks"
     ],
     "~/hdos:create": [
         "dev.hdos.HDOS"

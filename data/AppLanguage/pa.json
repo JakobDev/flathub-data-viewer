@@ -17,6 +17,7 @@
     "org.gnome.Evince",
     "org.gnome.Evolution",
     "org.gnome.Extensions",
+    "org.gnome.FileRoller",
     "org.gnome.GHex",
     "org.gnome.Gnote",
     "org.gnome.Hamster",

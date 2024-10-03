@@ -107,6 +107,7 @@
     "fm.reaper.Reaper",
     "fr.handbrake.ghb",
     "hu.irl.cameractrls",
+    "hu.irl.sysex-controls",
     "info.puredata.Pd-extended",
     "info.puredata.Pd",
     "info.smplayer.SMPlayer",

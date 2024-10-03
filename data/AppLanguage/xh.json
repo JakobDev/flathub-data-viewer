@@ -1,6 +1,7 @@
 [
     "org.gnome.Calculator",
     "org.gnome.Evolution",
+    "org.gnome.FileRoller",
     "org.gnome.Quadrapassel",
     "org.gnome.Totem",
     "org.gnome.eog",

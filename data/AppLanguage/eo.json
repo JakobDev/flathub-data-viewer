@@ -32,6 +32,7 @@
     "org.gnome.Evince",
     "org.gnome.Evolution",
     "org.gnome.Extensions",
+    "org.gnome.FileRoller",
     "org.gnome.FontManager",
     "org.gnome.Gnote",
     "org.gnome.Hamster",
