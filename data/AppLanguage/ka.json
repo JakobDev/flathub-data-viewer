@@ -64,6 +64,7 @@
     "org.gnome.design.AppIconPreview",
     "org.gnome.design.Contrast",
     "org.gnome.design.Emblem",
+    "org.gnome.design.IconLibrary",
     "org.gnome.design.Lorem",
     "org.gnome.dspy",
     "org.gnome.eog",

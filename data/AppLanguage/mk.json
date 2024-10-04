@@ -25,5 +25,6 @@
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
     "org.sugarlabs.Calculate",
-    "org.sugarlabs.Paint"
+    "org.sugarlabs.Paint",
+    "org.zrythm.Zrythm"
 ]

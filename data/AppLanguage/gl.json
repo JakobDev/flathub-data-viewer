@@ -77,7 +77,9 @@
     "org.gnome.design.AppIconPreview",
     "org.gnome.design.Contrast",
     "org.gnome.design.Emblem",
+    "org.gnome.design.IconLibrary",
     "org.gnome.design.Lorem",
+    "org.gnome.design.Palette",
     "org.gnome.dspy",
     "org.gnome.eog",
     "org.gnome.five-or-more",
@@ -105,5 +107,6 @@
     "org.xfce.mousepad",
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
+    "org.zrythm.Zrythm",
     "re.sonny.Commit"
 ]

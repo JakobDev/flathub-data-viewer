@@ -107,6 +107,7 @@
     "org.gnome.clocks",
     "org.gnome.design.AppIconPreview",
     "org.gnome.design.Emblem",
+    "org.gnome.design.IconLibrary",
     "org.gnome.design.Lorem",
     "org.gnome.dspy",
     "org.gnome.eog",
@@ -160,6 +161,7 @@
     "org.xfce.mousepad",
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
+    "org.zrythm.Zrythm",
     "page.kramo.Cartridges",
     "sm.puri.Chatty"
 ]

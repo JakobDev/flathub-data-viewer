@@ -2618,7 +2618,6 @@
         "net.mkiol.SpeechNote",
         "net.rpdev.OpenTodoList",
         "net.runelite.RuneLite",
-        "net.sourceforge.liferea",
         "net.waterfox.waterfox",
         "net.xmind.XMind",
         "network.loki.Session",
@@ -3085,7 +3084,6 @@
     "org.gnome.Mutter.IdleMonitor": [
         "chat.rocket.RocketChat",
         "com.jianguoyun.Nutstore",
-        "com.lakoliu.Furtherance",
         "io.github.bkbilly.lnxlink",
         "io.github.kotatogram",
         "io.github.kukuruzka165.materialgram",
