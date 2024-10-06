@@ -1,4 +1,5 @@
 [
+    "org.gnome.Aisleriot",
     "org.gnome.Calculator",
     "org.gnome.Epiphany",
     "org.gnome.Evince",
@@ -14,5 +15,6 @@
     "org.gnome.five-or-more",
     "org.gnome.gedit",
     "org.gnucash.GnuCash",
+    "org.inkscape.Inkscape",
     "org.tuxpaint.Tuxpaint"
 ]

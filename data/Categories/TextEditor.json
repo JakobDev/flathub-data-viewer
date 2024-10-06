@@ -41,6 +41,7 @@
     "org.gnu.emacs",
     "org.kde.kate",
     "org.kde.kwrite",
+    "org.lyx.LyX",
     "org.qownnotes.QOwnNotes",
     "org.qxmledit.QXmlEdit",
     "org.scintilla.SciTE",

@@ -4,7 +4,6 @@
         "org.freedesktop.Sdk.Compat.i386",
         "org.freedesktop.Sdk.Debug",
         "org.freedesktop.Sdk.Docs",
-        "org.freedesktop.Sdk.Extension.bazel",
         "org.freedesktop.Sdk.Extension.dmd",
         "org.freedesktop.Sdk.Extension.dotnet6",
         "org.freedesktop.Sdk.Extension.dotnet7",

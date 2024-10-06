@@ -1,6 +1,7 @@
 [
     "ca.desrt.dconf-editor",
     "org.gimp.GIMP",
+    "org.gnome.Aisleriot",
     "org.gnome.Boxes",
     "org.gnome.Calculator",
     "org.gnome.Calendar",
@@ -14,6 +15,7 @@
     "org.gnome.Evolution",
     "org.gnome.FileRoller",
     "org.gnome.Gnote",
+    "org.gnome.Gtranslator",
     "org.gnome.Hamster",
     "org.gnome.Logs",
     "org.gnome.Mahjongg",
@@ -38,6 +40,7 @@
     "org.gnome.gitg",
     "org.gnome.meld",
     "org.gnome.seahorse.Application",
+    "org.inkscape.Inkscape",
     "org.kde.skrooge",
     "org.musescore.MuseScore",
     "org.pulseaudio.pavucontrol",

@@ -1,6 +1,7 @@
 [
     "com.tux4kids.tuxtype",
     "io.github.Hexchat",
+    "org.gnome.Aisleriot",
     "org.gnome.Boxes",
     "org.gnome.Calculator",
     "org.gnome.Chess",
@@ -30,6 +31,7 @@
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
     "org.gnucash.GnuCash",
+    "org.inkscape.Inkscape",
     "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator"

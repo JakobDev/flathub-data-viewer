@@ -1,5 +1,6 @@
 [
     "org.gimp.GIMP",
+    "org.gnome.Aisleriot",
     "org.gnome.Boxes",
     "org.gnome.Calculator",
     "org.gnome.Chess",
@@ -27,6 +28,7 @@
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
     "org.gnucash.GnuCash",
+    "org.inkscape.Inkscape",
     "org.learningequality.Kolibri",
     "org.pulseaudio.pavucontrol",
     "org.sugarlabs.Calculate",

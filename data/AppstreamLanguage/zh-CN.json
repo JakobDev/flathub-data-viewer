@@ -155,5 +155,6 @@
     "org.kde.umbrello",
     "org.kde.vvave",
     "org.kde.yakuake",
-    "org.stellarium.Stellarium"
+    "org.stellarium.Stellarium",
+    "rs.ruffle.Ruffle"
 ]

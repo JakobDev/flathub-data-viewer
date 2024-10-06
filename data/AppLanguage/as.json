@@ -1,5 +1,6 @@
 [
     "com.tux4kids.tuxtype",
+    "org.gnome.Aisleriot",
     "org.gnome.Boxes",
     "org.gnome.Calculator",
     "org.gnome.Chess",
@@ -31,6 +32,7 @@
     "org.gnome.gitg",
     "org.gnome.seahorse.Application",
     "org.gnucash.GnuCash",
+    "org.inkscape.Inkscape",
     "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint"
 ]

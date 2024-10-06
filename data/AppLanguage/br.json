@@ -1,6 +1,7 @@
 [
     "net.supertuxkart.SuperTuxKart",
     "org.gimp.GIMP",
+    "org.gnome.Aisleriot",
     "org.gnome.Epiphany",
     "org.gnome.Evince",
     "org.gnome.FileRoller",
@@ -12,6 +13,7 @@
     "org.gnome.five-or-more",
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
+    "org.inkscape.Inkscape",
     "org.widelands.Widelands",
     "org.x.Warpinator"
 ]

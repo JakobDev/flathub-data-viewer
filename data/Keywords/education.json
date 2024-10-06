@@ -1,6 +1,7 @@
 [
     "cat.xtec.clic.JClic",
     "com.github.Murmele.scram",
+    "cz.cvut.edu.comparch.qtrvsim",
     "info.bibletime.BibleTime",
     "io.github.wxmaxima_developers.wxMaxima",
     "org.endlessos.Key",

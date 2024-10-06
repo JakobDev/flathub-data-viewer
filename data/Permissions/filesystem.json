@@ -429,6 +429,7 @@
         "org.libvips.vipsdisp",
         "org.linuxshowplayer.LinuxShowPlayer",
         "org.lvnauth.LVNAuth",
+        "org.lyx.LyX",
         "org.mamedev.MAME",
         "org.mavlink.qgroundcontrol",
         "org.mfek.MFEKglif",
@@ -2011,7 +2012,6 @@
         "org.kde.cantor",
         "org.kde.marknote",
         "org.kde.rocs",
-        "org.lyx.LyX",
         "org.msweet.htmldoc",
         "org.nongnu.Xlog",
         "org.omegat.OmegaT",
@@ -2654,7 +2654,6 @@
         "io.kapsa.drive",
         "org.gnome.seahorse.Application",
         "org.gnunet.Messenger",
-        "org.lyx.LyX",
         "sh.ppy.osu",
         "xyz.armcord.ArmCord"
     ],
@@ -3482,11 +3481,9 @@
         "com.jetbrains.CLion",
         "com.jetbrains.IntelliJ-IDEA-Ultimate"
     ],
-    "xdg-config/cosmic:ro": [
+    "xdg-config/cosmic": [
         "com.jwestall.Forecast",
-        "dev.edfloreshz.Tasks",
-        "dev.mariinkys.Oboete",
-        "dev.mariinkys.StarryDex"
+        "dev.edfloreshz.CosmicTweaks"
     ],
     "/sys:ro": [
         "com.leinardi.gst",
@@ -3660,8 +3657,10 @@
         "dev.deedles.Trayscale",
         "org.fkoehler.KTailctl"
     ],
-    "xdg-config/cosmic": [
-        "dev.edfloreshz.CosmicTweaks"
+    "xdg-config/cosmic:ro": [
+        "dev.edfloreshz.Tasks",
+        "dev.mariinkys.Oboete",
+        "dev.mariinkys.StarryDex"
     ],
     "~/hdos:create": [
         "dev.hdos.HDOS"

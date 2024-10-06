@@ -8,6 +8,7 @@
     "org.freedesktop.appstream.cli",
     "org.geeqie.Geeqie",
     "org.gimp.GIMP",
+    "org.gnome.Aisleriot",
     "org.gnome.Boxes",
     "org.gnome.Builder",
     "org.gnome.Calculator",
@@ -24,6 +25,7 @@
     "org.gnome.FileRoller",
     "org.gnome.GHex",
     "org.gnome.Gnote",
+    "org.gnome.Gtranslator",
     "org.gnome.Hamster",
     "org.gnome.Logs",
     "org.gnome.Lollypop",
@@ -54,6 +56,7 @@
     "org.gnome.meld",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
+    "org.inkscape.Inkscape",
     "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator"

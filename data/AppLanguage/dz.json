@@ -1,11 +1,13 @@
 [
     "org.gimp.GIMP",
+    "org.gnome.Aisleriot",
     "org.gnome.Calculator",
     "org.gnome.Epiphany",
     "org.gnome.Evince",
     "org.gnome.Evolution",
     "org.gnome.FileRoller",
     "org.gnome.GHex",
+    "org.gnome.Gtranslator",
     "org.gnome.Mahjongg",
     "org.gnome.Nibbles",
     "org.gnome.Papers",

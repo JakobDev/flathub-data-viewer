@@ -1,5 +1,6 @@
 [
     "org.gimp.GIMP",
+    "org.gnome.Aisleriot",
     "org.gnome.Boxes",
     "org.gnome.Calculator",
     "org.gnome.Chess",
@@ -17,6 +18,7 @@
     "org.gnome.eog",
     "org.gnome.five-or-more",
     "org.gnome.gedit",
+    "org.inkscape.Inkscape",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Calculate",
     "org.sugarlabs.Dimensions",

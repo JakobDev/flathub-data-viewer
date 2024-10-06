@@ -14,7 +14,6 @@
     "org.kde.*": [
         "com.alovoa.alovoa-electron",
         "com.codemouse92.timecard",
-        "com.discordapp.Discord",
         "com.dropbox.Client",
         "com.hunterwittenborn.Celeste",
         "com.sayonara_player.Sayonara",

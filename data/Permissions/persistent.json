@@ -1,4 +1,20 @@
 {
+    ".": [
+        "app.getspace.Space",
+        "cern.root.ROOT",
+        "com.github.corna.Vivado",
+        "com.hamrick.VueScan",
+        "com.heroicgameslauncher.hgl",
+        "com.parsecgaming.parsec",
+        "com.tonikelope.MegaBasterd",
+        "com.valvesoftware.Steam",
+        "de.billardgl.Billardgl",
+        "edu.berkeley.BOINC",
+        "io.github.santiagocezar.maniatic-launcher",
+        "io.github.sharkwouter.Minigalaxy",
+        "net.sourceforge.lgames.LPairs2",
+        "xyz.hyperplay.HyperPlay"
+    ],
     ".receitanet": [
         "br.gov.fazenda.receita.irpf2022",
         "br.gov.fazenda.receita.irpf2023",
@@ -28,21 +44,6 @@
     ],
     ".assaultcube-reloaded": [
         "ca.victorz.acr.AssaultCubeReloaded"
-    ],
-    ".": [
-        "cern.root.ROOT",
-        "com.github.corna.Vivado",
-        "com.hamrick.VueScan",
-        "com.heroicgameslauncher.hgl",
-        "com.parsecgaming.parsec",
-        "com.tonikelope.MegaBasterd",
-        "com.valvesoftware.Steam",
-        "de.billardgl.Billardgl",
-        "edu.berkeley.BOINC",
-        "io.github.santiagocezar.maniatic-launcher",
-        "io.github.sharkwouter.Minigalaxy",
-        "net.sourceforge.lgames.LPairs2",
-        "xyz.hyperplay.HyperPlay"
     ],
     ".adobe": [
         "com.adobe.Reader"
