@@ -1,7 +1,6 @@
 [
     "app.authpass.AuthPass",
     "app.bluebubbles.BlueBubbles",
-    "app.getclipboard.Clipboard",
     "app.kaiteki.Kaiteki",
     "app.midterm.MidtermDesktop",
     "app.moosync.moosync",

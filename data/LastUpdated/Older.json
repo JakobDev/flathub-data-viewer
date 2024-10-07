@@ -1,7 +1,6 @@
 [
     "app.authpass.AuthPass",
     "app.drey.Blurble",
-    "app.getclipboard.Clipboard",
     "app.getspace.Space",
     "app.gummi.gummi",
     "app.midterm.MidtermDesktop",
@@ -32,6 +31,7 @@
     "cn.navclub.ldbfx",
     "co.headsetapp.headset",
     "co.luoja.Telyn",
+    "codes.loers.Karlender",
     "codes.loers.Punchclock",
     "codes.nora.gDiceRoller",
     "com.abagames.noiz2sa",
@@ -256,6 +256,7 @@
     "com.notepadqq.Notepadqq",
     "com.okta.developer.CLI",
     "com.ownrwallet.wallet",
+    "com.ozmartians.VidCutter",
     "com.parallax.PropellerIDE",
     "com.pinegrow.Pinegrow",
     "com.play0ad.zeroad",

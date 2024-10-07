@@ -2015,6 +2015,7 @@
         "x-scheme-handler{SLASH}tn3270s",
         "x-scheme-handler{SLASH}todoist",
         "x-scheme-handler{SLASH}tokodon",
+        "x-scheme-handler{SLASH}tonsite",
         "x-scheme-handler{SLASH}tox",
         "x-scheme-handler{SLASH}ts3server",
         "x-scheme-handler{SLASH}tswift",
