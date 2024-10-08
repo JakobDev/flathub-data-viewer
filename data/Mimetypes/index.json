@@ -1814,6 +1814,7 @@
         "x-scheme-handler{SLASH}enpassauth",
         "x-scheme-handler{SLASH}enpasscard",
         "x-scheme-handler{SLASH}enpassstart",
+        "x-scheme-handler{SLASH}enteauth",
         "x-scheme-handler{SLASH}et",
         "x-scheme-handler{SLASH}ethereum",
         "x-scheme-handler{SLASH}everest",

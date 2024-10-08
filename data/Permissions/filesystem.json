@@ -141,6 +141,7 @@
         "com.redis.RedisInsight",
         "com.richwhitehouse.BigPEmu",
         "com.rosegardenmusic.rosegarden",
+        "com.rustdesk.RustDesk",
         "com.serveftp.officefactoring",
         "com.sigil_ebook.Sigil",
         "com.simulide.simulide",
@@ -332,6 +333,7 @@
         "net.sourceforge.efaxgtk",
         "net.sourceforge.electrip.Electrip",
         "net.sourceforge.fspclient",
+        "net.sourceforge.fuse_emulator.Fuse",
         "net.sourceforge.kmetronome",
         "net.sourceforge.kmidimon",
         "net.sourceforge.qtpfsgui.LuminanceHDR",
@@ -489,7 +491,6 @@
         "page.codeberg.lazyt.ubpm",
         "pro.vpup.vpuppr",
         "re.rizin.cutter",
-        "re.sonny.Commit",
         "rs.ruffle.Ruffle",
         "sa.sy.bluerecorder",
         "se.sjoerd.GIScan",
@@ -1431,6 +1432,7 @@
         "com.tutanota.Tutanota",
         "com.virustotal.VirusTotalUploader",
         "de.leopoldluley.Clapgrep",
+        "dev.fredol.open-tv",
         "dev.levz.TinyImageFinder",
         "info.cemu.Cemu",
         "io.github.jorchube.monitorets",
@@ -1776,6 +1778,7 @@
         "org.zaproxy.ZAP",
         "page.codeberg.JakobDev.jdTextEdit",
         "page.kramo.Cartridges",
+        "re.sonny.Commit",
         "rocks.koreader.KOReader",
         "ru.linux_gaming.PortProton",
         "se.cendio.tlclient",
@@ -2515,6 +2518,7 @@
         "com.viber.Viber",
         "com.wps.Office",
         "de.marlam.gencolormap",
+        "dev.fredol.open-tv",
         "dev.vieb.Vieb",
         "eu.ngdevelopment.tsukitag",
         "in.bharatkalluri.splash",
@@ -2588,6 +2592,7 @@
         "com.uploadedlobster.peek",
         "com.viber.Viber",
         "com.wps.Office",
+        "dev.fredol.open-tv",
         "dev.vieb.Vieb",
         "io.github.KikoPlayProject.KikoPlay",
         "io.github.aggalex.Wineglass",
@@ -3192,6 +3197,13 @@
     "xdg-documents/EDuke32:create": [
         "com.eduke32.EDuke32"
     ],
+    "xdg-config/cosmic:ro": [
+        "com.francescogaglione.chronos",
+        "dev.edfloreshz.Calculator",
+        "dev.edfloreshz.Tasks",
+        "dev.mariinkys.Oboete",
+        "dev.mariinkys.StarryDex"
+    ],
     "~/.ssh:ro": [
         "com.gitbutler.gitbutler",
         "com.github.alecaddd.sequeler",
@@ -3250,6 +3262,7 @@
         "com.github.wwmm.easyeffects",
         "com.unicornsonlsd.finamp",
         "com.wire.WireDesktop",
+        "dev.fredol.open-tv",
         "dev.toastbits.spmp",
         "dev.vieb.Vieb",
         "info.mumble.Mumble",
@@ -3262,6 +3275,7 @@
         "io.mpv.Mpv",
         "me.timschneeberger.jdsp4linux",
         "org.qutebrowser.qutebrowser",
+        "org.syntalos.syntalos",
         "ru.linux_gaming.PortProton",
         "to.us.scrollprotocol.Profectus"
     ],
@@ -3342,6 +3356,7 @@
     "/run/docker.sock": [
         "com.github.inercia.k3x",
         "com.github.sdv43.whaler",
+        "io.github.buonhobo.Katharsis",
         "io.podman_desktop.PodmanDesktop"
     ],
     "~/.cert:create": [
@@ -3656,11 +3671,6 @@
     "/run/tailscale:ro": [
         "dev.deedles.Trayscale",
         "org.fkoehler.KTailctl"
-    ],
-    "xdg-config/cosmic:ro": [
-        "dev.edfloreshz.Tasks",
-        "dev.mariinkys.Oboete",
-        "dev.mariinkys.StarryDex"
     ],
     "~/hdos:create": [
         "dev.hdos.HDOS"

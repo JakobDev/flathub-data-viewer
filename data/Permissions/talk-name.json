@@ -2279,6 +2279,7 @@
         "in.cinny.Cinny",
         "info.mumble.Mumble",
         "io.botfather.Botfather",
+        "io.ente.auth",
         "io.gdevelop.ide",
         "io.github.Fndroid.clash_for_windows",
         "io.github.Icalingua.Icalingua",
@@ -2560,6 +2561,7 @@
         "io.conduktor.Conduktor",
         "io.dbeaver.DBeaverCommunity",
         "io.enpass.Enpass",
+        "io.ente.auth",
         "io.gdevelop.ide",
         "io.github.Fndroid.clash_for_windows",
         "io.github.Hexchat",
@@ -3140,6 +3142,7 @@
         "com.vivaldi.Vivaldi",
         "de.willuhn.Jameica",
         "dev.aunetx.deezer",
+        "dev.fredol.open-tv",
         "edu.stanford.Almond",
         "io.freetubeapp.FreeTube",
         "io.github.fsobolev.TimeSwitch",
@@ -3471,6 +3474,16 @@
         "org.remmina.Remmina",
         "xyz.hyperplay.HyperPlay"
     ],
+    "com.system76.CosmicSettingsDaemon": [
+        "com.francescogaglione.chronos",
+        "com.jwestall.Forecast",
+        "dev.edfloreshz.Calculator",
+        "dev.edfloreshz.CosmicTweaks",
+        "dev.edfloreshz.Tasks",
+        "dev.mariinkys.Oboete",
+        "dev.mariinkys.StarryDex",
+        "io.github.wiiznokes.fan-control"
+    ],
     "org.a11y.Bus": [
         "com.ghostery.browser",
         "com.humatarayici.od",
@@ -3654,13 +3667,6 @@
         "io.github.dweymouth.supersonic",
         "org.gnome.Evolution",
         "org.gnome.seahorse.Application"
-    ],
-    "com.system76.CosmicSettingsDaemon": [
-        "com.jwestall.Forecast",
-        "dev.edfloreshz.CosmicTweaks",
-        "dev.edfloreshz.Tasks",
-        "dev.mariinkys.Oboete",
-        "dev.mariinkys.StarryDex"
     ],
     "org.elementary.Contractor": [
         "com.ktechpit.wonderwall"

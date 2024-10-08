@@ -30,7 +30,6 @@
         "org.godotengine.GodotSharp",
         "org.lvnauth.LVNAuth",
         "org.scintilla.SciTE",
-        "org.vim.Vim",
         "uno.platform.uno-calculator"
     ],
     "24.08": [
@@ -53,7 +52,8 @@
         "io.neovim.nvim",
         "net.blix.BlueMail",
         "org.kicad.KiCad",
-        "org.thonny.Thonny"
+        "org.thonny.Thonny",
+        "org.vim.Vim"
     ],
     "21.08": [
         "com.okta.developer.CLI",

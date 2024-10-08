@@ -1,3 +1,4 @@
 [
-    "com.belmoussaoui.Authenticator"
+    "com.belmoussaoui.Authenticator",
+    "io.ente.auth"
 ]

@@ -7,6 +7,7 @@
         "AGPL-3.0",
         "AGPL-3.0+",
         "AGPL-3.0-only",
+        "AGPL-3.0-only{SPACE}WITH{SPACE}GPL-3.0-linking-exc",
         "AGPL-3.0-or-later",
         "Apache-2.0",
         "Apache-2.0{SPACE}WITH{SPACE}LLVM-exception",

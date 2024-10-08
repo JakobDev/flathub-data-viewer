@@ -1,4 +1,5 @@
 [
     "com.belmoussaoui.Authenticator",
+    "io.ente.auth",
     "io.github.jhaygood86.mauborgne"
 ]

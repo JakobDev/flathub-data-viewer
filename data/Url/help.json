@@ -1,6 +1,7 @@
 [
     "app.bluebubbles.BlueBubbles",
     "app.drey.Damask",
+    "app.drey.Dialect",
     "app.getclipboard.Clipboard",
     "app.gummi.gummi",
     "app.midterm.MidtermDesktop",
@@ -271,6 +272,7 @@
     "de.z_ray.Facetracker",
     "dev.aunetx.deezer",
     "dev.bragefuglseth.Keypunch",
+    "dev.fredol.open-tv",
     "dev.gbstudio.gb-studio",
     "dev.goats.xivlauncher",
     "dev.k8slens.OpenLens",
@@ -470,6 +472,7 @@
     "net.hovancik.Stretchly",
     "net.imaginaryinfinity.Squiid",
     "net.jammr.jammr",
+    "net.krafting.PedantiK",
     "net.krafting.Playlifin",
     "net.krafting.PlaylifinVoyager",
     "net.krafting.PleasureDVR",

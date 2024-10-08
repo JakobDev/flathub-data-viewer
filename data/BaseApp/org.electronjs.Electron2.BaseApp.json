@@ -14,7 +14,6 @@
         "com.airtame.Client",
         "com.baidu.NetDisk",
         "com.beavernotes.beavernotes",
-        "com.boxy_svg.BoxySVG",
         "com.budgetwithbuckets.Buckets",
         "com.fightcade.Fightcade",
         "com.gamestarmechanic.gamestarmechanic",
@@ -157,13 +156,13 @@
         "org.js.nuclear.Nuclear",
         "org.nanuc.Axolotl",
         "se.manyver.Manyverse",
-        "tech.feliciano.pocket-casts",
-        "xyz.armcord.ArmCord"
+        "tech.feliciano.pocket-casts"
     ],
     "24.08": [
         "cc.arduino.IDE2",
         "chat.rocket.RocketChat",
         "com.axosoft.GitKraken",
+        "com.boxy_svg.BoxySVG",
         "com.discordapp.Discord",
         "com.mastermindzh.tidal-hifi",
         "com.mongodb.Compass",
@@ -192,7 +191,8 @@
         "org.expresslrs.ExpressLRSConfigurator",
         "org.jamovi.jamovi",
         "org.jitsi.jitsi-meet",
-        "org.signal.Signal"
+        "org.signal.Signal",
+        "xyz.armcord.ArmCord"
     ],
     "21.08": [
         "com.basemark.BasemarkGPU",

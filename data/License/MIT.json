@@ -288,6 +288,7 @@
     "org.freedesktop.Sdk.Extension.node16",
     "org.freedesktop.Sdk.Extension.node18",
     "org.freedesktop.Sdk.Extension.node20",
+    "org.freedesktop.Sdk.Extension.node22",
     "org.freedesktop.Sdk.Extension.ziglang",
     "org.freedesktop.Sdk",
     "org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime",
