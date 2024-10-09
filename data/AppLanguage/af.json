@@ -1,6 +1,7 @@
 [
     "app.drey.MultiplicationPuzzle",
     "ca.desrt.dconf-editor",
+    "com.github.PintaProject.Pinta",
     "fr.handbrake.ghb",
     "io.neovim.nvim",
     "org.exaile.Exaile",

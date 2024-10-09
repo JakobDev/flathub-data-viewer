@@ -70,6 +70,7 @@
     "io.github.diegoivan.pdf_metadata_editor",
     "io.github.diegopvlk.Dosage",
     "io.github.ecotubehq.player",
+    "io.github.finefindus.Hieroglyphic",
     "io.github.fkinoshita.Telegraph",
     "io.github.fsobolev.TimeSwitch",
     "io.github.giantpinkrobots.flatsweep",
@@ -415,6 +416,7 @@
     "page.kramo.Cartridges",
     "re.sonny.Commit",
     "re.sonny.Tangram",
+    "rs.ruffle.Ruffle",
     "sm.puri.Chatty",
     "ua.org.brezblock.q4wine",
     "xyz.parlatype.Parlatype"

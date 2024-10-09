@@ -1,7 +1,6 @@
 [
     "io.github.dxx_rebirth.dxx-rebirth",
     "io.github.fragglet.sdl_sopwith",
-    "net.sf.fuse_emulator",
     "net.sourceforge.fuse_emulator.Fuse",
     "org.opensurge2d.OpenSurge",
     "org.pegasus_frontend.Pegasus"

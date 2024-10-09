@@ -2,6 +2,7 @@
     "description": "Shows all Apps with the given BaseApp",
     "data": [
         "com.riverbankcomputing.PyQt.BaseApp",
+        "com.system76.Cosmic.BaseApp",
         "io.atom.electron.BaseApp",
         "io.elementary.BaseApp",
         "io.liri.BaseApp",

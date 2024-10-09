@@ -1,5 +1,6 @@
 [
     "app.rednotebook.RedNotebook",
+    "com.github.PintaProject.Pinta",
     "com.github.debauchee.barrier",
     "org.gnome.Calculator",
     "org.gnome.DejaDup",
