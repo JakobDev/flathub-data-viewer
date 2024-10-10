@@ -1405,6 +1405,7 @@
         "uk.org.zint.zint-qt",
         "website.i2pd.i2pd",
         "xyz.mx_moment.moment",
+        "xyz.rust4diva.Rust4Diva",
         "xyz.z3ntu.razergenie"
     ],
     "/var/lib/flatpak": [
@@ -3817,11 +3818,18 @@
         "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "re.sonny.Junction"
     ],
+    "host-os": [
+        "io.github.elevenhsoft.WebApps",
+        "io.github.realmazharhussain.GdmSettings"
+    ],
     "~/.local/share/flatpak:ro": [
         "io.github.elevenhsoft.WebApps",
         "io.github.flattool.Warehouse",
         "org.freedesktop.appstream-glib",
         "org.freedesktop.appstream.cli"
+    ],
+    "~/.local/share/quick-webapps:create": [
+        "io.github.elevenhsoft.WebApps"
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Celeste": [
         "io.github.everestapi.Olympus"
@@ -4003,9 +4011,6 @@
     ],
     "~/.var/app/org.ryujinx.Ryujinx/config/Ryujinx": [
         "io.github.randovania.Randovania"
-    ],
-    "host-os": [
-        "io.github.realmazharhussain.GdmSettings"
     ],
     "xdg-config/monitors.xml:ro": [
         "io.github.realmazharhussain.GdmSettings"

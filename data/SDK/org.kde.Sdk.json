@@ -10,6 +10,7 @@
         "com.github.LongSoft.UEFITool",
         "com.github.Rosalie241.RMG",
         "com.github.dynobo.normcap",
+        "com.github.hluk.copyq",
         "com.github.scrivanolabs.scrivano",
         "com.github.unrud.djpdf",
         "com.gitlab.tipp10.tipp10",
@@ -279,7 +280,8 @@
         "pw.mmk.OpenFreebuds",
         "rocks.syng.Syng",
         "space.nouspiro.tenmon",
-        "uk.org.zint.zint-qt"
+        "uk.org.zint.zint-qt",
+        "xyz.rust4diva.Rust4Diva"
     ],
     "5.15-23.08": [
         "app.cantara.Cantara",
@@ -296,7 +298,6 @@
         "com.github.elth0r0.iqpuzzle",
         "com.github.fontmatrix.Fontmatrix",
         "com.github.git_cola.git-cola",
-        "com.github.hluk.copyq",
         "com.github.iwalton3.jellyfin-media-player",
         "com.github.makhber.Makhber",
         "com.github.powertab.powertabeditor",
@@ -307,6 +308,7 @@
         "com.haysell.pos",
         "com.interversehq.qView",
         "com.js8call.JS8Call",
+        "com.ktechpit.colorwall",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.makemkv.MakeMKV",
@@ -576,7 +578,6 @@
         "com.github.varnholt.dynablaster_revenge",
         "com.gitlab.Murmele.UDPLogger",
         "com.icanblink.blink",
-        "com.ktechpit.colorwall",
         "com.ktechpit.orion",
         "com.ktechpit.torrhunt",
         "com.nitrokey.nitrokey-app",

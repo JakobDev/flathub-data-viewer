@@ -154,8 +154,7 @@
         "org.getoutline.OutlineClient",
         "org.js.nuclear.Nuclear",
         "org.nanuc.Axolotl",
-        "se.manyver.Manyverse",
-        "tech.feliciano.pocket-casts"
+        "se.manyver.Manyverse"
     ],
     "24.08": [
         "cc.arduino.IDE2",
@@ -192,6 +191,7 @@
         "org.jamovi.jamovi",
         "org.jitsi.jitsi-meet",
         "org.signal.Signal",
+        "tech.feliciano.pocket-casts",
         "xyz.armcord.ArmCord"
     ],
     "21.08": [

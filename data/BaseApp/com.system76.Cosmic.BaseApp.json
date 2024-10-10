@@ -2,6 +2,7 @@
     "stable": [
         "dev.edfloreshz.Calculator",
         "dev.edfloreshz.CosmicTweaks",
-        "dev.edfloreshz.Tasks"
+        "dev.edfloreshz.Tasks",
+        "io.github.elevenhsoft.WebApps"
     ]
 }

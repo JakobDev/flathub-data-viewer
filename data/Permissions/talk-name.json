@@ -904,12 +904,14 @@
         "space.fips.Fips",
         "space.nouspiro.tenmon",
         "studio.kx.carla",
+        "tech.feliciano.pocket-casts",
         "tr.com.ikooskar.ikoOSKAR",
         "ua.org.brezblock.q4wine",
         "uk.co.piggz.amazfish",
         "uk.org.zint.zint-qt",
         "website.i2pd.i2pd",
         "xyz.mx_moment.moment",
+        "xyz.rust4diva.Rust4Diva",
         "xyz.z3ntu.razergenie"
     ],
     "org.kde.kconfig.notify": [
@@ -1546,6 +1548,7 @@
         "uk.org.zint.zint-qt",
         "website.i2pd.i2pd",
         "xyz.mx_moment.moment",
+        "xyz.rust4diva.Rust4Diva",
         "xyz.z3ntu.razergenie"
     ],
     "org.kde.KGlobalSettings": [
@@ -2169,6 +2172,7 @@
         "uk.org.zint.zint-qt",
         "website.i2pd.i2pd",
         "xyz.mx_moment.moment",
+        "xyz.rust4diva.Rust4Diva",
         "xyz.z3ntu.razergenie"
     ],
     "org.kde.StatusNotifierWatcher": [

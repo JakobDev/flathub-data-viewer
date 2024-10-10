@@ -323,6 +323,9 @@
         "io.appflowy.AppFlowy",
         "vn.hoabinh.quan.CoBang"
     ],
+    "net.reactivated.Fprint": [
+        "io.ente.auth"
+    ],
     "org.freedesktop.systemd1": [
         "io.github.bkbilly.lnxlink",
         "io.missioncenter.MissionCenter",
