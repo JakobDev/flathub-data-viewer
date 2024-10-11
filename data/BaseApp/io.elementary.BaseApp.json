@@ -6,7 +6,6 @@
         "com.github.devalien.workspaces",
         "com.github.gijsgoudzwaard.image-optimizer",
         "com.github.muriloventuroso.pdftricks",
-        "com.github.phase1geo.minder",
         "com.github.rajsolai.textsnatcher",
         "com.github.subhadeepjasu.pebbles",
         "com.github.treagod.spectator"
@@ -27,6 +26,7 @@
         "com.github.dahenson.agenda",
         "com.github.louis77.tuner",
         "com.github.muriloventuroso.givemelyrics",
+        "com.github.phase1geo.minder",
         "com.github.philip_scott.spice-up"
     ],
     "juno-21.08": [

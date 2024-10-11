@@ -122,7 +122,6 @@
     "22.08": [
         "camp.nook.nookdesktop",
         "chat.quadrix.Quadrix",
-        "chat.revolt.RevoltDesktop",
         "chat.tandem.Client",
         "co.headsetapp.headset",
         "com.alovoa.alovoa-electron",
@@ -158,6 +157,7 @@
     ],
     "24.08": [
         "cc.arduino.IDE2",
+        "chat.revolt.RevoltDesktop",
         "chat.rocket.RocketChat",
         "com.axosoft.GitKraken",
         "com.boxy_svg.BoxySVG",

@@ -26,6 +26,7 @@
         "org.freedesktop.Sdk.Extension.node16",
         "org.freedesktop.Sdk.Extension.node18",
         "org.freedesktop.Sdk.Extension.node20",
+        "org.freedesktop.Sdk.Extension.node22",
         "org.freedesktop.Sdk.Extension.openjdk",
         "org.freedesktop.Sdk.Extension.openjdk11",
         "org.freedesktop.Sdk.Extension.openjdk17",
