@@ -3397,9 +3397,6 @@
     "~/.factorio/mods:ro": [
         "com.github.petebuffon.yafc"
     ],
-    "xdg-config/gtk-4.0:ro": [
-        "com.github.qarmin.czkawka"
-    ],
     "home:create": [
         "com.github.raibtoffoletto.litteris"
     ],

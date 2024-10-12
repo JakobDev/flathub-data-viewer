@@ -24,7 +24,6 @@
         "org.geany.Geany",
         "org.ghidra_sre.Ghidra",
         "org.gnu.emacs",
-        "org.godotengine.Godot",
         "org.godotengine.Godot3",
         "org.godotengine.Godot3Sharp",
         "org.godotengine.GodotSharp",
@@ -51,6 +50,7 @@
         "dev.zed.Zed",
         "io.neovim.nvim",
         "net.blix.BlueMail",
+        "org.godotengine.Godot",
         "org.kicad.KiCad",
         "org.thonny.Thonny",
         "org.vim.Vim"
