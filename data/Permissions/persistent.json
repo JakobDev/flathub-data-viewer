@@ -627,6 +627,18 @@
     ".avidemux6": [
         "org.avidemux.Avidemux"
     ],
+    ".config/siyuan": [
+        "org.b3log.siyuan"
+    ],
+    ".config/SiYuan": [
+        "org.b3log.siyuan"
+    ],
+    ".config/SiYuan-Electron": [
+        "org.b3log.siyuan"
+    ],
+    "SiYuan": [
+        "org.b3log.siyuan"
+    ],
     ".briar": [
         "org.briarproject.Briar"
     ],

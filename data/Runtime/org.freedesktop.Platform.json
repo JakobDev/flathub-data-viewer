@@ -590,8 +590,6 @@
         "org.sil.dictionary-app-builder",
         "org.sil.reading-app-builder",
         "org.sil.scripture-app-builder",
-        "org.simondalvai.ball2box",
-        "org.simondalvai.pocket-broomball",
         "org.squey.Squey",
         "org.squidowl.halloy",
         "org.srb2.SRB2",
@@ -654,7 +652,6 @@
         "uk.co.powdertoy.tpt",
         "uk.co.studiopond.spiderbro",
         "uk.co.studiopond.spiderbro2",
-        "us.zoom.Zoom",
         "vet.rsc.OpenRSC.Launcher",
         "xyz.audiostellar.AudioStellar",
         "xyz.hyperplay.HyperPlay",
@@ -816,6 +813,8 @@
         "org.milkytracker.MilkyTracker",
         "org.openmsx.openMSX",
         "org.signal.Signal",
+        "org.simondalvai.ball2box",
+        "org.simondalvai.pocket-broomball",
         "org.soapui.SoapUI",
         "org.stochas.Stochas",
         "org.surge_synth_team.surge-xt",
@@ -836,6 +835,7 @@
         "ru.sview.sView",
         "tech.feliciano.pocket-casts",
         "uk.org.greenend.chiark.sgtatham.putty",
+        "us.zoom.Zoom",
         "xyz.armcord.ArmCord"
     ],
     "22.08": [

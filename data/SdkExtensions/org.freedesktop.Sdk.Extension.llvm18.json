@@ -1,6 +1,7 @@
 [
     "app.fotema.Fotema",
     "com.belmoussaoui.Authenticator",
+    "com.belmoussaoui.ashpd.demo",
     "dev.edfloreshz.Calculator",
     "dev.lizardbyte.app.Sunshine",
     "io.github.ciromattia.kcc",

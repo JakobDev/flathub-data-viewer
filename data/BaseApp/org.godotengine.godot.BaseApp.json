@@ -12,12 +12,14 @@
     "3.5-23.08": [
         "io.github.hepfnepf.blutfest",
         "io.itch.domestique_baston.domestique_baston",
-        "org.dupot.littleadventure",
-        "org.simondalvai.ball2box",
-        "org.simondalvai.pocket-broomball"
+        "org.dupot.littleadventure"
     ],
     "3.1-23.08": [
         "io.itch.keyikedalube_ndang.Type-Off"
+    ],
+    "3.6": [
+        "org.simondalvai.ball2box",
+        "org.simondalvai.pocket-broomball"
     ],
     "3.4-23.08": [
         "page.codeberg.papojari.Find_Billy"

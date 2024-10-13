@@ -48,6 +48,7 @@
         "com.vscodium.codium-insiders",
         "com.vscodium.codium",
         "dev.zed.Zed",
+        "fr.natron.Natron",
         "io.neovim.nvim",
         "net.blix.BlueMail",
         "org.godotengine.Godot",
@@ -64,7 +65,6 @@
     "22.08": [
         "com.pinegrow.Pinegrow",
         "com.visualstudio.code-oss",
-        "fr.natron.Natron",
         "io.atom.Atom",
         "io.gdevs.GDLauncher",
         "io.github.fralonra.WgShadertoy",

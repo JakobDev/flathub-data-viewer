@@ -347,7 +347,6 @@
         "org.ardour.Ardour",
         "org.arrl.trustedqsl",
         "org.asamk.SignalCli",
-        "org.b3log.siyuan",
         "org.bleachbit.BleachBit",
         "org.bzdev.CVRDecode",
         "org.chromium.Chromium",
@@ -643,6 +642,7 @@
         "no.mifi.losslesscut",
         "one.ablaze.floorp",
         "org.atheme.audacious",
+        "org.b3log.siyuan",
         "org.briarproject.Briar",
         "org.deluge_torrent.deluge",
         "org.eu.encom.spectral",
@@ -2001,6 +2001,7 @@
         "org.apache.jmeter",
         "org.artisan_scope.artisan",
         "org.audiveris.audiveris",
+        "org.b3log.siyuan",
         "org.damask_multiphysics.DAMASK_grid",
         "org.damask_multiphysics.DAMASK_mesh",
         "org.dupot.easyflatpak",
@@ -2657,6 +2658,7 @@
         "gg.guilded.Guilded",
         "io.github.milkshiift.GoofCord",
         "io.kapsa.drive",
+        "org.b3log.siyuan",
         "org.gnome.seahorse.Application",
         "org.gnunet.Messenger",
         "sh.ppy.osu",
@@ -2676,6 +2678,7 @@
         "io.github.milkshiift.GoofCord",
         "io.kapsa.drive",
         "net.base_art.Glide",
+        "org.b3log.siyuan",
         "org.gnunet.Messenger",
         "org.sigxcpu.Livi",
         "sh.ppy.osu",
@@ -2968,6 +2971,7 @@
         "io.github.mmarco94.tambourine",
         "io.github.nate_xyz.Resonance",
         "net.base_art.Glide",
+        "org.b3log.siyuan",
         "org.gnunet.Messenger",
         "sh.ppy.osu",
         "space.rirusha.Cassette"
@@ -3101,6 +3105,7 @@
         "net.sourceforge.mcomix",
         "net.xmind.XMind",
         "one.ablaze.floorp",
+        "org.b3log.siyuan",
         "org.firestormviewer.FirestormViewer",
         "org.garudalinux.firedragon",
         "org.turbowarp.TurboWarp",
@@ -3528,6 +3533,10 @@
     ],
     "~/.local/share/OuterWildsModManager": [
         "com.outerwildsmods.owmods_gui"
+    ],
+    "/var/log/journal:ro": [
+        "com.protonvpn.www",
+        "org.gnome.Logs"
     ],
     "~/.cert/nm-openvpn": [
         "com.protonvpn.www"
@@ -4391,9 +4400,6 @@
     ],
     "~/.claws-mail/tmp:ro": [
         "org.gnome.Keysign"
-    ],
-    "/var/log/journal:ro": [
-        "org.gnome.Logs"
     ],
     "~/.local/share/TpLogger": [
         "org.gnome.Polari"

@@ -116,7 +116,6 @@
         "so.onekey.Wallet",
         "social.whalebird.WhalebirdDesktop",
         "tech.keyforge.keyforge_master",
-        "us.zoom.Zoom",
         "xyz.hyperplay.HyperPlay"
     ],
     "22.08": [
@@ -192,6 +191,7 @@
         "org.jitsi.jitsi-meet",
         "org.signal.Signal",
         "tech.feliciano.pocket-casts",
+        "us.zoom.Zoom",
         "xyz.armcord.ArmCord"
     ],
     "21.08": [
