@@ -176,7 +176,7 @@
     ".openchrom": [
         "com.lablicate.OpenChrom"
     ],
-    ".eclipseswtchartsettings": [
+    ".eclipse/org.eclipse.swtchart.extensions": [
         "com.lablicate.OpenChrom"
     ],
     "~/.ssh": [

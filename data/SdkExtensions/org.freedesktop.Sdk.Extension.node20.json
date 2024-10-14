@@ -1,5 +1,6 @@
 [
     "com.boxy_svg.BoxySVG",
+    "com.getmailspring.Mailspring",
     "com.mongodb.Compass",
     "com.notesnook.Notesnook",
     "com.rabbit_company.passky",

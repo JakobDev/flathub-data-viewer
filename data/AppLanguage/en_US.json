@@ -338,6 +338,7 @@
     "org.gnome.atomix",
     "org.gnome.baobab",
     "org.gnome.clocks",
+    "org.gnome.design.AppIconPreview",
     "org.gnome.design.Contrast",
     "org.gnome.design.Emblem",
     "org.gnome.design.IconLibrary",
