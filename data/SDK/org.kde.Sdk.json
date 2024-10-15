@@ -281,6 +281,7 @@
         "pw.mmk.OpenFreebuds",
         "rocks.syng.Syng",
         "space.nouspiro.tenmon",
+        "tr.com.ikooskar.ikoOSKAR",
         "uk.org.zint.zint-qt",
         "xyz.rust4diva.Rust4Diva"
     ],
@@ -566,8 +567,7 @@
         "org.stellarium.Stellarium",
         "org.strawberrymusicplayer.strawberry",
         "org.tug.texworks",
-        "page.codeberg.DrRac27.Karoto",
-        "tr.com.ikooskar.ikoOSKAR"
+        "page.codeberg.DrRac27.Karoto"
     ],
     "5.15-22.08": [
         "art.taunoerik.tauno-serial-plotter",

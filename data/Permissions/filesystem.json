@@ -4601,9 +4601,6 @@
     "~/.purple": [
         "sm.puri.Chatty"
     ],
-    "xdg-documents/ikoOSKAR:create": [
-        "tr.com.ikooskar.ikoOSKAR"
-    ],
     "/run/lirc": [
         "tv.kodi.Kodi"
     ],

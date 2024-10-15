@@ -8,6 +8,7 @@
     "net.sourceforge.tomatoes.IHaveNoTomatoes",
     "org.love2d.love2d",
     "org.sauerbraten.Sauerbraten",
+    "org.virtualxt.VirtualXT",
     "tw.ddnet.ddnet",
     "org.freedesktop.Platform.VulkanLayer.vkBasalt"
 ]

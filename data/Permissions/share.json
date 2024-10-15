@@ -656,6 +656,7 @@
         "io.dbeaver.DBeaverCommunity",
         "io.defn.Franz",
         "io.edcd.EDMarketConnector",
+        "io.emeric.toolblex",
         "io.emeric.watchflower",
         "io.enpass.Enpass",
         "io.ente.auth",
