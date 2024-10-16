@@ -1,5 +1,6 @@
 [
     "io.github.glaumar.QRookie",
+    "org.kde.klevernotes",
     "org.kde.marknote",
     "org.kde.neochat"
 ]

@@ -7,11 +7,13 @@
         "page.codeberg.yeldham.Librerama"
     ],
     "4.3": [
-        "com.orama_interactive.Pixelorama"
+        "com.orama_interactive.Pixelorama",
+        "io.itch.domestique_baston.java_jolt"
     ],
     "3.5-23.08": [
         "io.github.hepfnepf.blutfest",
         "io.itch.domestique_baston.domestique_baston",
+        "io.itch.domestique_baston.kindergarten_massaker",
         "org.dupot.littleadventure"
     ],
     "3.1-23.08": [

@@ -51,6 +51,7 @@
     "org.darktable.Darktable",
     "org.fcitx.Fcitx5",
     "org.fontforge.FontForge",
+    "org.freedesktop.Piper",
     "org.gajim.Gajim",
     "org.gimp.GIMP",
     "org.gnome.Aisleriot",

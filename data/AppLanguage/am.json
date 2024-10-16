@@ -1,6 +1,7 @@
 [
     "org.gnome.GHex",
     "org.gnome.Gtranslator",
+    "org.gnome.SimpleScan",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.FotoToon",
     "org.sugarlabs.ImplodeActivity",

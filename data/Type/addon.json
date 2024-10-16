@@ -171,6 +171,7 @@
     "com.hack_computer.Clippy.Extension",
     "com.jeffser.Alpaca.Plugins.AMD",
     "com.jetbrains.PyCharm.Extensions.Python2-7",
+    "com.obsproject.Studio.Plugin.AitumMultistream",
     "com.obsproject.Studio.Plugin.BackgroundRemoval",
     "com.obsproject.Studio.Plugin.CompositeBlur",
     "com.obsproject.Studio.Plugin.DroidCam",

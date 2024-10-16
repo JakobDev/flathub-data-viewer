@@ -21,6 +21,7 @@
         "com.nolimitconnect.NoLimitConnect",
         "com.riverbankcomputing.PyQt.BaseApp",
         "com.rtosta.zapzap",
+        "cz.cvut.edu.comparch.qtrvsim",
         "de.akaflieg_freiburg.cavok.add_hours_and_minutes",
         "de.akaflieg_freiburg.enroute",
         "de.bund.ausweisapp.ausweisapp2",
@@ -66,6 +67,7 @@
         "io.github.sithlord48.blackchocobo",
         "io.github.streetpea.Chiaki4deck",
         "io.github.voxelcubes.panelcleaner",
+        "io.github.wivrn.wivrn",
         "io.github.xiaoyifang.goldendict_ng",
         "io.github.yuki_iptv.yuki-iptv",
         "io.gpt4all.gpt4all",
@@ -183,6 +185,7 @@
         "org.kde.kjumpingcube",
         "org.kde.kleopatra",
         "org.kde.klettres",
+        "org.kde.klevernotes",
         "org.kde.klickety",
         "org.kde.klines",
         "org.kde.kmahjongg",
@@ -342,6 +345,7 @@
         "info.bibletime.BibleTime",
         "info.mumble.Mumble",
         "info.smplayer.SMPlayer",
+        "io.botfather.Botfather",
         "io.github.Bollos00.LibreMines",
         "io.github.KikoPlayProject.KikoPlay",
         "io.github.OpenToonz",
@@ -525,7 +529,6 @@
         "com.yacreader.YACReader",
         "com.ylsoftware.qmmp.Qmmp",
         "community.pathofbuilding.PathOfBuilding",
-        "cz.cvut.edu.comparch.qtrvsim",
         "de.nagstamon.nagstamon",
         "de.syping.gta5view",
         "eu.cichy1173.tabela",
@@ -713,7 +716,6 @@
     ],
     "5.12": [
         "de.rwth_aachen.ient.RDPlot",
-        "io.botfather.Botfather",
         "io.liri.Calculator"
     ],
     "6.3": [

@@ -1,5 +1,6 @@
 [
     "com.clarahobbs.chessclock",
+    "eu.fortysixandtwo.chessclock",
     "io.github.fsobolev.TimeSwitch",
     "io.unobserved.furtherance",
     "org.gnome.BreakTimer",

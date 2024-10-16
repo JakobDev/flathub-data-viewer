@@ -1,5 +1,6 @@
 [
     "com.francescogaglione.chronos",
     "com.jwestall.Forecast",
-    "dev.edfloreshz.CosmicTweaks"
+    "dev.edfloreshz.CosmicTweaks",
+    "io.github.cosmic_utils.Examine"
 ]

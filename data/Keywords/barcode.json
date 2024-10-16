@@ -1,4 +1,5 @@
 [
+    "io.github.labbots.NiimPrintX",
     "org.gnome.glabels-3",
     "uk.org.zint.zint-qt"
 ]

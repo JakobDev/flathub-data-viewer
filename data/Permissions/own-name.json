@@ -250,6 +250,9 @@
     "org.mpris.MediaPlayer2.chromium.instance3": [
         "io.github.thaunknown.miru"
     ],
+    "io.github.wivrn.Server": [
+        "io.github.wivrn.wivrn"
+    ],
     "org.mpris.MediaPlayer2.yuki_iptv.*": [
         "io.github.yuki_iptv.yuki-iptv"
     ],

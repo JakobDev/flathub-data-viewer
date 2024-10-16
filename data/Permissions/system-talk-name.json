@@ -268,6 +268,7 @@
         "io.emeric.toolblex",
         "io.emeric.watchflower",
         "io.github.betaflight.BetaflightConfigurator",
+        "io.github.labbots.NiimPrintX",
         "io.github.ungoogled_software.ungoogled_chromium",
         "io.github.wh201906.serialtest",
         "io.gitlab.azymohliad.WatchMate",
@@ -328,6 +329,7 @@
     ],
     "org.freedesktop.systemd1": [
         "io.github.bkbilly.lnxlink",
+        "io.github.plrigaux.sysd-manager",
         "io.missioncenter.MissionCenter",
         "org.easycoding.TunedSwitcher",
         "org.opencpn.OpenCPN"
@@ -343,7 +345,6 @@
     ],
     "org.freedesktop.RealtimeKit1": [
         "net.mullvad.MullvadBrowser",
-        "net.sourceforge.GrandOrgue",
         "org.mixxx.Mixxx",
         "org.zrythm.Zrythm"
     ],
@@ -389,6 +390,7 @@
     "org.freedesktop.Udisks2": [
         "org.sil.FieldWorks",
         "org.sil.dictionary-app-builder",
+        "org.sil.keyboard-app-builder",
         "org.sil.reading-app-builder",
         "org.sil.scripture-app-builder"
     ],

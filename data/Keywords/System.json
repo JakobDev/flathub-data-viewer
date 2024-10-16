@@ -1,4 +1,5 @@
 [
+    "io.github.cosmic_utils.Examine",
     "io.github.nokse22.inspector",
     "net.nokyan.Resources"
 ]

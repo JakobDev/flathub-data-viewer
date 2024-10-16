@@ -1,7 +1,6 @@
 [
     "ar.com.tuxguitar.TuxGuitar",
     "ch.bailu.gtk_meteo",
-    "com.adamcake.Bolt",
     "com.atlauncher.ATLauncher",
     "com.bladecoder.adventure-editor",
     "com.cburch.Logisim",
@@ -55,6 +54,7 @@
     "org.polymc.PolyMC",
     "org.prismlauncher.PrismLauncher",
     "org.sil.dictionary-app-builder",
+    "org.sil.keyboard-app-builder",
     "org.sil.reading-app-builder",
     "org.sil.scripture-app-builder",
     "org.soapui.SoapUI",

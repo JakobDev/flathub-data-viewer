@@ -1,6 +1,7 @@
 [
     "app.getspace.Space",
     "app.midterm.MidtermDesktop",
+    "app.nestful.Nestful",
     "at.vintagestory.VintageStory",
     "br.gov.fazenda.receita.irpf2022",
     "br.gov.fazenda.receita.irpf2023",
@@ -139,6 +140,7 @@
     "com.warlordsoftwares.media-downloader",
     "com.warlordsoftwares.tube2go",
     "com.warlordsoftwares.youtube-downloader-4ktube",
+    "com.wireframesketcher.WireframeSketcher",
     "com.wonderlandengine.editor",
     "com.wps.Office",
     "com.writerduet.writersolo",

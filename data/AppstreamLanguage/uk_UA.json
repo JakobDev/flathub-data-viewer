@@ -5,6 +5,7 @@
     "io.github.vikdevelop.SaveDesktop",
     "me.sanchezrodriguez.passes",
     "org.aegisub.Aegisub",
+    "org.freedesktop.Piper",
     "org.gottcode.Tetzle",
     "org.olivevideoeditor.Olive"
 ]

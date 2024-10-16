@@ -1,4 +1,5 @@
 [
+    "io.github.plrigaux.sysd-manager",
     "io.github.rafaelfassi.QLogExplorer",
     "org.gnome.Logs",
     "org.subsurface_divelog.Subsurface"
