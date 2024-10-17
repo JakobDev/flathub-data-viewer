@@ -2549,6 +2549,7 @@
         "io.github.vikdevelop.SaveDesktop",
         "io.github.vinser.pixyne",
         "io.github.webcamoid.Webcamoid",
+        "io.itsterminal.WebPConverter",
         "io.mpv.Mpv",
         "net.blockbench.Blockbench",
         "net.epson.epsonscan2",
@@ -2735,6 +2736,7 @@
         "com.github.rafostar.Clapper",
         "com.github.xournalpp.xournalpp",
         "com.icons8.Lunacy",
+        "com.konstantintutsch.Lock",
         "com.ktechpit.colorwall",
         "com.ktechpit.orion",
         "com.ktechpit.torrhunt",
@@ -3515,6 +3517,12 @@
         "com.jwestall.Forecast",
         "dev.edfloreshz.CosmicTweaks"
     ],
+    "~/.gnupg:create": [
+        "com.konstantintutsch.Lock",
+        "org.gnome.seahorse.Application",
+        "org.kde.kleopatra",
+        "org.kde.kontact"
+    ],
     "/sys:ro": [
         "com.leinardi.gst",
         "io.github.wazzaps.Fingerpaint",
@@ -3712,6 +3720,28 @@
     ],
     "xdg-documents/Linwood/Butterfly": [
         "dev.linwood.butterfly"
+    ],
+    "~/.var/app/org.mozilla.firefox/.mozilla/firefox": [
+        "dev.qwery.AddWater"
+    ],
+    "~/snap/firefox/common/.mozilla/firefox": [
+        "dev.qwery.AddWater"
+    ],
+    "~/.mozilla/firefox": [
+        "dev.qwery.AddWater",
+        "org.gnome.Eolie"
+    ],
+    "~/.var/app/io.gitlab.librewolf-community/.librewolf": [
+        "dev.qwery.AddWater"
+    ],
+    "~/.librewolf": [
+        "dev.qwery.AddWater"
+    ],
+    "~/.var/app/one.ablaze.floorp/.floorp": [
+        "dev.qwery.AddWater"
+    ],
+    "~/.floorp": [
+        "dev.qwery.AddWater"
     ],
     "~/Gameeky:create": [
         "dev.tchx84.Gameeky"
@@ -4381,9 +4411,6 @@
     "xdg-cache/evolution/addressbook:ro": [
         "org.gnome.Contacts"
     ],
-    "~/.mozilla/firefox": [
-        "org.gnome.Eolie"
-    ],
     "~/.config/chromium": [
         "org.gnome.Eolie"
     ],
@@ -4437,11 +4464,6 @@
     ],
     "~/.ssh:create": [
         "org.gnome.seahorse.Application"
-    ],
-    "~/.gnupg:create": [
-        "org.gnome.seahorse.Application",
-        "org.kde.kleopatra",
-        "org.kde.kontact"
     ],
     "xdg-templates:ro": [
         "org.gnunet.Messenger"

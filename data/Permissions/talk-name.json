@@ -2824,6 +2824,7 @@
         "io.podman_desktop.PodmanDesktop",
         "io.stoplight.studio",
         "it.mijorus.gearlever",
+        "me.amankhanna.opendeck",
         "net.davidotek.pupgui2",
         "net.lutris.Lutris",
         "net.nokyan.Resources",
@@ -3240,6 +3241,7 @@
         "com.github.rafostar.Clapper",
         "com.github.xournalpp.xournalpp",
         "com.icons8.Lunacy",
+        "com.konstantintutsch.Lock",
         "com.lettier.movie-monad",
         "com.neatdecisions.Detwinner",
         "com.rawtherapee.RawTherapee",
@@ -3680,6 +3682,7 @@
     "org.gnome.keyring.SystemPrompter": [
         "com.jetbrains.CLion",
         "com.jetbrains.PhpStorm",
+        "com.konstantintutsch.Lock",
         "com.quexten.Goldwarden",
         "dev.zed.Zed",
         "io.github.dweymouth.supersonic",

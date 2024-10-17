@@ -1,4 +1,5 @@
 [
     "com.github.arshubham.cipher",
+    "com.konstantintutsch.Lock",
     "de.unifreiburg.ellipticcurve"
 ]

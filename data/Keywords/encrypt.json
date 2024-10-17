@@ -1,5 +1,6 @@
 [
     "com.bktus.gpgfrontend",
+    "com.konstantintutsch.Lock",
     "com.wire.WireDesktop",
     "org.gnome.World.Secrets"
 ]

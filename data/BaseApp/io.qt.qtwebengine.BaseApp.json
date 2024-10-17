@@ -53,6 +53,7 @@
         "org.kde.marble",
         "org.kde.skrooge",
         "org.paraview.ParaView",
+        "org.rolisteam.rolisteam",
         "org.sdrangel.SDRangel",
         "org.yacas.yacas-gui"
     ],
@@ -72,7 +73,6 @@
         "dev.lukebriggs.pepys"
     ],
     "5.15-22.08": [
-        "io.sourceforge.chart_geany.chart-geany",
-        "org.rolisteam.rolisteam"
+        "io.sourceforge.chart_geany.chart-geany"
     ]
 }

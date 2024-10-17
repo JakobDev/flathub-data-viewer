@@ -481,6 +481,7 @@
         "org.quassel_irc.QuasselClient",
         "org.qxmledit.QXmlEdit",
         "org.raspberrypi.rpi-imager",
+        "org.rolisteam.rolisteam",
         "org.sdrangel.SDRangel",
         "org.speedcrunch.SpeedCrunch",
         "org.sqlitebrowser.sqlitebrowser",
@@ -609,7 +610,6 @@
         "org.openmw.OpenMW",
         "org.purei.Play",
         "org.qelectrotech.QElectroTech",
-        "org.rolisteam.rolisteam",
         "org.telesculptor.TeleSculptor",
         "org.thentrythis.Samplebrain",
         "se.sjoerd.GIScan"

@@ -1,5 +1,6 @@
 [
     "com.bktus.gpgfrontend",
+    "com.konstantintutsch.Lock",
     "org.gnome.Keysign",
     "org.gnome.seahorse.Application"
 ]
