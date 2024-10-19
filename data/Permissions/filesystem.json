@@ -567,7 +567,6 @@
         "com.slack.Slack",
         "com.teamspeak.TeamSpeak",
         "com.teamspeak.TeamSpeak3",
-        "com.tencent.WeChat",
         "com.tonikelope.MegaBasterd",
         "com.tracktion.Waveform",
         "com.tutanota.Tutanota",
@@ -2752,6 +2751,7 @@
         "com.zhqli.wikit",
         "cz.zeropage.Formiko",
         "de.create3000.titania",
+        "de.haeckerfelix.Shortwave",
         "edu.stanford.Almond",
         "fr.handbrake.ghb",
         "fr.masson_informatique.WhosWho",
@@ -2897,6 +2897,7 @@
         "com.github.optyfr.JRomManager",
         "com.modrinth.ModrinthApp",
         "com.mojang.Minecraft",
+        "com.tencent.WeChat",
         "dev.fredol.open-tv",
         "io.github.Soundux",
         "io.github.nate_xyz.Resonance",
@@ -3479,7 +3480,7 @@
         "io.github.Foldex.AdwSteamGtk",
         "xyz.hyperplay.HyperPlay"
     ],
-    "~/.var/app/org.openwinecomponents.umu.umu-launcher/data/umu": [
+    "xdg-data/umu": [
         "com.heroicgameslauncher.hgl"
     ],
     "~/.local/share/lutris": [

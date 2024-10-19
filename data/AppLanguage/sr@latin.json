@@ -1,6 +1,7 @@
 [
     "ca.desrt.dconf-editor",
     "com.github.debauchee.barrier",
+    "com.snes9x.Snes9x",
     "io.github.Hexchat",
     "io.github.celluloid_player.Celluloid",
     "io.github.ecotubehq.player",

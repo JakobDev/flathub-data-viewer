@@ -2,6 +2,7 @@
     "6.7": [
         "app.bbsync.BlackboardSync",
         "com.rtosta.zapzap",
+        "de.nagstamon.nagstamon",
         "io.github.FedericoCalzoni.EventRecorder",
         "io.github.hydrusnetwork.hydrus",
         "io.github.jordanl2.ModularCalculator",
@@ -29,7 +30,6 @@
     ],
     "6.6": [
         "com.borgbase.Vorta",
-        "de.nagstamon.nagstamon",
         "me.mitya57.ReText",
         "org.plomgrading.PlomClient",
         "page.codeberg.DrRac27.Karoto"

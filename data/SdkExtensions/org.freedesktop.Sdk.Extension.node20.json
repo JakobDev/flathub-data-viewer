@@ -1,4 +1,5 @@
 [
+    "camp.nook.nookdesktop",
     "com.boxy_svg.BoxySVG",
     "com.getmailspring.Mailspring",
     "com.mongodb.Compass",
@@ -15,6 +16,7 @@
     "io.github.pejuko.follamac",
     "io.github.seadve.Delineate",
     "io.github.shiftey.Desktop",
+    "io.github.ungoogled_software.ungoogled_chromium",
     "io.podman_desktop.PodmanDesktop",
     "io.qt.QtCreator",
     "it.fabiodistasio.AntaresSQL",

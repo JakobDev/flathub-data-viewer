@@ -1033,6 +1033,7 @@
         "de.nagstamon.nagstamon",
         "de.rwth_aachen.ient.YUView",
         "de.syping.gta5view",
+        "de.unifreiburg.ellipticcurve",
         "dev.serebit.Waycheck",
         "dog.unix.cantata.Cantata",
         "edu.princeton.physics.WSJTX",
@@ -1202,6 +1203,8 @@
         "net.rpcs3.RPCS3",
         "net.rpdev.OpenTodoList",
         "net.scribus.Scribus",
+        "net.sf.metronomek",
+        "net.sf.nootka",
         "net.sonic_pi.SonicPi",
         "net.sourceforge.QtSpim",
         "net.sourceforge.dmidiplayer",
@@ -1670,6 +1673,7 @@
         "de.nagstamon.nagstamon",
         "de.rwth_aachen.ient.YUView",
         "de.syping.gta5view",
+        "de.unifreiburg.ellipticcurve",
         "dev.serebit.Waycheck",
         "dog.unix.cantata.Cantata",
         "edu.princeton.physics.WSJTX",
@@ -1834,6 +1838,8 @@
         "net.rpcs3.RPCS3",
         "net.rpdev.OpenTodoList",
         "net.scribus.Scribus",
+        "net.sf.metronomek",
+        "net.sf.nootka",
         "net.sonic_pi.SonicPi",
         "net.sourceforge.QtSpim",
         "net.sourceforge.dmidiplayer",
@@ -2095,6 +2101,7 @@
         "org.nsnam.NetAnim",
         "org.octave.Octave",
         "org.okstar.ok-msg",
+        "org.olivevideoeditor.Olive",
         "org.openchemistry.Avogadro2",
         "org.openhantek.OpenHantek6022",
         "org.openmw.OpenMW",
@@ -2278,6 +2285,7 @@
         "com.xunlei.Thunder",
         "com.yubico.yubioath",
         "de.bund.ausweisapp.ausweisapp2",
+        "de.nagstamon.nagstamon",
         "dev.deedles.Trayscale",
         "dev.mrquantumoff.mcmodpackmanager",
         "dev.toastbits.spmp",
@@ -2291,6 +2299,7 @@
         "im.riot.Riot",
         "in.cinny.Cinny",
         "info.mumble.Mumble",
+        "io.anytype.anytype",
         "io.botfather.Botfather",
         "io.ente.auth",
         "io.gdevelop.ide",
@@ -2547,6 +2556,7 @@
         "de.bund.ausweisapp.ausweisapp2",
         "de.mediathekview.MediathekView",
         "de.nagstamon.nagstamon",
+        "de.unifreiburg.ellipticcurve",
         "de.willuhn.Jameica",
         "dev.aunetx.deezer",
         "dev.deedles.Trayscale",
@@ -3251,6 +3261,7 @@
         "com.zhqli.wikit",
         "cz.zeropage.Formiko",
         "de.create3000.titania",
+        "de.haeckerfelix.Shortwave",
         "dev.pulsar_edit.Pulsar",
         "edu.stanford.Almond",
         "fr.handbrake.ghb",
@@ -3580,7 +3591,8 @@
         "com.github.dynobo.normcap"
     ],
     "org.kde.KWin": [
-        "com.github.dynobo.normcap"
+        "com.github.dynobo.normcap",
+        "org.kde.yakuake"
     ],
     "org.gnome.Shell.Extensions": [
         "com.github.dynobo.normcap",
@@ -3788,7 +3800,8 @@
     ],
     "org.kde.plasmashell": [
         "io.github.quodlibet.ExFalso",
-        "io.github.quodlibet.QuodLibet"
+        "io.github.quodlibet.QuodLibet",
+        "org.kde.yakuake"
     ],
     "org.enlightenment.wm.service": [
         "io.github.quodlibet.ExFalso",
