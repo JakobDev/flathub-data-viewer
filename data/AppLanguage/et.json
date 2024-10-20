@@ -55,6 +55,7 @@
     "org.gnome.seahorse.Application",
     "org.musescore.MuseScore",
     "org.musicbrainz.Picard",
+    "org.pitivi.Pitivi",
     "org.speedcrunch.SpeedCrunch",
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator",

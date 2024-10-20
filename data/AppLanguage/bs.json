@@ -46,6 +46,7 @@
     "org.gnome.meld",
     "org.gnome.moserial",
     "org.gnome.seahorse.Application",
+    "org.pitivi.Pitivi",
     "org.remmina.Remmina",
     "org.sugarlabs.Speak"
 ]

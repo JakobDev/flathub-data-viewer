@@ -89,6 +89,7 @@
         "io.anytype.anytype",
         "io.atom.Atom",
         "io.conduktor.Conduktor",
+        "io.ente.auth",
         "io.github.TanmayPatil105.verse",
         "io.github.achetagames.epic_asset_manager",
         "io.github.betaflight.BetaflightConfigurator",
@@ -151,6 +152,7 @@
         "org.tabos.saldo",
         "org.unitystation.StationHub",
         "org.videolan.VLC",
+        "ru.toxblh.KeeneticManager",
         "ru.yandex.Browser",
         "so.libdb.dissent",
         "social.whalebird.WhalebirdDesktop"
@@ -2259,6 +2261,7 @@
         "com.qq.QQ",
         "com.rocksandpaper.syndic",
         "com.rtosta.zapzap",
+        "com.sayonara_player.Sayonara",
         "com.seafile.Client",
         "com.sigil_ebook.Sigil",
         "com.sindresorhus.Caprine",
@@ -2419,6 +2422,7 @@
         "org.qutebrowser.qutebrowser",
         "org.remmina.Remmina",
         "org.rncbc.qpwgraph",
+        "org.rncbc.qsynth",
         "org.sabnzbd.sabnzbd",
         "org.signal.Signal",
         "org.sparkleshare.SparkleShare",
@@ -2789,6 +2793,7 @@
         "com.vysp3r.ProtonPlus",
         "de.mediathekview.MediathekView",
         "de.schmidhuberj.tubefeeder",
+        "de.z_ray.OptimusUI",
         "dev.boxi.Boxi",
         "dev.ensoft.ecode",
         "dev.lapce.lapce",
@@ -3469,6 +3474,7 @@
         "com.core447.StreamController",
         "com.feaneron.Boatswain",
         "com.github.muriloventuroso.givemelyrics",
+        "com.github.naaando.lyrics",
         "io.github.Hexchat",
         "io.github.bkbilly.lnxlink",
         "io.github.slgobinath.SafeEyes",
@@ -3768,7 +3774,8 @@
     "org.gnome.SettingsDaemon.Color": [
         "info.febvre.Komikku",
         "org.gnome.Calendar",
-        "org.gnome.Reversi"
+        "org.gnome.Reversi",
+        "ru.toxblh.KeeneticManager"
     ],
     "com.kde.StatusNotifierWatcher": [
         "io.enpass.Enpass"

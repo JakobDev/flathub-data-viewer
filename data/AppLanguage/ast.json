@@ -29,6 +29,7 @@
     "org.gnome.five-or-more",
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
+    "org.pitivi.Pitivi",
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator",
     "org.xfce.mousepad",

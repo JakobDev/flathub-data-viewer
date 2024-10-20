@@ -43,7 +43,6 @@
     "juno-19.08": [
         "com.github.calo001.fondo",
         "com.github.inercia.k3x",
-        "com.github.matfantinel.moneta",
-        "com.github.naaando.lyrics"
+        "com.github.matfantinel.moneta"
     ]
 }

@@ -1,5 +1,6 @@
 [
     "app.vup.Vup",
+    "com.github.naaando.lyrics",
     "com.github.ztefn.haguichi",
     "com.vysp3r.ProtonPlus",
     "finance.reckoner.Reckoner",

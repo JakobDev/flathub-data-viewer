@@ -218,6 +218,7 @@
         "io.botfather.Botfather",
         "io.conduktor.Conduktor",
         "io.dbeaver.DBeaverCommunity",
+        "io.frappe.books",
         "io.gdevelop.ide",
         "io.github.Adda0.Stardrop",
         "io.github.Cockatrice.cockatrice",
@@ -2581,6 +2582,7 @@
         "org.turbowarp.TurboWarp",
         "org.winehq.Wine",
         "org.zulip.Zulip",
+        "ru.toxblh.KeeneticManager",
         "surf.deckr.deckr",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
@@ -4292,6 +4294,9 @@
     ],
     "~/.config/MangoHud:ro": [
         "net.lutris.Lutris"
+    ],
+    "/run/nym-vpn.sock:ro": [
+        "net.nymtech.NymVPN"
     ],
     "/run/ikedi": [
         "net.shrew.ike.qikea"

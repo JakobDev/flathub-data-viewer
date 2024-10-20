@@ -39,6 +39,7 @@
     "org.gnome.seahorse.Application",
     "org.gnucash.GnuCash",
     "org.learningequality.Kolibri",
+    "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
     "org.stellarium.Stellarium",
     "org.sugarlabs.Calculate",

@@ -105,6 +105,7 @@
     "org.megaglest.MegaGlest",
     "org.musescore.MuseScore",
     "org.musicbrainz.Picard",
+    "org.pitivi.Pitivi",
     "org.pulseaudio.pavucontrol",
     "org.scilab.Scilab",
     "org.stellarium.Stellarium",

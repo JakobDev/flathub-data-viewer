@@ -1,5 +1,6 @@
 [
     "de.z_ray.Facetracker",
+    "de.z_ray.OptimusUI",
     "io.github.dvlv.boxbuddyrs",
     "io.github.peazip.PeaZip",
     "org.gnome.FileRoller",
