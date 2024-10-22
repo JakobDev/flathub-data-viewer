@@ -1949,6 +1949,7 @@
         "x-scheme-handler{SLASH}postgresql",
         "x-scheme-handler{SLASH}postman",
         "x-scheme-handler{SLASH}ppsp",
+        "x-scheme-handler{SLASH}prismlauncher",
         "x-scheme-handler{SLASH}psql",
         "x-scheme-handler{SLASH}ptsave",
         "x-scheme-handler{SLASH}quadrant",

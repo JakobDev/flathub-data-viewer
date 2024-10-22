@@ -1,5 +1,6 @@
 [
     "app.drey.Dialect",
+    "app.drey.Warp",
     "app.rednotebook.RedNotebook",
     "ca.desrt.dconf-editor",
     "com.belmoussaoui.Authenticator",
@@ -13,6 +14,7 @@
     "com.github.ryonakano.reco",
     "com.github.tenderowl.frog",
     "com.github.unrud.VideoDownloader",
+    "com.github.xournalpp.xournalpp",
     "com.mardojai.ForgeSparks",
     "com.tux4kids.tuxtype",
     "de.haeckerfelix.Fragments",
@@ -34,6 +36,7 @@
     "io.github.realmazharhussain.GdmSettings",
     "io.github.seadve.Mousai",
     "io.github.wxmaxima_developers.wxMaxima",
+    "io.gitlab.Goodvibes",
     "io.gitlab.news_flash.NewsFlash",
     "io.liri.Text",
     "io.missioncenter.MissionCenter",

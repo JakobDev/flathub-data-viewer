@@ -47,6 +47,7 @@
     "org.deidentifier.arx",
     "org.exbin.BinEd",
     "org.ferdium.Ferdium",
+    "org.freedesktop.Platform.VulkanInfo",
     "org.gaphor.Gaphor",
     "org.getoutline.OutlineClient",
     "org.getoutline.OutlineManager",

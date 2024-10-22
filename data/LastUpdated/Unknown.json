@@ -191,6 +191,7 @@
     "org.bitbucket.mystery_keeper.VapourSynthEditor.Plugin.FFMS2",
     "org.blackfennec.app.extensions.base",
     "org.blackfennec.app.extensions.core",
+    "org.freedesktop.Platform.VAAPI.Intel",
     "org.freedesktop.Platform.ffmpeg-full",
     "org.freedesktop.Sdk.Extension.dotnet",
     "org.freedesktop.Sdk.Extension.dotnet5",

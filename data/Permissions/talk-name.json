@@ -425,7 +425,6 @@
         "io.github.nuttyartist.notes",
         "io.github.nyre221.kiview",
         "io.github.obiwankennedy.HotShots",
-        "io.github.parnassius.SysDVR-Qt",
         "io.github.peazip.PeaZip",
         "io.github.punesemu.puNES",
         "io.github.purplehorrorrus.Meridius",
@@ -1122,7 +1121,6 @@
         "io.github.nuttyartist.notes",
         "io.github.nyre221.kiview",
         "io.github.obiwankennedy.HotShots",
-        "io.github.parnassius.SysDVR-Qt",
         "io.github.peazip.PeaZip",
         "io.github.punesemu.puNES",
         "io.github.qcanvas.QCanvasApp",
@@ -1760,7 +1758,6 @@
         "io.github.nuttyartist.notes",
         "io.github.nyre221.kiview",
         "io.github.obiwankennedy.HotShots",
-        "io.github.parnassius.SysDVR-Qt",
         "io.github.peazip.PeaZip",
         "io.github.punesemu.puNES",
         "io.github.qcanvas.QCanvasApp",
@@ -4011,6 +4008,10 @@
     ],
     "org.kde.kuiserver": [
         "org.kde.ksudoku"
+    ],
+    "org.unifiedpush.Distributor.*": [
+        "org.kde.neochat",
+        "org.kde.tokodon"
     ],
     "com.canonical.Unity.Session": [
         "org.keepassxc.KeePassXC"

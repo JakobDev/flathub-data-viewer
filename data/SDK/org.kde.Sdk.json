@@ -61,7 +61,6 @@
         "io.github.mhogomchungu.media-downloader",
         "io.github.mhogomchungu.sirikali",
         "io.github.nuttyartist.notes",
-        "io.github.parnassius.SysDVR-Qt",
         "io.github.qcanvas.QCanvasApp",
         "io.github.ripose_jp.Memento",
         "io.github.shmmodbus.shm-modbus",
@@ -509,6 +508,7 @@
         "org.svxlink.Qtel",
         "org.syntalos.syntalos",
         "org.texmacs.TeXmacs",
+        "org.thentrythis.Samplebrain",
         "org.torproject.torbrowser-launcher",
         "org.videolan.VLC",
         "org.wfview.wfview",
@@ -629,7 +629,6 @@
         "org.purei.Play",
         "org.qelectrotech.QElectroTech",
         "org.telesculptor.TeleSculptor",
-        "org.thentrythis.Samplebrain",
         "se.sjoerd.GIScan"
     ],
     "5.15-21.08": [

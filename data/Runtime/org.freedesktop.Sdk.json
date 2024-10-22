@@ -29,7 +29,6 @@
         "org.godotengine.Godot3Sharp",
         "org.godotengine.GodotSharp",
         "org.lvnauth.LVNAuth",
-        "org.scintilla.SciTE",
         "uno.platform.uno-calculator"
     ],
     "24.08": [
@@ -52,6 +51,7 @@
         "io.neovim.nvim",
         "org.godotengine.Godot",
         "org.kicad.KiCad",
+        "org.scintilla.SciTE",
         "org.thonny.Thonny",
         "org.vim.Vim"
     ],

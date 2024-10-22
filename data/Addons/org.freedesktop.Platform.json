@@ -1,4 +1,5 @@
 [
+    "org.freedesktop.Platform.VAAPI.Intel",
     "org.freedesktop.Platform.VulkanLayer.MangoHud",
     "org.freedesktop.Platform.VulkanLayer.OBSVkCapture",
     "org.freedesktop.Platform.VulkanLayer.gamescope",

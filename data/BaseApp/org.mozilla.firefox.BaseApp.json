@@ -2,11 +2,11 @@
     "23.08": [
         "com.humatarayici.od",
         "io.github.zen_browser.zen",
+        "net.mullvad.MullvadBrowser",
         "org.mozilla.Thunderbird",
         "org.mozilla.firefox"
     ],
     "24.08": [
-        "net.mullvad.MullvadBrowser",
         "org.garudalinux.firedragon"
     ]
 }

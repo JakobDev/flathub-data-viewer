@@ -941,7 +941,6 @@
         "io.github.nuttyartist.notes",
         "io.github.nyre221.kiview",
         "io.github.obiwankennedy.HotShots",
-        "io.github.parnassius.SysDVR-Qt",
         "io.github.peazip.PeaZip",
         "io.github.punesemu.puNES",
         "io.github.qcanvas.QCanvasApp",
@@ -2582,7 +2581,6 @@
         "org.turbowarp.TurboWarp",
         "org.winehq.Wine",
         "org.zulip.Zulip",
-        "ru.toxblh.KeeneticManager",
         "surf.deckr.deckr",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
@@ -4012,12 +4010,6 @@
     ],
     "~/.local/share/themes:create": [
         "io.github.pantheon_tweaks.pantheon-tweaks"
-    ],
-    "xdg-videos/SysDVR:create": [
-        "io.github.parnassius.SysDVR-Qt"
-    ],
-    "xdg-pictures/SysDVR:create": [
-        "io.github.parnassius.SysDVR-Qt"
     ],
     "xdg-data/Steam": [
         "io.github.philipk.boilr",

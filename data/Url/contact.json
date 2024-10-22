@@ -189,6 +189,11 @@
     "org.freeciv.gtk4",
     "org.freeciv.qt",
     "org.freeciv.sdl2",
+    "org.freedesktop.Platform.ClInfo",
+    "org.freedesktop.Platform.GlxInfo",
+    "org.freedesktop.Platform.VaInfo",
+    "org.freedesktop.Platform.VdpauInfo",
+    "org.freedesktop.Platform.VulkanInfo",
     "org.getoutline.OutlineClient",
     "org.getoutline.OutlineManager",
     "org.gnome.Calendar",
@@ -244,6 +249,10 @@
     "rs.ruffle.Ruffle",
     "ru.toxblh.KeeneticManager",
     "tk.deat.Jazz2Resurrection",
+    "org.freedesktop.Platform.GL.default",
+    "org.freedesktop.Platform.GL32.default",
+    "org.freedesktop.Platform.VAAPI.Intel",
+    "org.freedesktop.Platform.ffmpeg-full",
     "org.freedesktop.Platform",
     "org.freedesktop.Sdk"
 ]
