@@ -40,6 +40,7 @@
     "net.sf.VICE",
     "net.sourceforge.Teo",
     "net.sourceforge.fuse_emulator.Fuse",
+    "net.sourceforge.m64py.M64Py",
     "org.DolphinEmu.dolphin-emu",
     "org.desmume.DeSmuME",
     "org.duckstation.DuckStation",

@@ -1,5 +1,6 @@
 [
     "io.github.bothlab.pomidaq",
     "io.github.labsquare.CutePeaks",
+    "io.github.pemsley.coot",
     "org.syntalos.syntalos"
 ]

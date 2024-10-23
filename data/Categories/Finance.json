@@ -17,6 +17,7 @@
     "global.worldcoin.worldcoin-core",
     "info.portfolio_performance.PortfolioPerformance",
     "io.frappe.books",
+    "io.trezor.suite",
     "io.wasabiwallet.WasabiWallet",
     "org.bitcoincore.bitcoin-qt",
     "org.blackcoin.blackcoin-more",

@@ -1,5 +1,6 @@
 [
     "com.blockstream.Green",
+    "io.trezor.suite",
     "org.bitcoincore.bitcoin-qt",
     "org.electrum.electrum"
 ]

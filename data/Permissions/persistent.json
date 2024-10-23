@@ -37,6 +37,7 @@
         "com.st.STM32CubeIDE",
         "io.github.ktgw0316.LightZone",
         "io.sourceforge.Pixelitor",
+        "net.audiorelay.AudioRelay",
         "net.sourceforge.pdfchain",
         "org.angryip.ipscan",
         "org.briarproject.Briar",
@@ -496,6 +497,9 @@
     ],
     ".local/share/openspades": [
         "jp.yvt.OpenSpades"
+    ],
+    ".skiko": [
+        "net.audiorelay.AudioRelay"
     ],
     ".bl2": [
         "net.blockout.BlockOutII"

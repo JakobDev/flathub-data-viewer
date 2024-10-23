@@ -2,5 +2,6 @@
     "ca.parallel_launcher.ParallelLauncher",
     "com.github.Rosalie241.RMG",
     "io.github.gopher64.gopher64",
-    "io.github.simple64.simple64"
+    "io.github.simple64.simple64",
+    "net.sourceforge.m64py.M64Py"
 ]
