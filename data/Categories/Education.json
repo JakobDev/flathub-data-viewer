@@ -8,7 +8,6 @@
     "br.com.eduk.school",
     "br.gov.cti.invesalius",
     "cat.xtec.clic.JClic",
-    "cern.root.ROOT",
     "ch.openboard.OpenBoard",
     "ch.tigerjython.TigerJython2",
     "com.adilhanney.saber",
@@ -203,5 +202,6 @@
     "ro.go.hmlendea.DL-Desktop",
     "se.sjoerd.GIScan",
     "se.sjoerd.Graphs",
-    "tr.com.ikooskar.ikoOSKAR"
+    "tr.com.ikooskar.ikoOSKAR",
+    "tr.org.pardus.pen"
 ]

@@ -126,6 +126,7 @@
         "com.djoffe.gnukem",
         "com.donhopkins.Micropolis",
         "com.doycho.euterpe.gtk",
+        "com.dz4k.FruitCredits",
         "com.elsevier.MendeleyDesktop",
         "com.eminfedar.vaktisalah",
         "com.emqx.MQTTX",
@@ -1312,7 +1313,6 @@
         "org.freedesktop.Platform.VdpauInfo",
         "org.freedesktop.Platform.VulkanInfo",
         "org.freedesktop.adriconf",
-        "org.freedesktop.dabrain34.GstPipelineStudio",
         "org.freedesktop.dabrain34.squared",
         "org.freedownloadmanager.Manager",
         "org.freeorion.FreeOrion",
@@ -1838,6 +1838,7 @@
         "to.us.scrollprotocol.Profectus",
         "tr.com.ikooskar.ikoOSKAR",
         "tr.gov.uyap.Editor",
+        "tr.org.pardus.pen",
         "tw.ddnet.ddnet",
         "uk.co._69_studios.kublit",
         "uk.co.electronstudio.ComicReaderUltimate",
@@ -2440,6 +2441,7 @@
         "io.github.brunoherbelin.Vimix",
         "io.github.shmmodbus.shm-modbus",
         "io.missioncenter.MissionCenter",
-        "net.rpdev.OpenTodoList"
+        "net.rpdev.OpenTodoList",
+        "org.freedesktop.dabrain34.GstPipelineStudio"
     ]
 }

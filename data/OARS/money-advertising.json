@@ -6,6 +6,7 @@
     ],
     "moderate": [
         "com.fightcade.Fightcade",
+        "com.icanblink.blink",
         "com.lunarclient.LunarClient",
         "io.github.kotatogram",
         "io.github.kukuruzka165.materialgram",

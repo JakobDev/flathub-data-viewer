@@ -539,6 +539,9 @@
     "org.x.StatusIcon.warpinator": [
         "org.x.Warpinator"
     ],
+    "org.mozilla.zotero.*": [
+        "org.zotero.Zotero"
+    ],
     "org.mpris.MediaPlayer2.cider": [
         "sh.cider.Cider"
     ],
