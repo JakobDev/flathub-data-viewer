@@ -77,6 +77,7 @@
         "io.qt.PySide.BaseApp",
         "io.qt.qtwebengine.BaseApp",
         "it.cuteworks.pacmanlogviewer",
+        "moe.emmaexe.ntfyDesktop",
         "net.blumia.pineapple-pictures",
         "net.davidotek.pupgui2",
         "net.kuribo64.melonDS",

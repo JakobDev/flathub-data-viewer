@@ -1930,6 +1930,7 @@
         "x-scheme-handler{SLASH}note",
         "x-scheme-handler{SLASH}notebook-windows",
         "x-scheme-handler{SLASH}notion",
+        "x-scheme-handler{SLASH}ntfy",
         "x-scheme-handler{SLASH}nxm",
         "x-scheme-handler{SLASH}obsidian",
         "x-scheme-handler{SLASH}ok",
