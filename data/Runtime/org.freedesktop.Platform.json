@@ -620,6 +620,7 @@
         "uk.co.powdertoy.tpt",
         "uk.co.studiopond.spiderbro",
         "uk.co.studiopond.spiderbro2",
+        "us.zoom.Zoom",
         "vet.rsc.OpenRSC.Launcher",
         "xyz.audiostellar.AudioStellar",
         "xyz.hyperplay.HyperPlay",
@@ -701,6 +702,7 @@
         "com.sweethome3d.Sweethome3d",
         "com.syntevo.SmartGit",
         "com.syntevo.SmartSynchronize",
+        "com.system76.Popsicle",
         "com.tencent.WeChat",
         "com.termius.Termius",
         "com.theappgineer.community_remote",
@@ -872,7 +874,6 @@
         "sh.ppy.osu",
         "tech.feliciano.pocket-casts",
         "uk.org.greenend.chiark.sgtatham.putty",
-        "us.zoom.Zoom",
         "xyz.armcord.ArmCord"
     ],
     "22.08": [
@@ -918,7 +919,6 @@
         "com.slugchess.SlugChess",
         "com.springrts.SpringLobby",
         "com.stepmania.StepMania",
-        "com.system76.Popsicle",
         "com.teeworlds.Teeworlds",
         "com.tencent.wemeet",
         "com.wickeditor.WickEditor",
