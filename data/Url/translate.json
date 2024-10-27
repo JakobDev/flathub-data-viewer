@@ -13,6 +13,7 @@
     "app.fotema.Fotema",
     "app.kaiteki.Kaiteki",
     "app.organicmaps",
+    "app.polychromatic.controller",
     "app.rednotebook.RedNotebook",
     "br.gov.cti.invesalius",
     "ca.desrt.dconf-editor",

@@ -22,6 +22,7 @@
     "app.lith.Lith",
     "app.moosync.moosync",
     "app.pianocheetah.pianocheetah",
+    "app.polychromatic.controller",
     "app.rednotebook.RedNotebook",
     "app.riftshare.RiftShare",
     "app.xemu.xemu",

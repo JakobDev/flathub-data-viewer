@@ -1,6 +1,7 @@
 {
     "6.7": [
         "app.bbsync.BlackboardSync",
+        "app.polychromatic.controller",
         "com.rtosta.zapzap",
         "de.nagstamon.nagstamon",
         "io.github.FedericoCalzoni.EventRecorder",

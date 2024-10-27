@@ -201,6 +201,7 @@
     ],
     "mild": [
         "app.moosync.moosync",
+        "app.polychromatic.controller",
         "ar.com.pilas_engine.App",
         "ca.victorz.acr.AssaultCubeReloaded",
         "cc.arduino.IDE2",

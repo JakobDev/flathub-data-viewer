@@ -28,6 +28,7 @@
     "app.nestful.Nestful",
     "app.organicmaps",
     "app.pianocheetah.pianocheetah",
+    "app.polychromatic.controller",
     "app.rednotebook.RedNotebook",
     "app.riftshare.RiftShare",
     "app.vup.Vup",

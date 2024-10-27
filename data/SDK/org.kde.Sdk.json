@@ -1,6 +1,7 @@
 {
     "6.7": [
         "app.bbsync.BlackboardSync",
+        "app.polychromatic.controller",
         "ch.openboard.OpenBoard",
         "com.bktus.gpgfrontend",
         "com.blockstream.Green",
@@ -257,6 +258,7 @@
         "org.pencil2d.Pencil2D",
         "org.prismlauncher.PrismLauncher",
         "org.profex_xrd.Profex",
+        "org.purei.Play",
         "org.qbittorrent.qBittorrent",
         "org.radare.iaito",
         "org.rncbc.qpwgraph",
@@ -629,7 +631,6 @@
         "org.kde.Ikona",
         "org.kde.kmplayer",
         "org.openmw.OpenMW",
-        "org.purei.Play",
         "org.qelectrotech.QElectroTech",
         "org.telesculptor.TeleSculptor",
         "se.sjoerd.GIScan"

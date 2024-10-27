@@ -163,6 +163,7 @@
         "app.lith.Lith",
         "app.moosync.moosync",
         "app.pianocheetah.pianocheetah",
+        "app.polychromatic.controller",
         "art.taunoerik.tauno-serial-plotter",
         "at.priv.toastfreeware.ConfClerk",
         "br.eng.silas.qpdftools",
@@ -925,6 +926,7 @@
         "app.cantara.Cantara",
         "app.lith.Lith",
         "app.pianocheetah.pianocheetah",
+        "app.polychromatic.controller",
         "art.taunoerik.tauno-serial-plotter",
         "ca.parallel_launcher.ParallelLauncher",
         "ch.openboard.OpenBoard",
@@ -1570,6 +1572,7 @@
         "app.cantara.Cantara",
         "app.lith.Lith",
         "app.pianocheetah.pianocheetah",
+        "app.polychromatic.controller",
         "art.taunoerik.tauno-serial-plotter",
         "ca.parallel_launcher.ParallelLauncher",
         "ch.openboard.OpenBoard",
@@ -3003,6 +3006,10 @@
         "org.videolan.VLC",
         "space.rirusha.Cassette"
     ],
+    "org.razer": [
+        "app.polychromatic.controller",
+        "xyz.z3ntu.razergenie"
+    ],
     "org.ayatana": [
         "app.ytmdesktop.ytmdesktop",
         "io.kapsa.drive",
@@ -3100,6 +3107,7 @@
         "org.kde.haruna",
         "org.kde.kaffeine",
         "org.kde.kronometer",
+        "org.kde.okular",
         "org.keepassxc.KeePassXC",
         "org.libretro.RetroArch",
         "org.nickvision.tubeconverter",
@@ -3117,6 +3125,7 @@
     "org.freedesktop.login1": [
         "ca.parallel_launcher.ParallelLauncher",
         "org.jitsi.jitsi-meet",
+        "org.kde.okular",
         "org.libretro.RetroArch"
     ],
     "com.feralinteractive.GameMode": [
@@ -4048,8 +4057,5 @@
     ],
     "io.github.rinigus.PureMaps": [
         "uk.co.piggz.amazfish"
-    ],
-    "org.razer": [
-        "xyz.z3ntu.razergenie"
     ]
 }

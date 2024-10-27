@@ -22,6 +22,7 @@
     "app.gummi.gummi",
     "app.kaiteki.Kaiteki",
     "app.organicmaps",
+    "app.polychromatic.controller",
     "app.rednotebook.RedNotebook",
     "app.riftshare.RiftShare",
     "app.xemu.xemu",

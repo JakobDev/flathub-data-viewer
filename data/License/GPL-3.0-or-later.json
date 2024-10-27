@@ -12,6 +12,7 @@
     "app.fotema.Fotema",
     "app.getclipboard.Clipboard",
     "app.moosync.moosync",
+    "app.polychromatic.controller",
     "app.riftshare.RiftShare",
     "art.taunoerik.tauno-monitor",
     "art.taunoerik.tauno-serial-plotter",
