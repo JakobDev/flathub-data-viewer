@@ -2,6 +2,5 @@
     "io.github.Hexchat",
     "org.gnome.GTG",
     "org.gnome.Notes",
-    "org.gnome.Totem",
-    "org.wxhexeditor.wxHexEditor"
+    "org.gnome.Totem"
 ]

@@ -13,6 +13,7 @@
     "org.asamk.SignalCli",
     "org.chromium.Chromium",
     "org.ghidra_sre.Ghidra",
+    "org.hdfgroup.HDFView",
     "org.libreoffice.LibreOffice",
     "org.openstreetmap.josm",
     "org.polymc.PolyMC",

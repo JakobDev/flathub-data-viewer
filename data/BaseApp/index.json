@@ -5,6 +5,7 @@
         "com.system76.Cosmic.BaseApp",
         "io.atom.electron.BaseApp",
         "io.elementary.BaseApp",
+        "io.gitlab.android_translation_layer.BaseApp",
         "io.liri.BaseApp",
         "io.qt.PySide.BaseApp",
         "io.qt.qtwebengine.BaseApp",

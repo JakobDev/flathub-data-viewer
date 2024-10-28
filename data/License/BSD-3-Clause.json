@@ -23,6 +23,7 @@
     "net.sourceforge.QtSpim",
     "org.getmonero.Monero",
     "org.gnode.NixView",
+    "org.hdfgroup.HDFView",
     "org.jupyter.JupyterLab",
     "org.metal3d.scoreboard",
     "org.openchemistry.Avogadro2",

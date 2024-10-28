@@ -259,6 +259,7 @@
         "net.cubers.assault.AssaultCube",
         "net.jammr.jammr",
         "net.minetest.Minetest",
+        "net.newpipe.NewPipe",
         "net.sourceforge.scidvspc.scidvspc",
         "net.tabletopclub.TabletopClub",
         "net.veloren.veloren",

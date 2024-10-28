@@ -198,6 +198,7 @@
         "com.github.needleandthread.vocal",
         "io.github.listen1.Listen1",
         "io.github.troyeguo.koodo-reader",
+        "net.newpipe.NewPipe",
         "org.unitystation.StationHub"
     ]
 }
