@@ -521,6 +521,7 @@
         "org.wfview.wfview",
         "org.yacas.yacas-gui",
         "re.rizin.cutter",
+        "space.fips.Fips",
         "studio.kx.carla",
         "ua.org.brezblock.q4wine",
         "uk.co.piggz.amazfish",
@@ -663,8 +664,7 @@
         "org.openhantek.OpenHantek6022",
         "org.qutebrowser.qutebrowser",
         "org.solarus_games.solarus.Launcher",
-        "org.tordini.flavio.Minitube",
-        "space.fips.Fips"
+        "org.tordini.flavio.Minitube"
     ],
     "5.15": [
         "cc.retroshare.retroshare-gui",

@@ -174,7 +174,6 @@
         "com.wireframesketcher.WireframeSketcher",
         "com.xnview.XnConvert",
         "com.xnview.XnRetro",
-        "com.xnview.XnSketch",
         "com.xnview.XnViewMP",
         "com.yacreader.YACReader",
         "com.zerobrane.studio",
@@ -2536,6 +2535,7 @@
         "com.tutanota.Tutanota",
         "com.viber.Viber",
         "com.wps.Office",
+        "com.xnview.XnSketch",
         "de.marlam.gencolormap",
         "dev.fredol.open-tv",
         "dev.vieb.Vieb",
@@ -3016,6 +3016,7 @@
         "com.google.ChromeDev",
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
+        "io.github.flattool.Warehouse",
         "io.github.realmazharhussain.GdmSettings",
         "io.wavebox.Wavebox",
         "ru.yandex.Browser"
@@ -3273,6 +3274,7 @@
         "io.github.Soundux",
         "io.github.btpf.alexandria",
         "io.github.maddecoder.Classic-RBDOOM-3-BFG",
+        "io.github.philipk.boilr",
         "net.openra.OpenRA",
         "org.cubocore.CoreFM",
         "org.gnome.Evince",
@@ -3731,27 +3733,30 @@
     "xdg-documents/Linwood/Butterfly": [
         "dev.linwood.butterfly"
     ],
-    "~/.var/app/org.mozilla.firefox/.mozilla/firefox": [
+    "~/.var/app/io.gitlab.librewolf-community/.librewolf": [
         "dev.qwery.AddWater"
     ],
     "~/snap/firefox/common/.mozilla/firefox": [
         "dev.qwery.AddWater"
     ],
-    "~/.mozilla/firefox": [
-        "dev.qwery.AddWater",
-        "org.gnome.Eolie"
-    ],
-    "~/.var/app/io.gitlab.librewolf-community/.librewolf": [
+    "~/.librewolf": [
         "dev.qwery.AddWater"
     ],
-    "~/.librewolf": [
+    "~/.floorp": [
+        "dev.qwery.AddWater"
+    ],
+    "~/.cachy": [
         "dev.qwery.AddWater"
     ],
     "~/.var/app/one.ablaze.floorp/.floorp": [
         "dev.qwery.AddWater"
     ],
-    "~/.floorp": [
+    "~/.var/app/org.mozilla.firefox/.mozilla/firefox": [
         "dev.qwery.AddWater"
+    ],
+    "~/.mozilla/firefox": [
+        "dev.qwery.AddWater",
+        "org.gnome.Eolie"
     ],
     "~/Gameeky:create": [
         "dev.tchx84.Gameeky"
@@ -4036,9 +4041,6 @@
         "io.github.philipk.boilr"
     ],
     "~/Games/Heroic:ro": [
-        "io.github.philipk.boilr"
-    ],
-    "/run/media/mmcblk0p1:ro": [
         "io.github.philipk.boilr"
     ],
     "xdg-data/lutris:ro": [
