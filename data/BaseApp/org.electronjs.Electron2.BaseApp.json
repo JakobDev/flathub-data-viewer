@@ -102,7 +102,6 @@
         "org.getoutline.OutlineManager",
         "org.jupyter.JupyterLab",
         "org.onlyoffice.desktopeditors",
-        "org.standardnotes.standardnotes",
         "org.tropy.Tropy",
         "org.turbowarp.TurboWarp",
         "org.twinery.Twine",
@@ -163,6 +162,7 @@
         "org.jamovi.jamovi",
         "org.jitsi.jitsi-meet",
         "org.signal.Signal",
+        "org.standardnotes.standardnotes",
         "tech.feliciano.pocket-casts",
         "xyz.armcord.ArmCord"
     ],

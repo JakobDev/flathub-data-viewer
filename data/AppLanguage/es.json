@@ -1,4 +1,5 @@
 [
+    "app.devsuite.Ptyxis",
     "app.drey.Dialect",
     "app.drey.EarTag",
     "app.drey.Elastic",
@@ -93,6 +94,7 @@
     "io.neovim.nvim",
     "io.posidon.Paper",
     "it.mijorus.collector",
+    "me.iepure.devtoolbox",
     "net.displaycal.DisplayCAL",
     "net.minetest.Minetest",
     "net.nokyan.Resources",

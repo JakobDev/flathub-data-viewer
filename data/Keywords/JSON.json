@@ -1,5 +1,6 @@
 [
     "io.github.martinrotter.rssguard",
     "io.github.martinrotter.rssguardlite",
-    "io.gitlab.liferooter.TextPieces"
+    "io.gitlab.liferooter.TextPieces",
+    "me.iepure.devtoolbox"
 ]
