@@ -18,6 +18,7 @@
     "net.rpcs3.RPCS3",
     "org.fkoehler.KTailctl",
     "org.gnome.Builder",
+    "org.gnome.Fractal",
     "org.gnome.Loupe",
     "org.gnome.Snapshot",
     "org.gnome.gitlab.YaLTeR.Identity",

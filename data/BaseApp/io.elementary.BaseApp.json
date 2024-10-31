@@ -1,26 +1,10 @@
 {
-    "juno-22.08": [
-        "com.github.alainm23.byte",
-        "com.github.artemanufrij.playmyvideos",
-        "com.github.bcedu.valasimplehttpserver",
-        "com.github.devalien.workspaces",
-        "com.github.gijsgoudzwaard.image-optimizer",
-        "com.github.muriloventuroso.pdftricks",
-        "com.github.rajsolai.textsnatcher",
-        "com.github.subhadeepjasu.pebbles",
-        "com.github.treagod.spectator"
-    ],
-    "juno-20.08": [
-        "com.github.alecaddd.sequeler",
-        "com.github.donadigo.appeditor",
-        "com.github.raibtoffoletto.litteris",
-        "com.github.rajsolai.response",
-        "com.github.robertsanseries.ciano"
-    ],
     "juno-23.08": [
+        "com.github.alainm23.byte",
         "com.github.arshubham.cipher",
         "com.github.arshubham.gitignore",
         "com.github.artemanufrij.graphui",
+        "com.github.artemanufrij.playmyvideos",
         "com.github.artemanufrij.regextester",
         "com.github.childishgiant.mixer",
         "com.github.dahenson.agenda",
@@ -28,6 +12,13 @@
         "com.github.muriloventuroso.givemelyrics",
         "com.github.phase1geo.minder",
         "com.github.philip_scott.spice-up"
+    ],
+    "juno-20.08": [
+        "com.github.alecaddd.sequeler",
+        "com.github.donadigo.appeditor",
+        "com.github.raibtoffoletto.litteris",
+        "com.github.rajsolai.response",
+        "com.github.robertsanseries.ciano"
     ],
     "juno-21.08": [
         "com.github.artemanufrij.playmymusic",
@@ -39,6 +30,15 @@
         "com.github.mdh34.quickdocs",
         "com.github.needleandthread.vocal",
         "com.github.philip_scott.notes-up"
+    ],
+    "juno-22.08": [
+        "com.github.bcedu.valasimplehttpserver",
+        "com.github.devalien.workspaces",
+        "com.github.gijsgoudzwaard.image-optimizer",
+        "com.github.muriloventuroso.pdftricks",
+        "com.github.rajsolai.textsnatcher",
+        "com.github.subhadeepjasu.pebbles",
+        "com.github.treagod.spectator"
     ],
     "juno-19.08": [
         "com.github.calo001.fondo",

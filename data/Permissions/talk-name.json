@@ -2392,6 +2392,7 @@
         "org.ferdium.Ferdium",
         "org.fkoehler.KTailctl",
         "org.flameshot.Flameshot",
+        "org.fooyin.fooyin",
         "org.gajim.Gajim",
         "org.gnome.Tomboy",
         "org.goldendict.GoldenDict",
@@ -2830,6 +2831,7 @@
         "io.github.jean28518.Linux-Assistant",
         "io.github.jeffshee.Hidamari",
         "io.github.jliljebl.Flowblade",
+        "io.github.lawstorant.boxflat",
         "io.github.limo_app.limo",
         "io.github.maurycyliebner.enve",
         "io.github.mhogomchungu.sirikali",
@@ -3566,10 +3568,18 @@
         "com.viber.Viber",
         "io.gdevelop.ide"
     ],
-    "org.gnome.SettingsDaemon.MediaKeys": [
-        "com.github.alainm23.byte",
+    "org.gnome.Shell.Screencast": [
+        "com.github.amikha1lov.RecApp",
+        "com.qq.QQ",
+        "com.uploadedlobster.peek"
+    ],
+    "org.mpris.MediaPlayer2": [
         "com.github.artemanufrij.playmymusic",
         "com.github.artemanufrij.playmyvideos",
+        "net.sonic_pi.SonicPi"
+    ],
+    "org.gnome.SettingsDaemon.MediaKeys": [
+        "com.github.artemanufrij.playmymusic",
         "com.github.iwalton3.jellyfin-mpv-shim",
         "com.github.needleandthread.vocal",
         "com.lettier.movie-monad",
@@ -3580,16 +3590,6 @@
         "io.github.quodlibet.QuodLibet",
         "org.clementine_player.Clementine",
         "org.strawberrymusicplayer.strawberry"
-    ],
-    "org.gnome.Shell.Screencast": [
-        "com.github.amikha1lov.RecApp",
-        "com.qq.QQ",
-        "com.uploadedlobster.peek"
-    ],
-    "org.mpris.MediaPlayer2": [
-        "com.github.artemanufrij.playmymusic",
-        "com.github.artemanufrij.playmyvideos",
-        "net.sonic_pi.SonicPi"
     ],
     "org.freedesktop.thumbnails.Thumbnailer1": [
         "com.github.artemanufrij.playmyvideos"
