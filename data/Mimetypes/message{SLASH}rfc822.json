@@ -1,6 +1,7 @@
 [
     "cn.feishu.Feishu",
     "eu.betterbird.Betterbird",
+    "io.github.alescdb.mailviewer",
     "org.gnome.Epiphany",
     "org.gnome.Evolution",
     "org.kde.itinerary",

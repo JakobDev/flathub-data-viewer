@@ -82,7 +82,6 @@
         "io.qt.QtCreator",
         "io.qt.qdbusviewer",
         "io.qt.qtdesignstudio",
-        "io.qt.qtwebengine.BaseApp",
         "it.cuteworks.pacmanlogviewer",
         "moe.emmaexe.ntfyDesktop",
         "net.blumia.pineapple-pictures",
@@ -97,7 +96,6 @@
         "net.sourceforge.m64py.M64Py",
         "net.xm1math.Texmaker",
         "one.flipperzero.qFlipper",
-        "org.DolphinEmu.dolphin-emu",
         "org.artisan_scope.artisan",
         "org.atheme.audacious",
         "org.beeref.BeeRef",
@@ -725,6 +723,10 @@
         "dev.levz.TinyImageFinder",
         "org.linux_hardware.hw-probe",
         "org.subtitld.Subtitld"
+    ],
+    "6.8": [
+        "io.qt.qtwebengine.BaseApp",
+        "org.DolphinEmu.dolphin-emu"
     ],
     "5.9": [
         "io.qt.qtwebkit.BaseApp"

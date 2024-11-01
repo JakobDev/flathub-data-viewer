@@ -226,6 +226,7 @@
         "io.github.MakovWait.Godots",
         "io.github.RodZill4.Material-Maker",
         "io.github.adrienverge.PhotoCollage",
+        "io.github.alescdb.mailviewer",
         "io.github.am2r_community_developers.Atomic",
         "io.github.antimicrox.antimicrox",
         "io.github.benini.scid",
@@ -3839,6 +3840,9 @@
     ],
     "xdg-documents:create": [
         "io.github.aerocyber.sitemarker"
+    ],
+    "xdg-run/mailviewer:create": [
+        "io.github.alescdb.mailviewer"
     ],
     "/sys/class/leds": [
         "io.github.berarma.Oversteer"
