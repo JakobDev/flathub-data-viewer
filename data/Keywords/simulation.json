@@ -10,5 +10,6 @@
     "org.freeciv.gtk4",
     "org.freeciv.qt",
     "org.freeciv.sdl2",
+    "org.nsnam.NetAnim",
     "org.openttd.OpenTTD"
 ]

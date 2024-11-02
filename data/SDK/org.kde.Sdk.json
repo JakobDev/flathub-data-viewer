@@ -14,6 +14,7 @@
         "com.github.hluk.copyq",
         "com.github.scrivanolabs.scrivano",
         "com.github.unrud.djpdf",
+        "com.github.vkohaupt.vokoscreenNG",
         "com.gitlab.tipp10.tipp10",
         "com.markopejic.downloader",
         "com.moonlight_stream.Moonlight",
@@ -96,6 +97,7 @@
         "net.sourceforge.m64py.M64Py",
         "net.xm1math.Texmaker",
         "one.flipperzero.qFlipper",
+        "org.DolphinEmu.dolphin-emu",
         "org.artisan_scope.artisan",
         "org.atheme.audacious",
         "org.beeref.BeeRef",
@@ -481,13 +483,11 @@
         "org.libretro.RetroArch",
         "org.linuxshowplayer.LinuxShowPlayer",
         "org.lyx.LyX",
-        "org.mamedev.MAME",
         "org.mavlink.qgroundcontrol",
         "org.mixxx.Mixxx",
         "org.munadi.Munadi",
         "org.musicbrainz.Picard",
         "org.nomacs.ImageLounge",
-        "org.nsnam.NetAnim",
         "org.octave.Octave",
         "org.okstar.ok-msg",
         "org.olivevideoeditor.Olive",
@@ -538,7 +538,6 @@
         "com.github.Bleuzen.FFaudioConverter",
         "com.github.jmlich.geotagging",
         "com.github.quaternion",
-        "com.github.vkohaupt.vokoscreenNG",
         "com.obsproject.Studio",
         "com.rocksandpaper.syndic",
         "com.yacreader.YACReader",
@@ -580,7 +579,6 @@
         "org.photoqt.PhotoQt",
         "org.plomgrading.PlomClient",
         "org.previewqt.PreviewQt",
-        "org.stellarium.Stellarium",
         "org.strawberrymusicplayer.strawberry",
         "org.tug.texworks",
         "page.codeberg.DrRac27.Karoto"
@@ -726,7 +724,9 @@
     ],
     "6.8": [
         "io.qt.qtwebengine.BaseApp",
-        "org.DolphinEmu.dolphin-emu"
+        "org.mamedev.MAME",
+        "org.nsnam.NetAnim",
+        "org.stellarium.Stellarium"
     ],
     "5.9": [
         "io.qt.qtwebkit.BaseApp"

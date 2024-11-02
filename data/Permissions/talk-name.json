@@ -3578,19 +3578,6 @@
         "com.github.artemanufrij.playmyvideos",
         "net.sonic_pi.SonicPi"
     ],
-    "org.gnome.SettingsDaemon.MediaKeys": [
-        "com.github.artemanufrij.playmymusic",
-        "com.github.iwalton3.jellyfin-mpv-shim",
-        "com.github.needleandthread.vocal",
-        "com.lettier.movie-monad",
-        "com.mastermindzh.tidal-hifi",
-        "com.spotify.Client",
-        "com.valvesoftware.Steam",
-        "io.github.Pithos",
-        "io.github.quodlibet.QuodLibet",
-        "org.clementine_player.Clementine",
-        "org.strawberrymusicplayer.strawberry"
-    ],
     "org.freedesktop.thumbnails.Thumbnailer1": [
         "com.github.artemanufrij.playmyvideos"
     ],
@@ -3639,6 +3626,18 @@
     ],
     "org.kde.StatusNotifierItem": [
         "com.github.gabutakut.gabutdm"
+    ],
+    "org.gnome.SettingsDaemon.MediaKeys": [
+        "com.github.iwalton3.jellyfin-mpv-shim",
+        "com.github.needleandthread.vocal",
+        "com.lettier.movie-monad",
+        "com.mastermindzh.tidal-hifi",
+        "com.spotify.Client",
+        "com.valvesoftware.Steam",
+        "io.github.Pithos",
+        "io.github.quodlibet.QuodLibet",
+        "org.clementine_player.Clementine",
+        "org.strawberrymusicplayer.strawberry"
     ],
     "org.freedesktop.portal.Fcitx": [
         "com.github.marktext.marktext"

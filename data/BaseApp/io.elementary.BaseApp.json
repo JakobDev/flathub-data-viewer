@@ -4,8 +4,10 @@
         "com.github.arshubham.cipher",
         "com.github.arshubham.gitignore",
         "com.github.artemanufrij.graphui",
+        "com.github.artemanufrij.playmymusic",
         "com.github.artemanufrij.playmyvideos",
         "com.github.artemanufrij.regextester",
+        "com.github.babluboy.bookworm",
         "com.github.childishgiant.mixer",
         "com.github.dahenson.agenda",
         "com.github.louis77.tuner",
@@ -20,17 +22,6 @@
         "com.github.rajsolai.response",
         "com.github.robertsanseries.ciano"
     ],
-    "juno-21.08": [
-        "com.github.artemanufrij.playmymusic",
-        "com.github.babluboy.bookworm",
-        "com.github.calo001.luna",
-        "com.github.horaciodrs.tradesim",
-        "com.github.matfantinel.reminduck",
-        "com.github.mdh34.hackup",
-        "com.github.mdh34.quickdocs",
-        "com.github.needleandthread.vocal",
-        "com.github.philip_scott.notes-up"
-    ],
     "juno-22.08": [
         "com.github.bcedu.valasimplehttpserver",
         "com.github.devalien.workspaces",
@@ -44,5 +35,14 @@
         "com.github.calo001.fondo",
         "com.github.inercia.k3x",
         "com.github.matfantinel.moneta"
+    ],
+    "juno-21.08": [
+        "com.github.calo001.luna",
+        "com.github.horaciodrs.tradesim",
+        "com.github.matfantinel.reminduck",
+        "com.github.mdh34.hackup",
+        "com.github.mdh34.quickdocs",
+        "com.github.needleandthread.vocal",
+        "com.github.philip_scott.notes-up"
     ]
 }
