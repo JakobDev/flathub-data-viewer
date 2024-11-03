@@ -16,6 +16,7 @@
     "net.nokyan.Resources",
     "net.retrodeck.retrodeck",
     "net.rpcs3.RPCS3",
+    "org.duckstation.DuckStation",
     "org.fkoehler.KTailctl",
     "org.gnome.Builder",
     "org.gnome.Fractal",

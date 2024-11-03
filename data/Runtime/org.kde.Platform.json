@@ -23,6 +23,7 @@
         "com.nolimitconnect.NoLimitConnect",
         "com.riverbankcomputing.PyQt.BaseApp",
         "com.rtosta.zapzap",
+        "com.vicr123.thebeat",
         "cz.cvut.edu.comparch.qtrvsim",
         "de.akaflieg_freiburg.cavok.add_hours_and_minutes",
         "de.akaflieg_freiburg.enroute",
@@ -39,6 +40,7 @@
         "eu.ad5001.LogarithmPlotter",
         "eu.ad5001.LogarithmPlotter",
         "eu.vcmi.VCMI",
+        "fr.free.brouits.qspeakers",
         "io.github.Arisotura.CoinKiller",
         "io.github.FedericoCalzoni.EventRecorder",
         "io.github.NickKarpowicz.LightwaveExplorer",
@@ -99,7 +101,6 @@
         "org.bino3d.bino",
         "org.contourterminal.Contour",
         "org.cznic.Datovka",
-        "org.duckstation.DuckStation",
         "org.equeim.Tremotesf",
         "org.fkoehler.KTailctl",
         "org.fooyin.fooyin",
@@ -215,7 +216,6 @@
         "org.kde.kteatime",
         "org.kde.ktorrent",
         "org.kde.ktrip",
-        "org.kde.ktuberling",
         "org.kde.kturtle",
         "org.kde.kubrick",
         "org.kde.kuiviewer",
@@ -580,7 +580,6 @@
         "com.nitrokey.nitrokey-app",
         "com.virustotal.VirusTotalUploader",
         "com.vzhd1701.gridplayer",
-        "fr.free.brouits.qspeakers",
         "fr.free.qccrypt.Qccrypt",
         "im.kaidan.kaidan",
         "io.github.Andrettin.Wyrmsun",
@@ -689,7 +688,6 @@
     "6.5": [
         "com.github.dail8859.NotepadNext",
         "com.librumreader.librum",
-        "com.vicr123.thebeat",
         "io.github.koromelodev.mindmate",
         "org.onionshare.OnionShare"
     ],
@@ -709,6 +707,8 @@
     ],
     "6.8": [
         "io.qt.qtwebengine.BaseApp",
+        "org.duckstation.DuckStation",
+        "org.kde.ktuberling",
         "org.mamedev.MAME",
         "org.nsnam.NetAnim",
         "org.stellarium.Stellarium"

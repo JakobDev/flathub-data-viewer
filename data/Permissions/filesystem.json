@@ -35,6 +35,7 @@
         "com.bambulab.BambuStudio",
         "com.behringer.XAirEdit",
         "com.belmoussaoui.snowglobe",
+        "com.bespokesynth.BespokeSynth",
         "com.bestaticpy.bestatic",
         "com.bladecoder.adventure-editor",
         "com.brosix.Brosix",
@@ -2276,6 +2277,7 @@
     ],
     "xdg-run/pipewire-0": [
         "ar.com.tuxguitar.TuxGuitar",
+        "com.bespokesynth.BespokeSynth",
         "com.bitwig.BitwigStudio",
         "com.bladecoder.adventure-editor",
         "com.brave.Browser",
