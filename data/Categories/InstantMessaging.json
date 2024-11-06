@@ -1,6 +1,5 @@
 [
     "app.bluebubbles.BlueBubbles",
-    "app.kaiteki.Kaiteki",
     "cc.retroshare.retroshare-gui",
     "ch.threema.threema-web-desktop",
     "chat.delta",

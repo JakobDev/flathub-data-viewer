@@ -65,7 +65,8 @@
         "org.qgis.qgis",
         "org.spyder_ide.spyder",
         "org.syntalos.syntalos",
-        "org.torproject.torbrowser-launcher"
+        "org.torproject.torbrowser-launcher",
+        "studio.kx.carla"
     ],
     "5.15-21.08": [
         "org.qutebrowser.qutebrowser"

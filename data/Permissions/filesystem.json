@@ -2317,7 +2317,6 @@
         "io.github.equicord.equibop",
         "io.github.gillesdegottex.FMIT",
         "io.github.kotatogram",
-        "io.github.kukuruzka165.materialgram",
         "io.github.muse_sequencer.Muse",
         "io.github.pd_l2ork.Pd_L2Ork",
         "io.github.rdybka.vht",
@@ -4489,9 +4488,6 @@
     ],
     "~/gPodder": [
         "org.gpodder.gpodder-adaptive"
-    ],
-    "/usr/share/fonts": [
-        "org.gustavoperedo.FontDownloader"
     ],
     "~/Jellyfin Server Media:create": [
         "org.jellyfin.JellyfinServer"

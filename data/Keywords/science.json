@@ -4,6 +4,7 @@
     "com.lablicate.OpenChrom",
     "edu.berkeley.BOINC",
     "io.github.veusz.Veusz",
+    "io.gitlab.leesonwai.Sums",
     "org.octave.Octave",
     "org.pyzo.pyzo"
 ]

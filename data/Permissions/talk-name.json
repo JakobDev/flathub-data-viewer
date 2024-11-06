@@ -3125,6 +3125,7 @@
         "tv.kodi.Kodi",
         "tv.plex.PlexDesktop",
         "tv.plex.PlexHTPC",
+        "us.materialio.Materialious",
         "us.zoom.Zoom"
     ],
     "org.freedesktop.login1": [
@@ -3308,7 +3309,8 @@
         "org.qbittorrent.qBittorrent",
         "org.sabnzbd.sabnzbd",
         "org.signal.Signal",
-        "tv.plex.PlexHTPC"
+        "tv.plex.PlexHTPC",
+        "us.materialio.Materialious"
     ],
     "org.freedesktop.portal.Background": [
         "codes.loers.Karlender",

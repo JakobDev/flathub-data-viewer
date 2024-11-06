@@ -1,6 +1,7 @@
 [
     "app.drey.Dialect",
     "com.github.PintaProject.Pinta",
+    "de.schmidhuberj.Flare",
     "org.gnome.Boxes",
     "org.gnome.Calculator",
     "org.gnome.Calendar",

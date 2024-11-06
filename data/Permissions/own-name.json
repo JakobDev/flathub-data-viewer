@@ -1,7 +1,4 @@
 {
-    "moe.craftplacer.kaiteki": [
-        "app.kaiteki.Kaiteki"
-    ],
     "org.mpris.MediaPlayer2.Moosync": [
         "app.moosync.moosync"
     ],
@@ -107,7 +104,8 @@
         "io.wavebox.Wavebox",
         "org.chromium.Chromium",
         "ru.yandex.Browser",
-        "tech.feliciano.pocket-casts"
+        "tech.feliciano.pocket-casts",
+        "us.materialio.Materialious"
     ],
     "com.endlessm.GameStateService": [
         "com.hack_computer.Clubhouse"

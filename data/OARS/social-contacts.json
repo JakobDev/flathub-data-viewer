@@ -159,7 +159,6 @@
         "xyz.z3ntu.razergenie"
     ],
     "intense": [
-        "app.kaiteki.Kaiteki",
         "chat.delta",
         "chat.revolt.RevoltDesktop",
         "chat.rocket.RocketChat",
@@ -227,6 +226,7 @@
         "se.manyver.Manyverse",
         "so.libdb.dissent",
         "us.ihmc.cmap.CmapTools",
+        "us.materialio.Materialious",
         "xyz.armcord.ArmCord"
     ]
 }
