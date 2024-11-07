@@ -42,6 +42,7 @@
         "application{SLASH}epub+zip",
         "application{SLASH}ereader",
         "application{SLASH}excel",
+        "application{SLASH}exd",
         "application{SLASH}fb2",
         "application{SLASH}fb2+xml",
         "application{SLASH}fb2+zip",

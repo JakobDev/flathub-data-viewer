@@ -12,11 +12,13 @@
         "org.paraview.ParaView",
         "org.spyder_ide.spyder"
     ],
-    "6.7": [
+    "6.8": [
         "io.qt.Designer",
         "io.qt.Linguist",
+        "io.qt.qdbusviewer"
+    ],
+    "6.7": [
         "io.qt.QtCreator",
-        "io.qt.qdbusviewer",
         "io.qt.qtdesignstudio",
         "org.kde.kcachegrind",
         "org.kde.kdevelop",
