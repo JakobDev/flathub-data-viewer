@@ -181,6 +181,7 @@
         "com.skype.Client",
         "com.slack.Slack",
         "com.tencent.WeChat",
+        "com.tradingview.tradingview",
         "com.viber.Viber",
         "com.visualstudio.code-oss",
         "dev.geopjr.Tuba",

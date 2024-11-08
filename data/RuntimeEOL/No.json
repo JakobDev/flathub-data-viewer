@@ -1,6 +1,7 @@
 [
     "app.authpass.AuthPass",
     "app.bbsync.BlackboardSync",
+    "app.bluebubbles.BlueBubbles",
     "app.cantara.Cantara",
     "app.devsuite.Manuals",
     "app.devsuite.Ptyxis",
@@ -165,6 +166,7 @@
     "com.flashforge.FlashPrint",
     "com.frac_tion.teleport",
     "com.francescogaglione.chronos",
+    "com.francescogaglione.cosmicmoney",
     "com.freerdp.FreeRDP",
     "com.frogatto.Frogatto",
     "com.gamestarmechanic.gamestarmechanic",
@@ -512,6 +514,7 @@
     "com.tomjwatson.Emote",
     "com.tonikelope.MegaBasterd",
     "com.toolstack.Folio",
+    "com.tradingview.tradingview",
     "com.transmissionbt.Transmission",
     "com.tutanota.Tutanota",
     "com.tux4kids.tuxmath",

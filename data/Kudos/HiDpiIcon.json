@@ -1,6 +1,5 @@
 [
     "app.authpass.AuthPass",
-    "app.bluebubbles.BlueBubbles",
     "app.midterm.MidtermDesktop",
     "app.moosync.moosync",
     "app.riftshare.RiftShare",
@@ -331,7 +330,6 @@
     "io.github.freedoom.Phase1",
     "io.github.freedoom.Phase2",
     "io.github.garglk.Gargoyle",
-    "io.github.gen2brain.cbconvert",
     "io.github.gerryferdinandus.bittorrent-tracker-editor",
     "io.github.giantpinkrobots.bootqt",
     "io.github.gssh_linux.gssh",

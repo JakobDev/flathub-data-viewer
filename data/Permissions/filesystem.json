@@ -2909,6 +2909,7 @@
         "com.modrinth.ModrinthApp",
         "com.mojang.Minecraft",
         "com.tencent.WeChat",
+        "com.tradingview.tradingview",
         "dev.fredol.open-tv",
         "io.github.Soundux",
         "io.github.nate_xyz.Resonance",
@@ -3233,6 +3234,7 @@
     ],
     "xdg-config/cosmic:ro": [
         "com.francescogaglione.chronos",
+        "com.francescogaglione.cosmicmoney",
         "dev.edfloreshz.Calculator",
         "dev.edfloreshz.Tasks",
         "dev.mariinkys.Oboete",

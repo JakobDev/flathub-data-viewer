@@ -2026,6 +2026,7 @@
         "x-scheme-handler{SLASH}tokodon",
         "x-scheme-handler{SLASH}tonsite",
         "x-scheme-handler{SLASH}tox",
+        "x-scheme-handler{SLASH}tradingview",
         "x-scheme-handler{SLASH}trezorsuite",
         "x-scheme-handler{SLASH}ts3server",
         "x-scheme-handler{SLASH}tswift",

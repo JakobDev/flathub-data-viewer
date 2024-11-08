@@ -1,5 +1,6 @@
 {
     "stable": [
+        "com.francescogaglione.cosmicmoney",
         "dev.edfloreshz.Calculator",
         "dev.edfloreshz.CosmicTweaks",
         "dev.edfloreshz.Tasks",

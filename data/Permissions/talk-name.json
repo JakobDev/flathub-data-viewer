@@ -2212,6 +2212,7 @@
     ],
     "org.kde.StatusNotifierWatcher": [
         "app.bbsync.BlackboardSync",
+        "app.bluebubbles.BlueBubbles",
         "app.lith.Lith",
         "app.moosync.moosync",
         "app.vup.Vup",
@@ -3544,6 +3545,7 @@
     ],
     "com.system76.CosmicSettingsDaemon": [
         "com.francescogaglione.chronos",
+        "com.francescogaglione.cosmicmoney",
         "com.jwestall.Forecast",
         "dev.edfloreshz.Calculator",
         "dev.edfloreshz.CosmicTweaks",
