@@ -60,7 +60,6 @@
     "6.6": [
         "com.github.jmlich.geotagging",
         "io.github.nyre221.kiview",
-        "org.fcitx.Fcitx5",
         "org.previewqt.PreviewQt"
     ],
     "5.15": [
@@ -72,7 +71,8 @@
         "dev.lukebriggs.pepys"
     ],
     "6.8": [
-        "io.github.martinrotter.rssguard"
+        "io.github.martinrotter.rssguard",
+        "org.fcitx.Fcitx5"
     ],
     "5.15-22.08": [
         "io.sourceforge.chart_geany.chart-geany"

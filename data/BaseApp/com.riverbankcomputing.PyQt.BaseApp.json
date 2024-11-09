@@ -2,6 +2,7 @@
     "6.7": [
         "app.bbsync.BlackboardSync",
         "app.polychromatic.controller",
+        "com.borgbase.Vorta",
         "com.rtosta.zapzap",
         "de.nagstamon.nagstamon",
         "io.github.FedericoCalzoni.EventRecorder",
@@ -29,12 +30,6 @@
         "page.codeberg.JakobDev.jdTextEdit",
         "pw.mmk.OpenFreebuds",
         "rocks.syng.Syng"
-    ],
-    "6.6": [
-        "com.borgbase.Vorta",
-        "me.mitya57.ReText",
-        "org.plomgrading.PlomClient",
-        "page.codeberg.DrRac27.Karoto"
     ],
     "5.15-23.08": [
         "com.github.arminstraub.krop",
@@ -67,6 +62,11 @@
         "org.syntalos.syntalos",
         "org.torproject.torbrowser-launcher",
         "studio.kx.carla"
+    ],
+    "6.6": [
+        "me.mitya57.ReText",
+        "org.plomgrading.PlomClient",
+        "page.codeberg.DrRac27.Karoto"
     ],
     "5.15-21.08": [
         "org.qutebrowser.qutebrowser"

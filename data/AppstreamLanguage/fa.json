@@ -133,6 +133,7 @@
     "org.gustavoperedo.FontDownloader",
     "org.kde.dolphin",
     "org.kde.index",
+    "org.kde.neochat",
     "org.kde.tokodon",
     "org.stellarium.Stellarium",
     "org.tug.texworks",

@@ -38,6 +38,7 @@
     "io.github.fizzyizzy05.binary",
     "io.github.fkinoshita.Telegraph",
     "io.github.giantpinkrobots.flatsweep",
+    "io.github.giantpinkrobots.varia",
     "io.github.nokse22.Exhibit",
     "io.github.nokse22.asciidraw",
     "io.github.nokse22.minitext",
@@ -205,5 +206,6 @@
     "org.widelands.Widelands",
     "org.xfce.mousepad",
     "org.xfce.ristretto",
+    "se.sjoerd.Graphs",
     "xyz.safeworlds.hiit"
 ]

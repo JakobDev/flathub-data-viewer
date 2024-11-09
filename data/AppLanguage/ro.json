@@ -66,6 +66,7 @@
     "org.gnome.Gnote",
     "org.gnome.Gtranslator",
     "org.gnome.Hamster",
+    "org.gnome.LightsOff",
     "org.gnome.Logs",
     "org.gnome.Loupe",
     "org.gnome.Mahjongg",
@@ -140,5 +141,6 @@
     "org.xfce.mousepad",
     "org.xfce.ristretto",
     "org.zim_wiki.Zim",
+    "se.sjoerd.Graphs",
     "sm.puri.Chatty"
 ]
