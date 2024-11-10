@@ -2551,6 +2551,7 @@
         "io.github.ecotubehq.player",
         "io.github.fastrizwaan.WineZGUI",
         "io.github.hvdwofl.jExifToolGUI",
+        "io.github.kelvinnovais.Kasasa",
         "io.github.ktgw0316.LightZone",
         "io.github.najepaliya.kleaner",
         "io.github.obiwankennedy.HotShots",
@@ -3235,12 +3236,16 @@
     ],
     "xdg-config/cosmic:ro": [
         "com.francescogaglione.chronos",
-        "com.francescogaglione.cosmicmoney",
         "dev.edfloreshz.Calculator",
         "dev.edfloreshz.Tasks",
         "dev.mariinkys.Oboete",
         "dev.mariinkys.StarryDex",
         "io.github.cosmic_utils.Examine"
+    ],
+    "xdg-config/cosmic": [
+        "com.francescogaglione.cosmicmoney",
+        "com.jwestall.Forecast",
+        "dev.edfloreshz.CosmicTweaks"
     ],
     "~/.ssh:ro": [
         "com.gitbutler.gitbutler",
@@ -3531,10 +3536,6 @@
         "com.jetbrains.CLion",
         "com.jetbrains.IntelliJ-IDEA-Ultimate"
     ],
-    "xdg-config/cosmic": [
-        "com.jwestall.Forecast",
-        "dev.edfloreshz.CosmicTweaks"
-    ],
     "~/.gnupg:create": [
         "com.konstantintutsch.Lock",
         "org.gnome.seahorse.Application",
@@ -3811,27 +3812,6 @@
     ],
     "~/.var/app/com.valvesoftware.Steam/.steam/steam": [
         "io.github.Foldex.AdwSteamGtk"
-    ],
-    "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/632360": [
-        "io.github.Foldex.r2mod"
-    ],
-    "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Risk of Rain 2": [
-        "io.github.Foldex.r2mod"
-    ],
-    "~/.local/share/bash-completion/completions:create": [
-        "io.github.Foldex.r2mod"
-    ],
-    "~/.local/share/Steam/steamapps/compatdata/632360": [
-        "io.github.Foldex.r2mod"
-    ],
-    "~/.local/share/Steam/steamapps/common/Risk of Rain 2": [
-        "io.github.Foldex.r2mod"
-    ],
-    "/tmp/r2mod:create": [
-        "io.github.Foldex.r2mod"
-    ],
-    "~/.local/share/zsh/site-functions:create": [
-        "io.github.Foldex.r2mod"
     ],
     "/run/user:ro": [
         "io.github.Sunderland93.sway-input-config"
@@ -4392,14 +4372,6 @@
     "/boot": [
         "org.freedesktop.fwupd"
     ],
-    "xdg-data/fonts": [
-        "org.gabmus.gfeeds",
-        "org.gnome.FontManager"
-    ],
-    "xdg-config/fontconfig": [
-        "org.gabmus.gfeeds",
-        "org.gnome.FontManager"
-    ],
     "~/.config/sway/config": [
         "org.gabmus.hydrapaper"
     ],
@@ -4443,6 +4415,12 @@
     ],
     "~/.config/pki": [
         "org.gnome.Evolution"
+    ],
+    "xdg-data/fonts": [
+        "org.gnome.FontManager"
+    ],
+    "xdg-config/fontconfig": [
+        "org.gnome.FontManager"
     ],
     "~/.cache/evolution/addressbook:ro": [
         "org.gnome.Geary"

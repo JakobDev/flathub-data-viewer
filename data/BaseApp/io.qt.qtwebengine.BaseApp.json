@@ -54,7 +54,6 @@
         "org.kde.skrooge",
         "org.paraview.ParaView",
         "org.rolisteam.rolisteam",
-        "org.sdrangel.SDRangel",
         "org.yacas.yacas-gui"
     ],
     "6.6": [
@@ -72,7 +71,8 @@
     ],
     "6.8": [
         "io.github.martinrotter.rssguard",
-        "org.fcitx.Fcitx5"
+        "org.fcitx.Fcitx5",
+        "org.sdrangel.SDRangel"
     ],
     "5.15-22.08": [
         "io.sourceforge.chart_geany.chart-geany"

@@ -8,6 +8,7 @@
         "com.github.artemanufrij.playmyvideos",
         "com.github.artemanufrij.regextester",
         "com.github.babluboy.bookworm",
+        "com.github.calo001.luna",
         "com.github.childishgiant.mixer",
         "com.github.dahenson.agenda",
         "com.github.louis77.tuner",
@@ -38,7 +39,6 @@
         "com.github.matfantinel.moneta"
     ],
     "juno-21.08": [
-        "com.github.calo001.luna",
         "com.github.horaciodrs.tradesim",
         "com.github.matfantinel.reminduck",
         "com.github.mdh34.hackup",

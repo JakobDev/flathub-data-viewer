@@ -2370,6 +2370,7 @@
         "io.kopia.KopiaUI",
         "io.podman_desktop.PodmanDesktop",
         "me.kozec.syncthingtk",
+        "me.proton.Pass",
         "me.timschneeberger.GalaxyBudsClient",
         "me.timschneeberger.jdsp4linux",
         "moe.emmaexe.ntfyDesktop",

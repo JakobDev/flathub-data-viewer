@@ -679,14 +679,6 @@
     ".frozen-bubble": [
         "org.frozen_bubble.frozen-bubble"
     ],
-    "xdg-data/fonts": [
-        "org.gabmus.gfeeds",
-        "org.gnome.FontManager"
-    ],
-    "xdg-config/fontconfig": [
-        "org.gabmus.gfeeds",
-        "org.gnome.FontManager"
-    ],
     ".firedragon": [
         "org.garudalinux.firedragon"
     ],
@@ -695,6 +687,12 @@
     ],
     ".bitmonero": [
         "org.getmonero.Monero"
+    ],
+    "xdg-data/fonts": [
+        "org.gnome.FontManager"
+    ],
+    "xdg-config/fontconfig": [
+        "org.gnome.FontManager"
     ],
     ".genius": [
         "org.gnome.Genius"
