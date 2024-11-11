@@ -1,6 +1,7 @@
 [
     "com.helix_editor.Helix",
     "com.notepadqq.Notepadqq",
+    "dev.neovide.neovide",
     "io.atom.Atom",
     "io.neovim.nvim",
     "org.gnome.Builder",

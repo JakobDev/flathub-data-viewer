@@ -1,3 +1,4 @@
 [
-    "fr.handbrake.ghb.Plugin.IntelMediaSDK"
+    "fr.handbrake.ghb.Plugin.IntelMediaSDK",
+    "fr.handbrake.ghb.Plugin.dvdcss"
 ]

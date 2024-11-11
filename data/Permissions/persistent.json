@@ -218,7 +218,8 @@
     ],
     ".nxmc4": [
         "com.netxms.NetXMSClient",
-        "com.netxms.NetXMSClient50"
+        "com.netxms.NetXMSClient50",
+        "com.netxms.NetXMSClient51"
     ],
     ".nx": [
         "com.nomachine.nxplayer"

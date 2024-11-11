@@ -10,5 +10,6 @@
     "org.equeim.Tremotesf",
     "org.kicad.KiCad",
     "org.moneymanagerex.MMEX",
-    "ua.org.brezblock.q4wine"
+    "ua.org.brezblock.q4wine",
+    "org.fcitx.Fcitx5.Addon.McBopomofo"
 ]

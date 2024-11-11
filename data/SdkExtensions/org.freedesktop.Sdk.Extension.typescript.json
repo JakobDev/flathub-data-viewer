@@ -1,6 +1,7 @@
 [
     "com.lynnmichaelmartin.TimeTracker",
     "io.github.adenlall.salatok-gtk",
+    "io.gitlab.guillermop.Counters",
     "org.gnome.Decibels",
     "org.gnome.gitlab.bazylevnik0.Convolution"
 ]

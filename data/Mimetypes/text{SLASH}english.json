@@ -1,5 +1,6 @@
 [
     "com.helix_editor.Helix",
+    "dev.neovide.neovide",
     "io.neovim.nvim",
     "org.gnu.emacs",
     "org.vim.Vim"

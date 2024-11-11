@@ -1575,6 +1575,7 @@
         "dev.ensoft.ecode",
         "dev.gbstudio.gb-studio",
         "dev.lapce.lapce",
+        "dev.neovide.neovide",
         "dev.pulsar_edit.Pulsar",
         "edu.stanford.Almond",
         "engineer.atlas.Nyxt",
@@ -1598,7 +1599,6 @@
         "io.github.cboxdoerfer.FSearch",
         "io.github.ctlcltd.e2se",
         "io.github.daviddesimone.opencloudsaves",
-        "io.github.ddanilov.soundscape",
         "io.github.fralonra.WgShadertoy",
         "io.github.georgewoodall82.jsymphonic",
         "io.github.giantpinkrobots.bootqt",
@@ -1831,6 +1831,7 @@
         "dog.unix.cantata.Cantata",
         "io.github.aggalex.Wineglass",
         "io.github.cmus.cmus",
+        "io.github.ddanilov.soundscape",
         "io.github.fastrizwaan.WineZGUI",
         "io.github.janbar.noson",
         "io.github.listen1.Listen1",
@@ -3234,15 +3235,8 @@
     "xdg-documents/EDuke32:create": [
         "com.eduke32.EDuke32"
     ],
-    "xdg-config/cosmic:ro": [
-        "com.francescogaglione.chronos",
-        "dev.edfloreshz.Calculator",
-        "dev.edfloreshz.Tasks",
-        "dev.mariinkys.Oboete",
-        "dev.mariinkys.StarryDex",
-        "io.github.cosmic_utils.Examine"
-    ],
     "xdg-config/cosmic": [
+        "com.francescogaglione.chronos",
         "com.francescogaglione.cosmicmoney",
         "com.jwestall.Forecast",
         "dev.edfloreshz.CosmicTweaks"
@@ -3717,6 +3711,13 @@
     "/run/tailscale:ro": [
         "dev.deedles.Trayscale",
         "org.fkoehler.KTailctl"
+    ],
+    "xdg-config/cosmic:ro": [
+        "dev.edfloreshz.Calculator",
+        "dev.edfloreshz.Tasks",
+        "dev.mariinkys.Oboete",
+        "dev.mariinkys.StarryDex",
+        "io.github.cosmic_utils.Examine"
     ],
     "~/hdos:create": [
         "dev.hdos.HDOS"

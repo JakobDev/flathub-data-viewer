@@ -9,6 +9,7 @@
     "com.gitlab.tipp10.tipp10",
     "com.netxms.NetXMSClient",
     "com.netxms.NetXMSClient50",
+    "com.netxms.NetXMSClient51",
     "com.openwall.John",
     "com.pypyrev.linuxdcpp",
     "com.scanoss.sbom-workbench",

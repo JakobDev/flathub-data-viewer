@@ -1,5 +1,6 @@
 [
     "com.helix_editor.Helix",
+    "dev.neovide.neovide",
     "io.atom.Atom",
     "io.github.zyedidia.micro",
     "io.neovim.nvim",
