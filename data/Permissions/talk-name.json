@@ -431,7 +431,6 @@
         "io.github.purplehorrorrus.Meridius",
         "io.github.qcanvas.QCanvasApp",
         "io.github.qnapi",
-        "io.github.qtox.qTox",
         "io.github.rafaelfassi.QLogExplorer",
         "io.github.riftr.intelpy",
         "io.github.rinigus.OSMScoutServer",
@@ -1130,7 +1129,6 @@
         "io.github.peazip.PeaZip",
         "io.github.punesemu.puNES",
         "io.github.qcanvas.QCanvasApp",
-        "io.github.qtox.qTox",
         "io.github.rafaelfassi.QLogExplorer",
         "io.github.riftr.intelpy",
         "io.github.rinigus.OSMScoutServer",
@@ -1217,6 +1215,7 @@
         "net.sf.nootka",
         "net.sonic_pi.SonicPi",
         "net.sourceforge.QtSpim",
+        "net.sourceforge.VMPK",
         "net.sourceforge.dmidiplayer",
         "net.sourceforge.m64py.M64Py",
         "net.sourceforge.molsketch",
@@ -1775,7 +1774,6 @@
         "io.github.peazip.PeaZip",
         "io.github.punesemu.puNES",
         "io.github.qcanvas.QCanvasApp",
-        "io.github.qtox.qTox",
         "io.github.riftr.intelpy",
         "io.github.rinigus.OSMScoutServer",
         "io.github.rinigus.PureMaps",
@@ -1859,6 +1857,7 @@
         "net.sf.nootka",
         "net.sonic_pi.SonicPi",
         "net.sourceforge.QtSpim",
+        "net.sourceforge.VMPK",
         "net.sourceforge.dmidiplayer",
         "net.sourceforge.m64py.M64Py",
         "net.sourceforge.molsketch",
@@ -2360,7 +2359,6 @@
         "io.github.pwr_solaar.solaar",
         "io.github.qier222.YesPlayMusic",
         "io.github.qnapi",
-        "io.github.qtox.qTox",
         "io.github.quodlibet.QuodLibet",
         "io.github.sigmasd.stimulator",
         "io.github.slgobinath.SafeEyes",
@@ -3074,6 +3072,7 @@
         "com.github.iwalton3.jellyfin-media-player",
         "com.github.philip_scott.spice-up",
         "com.google.Chrome",
+        "com.heroicgameslauncher.hgl",
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
         "com.moonlight_stream.Moonlight",
@@ -3322,10 +3321,6 @@
         "org.signal.Signal",
         "tv.plex.PlexHTPC",
         "us.materialio.Materialious"
-    ],
-    "org.freedesktop.portal.Background": [
-        "codes.loers.Karlender",
-        "me.timschneeberger.jdsp4linux"
     ],
     "org.gtk.vfs.*": [
         "com.abisource.AbiWord",
@@ -3887,6 +3882,9 @@
     "it.mijorus.smile": [
         "it.mijorus.smile"
     ],
+    "org.freedesktop.portal.Background": [
+        "me.timschneeberger.jdsp4linux"
+    ],
     "org.gnome.Mutter.DisplayConfig": [
         "net.displaycal.DisplayCAL",
         "net.lutris.Lutris",
@@ -4037,6 +4035,9 @@
     "org.kde.kpasswdserver": [
         "org.kde.dolphin",
         "org.kde.kontact"
+    ],
+    "org.kde.kpasswdserver6": [
+        "org.kde.dolphin"
     ],
     "org.kde.klauncher5": [
         "org.kde.kontact"

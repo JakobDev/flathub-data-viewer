@@ -28,7 +28,6 @@
         "org.kde.skanpage",
         "org.kde.tellico",
         "org.kde.tokodon",
-        "org.musescore.MuseScore",
         "org.zealdocs.Zeal"
     ],
     "5.15-23.08": [
@@ -72,6 +71,7 @@
     "6.8": [
         "io.github.martinrotter.rssguard",
         "org.fcitx.Fcitx5",
+        "org.musescore.MuseScore",
         "org.sdrangel.SDRangel"
     ],
     "5.15-22.08": [

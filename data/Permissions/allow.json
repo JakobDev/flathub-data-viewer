@@ -121,6 +121,7 @@
     ],
     "per-app-dev-shm": [
         "com.github.Matoking.protontricks",
+        "com.heroicgameslauncher.hgl",
         "com.usebottles.bottles",
         "com.valvesoftware.Steam",
         "io.github.accessory.minus_games_gui",

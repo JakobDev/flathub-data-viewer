@@ -1,6 +1,8 @@
 [
     "com.github.babluboy.bookworm",
+    "com.transmissionbt.Transmission",
     "io.github.Hexchat",
+    "io.github.manisandro.gImageReader",
     "net.sourceforge.liferea",
     "net.supertuxkart.SuperTuxKart",
     "org.darktable.Darktable",

@@ -23,6 +23,7 @@
     "cern.root.ROOT",
     "ch.openboard.OpenBoard",
     "cn.xfangfang.wiliwili",
+    "codes.loers.Karlender",
     "com.abisource.AbiWord",
     "com.adrienplazas.Metronome",
     "com.belmoussaoui.Authenticator",
@@ -68,6 +69,7 @@
     "com.github.ryonakano.pinit",
     "com.github.ryonakano.reco",
     "com.github.sixpounder.GameOfLife",
+    "com.github.subhadeepjasu.pebbles",
     "com.github.taiko2k.avvie",
     "com.github.taiko2k.tauonmb",
     "com.github.tenderowl.frog",
@@ -250,6 +252,7 @@
     "net.sf.VICE",
     "net.sonic_pi.SonicPi",
     "net.sourceforge.Hugin",
+    "net.sourceforge.VMPK",
     "net.sourceforge.dmidiplayer",
     "net.sourceforge.liferea",
     "net.wz2100.wz2100",
@@ -483,5 +486,6 @@
     "work.openpaper.Paperwork",
     "xyz.parlatype.Parlatype",
     "xyz.safeworlds.hiit",
-    "xyz.tytanium.DoorKnocker"
+    "xyz.tytanium.DoorKnocker",
+    "xyz.z3ntu.razergenie"
 ]

@@ -53,6 +53,7 @@
         "io.neovim.nvim",
         "org.godotengine.Godot",
         "org.kicad.KiCad",
+        "org.scilab.Scilab",
         "org.scintilla.SciTE",
         "org.thonny.Thonny",
         "org.vim.Vim"
@@ -69,8 +70,7 @@
         "io.atom.Atom",
         "io.gdevs.GDLauncher",
         "io.github.fralonra.WgShadertoy",
-        "org.codeblocks.codeblocks",
-        "org.scilab.Scilab"
+        "org.codeblocks.codeblocks"
     ],
     "19.08": [
         "org.aliflang.lang"

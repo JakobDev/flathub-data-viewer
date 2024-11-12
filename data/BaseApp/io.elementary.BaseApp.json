@@ -15,7 +15,8 @@
         "com.github.muriloventuroso.easyssh",
         "com.github.muriloventuroso.givemelyrics",
         "com.github.phase1geo.minder",
-        "com.github.philip_scott.spice-up"
+        "com.github.philip_scott.spice-up",
+        "com.github.subhadeepjasu.pebbles"
     ],
     "juno-20.08": [
         "com.github.alecaddd.sequeler",
@@ -30,7 +31,6 @@
         "com.github.gijsgoudzwaard.image-optimizer",
         "com.github.muriloventuroso.pdftricks",
         "com.github.rajsolai.textsnatcher",
-        "com.github.subhadeepjasu.pebbles",
         "com.github.treagod.spectator"
     ],
     "juno-19.08": [

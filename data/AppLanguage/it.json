@@ -45,6 +45,7 @@
     "com.mardojai.ForgeSparks",
     "com.remnantsoftheprecursors.ROTP",
     "com.toolstack.Folio",
+    "com.transmissionbt.Transmission",
     "com.tux4kids.tuxtype",
     "cool.ldr.lfy",
     "de.haeckerfelix.Fragments",
@@ -82,6 +83,7 @@
     "io.github.kelvinnovais.Kasasa",
     "io.github.lainsce.Khronos",
     "io.github.loot.loot",
+    "io.github.manisandro.gImageReader",
     "io.github.mightycreak.Diffuse",
     "io.github.mpobaschnig.Vaults",
     "io.github.mrvladus.List",
@@ -258,5 +260,6 @@
     "se.sjoerd.Graphs",
     "sm.puri.Chatty",
     "ua.org.brezblock.q4wine",
+    "xyz.safeworlds.hiit",
     "xyz.tytanium.DoorKnocker"
 ]

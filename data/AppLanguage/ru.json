@@ -41,6 +41,7 @@
     "com.saivert.pwvucontrol",
     "com.snes9x.Snes9x",
     "com.toolstack.Folio",
+    "com.transmissionbt.Transmission",
     "com.tux4kids.tuxtype",
     "de.haeckerfelix.Fragments",
     "de.haeckerfelix.Shortwave",
@@ -73,6 +74,7 @@
     "io.github.jhaygood86.mauborgne",
     "io.github.kelvinnovais.Kasasa",
     "io.github.loot.loot",
+    "io.github.manisandro.gImageReader",
     "io.github.mightycreak.Diffuse",
     "io.github.mrvladus.List",
     "io.github.nokse22.Exhibit",
@@ -250,5 +252,6 @@
     "se.sjoerd.Graphs",
     "sm.puri.Chatty",
     "ua.org.brezblock.q4wine",
+    "xyz.safeworlds.hiit",
     "xyz.tytanium.DoorKnocker"
 ]

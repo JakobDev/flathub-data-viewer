@@ -11,12 +11,10 @@
     "io.liri.Calculator",
     "io.liri.Text",
     "net.sourceforge.Pdfedit",
-    "net.sourceforge.VMPK",
     "net.sourceforge.kmetronome",
     "net.sourceforge.kmidimon",
     "org.flameshot.Flameshot",
     "org.fritzing.Fritzing",
     "org.kde.Ikona",
-    "website.i2pd.i2pd",
-    "xyz.z3ntu.razergenie"
+    "website.i2pd.i2pd"
 ]

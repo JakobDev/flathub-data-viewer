@@ -1,6 +1,7 @@
 [
     "app.rednotebook.RedNotebook",
     "com.github.PintaProject.Pinta",
+    "com.transmissionbt.Transmission",
     "net.supertuxkart.SuperTuxKart",
     "org.gimp.GIMP",
     "org.gnome.Aisleriot",
