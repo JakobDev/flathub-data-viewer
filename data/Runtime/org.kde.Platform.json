@@ -487,7 +487,6 @@
         "org.syntalos.syntalos",
         "org.texmacs.TeXmacs",
         "org.thentrythis.Samplebrain",
-        "org.torproject.torbrowser-launcher",
         "org.videolan.VLC",
         "org.yacas.yacas-gui",
         "re.rizin.cutter",
@@ -565,7 +564,6 @@
         "net.fsuae.FS-UAE",
         "net.jammr.jammr",
         "net.sourceforge.QtSpim",
-        "net.sourceforge.molsketch",
         "org.codeberg.dimkard.glossaico",
         "org.cubocore.CoreAction",
         "org.cubocore.CoreHunt",
@@ -691,6 +689,7 @@
         "org.hydrogenmusic.Hydrogen",
         "org.leocad.LeoCAD",
         "org.svxlink.Qtel",
+        "org.torproject.torbrowser-launcher",
         "org.wfview.wfview",
         "xyz.z3ntu.razergenie"
     ],

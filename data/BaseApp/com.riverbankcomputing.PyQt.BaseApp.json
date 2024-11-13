@@ -60,7 +60,6 @@
         "org.qgis.qgis",
         "org.spyder_ide.spyder",
         "org.syntalos.syntalos",
-        "org.torproject.torbrowser-launcher",
         "studio.kx.carla"
     ],
     "6.6": [
@@ -73,6 +72,9 @@
     ],
     "6.3": [
         "org.subtitld.Subtitld"
+    ],
+    "5.15-24.08": [
+        "org.torproject.torbrowser-launcher"
     ],
     "5.15-22.08": [
         "se.sjoerd.GIScan"

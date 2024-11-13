@@ -23,5 +23,8 @@
         "org.kde.kcachegrind",
         "org.kde.kdevelop",
         "page.codeberg.JakobDev.jdTextEdit"
+    ],
+    "5.15-24.08": [
+        "net.sourceforge.molsketch"
     ]
 }

@@ -737,6 +737,7 @@
         "application{SLASH}x-nanoscantech-spm",
         "application{SLASH}x-nanoscope-ii-spm",
         "application{SLASH}x-nanoscope-iii-spm",
+        "application{SLASH}x-nanosurf-nhf-hdf5-spm",
         "application{SLASH}x-nanosurf-plt-spm",
         "application{SLASH}x-nanosurf-spm",
         "application{SLASH}x-nanotop-spm",
