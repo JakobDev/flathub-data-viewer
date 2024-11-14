@@ -25,6 +25,8 @@
     "io.github.giantpinkrobots.varia",
     "io.github.mrvladus.List",
     "io.github.nokse22.asciidraw",
+    "io.github.quodlibet.ExFalso",
+    "io.github.quodlibet.QuodLibet",
     "io.github.realmazharhussain.GdmSettings",
     "io.github.zefr0x.hashes",
     "io.neovim.nvim",
