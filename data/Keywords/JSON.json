@@ -2,5 +2,6 @@
     "io.github.martinrotter.rssguard",
     "io.github.martinrotter.rssguardlite",
     "io.gitlab.liferooter.TextPieces",
-    "me.iepure.devtoolbox"
+    "me.iepure.devtoolbox",
+    "org.blackfennec.app"
 ]

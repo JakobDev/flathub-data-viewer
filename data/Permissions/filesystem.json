@@ -1588,6 +1588,7 @@
         "info.puredata.Pd-extended",
         "info.smplayer.SMPlayer",
         "io.atom.Atom",
+        "io.github.OkuBrowser.oku",
         "io.github.OpenToonz",
         "io.github.Rangi42.polished-map-plusplus",
         "io.github.Rangi42.polished-map",
@@ -2763,6 +2764,7 @@
         "edu.stanford.Almond",
         "fr.handbrake.ghb",
         "fr.masson_informatique.WhosWho",
+        "io.github.OkuBrowser.oku",
         "io.github.TransmissionRemoteGtk",
         "io.github.appoutlet.GameOutlet",
         "io.github.celluloid_player.Celluloid",
@@ -2843,6 +2845,7 @@
         "de.create3000.titania",
         "fr.handbrake.ghb",
         "info.olasagasti.revelation",
+        "io.github.OkuBrowser.oku",
         "io.github.celluloid_player.Celluloid",
         "io.github.ecotubehq.player",
         "io.github.lruzicka.Needly",
@@ -3309,6 +3312,13 @@
         "org.syntalos.syntalos",
         "ru.linux_gaming.PortProton",
         "to.us.scrollprotocol.Profectus"
+    ],
+    "~/snap/steam": [
+        "com.github.Matoking.protontricks",
+        "net.davidotek.pupgui2"
+    ],
+    "~/.snap/data/steam": [
+        "com.github.Matoking.protontricks"
     ],
     "xdg-templates": [
         "com.github.PintaProject.Pinta"
@@ -4228,9 +4238,6 @@
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/net.lutris.Lutris/data/lutris/pga.db:ro": [
-        "net.davidotek.pupgui2"
-    ],
-    "~/snap/steam": [
         "net.davidotek.pupgui2"
     ],
     "~/.var/app/com.usebottles.bottles/data/bottles/runners": [

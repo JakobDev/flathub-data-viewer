@@ -27,6 +27,7 @@
     "io.gitlab.leesonwai.Tactics",
     "io.otsaloma.gaupol",
     "io.otsaloma.nfoview",
+    "org.blackfennec.app",
     "org.gnome.BreakTimer",
     "org.gnome.FontManager",
     "org.gnome.Loupe",
