@@ -46,7 +46,6 @@
         "io.github.julian_hochhaus.LG4X_V2",
         "io.github.riftr.intelpy",
         "io.github.veusz.Veusz",
-        "io.lmms.LMMS",
         "net.puddletag.puddletag",
         "net.sourceforge.scidavis",
         "org.cloudcompare.CloudCompare",
@@ -59,7 +58,11 @@
         "org.pymol.PyMOL",
         "org.qgis.qgis",
         "org.spyder_ide.spyder",
-        "org.syntalos.syntalos",
+        "org.syntalos.syntalos"
+    ],
+    "5.15-24.08": [
+        "io.lmms.LMMS",
+        "org.torproject.torbrowser-launcher",
         "studio.kx.carla"
     ],
     "6.6": [
@@ -72,9 +75,6 @@
     ],
     "6.3": [
         "org.subtitld.Subtitld"
-    ],
-    "5.15-24.08": [
-        "org.torproject.torbrowser-launcher"
     ],
     "5.15-22.08": [
         "se.sjoerd.GIScan"

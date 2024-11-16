@@ -383,7 +383,6 @@
         "io.gitlab.coolreader_ng.crqt-ng",
         "io.gitlab.persiangolf.voicegen",
         "io.itch.azagaya.Laigter",
-        "io.lmms.LMMS",
         "io.mgba.mGBA",
         "io.seamly.seamly2d",
         "moe.clover.mm3d",
@@ -501,7 +500,6 @@
         "org.yacas.yacas-gui",
         "re.rizin.cutter",
         "space.fips.Fips",
-        "studio.kx.carla",
         "ua.org.brezblock.q4wine",
         "uk.co.piggz.amazfish",
         "website.i2pd.i2pd",
@@ -697,6 +695,7 @@
         "com.rosegardenmusic.rosegarden",
         "edu.princeton.physics.WSJTX",
         "io.github.tcobbs.LDView",
+        "io.lmms.LMMS",
         "io.photoflare.photoflare",
         "net.qsl.QSSTV",
         "net.sourceforge.molsketch",
@@ -707,6 +706,7 @@
         "org.svxlink.Qtel",
         "org.torproject.torbrowser-launcher",
         "org.wfview.wfview",
+        "studio.kx.carla",
         "xyz.z3ntu.razergenie"
     ],
     "6.5": [

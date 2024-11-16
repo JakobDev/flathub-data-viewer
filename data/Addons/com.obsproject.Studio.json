@@ -14,6 +14,7 @@
     "com.obsproject.Studio.Plugin.RewardsTheater",
     "com.obsproject.Studio.Plugin.ScaleToSound",
     "com.obsproject.Studio.Plugin.SceneSwitcher",
+    "com.obsproject.Studio.Plugin.SourceClone",
     "com.obsproject.Studio.Plugin.TransitionTable",
     "com.obsproject.Studio.Plugin.VerticalCanvas",
     "com.obsproject.Studio.Plugin.WebSocket",

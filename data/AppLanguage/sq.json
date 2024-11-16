@@ -1,6 +1,7 @@
 [
     "com.github.babluboy.bookworm",
     "com.transmissionbt.Transmission",
+    "im.pidgin.Pidgin",
     "io.github.Hexchat",
     "io.github.manisandro.gImageReader",
     "net.sourceforge.liferea",

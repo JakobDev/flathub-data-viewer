@@ -1,6 +1,7 @@
 [
     "app.rednotebook.RedNotebook",
     "com.github.PintaProject.Pinta",
+    "im.pidgin.Pidgin",
     "io.github.seadve.Mousai",
     "io.missioncenter.MissionCenter",
     "io.neovim.nvim",

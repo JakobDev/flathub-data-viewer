@@ -3337,13 +3337,6 @@
     "xdg-pictures/RMG": [
         "com.github.Rosalie241.RMG"
     ],
-    "~/.local/share/applications": [
-        "com.github.alexkdeveloper.desktop-files-creator",
-        "com.heroicgameslauncher.hgl",
-        "io.github.elevenhsoft.WebApps",
-        "org.kde.angelfish",
-        "xyz.hyperplay.HyperPlay"
-    ],
     "xdg-config/autostart:create": [
         "com.github.bluesabre.darkbar",
         "com.github.matfantinel.reminduck",
@@ -3488,6 +3481,12 @@
     ],
     "/var/lib/AccountsService/icons:ro": [
         "com.hack_computer.Clubhouse"
+    ],
+    "~/.local/share/applications": [
+        "com.heroicgameslauncher.hgl",
+        "io.github.elevenhsoft.WebApps",
+        "org.kde.angelfish",
+        "xyz.hyperplay.HyperPlay"
     ],
     "xdg-run/gamescope-0": [
         "com.heroicgameslauncher.hgl",
