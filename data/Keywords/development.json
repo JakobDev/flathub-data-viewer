@@ -17,5 +17,6 @@
     "org.gnome.dspy",
     "org.kde.kate",
     "org.mapeditor.Tiled",
+    "org.pgadmin.pgadmin4",
     "org.robocode.Robocode"
 ]

@@ -14,7 +14,8 @@
         "io.mango3d.LycheeSlicer",
         "net.newpipe.NewPipe",
         "nl.lostboys.rollemup",
-        "org.telegram"
+        "org.telegram",
+        "studio.eufonia.EufoniaClient"
     ],
     "mild": [
         "com.github.HypatiaProject.hypatia",

@@ -217,6 +217,7 @@
     "org.zdoom.Raze",
     "ru.yandex.Browser",
     "se.cendio.tlclient",
+    "studio.eufonia.EufoniaClient",
     "surf.deckr.deckr",
     "tech.keyforge.keyforge_master",
     "tr.gov.uyap.Editor",

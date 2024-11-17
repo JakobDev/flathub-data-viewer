@@ -1,4 +1,5 @@
 [
     "com.jetbrains.DataGrip",
-    "com.strlen.TreeSheets"
+    "com.strlen.TreeSheets",
+    "org.pgadmin.pgadmin4"
 ]

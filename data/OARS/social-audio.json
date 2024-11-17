@@ -247,6 +247,7 @@
         "org.jitsi.jitsi-meet",
         "org.kde.ruqola",
         "org.vinegarhq.Vinegar",
+        "studio.eufonia.EufoniaClient",
         "us.materialio.Materialious"
     ]
 }

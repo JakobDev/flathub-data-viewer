@@ -272,6 +272,7 @@
         "io.github.pd_l2ork.Pd_L2Ork",
         "io.github.pemsley.coot",
         "io.github.picocrypt.Picocrypt",
+        "io.github.ra3xdh.qucs_s",
         "io.github.rafaelfassi.QLogExplorer",
         "io.github.retgal.Dayon",
         "io.github.riftr.intelpy",
@@ -951,6 +952,7 @@
         "io.github.punesemu.puNES",
         "io.github.qcanvas.QCanvasApp",
         "io.github.qnapi",
+        "io.github.ra3xdh.qucs_s",
         "io.github.rafaelfassi.QLogExplorer",
         "io.github.riftr.intelpy",
         "io.github.rinigus.OSMScoutServer",
@@ -2262,6 +2264,7 @@
         "org.vinegarhq.Vinegar",
         "sh.cider.Cider",
         "sh.ppy.osu",
+        "studio.eufonia.EufoniaClient",
         "xyz.hyperplay.HyperPlay"
     ],
     "xdg-run/discord-ipc-0": [
@@ -3246,7 +3249,6 @@
     "xdg-run/gnupg:ro": [
         "com.gitfiend.GitFiend",
         "com.jetbrains.GoLand",
-        "com.jetbrains.PhpStorm",
         "com.sublimemerge.App",
         "com.vscodium.codium-insiders",
         "com.vscodium.codium",
@@ -3482,20 +3484,16 @@
     "/var/lib/AccountsService/icons:ro": [
         "com.hack_computer.Clubhouse"
     ],
-    "~/.local/share/applications": [
-        "com.heroicgameslauncher.hgl",
-        "io.github.elevenhsoft.WebApps",
-        "org.kde.angelfish",
-        "xyz.hyperplay.HyperPlay"
-    ],
     "xdg-run/gamescope-0": [
         "com.heroicgameslauncher.hgl",
         "com.moonlight_stream.Moonlight",
         "io.github.streetpea.Chiaki4deck",
         "xyz.hyperplay.HyperPlay"
     ],
-    "~/.local/share/lutris": [
+    "~/.local/share/applications": [
         "com.heroicgameslauncher.hgl",
+        "io.github.elevenhsoft.WebApps",
+        "org.kde.angelfish",
         "xyz.hyperplay.HyperPlay"
     ],
     "~/.steam/steam": [
@@ -3503,14 +3501,14 @@
         "io.github.Foldex.AdwSteamGtk",
         "xyz.hyperplay.HyperPlay"
     ],
-    "~/Games/Heroic:create": [
+    "xdg-data/umu:create": [
         "com.heroicgameslauncher.hgl"
     ],
-    "~/.config/MangoHud:ro": [
+    "~/.local/share/lutris": [
         "com.heroicgameslauncher.hgl",
-        "net.lutris.Lutris"
+        "xyz.hyperplay.HyperPlay"
     ],
-    "xdg-data/umu:create": [
+    "~/Games/Heroic:create": [
         "com.heroicgameslauncher.hgl"
     ],
     "~/Inform:create": [
@@ -3522,7 +3520,8 @@
     "xdg-run/docker": [
         "com.jetbrains.CLion",
         "com.jetbrains.IntelliJ-IDEA-Community",
-        "com.jetbrains.IntelliJ-IDEA-Ultimate"
+        "com.jetbrains.IntelliJ-IDEA-Ultimate",
+        "com.jetbrains.PhpStorm"
     ],
     "xdg-run/gnupg": [
         "com.jetbrains.CLion",
@@ -3535,7 +3534,8 @@
     ],
     "xdg-run/podman": [
         "com.jetbrains.CLion",
-        "com.jetbrains.IntelliJ-IDEA-Ultimate"
+        "com.jetbrains.IntelliJ-IDEA-Ultimate",
+        "com.jetbrains.PhpStorm"
     ],
     "~/.gnupg:create": [
         "com.konstantintutsch.Lock",
@@ -4289,6 +4289,9 @@
         "page.codeberg.JakobDev.jdMinecraftLauncher",
         "page.codeberg.JakobDev.jdMrpackInstaller"
     ],
+    "~/.config/MangoHud:ro": [
+        "net.lutris.Lutris"
+    ],
     "/run/nym-vpn.sock:ro": [
         "net.nymtech.NymVPN"
     ],
@@ -4510,10 +4513,12 @@
         "org.prismlauncher.PrismLauncher"
     ],
     "/sys/kernel/mm/hugepages:ro": [
-        "org.prismlauncher.PrismLauncher"
+        "org.prismlauncher.PrismLauncher",
+        "studio.eufonia.EufoniaClient"
     ],
     "/sys/kernel/mm/transparent_hugepage:ro": [
-        "org.prismlauncher.PrismLauncher"
+        "org.prismlauncher.PrismLauncher",
+        "studio.eufonia.EufoniaClient"
     ],
     "xdg-run/discord-ipc-0:create": [
         "org.skytemple.SkyTemple"

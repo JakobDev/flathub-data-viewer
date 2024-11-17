@@ -1,5 +1,4 @@
 [
-    "io.github.muse_sequencer.Muse",
     "org.ardour.Ardour",
     "org.rncbc.qtractor",
     "org.zrythm.Zrythm"
