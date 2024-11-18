@@ -33,6 +33,7 @@
     "org.freedesktop.appstream.generator",
     "org.gnome.Decibels",
     "org.jamovi.jamovi",
+    "org.jellyfin.JellyfinServer",
     "org.jousse.vincent.Pomodorolm",
     "org.metamuffin.hurrycurry.client",
     "org.sil.dictionary-app-builder",

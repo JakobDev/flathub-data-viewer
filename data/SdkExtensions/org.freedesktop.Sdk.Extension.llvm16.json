@@ -18,7 +18,6 @@
     "io.github.sameboy.SameBoy",
     "io.qt.PySide.BaseApp",
     "org.freedesktop.appstream.generator",
-    "org.jellyfin.JellyfinServer",
     "org.kde.umbrello",
     "org.openfodder.OpenFodder",
     "org.pipewire.Helvum",

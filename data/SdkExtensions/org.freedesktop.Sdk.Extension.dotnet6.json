@@ -3,7 +3,6 @@
     "io.github.openhv.OpenHV",
     "net.openra.OpenRA",
     "net.opentabletdriver.OpenTabletDriver",
-    "org.jellyfin.JellyfinServer",
     "org.unitystation.StationHub",
     "pl.youkai.lanchat"
 ]

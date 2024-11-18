@@ -1,5 +1,6 @@
 [
     "fr.free.hxc2001.HxCFloppyEmulator",
     "org.gnome.baobab",
+    "org.recoll.recoll",
     "page.codeberg.JakobDev.jdProcessFileWatcher"
 ]

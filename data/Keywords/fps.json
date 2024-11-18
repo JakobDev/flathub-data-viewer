@@ -1,6 +1,7 @@
 [
     "com.github.iortcw.iortcw",
     "jp.yvt.OpenSpades",
+    "net.redeclipse.RedEclipse-Legacy",
     "net.redeclipse.RedEclipse",
     "org.alienarena.alienarena"
 ]

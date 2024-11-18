@@ -470,6 +470,7 @@
         "org.qownnotes.QOwnNotes",
         "org.qxmledit.QXmlEdit",
         "org.racket_lang.Racket",
+        "org.recoll.recoll",
         "org.remmina.Remmina",
         "org.rncbc.qsynth",
         "org.rncbc.qtractor",
@@ -1357,6 +1358,7 @@
         "org.qxmledit.QXmlEdit",
         "org.radare.iaito",
         "org.raspberrypi.rpi-imager",
+        "org.recoll.recoll",
         "org.rncbc.qpwgraph",
         "org.rncbc.qsynth",
         "org.rncbc.qtractor",
@@ -2285,6 +2287,7 @@
         "com.bladecoder.adventure-editor",
         "com.brave.Browser",
         "com.chowdsp.BYOD",
+        "com.dec05eba.gpu_screen_recorder",
         "com.ghostery.browser",
         "com.giadamusic.Giada",
         "com.github.IsmaelMartinez.teams_for_linux",
@@ -3338,6 +3341,9 @@
     ],
     "xdg-pictures/RMG": [
         "com.github.Rosalie241.RMG"
+    ],
+    "~/.config/sioyek": [
+        "com.github.ahrm.sioyek"
     ],
     "xdg-config/autostart:create": [
         "com.github.bluesabre.darkbar",

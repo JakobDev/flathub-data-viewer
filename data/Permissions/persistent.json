@@ -548,6 +548,7 @@
         "net.qsl.QSSTV"
     ],
     ".redeclipse": [
+        "net.redeclipse.RedEclipse-Legacy",
         "net.redeclipse.RedEclipse"
     ],
     ".runelite": [

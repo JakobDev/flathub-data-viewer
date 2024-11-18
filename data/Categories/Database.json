@@ -7,5 +7,6 @@
     "org.kde.kbibtex",
     "org.kde.tellico",
     "org.nongnu.Xlog",
+    "org.recoll.recoll",
     "org.sqlitebrowser.sqlitebrowser"
 ]

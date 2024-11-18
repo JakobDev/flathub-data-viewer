@@ -14,6 +14,7 @@
     "me.timschneeberger.GalaxyBudsClient",
     "org.godotengine.Godot3Sharp",
     "org.godotengine.GodotSharp",
+    "org.jellyfin.JellyfinServer",
     "org.nickvision.cavalier",
     "org.nickvision.money",
     "org.nickvision.tagger"

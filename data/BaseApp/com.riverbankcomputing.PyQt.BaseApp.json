@@ -31,8 +31,14 @@
         "pw.mmk.OpenFreebuds",
         "rocks.syng.Syng"
     ],
-    "5.15-23.08": [
+    "5.15-24.08": [
         "com.github.arminstraub.krop",
+        "io.lmms.LMMS",
+        "net.fsuae.FS-UAE",
+        "org.torproject.torbrowser-launcher",
+        "studio.kx.carla"
+    ],
+    "5.15-23.08": [
         "com.github.git_cola.git-cola",
         "com.icanblink.blink",
         "com.sigil_ebook.Sigil",
@@ -59,11 +65,6 @@
         "org.qgis.qgis",
         "org.spyder_ide.spyder",
         "org.syntalos.syntalos"
-    ],
-    "5.15-24.08": [
-        "io.lmms.LMMS",
-        "org.torproject.torbrowser-launcher",
-        "studio.kx.carla"
     ],
     "6.6": [
         "me.mitya57.ReText",

@@ -850,6 +850,7 @@
         "org.qxmledit.QXmlEdit",
         "org.radare.iaito",
         "org.raspberrypi.rpi-imager",
+        "org.recoll.recoll",
         "org.rncbc.qpwgraph",
         "org.rncbc.qsynth",
         "org.rncbc.qtractor",
@@ -1510,6 +1511,7 @@
         "org.qxmledit.QXmlEdit",
         "org.radare.iaito",
         "org.raspberrypi.rpi-imager",
+        "org.recoll.recoll",
         "org.rncbc.qpwgraph",
         "org.rncbc.qsynth",
         "org.rncbc.qtractor",
@@ -2151,6 +2153,7 @@
         "org.qxmledit.QXmlEdit",
         "org.radare.iaito",
         "org.raspberrypi.rpi-imager",
+        "org.recoll.recoll",
         "org.rncbc.qpwgraph",
         "org.rncbc.qsynth",
         "org.rncbc.qtractor",
@@ -2311,6 +2314,7 @@
         "com.xunlei.Thunder",
         "com.yubico.yubioath",
         "de.bund.ausweisapp.ausweisapp2",
+        "de.manuel_kehl.go-for-it",
         "de.nagstamon.nagstamon",
         "dev.deedles.Trayscale",
         "dev.mrquantumoff.mcmodpackmanager",
@@ -3784,10 +3788,6 @@
     "io.gitlab.daikhan.stable": [
         "de.k_bo.Televido"
     ],
-    "org.kde.*": [
-        "de.manuel_kehl.go-for-it",
-        "io.github.nyre221.kiview"
-    ],
     "org.gnome.seahorse": [
         "de.philippun1.turtle"
     ],
@@ -3835,6 +3835,9 @@
     ],
     "org.freedesktop.FileManager1.*": [
         "io.github.ihhub.Fheroes2"
+    ],
+    "org.kde.*": [
+        "io.github.nyre221.kiview"
     ],
     "org.kde.klipper": [
         "io.github.nyre221.kiview"
