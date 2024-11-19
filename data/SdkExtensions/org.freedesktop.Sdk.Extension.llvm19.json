@@ -1,4 +1,6 @@
 [
+    "com.github.unrud.djpdf",
     "net.cubers.assault.AssaultCube",
-    "net.natesales.Aviator"
+    "net.natesales.Aviator",
+    "org.jellyfin.JellyfinServer"
 ]
