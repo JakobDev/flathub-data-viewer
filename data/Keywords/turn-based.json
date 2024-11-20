@@ -1,5 +1,6 @@
 [
     "com.chroniclogic.Zatikon",
     "net.sourceforge.lgames.LGeneral",
+    "net.zdechov.app.C-evo",
     "org.freeorion.FreeOrion"
 ]

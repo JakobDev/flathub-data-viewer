@@ -136,6 +136,7 @@
     "org.emptyflow.ArdorQuery",
     "org.expresslrs.ExpressLRSConfigurator",
     "org.flightgear.FlightGear",
+    "org.freecad.FreeCAD",
     "org.ghidra_sre.Ghidra",
     "org.gnome.Builder",
     "org.gnome.Calendar",

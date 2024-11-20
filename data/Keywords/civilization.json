@@ -1,5 +1,6 @@
 [
     "net.longturn.freeciv21",
+    "net.zdechov.app.C-evo",
     "org.freeciv.gtk322",
     "org.freeciv.gtk4",
     "org.freeciv.qt",

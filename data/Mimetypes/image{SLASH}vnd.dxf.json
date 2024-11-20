@@ -1,5 +1,5 @@
 [
     "io.github.nokse22.Exhibit",
-    "org.freecadweb.FreeCAD",
+    "org.freecad.FreeCAD",
     "org.librecad.librecad"
 ]

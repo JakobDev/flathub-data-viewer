@@ -58,6 +58,7 @@
     "nl.hjdskes.gcolor3",
     "org.aegisub.Aegisub",
     "org.ardour.Ardour",
+    "org.entangle_photo.Manager",
     "org.fedoraproject.MediaWriter",
     "org.freedesktop.Bustle",
     "org.freedesktop.appstream.cli",

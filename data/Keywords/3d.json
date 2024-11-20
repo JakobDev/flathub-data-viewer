@@ -5,6 +5,7 @@
     "info.colobot.Colobot",
     "org.blender.Blender",
     "org.darkdimension.rue",
+    "org.freecad.FreeCAD",
     "org.openscad.OpenSCAD",
     "org.upbge.UPBGE",
     "ru.sview.sView"

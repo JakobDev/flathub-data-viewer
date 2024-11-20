@@ -68,7 +68,7 @@
     "org.damask_multiphysics.DAMASK_mesh",
     "org.deidentifier.arx",
     "org.eclipse.sumo",
-    "org.freecadweb.FreeCAD",
+    "org.freecad.FreeCAD",
     "org.gephi.Gephi",
     "org.gnode.NixView",
     "org.gnome.Genius",

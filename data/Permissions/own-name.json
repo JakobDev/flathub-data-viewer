@@ -277,10 +277,13 @@
     "org.mpris.MediaPlayer2.KaraokeMugen.*": [
         "moe.karaokes.mugen"
     ],
+    "org.mpris.MediaPlayer2.CampCounselor": [
+        "net.line72.campcounselor"
+    ],
     "org.mpris.MediaPlayer2.Bible": [
         "net.lugsole.bible_gui"
     ],
-    "org.mozilla.mullvad_browser.*": [
+    "org.mozilla.mullvadbrowser.*": [
         "net.mullvad.MullvadBrowser"
     ],
     "org.artha.unique": [

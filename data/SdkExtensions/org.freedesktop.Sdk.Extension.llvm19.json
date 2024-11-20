@@ -1,5 +1,6 @@
 [
     "com.github.unrud.djpdf",
+    "io.ossia.score",
     "net.cubers.assault.AssaultCube",
     "net.natesales.Aviator",
     "org.jellyfin.JellyfinServer"

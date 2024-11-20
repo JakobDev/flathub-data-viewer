@@ -1,4 +1,5 @@
 [
     "io.exodus.Exodus",
-    "io.greenfire.Greenery"
+    "io.greenfire.Greenery",
+    "org.freecad.FreeCAD"
 ]

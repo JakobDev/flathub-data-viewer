@@ -3,5 +3,6 @@
     "com.sweethome3d.Sweethome3d",
     "com.wireframesketcher.WireframeSketcher",
     "io.github.dubstar_04.design",
-    "io.sourceforge.Pixelitor"
+    "io.sourceforge.Pixelitor",
+    "org.freecad.FreeCAD"
 ]
