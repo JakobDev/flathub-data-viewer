@@ -24,6 +24,7 @@
     "org.bitcoincore.bitcoin-qt",
     "org.blackcoin.blackcoin-more",
     "org.btchd.btchd-qt",
+    "org.dash.dash-core",
     "org.electrum.electrum",
     "org.firo.firo-qt",
     "org.getmonero.Monero",

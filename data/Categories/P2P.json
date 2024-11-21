@@ -18,6 +18,7 @@
     "org.bitcoincore.bitcoin-qt",
     "org.briarproject.Briar",
     "org.btchd.btchd-qt",
+    "org.dash.dash-core",
     "org.deluge_torrent.deluge",
     "org.equeim.Tremotesf",
     "org.freedownloadmanager.Manager",

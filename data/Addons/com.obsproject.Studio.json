@@ -1,4 +1,5 @@
 [
+    "com.obsproject.Studio.Plugin.AdvancedMasks",
     "com.obsproject.Studio.Plugin.AitumMultistream",
     "com.obsproject.Studio.Plugin.BackgroundRemoval",
     "com.obsproject.Studio.Plugin.CompositeBlur",

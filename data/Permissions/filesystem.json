@@ -4328,6 +4328,7 @@
     "/run/tor/control.authcookie:ro": [
         "org.bitcoincore.bitcoin-qt",
         "org.btchd.btchd-qt",
+        "org.dash.dash-core",
         "org.firo.firo-qt",
         "org.groestlcoin.groestlcoin-qt",
         "org.vertcoin.vertcoin-qt"
@@ -4348,6 +4349,9 @@
         "org.cubocore.CorePaint",
         "org.cubocore.CoreShot",
         "org.cubocore.CoreStats"
+    ],
+    "~/.dashcore:create": [
+        "org.dash.dash-core"
     ],
     "~/.crawlrc:ro": [
         "org.develz.Crawl"

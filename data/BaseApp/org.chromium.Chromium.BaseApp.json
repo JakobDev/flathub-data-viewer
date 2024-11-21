@@ -1,16 +1,16 @@
 {
-    "23.08": [
+    "24.08": [
         "com.brave.Browser",
+        "com.google.Chrome",
+        "io.github.ungoogled_software.ungoogled_chromium",
+        "org.chromium.Chromium"
+    ],
+    "23.08": [
         "com.google.ChromeDev",
         "com.microsoft.Edge",
         "com.opera.Opera",
         "com.vivaldi.Vivaldi",
         "ru.yandex.Browser"
-    ],
-    "24.08": [
-        "com.google.Chrome",
-        "io.github.ungoogled_software.ungoogled_chromium",
-        "org.chromium.Chromium"
     ],
     "22.08": [
         "com.microsoft.EdgeDev"

@@ -223,6 +223,7 @@
     "org.chromium.Chromium",
     "org.claws_mail.Claws-Mail",
     "org.cockpit_project.CockpitClient",
+    "org.dash.dash-core",
     "org.dash.electrum.electrum_dash",
     "org.davmail.DavMail",
     "org.deluge_torrent.deluge",
