@@ -2,6 +2,7 @@
     "6.8": [
         "ch.openboard.OpenBoard",
         "com.github.jmlich.geotagging",
+        "de.akaflieg_freiburg.enroute",
         "io.github.martinrotter.rssguard",
         "io.qt.PySide.BaseApp",
         "org.fcitx.Fcitx5",
@@ -35,7 +36,6 @@
     "6.7": [
         "com.nextcloud.desktopclient.nextcloud",
         "com.riverbankcomputing.PyQt.BaseApp",
-        "de.akaflieg_freiburg.enroute",
         "io.github.xiaoyifang.goldendict_ng",
         "io.gpt4all.gpt4all",
         "io.mrarm.mcpelauncher",

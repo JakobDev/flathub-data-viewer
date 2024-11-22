@@ -28,6 +28,7 @@
     "org.metal3d.scoreboard",
     "org.openchemistry.Avogadro2",
     "org.paraview.ParaView",
+    "org.sasview.sasview",
     "org.telesculptor.TeleSculptor",
     "org.tomviz.Tomviz",
     "org.unofficialrevport.REVHubInterface",

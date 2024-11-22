@@ -539,6 +539,7 @@
     "org.cubocore.CoreStats",
     "org.cubocore.CoreTime",
     "org.deidentifier.arx",
+    "org.deskflow.deskflow",
     "org.dupot.easyflatpak",
     "org.easycoding.TunedSwitcher",
     "org.eu.wabarc.wayback",

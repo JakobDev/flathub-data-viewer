@@ -22,6 +22,7 @@
         "io.qt.qtdesignstudio",
         "org.kde.kcachegrind",
         "org.kde.kdevelop",
+        "org.sasview.sasview",
         "page.codeberg.JakobDev.jdTextEdit"
     ],
     "5.15-24.08": [
