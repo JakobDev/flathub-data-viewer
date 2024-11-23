@@ -2599,6 +2599,7 @@
         "org.turbowarp.TurboWarp",
         "org.winehq.Wine",
         "org.zulip.Zulip",
+        "page.codeberg.terratactician_expandoria.game",
         "surf.deckr.deckr",
         "tv.kodi.Kodi",
         "ua.org.brezblock.q4wine"
