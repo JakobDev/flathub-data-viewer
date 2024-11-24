@@ -5,6 +5,7 @@
     "com.github.muriloventuroso.easyssh",
     "com.github.unrud.VideoDownloader",
     "com.github.unrud.djpdf",
+    "com.konstantintutsch.Lock",
     "com.mattjakeman.ExtensionManager",
     "com.transmissionbt.Transmission",
     "com.xnview.XnViewMP",

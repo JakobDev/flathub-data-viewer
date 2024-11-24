@@ -36,6 +36,7 @@
         "com.github.arminstraub.krop",
         "io.lmms.LMMS",
         "net.fsuae.FS-UAE",
+        "org.syntalos.syntalos",
         "org.torproject.torbrowser-launcher",
         "studio.kx.carla"
     ],
@@ -64,8 +65,7 @@
         "org.pairinteraction.Pairinteraction",
         "org.pymol.PyMOL",
         "org.qgis.qgis",
-        "org.spyder_ide.spyder",
-        "org.syntalos.syntalos"
+        "org.spyder_ide.spyder"
     ],
     "6.6": [
         "me.mitya57.ReText",
