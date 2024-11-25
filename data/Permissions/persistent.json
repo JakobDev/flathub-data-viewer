@@ -211,6 +211,7 @@
     ".config": [
         "com.netease.CloudMusic",
         "io.github.lawstorant.boxflat",
+        "net.sonobus.SonoBus",
         "org.stochas.Stochas",
         "org.surge_synth_team.surge-xt"
     ],
