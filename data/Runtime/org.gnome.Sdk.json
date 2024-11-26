@@ -2,10 +2,9 @@
     "42": [
         "cn.navclub.ldbfx"
     ],
-    "46": [
+    "47": [
         "com.github.corna.Vivado",
-        "org.gnome.Devhelp",
-        "re.sonny.Workbench"
+        "org.gnome.Builder"
     ],
     "44": [
         "com.github.themix_project.Oomox"
@@ -13,7 +12,8 @@
     "45": [
         "io.github.dida_code.OpstaKultura"
     ],
-    "47": [
-        "org.gnome.Builder"
+    "46": [
+        "org.gnome.Devhelp",
+        "re.sonny.Workbench"
     ]
 }

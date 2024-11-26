@@ -214,7 +214,7 @@
     "org.mpris.MediaPlayer2.*": [
         "io.github.foxxmd.multiscrobbler"
     ],
-    "org.mpris.MediaPlayer2.ncspot": [
+    "org.mpris.MediaPlayer2.ncspot.*": [
         "io.github.hrkfdn.ncspot"
     ],
     "org.mpris.MediaPlayer2.Qcm": [

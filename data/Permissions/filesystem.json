@@ -656,6 +656,7 @@
         "org.b3log.siyuan",
         "org.briarproject.Briar",
         "org.deluge_torrent.deluge",
+        "org.dpsoftware.FireflyLuciferin",
         "org.eu.encom.spectral",
         "org.ferdium.Ferdium",
         "org.firestormviewer.FirestormViewer",
@@ -2028,6 +2029,7 @@
         "org.b3log.siyuan",
         "org.damask_multiphysics.DAMASK_grid",
         "org.damask_multiphysics.DAMASK_mesh",
+        "org.dpsoftware.FireflyLuciferin",
         "org.dupot.easyflatpak",
         "org.eu.wabarc.wayback",
         "org.firestormviewer.FirestormViewer",
@@ -3531,19 +3533,18 @@
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetbrains.PhpStorm"
     ],
-    "xdg-run/gnupg": [
+    "xdg-run/podman": [
         "com.jetbrains.CLion",
+        "com.jetbrains.IntelliJ-IDEA-Ultimate",
+        "com.jetbrains.PhpStorm"
+    ],
+    "xdg-run/gnupg": [
         "com.jetbrains.DataGrip",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetpackduba.Gitnuro",
         "com.syntevo.SmartGit",
         "org.gajim.Gajim"
-    ],
-    "xdg-run/podman": [
-        "com.jetbrains.CLion",
-        "com.jetbrains.IntelliJ-IDEA-Ultimate",
-        "com.jetbrains.PhpStorm"
     ],
     "~/.gnupg:create": [
         "com.konstantintutsch.Lock",
