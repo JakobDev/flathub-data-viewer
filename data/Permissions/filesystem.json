@@ -121,6 +121,7 @@
         "com.itextpdf.RUPS",
         "com.itopia.client",
         "com.jaquadro.NBTExplorer",
+        "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetbrains.PhpStorm",
         "com.jianguoyun.Nutstore",
@@ -1528,7 +1529,6 @@
         "com.jetbrains.CLion",
         "com.jetbrains.DataGrip",
         "com.jetbrains.GoLand",
-        "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.PyCharm-Community",
         "com.jetbrains.PyCharm-Professional",
         "com.jetbrains.Rider",
@@ -3535,6 +3535,7 @@
     ],
     "xdg-run/podman": [
         "com.jetbrains.CLion",
+        "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetbrains.PhpStorm"
     ],
