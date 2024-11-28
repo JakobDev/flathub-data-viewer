@@ -1,6 +1,7 @@
 [
     "app.drey.Dialect",
     "com.github.unrud.VideoDownloader",
+    "io.github.realmazharhussain.GdmSettings",
     "io.gitlab.Goodvibes",
     "io.gitlab.news_flash.NewsFlash",
     "me.iepure.devtoolbox",

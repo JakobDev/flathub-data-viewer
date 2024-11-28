@@ -3,6 +3,7 @@
         "cn.lceda.LCEDAPro",
         "io.github.fin_ger.OvGUCanteen",
         "me.sergiotarxz.Exd",
+        "me.sergiotarxz.JapaChar",
         "org.vinegarhq.Vinegar"
     ],
     "moderate": [
@@ -22,7 +23,6 @@
         "com.github.corna.Vivado",
         "io.github.everestapi.Olympus",
         "io.itch.itch",
-        "me.sergiotarxz.JapaChar",
         "org.gnome.Lollypop"
     ],
     "none": [

@@ -2748,7 +2748,6 @@
         "com.github.geigi.cozy",
         "com.github.jmlich.geotagging",
         "com.github.junrrein.PDFSlicer",
-        "com.github.needleandthread.vocal",
         "com.github.neithern.g4music",
         "com.github.paolostivanin.OTPClient",
         "com.github.rafostar.Clapper",
@@ -3427,9 +3426,6 @@
     ],
     "~/.var/app/com.heroicgameslauncher.hgl": [
         "com.github.mtkennerly.ludusavi"
-    ],
-    "xdg-data/vocal:create": [
-        "com.github.needleandthread.vocal"
     ],
     "~/.var/app/com.valvesoftware.Steam:ro": [
         "com.github.petebuffon.yafc",
