@@ -1,4 +1,5 @@
 [
+    "br.com.wiselabs.simplexity",
     "camp.nook.nookdesktop",
     "com.boxy_svg.BoxySVG",
     "com.getmailspring.Mailspring",
@@ -28,6 +29,7 @@
     "io.qt.qtwebengine.BaseApp",
     "me.acristoffers.Lachesis",
     "moe.karaokes.mugen",
+    "net.ankiweb.Anki",
     "net.hovancik.Stretchly",
     "org.chromium.Chromium",
     "org.expresslrs.ExpressLRSConfigurator",

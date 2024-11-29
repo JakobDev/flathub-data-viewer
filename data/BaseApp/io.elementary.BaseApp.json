@@ -36,12 +36,10 @@
     ],
     "juno-19.08": [
         "com.github.calo001.fondo",
-        "com.github.inercia.k3x",
-        "com.github.matfantinel.moneta"
+        "com.github.inercia.k3x"
     ],
     "juno-21.08": [
         "com.github.horaciodrs.tradesim",
-        "com.github.matfantinel.reminduck",
         "com.github.mdh34.hackup",
         "com.github.mdh34.quickdocs",
         "com.github.philip_scott.notes-up"

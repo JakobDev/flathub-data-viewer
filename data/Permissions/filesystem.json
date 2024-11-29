@@ -12,6 +12,7 @@
         "ar.xjuan.Cambalache",
         "art.taunoerik.tauno-monitor",
         "au.edu.uq.esys.escript",
+        "br.com.wiselabs.simplexity",
         "br.eng.silas.qpdftools",
         "br.gov.cti.invesalius",
         "ca.edestcroix.Recordbox",
@@ -153,6 +154,7 @@
         "com.sleepfiles.OSCAR",
         "com.snes9x.Snes9x",
         "com.st.STM32CubeIDE",
+        "com.st.STM32CubeMX",
         "com.steamdeckrepo.manager",
         "com.supermodel3.Supermodel",
         "com.sweethome3d.Sweethome3d",
@@ -1016,6 +1018,7 @@
         "moe.clover.mm3d",
         "moe.emmaexe.ntfyDesktop",
         "net._86box._86Box",
+        "net.ankiweb.Anki",
         "net.blumia.pineapple-pictures",
         "net.codeindustry.MasterPDFEditor",
         "net.corluma.Corluma",
@@ -1533,6 +1536,7 @@
         "com.jetbrains.PyCharm-Professional",
         "com.jetbrains.Rider",
         "com.jetbrains.RubyMine",
+        "com.jetbrains.RustRover",
         "com.jetbrains.WebStorm",
         "com.jetpackduba.Gitnuro",
         "com.kavilgroup.gelectrical",
@@ -2234,6 +2238,7 @@
         "com.heroicgameslauncher.hgl",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
+        "com.jetbrains.RustRover",
         "com.mastermindzh.tidal-hifi",
         "com.modrinth.ModrinthApp",
         "com.mojang.Minecraft",
@@ -2502,6 +2507,7 @@
         "com.jetbrains.PyCharm-Professional",
         "com.jetbrains.Rider",
         "com.jetbrains.RubyMine",
+        "com.jetbrains.RustRover",
         "com.jetbrains.WebStorm",
         "com.syntevo.SmartGit",
         "com.tutanota.Tutanota",
@@ -3350,7 +3356,6 @@
     ],
     "xdg-config/autostart:create": [
         "com.github.bluesabre.darkbar",
-        "com.github.matfantinel.reminduck",
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "xdg-data/flatpak/app:ro": [
@@ -3527,13 +3532,15 @@
         "com.jetbrains.CLion",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
-        "com.jetbrains.PhpStorm"
+        "com.jetbrains.PhpStorm",
+        "com.jetbrains.RustRover"
     ],
     "xdg-run/podman": [
         "com.jetbrains.CLion",
         "com.jetbrains.IntelliJ-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
-        "com.jetbrains.PhpStorm"
+        "com.jetbrains.PhpStorm",
+        "com.jetbrains.RustRover"
     ],
     "xdg-run/gnupg": [
         "com.jetbrains.DataGrip",
