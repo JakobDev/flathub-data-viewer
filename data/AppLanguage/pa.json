@@ -57,5 +57,6 @@
     "org.pulseaudio.pavucontrol",
     "org.sugarlabs.Memorize",
     "org.sugarlabs.Speak",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.virt_manager.virt-manager"
 ]

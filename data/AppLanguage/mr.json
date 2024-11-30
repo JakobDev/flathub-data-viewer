@@ -38,5 +38,6 @@
     "org.sugarlabs.Paint",
     "org.sugarlabs.Speak",
     "org.sugarlabs.Words",
-    "org.tuxpaint.Tuxpaint"
+    "org.tuxpaint.Tuxpaint",
+    "org.virt_manager.virt-manager"
 ]

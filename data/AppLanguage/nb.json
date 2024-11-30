@@ -32,6 +32,7 @@
     "io.github.zefr0x.hashes",
     "io.neovim.nvim",
     "net.minetest.Minetest",
+    "net.nokyan.Resources",
     "net.supertuxkart.SuperTuxKart",
     "org.bluesabre.MenuLibre",
     "org.bunkus.mkvtoolnix-gui",

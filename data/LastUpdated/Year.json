@@ -1,4 +1,5 @@
 [
+    "app.cantara.Cantara",
     "app.devsuite.Schemes",
     "app.drey.Damask",
     "app.drey.MultiplicationPuzzle",
@@ -9,6 +10,7 @@
     "at.vintagestory.VintageStory",
     "br.com.eduk.school",
     "br.eng.silas.qpdftools",
+    "br.gov.cti.invesalius",
     "ca._0ldsk00l.Nestopia",
     "ch.theologeek.Manuskript",
     "ch.threema.threema-web-desktop",
@@ -253,6 +255,7 @@
     "net.sourceforge.lgames.LTris",
     "net.sourceforge.mcomix",
     "net.sourceforge.molsketch",
+    "net.sourceforge.scidvspc.scidvspc",
     "net.sourceforge.uqm_mods.UQM-MegaMod",
     "net.sourceforge.wxEDID",
     "net.zdechov.app.Tunneler",
@@ -325,7 +328,6 @@
     "org.kde.kgraphviewer",
     "org.kde.pix",
     "org.kde.umbrello",
-    "org.kde.vvave",
     "org.librepcb.LibrePCB",
     "org.love2d.love2d",
     "org.mfek.MFEKglif",
@@ -418,6 +420,7 @@
     "org.freedesktop.Sdk.Extension.node18",
     "org.freedesktop.Sdk.Extension.swift5",
     "org.freedesktop.Sdk.Extension.vala",
+    "org.gtk.Gtk3theme.Orchis-Dark",
     "org.gtk.Gtk3theme.Orchis",
     "re.rizin.cutter.plugin.rz-ghidra"
 ]

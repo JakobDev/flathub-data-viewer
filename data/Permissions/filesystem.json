@@ -327,6 +327,7 @@
         "net.dengine.Doomsday",
         "net.fasterland.converseen",
         "net.fsuae.FS-UAE",
+        "net.gpro.gproapp",
         "net.jammr.jammr",
         "net.kuribo64.melonDS",
         "net.launchpad.Gnuclad",
@@ -701,6 +702,7 @@
         "org.tuxfamily.hatari",
         "org.twinery.Twine",
         "org.v1993.NXDumpClient",
+        "org.virt_manager.virt-manager",
         "org.winehq.Wine",
         "org.zaproxy.ZAP",
         "org.zulip.Zulip",
@@ -1883,6 +1885,7 @@
         "org.strawberrymusicplayer.strawberry",
         "org.subtitld.Subtitld",
         "org.turbowarp.TurboWarp",
+        "org.virt_manager.virt-manager",
         "org.winehq.Wine",
         "surf.deckr.deckr",
         "tv.kodi.Kodi",
@@ -1903,6 +1906,7 @@
         "org.gnome.DejaDup",
         "org.gnome.World.PikaBackup",
         "org.gnome.baobab",
+        "org.kde.dolphin",
         "page.codeberg.JakobDev.jdFlatpakSnapshot"
     ],
     "/var:ro": [
@@ -2056,6 +2060,7 @@
         "org.sdrangel.SDRangel",
         "org.soapui.SoapUI",
         "org.texmacs.TeXmacs",
+        "org.virt_manager.virt-manager",
         "org.winehq.Wine",
         "org.xnec2c.Xnec2c",
         "org.yacas.yacas-gui",
@@ -2604,6 +2609,7 @@
         "org.ryujinx.Ryujinx",
         "org.subtitld.Subtitld",
         "org.turbowarp.TurboWarp",
+        "org.virt_manager.virt-manager",
         "org.winehq.Wine",
         "org.zulip.Zulip",
         "page.codeberg.terratactician_expandoria.game",
@@ -2663,6 +2669,7 @@
         "org.gnome.frogr",
         "org.kde.kamoso",
         "org.qutebrowser.qutebrowser",
+        "org.virt_manager.virt-manager",
         "org.winehq.Wine",
         "surf.deckr.deckr",
         "tv.kodi.Kodi",
@@ -3346,6 +3353,7 @@
         "net.blockbench.Blockbench",
         "no.mifi.losslesscut",
         "org.gnome.gThumb",
+        "org.virt_manager.virt-manager",
         "org.wireshark.Wireshark"
     ],
     "xdg-pictures/RMG": [
@@ -4002,7 +4010,8 @@
         "page.kramo.Cartridges"
     ],
     "/run/libvirt": [
-        "io.github.lruzicka.Needly"
+        "io.github.lruzicka.Needly",
+        "org.virt_manager.virt-manager"
     ],
     "xdg-run/libvirt": [
         "io.github.lruzicka.Needly",
@@ -4575,6 +4584,9 @@
     ],
     "/var/run/tor/control.authcookie:ro": [
         "org.vertcoin.vertcoin-qt"
+    ],
+    "~/.ssh": [
+        "org.virt_manager.virt-manager"
     ],
     "xdg-config/wezterm": [
         "org.wezfurlong.wezterm"

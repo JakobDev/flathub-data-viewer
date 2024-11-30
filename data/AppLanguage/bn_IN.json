@@ -29,5 +29,6 @@
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
     "org.pulseaudio.pavucontrol",
-    "org.sugarlabs.Paint"
+    "org.sugarlabs.Paint",
+    "org.virt_manager.virt-manager"
 ]

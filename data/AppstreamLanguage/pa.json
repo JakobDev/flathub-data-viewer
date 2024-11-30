@@ -122,5 +122,6 @@
     "org.kde.yakuake",
     "org.pulseaudio.pavucontrol",
     "org.tuxpaint.Tuxpaint",
-    "org.videolan.VLC"
+    "org.videolan.VLC",
+    "org.virt_manager.virt-manager"
 ]
