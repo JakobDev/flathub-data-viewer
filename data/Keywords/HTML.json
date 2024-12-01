@@ -1,5 +1,6 @@
 [
     "com.pinegrow.Pinegrow",
+    "fr.sgued.bodev",
     "io.gitlab.liferooter.TextPieces",
     "org.msweet.htmldoc"
 ]

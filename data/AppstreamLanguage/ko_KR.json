@@ -1,5 +1,6 @@
 [
     "com.github.tenderowl.frog",
     "io.github.pragha_music_player.pragha",
-    "org.xiphos.Xiphos"
+    "org.xiphos.Xiphos",
+    "rocks.koreader.KOReader"
 ]

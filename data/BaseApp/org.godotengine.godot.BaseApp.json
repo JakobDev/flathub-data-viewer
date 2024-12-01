@@ -11,8 +11,7 @@
     ],
     "3.5-23.08": [
         "io.github.hepfnepf.blutfest",
-        "io.itch.domestique_baston.kindergarten_massaker",
-        "org.dupot.littleadventure"
+        "io.itch.domestique_baston.kindergarten_massaker"
     ],
     "3.5-24.08": [
         "io.itch.domestique_baston.domestique_baston"

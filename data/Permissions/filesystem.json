@@ -3258,7 +3258,8 @@
         "com.francescogaglione.chronos",
         "com.francescogaglione.cosmicmoney",
         "com.jwestall.Forecast",
-        "dev.edfloreshz.CosmicTweaks"
+        "dev.edfloreshz.CosmicTweaks",
+        "fr.sgued.bodev"
     ],
     "~/.ssh:ro": [
         "com.gitbutler.gitbutler",
@@ -3591,6 +3592,9 @@
         "com.outerwildsmods.owmods_gui"
     ],
     "~/.var/app/com.valvesoftware.Steam/.local/share/OuterWildsModManager": [
+        "com.outerwildsmods.owmods_gui"
+    ],
+    "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Outer Wilds": [
         "com.outerwildsmods.owmods_gui"
     ],
     "~/.local/share/OuterWildsModManager": [
