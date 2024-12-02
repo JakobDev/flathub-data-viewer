@@ -1,4 +1,5 @@
 [
     "com.hunterwittenborn.Celeste",
-    "com.nextcloud.desktopclient.nextcloud"
+    "com.nextcloud.desktopclient.nextcloud",
+    "io.github.dzheremi2.lrcmake-gtk"
 ]
