@@ -12,6 +12,7 @@
         "com.github.calo001.luna",
         "com.github.childishgiant.mixer",
         "com.github.dahenson.agenda",
+        "com.github.gijsgoudzwaard.image-optimizer",
         "com.github.louis77.tuner",
         "com.github.muriloventuroso.easyssh",
         "com.github.muriloventuroso.givemelyrics",
@@ -29,7 +30,6 @@
     "juno-22.08": [
         "com.github.bcedu.valasimplehttpserver",
         "com.github.devalien.workspaces",
-        "com.github.gijsgoudzwaard.image-optimizer",
         "com.github.muriloventuroso.pdftricks",
         "com.github.rajsolai.textsnatcher",
         "com.github.treagod.spectator"
