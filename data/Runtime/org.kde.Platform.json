@@ -99,6 +99,7 @@
         "org.freecad.FreeCAD",
         "org.freeciv.qt",
         "org.genivi.DLTViewer",
+        "org.gitfourchette.gitfourchette",
         "org.gottcode.Connectagram",
         "org.gottcode.CuteMaze",
         "org.gottcode.FocusWriter",

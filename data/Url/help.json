@@ -601,6 +601,7 @@
     "org.getzola.zola",
     "org.ghidra_sre.Ghidra",
     "org.gimp.GIMP",
+    "org.gitfourchette.gitfourchette",
     "org.gnome.Boxes",
     "org.gnome.Brasero",
     "org.gnome.Builder",

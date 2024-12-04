@@ -13,6 +13,7 @@
         "net.sourceforge.m64py.M64Py",
         "org.artisan_scope.artisan",
         "org.beeref.BeeRef",
+        "org.gitfourchette.gitfourchette",
         "org.mintguide.WebAppReader",
         "org.sasview.sasview",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
