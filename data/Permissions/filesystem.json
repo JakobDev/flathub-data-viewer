@@ -708,6 +708,7 @@
         "org.zaproxy.ZAP",
         "org.zulip.Zulip",
         "page.codeberg.libre_menu_editor.LibreMenuEditor",
+        "page.codeberg.terratactician_expandoria.game",
         "pl.art.lach.slawek.V2BlankBrowser",
         "ru.yandex.Browser",
         "sh.ppy.osu",
@@ -1615,6 +1616,7 @@
         "io.github.cboxdoerfer.FSearch",
         "io.github.ctlcltd.e2se",
         "io.github.daviddesimone.opencloudsaves",
+        "io.github.dzheremi2.lrcmake-gtk",
         "io.github.fralonra.WgShadertoy",
         "io.github.georgewoodall82.jsymphonic",
         "io.github.giantpinkrobots.bootqt",
@@ -1962,6 +1964,7 @@
         "com.heroicgameslauncher.hgl",
         "com.icons8.Lunacy",
         "com.invoiceninja.InvoiceNinja",
+        "com.krioltech.fnmap",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.maxint.maxint",
@@ -2795,6 +2798,7 @@
         "io.github.TransmissionRemoteGtk",
         "io.github.appoutlet.GameOutlet",
         "io.github.celluloid_player.Celluloid",
+        "io.github.dzheremi2.lrcmake-gtk",
         "io.github.ecotubehq.player",
         "io.github.ilius.pyglossary",
         "io.github.manisandro.gImageReader",
@@ -3527,7 +3531,8 @@
         "xyz.hyperplay.HyperPlay"
     ],
     "xdg-data/umu:create": [
-        "com.heroicgameslauncher.hgl"
+        "com.heroicgameslauncher.hgl",
+        "net.lutris.Lutris"
     ],
     "~/.local/share/lutris": [
         "com.heroicgameslauncher.hgl",

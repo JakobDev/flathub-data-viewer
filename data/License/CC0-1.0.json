@@ -8,6 +8,5 @@
     "net.zdechov.app.TransLines",
     "net.zdechov.app.Tunneler",
     "net.zdechov.app.vCardStudio",
-    "net.zdechov.app.x2048",
-    "online.athn.browser.gnome"
+    "net.zdechov.app.x2048"
 ]

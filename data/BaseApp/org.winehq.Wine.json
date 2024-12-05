@@ -3,13 +3,13 @@
         "com.playonlinux.PlayOnLinux4",
         "com.usebottles.bottles",
         "io.github.fastrizwaan.WineZGUI",
-        "io.itch.itch"
+        "io.itch.itch",
+        "net.lutris.Lutris"
     ],
     "stable-23.08": [
         "io.github.aggalex.Wineglass",
         "io.github.sharkwouter.Minigalaxy",
         "io.thenexusavenger.Nexus-LU-Launcher",
-        "net.lutris.Lutris",
         "ua.org.brezblock.q4wine"
     ]
 }

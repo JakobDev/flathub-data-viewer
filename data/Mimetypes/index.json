@@ -1529,7 +1529,6 @@
         "model{SLASH}x3d+vrml",
         "model{SLASH}x3d+xml",
         "multipart{SLASH}related",
-        "text{SLASH}athn",
         "text{SLASH}brainfuck",
         "text{SLASH}calendar",
         "text{SLASH}coffeescript",

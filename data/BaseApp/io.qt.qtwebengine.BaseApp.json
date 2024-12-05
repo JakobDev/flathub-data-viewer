@@ -4,6 +4,7 @@
         "com.github.jmlich.geotagging",
         "de.akaflieg_freiburg.enroute",
         "io.github.martinrotter.rssguard",
+        "io.github.streetpea.Chiaki4deck",
         "io.qt.PySide.BaseApp",
         "org.fcitx.Fcitx5",
         "org.musescore.MuseScore",

@@ -64,6 +64,7 @@
     "io.gitlab.news_flash.NewsFlash",
     "io.liri.Text",
     "io.posidon.Paper",
+    "net.lutris.Lutris",
     "net.minetest.Minetest",
     "net.nokyan.Resources",
     "net.sourceforge.Hugin",

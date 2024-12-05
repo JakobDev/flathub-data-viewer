@@ -124,6 +124,7 @@
         "com.usebottles.bottles",
         "com.valvesoftware.Steam",
         "io.github.accessory.minus_games_gui",
+        "net.lutris.Lutris",
         "ru.linux_gaming.PortProton"
     ],
     "canbus": [
