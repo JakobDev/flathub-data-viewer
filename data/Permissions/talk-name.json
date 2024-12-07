@@ -2526,7 +2526,6 @@
         "com.elsevier.MendeleyDesktop",
         "com.fightcade.Fightcade",
         "com.getmailspring.Mailspring",
-        "com.ghostery.browser",
         "com.gigitux.youp",
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.Johnn3y.Forklift",
@@ -3102,7 +3101,6 @@
         "com.core447.StreamController",
         "com.discordapp.Discord",
         "com.fightcade.Fightcade",
-        "com.ghostery.browser",
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.artemanufrij.playmymusic",
         "com.github.artemanufrij.playmyvideos",
@@ -3212,7 +3210,6 @@
         "cn.apipost.apipost",
         "com.brave.Browser",
         "com.frac_tion.teleport",
-        "com.ghostery.browser",
         "com.github.calo001.fondo",
         "com.google.Chrome",
         "com.google.ChromeDev",
@@ -3285,7 +3282,6 @@
     "org.gnome.SessionManager": [
         "cn.xfangfang.wiliwili",
         "com.brave.Browser",
-        "com.ghostery.browser",
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.github.calo001.fondo",
         "com.github.corna.Vivado",
@@ -3364,7 +3360,6 @@
         "com.abisource.AbiWord",
         "com.axosoft.GitKraken",
         "com.belmoussaoui.Authenticator",
-        "com.ghostery.browser",
         "com.github.PintaProject.Pinta",
         "com.github.alainm23.byte",
         "com.github.artemanufrij.playmymusic",
@@ -3594,23 +3589,6 @@
         "io.github.cosmic_utils.Examine",
         "io.github.wiiznokes.fan-control"
     ],
-    "org.a11y.Bus": [
-        "com.ghostery.browser",
-        "com.humatarayici.od",
-        "com.obsproject.Studio",
-        "com.zhqli.wikit",
-        "eu.betterbird.Betterbird",
-        "io.github.gamingdoom.Datcord",
-        "io.github.manisandro.gImageReader",
-        "io.github.zen_browser.zen",
-        "io.gitlab.librewolf-community",
-        "io.sourceforge.qoobar.Qoobar",
-        "one.ablaze.floorp",
-        "org.garudalinux.firedragon",
-        "org.mozilla.Thunderbird",
-        "org.mozilla.firefox",
-        "org.nicotine_plus.Nicotine"
-    ],
     "org.gtk.Notifications": [
         "com.github.IsmaelMartinez.teams_for_linux",
         "com.hack_computer.Clubhouse",
@@ -3756,6 +3734,22 @@
     "com.hack_computer.GameStateService": [
         "com.hack_computer.OperatingSystemApp",
         "com.hack_computer.Sidetrack"
+    ],
+    "org.a11y.Bus": [
+        "com.humatarayici.od",
+        "com.obsproject.Studio",
+        "com.zhqli.wikit",
+        "eu.betterbird.Betterbird",
+        "io.github.gamingdoom.Datcord",
+        "io.github.manisandro.gImageReader",
+        "io.github.zen_browser.zen",
+        "io.gitlab.librewolf-community",
+        "io.sourceforge.qoobar.Qoobar",
+        "one.ablaze.floorp",
+        "org.garudalinux.firedragon",
+        "org.mozilla.Thunderbird",
+        "org.mozilla.firefox",
+        "org.nicotine_plus.Nicotine"
     ],
     "org.gnome.keyring.SystemPrompter": [
         "com.jetbrains.CLion",

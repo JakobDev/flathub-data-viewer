@@ -1,7 +1,4 @@
 {
-    "6.8": [
-        "com.markopejic.downloader"
-    ],
     "6.7": [
         "io.github.breadmakesyoufull.baseconvert",
         "io.github.breadmakesyoufull.bpm2fps",

@@ -16,6 +16,7 @@
         "com.synology.SynologyDrive",
         "com.tencent.WeChat",
         "io.github.qnapi",
+        "io.itch.itch",
         "me.timschneeberger.GalaxyBudsClient",
         "org.altaqwaa.Altaqwaa",
         "org.easycoding.TunedSwitcher",
@@ -34,17 +35,6 @@
     ],
     "org.mpris.MediaPlayer2.Euterpe-Gtk": [
         "com.doycho.euterpe.gtk"
-    ],
-    "org.mpris.MediaPlayer2.firefox.*": [
-        "com.ghostery.browser",
-        "com.humatarayici.od",
-        "io.github.zen_browser.zen",
-        "io.gitlab.librewolf-community",
-        "net.mullvad.MullvadBrowser",
-        "net.waterfox.waterfox",
-        "one.ablaze.floorp",
-        "org.garudalinux.firedragon",
-        "org.mozilla.firefox"
     ],
     "org.mpris.MediaPlayer2.spotube.*": [
         "com.github.KRTirtho.Spotube"
@@ -121,6 +111,16 @@
     ],
     "org.mozilla.huma.*": [
         "com.humatarayici.od"
+    ],
+    "org.mpris.MediaPlayer2.firefox.*": [
+        "com.humatarayici.od",
+        "io.github.zen_browser.zen",
+        "io.gitlab.librewolf-community",
+        "net.mullvad.MullvadBrowser",
+        "net.waterfox.waterfox",
+        "one.ablaze.floorp",
+        "org.garudalinux.firedragon",
+        "org.mozilla.firefox"
     ],
     "org.mpris.MediaPlayer2.mpv.*": [
         "com.ktechpit.orion",

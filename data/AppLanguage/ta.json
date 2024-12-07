@@ -2,6 +2,7 @@
     "app.drey.Dialect",
     "app.rednotebook.RedNotebook",
     "com.github.hugolabe.Wike",
+    "com.mattjakeman.ExtensionManager",
     "com.tux4kids.tuxtype",
     "dev.geopjr.Collision",
     "fr.romainvigier.MetadataCleaner",

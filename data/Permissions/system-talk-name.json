@@ -5,7 +5,6 @@
     "org.freedesktop.NetworkManager": [
         "app.bluebubbles.BlueBubbles",
         "com.borgbase.Vorta",
-        "com.ghostery.browser",
         "com.github.Matoking.protontricks",
         "com.github.gabutakut.gabutdm",
         "com.github.jkotra.eovpn",

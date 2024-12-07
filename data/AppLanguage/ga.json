@@ -1,6 +1,7 @@
 [
     "app.rednotebook.RedNotebook",
     "com.github.PintaProject.Pinta",
+    "com.mattjakeman.ExtensionManager",
     "im.pidgin.Pidgin",
     "io.github.seadve.Mousai",
     "io.missioncenter.MissionCenter",
