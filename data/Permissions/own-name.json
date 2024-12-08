@@ -214,6 +214,9 @@
     "org.mpris.MediaPlayer2.*": [
         "io.github.foxxmd.multiscrobbler"
     ],
+    "org.mpris.MediaPlayer2.musicfox.*": [
+        "io.github.go_musicfox.go-musicfox"
+    ],
     "org.mpris.MediaPlayer2.ncspot.*": [
         "io.github.hrkfdn.ncspot"
     ],

@@ -7,7 +7,8 @@
         "page.codeberg.yeldham.Librerama"
     ],
     "4.3-24.08": [
-        "com.orama_interactive.Pixelorama"
+        "com.orama_interactive.Pixelorama",
+        "page.codeberg.ilijaculap.snux"
     ],
     "3.5-23.08": [
         "io.github.hepfnepf.blutfest",

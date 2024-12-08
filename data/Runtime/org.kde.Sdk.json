@@ -2,8 +2,11 @@
     "5.15-21.08": [
         "com.github.Murmele.scram"
     ],
-    "6.6": [
-        "io.github.JakubMelka.Pdf4qt"
+    "6.8": [
+        "io.github.JakubMelka.Pdf4qt",
+        "io.qt.Designer",
+        "io.qt.Linguist",
+        "io.qt.qdbusviewer"
     ],
     "5.15-23.08": [
         "io.github.dman95.SASM",
@@ -11,11 +14,6 @@
         "org.octave.Octave",
         "org.paraview.ParaView",
         "org.spyder_ide.spyder"
-    ],
-    "6.8": [
-        "io.qt.Designer",
-        "io.qt.Linguist",
-        "io.qt.qdbusviewer"
     ],
     "6.7": [
         "io.qt.QtCreator",

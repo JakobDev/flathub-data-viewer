@@ -1073,6 +1073,7 @@
         "io.github.Bollos00.LibreMines",
         "io.github.FedericoCalzoni.EventRecorder",
         "io.github.JaGoLi.ytdl_gui",
+        "io.github.JakubMelka.Pdf4qt",
         "io.github.KikoPlayProject.KikoPlay",
         "io.github.NickKarpowicz.LightwaveExplorer",
         "io.github.OpenToonz",
@@ -1728,6 +1729,7 @@
         "io.github.Arisotura.CoinKiller",
         "io.github.Bollos00.LibreMines",
         "io.github.FedericoCalzoni.EventRecorder",
+        "io.github.JakubMelka.Pdf4qt",
         "io.github.KikoPlayProject.KikoPlay",
         "io.github.NickKarpowicz.LightwaveExplorer",
         "io.github.OpenToonz",
@@ -2899,6 +2901,7 @@
         "io.stoplight.studio",
         "it.mijorus.gearlever",
         "me.amankhanna.opendeck",
+        "menu.kando.Kando",
         "net.davidotek.pupgui2",
         "net.lutris.Lutris",
         "net.nokyan.Resources",
@@ -3563,6 +3566,7 @@
         "com.hack_computer.Sidetrack",
         "com.uploadedlobster.peek",
         "edu.stanford.Almond",
+        "menu.kando.Kando",
         "org.gnome.BreakTimer",
         "org.gnome.Totem",
         "org.remmina.Remmina",
@@ -3634,6 +3638,7 @@
     ],
     "org.kde.KWin": [
         "com.github.dynobo.normcap",
+        "menu.kando.Kando",
         "org.kde.yakuake"
     ],
     "org.gnome.Shell.Extensions": [
