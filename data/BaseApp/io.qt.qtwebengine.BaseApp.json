@@ -7,6 +7,7 @@
         "io.github.streetpea.Chiaki4deck",
         "io.qt.PySide.BaseApp",
         "org.fcitx.Fcitx5",
+        "org.kde.falkon",
         "org.musescore.MuseScore",
         "org.sdrangel.SDRangel"
     ],
@@ -49,7 +50,6 @@
         "org.kde.angelfish",
         "org.kde.arianna",
         "org.kde.digikam",
-        "org.kde.falkon",
         "org.kde.ghostwriter",
         "org.kde.kalgebra",
         "org.kde.kdevelop",

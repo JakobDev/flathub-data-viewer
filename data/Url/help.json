@@ -38,6 +38,7 @@
     "com.alpineclient.AlpineClient",
     "com.amazon.Workspaces",
     "com.atlauncher.ATLauncher",
+    "com.authormore.penpotdesktop",
     "com.axosoft.GitKraken",
     "com.baidu.NetDisk",
     "com.bambulab.BambuStudio",
@@ -937,5 +938,6 @@
     "net.krafting.SemantiK.Lang.English",
     "org.apache.jmeter.Help",
     "org.freedesktop.LinuxAudio.Plugins.SonoBus",
-    "org.freedesktop.Sdk.Extension.gnat13"
+    "org.freedesktop.Sdk.Extension.gnat13",
+    "org.freedesktop.Sdk.Extension.gnat14"
 ]

@@ -38,6 +38,7 @@
         "com.github.arminstraub.krop",
         "io.lmms.LMMS",
         "net.fsuae.FS-UAE",
+        "org.electrum.electrum",
         "org.syntalos.syntalos",
         "org.torproject.torbrowser-launcher",
         "studio.kx.carla"
@@ -59,7 +60,6 @@
         "net.puddletag.puddletag",
         "net.sourceforge.scidavis",
         "org.cloudcompare.CloudCompare",
-        "org.electrum.electrum",
         "org.frescobaldi.Frescobaldi",
         "org.groestlcoin.electrum-grs",
         "org.linuxshowplayer.LinuxShowPlayer",

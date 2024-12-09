@@ -16,6 +16,7 @@
     "io.github.wiiznokes.fan-control",
     "io.qt.PySide.BaseApp",
     "io.qt.QtCreator",
+    "it.dottorblaster.cauldron",
     "net.nokyan.Resources",
     "net.retrodeck.retrodeck",
     "net.rpcs3.RPCS3",

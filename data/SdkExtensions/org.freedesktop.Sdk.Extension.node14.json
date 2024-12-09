@@ -1,6 +1,5 @@
 [
     "com.alovoa.alovoa-electron",
-    "com.emqx.MQTTX",
     "com.ktechpit.orion",
     "com.wickeditor.WickEditor",
     "io.github.dbchoco.muezzin",

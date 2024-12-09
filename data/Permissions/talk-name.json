@@ -2318,6 +2318,7 @@
         "com.spotify.Client",
         "com.stremio.Service",
         "com.stremio.Stremio",
+        "com.super_productivity.SuperProductivity",
         "com.surfshark.Surfshark",
         "com.synology.CloudStationBackup",
         "com.synology.SynologyDrive",
@@ -3525,6 +3526,7 @@
         "com.brave.Browser",
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
+        "com.super_productivity.SuperProductivity",
         "io.github.ungoogled_software.ungoogled_chromium"
     ],
     "org.freedesktop.IBus": [

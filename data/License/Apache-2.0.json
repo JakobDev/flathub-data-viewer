@@ -38,6 +38,7 @@
     "io.kopia.KopiaUI",
     "io.neovim.nvim",
     "io.podman_desktop.PodmanDesktop",
+    "it.dottorblaster.cauldron",
     "it.unibo.tuprolog.ide",
     "one.alynx.FlipClock",
     "org.apache.directory.studio",
