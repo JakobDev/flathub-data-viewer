@@ -328,7 +328,8 @@
         "vn.hoabinh.quan.CoBang"
     ],
     "net.reactivated.Fprint": [
-        "io.ente.auth"
+        "io.ente.auth",
+        "org.tabos.saldo"
     ],
     "org.freedesktop.systemd1": [
         "io.github.bkbilly.lnxlink",

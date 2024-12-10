@@ -21,7 +21,6 @@
         "org.altaqwaa.Altaqwaa",
         "org.easycoding.TunedSwitcher",
         "org.qutebrowser.qutebrowser",
-        "org.tribler.Tribler",
         "us.zoom.Zoom"
     ],
     "org.gtk.vfs.*": [

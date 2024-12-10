@@ -116,6 +116,7 @@
         "cc.arduino.IDE2",
         "chat.revolt.RevoltDesktop",
         "chat.rocket.RocketChat",
+        "chat.tandem.Client",
         "cn.apipost.apipost",
         "com.authormore.penpotdesktop",
         "com.axosoft.GitKraken",
@@ -180,7 +181,6 @@
     ],
     "22.08": [
         "chat.quadrix.Quadrix",
-        "chat.tandem.Client",
         "co.headsetapp.headset",
         "com.alovoa.alovoa-electron",
         "com.meetfranz.Franz",

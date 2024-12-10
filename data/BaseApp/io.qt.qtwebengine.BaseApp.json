@@ -18,7 +18,6 @@
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
         "com.stremio.Stremio",
-        "fun.vnote.app.VNote",
         "io.github.foldynl.QLog",
         "net.mediaarea.MediaConch",
         "net.sonic_pi.SonicPi",
@@ -70,14 +69,15 @@
     "6.2": [
         "dev.lukebriggs.pepys"
     ],
+    "5.15-24.08": [
+        "fun.vnote.app.VNote",
+        "org.recoll.recoll"
+    ],
     "6.6": [
         "io.github.nyre221.kiview",
         "org.previewqt.PreviewQt"
     ],
     "5.15-22.08": [
         "io.sourceforge.chart_geany.chart-geany"
-    ],
-    "5.15-24.08": [
-        "org.recoll.recoll"
     ]
 }

@@ -700,6 +700,7 @@
         "org.soundconverter.SoundConverter",
         "org.subtitld.Subtitld",
         "org.syphon.Syphon",
+        "org.tribler.Tribler",
         "org.turbowarp.TurboWarp",
         "org.tuxfamily.hatari",
         "org.twinery.Twine",
@@ -1170,7 +1171,6 @@
         "org.kde.bovo",
         "org.kde.calligra",
         "org.kde.cantor",
-        "org.kde.choqok",
         "org.kde.digikam",
         "org.kde.dolphin",
         "org.kde.elisa",
@@ -4588,9 +4588,6 @@
     ],
     "xdg-documents/Surge XT:create": [
         "org.surge_synth_team.surge-xt"
-    ],
-    "xdg-download/TriblerDownloads:create": [
-        "org.tribler.Tribler"
     ],
     "xdg-pictures/TuxPaint:create": [
         "org.tuxpaint.Tuxpaint"

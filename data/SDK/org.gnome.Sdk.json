@@ -65,7 +65,6 @@
         "com.pojtinger.felicitas.Multiplex",
         "com.pot_app.pot",
         "com.qq.QQ",
-        "com.rafaelmardojai.Blanket",
         "com.rafaelmardojai.SharePreview",
         "com.raggesilver.BlackBox",
         "com.ranfdev.Geopard",
@@ -438,6 +437,7 @@
         "com.protonvpn.www",
         "com.prusa3d.PrusaSlicer",
         "com.quexten.Goldwarden",
+        "com.rafaelmardojai.Blanket",
         "com.rafaelmardojai.WebfontKitGenerator",
         "com.ranfdev.Notify",
         "com.rawtherapee.RawTherapee",
@@ -858,7 +858,6 @@
         "com.github.donadigo.appeditor",
         "com.github.rajsolai.response",
         "de.wwwtech.ColorMate",
-        "io.github.lainsce.Quilter",
         "net.sourceforge.electrip.Electrip",
         "org.gnome.Eolie"
     ],
