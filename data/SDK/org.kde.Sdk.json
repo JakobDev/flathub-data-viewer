@@ -498,7 +498,6 @@
         "org.mattbas.Glaxnimate",
         "org.plomgrading.PlomClient",
         "org.previewqt.PreviewQt",
-        "org.strawberrymusicplayer.strawberry",
         "org.tug.texworks",
         "page.codeberg.DrRac27.Karoto"
     ],
@@ -514,7 +513,6 @@
         "com.virustotal.VirusTotalUploader",
         "com.vzhd1701.gridplayer",
         "fr.free.qccrypt.Qccrypt",
-        "im.kaidan.kaidan",
         "io.github.Andrettin.Wyrmsun",
         "io.github.Sunderland93.sway-input-config",
         "io.github.congard.qnvsm",
@@ -663,6 +661,7 @@
         "org.rncbc.qpwgraph",
         "org.sdrangel.SDRangel",
         "org.stellarium.Stellarium",
+        "org.strawberrymusicplayer.strawberry",
         "space.nouspiro.tenmon"
     ],
     "5.14": [
@@ -689,6 +688,7 @@
         "com.simulide.simulide",
         "edu.princeton.physics.WSJTX",
         "fun.vnote.app.VNote",
+        "im.kaidan.kaidan",
         "info.mumble.Mumble",
         "io.github.KikoPlayProject.KikoPlay",
         "io.github.muse_sequencer.Muse",
