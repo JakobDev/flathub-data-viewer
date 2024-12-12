@@ -1,5 +1,6 @@
 [
     "com.rosegardenmusic.rosegarden",
+    "net.zdechov.app.x2048",
     "org.metal3d.scoreboard",
     "org.musescore.MuseScore"
 ]

@@ -8,8 +8,16 @@
     "org.mpris.MediaPlayer2.headset": [
         "co.headsetapp.headset"
     ],
+    "org.gtk.vfs.*": [
+        "com.beavernotes.beavernotes"
+    ],
+    "org.qemu": [
+        "com.belmoussaoui.snowglobe"
+    ],
+    "org.mpris.MediaPlayer2.brave.*": [
+        "com.brave.Browser"
+    ],
     "org.kde.*": [
-        "com.alovoa.alovoa-electron",
         "com.codemouse92.timecard",
         "com.dropbox.Client",
         "com.hunterwittenborn.Celeste",
@@ -22,15 +30,6 @@
         "org.easycoding.TunedSwitcher",
         "org.qutebrowser.qutebrowser",
         "us.zoom.Zoom"
-    ],
-    "org.gtk.vfs.*": [
-        "com.beavernotes.beavernotes"
-    ],
-    "org.qemu": [
-        "com.belmoussaoui.snowglobe"
-    ],
-    "org.mpris.MediaPlayer2.brave.*": [
-        "com.brave.Browser"
     ],
     "org.mpris.MediaPlayer2.Euterpe-Gtk": [
         "com.doycho.euterpe.gtk"

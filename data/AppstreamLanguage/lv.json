@@ -148,5 +148,6 @@
     "org.pitivi.Pitivi",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
-    "org.videolan.VLC"
+    "org.videolan.VLC",
+    "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]

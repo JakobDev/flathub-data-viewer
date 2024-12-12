@@ -1,5 +1,6 @@
 [
     "org.kde.gcompris",
     "org.tuxpaint.Tuxpaint",
-    "org.videolan.VLC"
+    "org.videolan.VLC",
+    "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]

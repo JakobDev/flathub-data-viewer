@@ -5,5 +5,6 @@
     "org.gnome.Epiphany",
     "org.gnome.eog",
     "org.videolan.VLC",
-    "org.x.Warpinator"
+    "org.x.Warpinator",
+    "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]

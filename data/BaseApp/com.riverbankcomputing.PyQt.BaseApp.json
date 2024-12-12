@@ -15,6 +15,7 @@
         "org.beeref.BeeRef",
         "org.gitfourchette.gitfourchette",
         "org.mintguide.WebAppReader",
+        "org.plomgrading.PlomClient",
         "org.sasview.sasview",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
         "page.codeberg.JakobDev.jdAppStreamEdit",
@@ -71,7 +72,6 @@
     ],
     "6.6": [
         "me.mitya57.ReText",
-        "org.plomgrading.PlomClient",
         "page.codeberg.DrRac27.Karoto"
     ],
     "5.15-21.08": [

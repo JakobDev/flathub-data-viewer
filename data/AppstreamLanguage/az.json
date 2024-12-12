@@ -56,5 +56,6 @@
     "org.kde.yakuake",
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
-    "page.codeberg.Imaginer.Imaginer"
+    "page.codeberg.Imaginer.Imaginer",
+    "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]

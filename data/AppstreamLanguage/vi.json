@@ -116,6 +116,7 @@
     "org.stellarium.Stellarium",
     "org.tuxpaint.Tuxpaint",
     "org.x.Warpinator",
+    "page.codeberg.libre_menu_editor.LibreMenuEditor",
     "org.fcitx.Fcitx5.Addon.M17N",
     "org.fcitx.Fcitx5.Addon.Unikey"
 ]

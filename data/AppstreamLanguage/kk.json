@@ -65,5 +65,6 @@
     "org.pulseaudio.pavucontrol",
     "org.videolan.VLC",
     "org.xfce.mousepad",
-    "org.xfce.ristretto"
+    "org.xfce.ristretto",
+    "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]

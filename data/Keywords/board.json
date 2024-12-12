@@ -1,6 +1,7 @@
 [
     "com.chroniclogic.Zatikon",
     "net.gradator.gtkatlantic",
+    "net.zdechov.app.x2048",
     "org.gnome.LightsOff",
     "org.gnome.Mahjongg",
     "org.gnome.Nibbles",

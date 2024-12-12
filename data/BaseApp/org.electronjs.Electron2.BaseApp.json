@@ -175,6 +175,7 @@
         "org.pgadmin.pgadmin4",
         "org.signal.Signal",
         "org.standardnotes.standardnotes",
+        "studio.assetmanager.ams",
         "tech.feliciano.pocket-casts",
         "us.materialio.Materialious",
         "xyz.armcord.ArmCord"
@@ -182,7 +183,6 @@
     "22.08": [
         "chat.quadrix.Quadrix",
         "co.headsetapp.headset",
-        "com.alovoa.alovoa-electron",
         "com.meetfranz.Franz",
         "com.wickeditor.WickEditor",
         "com.zoho.Notebook",

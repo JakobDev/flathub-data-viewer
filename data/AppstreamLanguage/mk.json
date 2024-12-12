@@ -40,5 +40,6 @@
     "org.gnome.seahorse.Application",
     "org.kde.gcompris",
     "org.tuxpaint.Tuxpaint",
-    "org.zrythm.Zrythm"
+    "org.zrythm.Zrythm",
+    "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]

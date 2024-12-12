@@ -74,5 +74,6 @@
     "org.tuxpaint.Tuxpaint",
     "org.videolan.VLC",
     "org.xfce.mousepad",
-    "page.codeberg.Imaginer.Imaginer"
+    "page.codeberg.Imaginer.Imaginer",
+    "page.codeberg.libre_menu_editor.LibreMenuEditor"
 ]

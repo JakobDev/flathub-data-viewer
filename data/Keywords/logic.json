@@ -1,5 +1,6 @@
 [
     "com.gitlab.coringao.JAG",
+    "net.zdechov.app.x2048",
     "org.gnome.Four-in-a-row",
     "org.gnome.Hitori",
     "org.gnome.Klotski",

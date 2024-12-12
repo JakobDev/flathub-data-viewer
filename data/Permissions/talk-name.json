@@ -10,7 +10,6 @@
         "cn.feishu.Feishu",
         "cn.ottercorp.xivlaunchercn",
         "codes.loers.Karlender",
-        "com.alovoa.alovoa-electron",
         "com.axosoft.GitKraken",
         "com.belmoussaoui.Authenticator",
         "com.belmoussaoui.ReadItLater",
@@ -158,7 +157,8 @@
         "ru.toxblh.KeeneticManager",
         "ru.yandex.Browser",
         "so.libdb.dissent",
-        "social.whalebird.WhalebirdDesktop"
+        "social.whalebird.WhalebirdDesktop",
+        "studio.assetmanager.ams"
     ],
     "com.canonical.AppMenu.Registrar": [
         "app.bbsync.BlackboardSync",
@@ -176,7 +176,6 @@
         "ch.theologeek.Manuskript",
         "chat.rocket.RocketChat",
         "com.agateau.nanonote",
-        "com.alovoa.alovoa-electron",
         "com.bktus.gpgfrontend",
         "com.blockstream.Green",
         "com.borgbase.Vorta",
@@ -397,7 +396,6 @@
         "io.github.janbar.noson",
         "io.github.jonmagon.kdiskmark",
         "io.github.jordanl2.ModularCalculator",
-        "io.github.jtdx_project.JTDX",
         "io.github.julian_hochhaus.LG4X_V2",
         "io.github.kalaksi.Lightkeeper",
         "io.github.koromelodev.mindmate",
@@ -1109,7 +1107,6 @@
         "io.github.janbar.noson",
         "io.github.jonmagon.kdiskmark",
         "io.github.jordanl2.ModularCalculator",
-        "io.github.jtdx_project.JTDX",
         "io.github.julian_hochhaus.LG4X_V2",
         "io.github.kalaksi.Lightkeeper",
         "io.github.kovzol.bibref",
@@ -1764,7 +1761,6 @@
         "io.github.janbar.noson",
         "io.github.jonmagon.kdiskmark",
         "io.github.jordanl2.ModularCalculator",
-        "io.github.jtdx_project.JTDX",
         "io.github.julian_hochhaus.LG4X_V2",
         "io.github.kalaksi.Lightkeeper",
         "io.github.kovzol.bibref",
@@ -2251,7 +2247,6 @@
         "codes.merritt.FeelingFinder",
         "codes.merritt.Nyrna",
         "codes.merritt.adventurelist",
-        "com.alovoa.alovoa-electron",
         "com.baidu.NetDisk",
         "com.borgbase.Vorta",
         "com.calibre_ebook.calibre",
@@ -2513,7 +2508,6 @@
         "codes.loers.Karlender",
         "codes.merritt.adventurelist",
         "com.adamcake.Bolt",
-        "com.alovoa.alovoa-electron",
         "com.axosoft.GitKraken",
         "com.baidu.NetDisk",
         "com.biglybt.BiglyBT",
@@ -2949,7 +2943,6 @@
     "com.canonical.indicator.application": [
         "app.lith.Lith",
         "chat.rocket.RocketChat",
-        "com.alovoa.alovoa-electron",
         "com.codemouse92.timecard",
         "com.discordapp.Discord",
         "com.github.inercia.k3x",
@@ -2979,7 +2972,6 @@
     "org.ayatana.indicator.application": [
         "app.lith.Lith",
         "chat.rocket.RocketChat",
-        "com.alovoa.alovoa-electron",
         "com.codemouse92.timecard",
         "com.github.inercia.k3x",
         "com.jianguoyun.Nutstore",
@@ -3467,14 +3459,6 @@
         "vn.hoabinh.quan.CoBang",
         "work.openpaper.Paperwork"
     ],
-    "com.canonical.AppMenu.Registrar.*": [
-        "com.alovoa.alovoa-electron",
-        "com.microsoft.AzureStorageExplorer",
-        "com.visualstudio.code",
-        "io.atom.Atom",
-        "io.stoplight.studio",
-        "org.pyzo.pyzo"
-    ],
     "com.bambulab.BambuStudio.InstanceCheck.*": [
         "com.bambulab.BambuStudio"
     ],
@@ -3767,6 +3751,13 @@
     ],
     "org.elementary.Contractor": [
         "com.ktechpit.wonderwall"
+    ],
+    "com.canonical.AppMenu.Registrar.*": [
+        "com.microsoft.AzureStorageExplorer",
+        "com.visualstudio.code",
+        "io.atom.Atom",
+        "io.stoplight.studio",
+        "org.pyzo.pyzo"
     ],
     "com.microsoft.identity.broker1": [
         "com.microsoft.Edge"

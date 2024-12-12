@@ -1,5 +1,6 @@
 [
     "net.blockattack.game",
     "net.minetest.Minetest",
-    "net.veloren.veloren"
+    "net.veloren.veloren",
+    "net.zdechov.app.x2048"
 ]
