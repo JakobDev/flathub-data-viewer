@@ -1,5 +1,6 @@
 [
     "io.github.rinigus.PureMaps",
     "org.gnome.Maps",
+    "org.kde.itinerary",
     "org.openstreetmap.josm"
 ]

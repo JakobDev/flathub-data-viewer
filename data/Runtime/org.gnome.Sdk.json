@@ -4,7 +4,8 @@
     ],
     "47": [
         "com.github.corna.Vivado",
-        "org.gnome.Builder"
+        "org.gnome.Builder",
+        "re.sonny.Workbench"
     ],
     "44": [
         "com.github.themix_project.Oomox"
@@ -13,7 +14,6 @@
         "io.github.dida_code.OpstaKultura"
     ],
     "46": [
-        "org.gnome.Devhelp",
-        "re.sonny.Workbench"
+        "org.gnome.Devhelp"
     ]
 }

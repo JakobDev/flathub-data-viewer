@@ -8,6 +8,8 @@
         "io.qt.PySide.BaseApp",
         "org.fcitx.Fcitx5",
         "org.kde.falkon",
+        "org.kde.kalgebra",
+        "org.kde.skanpage",
         "org.musescore.MuseScore",
         "org.sdrangel.SDRangel"
     ],
@@ -50,13 +52,11 @@
         "org.kde.arianna",
         "org.kde.digikam",
         "org.kde.ghostwriter",
-        "org.kde.kalgebra",
         "org.kde.kdevelop",
         "org.kde.kimagemapeditor",
         "org.kde.klevernotes",
         "org.kde.kontact",
         "org.kde.parley",
-        "org.kde.skanpage",
         "org.kde.tellico",
         "org.kde.tokodon",
         "org.zealdocs.Zeal"
