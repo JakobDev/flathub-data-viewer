@@ -1075,7 +1075,6 @@
         "net.zdechov.app.Tunneler",
         "net.zdechov.app.vCardStudio",
         "net.zdechov.app.x2048",
-        "nz.mega.MEGAsync",
         "one.flipperzero.qFlipper",
         "org.DolphinEmu.dolphin-emu",
         "org.artisan_scope.artisan",
@@ -4338,15 +4337,6 @@
     ],
     "xdg-pictures/veloren:create": [
         "net.veloren.veloren"
-    ],
-    "~/MEGAsync:create": [
-        "nz.mega.MEGAsync"
-    ],
-    "~/MEGA:create": [
-        "nz.mega.MEGAsync"
-    ],
-    "~/MEGAsync Downloads:create": [
-        "nz.mega.MEGAsync"
     ],
     "xdg-config/easydict:create": [
         "one.jiri.easydict-gtk"

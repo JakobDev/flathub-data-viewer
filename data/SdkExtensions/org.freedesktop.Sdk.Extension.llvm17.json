@@ -4,6 +4,5 @@
     "io.mrarm.mcpelauncher",
     "net.pcsx2.PCSX2",
     "org.cloudcompare.CloudCompare",
-    "org.kde.kdenlive",
-    "org.kde.kdevelop"
+    "org.kde.kdenlive"
 ]

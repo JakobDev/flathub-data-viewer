@@ -1,4 +1,5 @@
 [
+    "ci.not.Rune",
     "com.alpineclient.AlpineClient",
     "com.brave.Browser",
     "com.github.theironrobin.siglo",

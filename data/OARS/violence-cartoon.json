@@ -282,6 +282,7 @@
         "io.openrct2.OpenRCT2",
         "io.sourceforge.clonekeenplus",
         "net.freerct.FreeRCT",
+        "net.hhoney.rota",
         "net.labymod.LabyMod",
         "net.minetest.Minetest",
         "net.supertuxkart.SuperTuxKart",

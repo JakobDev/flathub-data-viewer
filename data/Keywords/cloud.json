@@ -1,6 +1,5 @@
 [
     "com.github.mtkennerly.ludusavi",
     "com.hunterwittenborn.Celeste",
-    "io.github.daviddesimone.opencloudsaves",
-    "nz.mega.MEGAsync"
+    "io.github.daviddesimone.opencloudsaves"
 ]

@@ -5,6 +5,9 @@
     "org.mpris.MediaPlayer2.ytmdesktop": [
         "app.ytmdesktop.ytmdesktop"
     ],
+    "org.mpris.MediaPlayer2.rune_player.*": [
+        "ci.not.Rune"
+    ],
     "org.mpris.MediaPlayer2.headset": [
         "co.headsetapp.headset"
     ],

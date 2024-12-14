@@ -1,7 +1,9 @@
 [
+    "com.github.mtkennerly.ludusavi",
     "com.github.unrud.djpdf",
     "io.ossia.score",
     "net.cubers.assault.AssaultCube",
     "net.natesales.Aviator",
-    "org.jellyfin.JellyfinServer"
+    "org.jellyfin.JellyfinServer",
+    "org.kde.kdevelop"
 ]

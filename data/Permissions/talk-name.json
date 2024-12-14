@@ -553,7 +553,6 @@
         "net.zdechov.app.Tunneler",
         "net.zdechov.app.vCardStudio",
         "net.zdechov.app.x2048",
-        "nz.mega.MEGAsync",
         "one.flipperzero.qFlipper",
         "org.DolphinEmu.dolphin-emu",
         "org.artisan_scope.artisan",
@@ -1237,7 +1236,6 @@
         "net.zdechov.app.Tunneler",
         "net.zdechov.app.vCardStudio",
         "net.zdechov.app.x2048",
-        "nz.mega.MEGAsync",
         "one.flipperzero.qFlipper",
         "org.DolphinEmu.dolphin-emu",
         "org.artisan_scope.artisan",
@@ -1887,7 +1885,6 @@
         "net.zdechov.app.Tunneler",
         "net.zdechov.app.vCardStudio",
         "net.zdechov.app.x2048",
-        "nz.mega.MEGAsync",
         "one.flipperzero.qFlipper",
         "org.DolphinEmu.dolphin-emu",
         "org.artisan_scope.artisan",
@@ -2244,6 +2241,7 @@
         "chat.revolt.RevoltDesktop",
         "chat.rocket.RocketChat",
         "chat.simplex.simplex",
+        "ci.not.Rune",
         "codes.merritt.FeelingFinder",
         "codes.merritt.Nyrna",
         "codes.merritt.adventurelist",
@@ -2408,7 +2406,6 @@
         "net.mullvad.MullvadBrowser",
         "net.rpdev.OpenTodoList",
         "network.loki.Session",
-        "nz.mega.MEGAsync",
         "one.mixin.messenger",
         "org.atheme.audacious",
         "org.b3log.siyuan",
@@ -2705,7 +2702,6 @@
         "network.loki.Session",
         "nl.lostboys.rollemup",
         "no.mifi.losslesscut",
-        "nz.mega.MEGAsync",
         "one.mixin.messenger",
         "org.KekikAkademi.BTKSorgu",
         "org.altaqwaa.Altaqwaa",
@@ -3083,6 +3079,7 @@
     "org.freedesktop.PowerManagement.Inhibit": [
         "ca.parallel_launcher.ParallelLauncher",
         "net.retrodeck.retrodeck",
+        "org.kde.elisa",
         "org.libretro.RetroArch"
     ],
     "org.freedesktop.ScreenSaver": [
@@ -3502,6 +3499,7 @@
         "org.kde.kontact",
         "org.kde.krdc",
         "org.kde.kwalletmanager5",
+        "org.kde.neochat",
         "org.kde.tokodon"
     ],
     "org.gnome.Mutter.IdleMonitor.*": [
