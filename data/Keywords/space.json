@@ -6,5 +6,6 @@
     "net.sourceforge.mars-game",
     "org.freeorion.FreeOrion",
     "org.gnome.baobab",
-    "org.kde.filelight"
+    "org.kde.filelight",
+    "page.codeberg.outfly.outfly"
 ]

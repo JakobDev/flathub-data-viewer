@@ -257,6 +257,12 @@
     "org.mpris.MediaPlayer2.yuki_iptv.*": [
         "io.github.yuki_iptv.yuki-iptv"
     ],
+    "org.mpris.MediaPlayer2.QMPlay2": [
+        "io.github.zaps166.QMPlay2"
+    ],
+    "org.mpris.MediaPlayer2.QMPlay2.*": [
+        "io.github.zaps166.QMPlay2"
+    ],
     "org.mozilla.zen.*": [
         "io.github.zen_browser.zen"
     ],

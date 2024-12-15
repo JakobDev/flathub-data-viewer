@@ -473,9 +473,6 @@
     ".magicseteditor": [
         "io.github.twanvl.MagicSetEditor2"
     ],
-    ".qmplay2": [
-        "io.github.zaps166.QMPlay2"
-    ],
     ".zen": [
         "io.github.zen_browser.zen"
     ],

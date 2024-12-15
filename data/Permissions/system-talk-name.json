@@ -72,6 +72,7 @@
         "io.github.pwr_solaar.solaar",
         "io.github.streetpea.Chiaki4deck",
         "io.github.wivrn.wivrn",
+        "io.github.zaps166.QMPlay2",
         "net.mullvad.MullvadBrowser",
         "org.freedesktop.fwupd",
         "org.gajim.Gajim",
@@ -337,6 +338,9 @@
         "io.missioncenter.MissionCenter",
         "org.easycoding.TunedSwitcher",
         "org.opencpn.OpenCPN"
+    ],
+    "org.freedesktop.ConsoleKit": [
+        "io.github.zaps166.QMPlay2"
     ],
     "org.bluez.*": [
         "me.timschneeberger.GalaxyBudsClient"

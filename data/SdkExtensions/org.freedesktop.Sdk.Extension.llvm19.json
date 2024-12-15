@@ -1,6 +1,7 @@
 [
     "com.github.mtkennerly.ludusavi",
     "com.github.unrud.djpdf",
+    "com.mtkennerly.madamiru",
     "io.ossia.score",
     "net.cubers.assault.AssaultCube",
     "net.natesales.Aviator",

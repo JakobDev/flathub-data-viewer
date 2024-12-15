@@ -1,5 +1,6 @@
 [
     "com.github.mtkennerly.ludusavi",
+    "com.mtkennerly.madamiru",
     "fr.inria.corese.CoreseCommand",
     "org.contourterminal.Contour"
 ]
