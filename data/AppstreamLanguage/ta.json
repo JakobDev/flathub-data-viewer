@@ -10,6 +10,7 @@
     "dev.geopjr.Collision",
     "fr.romainvigier.MetadataCleaner",
     "im.pidgin.Pidgin",
+    "io.frama.tractor.carburetor",
     "io.github.Bavarder.Bavarder",
     "io.github.celluloid_player.Celluloid",
     "io.github.fizzyizzy05.binary",

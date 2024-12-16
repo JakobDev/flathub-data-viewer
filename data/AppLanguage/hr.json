@@ -32,6 +32,7 @@
     "dev.geopjr.Collision",
     "fr.romainvigier.MetadataCleaner",
     "io.bassi.Amberol",
+    "io.frama.tractor.carburetor",
     "io.github.ImEditor",
     "io.github.celluloid_player.Celluloid",
     "io.github.diegoivan.pdf_metadata_editor",

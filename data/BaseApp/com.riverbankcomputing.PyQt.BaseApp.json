@@ -40,6 +40,7 @@
         "io.lmms.LMMS",
         "net.fsuae.FS-UAE",
         "org.electrum.electrum",
+        "org.pairinteraction.Pairinteraction",
         "org.syntalos.syntalos",
         "org.torproject.torbrowser-launcher",
         "studio.kx.carla"
@@ -65,7 +66,6 @@
         "org.groestlcoin.electrum-grs",
         "org.linuxshowplayer.LinuxShowPlayer",
         "org.openshot.OpenShot",
-        "org.pairinteraction.Pairinteraction",
         "org.pymol.PyMOL",
         "org.qgis.qgis",
         "org.spyder_ide.spyder"

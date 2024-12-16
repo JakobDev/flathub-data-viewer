@@ -36,6 +36,7 @@
     "im.pidgin.Pidgin",
     "info.cemu.Cemu",
     "io.bassi.Amberol",
+    "io.frama.tractor.carburetor",
     "io.github.Hexchat",
     "io.github.aggalex.Wineglass",
     "io.github.cboxdoerfer.FSearch",

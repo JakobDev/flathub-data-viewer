@@ -545,6 +545,7 @@
     ],
     "24.08": [
         "app.getspace.Space",
+        "app.go2tv.go2tv",
         "app.xemu.xemu",
         "br.com.wiselabs.simplexity",
         "br.gov.fazenda.receita.irpf2022",
@@ -780,6 +781,7 @@
         "io.github.xyproto.zsnes",
         "io.github.zen_browser.zen",
         "io.gitlab.Goodvibes",
+        "io.gitlab.jazztickets.choria",
         "io.gitlab.jazztickets.emptyclip",
         "io.gitlab.jazztickets.irrlamb",
         "io.gitlab.jazztickets.openflap",
@@ -1045,7 +1047,6 @@
         "io.github.twanvl.MagicSetEditor2",
         "io.gitlab.ballz.Ballz",
         "io.gitlab.celleron56.libretile",
-        "io.gitlab.jazztickets.choria",
         "io.gitlab.osslugaru.Lugaru",
         "io.itch.doctorm64.skippybot",
         "io.osdn.simplesok",

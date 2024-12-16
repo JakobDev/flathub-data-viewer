@@ -161,6 +161,7 @@
         "com.sweetscape.ZeroOneZeroEditor",
         "com.synology.CloudStationBackup",
         "com.synology.SynologyDrive",
+        "com.syntevo.SmartGit",
         "com.syntevo.SmartSynchronize",
         "com.thincast.client",
         "com.tic80.TIC_80",
@@ -1498,6 +1499,7 @@
     "host": [
         "app.devsuite.Ptyxis",
         "app.getclipboard.Clipboard",
+        "app.go2tv.go2tv",
         "app.pianocheetah.pianocheetah",
         "ca.parallel_launcher.ParallelLauncher",
         "cc.nift.nsm",
@@ -1566,7 +1568,6 @@
         "com.strlen.TreeSheets",
         "com.sublimemerge.App",
         "com.sublimetext.three",
-        "com.syntevo.SmartGit",
         "com.transmissionbt.Transmission",
         "com.unity.UnityHub",
         "com.vba_m.visualboyadvance-m",
