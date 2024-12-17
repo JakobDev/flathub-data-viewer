@@ -8,7 +8,8 @@
         "io.qt.Linguist",
         "io.qt.qdbusviewer",
         "org.kde.kcachegrind",
-        "org.kde.kdevelop"
+        "org.kde.kdevelop",
+        "page.codeberg.JakobDev.jdTextEdit"
     ],
     "5.15-23.08": [
         "io.github.dman95.SASM",
@@ -20,8 +21,7 @@
     "6.7": [
         "io.qt.QtCreator",
         "io.qt.qtdesignstudio",
-        "org.sasview.sasview",
-        "page.codeberg.JakobDev.jdTextEdit"
+        "org.sasview.sasview"
     ],
     "5.15-24.08": [
         "net.sourceforge.molsketch"

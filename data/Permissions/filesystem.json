@@ -2023,6 +2023,7 @@
         "io.wavebox.Wavebox",
         "net.blix.BlueMail",
         "net.blockbench.Blockbench",
+        "net.casimirlab.frigoligo",
         "net.corluma.Corluma",
         "net.danigm.timetrack",
         "net.epson.epsonscan2",
@@ -3235,6 +3236,7 @@
         "net.sourceforge.paulstretch",
         "net.xmind.XMind",
         "org.audacityteam.Audacity",
+        "org.bleachbit.BleachBit",
         "org.cloudcompare.CloudCompare",
         "org.eclipse.Java",
         "org.expresslrs.ExpressLRSConfigurator",
@@ -3424,6 +3426,7 @@
         "dev.ensoft.ecode",
         "io.github.zyedidia.micro",
         "io.neovim.nvim",
+        "org.bleachbit.BleachBit",
         "org.gnu.emacs",
         "org.vim.Vim"
     ],
@@ -4098,7 +4101,8 @@
         "io.github.purplehorrorrus.Meridius"
     ],
     "/var/log": [
-        "io.github.rafaelfassi.QLogExplorer"
+        "io.github.rafaelfassi.QLogExplorer",
+        "org.bleachbit.BleachBit"
     ],
     "xdg-config/Ryujinx": [
         "io.github.randovania.Randovania"

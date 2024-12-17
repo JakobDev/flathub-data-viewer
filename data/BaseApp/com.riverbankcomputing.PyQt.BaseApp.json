@@ -17,21 +17,6 @@
         "org.mintguide.WebAppReader",
         "org.plomgrading.PlomClient",
         "org.sasview.sasview",
-        "page.codeberg.JakobDev.jdAnimatedImageEditor",
-        "page.codeberg.JakobDev.jdAppStreamEdit",
-        "page.codeberg.JakobDev.jdDBusDebugger",
-        "page.codeberg.JakobDev.jdDesktopEntryEdit",
-        "page.codeberg.JakobDev.jdDiff",
-        "page.codeberg.JakobDev.jdEolConverter",
-        "page.codeberg.JakobDev.jdFlatpakSnapshot",
-        "page.codeberg.JakobDev.jdMacroPlayer",
-        "page.codeberg.JakobDev.jdMinecraftLauncher",
-        "page.codeberg.JakobDev.jdMrpackInstaller",
-        "page.codeberg.JakobDev.jdNBTExplorer",
-        "page.codeberg.JakobDev.jdProcessFileWatcher",
-        "page.codeberg.JakobDev.jdReplace",
-        "page.codeberg.JakobDev.jdSimpleAutostart",
-        "page.codeberg.JakobDev.jdTextEdit",
         "pw.mmk.OpenFreebuds",
         "rocks.syng.Syng"
     ],
@@ -79,6 +64,23 @@
     ],
     "6.3": [
         "org.subtitld.Subtitld"
+    ],
+    "6.8": [
+        "page.codeberg.JakobDev.jdAnimatedImageEditor",
+        "page.codeberg.JakobDev.jdAppStreamEdit",
+        "page.codeberg.JakobDev.jdDBusDebugger",
+        "page.codeberg.JakobDev.jdDesktopEntryEdit",
+        "page.codeberg.JakobDev.jdDiff",
+        "page.codeberg.JakobDev.jdEolConverter",
+        "page.codeberg.JakobDev.jdFlatpakSnapshot",
+        "page.codeberg.JakobDev.jdMacroPlayer",
+        "page.codeberg.JakobDev.jdMinecraftLauncher",
+        "page.codeberg.JakobDev.jdMrpackInstaller",
+        "page.codeberg.JakobDev.jdNBTExplorer",
+        "page.codeberg.JakobDev.jdProcessFileWatcher",
+        "page.codeberg.JakobDev.jdReplace",
+        "page.codeberg.JakobDev.jdSimpleAutostart",
+        "page.codeberg.JakobDev.jdTextEdit"
     ],
     "5.15-22.08": [
         "se.sjoerd.GIScan"
