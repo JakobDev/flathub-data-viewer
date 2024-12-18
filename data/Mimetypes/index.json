@@ -74,6 +74,7 @@
         "application{SLASH}kxstitch",
         "application{SLASH}ld+json",
         "application{SLASH}lua",
+        "application{SLASH}lzp",
         "application{SLASH}marc",
         "application{SLASH}mbox",
         "application{SLASH}metalink+xml",

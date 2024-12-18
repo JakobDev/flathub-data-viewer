@@ -1,4 +1,5 @@
 [
     "com.github.PintaProject.Pinta",
+    "io.github.bgrabitmap.LazPaint",
     "io.photoflare.photoflare"
 ]

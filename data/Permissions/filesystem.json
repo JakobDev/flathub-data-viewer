@@ -903,6 +903,7 @@
         "io.github._0xzer0x.qurancompanion",
         "io.github.androidvirtualpen.virtualpen",
         "io.github.antimicrox.antimicrox",
+        "io.github.bgrabitmap.LazPaint",
         "io.github.bkueng.qMasterPassword",
         "io.github.bothlab.pomidaq",
         "io.github.breadmakesyoufull.baseconvert",
@@ -4038,6 +4039,7 @@
     ],
     "xdg-run/libvirt": [
         "io.github.lruzicka.Needly",
+        "org.virt_manager.virt-manager",
         "org.virt_manager.virt-viewer"
     ],
     "~/.var/app/net.lutris.Lutris:ro": [

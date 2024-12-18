@@ -3,17 +3,14 @@
         "app.bbsync.BlackboardSync",
         "app.polychromatic.controller",
         "com.borgbase.Vorta",
-        "com.rtosta.zapzap",
         "de.nagstamon.nagstamon",
         "io.github.FedericoCalzoni.EventRecorder",
         "io.github.hydrusnetwork.hydrus",
         "io.github.jordanl2.ModularCalculator",
-        "io.github.yuki_iptv.yuki-iptv",
         "net.ankiweb.Anki",
         "net.sourceforge.m64py.M64Py",
         "org.artisan_scope.artisan",
         "org.beeref.BeeRef",
-        "org.gitfourchette.gitfourchette",
         "org.mintguide.WebAppReader",
         "org.plomgrading.PlomClient",
         "org.sasview.sasview",
@@ -55,17 +52,10 @@
         "org.qgis.qgis",
         "org.spyder_ide.spyder"
     ],
-    "6.6": [
-        "me.mitya57.ReText",
-        "page.codeberg.DrRac27.Karoto"
-    ],
-    "5.15-21.08": [
-        "org.qutebrowser.qutebrowser"
-    ],
-    "6.3": [
-        "org.subtitld.Subtitld"
-    ],
     "6.8": [
+        "com.rtosta.zapzap",
+        "io.github.yuki_iptv.yuki-iptv",
+        "org.gitfourchette.gitfourchette",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
         "page.codeberg.JakobDev.jdAppStreamEdit",
         "page.codeberg.JakobDev.jdDBusDebugger",
@@ -81,6 +71,16 @@
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
         "page.codeberg.JakobDev.jdTextEdit"
+    ],
+    "6.6": [
+        "me.mitya57.ReText",
+        "page.codeberg.DrRac27.Karoto"
+    ],
+    "5.15-21.08": [
+        "org.qutebrowser.qutebrowser"
+    ],
+    "6.3": [
+        "org.subtitld.Subtitld"
     ],
     "5.15-22.08": [
         "se.sjoerd.GIScan"

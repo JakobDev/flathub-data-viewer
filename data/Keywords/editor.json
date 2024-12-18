@@ -8,6 +8,7 @@
     "com.kristianduske.TrenchBroom",
     "com.polyphone_soundfonts.polyphone",
     "com.varnamproject.Varnam",
+    "io.github.bgrabitmap.LazPaint",
     "io.github.zyedidia.micro",
     "io.neovim.nvim",
     "io.photoflare.photoflare",
