@@ -3168,6 +3168,7 @@
     ],
     "org.freedesktop.login1": [
         "ca.parallel_launcher.ParallelLauncher",
+        "io.github.onionware_github.onionmedia",
         "org.jitsi.jitsi-meet",
         "org.kde.okular",
         "org.libretro.RetroArch"
