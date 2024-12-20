@@ -663,7 +663,6 @@
         "org.b3log.siyuan",
         "org.briarproject.Briar",
         "org.deluge_torrent.deluge",
-        "org.dpsoftware.FireflyLuciferin",
         "org.eu.encom.spectral",
         "org.ferdium.Ferdium",
         "org.firestormviewer.FirestormViewer",
@@ -4093,6 +4092,10 @@
     "~/.config/itch:ro": [
         "io.github.philipk.boilr"
     ],
+    "/var/log:ro": [
+        "io.github.plrigaux.sysd-manager",
+        "org.linux_hardware.hw-probe"
+    ],
     "~/Applications:create": [
         "io.github.prateekmedia.appimagepool"
     ],
@@ -4526,9 +4529,6 @@
     ],
     "~/.local/share/godot/app_userdata/libre-trainsim": [
         "org.libretrainsim.Libre-TrainSim"
-    ],
-    "/var/log:ro": [
-        "org.linux_hardware.hw-probe"
     ],
     "~/.config/textsecure.nanuc:create": [
         "org.nanuc.Axolotl"

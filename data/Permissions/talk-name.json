@@ -3084,6 +3084,7 @@
         "ca.parallel_launcher.ParallelLauncher",
         "net.retrodeck.retrodeck",
         "org.kde.elisa",
+        "org.kde.kasts",
         "org.libretro.RetroArch"
     ],
     "org.freedesktop.ScreenSaver": [
@@ -3323,6 +3324,7 @@
         "org.gnome.Totem",
         "org.gtaf.quran",
         "org.jitsi.jitsi-meet",
+        "org.kde.kasts",
         "org.keepassxc.KeePassXC",
         "org.qbittorrent.qBittorrent",
         "org.sabnzbd.sabnzbd",
