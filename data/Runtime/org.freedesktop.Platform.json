@@ -208,7 +208,6 @@
         "dev.goats.xivlauncher",
         "dev.krtirtho.Flemozi",
         "dev.lizardbyte.app.Sunshine",
-        "dev.mariinkys.StarryDex",
         "dev.paullee.scraterpreter.Scrape",
         "dev.paullee.scraterpreter.Scrapec",
         "dev.toastbits.spmp",
@@ -525,7 +524,6 @@
         "uk.co.powdertoy.tpt",
         "uk.co.studiopond.spiderbro",
         "uk.co.studiopond.spiderbro2",
-        "us.zoom.Zoom",
         "vet.rsc.OpenRSC.Launcher",
         "xyz.audiostellar.AudioStellar",
         "xyz.hyperplay.HyperPlay",
@@ -691,6 +689,7 @@
         "dev.lasheen.qr",
         "dev.linwood.butterfly",
         "dev.mariinkys.Oboete",
+        "dev.mariinkys.StarryDex",
         "dev.restfox.Restfox",
         "dev.storyapps.starc",
         "dev.ters.Chordcat",
@@ -961,6 +960,7 @@
         "uk.org.greenend.chiark.sgtatham.putty",
         "us.ihmc.cmap.CmapTools",
         "us.materialio.Materialious",
+        "us.zoom.Zoom",
         "xyz.armcord.ArmCord"
     ],
     "22.08": [

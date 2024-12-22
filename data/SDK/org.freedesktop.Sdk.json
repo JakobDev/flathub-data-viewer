@@ -221,7 +221,6 @@
         "dev.krtirtho.Flemozi",
         "dev.lapce.lapce",
         "dev.lizardbyte.app.Sunshine",
-        "dev.mariinkys.StarryDex",
         "dev.overlayed.Overlayed",
         "dev.paullee.scraterpreter.Scrape",
         "dev.paullee.scraterpreter.Scrapec",
@@ -551,7 +550,6 @@
         "uk.co.studiopond.spiderbro",
         "uk.co.studiopond.spiderbro2",
         "uno.platform.uno-calculator",
-        "us.zoom.Zoom",
         "vet.rsc.OpenRSC.Launcher",
         "xyz.audiostellar.AudioStellar",
         "xyz.hyperplay.HyperPlay",
@@ -733,6 +731,7 @@
         "dev.lasheen.qr",
         "dev.linwood.butterfly",
         "dev.mariinkys.Oboete",
+        "dev.mariinkys.StarryDex",
         "dev.neovide.neovide",
         "dev.restfox.Restfox",
         "dev.storyapps.starc",
@@ -1014,6 +1013,7 @@
         "uk.org.greenend.chiark.sgtatham.putty",
         "us.ihmc.cmap.CmapTools",
         "us.materialio.Materialious",
+        "us.zoom.Zoom",
         "xyz.armcord.ArmCord"
     ],
     "20.08": [

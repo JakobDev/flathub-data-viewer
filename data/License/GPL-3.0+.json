@@ -166,6 +166,7 @@
     "io.webtorrent.WebTorrent",
     "moe.tundra.Tundra",
     "net.bartkessels.getit",
+    "net.carrotindustries.usbkvm",
     "net.daase.journable",
     "net.dengine.Doomsday",
     "net.displaycal.DisplayCAL",

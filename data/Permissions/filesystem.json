@@ -25,7 +25,6 @@
         "ch.theologeek.Manuskript",
         "chat.iamb.iamb",
         "cn.apipost.apipost",
-        "cn.feishu.Feishu",
         "cn.navclub.ldbfx",
         "cn.ottercorp.xivlaunchercn",
         "codes.loers.Karlender",
@@ -133,6 +132,7 @@
         "com.mikrotik.WinBox",
         "com.mongodb.Compass",
         "com.mtkennerly.madamiru",
+        "com.neoutils.NeoRegex",
         "com.nickgirga.webready",
         "com.notepadqq.Notepadqq",
         "com.one_ware.OneWare",
@@ -526,6 +526,7 @@
         "chat.iamb.iamb",
         "chat.quadrix.Quadrix",
         "chat.tandem.Client",
+        "cn.feishu.Feishu",
         "co.luoja.Telyn",
         "com.authormore.penpotdesktop",
         "com.baidu.NetDisk",
@@ -1923,6 +1924,7 @@
         "app.drey.KeyRack",
         "com.gitlab.librebob.Athenaeum",
         "io.github.fabrialberio.pinapp",
+        "io.github.flattool.Ignition",
         "io.github.philipk.boilr",
         "org.bluesabre.MenuLibre",
         "org.gnome.World.PikaBackup",
@@ -3382,6 +3384,7 @@
     ],
     "xdg-config/autostart:create": [
         "com.github.bluesabre.darkbar",
+        "io.github.flattool.Ignition",
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "xdg-data/flatpak/app:ro": [
@@ -3596,6 +3599,7 @@
     ],
     "host-os:ro": [
         "com.moonlight_stream.Moonlight",
+        "io.github.flattool.Ignition",
         "page.codeberg.JakobDev.jdSimpleAutostart"
     ],
     "xdg-run/Nextcloud:create": [
@@ -3914,6 +3918,7 @@
     "/var/lib/flatpak:ro": [
         "io.github.elevenhsoft.WebApps",
         "io.github.fabrialberio.pinapp",
+        "io.github.flattool.Ignition",
         "io.github.flattool.Warehouse",
         "io.github.vikdevelop.SaveDesktop",
         "org.bluesabre.MenuLibre",
@@ -3944,6 +3949,7 @@
     ],
     "/var/lib/snapd:ro": [
         "io.github.fabrialberio.pinapp",
+        "io.github.flattool.Ignition",
         "io.missioncenter.MissionCenter",
         "net.nokyan.Resources",
         "page.codeberg.libre_menu_editor.LibreMenuEditor"
@@ -3959,6 +3965,13 @@
     ],
     "~/.var/app/org.phoenicis.playonlinux/.Phoenicis/containers/wineprefix": [
         "io.github.fastrizwaan.WineZGUI"
+    ],
+    "xdg-data/icons:ro": [
+        "io.github.flattool.Ignition"
+    ],
+    "/snap:ro": [
+        "io.github.flattool.Ignition",
+        "io.missioncenter.MissionCenter"
     ],
     "xdg-run/pmim:create": [
         "io.github.fm_elpac.pmim_ibus"
@@ -4201,9 +4214,6 @@
     "xdg-data/flatpak/exports/share:ro": [
         "io.missioncenter.MissionCenter",
         "net.nokyan.Resources"
-    ],
-    "/snap:ro": [
-        "io.missioncenter.MissionCenter"
     ],
     "/var/lib/flatpak/exports/share:ro": [
         "io.missioncenter.MissionCenter",
