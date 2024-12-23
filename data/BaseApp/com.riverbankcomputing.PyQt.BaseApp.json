@@ -5,7 +5,6 @@
         "com.borgbase.Vorta",
         "de.nagstamon.nagstamon",
         "io.github.FedericoCalzoni.EventRecorder",
-        "io.github.hydrusnetwork.hydrus",
         "io.github.jordanl2.ModularCalculator",
         "net.ankiweb.Anki",
         "net.sourceforge.m64py.M64Py",
@@ -30,7 +29,6 @@
     "5.15-23.08": [
         "com.github.git_cola.git-cola",
         "com.icanblink.blink",
-        "com.sigil_ebook.Sigil",
         "com.warlordsoftwares.formatlab",
         "com.warlordsoftwares.jpeg2pdf",
         "com.warlordsoftwares.media-downloader",
@@ -54,6 +52,8 @@
     ],
     "6.8": [
         "com.rtosta.zapzap",
+        "com.sigil_ebook.Sigil",
+        "io.github.hydrusnetwork.hydrus",
         "io.github.yuki_iptv.yuki-iptv",
         "org.gitfourchette.gitfourchette",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",

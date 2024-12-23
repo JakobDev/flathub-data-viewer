@@ -1188,6 +1188,7 @@
         "it.cuteworks.pacmanlogviewer",
         "me.ahola.aphototoollibre",
         "me.mitya57.ReText",
+        "me.timschneeberger.jdsp4linux",
         "moe.clover.mm3d",
         "moe.emmaexe.ntfyDesktop",
         "net._86box._86Box",
@@ -1838,6 +1839,7 @@
         "it.cuteworks.pacmanlogviewer",
         "me.ahola.aphototoollibre",
         "me.mitya57.ReText",
+        "me.timschneeberger.jdsp4linux",
         "moe.clover.mm3d",
         "moe.emmaexe.ntfyDesktop",
         "net._86box._86Box",
@@ -3596,6 +3598,7 @@
     "org.gnome.Shell.Screencast": [
         "com.github.amikha1lov.RecApp",
         "com.qq.QQ",
+        "com.tencent.wemeet",
         "com.uploadedlobster.peek"
     ],
     "org.mpris.MediaPlayer2": [
@@ -3916,9 +3919,6 @@
     ],
     "it.mijorus.smile": [
         "it.mijorus.smile"
-    ],
-    "org.freedesktop.portal.Background": [
-        "me.timschneeberger.jdsp4linux"
     ],
     "org.gnome.Mutter.DisplayConfig": [
         "net.displaycal.DisplayCAL",
