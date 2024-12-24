@@ -5,6 +5,7 @@
     "org.dupot.beatmatchtopass",
     "org.dupot.easyflatpak",
     "org.dupot.littleadventure",
+    "org.kde.optiimage",
     "org.freedesktop.Sdk.Extension.vala",
     "org.gnome.Evolution.Extension.evolution-etesync",
     "org.gtk.Gtk3theme.Breeze"

@@ -6,6 +6,7 @@
         "io.github.JakubMelka.Pdf4qt",
         "io.qt.Designer",
         "io.qt.Linguist",
+        "io.qt.QtCreator",
         "io.qt.qdbusviewer",
         "org.kde.kcachegrind",
         "org.kde.kdevelop",
@@ -19,7 +20,6 @@
         "org.spyder_ide.spyder"
     ],
     "6.7": [
-        "io.qt.QtCreator",
         "io.qt.qtdesignstudio",
         "org.sasview.sasview"
     ],
