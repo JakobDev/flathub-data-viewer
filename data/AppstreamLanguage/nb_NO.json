@@ -34,6 +34,7 @@
     "io.missioncenter.MissionCenter",
     "org.entangle_photo.Manager",
     "org.gajim.Gajim",
+    "org.gnome.Eolie",
     "org.gnome.FontManager",
     "org.gnome.Lollypop",
     "org.gottcode.FocusWriter",

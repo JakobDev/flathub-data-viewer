@@ -131,7 +131,6 @@
         "io.github.helpseeker.Gyre",
         "io.github.idevecore.Valuta",
         "io.github.ilius.pyglossary",
-        "io.github.itprojects.MasVisGtk",
         "io.github.jliljebl.Flowblade",
         "io.github.jorchube.monitorets",
         "io.github.lainsce.Colorway",
@@ -436,7 +435,6 @@
         "com.ranfdev.Notify",
         "com.rawtherapee.RawTherapee",
         "com.teamspeak.TeamSpeak",
-        "com.tencent.wemeet",
         "com.toolstack.Folio",
         "com.transmissionbt.Transmission",
         "com.usebottles.bottles",
@@ -521,6 +519,7 @@
         "io.github.giantpinkrobots.flatsweep",
         "io.github.giantpinkrobots.varia",
         "io.github.halfmexican.Mingle",
+        "io.github.itprojects.MasVisGtk",
         "io.github.jeffshee.Hidamari",
         "io.github.josephmawa.Bella",
         "io.github.kelvinnovais.Kasasa",
@@ -631,6 +630,7 @@
         "org.gnome.Decibels",
         "org.gnome.DejaDup",
         "org.gnome.EasyTAG",
+        "org.gnome.Eolie",
         "org.gnome.Epiphany",
         "org.gnome.Evince",
         "org.gnome.Evolution",
@@ -864,8 +864,7 @@
         "com.github.donadigo.appeditor",
         "com.github.rajsolai.response",
         "de.wwwtech.ColorMate",
-        "net.sourceforge.electrip.Electrip",
-        "org.gnome.Eolie"
+        "net.sourceforge.electrip.Electrip"
     ],
     "3.36": [
         "com.github.calo001.fondo",

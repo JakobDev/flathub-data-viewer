@@ -350,9 +350,6 @@
     "org.gmusicbrowser": [
         "org.gmusicbrowser.gmusicbrowser"
     ],
-    "org.gnome.Eolie.Proxy.*": [
-        "org.gnome.Eolie"
-    ],
     "org.gnome.evince": [
         "org.gnome.Evince"
     ],
