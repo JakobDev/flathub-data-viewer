@@ -13,6 +13,7 @@
         "org.kde.angelfish",
         "org.kde.arianna",
         "org.kde.cantor",
+        "org.kde.digikam",
         "org.kde.falkon",
         "org.kde.ghostwriter",
         "org.kde.kalgebra",
@@ -25,7 +26,8 @@
         "org.kde.parley",
         "org.kde.skanpage",
         "org.musescore.MuseScore",
-        "org.sdrangel.SDRangel"
+        "org.sdrangel.SDRangel",
+        "org.zealdocs.Zeal"
     ],
     "5.15-23.08": [
         "ch.theologeek.Manuskript",
@@ -55,11 +57,9 @@
         "net.xm1math.Texmaker",
         "org.jacktrip.JackTrip",
         "org.jaspstats.JASP",
-        "org.kde.digikam",
         "org.kde.klevernotes",
         "org.kde.tellico",
-        "org.kde.tokodon",
-        "org.zealdocs.Zeal"
+        "org.kde.tokodon"
     ],
     "5.15": [
         "com.wiz.Note",

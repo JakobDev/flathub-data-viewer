@@ -23,6 +23,7 @@
     "org.gtkhash.gtkhash",
     "org.kde.kwalletmanager5",
     "org.keepassxc.KeePassXC",
+    "org.keystore_explorer.KeyStoreExplorer",
     "org.nmap.Zenmap",
     "org.pwsafe.pwsafe",
     "org.radare.iaito",

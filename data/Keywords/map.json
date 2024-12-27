@@ -1,5 +1,6 @@
 [
     "net.darkradiant.DarkRadiant",
+    "net.mancubus.SLADE",
     "org.freeplane.App",
     "org.photoqt.PhotoQt",
     "org.qgis.qgis"

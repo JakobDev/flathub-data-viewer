@@ -1,3 +1,4 @@
 [
-    "org.gnome.seahorse.Application"
+    "org.gnome.seahorse.Application",
+    "org.keystore_explorer.KeyStoreExplorer"
 ]

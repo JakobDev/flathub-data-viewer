@@ -2777,6 +2777,7 @@
         "com.github.geigi.cozy",
         "com.github.jmlich.geotagging",
         "com.github.junrrein.PDFSlicer",
+        "com.github.louis77.tuner",
         "com.github.neithern.g4music",
         "com.github.paolostivanin.OTPClient",
         "com.github.rafostar.Clapper",
@@ -3151,6 +3152,7 @@
         "com.github.PintaProject.Pinta",
         "com.github.corna.Vivado",
         "com.github.flxzt.rnote",
+        "com.github.louis77.tuner",
         "com.github.scrivanolabs.scrivano",
         "com.heroicgameslauncher.hgl",
         "com.ktechpit.ultimate-media-downloader",
@@ -4538,6 +4540,9 @@
     ],
     "~/JJazzLab": [
         "org.jjazzlab.JJazzLab"
+    ],
+    "xdg-documents/kse:create": [
+        "org.keystore_explorer.KeyStoreExplorer"
     ],
     "~/.local/share/godot/app_userdata/libre-trainsim": [
         "org.libretrainsim.Libre-TrainSim"

@@ -9,5 +9,6 @@
     "org.gnome.Evince",
     "org.gnome.Papers",
     "org.radare.iaito",
+    "org.xfce.ristretto",
     "rocks.koreader.KOReader"
 ]

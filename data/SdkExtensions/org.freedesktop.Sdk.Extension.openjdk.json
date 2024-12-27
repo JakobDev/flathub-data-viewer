@@ -10,6 +10,7 @@
     "net.filebot.FileBot",
     "org.jdownloader.JDownloader",
     "org.jreleaser.cli",
+    "org.keystore_explorer.KeyStoreExplorer",
     "org.octave.Octave",
     "org.omegat.OmegaT",
     "org.texstudio.TeXstudio",

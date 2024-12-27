@@ -42,6 +42,7 @@
         "net.sourceforge.pdfchain",
         "org.angryip.ipscan",
         "org.briarproject.Briar",
+        "org.keystore_explorer.KeyStoreExplorer",
         "org.verapdf.veraPDF"
     ],
     ".assaultcube-reloaded": [

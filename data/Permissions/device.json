@@ -1630,6 +1630,7 @@
         "org.kde.umbrello",
         "org.kde.vvave",
         "org.kde.yakuake",
+        "org.keystore_explorer.KeyStoreExplorer",
         "org.kicad.KiCad",
         "org.ksnip.ksnip",
         "org.lamport.tla.toolbox",
