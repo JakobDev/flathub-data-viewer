@@ -430,9 +430,6 @@
     ".ezquake": [
         "io.github.ezQuake"
     ],
-    ".datcord": [
-        "io.github.gamingdoom.Datcord"
-    ],
     ".tremulous": [
         "io.github.grangerhub.Tremulous"
     ],

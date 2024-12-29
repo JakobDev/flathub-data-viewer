@@ -620,7 +620,6 @@
         "io.github.aggalex.Wineglass",
         "io.github.equicord.equibop",
         "io.github.fastrizwaan.WineZGUI",
-        "io.github.gamingdoom.Datcord",
         "io.github.getnf.embellish",
         "io.github.giantpinkrobots.varia",
         "io.github.hvdwofl.jExifToolGUI",
@@ -2580,7 +2579,6 @@
         "eu.ngdevelopment.tsukitag",
         "in.bharatkalluri.splash",
         "info.febvre.Komikku",
-        "io.github.Figma_Linux.figma_linux",
         "io.github.aggalex.Wineglass",
         "io.github.celluloid_player.Celluloid",
         "io.github.ecotubehq.player",
@@ -3980,9 +3978,6 @@
     "xdg-run/pmim:create": [
         "io.github.fm_elpac.pmim_ibus"
     ],
-    "/tmp/open-in-default-browser": [
-        "io.github.gamingdoom.Datcord"
-    ],
     "~/.local/share/fonts:create": [
         "io.github.getnf.embellish",
         "org.gustavoperedo.FontDownloader"
@@ -4087,7 +4082,6 @@
     ],
     "xdg-data/Steam": [
         "io.github.philipk.boilr",
-        "io.github.tralph3.Steam_Metadata_Editor",
         "net.retrodeck.retrodeck"
     ],
     "~/GOG Games:ro": [
@@ -4158,12 +4152,6 @@
     ],
     "~/snap/steam/common/.local/share/Steam/steamapps/common/Dark Forces/Game:ro": [
         "io.github.theforceengine.tfe"
-    ],
-    "~/.var/app/com.valvesoftware.Steam/.local/share/Steam": [
-        "io.github.tralph3.Steam_Metadata_Editor"
-    ],
-    "xdg-data/Steam-Metadata-Editor": [
-        "io.github.tralph3.Steam_Metadata_Editor"
     ],
     "xdg-data": [
         "io.github.unrud.RecentFilter",
