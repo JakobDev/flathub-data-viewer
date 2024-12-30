@@ -2657,7 +2657,6 @@
         "io.github.qnapi",
         "io.github.ripose_jp.Memento",
         "io.github.seadve.Kooha",
-        "io.github.thaunknown.miru",
         "io.github.tntwise.REAL-Video-Enhancer",
         "io.github.vikdevelop.SaveDesktop",
         "io.github.webcamoid.Webcamoid",
@@ -4141,9 +4140,6 @@
     "/opt:ro": [
         "io.github.shiftey.Desktop"
     ],
-    "xdg-run/discord-ipc-0:ro": [
-        "io.github.thaunknown.miru"
-    ],
     "~/.local/share/Steam/steamapps/common/Dark Forces/Game:ro": [
         "io.github.theforceengine.tfe"
     ],
@@ -4528,6 +4524,9 @@
     ],
     "~/JJazzLab": [
         "org.jjazzlab.JJazzLab"
+    ],
+    "xdg-cache/thumbnails": [
+        "org.kde.gwenview"
     ],
     "xdg-documents/kse:create": [
         "org.keystore_explorer.KeyStoreExplorer"

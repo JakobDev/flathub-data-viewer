@@ -143,7 +143,6 @@
         "org.swi_prolog.swipl",
         "org.texstudio.TeXstudio",
         "org.wireshark.Wireshark",
-        "page.codeberg.lazyt.ubpm",
         "pw.mmk.OpenFreebuds",
         "rocks.syng.Syng",
         "tr.com.ikooskar.ikoOSKAR",
@@ -651,6 +650,7 @@
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
         "page.codeberg.JakobDev.jdTextEdit",
+        "page.codeberg.lazyt.ubpm",
         "space.nouspiro.tenmon"
     ],
     "5.14": [

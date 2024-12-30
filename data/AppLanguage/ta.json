@@ -2,6 +2,7 @@
     "app.drey.Dialect",
     "app.rednotebook.RedNotebook",
     "com.github.hugolabe.Wike",
+    "com.github.unrud.djpdf",
     "com.mattjakeman.ExtensionManager",
     "com.rafaelmardojai.Blanket",
     "com.tux4kids.tuxtype",
