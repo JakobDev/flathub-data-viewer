@@ -3529,7 +3529,9 @@
         "org.openchemistry.Avogadro2"
     ],
     "org.kde.kdeconnect": [
-        "com.core447.StreamController"
+        "com.core447.StreamController",
+        "org.mamedev.MAME",
+        "org.qownnotes.QOwnNotes"
     ],
     "org.mpris.MediaPlayer2.*": [
         "com.core447.StreamController",

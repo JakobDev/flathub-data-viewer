@@ -1637,7 +1637,6 @@
         "io.github.peazip.PeaZip",
         "io.github.phastmike.tags",
         "io.github.pieterdd.RcloneShuttle",
-        "io.github.plrigaux.sysd-manager",
         "io.github.quodlibet.ExFalso",
         "io.github.quodlibet.QuodLibet",
         "io.github.rinigus.OSMScoutServer",
@@ -3061,6 +3060,7 @@
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
         "io.github.flattool.Warehouse",
+        "io.github.plrigaux.sysd-manager",
         "io.github.realmazharhussain.GdmSettings",
         "io.wavebox.Wavebox",
         "ru.yandex.Browser"
@@ -3931,6 +3931,7 @@
     ],
     "host-os": [
         "io.github.elevenhsoft.WebApps",
+        "io.github.plrigaux.sysd-manager",
         "io.github.realmazharhussain.GdmSettings"
     ],
     "~/.local/share/flatpak:ro": [
