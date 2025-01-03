@@ -258,6 +258,7 @@
     "org.zealdocs.Zeal",
     "org.zrythm.Zrythm",
     "page.kramo.Cartridges",
+    "page.tesk.Refine",
     "pw.mmk.OpenFreebuds",
     "rocks.poopjournal.librelinkupdesktop",
     "rs.ruffle.Ruffle",
@@ -267,6 +268,7 @@
     "org.freedesktop.Platform.GL32.default",
     "org.freedesktop.Platform.VAAPI.Intel",
     "org.freedesktop.Platform.ffmpeg-full",
+    "org.freedesktop.Platform.openh264",
     "org.freedesktop.Platform",
     "org.freedesktop.Sdk"
 ]

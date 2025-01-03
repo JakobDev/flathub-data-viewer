@@ -186,6 +186,7 @@
         "cz.zeropage.Formiko",
         "de.bforartists.Bforartists",
         "de.create3000.titania",
+        "de.danielnoethen.butt",
         "de.fabrik19.mos-Launcher",
         "de.finnik.PassVault",
         "de.flose.Kochbuch",
@@ -258,6 +259,7 @@
         "io.github.gtkwave.GTKWave",
         "io.github.hakuneko.HakuNeko",
         "io.github.hydrusnetwork.hydrus",
+        "io.github.iptux_src.iptux",
         "io.github.itprojects.MasVisGtk",
         "io.github.kevinsmia1939.PySimpleCV",
         "io.github.limads.Queries",
@@ -495,7 +497,6 @@
         "org.telesculptor.TeleSculptor",
         "org.thonny.Thonny",
         "org.tomviz.Tomviz",
-        "org.trelby.Trelby",
         "org.tropy.Tropy",
         "org.upscayl.Upscayl",
         "org.verapdf.veraPDF",
@@ -860,7 +861,6 @@
         "de.marlam.gencolormap",
         "de.marlam.qv",
         "de.nagstamon.nagstamon",
-        "de.rwth_aachen.ient.RDPlot",
         "de.rwth_aachen.ient.YUView",
         "de.syping.gta5view",
         "de.unifreiburg.ellipticcurve",
@@ -870,7 +870,6 @@
         "dog.unix.cantata.Cantata",
         "edu.princeton.physics.WSJTX",
         "ee.ria.qdigidoc4",
-        "eu.ad5001.LogarithmPlotter",
         "eu.ad5001.LogarithmPlotter",
         "eu.cichy1173.tabela",
         "eu.ototu.Quteqoin",
@@ -1552,7 +1551,6 @@
         "com.kavilgroup.gelectrical",
         "com.kristianduske.TrenchBroom",
         "com.lettier.movie-monad",
-        "com.makemkv.MakeMKV",
         "com.neatdecisions.Detwinner",
         "com.nextcloud.desktopclient.nextcloud",
         "com.nitrokey.nitrokey-app",
@@ -1588,7 +1586,6 @@
         "de.lernsoftware_filius.Filius",
         "de.philippun1.turtle",
         "de.renew.Renew",
-        "de.rwth_aachen.ient.RDPlot",
         "de.rwth_aachen.ient.YUView",
         "dev.ares.ares",
         "dev.ensoft.ecode",
@@ -1645,6 +1642,7 @@
         "io.github.shiftey.Desktop",
         "io.github.sithlord48.blackchocobo",
         "io.github.streetpea.Chiaki4deck",
+        "io.github.sxyazi.yazi",
         "io.github.xyproto.zsnes",
         "io.github.zyedidia.micro",
         "io.gitlab.Turtlico",
@@ -1804,6 +1802,7 @@
         "org.tabos.roger",
         "org.tenacityaudio.Tenacity",
         "org.texstudio.TeXstudio",
+        "org.trelby.Trelby",
         "org.tug.texworks",
         "org.ultimatepp.TheIDE",
         "org.upbge.UPBGE",
@@ -2340,6 +2339,7 @@
         "com.vivaldi.Vivaldi",
         "com.wire.WireDesktop",
         "com.ylsoftware.qmmp.Qmmp",
+        "de.danielnoethen.butt",
         "dev.vencord.Vesktop",
         "eu.nokun.MirrorHall",
         "fm.helio.Workstation",
@@ -2475,7 +2475,6 @@
         "com.microsoft.Edge",
         "com.opera.Opera",
         "com.vivaldi.Vivaldi",
-        "de.rwth_aachen.ient.RDPlot",
         "in.bharatkalluri.splash",
         "io.frama.tractor.carburetor",
         "io.github.pantheon_tweaks.pantheon-tweaks",
@@ -2485,6 +2484,7 @@
         "org.eclipse.iot.fourdiac.Ide",
         "org.gabmus.unifydmin",
         "org.gnome.Boxes",
+        "page.tesk.Refine",
         "ru.yandex.Browser"
     ],
     "/run/udev:ro": [
@@ -2647,6 +2647,7 @@
         "com.ktechpit.orion",
         "com.ktechpit.ultimate-media-downloader",
         "com.ktechpit.whatsie",
+        "com.makemkv.MakeMKV",
         "com.microsoft.Edge",
         "com.microsoft.EdgeDev",
         "com.pojtinger.felicitas.Multiplex",
@@ -2814,6 +2815,7 @@
         "io.github.dzheremi2.lrcmake-gtk",
         "io.github.ecotubehq.player",
         "io.github.ilius.pyglossary",
+        "io.github.leolost2605.emergency-alerts",
         "io.github.manisandro.gImageReader",
         "io.github.mightycreak.Diffuse",
         "io.github.mpobaschnig.Vaults",
@@ -3129,7 +3131,6 @@
         "com.microsoft.Edge",
         "com.opera.Opera",
         "com.vivaldi.Vivaldi",
-        "de.rwth_aachen.ient.RDPlot",
         "in.bharatkalluri.splash",
         "io.frama.tractor.carburetor",
         "io.liri.Calculator",
@@ -3323,6 +3324,7 @@
     ],
     "/run/media:ro": [
         "com.github.AlizaMedicalImaging.AlizaMS",
+        "com.steamgriddb.SGDBoop",
         "io.github.Soundux",
         "io.github.btpf.alexandria",
         "io.github.maddecoder.Classic-RBDOOM-3-BFG",
@@ -3602,6 +3604,9 @@
         "io.github.wazzaps.Fingerpaint",
         "org.linux_hardware.hw-probe"
     ],
+    "~/.MakeMKV:create": [
+        "com.makemkv.MakeMKV"
+    ],
     "xdg-download:create": [
         "com.markopejic.downloader",
         "io.github.purplehorrorrus.Meridius",
@@ -3610,7 +3615,8 @@
     "host-os:ro": [
         "com.moonlight_stream.Moonlight",
         "io.github.flattool.Ignition",
-        "page.codeberg.JakobDev.jdSimpleAutostart"
+        "page.codeberg.JakobDev.jdSimpleAutostart",
+        "page.tesk.Refine"
     ],
     "xdg-run/Nextcloud:create": [
         "com.nextcloud.desktopclient.nextcloud"
@@ -3668,9 +3674,6 @@
     "~/.var/app/com.valvesoftware.Steam/data/Steam/appcache/librarycache": [
         "com.steamgriddb.SGDBoop"
     ],
-    "/run/media/mmcblk0p1/steamapps/sourcemods:ro": [
-        "com.steamgriddb.SGDBoop"
-    ],
     "~/.steam/steam/appcache/librarycache": [
         "com.steamgriddb.SGDBoop"
     ],
@@ -3678,9 +3681,6 @@
         "com.steamgriddb.SGDBoop"
     ],
     "~/.steam/steam/config/loginusers.vdf:ro": [
-        "com.steamgriddb.SGDBoop"
-    ],
-    "/run/media/mmcblk0p1/steamapps/common/Half-Life:ro": [
         "com.steamgriddb.SGDBoop"
     ],
     "~/.steam/registry.vdf:ro": [
@@ -4675,6 +4675,9 @@
     ],
     "~/.var/app/com.valvesoftware.Steam/data/Steam:ro": [
         "page.kramo.Cartridges"
+    ],
+    "xdg-config/dconf": [
+        "page.tesk.Refine"
     ],
     "~/.local/share/godot/app_userdata/SuperTuxParty": [
         "party.supertux.supertuxparty"

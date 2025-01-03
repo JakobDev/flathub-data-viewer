@@ -5,7 +5,6 @@
         "com.bktus.gpgfrontend",
         "com.blockstream.Green",
         "com.borgbase.Vorta",
-        "com.chatterino.chatterino",
         "com.darhon.syncbackup",
         "com.georgefb.mangareader",
         "com.georgefb.quickaccess",
@@ -28,7 +27,6 @@
         "de.unifreiburg.ellipticcurve",
         "ee.ria.qdigidoc4",
         "eu.ad5001.LogarithmPlotter",
-        "eu.ad5001.LogarithmPlotter",
         "fr.free.brouits.qspeakers",
         "io.github.Arisotura.CoinKiller",
         "io.github.FedericoCalzoni.EventRecorder",
@@ -38,6 +36,7 @@
         "io.github.breadmakesyoufull.bpm2fps",
         "io.github.ctlcltd.e2se",
         "io.github.ddanilov.soundscape",
+        "io.github.dummerle.rare",
         "io.github.huderlem.porymap",
         "io.github.hypengw.Qcm",
         "io.github.jordanl2.ModularCalculator",
@@ -204,7 +203,6 @@
         "io.github.bothlab.pomidaq",
         "io.github.chilledheart.yass",
         "io.github.dman95.SASM",
-        "io.github.dummerle.rare",
         "io.github.eteran.edb-debugger",
         "io.github.foldynl.QLog",
         "io.github.garglk.Gargoyle",
@@ -448,6 +446,7 @@
     ],
     "6.8": [
         "ch.openboard.OpenBoard",
+        "com.chatterino.chatterino",
         "com.github.Bleuzen.FFaudioConverter",
         "com.github.Rosalie241.RMG",
         "com.github.git_cola.git-cola",
@@ -727,14 +726,13 @@
         "dev.lukebriggs.pepys",
         "eu.skribisto.skribisto"
     ],
-    "5.12": [
-        "de.rwth_aachen.ient.RDPlot",
-        "io.liri.Calculator"
-    ],
     "6.3": [
         "dev.levz.TinyImageFinder",
         "org.linux_hardware.hw-probe",
         "org.subtitld.Subtitld"
+    ],
+    "5.12": [
+        "io.liri.Calculator"
     ],
     "5.9": [
         "io.qt.qtwebkit.BaseApp"

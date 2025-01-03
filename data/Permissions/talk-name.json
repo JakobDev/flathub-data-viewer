@@ -320,7 +320,6 @@
         "de.marlam.gencolormap",
         "de.marlam.qv",
         "de.nagstamon.nagstamon",
-        "de.rwth_aachen.ient.RDPlot",
         "de.rwth_aachen.ient.YUView",
         "de.syping.gta5view",
         "de.unifreiburg.ellipticcurve",
@@ -330,7 +329,6 @@
         "dog.unix.cantata.Cantata",
         "edu.princeton.physics.WSJTX",
         "ee.ria.qdigidoc4",
-        "eu.ad5001.LogarithmPlotter",
         "eu.ad5001.LogarithmPlotter",
         "eu.cichy1173.tabela",
         "eu.ototu.Quteqoin",
@@ -1052,7 +1050,6 @@
         "edu.princeton.physics.WSJTX",
         "ee.ria.qdigidoc4",
         "eu.ad5001.LogarithmPlotter",
-        "eu.ad5001.LogarithmPlotter",
         "eu.cichy1173.tabela",
         "eu.scarpetta.PDFMixTool",
         "eu.vcmi.VCMI",
@@ -1709,7 +1706,6 @@
         "dog.unix.cantata.Cantata",
         "edu.princeton.physics.WSJTX",
         "ee.ria.qdigidoc4",
-        "eu.ad5001.LogarithmPlotter",
         "eu.ad5001.LogarithmPlotter",
         "eu.cichy1173.tabela",
         "eu.scarpetta.PDFMixTool",
@@ -2615,6 +2611,7 @@
         "com.zettlr.Zettlr",
         "de.akaflieg_freiburg.enroute",
         "de.bund.ausweisapp.ausweisapp2",
+        "de.danielnoethen.butt",
         "de.mediathekview.MediathekView",
         "de.nagstamon.nagstamon",
         "de.unifreiburg.ellipticcurve",
@@ -2945,6 +2942,7 @@
         "page.codeberg.JakobDev.jdTextEdit",
         "page.codeberg.libre_menu_editor.LibreMenuEditor",
         "page.kramo.Cartridges",
+        "page.tesk.Refine",
         "pm.mirko.Atoms",
         "re.sonny.Junction",
         "xyz.tytanium.DoorKnocker"
@@ -3087,6 +3085,7 @@
         "org.gabmus.unifydmin",
         "org.gnome.Boxes",
         "org.remmina.Remmina",
+        "page.tesk.Refine",
         "ru.yandex.Browser"
     ],
     "org.freedesktop.PowerManagement.Inhibit": [
@@ -3181,6 +3180,26 @@
         "org.jitsi.jitsi-meet",
         "org.kde.okular",
         "org.libretro.RetroArch"
+    ],
+    "org.kde.kdeconnect": [
+        "ch.openboard.OpenBoard",
+        "com.chatterino.chatterino",
+        "com.core447.StreamController",
+        "com.github.vkohaupt.vokoscreenNG",
+        "com.riverbankcomputing.PyQt.BaseApp",
+        "io.github.peazip.PeaZip",
+        "io.github.qtox.qTox",
+        "org.kde.cantor",
+        "org.kde.dolphin",
+        "org.kde.kalgebra",
+        "org.kde.kclock",
+        "org.kde.kdevelop",
+        "org.kde.knights",
+        "org.kde.kweather",
+        "org.kde.okular.kirigami",
+        "org.mamedev.MAME",
+        "org.qownnotes.QOwnNotes",
+        "page.codeberg.JakobDev.jdAnimatedImageEditor"
     ],
     "com.feralinteractive.GameMode": [
         "ch.tlaun.TL",
@@ -3404,6 +3423,7 @@
         "io.github.dfandrich.gpscorrelate",
         "io.github.ecotubehq.player",
         "io.github.ilius.pyglossary",
+        "io.github.leolost2605.emergency-alerts",
         "io.github.manisandro.gImageReader",
         "io.github.mpobaschnig.Vaults",
         "io.github.pwr_solaar.solaar",
@@ -3532,25 +3552,12 @@
         "com.mousepawmedia.omission",
         "org.openchemistry.Avogadro2"
     ],
-    "org.kde.kdeconnect": [
-        "com.core447.StreamController",
-        "com.github.vkohaupt.vokoscreenNG",
-        "com.riverbankcomputing.PyQt.BaseApp",
-        "io.github.peazip.PeaZip",
-        "io.github.qtox.qTox",
-        "org.kde.dolphin",
-        "org.kde.kalgebra",
-        "org.kde.kclock",
-        "org.kde.knights",
-        "org.kde.kweather",
-        "org.mamedev.MAME",
-        "org.qownnotes.QOwnNotes"
-    ],
     "org.mpris.MediaPlayer2.*": [
         "com.core447.StreamController",
         "com.feaneron.Boatswain",
         "com.github.muriloventuroso.givemelyrics",
         "com.github.naaando.lyrics",
+        "de.danielnoethen.butt",
         "io.github.Hexchat",
         "io.github.bkbilly.lnxlink",
         "io.github.slgobinath.SafeEyes",
@@ -3805,6 +3812,9 @@
     ],
     "com.freedesktop.secrets": [
         "com.thincast.client"
+    ],
+    "org.gnome.Rhythmbox3": [
+        "de.danielnoethen.butt"
     ],
     "org.gnome.Totem": [
         "de.k_bo.Televido"
