@@ -1,6 +1,6 @@
 [
     "eu.scarpetta.PDFMixTool",
-    "net.codeindustry.MasterPDFEditor",
+    "net.code_industry.MasterPDFEditor",
     "org.gnome.Evince",
     "org.gnome.Papers",
     "org.kde.okular",

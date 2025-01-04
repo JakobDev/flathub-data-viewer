@@ -1,11 +1,12 @@
 {
+    "6.8": [
+        "com.markopejic.downloader",
+        "io.github.mak448a.QTCord"
+    ],
     "6.7": [
         "io.github.breadmakesyoufull.baseconvert",
         "io.github.breadmakesyoufull.bpm2fps",
         "io.github.dummerle.rare",
         "io.github.qcanvas.QCanvasApp"
-    ],
-    "6.8": [
-        "io.github.mak448a.QTCord"
     ]
 }
