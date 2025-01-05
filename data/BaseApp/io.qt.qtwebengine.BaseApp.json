@@ -46,8 +46,7 @@
         "org.kde.labplot2",
         "org.kde.skrooge",
         "org.paraview.ParaView",
-        "org.rolisteam.rolisteam",
-        "org.yacas.yacas-gui"
+        "org.rolisteam.rolisteam"
     ],
     "6.7": [
         "com.nextcloud.desktopclient.nextcloud",
@@ -71,7 +70,8 @@
     ],
     "5.15-24.08": [
         "fun.vnote.app.VNote",
-        "org.recoll.recoll"
+        "org.recoll.recoll",
+        "org.yacas.yacas-gui"
     ],
     "6.6": [
         "io.github.nyre221.kiview",

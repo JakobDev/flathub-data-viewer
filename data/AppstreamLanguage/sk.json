@@ -305,5 +305,6 @@
     "org.xiphos.Xiphos",
     "page.codeberg.libre_menu_editor.LibreMenuEditor",
     "re.sonny.Commit",
-    "rocks.koreader.KOReader"
+    "rocks.koreader.KOReader",
+    "rs.ruffle.Ruffle"
 ]
