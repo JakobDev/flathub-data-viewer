@@ -8,5 +8,6 @@
     "net.zdechov.app.TransLines",
     "net.zdechov.app.Tunneler",
     "net.zdechov.app.vCardStudio",
-    "net.zdechov.app.x2048"
+    "net.zdechov.app.x2048",
+    "net.zdechov.app.xTactics"
 ]

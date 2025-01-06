@@ -36,7 +36,7 @@
     "org.opentransactions.metier",
     "org.pdfstitcher.pdfstitcher",
     "se.manyver.Manyverse",
-    "sh.fhs.KatawaShoujoReEngineered",
+    "sh.fhs.ksre",
     "net.mkiol.SpeechNote.Addon.amd",
     "net.mkiol.SpeechNote.Addon.nvidia"
 ]

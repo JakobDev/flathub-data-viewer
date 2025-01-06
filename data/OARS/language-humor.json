@@ -178,7 +178,7 @@
         "org.kryogenix.Pick",
         "org.naev.Naev",
         "org.unitystation.StationHub",
-        "sh.fhs.KatawaShoujoReEngineered"
+        "sh.fhs.ksre"
     ],
     "mild": [
         "com.github.dariasteam.cowsrevenge",

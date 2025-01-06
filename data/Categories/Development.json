@@ -230,6 +230,7 @@
     "org.librepcb.LibrePCB",
     "org.linux_hardware.hw-probe",
     "org.love2d.love2d",
+    "org.mitmproxy.mitmproxy",
     "org.nsnam.NetAnim",
     "org.openhantek.OpenHantek6022",
     "org.pgadmin.pgadmin4",

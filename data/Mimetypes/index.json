@@ -1155,6 +1155,8 @@
         "application{SLASH}xml-dtd",
         "application{SLASH}xslt+xml",
         "application{SLASH}xspf+xml",
+        "application{SLASH}xtg",
+        "application{SLASH}xts",
         "application{SLASH}zip",
         "application{SLASH}zip+mrpack",
         "application{SLASH}zlib",

@@ -1079,6 +1079,7 @@
         "net.zdechov.app.Tunneler",
         "net.zdechov.app.vCardStudio",
         "net.zdechov.app.x2048",
+        "net.zdechov.app.xTactics",
         "one.flipperzero.qFlipper",
         "org.DolphinEmu.dolphin-emu",
         "org.artisan_scope.artisan",
@@ -2051,7 +2052,6 @@
         "org.b3log.siyuan",
         "org.damask_multiphysics.DAMASK_grid",
         "org.damask_multiphysics.DAMASK_mesh",
-        "org.dpsoftware.FireflyLuciferin",
         "org.dupot.easyflatpak",
         "org.eu.wabarc.wayback",
         "org.firestormviewer.FirestormViewer",
@@ -2064,6 +2064,7 @@
         "org.kde.cantor",
         "org.kde.marknote",
         "org.kde.rocs",
+        "org.mitmproxy.mitmproxy",
         "org.msweet.htmldoc",
         "org.nongnu.Xlog",
         "org.omegat.OmegaT",
@@ -2309,7 +2310,7 @@
         "org.srb2.SRB2Kart-galaxy",
         "org.srb2.SRB2Kart-galaxy_azerty",
         "org.srb2.SRB2Kart",
-        "sh.fhs.KatawaShoujoReEngineered"
+        "sh.fhs.ksre"
     ],
     "xdg-run/pipewire-0": [
         "ar.com.tuxguitar.TuxGuitar",

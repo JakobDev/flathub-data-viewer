@@ -222,7 +222,7 @@
         "net.newpipe.NewPipe",
         "org.cataclysmdda.CataclysmDDA",
         "org.kryogenix.Pick",
-        "sh.fhs.KatawaShoujoReEngineered",
+        "sh.fhs.ksre",
         "space.rirusha.Cassette"
     ]
 }

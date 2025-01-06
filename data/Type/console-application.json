@@ -43,6 +43,7 @@
     "org.getzola.zola",
     "org.gnome.Pinpoint",
     "org.jreleaser.cli",
+    "org.mitmproxy.mitmproxy",
     "org.mosh.mosh",
     "org.nuspell.Nuspell",
     "org.winehq.Wine",
