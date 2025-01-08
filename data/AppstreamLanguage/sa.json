@@ -2,5 +2,6 @@
     "org.inkscape.Inkscape",
     "org.kde.elisa",
     "org.kde.kcolorchooser",
+    "org.kde.kphotoalbum",
     "org.tuxpaint.Tuxpaint"
 ]

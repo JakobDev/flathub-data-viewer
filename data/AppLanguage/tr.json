@@ -233,5 +233,6 @@
     "re.sonny.Commit",
     "se.sjoerd.Graphs",
     "sm.puri.Chatty",
+    "vn.hoabinh.quan.CoBang",
     "xyz.tytanium.DoorKnocker"
 ]

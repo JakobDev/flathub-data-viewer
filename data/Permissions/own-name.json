@@ -42,6 +42,7 @@
     ],
     "org.kde.StatusNotifierItem-2-1": [
         "com.github.Qv2ray",
+        "io.github.efogdev.mpris-timer",
         "ru.proninyaroslav.libretrack"
     ],
     "org.mpris.MediaPlayer2.com.github.artemanufrij.playmymusic": [
@@ -211,6 +212,9 @@
     ],
     "org.mpris.MediaPlayer2.Supersonic": [
         "io.github.dweymouth.supersonic"
+    ],
+    "org.kde.StatusNotifierItem-3-1": [
+        "io.github.efogdev.mpris-timer"
     ],
     "org.mpris.MediaPlayer2.*": [
         "io.github.foxxmd.multiscrobbler"

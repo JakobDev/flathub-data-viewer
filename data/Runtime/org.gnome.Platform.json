@@ -319,7 +319,6 @@
         "sm.puri.Chatty",
         "surf.deckr.deckr",
         "uk.co.mangobrain.Infector",
-        "vn.hoabinh.quan.CoBang",
         "work.openpaper.Paperwork",
         "xyz.parlatype.Parlatype"
     ],
@@ -722,6 +721,7 @@
         "so.libdb.dissent",
         "space.rirusha.Cassette",
         "studio.eufonia.EufoniaClient",
+        "vn.hoabinh.quan.CoBang",
         "xyz.safeworlds.hiit",
         "xyz.slothlife.Jogger",
         "xyz.tytanium.DoorKnocker"
@@ -796,6 +796,7 @@
         "org.endlessos.Key",
         "org.freedesktop.dabrain34.GstPipelineStudio",
         "org.gabmus.hydrapaper",
+        "org.gnome.Hamster",
         "org.gnome.gitlab.bazylevnik0.Convolution",
         "org.karapulse.Karapulse",
         "org.librehunt.Organizer",
@@ -844,7 +845,6 @@
         "io.gitlab.gwendalj.package-transporter",
         "org.gabmus.notorious",
         "org.gmusicbrowser.gmusicbrowser",
-        "org.gnome.Hamster",
         "org.gnome.OCRFeeder",
         "org.gnome.gitlab.powimod.aion-task",
         "org.gnome.moserial",
