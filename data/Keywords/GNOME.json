@@ -6,7 +6,6 @@
     "info.febvre.Komikku",
     "io.github.aganzha.Stage",
     "io.github.celluloid_player.Celluloid",
-    "io.github.ecotubehq.player",
     "io.github.fabrialberio.pinapp",
     "io.github.nokse22.asciidraw",
     "io.github.nokse22.trivia-quiz",
@@ -14,7 +13,6 @@
     "io.github.swanux.hbud",
     "io.gitlab.liferooter.TextPieces",
     "it.dottorblaster.cauldron",
-    "org.gnome.FontManager",
     "org.gnome.atomix",
     "org.gnome.design.Contrast",
     "org.gnome.design.IconLibrary"

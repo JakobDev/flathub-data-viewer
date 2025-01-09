@@ -1,7 +1,9 @@
 [
+    "app.fotema.Fotema",
     "com.github.mtkennerly.ludusavi",
     "com.github.unrud.djpdf",
     "com.mtkennerly.madamiru",
+    "com.theappgineer.community_remote",
     "io.github.kukuruzka165.materialgram",
     "io.github.sameboy.SameBoy",
     "io.ossia.score",

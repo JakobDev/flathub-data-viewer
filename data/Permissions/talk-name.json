@@ -3256,6 +3256,7 @@
         "org.lyx.LyX",
         "org.mamedev.MAME",
         "org.qownnotes.QOwnNotes",
+        "org.radare.iaito",
         "page.codeberg.JakobDev.jdAnimatedImageEditor"
     ],
     "com.feralinteractive.GameMode": [

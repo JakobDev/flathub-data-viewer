@@ -2432,6 +2432,7 @@
         "dev.paullee.scraterpreter.Scrape",
         "fi.skyjake.Lagrange",
         "im.srain.Srain",
+        "io.github.Youda008.DoomRunner",
         "io.github.am2r_community_developers.AM2RLauncher",
         "io.github.btpf.alexandria",
         "io.github.jacalz.rymdport",
@@ -4475,12 +4476,6 @@
     ],
     "~/.config/pki": [
         "org.gnome.Evolution"
-    ],
-    "xdg-data/fonts": [
-        "org.gnome.FontManager"
-    ],
-    "xdg-config/fontconfig": [
-        "org.gnome.FontManager"
     ],
     "~/.cache/evolution/addressbook:ro": [
         "org.gnome.Geary"

@@ -1,6 +1,7 @@
 [
     "app.moosync.moosync",
     "de.schmidhuberj.tubefeeder",
+    "io.github.ecotubehq.player",
     "net.krafting.Playlifin",
     "net.mkiol.Jupii",
     "org.gnome.Shotwell",
