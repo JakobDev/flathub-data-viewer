@@ -153,7 +153,6 @@
         "io.github.sigmasd.share",
         "io.github.sigmasd.stimulator",
         "io.github.thiefmd.themegenerator",
-        "io.github.trytonvanmeer.DungeonJournal",
         "io.github.unicornyrainbow.secrets",
         "io.github.wazzaps.Fingerpaint",
         "io.github.zhrexl.thisweekinmylife",
@@ -551,6 +550,7 @@
         "io.github.tfuxu.Halftone",
         "io.github.tfuxu.floodit",
         "io.github.trigg.discover_overlay",
+        "io.github.trytonvanmeer.DungeonJournal",
         "io.github.unrud.RecentFilter",
         "io.github.vemonet.EmojiMart",
         "io.github.vikdevelop.SaveDesktop",
@@ -693,6 +693,7 @@
         "org.gramps_project.Gramps",
         "org.gustavoperedo.FontDownloader",
         "org.inkscape.Inkscape",
+        "org.laptop.TurtleArtActivity",
         "org.learningequality.Kolibri",
         "org.libvips.vipsdisp",
         "org.moneymanagerex.MMEX",
@@ -748,7 +749,6 @@
         "org.gnome.Notes",
         "org.gnome.design.VectorSlicer",
         "org.kryogenix.hushboard",
-        "org.laptop.TurtleArtActivity",
         "org.sil.Bloom"
     ],
     "45": [

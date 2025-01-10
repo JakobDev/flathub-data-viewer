@@ -49,6 +49,7 @@
     "org.gnome.five-or-more",
     "org.gnome.gedit",
     "org.gnome.seahorse.Application",
+    "org.laptop.TurtleArtActivity",
     "org.pulseaudio.pavucontrol",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Calculate",

@@ -50,6 +50,7 @@
     "org.gnome.meld",
     "org.gnome.seahorse.Application",
     "org.gnucash.GnuCash",
+    "org.laptop.TurtleArtActivity",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Calculate",
     "org.sugarlabs.Chart",

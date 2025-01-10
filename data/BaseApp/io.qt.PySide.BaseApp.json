@@ -7,6 +7,8 @@
         "io.github.breadmakesyoufull.baseconvert",
         "io.github.breadmakesyoufull.bpm2fps",
         "io.github.dummerle.rare",
-        "io.github.qcanvas.QCanvasApp"
+        "io.github.qcanvas.QCanvasApp",
+        "io.github.voxelcubes.deepqt",
+        "io.github.voxelcubes.panelcleaner"
     ]
 }

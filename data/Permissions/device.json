@@ -2486,6 +2486,7 @@
     "shm": [
         "com.github.ahrm.sioyek",
         "com.play0ad.zeroad",
+        "info.mumble.Mumble",
         "io.github.brunoherbelin.Vimix",
         "io.github.shmmodbus.shm-modbus",
         "io.missioncenter.MissionCenter",

@@ -1,4 +1,5 @@
 [
+    "org.laptop.TurtleArtActivity",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Calculate",
     "org.sugarlabs.ImplodeActivity",

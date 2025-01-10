@@ -8,6 +8,7 @@
     "org.gnome.Quadrapassel",
     "org.gnome.eog",
     "org.gnome.gedit",
+    "org.laptop.TurtleArtActivity",
     "org.sugarlabs.AbacusActivity",
     "org.sugarlabs.Calculate",
     "org.sugarlabs.Maze",
