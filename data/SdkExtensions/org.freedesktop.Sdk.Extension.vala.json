@@ -1,5 +1,6 @@
 [
     "app.vup.Vup",
+    "com.github.louis77.tuner",
     "com.github.naaando.lyrics",
     "com.github.ztefn.haguichi",
     "com.vysp3r.ProtonPlus",

@@ -26,6 +26,7 @@
         "org.kde.marble",
         "org.kde.parley",
         "org.kde.skanpage",
+        "org.kde.tokodon",
         "org.musescore.MuseScore",
         "org.sdrangel.SDRangel",
         "org.zealdocs.Zeal"
@@ -57,8 +58,7 @@
         "org.jacktrip.JackTrip",
         "org.jaspstats.JASP",
         "org.kde.klevernotes",
-        "org.kde.tellico",
-        "org.kde.tokodon"
+        "org.kde.tellico"
     ],
     "5.15": [
         "com.wiz.Note",

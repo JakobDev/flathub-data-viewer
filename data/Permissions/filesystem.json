@@ -2389,6 +2389,7 @@
         "org.jjazzlab.JJazzLab",
         "org.kde.kamoso",
         "org.kde.kdenlive",
+        "org.libretro.RetroArch",
         "org.linuxshowplayer.LinuxShowPlayer",
         "org.mixxx.Mixxx",
         "org.musescore.MuseScore",
