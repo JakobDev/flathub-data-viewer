@@ -1,13 +1,13 @@
 {
     "6.8": [
         "com.markopejic.downloader",
-        "io.github.mak448a.QTCord"
+        "io.github.mak448a.QTCord",
+        "io.github.qcanvas.QCanvasApp"
     ],
     "6.7": [
         "io.github.breadmakesyoufull.baseconvert",
         "io.github.breadmakesyoufull.bpm2fps",
         "io.github.dummerle.rare",
-        "io.github.qcanvas.QCanvasApp",
         "io.github.voxelcubes.deepqt",
         "io.github.voxelcubes.panelcleaner"
     ]

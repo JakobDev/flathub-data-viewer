@@ -3210,9 +3210,13 @@
         "io.github.ciromattia.kcc",
         "io.github.congard.qnvsm",
         "io.github.cudatext.CudaText-Qt",
+        "io.github.foldynl.QLog",
+        "io.github.hydrusnetwork.hydrus",
         "io.github.kovzol.bibref",
         "io.github.peazip.PeaZip",
+        "io.github.qcanvas.QCanvasApp",
         "io.github.qtox.qTox",
+        "io.github.ra3xdh.qucs_s",
         "io.github.torrent_file_editor.Torrent-file-editor",
         "io.github.yuki_iptv.yuki-iptv",
         "io.qt.QtCreator",
@@ -3313,6 +3317,7 @@
         "org.kde.kongress",
         "org.kde.konquest",
         "org.kde.konsole",
+        "org.kde.kontact",
         "org.kde.kontrast",
         "org.kde.konversation",
         "org.kde.kpat",
@@ -3361,7 +3366,8 @@
         "org.qownnotes.QOwnNotes",
         "org.radare.iaito",
         "org.texstudio.TeXstudio",
-        "page.codeberg.JakobDev.jdAnimatedImageEditor"
+        "page.codeberg.JakobDev.jdAnimatedImageEditor",
+        "page.codeberg.JakobDev.jdAppStreamEdit"
     ],
     "com.feralinteractive.GameMode": [
         "ch.tlaun.TL",
