@@ -1,5 +1,6 @@
 [
     "com.skype.Client",
+    "de.gonicus.gonnect",
     "org.gnome.Calls",
     "org.tabos.roger",
     "us.zoom.Zoom"

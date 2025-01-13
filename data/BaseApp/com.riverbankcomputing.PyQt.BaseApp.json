@@ -21,6 +21,7 @@
         "io.lmms.LMMS",
         "net.fsuae.FS-UAE",
         "org.electrum.electrum",
+        "org.openshot.OpenShot",
         "org.pairinteraction.Pairinteraction",
         "org.syntalos.syntalos",
         "org.torproject.torbrowser-launcher",
@@ -66,7 +67,6 @@
         "org.frescobaldi.Frescobaldi",
         "org.groestlcoin.electrum-grs",
         "org.linuxshowplayer.LinuxShowPlayer",
-        "org.openshot.OpenShot",
         "org.pymol.PyMOL",
         "org.qgis.qgis",
         "org.spyder_ide.spyder"

@@ -18,7 +18,8 @@
         "io.itch.domestique_baston.domestique_baston"
     ],
     "4.3": [
-        "io.itch.domestique_baston.java_jolt"
+        "io.itch.domestique_baston.java_jolt",
+        "page.codeberg.maerchenfeeimgarten.AntiBillard"
     ],
     "3.1-23.08": [
         "io.itch.keyikedalube_ndang.Type-Off"

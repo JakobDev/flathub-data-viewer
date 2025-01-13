@@ -17,6 +17,7 @@
     "fi.mooc.tmc.tmc-cli-rust",
     "fr.inria.corese.CoreseCommand",
     "io.github.bkbilly.lnxlink",
+    "io.github.coccinelle.coccinelle",
     "io.github.erkin.ponysay",
     "io.github.foxxmd.multiscrobbler",
     "io.github.go_musicfox.go-musicfox",

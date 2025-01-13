@@ -49,6 +49,7 @@
         "com.unity.UnityHub",
         "dev.overlayed.Overlayed",
         "dev.pulsar_edit.Pulsar",
+        "io.github.coccinelle.coccinelle",
         "io.github.everestapi.Olympus",
         "org.apache.netbeans",
         "org.geany.Geany",

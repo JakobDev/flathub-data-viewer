@@ -324,6 +324,7 @@
         "org.gnome.Fractal",
         "org.gnome.Polari",
         "org.gnu.emacs",
+        "org.gnunet.Messenger",
         "org.hedgewars.Hedgewars",
         "org.ioquake3.ioquake3",
         "org.kartkrew.RingRacers",

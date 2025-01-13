@@ -1,6 +1,7 @@
 [
     "eu.fortysixandtwo.chessclock",
     "io.github.fsobolev.TimeSwitch",
+    "io.github.vallabhvidy.CubeTimer",
     "io.unobserved.furtherance",
     "org.gnome.BreakTimer",
     "org.gnome.clocks",

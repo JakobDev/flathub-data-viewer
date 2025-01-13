@@ -212,6 +212,7 @@
         "org.firestormviewer.FirestormViewer",
         "org.gajim.Gajim",
         "org.gnome.Fractal",
+        "org.gnunet.Messenger",
         "org.ioquake3.ioquake3",
         "org.jacktrip.JackTrip",
         "org.okstar.ok-msg",

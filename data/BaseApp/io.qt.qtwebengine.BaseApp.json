@@ -4,6 +4,7 @@
         "com.github.jmlich.geotagging",
         "com.riverbankcomputing.PyQt.BaseApp",
         "de.akaflieg_freiburg.enroute",
+        "in.org.dawn.wikilynx",
         "io.github.foldynl.QLog",
         "io.github.martinrotter.rssguard",
         "io.github.streetpea.Chiaki4deck",
@@ -40,8 +41,6 @@
         "com.ktechpit.whatsie",
         "com.stremio.Stremio",
         "net.mediaarea.MediaConch",
-        "net.sonic_pi.SonicPi",
-        "net.sourceforge.qtpfsgui.LuminanceHDR",
         "org.kde.amarok",
         "org.kde.kmymoney",
         "org.kde.labplot2",
@@ -70,6 +69,8 @@
     ],
     "5.15-24.08": [
         "fun.vnote.app.VNote",
+        "net.sonic_pi.SonicPi",
+        "net.sourceforge.qtpfsgui.LuminanceHDR",
         "org.recoll.recoll",
         "org.yacas.yacas-gui"
     ],
