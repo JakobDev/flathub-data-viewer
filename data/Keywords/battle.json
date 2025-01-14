@@ -1,4 +1,5 @@
 [
     "net.sourceforge.lgames.LGeneral",
+    "net.zdechov.app.Tunneler",
     "org.robocode.Robocode"
 ]
