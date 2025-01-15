@@ -5,6 +5,19 @@
     "org.mpris.MediaPlayer2.ytmdesktop": [
         "app.ytmdesktop.ytmdesktop"
     ],
+    "org.mpris.MediaPlayer2.firefox.*": [
+        "app.zen_browser.zen",
+        "com.humatarayici.od",
+        "io.gitlab.librewolf-community",
+        "net.mullvad.MullvadBrowser",
+        "net.waterfox.waterfox",
+        "one.ablaze.floorp",
+        "org.garudalinux.firedragon",
+        "org.mozilla.firefox"
+    ],
+    "org.mozilla.zen.*": [
+        "app.zen_browser.zen"
+    ],
     "org.mpris.MediaPlayer2.rune_player.*": [
         "ci.not.Rune"
     ],
@@ -113,16 +126,6 @@
     ],
     "org.mozilla.huma.*": [
         "com.humatarayici.od"
-    ],
-    "org.mpris.MediaPlayer2.firefox.*": [
-        "com.humatarayici.od",
-        "io.github.zen_browser.zen",
-        "io.gitlab.librewolf-community",
-        "net.mullvad.MullvadBrowser",
-        "net.waterfox.waterfox",
-        "one.ablaze.floorp",
-        "org.garudalinux.firedragon",
-        "org.mozilla.firefox"
     ],
     "org.mpris.MediaPlayer2.mpv.*": [
         "com.ktechpit.orion",
@@ -263,9 +266,6 @@
     ],
     "org.mpris.MediaPlayer2.QMPlay2.*": [
         "io.github.zaps166.QMPlay2"
-    ],
-    "org.mozilla.zen.*": [
-        "io.github.zen_browser.zen"
     ],
     "org.mpris.MediaPlayer2.Goodvibes": [
         "io.gitlab.Goodvibes"

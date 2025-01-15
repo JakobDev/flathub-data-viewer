@@ -16,6 +16,9 @@
         "org.sasview.sasview",
         "xyz.hyperplay.HyperPlay"
     ],
+    ".zen": [
+        "app.zen_browser.zen"
+    ],
     ".receitanet": [
         "br.gov.fazenda.receita.irpf2022",
         "br.gov.fazenda.receita.irpf2023",
@@ -469,9 +472,6 @@
     ],
     ".magicseteditor": [
         "io.github.twanvl.MagicSetEditor2"
-    ],
-    ".zen": [
-        "io.github.zen_browser.zen"
     ],
     ".libretile": [
         "io.gitlab.celleron56.libretile"

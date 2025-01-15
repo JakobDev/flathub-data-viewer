@@ -1,12 +1,12 @@
 {
+    "24.08": [
+        "app.zen_browser.zen",
+        "net.mullvad.MullvadBrowser",
+        "org.garudalinux.firedragon"
+    ],
     "23.08": [
         "com.humatarayici.od",
         "org.mozilla.Thunderbird",
         "org.mozilla.firefox"
-    ],
-    "24.08": [
-        "io.github.zen_browser.zen",
-        "net.mullvad.MullvadBrowser",
-        "org.garudalinux.firedragon"
     ]
 }

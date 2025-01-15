@@ -4,6 +4,7 @@
     ],
     "org.freedesktop.NetworkManager": [
         "app.bluebubbles.BlueBubbles",
+        "app.zen_browser.zen",
         "com.borgbase.Vorta",
         "com.github.Matoking.protontricks",
         "com.github.gabutakut.gabutdm",
@@ -16,7 +17,6 @@
         "io.github.aggalex.Wineglass",
         "io.github.bkbilly.lnxlink",
         "io.github.prateekmedia.pstube",
-        "io.github.zen_browser.zen",
         "io.gitlab.librewolf-community",
         "io.kapsa.drive",
         "io.missioncenter.MissionCenter",

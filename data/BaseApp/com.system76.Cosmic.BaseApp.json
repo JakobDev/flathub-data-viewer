@@ -6,6 +6,7 @@
         "dev.edfloreshz.Tasks",
         "fr.sgued.bodev",
         "io.github.cosmic_utils.Examine",
-        "io.github.elevenhsoft.WebApps"
+        "io.github.elevenhsoft.WebApps",
+        "io.github.pixeldoted.cosmic-ext-color-picker"
     ]
 }

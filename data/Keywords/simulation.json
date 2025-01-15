@@ -6,6 +6,7 @@
     "io.openrct2.OpenRCT2",
     "net.longturn.freeciv21",
     "net.zdechov.app.C-evo",
+    "net.zdechov.app.TransLines",
     "net.zdechov.app.xTactics",
     "org.flightgear.FlightGear",
     "org.freeciv.gtk322",

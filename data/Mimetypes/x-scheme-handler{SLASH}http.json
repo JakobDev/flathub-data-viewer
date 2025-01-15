@@ -1,4 +1,5 @@
 [
+    "app.zen_browser.zen",
     "com.brave.Browser",
     "com.github.fries1234.ncsa-mosaic",
     "com.google.Chrome",
@@ -12,7 +13,6 @@
     "engineer.atlas.Nyxt",
     "io.github.OkuBrowser.oku",
     "io.github.ungoogled_software.ungoogled_chromium",
-    "io.github.zen_browser.zen",
     "io.gitlab.librewolf-community",
     "io.wavebox.Wavebox",
     "ml.prevete.Daty",

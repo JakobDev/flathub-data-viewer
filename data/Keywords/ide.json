@@ -5,5 +5,6 @@
     "com.jetbrains.IntelliJ-IDEA-Community",
     "com.jetbrains.IntelliJ-IDEA-Ultimate",
     "com.jetbrains.RustRover",
+    "net.zdechov.app.LazFuck",
     "org.texstudio.TeXstudio"
 ]

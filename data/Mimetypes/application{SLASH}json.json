@@ -1,10 +1,10 @@
 [
+    "app.zen_browser.zen",
     "com.adilhanney.saber",
     "com.humatarayici.od",
     "cz.zeropage.Formiko",
     "io.atom.Atom",
     "io.github.OkuBrowser.oku",
-    "io.github.zen_browser.zen",
     "io.gitlab.librewolf-community",
     "net.blockbench.Blockbench",
     "net.mullvad.MullvadBrowser",

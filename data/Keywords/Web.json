@@ -1,9 +1,9 @@
 [
+    "app.zen_browser.zen",
     "com.belmoussaoui.ReadItLater",
     "com.humatarayici.od",
     "com.pinegrow.Pinegrow",
     "engineer.atlas.Nyxt",
-    "io.github.zen_browser.zen",
     "net.mullvad.MullvadBrowser",
     "org.mozilla.firefox"
 ]
