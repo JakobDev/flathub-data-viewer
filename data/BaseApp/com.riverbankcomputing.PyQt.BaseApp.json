@@ -2,7 +2,6 @@
     "6.7": [
         "app.bbsync.BlackboardSync",
         "app.polychromatic.controller",
-        "com.borgbase.Vorta",
         "de.nagstamon.nagstamon",
         "io.github.FedericoCalzoni.EventRecorder",
         "io.github.jordanl2.ModularCalculator",
@@ -16,18 +15,8 @@
         "pw.mmk.OpenFreebuds",
         "rocks.syng.Syng"
     ],
-    "5.15-24.08": [
-        "com.github.arminstraub.krop",
-        "io.lmms.LMMS",
-        "net.fsuae.FS-UAE",
-        "org.electrum.electrum",
-        "org.openshot.OpenShot",
-        "org.pairinteraction.Pairinteraction",
-        "org.syntalos.syntalos",
-        "org.torproject.torbrowser-launcher",
-        "studio.kx.carla"
-    ],
     "6.8": [
+        "com.borgbase.Vorta",
         "com.github.git_cola.git-cola",
         "com.rtosta.zapzap",
         "com.sigil_ebook.Sigil",
@@ -50,6 +39,17 @@
         "page.codeberg.JakobDev.jdReplace",
         "page.codeberg.JakobDev.jdSimpleAutostart",
         "page.codeberg.JakobDev.jdTextEdit"
+    ],
+    "5.15-24.08": [
+        "com.github.arminstraub.krop",
+        "io.lmms.LMMS",
+        "net.fsuae.FS-UAE",
+        "org.electrum.electrum",
+        "org.openshot.OpenShot",
+        "org.pairinteraction.Pairinteraction",
+        "org.syntalos.syntalos",
+        "org.torproject.torbrowser-launcher",
+        "studio.kx.carla"
     ],
     "5.15-23.08": [
         "com.icanblink.blink",

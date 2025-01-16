@@ -246,7 +246,6 @@
         "io.github.aggalex.Wineglass",
         "io.github.am2r_community_developers.Atomic",
         "io.github.babaissarkar.ssplot",
-        "io.github.brunofin.Cohesion",
         "io.github.cmus.cmus",
         "io.github.coccinelle.coccinelle",
         "io.github.dagargo.Elektroid",
@@ -506,7 +505,6 @@
         "vet.rsc.OpenRSC.Launcher",
         "xyz.audiostellar.AudioStellar",
         "xyz.hyperplay.HyperPlay",
-        "xyz.rescribe.rescribe",
         "xyz.safeworlds.midiconn",
         "xyz.splashmapper.Splash",
         "xyz.woxel.Woxel",
@@ -748,6 +746,7 @@
         "io.github.accessory.minus_games_gui",
         "io.github.benini.scid",
         "io.github.betaflight.BetaflightConfigurator",
+        "io.github.brunofin.Cohesion",
         "io.github.cortex_command_community.Cortex-Command-Community-Project",
         "io.github.cosmic_utils.Examine",
         "io.github.cxong.cdogs-sdl",
@@ -1034,7 +1033,8 @@
         "us.ihmc.cmap.CmapTools",
         "us.materialio.Materialious",
         "us.zoom.Zoom",
-        "xyz.armcord.ArmCord"
+        "xyz.armcord.ArmCord",
+        "xyz.rescribe.rescribe"
     ],
     "20.08": [
         "app.midterm.MidtermDesktop",
