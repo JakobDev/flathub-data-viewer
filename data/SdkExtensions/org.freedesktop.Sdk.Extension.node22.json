@@ -1,5 +1,6 @@
 [
     "chat.revolt.RevoltDesktop",
     "io.github.vemonet.EmojiMart",
+    "net.ankiweb.Anki",
     "org.jellyfin.JellyfinServer"
 ]

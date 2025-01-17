@@ -26,6 +26,7 @@
     ],
     "3.6": [
         "net.hhoney.rota",
+        "net.hhoney.tinycrate",
         "org.simondalvai.ball2box",
         "org.simondalvai.pocket-broomball"
     ],

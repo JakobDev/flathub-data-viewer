@@ -1,6 +1,5 @@
 [
     "ca.parallel_launcher.ParallelLauncher",
     "net.sourceforge.m64py.M64Py",
-    "org.ryujinx.Ryujinx",
     "ua.org.brezblock.q4wine"
 ]
