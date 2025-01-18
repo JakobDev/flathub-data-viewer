@@ -23,6 +23,7 @@
     "com.okta.developer.CLI",
     "com.seafile.Client",
     "com.virustotal.VirusTotalUploader",
+    "com.wings3d.WINGS",
     "com.yktoo.ymuse",
     "dev.lapce.lapce",
     "dev.serebit.Waycheck",

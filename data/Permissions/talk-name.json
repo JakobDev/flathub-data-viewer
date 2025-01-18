@@ -3460,6 +3460,7 @@
         "org.kde.neochat",
         "org.kde.okular.kirigami",
         "org.kde.okular",
+        "org.kde.optiimage",
         "org.kde.palapeli",
         "org.kde.parley",
         "org.kde.picmi",
@@ -3481,6 +3482,7 @@
         "org.prismlauncher.PrismLauncher",
         "org.qownnotes.QOwnNotes",
         "org.radare.iaito",
+        "org.rncbc.qtractor",
         "org.strawberrymusicplayer.strawberry",
         "org.texstudio.TeXstudio",
         "page.codeberg.JakobDev.jdAnimatedImageEditor",
@@ -3715,9 +3717,6 @@
         "social.whalebird.WhalebirdDesktop",
         "vn.hoabinh.quan.CoBang",
         "work.openpaper.Paperwork"
-    ],
-    "com.bambulab.BambuStudio.InstanceCheck.*": [
-        "com.bambulab.BambuStudio"
     ],
     "org.freedesktop.Flatpak.*": [
         "com.borgbase.Vorta",
